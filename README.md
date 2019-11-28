@@ -1,5 +1,5 @@
 # BioPortal Ontology Partitioning
-This repository is used to summarize and report the evaluation of partitionability of BioPortal ontologies. The preliminary results of this study is published in 12th International Conference on Semantic Web Applications and Tools for Health Care and Life [SWAT4LSHC] (http://www.swat4ls.org/)
+This repository is used to summarize and report the evaluation of partitionability of BioPortal ontologies. The preliminary results of this study is published in 12th International Conference on Semantic Web Applications and Tools for Health Care and Life (SWAT4LSHC) (http://www.swat4ls.org/)
 The pipeline used for the study contains the following steps:
  * get all accessible ontologies using the BioPortal API [http://data.bioontology.org/documentation],
  * transform these ontologies into OWL or OBO formats using OWL API [http://owlcs.github.io/owlapi/],
