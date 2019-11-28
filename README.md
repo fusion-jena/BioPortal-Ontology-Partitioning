@@ -15,3 +15,4 @@ that should be in one module, and iii) a distributed ontology is created based o
 3. The atomic decomposition (AD) is a compact representation of modular structure of the ontology. AD of an ontology O is a pair consisting of a set of atoms and a directed dependency relation over these atoms, where an atom is a maximal set of axioms which are tightly bound to each other. For computing Atomic Decompositions we used the off-the-shelf implementation provided by Del Vescovo and Palmisano. The implementation is available via Maven Central (maven.org) with an artifactId of owlapitools-atomicdecomposition.
 The current implementation of the AD approach supports extracting three types of syntactic-locality-based modules: the bottom module, the top module, and the star module
 
+Acknowledgments: This work has been mostly funded by the Deutsche Forschungsgemeinschaft (DFG) as part of the CRC 1076 AquaDiva [http://www.aquadiva.uni-jena.de/]
