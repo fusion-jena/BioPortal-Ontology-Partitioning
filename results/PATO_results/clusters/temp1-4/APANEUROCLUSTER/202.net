@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Arteriosclerosis" ellipse
+2 "Atherosclerosis" ellipse
+*Arcs
+1 2 0.2274264 l "distance"
+2 1 0.2823590 l "distance"
+1 2 0.2274264 l "distance"
+2 1 0.2823590 l "distance"
+1 2 0.2274264 l "distance"
+2 1 0.2823590 l "distance"
+*Edges

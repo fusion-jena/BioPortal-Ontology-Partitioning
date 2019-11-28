@@ -1,0 +1,26 @@
+*Vertices 3
+1 "construction" ellipse
+2 "technosphere" ellipse
+3 "construction process" ellipse
+*Arcs
+1 3 0.2206942 l "definition"
+3 1 0.2541339 l "definition"
+1 2 0.1401314 l "definition"
+2 1 0.1942154 l "definition"
+2 1 0.1942154 l "definition"
+1 2 0.1401314 l "definition"
+3 1 0.2541339 l "definition"
+1 3 0.2206942 l "definition"
+1 3 0.2206942 l "substring"
+3 1 0.2541339 l "substring"
+1 3 0.2206942 l "definition"
+3 1 0.2541339 l "definition"
+1 2 0.1401314 l "definition"
+2 1 0.1942154 l "definition"
+2 1 0.1942154 l "definition"
+1 2 0.1401314 l "definition"
+3 1 0.2541339 l "definition"
+1 3 0.2206942 l "definition"
+1 3 0.2206942 l "substring"
+3 1 0.2541339 l "substring"
+*Edges

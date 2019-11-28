@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Sub-Investigator Curriculum Vitae" ellipse
+2 "Sub-Investigator" ellipse
+*Arcs
+1 2 0.5630553 l "substring"
+2 1 0.5750184 l "substring"
+1 2 0.5630553 l "substring"
+2 1 0.5750184 l "substring"
+1 2 0.5630553 l "substring"
+2 1 0.5750184 l "substring"
+1 2 0.5630553 l "substring"
+2 1 0.5750184 l "substring"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "tumor necrosis factor" ellipse
+2 "anti-tumor necrosis factor therapy" ellipse
+*Arcs
+1 2 0.3031639 l "substring"
+2 1 0.5487267 l "substring"
+1 2 0.3031639 l "substring"
+2 1 0.5487267 l "substring"
+1 2 0.3031639 l "substring"
+2 1 0.5487267 l "substring"
+*Edges

@@ -1,0 +1,39 @@
+*Vertices 6
+1 "airway inflammation/limitation" ellipse
+2 "airway hyper responsiveness to direct or indirect stimuli" ellipse
+3 "variable reversible airflow obstruction" ellipse
+4 "bronchial hyperresponsiveness" ellipse
+5 "obstructive airway pattern (reversible)" ellipse
+6 "bronchoconstriction" ellipse
+*Arcs
+2 1 0.5138433 l "isa"
+1 2 0.0773562 l "isa"
+3 1 0.5141734 l "isa"
+1 3 0.0773613 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1021511 l "isa"
+5 1 0.5141734 l "isa"
+1 5 0.0773613 l "isa"
+6 1 0.5138741 l "isa"
+1 6 0.0773565 l "isa"
+2 1 0.5138433 l "isa"
+1 2 0.0773562 l "isa"
+3 1 0.5141734 l "isa"
+1 3 0.0773613 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1021511 l "isa"
+5 1 0.5141734 l "isa"
+1 5 0.0773613 l "isa"
+6 1 0.5138741 l "isa"
+1 6 0.0773565 l "isa"
+2 1 0.5138433 l "isa"
+1 2 0.0773562 l "isa"
+3 1 0.5141734 l "isa"
+1 3 0.0773613 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1021511 l "isa"
+5 1 0.5141734 l "isa"
+1 5 0.0773613 l "isa"
+6 1 0.5138741 l "isa"
+1 6 0.0773565 l "isa"
+*Edges

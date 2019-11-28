@@ -1,0 +1,39 @@
+*Vertices 10
+1 "MD_Scope" ellipse
+2 "MD_Constraints" ellipse
+3 "MD_LegalConstraints" ellipse
+4 "MD_RestrictionCode" ellipse
+5 "constraintApplicationScope"
+6 "reference"
+7 "useLimitation"
+8 "accessConstraints"
+9 "useConstraints"
+10 "otherConstraints"
+*Arcs
+3 2 0.1000000 l "isa"
+2 3 0.0454545 l "isa"
+2 1 0.0909091 l "constraintApplicationScope"
+1 2 1.0000000 l "constraintApplicationScope"
+3 4 0.3000000 l "accessConstraints"
+4 3 0.4285714 l "accessConstraints"
+3 4 0.3000000 l "useConstraints"
+4 3 0.4285714 l "useConstraints"
+2 5 0.0454545 l "definition"
+5 2 1.0000000 l "definition"
+2 1 0.0909091 l "definition"
+1 2 1.0000000 l "definition"
+2 6 0.0454545 l "definition"
+6 2 1.0000000 l "definition"
+2 7 0.0454545 l "definition"
+7 2 1.0000000 l "definition"
+3 4 0.3000000 l "definition"
+4 3 0.4285714 l "definition"
+3 8 0.1000000 l "definition"
+8 3 1.0000000 l "definition"
+3 9 0.1000000 l "definition"
+9 3 0.5000000 l "definition"
+3 10 0.1000000 l "definition"
+10 3 1.0000000 l "definition"
+2 9 0.0454545 l "distance"
+9 2 0.5000000 l "distance"
+*Edges

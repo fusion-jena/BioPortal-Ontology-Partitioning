@@ -1,0 +1,18 @@
+*Vertices 5
+1 "viscus" ellipse
+2 "abdomen element" ellipse
+3 "abdominal segment element" ellipse
+4 "trunk region element" ellipse
+5 "abdominal viscera" ellipse
+*Arcs
+1 4 0.2000000 l "isa"
+4 1 0.1428571 l "isa"
+2 3 0.3333333 l "isa"
+3 2 0.5000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1428571 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.2000000 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.3333333 l "isa"
+*Edges

@@ -1,0 +1,36 @@
+*Vertices 3
+1 "SGK494" ellipse
+2 "STK19" ellipse
+3 "STK40" ellipse
+*Arcs
+1 2 0.2687311 l "distance"
+2 1 0.0373790 l "distance"
+1 3 0.2749839 l "distance"
+3 1 0.0525478 l "distance"
+2 3 0.0261964 l "distance"
+3 2 0.0359897 l "distance"
+1 2 0.2687311 l "distance"
+2 1 0.0373790 l "distance"
+1 3 0.2749839 l "distance"
+3 1 0.0525478 l "distance"
+2 3 0.0261964 l "distance"
+3 2 0.0359897 l "distance"
+1 2 0.2687311 l "distance"
+2 1 0.0373790 l "distance"
+1 3 0.2749839 l "distance"
+3 1 0.0525478 l "distance"
+2 3 0.0261964 l "distance"
+3 2 0.0359897 l "distance"
+1 2 0.2687311 l "distance"
+2 1 0.0373790 l "distance"
+1 3 0.2749839 l "distance"
+3 1 0.0525478 l "distance"
+2 3 0.0261964 l "distance"
+3 2 0.0359897 l "distance"
+1 2 0.2687311 l "distance"
+2 1 0.0373790 l "distance"
+1 3 0.2749839 l "distance"
+3 1 0.0525478 l "distance"
+2 3 0.0261964 l "distance"
+3 2 0.0359897 l "distance"
+*Edges

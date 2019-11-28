@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Mongolian" ellipse
+2 "Mongolian" ellipse
+*Arcs
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

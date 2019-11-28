@@ -1,0 +1,18 @@
+*Vertices 5
+1 "export" ellipse
+2 "import" ellipse
+3 "uptake" ellipse
+4 "transport" ellipse
+5 "secretion" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.5000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.5000000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.5000000 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

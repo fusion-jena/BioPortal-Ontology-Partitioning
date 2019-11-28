@@ -1,0 +1,23 @@
+*Vertices 2
+1 "NeutralGas" ellipse
+2 "Neutral"
+*Arcs
+1 2 0.5253745 l "definition"
+2 1 0.7460352 l "definition"
+1 2 0.5253745 l "substring"
+2 1 0.7460352 l "substring"
+1 2 0.5253745 l "distance"
+2 1 0.7460352 l "distance"
+1 2 0.5253745 l "definition"
+2 1 0.7460352 l "definition"
+1 2 0.5253745 l "substring"
+2 1 0.7460352 l "substring"
+1 2 0.5253745 l "distance"
+2 1 0.7460352 l "distance"
+1 2 0.5253745 l "definition"
+2 1 0.7460352 l "definition"
+1 2 0.5253745 l "substring"
+2 1 0.7460352 l "substring"
+1 2 0.5253745 l "distance"
+2 1 0.7460352 l "distance"
+*Edges

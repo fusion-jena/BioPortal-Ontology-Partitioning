@@ -1,0 +1,13 @@
+*Vertices 2
+1 "RegionOfPeritoneum" ellipse
+2 "RegionOfSerousMembrane" ellipse
+*Arcs
+1 2 0.2190873 l "isa"
+2 1 0.2228922 l "isa"
+1 2 0.2190873 l "isa"
+2 1 0.2228922 l "isa"
+1 2 0.2190873 l "isa"
+2 1 0.2228922 l "isa"
+1 2 0.2190873 l "isa"
+2 1 0.2228922 l "isa"
+*Edges

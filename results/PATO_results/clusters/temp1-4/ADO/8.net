@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Ginkgo biloba plant" ellipse
+2 "curcumin plant" ellipse
+3 "plant" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.0909091 l "isa"
+2 3 0.6666667 l "isa"
+3 2 0.0909091 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.0909091 l "substring"
+2 3 0.6666667 l "substring"
+3 2 0.0909091 l "substring"
+*Edges

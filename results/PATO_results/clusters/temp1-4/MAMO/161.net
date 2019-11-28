@@ -1,0 +1,35 @@
+*Vertices 4
+1 "dendritic cell" ellipse
+2 "Langerhans cell" ellipse
+3 "dendritic cell" ellipse
+4 "Langerhans cell" ellipse
+*Arcs
+2 1 0.2874517 l "isa"
+1 2 0.1603557 l "isa"
+2 1 0.2874517 l "isa"
+1 2 0.1603557 l "isa"
+2 1 0.2874517 l "isa"
+1 2 0.1603557 l "isa"
+4 3 0.2374417 l "isa"
+3 4 0.2422192 l "isa"
+1 3 0.2475044 l "substring"
+3 1 0.5236354 l "substring"
+2 4 0.4735349 l "substring"
+4 2 0.5478553 l "substring"
+1 3 0.2475044 l "distance"
+3 1 0.5236354 l "distance"
+2 4 0.4735349 l "distance"
+4 2 0.5478553 l "distance"
+2 1 0.2874517 l "isa"
+1 2 0.1603557 l "isa"
+4 3 0.2374417 l "isa"
+3 4 0.2422192 l "isa"
+1 3 0.2475044 l "substring"
+3 1 0.5236354 l "substring"
+2 4 0.4735349 l "substring"
+4 2 0.5478553 l "substring"
+1 3 0.2475044 l "distance"
+3 1 0.5236354 l "distance"
+2 4 0.4735349 l "distance"
+4 2 0.5478553 l "distance"
+*Edges

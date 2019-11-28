@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Activity" ellipse
+2 "PatientActivity" ellipse
+3 "PhysicianActivity" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 0.6666667 l "isa"
+1 3 0.2500000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 0.6666667 l "substring"
+*Edges

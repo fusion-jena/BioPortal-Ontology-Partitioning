@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Generalized Linear Models" ellipse
+2 "Regression" ellipse
+*Arcs
+1 2 0.1162439 l "isa"
+2 1 0.1299836 l "isa"
+1 2 0.1162439 l "isa"
+2 1 0.1299836 l "isa"
+*Edges

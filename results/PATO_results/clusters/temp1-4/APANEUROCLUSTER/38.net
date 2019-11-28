@@ -1,0 +1,11 @@
+*Vertices 2
+1 "risk factors" ellipse
+2 "Risk_Factors" ellipse
+*Arcs
+1 2 0.2210898 l "distance"
+2 1 0.5300832 l "distance"
+1 2 0.2210898 l "distance"
+2 1 0.5300832 l "distance"
+1 2 0.2210898 l "distance"
+2 1 0.5300832 l "distance"
+*Edges

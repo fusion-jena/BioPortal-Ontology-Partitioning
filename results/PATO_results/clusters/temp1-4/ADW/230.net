@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Age standardized mortality rate" ellipse
+2 "Standardized mortality rate" ellipse
+3 "Standardized mortality ratio" ellipse
+*Arcs
+1 2 0.2881010 l "isa"
+2 1 0.2446379 l "isa"
+3 2 0.3782040 l "isa"
+2 3 0.2509511 l "isa"
+1 2 0.2881010 l "substring"
+2 1 0.2446379 l "substring"
+2 3 0.2509511 l "distance"
+3 2 0.3782040 l "distance"
+1 2 0.2881010 l "isa"
+2 1 0.2446379 l "isa"
+3 2 0.3782040 l "isa"
+2 3 0.2509511 l "isa"
+1 2 0.2881010 l "substring"
+2 1 0.2446379 l "substring"
+2 3 0.2509511 l "distance"
+3 2 0.3782040 l "distance"
+*Edges

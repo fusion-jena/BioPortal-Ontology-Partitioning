@@ -1,0 +1,19 @@
+*Vertices 2
+1 "American White Park" ellipse
+2 "White Park" ellipse
+*Arcs
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+1 2 0.5550308 l "substring"
+2 1 0.6928133 l "substring"
+*Edges

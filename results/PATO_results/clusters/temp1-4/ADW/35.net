@@ -1,0 +1,45 @@
+*Vertices 6
+1 "FTLD-TDP temporal lobe" ellipse
+2 "Temporal lobe" ellipse
+3 "inferior temporal lobe" ellipse
+4 "lateral temporal cortex" ellipse
+5 "medial temporal lobe" ellipse
+6 "posterior temporal lobe" ellipse
+*Arcs
+1 2 0.5685279 l "isa"
+2 1 0.1806090 l "isa"
+3 2 0.7619048 l "isa"
+2 3 0.2016101 l "isa"
+4 2 0.3642241 l "isa"
+2 4 0.0819041 l "isa"
+5 2 0.7619048 l "isa"
+2 5 0.2016101 l "isa"
+6 2 0.7619048 l "isa"
+2 6 0.2016101 l "isa"
+1 2 0.5685279 l "substring"
+2 1 0.1806090 l "substring"
+2 3 0.2016101 l "substring"
+3 2 0.7619048 l "substring"
+2 5 0.2016101 l "substring"
+5 2 0.7619048 l "substring"
+2 6 0.2016101 l "substring"
+6 2 0.7619048 l "substring"
+1 2 0.5685279 l "isa"
+2 1 0.1806090 l "isa"
+3 2 0.7619048 l "isa"
+2 3 0.2016101 l "isa"
+4 2 0.3642241 l "isa"
+2 4 0.0819041 l "isa"
+5 2 0.7619048 l "isa"
+2 5 0.2016101 l "isa"
+6 2 0.7619048 l "isa"
+2 6 0.2016101 l "isa"
+1 2 0.5685279 l "substring"
+2 1 0.1806090 l "substring"
+2 3 0.2016101 l "substring"
+3 2 0.7619048 l "substring"
+2 5 0.2016101 l "substring"
+5 2 0.7619048 l "substring"
+2 6 0.2016101 l "substring"
+6 2 0.7619048 l "substring"
+*Edges

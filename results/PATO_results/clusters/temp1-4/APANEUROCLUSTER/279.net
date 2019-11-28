@@ -1,0 +1,21 @@
+*Vertices 2
+1 "CRYOG" ellipse
+2 "IRBOW" ellipse
+*Arcs
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+1 2 0.0515373 l "distance"
+2 1 0.0742336 l "distance"
+*Edges

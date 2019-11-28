@@ -1,0 +1,36 @@
+*Vertices 5
+1 "Intrinsic vs Extrinsic" ellipse
+2 "Intrinsic" ellipse
+3 "Quantity" ellipse
+4 "Extrinsic" ellipse
+5 "Absolute" ellipse
+*Arcs
+2 1 0.4269377 l "isa"
+1 2 0.3925234 l "isa"
+3 5 0.2540984 l "isa"
+5 3 0.3391685 l "isa"
+4 1 0.7076923 l "isa"
+1 4 0.4299065 l "isa"
+5 2 0.3326039 l "isa"
+2 5 0.1931385 l "isa"
+1 2 0.3925234 l "substring"
+2 1 0.4269377 l "substring"
+1 4 0.4299065 l "substring"
+4 1 0.7076923 l "substring"
+2 4 0.1931385 l "distance"
+4 2 0.2923077 l "distance"
+2 1 0.4269377 l "isa"
+1 2 0.3925234 l "isa"
+3 5 0.2540984 l "isa"
+5 3 0.3391685 l "isa"
+4 1 0.7076923 l "isa"
+1 4 0.4299065 l "isa"
+5 2 0.3326039 l "isa"
+2 5 0.1931385 l "isa"
+1 2 0.3925234 l "substring"
+2 1 0.4269377 l "substring"
+1 4 0.4299065 l "substring"
+4 1 0.7076923 l "substring"
+2 4 0.1931385 l "distance"
+4 2 0.2923077 l "distance"
+*Edges

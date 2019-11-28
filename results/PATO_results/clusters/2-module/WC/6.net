@@ -1,0 +1,19 @@
+*Vertices 6
+1 "correct" ellipse
+2 "elaborate" ellipse
+3 "expand" ellipse
+4 "incorrect interpretation of existing knowledge" ellipse
+5 "intention" ellipse
+6 "simplify" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.1428571 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1428571 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1428571 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1428571 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "average value" ellipse
+2 "averaging data transformation" ellipse
+*Arcs
+1 2 0.3620182 l "definition"
+2 1 0.1739247 l "definition"
+2 1 0.1739247 l "definition"
+1 2 0.3620182 l "definition"
+1 2 0.3620182 l "definition"
+2 1 0.1739247 l "definition"
+2 1 0.1739247 l "definition"
+1 2 0.3620182 l "definition"
+*Edges

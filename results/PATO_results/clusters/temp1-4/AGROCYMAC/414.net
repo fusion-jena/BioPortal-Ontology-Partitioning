@@ -1,0 +1,44 @@
+*Vertices 5
+1 "nitrogen oxoanion" ellipse
+2 "pnictogen oxoanion" ellipse
+3 "chalcogen oxoanion" ellipse
+4 "oxoanion" ellipse
+5 "carbon oxoanion" ellipse
+*Arcs
+1 2 0.2727436 l "isa"
+2 1 0.2177878 l "isa"
+2 4 0.2054416 l "isa"
+4 2 0.1160159 l "isa"
+3 4 0.3021715 l "isa"
+4 3 0.1203186 l "isa"
+5 4 0.2341333 l "isa"
+4 5 0.1171314 l "isa"
+1 4 0.1213740 l "substring"
+4 1 0.0547310 l "substring"
+2 4 0.2054416 l "substring"
+4 2 0.1160159 l "substring"
+3 4 0.3021715 l "substring"
+4 3 0.1203186 l "substring"
+4 5 0.1171314 l "substring"
+5 4 0.2341333 l "substring"
+1 2 0.2727436 l "distance"
+2 1 0.2177878 l "distance"
+1 2 0.2727436 l "isa"
+2 1 0.2177878 l "isa"
+2 4 0.2054416 l "isa"
+4 2 0.1160159 l "isa"
+3 4 0.3021715 l "isa"
+4 3 0.1203186 l "isa"
+5 4 0.2341333 l "isa"
+4 5 0.1171314 l "isa"
+1 4 0.1213740 l "substring"
+4 1 0.0547310 l "substring"
+2 4 0.2054416 l "substring"
+4 2 0.1160159 l "substring"
+3 4 0.3021715 l "substring"
+4 3 0.1203186 l "substring"
+4 5 0.1171314 l "substring"
+5 4 0.2341333 l "substring"
+1 2 0.2727436 l "distance"
+2 1 0.2177878 l "distance"
+*Edges

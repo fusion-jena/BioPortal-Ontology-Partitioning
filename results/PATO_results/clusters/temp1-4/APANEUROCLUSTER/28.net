@@ -1,0 +1,32 @@
+*Vertices 5
+1 "Catatonic_Schizophrenia" ellipse
+2 "Childhood_Schizophrenia" ellipse
+3 "Process_Schizophrenia" ellipse
+4 "Schizophrenia" ellipse
+5 "Schizophrenia_(Disorganized_Type)" ellipse
+*Arcs
+1 4 0.5210937 l "substring"
+4 1 0.1220633 l "substring"
+2 4 0.5210937 l "substring"
+4 2 0.1220633 l "substring"
+3 4 0.5210937 l "substring"
+4 3 0.1220633 l "substring"
+4 5 0.1220633 l "substring"
+5 4 0.5210937 l "substring"
+1 4 0.5210937 l "substring"
+4 1 0.1220633 l "substring"
+2 4 0.5210937 l "substring"
+4 2 0.1220633 l "substring"
+3 4 0.5210937 l "substring"
+4 3 0.1220633 l "substring"
+4 5 0.1220633 l "substring"
+5 4 0.5210937 l "substring"
+1 4 0.5210937 l "substring"
+4 1 0.1220633 l "substring"
+2 4 0.5210937 l "substring"
+4 2 0.1220633 l "substring"
+3 4 0.5210937 l "substring"
+4 3 0.1220633 l "substring"
+4 5 0.1220633 l "substring"
+5 4 0.5210937 l "substring"
+*Edges

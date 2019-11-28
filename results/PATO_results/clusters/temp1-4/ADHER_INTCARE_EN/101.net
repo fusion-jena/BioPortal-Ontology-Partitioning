@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Ability_to_Convey_Appropriate_Level_of_Detail" ellipse
+2 "Ability_to_Convey_Correct_Information_" ellipse
+3 "Ability_to_Convey_Feelings" ellipse
+4 "Ability_to_Convey_Information" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2676471 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2676471 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2676471 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2676471 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2676471 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2676471 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Discrimination" ellipse
+2 "Suffered_From_Discrimination_Because_of_Race_Sexual_Orientation_Place_of_Birth_Disability_or_Religion" ellipse
+*Arcs
+2 1 0.1047410 l "definition"
+1 2 0.6908442 l "definition"
+1 2 0.6908442 l "substring"
+2 1 0.1047410 l "substring"
+2 1 0.1047410 l "definition"
+1 2 0.6908442 l "definition"
+1 2 0.6908442 l "substring"
+2 1 0.1047410 l "substring"
+*Edges

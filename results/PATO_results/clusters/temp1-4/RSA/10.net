@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Rest" ellipse
+2 "Resting splinting" ellipse
+3 "current use of resting hand splint" ellipse
+*Arcs
+1 2 0.2772474 l "substring"
+2 1 0.5685261 l "substring"
+1 3 0.2772474 l "substring"
+3 1 0.5685261 l "substring"
+1 2 0.2772474 l "substring"
+2 1 0.5685261 l "substring"
+1 3 0.2772474 l "substring"
+3 1 0.5685261 l "substring"
+1 2 0.2772474 l "substring"
+2 1 0.5685261 l "substring"
+1 3 0.2772474 l "substring"
+3 1 0.5685261 l "substring"
+1 2 0.2772474 l "substring"
+2 1 0.5685261 l "substring"
+1 3 0.2772474 l "substring"
+3 1 0.5685261 l "substring"
+*Edges

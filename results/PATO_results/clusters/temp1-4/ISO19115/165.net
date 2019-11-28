@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Esquema" ellipse
+2 "Treatment" ellipse
+*Arcs
+1 2 0.2422286 l "isa"
+2 1 1.0000000 l "isa"
+1 1 0.3743724 l "esquema"
+1 1 0.3743724 l "esquema"
+1 2 0.2422286 l "isa"
+2 1 1.0000000 l "isa"
+1 1 0.3743724 l "esquema"
+1 1 0.3743724 l "esquema"
+1 2 0.2422286 l "isa"
+2 1 1.0000000 l "isa"
+1 1 0.3743724 l "esquema"
+1 1 0.3743724 l "esquema"
+*Edges

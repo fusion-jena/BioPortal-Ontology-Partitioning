@@ -1,0 +1,31 @@
+*Vertices 4
+1 "CellPartCluster" ellipse
+2 "CellPartClusterOfNeuraxis" ellipse
+3 "Pons" ellipse
+4 "SegmentOfMetencephalon" ellipse
+*Arcs
+2 1 0.2700330 l "isa"
+1 2 0.3479921 l "isa"
+3 4 0.0202909 l "isa"
+4 3 0.4794649 l "isa"
+4 2 0.5205351 l "isa"
+2 4 0.1416283 l "isa"
+1 2 0.3479921 l "substring"
+2 1 0.2700330 l "substring"
+2 1 0.2700330 l "isa"
+1 2 0.3479921 l "isa"
+3 4 0.0202909 l "isa"
+4 3 0.4794649 l "isa"
+4 2 0.5205351 l "isa"
+2 4 0.1416283 l "isa"
+1 2 0.3479921 l "substring"
+2 1 0.2700330 l "substring"
+2 1 0.2700330 l "isa"
+1 2 0.3479921 l "isa"
+3 4 0.0202909 l "isa"
+4 3 0.4794649 l "isa"
+4 2 0.5205351 l "isa"
+2 4 0.1416283 l "isa"
+1 2 0.3479921 l "substring"
+2 1 0.2700330 l "substring"
+*Edges

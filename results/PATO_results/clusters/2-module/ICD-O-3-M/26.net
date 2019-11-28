@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Clear cell adenocarcinofibroma (C56.9)" ellipse
+2 "Carcinofibroma" ellipse
+3 "Serous adenocarcinofibroma" ellipse
+4 "Mucinous adenocarcinofibroma" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.3333333 l "substring"
+2 3 0.3333333 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.3333333 l "substring"
+4 2 1.0000000 l "substring"
+*Edges

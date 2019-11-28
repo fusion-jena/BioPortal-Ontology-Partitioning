@@ -1,0 +1,44 @@
+*Vertices 9
+1 "TraceSubstance" ellipse
+2 "AlkaliMetal" ellipse
+3 "AlkalineEarthMetal" ellipse
+4 "HeavyMetal" ellipse
+5 "Metal" ellipse
+6 "Nonmetal" ellipse
+7 "PostTransitionMetal" ellipse
+8 "TraceMetal" ellipse
+9 "TransitionMetal" ellipse
+*Arcs
+2 5 1.0000000 l "isa"
+5 2 0.1250000 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1250000 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1250000 l "isa"
+7 5 0.6666667 l "isa"
+5 7 0.1250000 l "isa"
+8 1 0.3333333 l "isa"
+1 8 1.0000000 l "isa"
+8 5 0.6666667 l "isa"
+5 8 0.1250000 l "isa"
+9 5 0.6666667 l "isa"
+5 9 0.1250000 l "isa"
+2 5 1.0000000 l "substring"
+5 2 0.1250000 l "substring"
+3 5 1.0000000 l "substring"
+5 3 0.1250000 l "substring"
+4 5 1.0000000 l "substring"
+5 4 0.1250000 l "substring"
+5 6 0.1250000 l "substring"
+6 5 0.6666667 l "substring"
+5 7 0.1250000 l "substring"
+7 5 0.6666667 l "substring"
+5 8 0.1250000 l "substring"
+8 5 0.6666667 l "substring"
+5 9 0.1250000 l "substring"
+9 5 0.6666667 l "substring"
+7 9 0.3333333 l "substring"
+9 7 0.3333333 l "substring"
+5 6 0.1250000 l "distance"
+6 5 0.6666667 l "distance"
+*Edges

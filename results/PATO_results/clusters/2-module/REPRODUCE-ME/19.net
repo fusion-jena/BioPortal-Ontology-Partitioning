@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Notebook Cell Execution" ellipse
+2 "Note" ellipse
+3 "Notebok" ellipse
+4 "Activity"
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.2000000 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.0555556 l "substring"
+2 3 0.1111111 l "substring"
+3 2 0.4000000 l "substring"
+2 3 0.1111111 l "distance"
+3 2 0.4000000 l "distance"
+*Edges

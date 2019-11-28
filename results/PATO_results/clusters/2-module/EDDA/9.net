@@ -1,0 +1,24 @@
+*Vertices 5
+1 "economic evaluation" ellipse
+2 "health economic evaluation" ellipse
+3 "parallel economic evaluation" ellipse
+4 "preliminary economic evaluation" ellipse
+5 "primary economic evaluation" ellipse
+*Arcs
+2 1 0.6666667 l "isa"
+1 2 0.1333333 l "isa"
+3 1 0.6666667 l "isa"
+1 3 0.1333333 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1333333 l "isa"
+5 1 0.6666667 l "isa"
+1 5 0.1333333 l "isa"
+1 2 0.1333333 l "substring"
+2 1 0.6666667 l "substring"
+1 3 0.1333333 l "substring"
+3 1 0.6666667 l "substring"
+1 4 0.1333333 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.1333333 l "substring"
+5 1 0.6666667 l "substring"
+*Edges

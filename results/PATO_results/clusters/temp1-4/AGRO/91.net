@@ -1,0 +1,76 @@
+*Vertices 11
+1 "dilution" ellipse
+2 "concentrating" ellipse
+3 "incrementing" ellipse
+4 "mass concentration (quality)" ellipse
+5 "amount concentration" ellipse
+6 "volume concentration" ellipse
+7 "number concentration" ellipse
+8 "concentration" ellipse
+9 "concentrated" ellipse
+10 "diluted" ellipse
+11 "minute" ellipse
+*Arcs
+2 3 0.3414097 l "isa"
+3 2 0.2642474 l "isa"
+4 8 0.2854474 l "isa"
+8 4 0.0632828 l "isa"
+5 8 0.2946970 l "isa"
+8 5 0.0657808 l "isa"
+6 8 0.3794276 l "isa"
+8 6 0.0657808 l "isa"
+7 8 0.4687282 l "isa"
+8 7 0.0699441 l "isa"
+9 8 0.4344811 l "isa"
+8 9 0.0657808 l "isa"
+10 8 0.3581395 l "isa"
+8 10 0.0320577 l "isa"
+4 8 0.2854474 l "substring"
+8 4 0.0632828 l "substring"
+5 8 0.2946970 l "substring"
+8 5 0.0657808 l "substring"
+6 8 0.3794276 l "substring"
+8 6 0.0657808 l "substring"
+7 8 0.4687282 l "substring"
+8 7 0.0699441 l "substring"
+1 10 0.0906314 l "distance"
+10 1 0.3627907 l "distance"
+2 8 0.3171806 l "distance"
+8 2 0.0299761 l "distance"
+2 9 0.3414097 l "distance"
+9 2 0.2131157 l "distance"
+8 9 0.0657808 l "distance"
+9 8 0.4344811 l "distance"
+2 3 0.3414097 l "isa"
+3 2 0.2642474 l "isa"
+4 8 0.2854474 l "isa"
+8 4 0.0632828 l "isa"
+5 8 0.2946970 l "isa"
+8 5 0.0657808 l "isa"
+6 8 0.3794276 l "isa"
+8 6 0.0657808 l "isa"
+7 8 0.4687282 l "isa"
+8 7 0.0699441 l "isa"
+9 8 0.4344811 l "isa"
+8 9 0.0657808 l "isa"
+10 8 0.3581395 l "isa"
+8 10 0.0320577 l "isa"
+4 8 0.2854474 l "substring"
+8 4 0.0632828 l "substring"
+5 8 0.2946970 l "substring"
+8 5 0.0657808 l "substring"
+6 8 0.3794276 l "substring"
+8 6 0.0657808 l "substring"
+7 8 0.4687282 l "substring"
+8 7 0.0699441 l "substring"
+1 10 0.0906314 l "distance"
+10 1 0.3627907 l "distance"
+2 8 0.3171806 l "distance"
+8 2 0.0299761 l "distance"
+2 9 0.3414097 l "distance"
+9 2 0.2131157 l "distance"
+8 9 0.0657808 l "distance"
+9 8 0.4344811 l "distance"
+10 11 0.2790698 l "distance"
+11 10 0.1000000 l "distance"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 6
+1 "Sign or Symptom" ellipse
+2 "Finding" ellipse
+3 "Finding by cause" ellipse
+4 "Injury" ellipse
+5 "Mental and Behavioral Signs and Symptoms" ellipse
+6 "Disease, Disorder or Finding" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.0303030 l "isa"
+2 6 0.0606061 l "isa"
+6 2 0.4000000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.0606061 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.3333333 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.5000000 l "isa"
+2 3 0.0606061 l "substring"
+3 2 0.6666667 l "substring"
+2 6 0.0606061 l "substring"
+6 2 0.4000000 l "substring"
+*Edges

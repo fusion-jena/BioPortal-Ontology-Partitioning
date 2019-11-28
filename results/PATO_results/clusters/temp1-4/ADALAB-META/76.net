@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Bug_Infestation" ellipse
+2 "Exposed_to_Bug_Infestation" ellipse
+*Arcs
+2 1 0.2736875 l "definition"
+1 2 0.7260801 l "definition"
+1 2 0.7260801 l "substring"
+2 1 0.2736875 l "substring"
+2 1 0.2736875 l "definition"
+1 2 0.7260801 l "definition"
+1 2 0.7260801 l "substring"
+2 1 0.2736875 l "substring"
+2 1 0.2736875 l "definition"
+1 2 0.7260801 l "definition"
+1 2 0.7260801 l "substring"
+2 1 0.2736875 l "substring"
+*Edges

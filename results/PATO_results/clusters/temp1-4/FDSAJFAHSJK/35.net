@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Result" ellipse
+2 "ResultValue" ellipse
+*Arcs
+2 1 0.7832484 l "isa"
+1 2 0.7809259 l "isa"
+1 2 0.7809259 l "substring"
+2 1 0.7832484 l "substring"
+2 1 0.7832484 l "isa"
+1 2 0.7809259 l "isa"
+1 2 0.7809259 l "substring"
+2 1 0.7832484 l "substring"
+2 1 0.7832484 l "isa"
+1 2 0.7809259 l "isa"
+1 2 0.7809259 l "substring"
+2 1 0.7832484 l "substring"
+*Edges

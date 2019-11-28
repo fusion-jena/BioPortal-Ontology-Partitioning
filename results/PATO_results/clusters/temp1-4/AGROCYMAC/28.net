@@ -1,0 +1,11 @@
+*Vertices 2
+1 "compression" ellipse
+2 "decrementing" ellipse
+*Arcs
+1 2 0.4184889 l "isa"
+2 1 0.2033992 l "isa"
+1 2 0.4184889 l "isa"
+2 1 0.2033992 l "isa"
+1 2 0.4184889 l "isa"
+2 1 0.2033992 l "isa"
+*Edges

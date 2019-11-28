@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Check_Emails" ellipse
+2 "Computers" ellipse
+3 "Manditory_Education" ellipse
+4 "Page_Doctors" ellipse
+5 "Paging_Porters" ellipse
+6 "Review_Pathology" ellipse
+7 "Riskman" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1428571 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1428571 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1428571 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1428571 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1428571 l "isa"
+*Edges

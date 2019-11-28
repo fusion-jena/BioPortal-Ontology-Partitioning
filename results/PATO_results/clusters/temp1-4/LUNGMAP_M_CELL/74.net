@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Guernsey" ellipse
+2 "Golden Guernsey" ellipse
+*Arcs
+1 2 0.4723155 l "substring"
+2 1 0.6259039 l "substring"
+1 2 0.4723155 l "substring"
+2 1 0.6259039 l "substring"
+1 2 0.4723155 l "substring"
+2 1 0.6259039 l "substring"
+1 2 0.4723155 l "substring"
+2 1 0.6259039 l "substring"
+1 2 0.4723155 l "substring"
+2 1 0.6259039 l "substring"
+*Edges

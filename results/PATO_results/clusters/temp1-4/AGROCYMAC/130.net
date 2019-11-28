@@ -1,0 +1,56 @@
+*Vertices 7
+1 "dot plot" ellipse
+2 "graph" ellipse
+3 "line graph" ellipse
+4 "heatmap" ellipse
+5 "dendrogram" ellipse
+6 "scatter plot" ellipse
+7 "clustered data visualization" ellipse
+*Arcs
+1 2 0.5666451 l "isa"
+2 1 0.0145778 l "isa"
+3 2 0.4556570 l "isa"
+2 3 0.0263615 l "isa"
+2 3 0.0263615 l "substring"
+3 2 0.4556570 l "substring"
+1 2 0.5666451 l "isa"
+2 1 0.0145778 l "isa"
+3 2 0.4556570 l "isa"
+2 3 0.0263615 l "isa"
+4 2 0.4938948 l "isa"
+2 4 0.0113245 l "isa"
+5 2 0.2481609 l "isa"
+2 5 0.0101963 l "isa"
+6 2 0.4938948 l "isa"
+2 6 0.0113245 l "isa"
+7 1 0.0785309 l "definition"
+1 7 0.4333549 l "definition"
+7 4 0.0817414 l "definition"
+4 7 0.5061052 l "definition"
+7 5 0.0737943 l "definition"
+5 7 0.2549749 l "definition"
+7 6 0.0817414 l "definition"
+6 7 0.5061052 l "definition"
+2 3 0.0263615 l "substring"
+3 2 0.4556570 l "substring"
+1 2 0.5666451 l "isa"
+2 1 0.0145778 l "isa"
+3 2 0.4556570 l "isa"
+2 3 0.0263615 l "isa"
+4 2 0.4938948 l "isa"
+2 4 0.0113245 l "isa"
+5 2 0.2481609 l "isa"
+2 5 0.0101963 l "isa"
+6 2 0.4938948 l "isa"
+2 6 0.0113245 l "isa"
+7 1 0.0785309 l "definition"
+1 7 0.4333549 l "definition"
+7 4 0.0817414 l "definition"
+4 7 0.5061052 l "definition"
+7 5 0.0737943 l "definition"
+5 7 0.2549749 l "definition"
+7 6 0.0817414 l "definition"
+6 7 0.5061052 l "definition"
+2 3 0.0263615 l "substring"
+3 2 0.4556570 l "substring"
+*Edges

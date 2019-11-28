@@ -1,0 +1,11 @@
+*Vertices 2
+1 "thing that can increase the risk" ellipse
+2 "thing related to epidemiology" ellipse
+*Arcs
+1 2 0.1783195 l "isa"
+2 1 0.0927490 l "isa"
+1 2 0.1783195 l "isa"
+2 1 0.0927490 l "isa"
+1 2 0.1783195 l "isa"
+2 1 0.0927490 l "isa"
+*Edges

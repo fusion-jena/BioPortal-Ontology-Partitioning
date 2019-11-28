@@ -1,0 +1,11 @@
+*Vertices 2
+1 "NOS2" ellipse
+2 "Nos2tm1Lau" ellipse
+*Arcs
+1 2 0.0243770 l "substring"
+2 1 0.1707004 l "substring"
+1 2 0.0243770 l "substring"
+2 1 0.1707004 l "substring"
+1 2 0.0243770 l "substring"
+2 1 0.1707004 l "substring"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Nonsteroidal Antiinflamatory drug" ellipse
+2 "neuroprotectin" ellipse
+3 "sulindac" ellipse
+*Arcs
+2 1 0.2592764 l "definition"
+1 2 0.0642504 l "definition"
+3 1 0.2594739 l "definition"
+1 3 0.0642558 l "definition"
+2 1 0.2592764 l "definition"
+1 2 0.0642504 l "definition"
+3 1 0.2594739 l "definition"
+1 3 0.0642558 l "definition"
+2 1 0.2592764 l "definition"
+1 2 0.0642504 l "definition"
+3 1 0.2594739 l "definition"
+1 3 0.0642558 l "definition"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Biological" ellipse
+2 "Biological_markers" ellipse
+*Arcs
+2 1 0.2128132 l "isa"
+1 2 0.1357515 l "isa"
+1 2 0.1357515 l "substring"
+2 1 0.2128132 l "substring"
+2 1 0.2128132 l "isa"
+1 2 0.1357515 l "isa"
+1 2 0.1357515 l "substring"
+2 1 0.2128132 l "substring"
+*Edges

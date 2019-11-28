@@ -1,0 +1,23 @@
+*Vertices 4
+1 "TemporalInstant" ellipse
+2 "TemporalInterval" ellipse
+3 "TemporalRegion" ellipse
+4 "Interval" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.5772493 l "isa"
+2 3 0.4114159 l "isa"
+3 2 0.4227506 l "isa"
+1 3 1.0000000 l "isa"
+3 1 0.5772493 l "isa"
+2 3 0.4114159 l "isa"
+3 2 0.4227506 l "isa"
+2 4 0.2875120 l "substring"
+4 2 0.3548172 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.5772493 l "isa"
+2 3 0.4114159 l "isa"
+3 2 0.4227506 l "isa"
+2 4 0.2875120 l "substring"
+4 2 0.3548172 l "substring"
+*Edges

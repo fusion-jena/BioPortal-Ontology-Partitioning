@@ -1,0 +1,9 @@
+*Vertices 2
+1 "No_complex_mannerisms_or_stereotyped_body_movements" ellipse
+2 "othman_No_complex_mannerisms_or_stereotyped_body_movements"
+*Arcs
+1 2 0.2670560 l "substring"
+2 1 0.2687689 l "substring"
+1 2 0.2670560 l "substring"
+2 1 0.2687689 l "substring"
+*Edges

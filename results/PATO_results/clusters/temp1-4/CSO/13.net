@@ -1,0 +1,15 @@
+*Vertices 2
+1 "IRB-IEC Notification of Trial Termination" ellipse
+2 "Notification of Trial Termination" ellipse
+*Arcs
+1 2 0.6004530 l "substring"
+2 1 0.5971160 l "substring"
+1 2 0.6004530 l "substring"
+2 1 0.5971160 l "substring"
+1 2 0.6004530 l "substring"
+2 1 0.5971160 l "substring"
+1 2 0.6004530 l "substring"
+2 1 0.5971160 l "substring"
+1 2 0.6004530 l "substring"
+2 1 0.5971160 l "substring"
+*Edges

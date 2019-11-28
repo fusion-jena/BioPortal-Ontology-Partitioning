@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Acrophobia" ellipse
+2 "Agoraphobia" ellipse
+*Arcs
+1 2 0.5489869 l "distance"
+2 1 0.3138962 l "distance"
+1 2 0.5489869 l "distance"
+2 1 0.3138962 l "distance"
+1 2 0.5489869 l "distance"
+2 1 0.3138962 l "distance"
+*Edges

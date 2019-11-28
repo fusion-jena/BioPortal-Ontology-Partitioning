@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Cumulative incidence" ellipse
+2 "Cumulative incidence rate" ellipse
+3 "Relative risk" ellipse
+*Arcs
+2 1 0.2888559 l "isa"
+1 2 0.2993678 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1809815 l "isa"
+1 2 0.2993678 l "substring"
+2 1 0.2888559 l "substring"
+2 1 0.2888559 l "isa"
+1 2 0.2993678 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1809815 l "isa"
+1 2 0.2993678 l "substring"
+2 1 0.2888559 l "substring"
+*Edges

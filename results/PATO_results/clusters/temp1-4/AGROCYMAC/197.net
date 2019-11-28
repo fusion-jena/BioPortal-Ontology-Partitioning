@@ -1,0 +1,44 @@
+*Vertices 5
+1 "hydrogencarbonate" ellipse
+2 "carbonates" ellipse
+3 "calcium carbonate" ellipse
+4 "carbonate" ellipse
+5 "carbonate salt" ellipse
+*Arcs
+3 5 0.2111964 l "isa"
+5 3 0.2589796 l "isa"
+5 2 0.2554561 l "isa"
+2 5 0.1692885 l "isa"
+1 4 0.2369802 l "definition"
+4 1 0.2658111 l "definition"
+4 1 0.2658111 l "definition"
+1 4 0.2369802 l "definition"
+1 4 0.2369802 l "substring"
+4 1 0.2658111 l "substring"
+2 4 0.3502521 l "substring"
+4 2 0.1797756 l "substring"
+3 4 0.1968293 l "substring"
+4 3 0.0820975 l "substring"
+4 5 0.0838953 l "substring"
+5 4 0.2466473 l "substring"
+2 4 0.3502521 l "distance"
+4 2 0.1797756 l "distance"
+3 5 0.2111964 l "isa"
+5 3 0.2589796 l "isa"
+5 2 0.2554561 l "isa"
+2 5 0.1692885 l "isa"
+1 4 0.2369802 l "definition"
+4 1 0.2658111 l "definition"
+4 1 0.2658111 l "definition"
+1 4 0.2369802 l "definition"
+1 4 0.2369802 l "substring"
+4 1 0.2658111 l "substring"
+2 4 0.3502521 l "substring"
+4 2 0.1797756 l "substring"
+3 4 0.1968293 l "substring"
+4 3 0.0820975 l "substring"
+4 5 0.0838953 l "substring"
+5 4 0.2466473 l "substring"
+2 4 0.3502521 l "distance"
+4 2 0.1797756 l "distance"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Acceptance of Investigator Brochure" ellipse
+2 "Investigator Brochure" ellipse
+*Arcs
+1 2 0.6547310 l "substring"
+2 1 0.6263300 l "substring"
+1 2 0.6547310 l "substring"
+2 1 0.6263300 l "substring"
+1 2 0.6547310 l "substring"
+2 1 0.6263300 l "substring"
+1 2 0.6547310 l "substring"
+2 1 0.6263300 l "substring"
+1 2 0.6547310 l "substring"
+2 1 0.6263300 l "substring"
+*Edges

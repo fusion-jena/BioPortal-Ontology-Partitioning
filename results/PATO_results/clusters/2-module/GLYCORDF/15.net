@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Glycosidase_Treatment" ellipse
+2 "Label" ellipse
+3 "Chemical Release" ellipse
+4 "Enzymatic Release" ellipse
+5 "Glycan Release" ellipse
+6 "Sample Preparation" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.3333333 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.3333333 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.3333333 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.3333333 l "isa"
+5 6 0.3333333 l "isa"
+6 5 0.3333333 l "isa"
+*Edges

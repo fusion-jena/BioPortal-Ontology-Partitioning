@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Zoomass" ellipse
+2 "DryWeight" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 1.0000000 l "isa"
+1 2 1.0000000 l "isa"
+2 1 1.0000000 l "isa"
+1 2 1.0000000 l "isa"
+2 1 1.0000000 l "isa"
+1 2 1.0000000 l "isa"
+2 1 1.0000000 l "isa"
+*Edges

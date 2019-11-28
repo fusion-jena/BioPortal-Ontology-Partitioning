@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Siri" ellipse
+2 "Ossimi" ellipse
+*Arcs
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+1 2 0.0694587 l "distance"
+2 1 0.5368041 l "distance"
+*Edges

@@ -1,0 +1,58 @@
+*Vertices 9
+1 "bronchus" ellipse
+2 "left lung main bronchus" ellipse
+3 "right lung accessory lobar bronchus" ellipse
+4 "right lung lower lobar bronchus" ellipse
+5 "right lung main bronchus" ellipse
+6 "right lung middle lobar bronchus" ellipse
+7 "right lung upper lobar bronchus" ellipse
+8 "main bronchus" ellipse
+9 "lobar bronchus" ellipse
+*Arcs
+2 8 0.2222222 l "definition"
+8 2 0.2500000 l "definition"
+3 9 0.2222222 l "definition"
+9 3 0.1666667 l "definition"
+4 9 0.2000000 l "definition"
+9 4 0.1666667 l "definition"
+5 8 0.2222222 l "definition"
+8 5 0.2500000 l "definition"
+6 9 0.2222222 l "definition"
+9 6 0.1666667 l "definition"
+7 9 0.2000000 l "definition"
+9 7 0.1666667 l "definition"
+8 1 0.2500000 l "definition"
+1 8 0.1250000 l "definition"
+9 1 0.1666667 l "definition"
+1 9 0.1250000 l "definition"
+1 2 0.0625000 l "substring"
+2 1 0.1111111 l "substring"
+1 3 0.0625000 l "substring"
+3 1 0.1111111 l "substring"
+1 4 0.0625000 l "substring"
+4 1 0.1000000 l "substring"
+1 5 0.0625000 l "substring"
+5 1 0.1111111 l "substring"
+1 6 0.0625000 l "substring"
+6 1 0.1111111 l "substring"
+1 7 0.0625000 l "substring"
+7 1 0.1000000 l "substring"
+1 8 0.1250000 l "substring"
+8 1 0.2500000 l "substring"
+1 9 0.1250000 l "substring"
+9 1 0.1666667 l "substring"
+2 8 0.2222222 l "substring"
+8 2 0.2500000 l "substring"
+3 9 0.2222222 l "substring"
+9 3 0.1666667 l "substring"
+4 9 0.2000000 l "substring"
+9 4 0.1666667 l "substring"
+5 8 0.2222222 l "substring"
+8 5 0.2500000 l "substring"
+6 9 0.2222222 l "substring"
+9 6 0.1666667 l "substring"
+7 9 0.2000000 l "substring"
+9 7 0.1666667 l "substring"
+4 7 0.1000000 l "distance"
+7 4 0.1000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Atribuição de Identificador" ellipse
+2 "Identificador de Objeto" ellipse
+*Arcs
+1 2 0.5000000 l "a attribué"
+2 1 0.5000000 l "a attribué"
+2 1 0.5000000 l "a été attribuée par"
+1 2 0.5000000 l "a été attribuée par"
+1 2 0.5000000 l "hob Zuweisung auf von"
+2 1 0.5000000 l "hob Zuweisung auf von"
+2 1 0.5000000 l "a été désattribué par"
+1 2 0.5000000 l "a été désattribué par"
+*Edges

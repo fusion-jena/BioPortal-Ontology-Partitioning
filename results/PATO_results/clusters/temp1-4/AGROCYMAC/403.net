@@ -1,0 +1,22 @@
+*Vertices 3
+1 "kinase activity" ellipse
+2 "phosphorylates"
+3 "is kinase activity"
+*Arcs
+2 3 0.1520222 l "definition"
+3 2 0.1714336 l "definition"
+1 3 0.5079470 l "definition"
+3 1 0.6648277 l "definition"
+1 3 0.5079470 l "substring"
+3 1 0.6648277 l "substring"
+1 3 0.5079470 l "distance"
+3 1 0.6648277 l "distance"
+2 3 0.1520222 l "definition"
+3 2 0.1714336 l "definition"
+1 3 0.5079470 l "definition"
+3 1 0.6648277 l "definition"
+1 3 0.5079470 l "substring"
+3 1 0.6648277 l "substring"
+1 3 0.5079470 l "distance"
+3 1 0.6648277 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Some_Bringing_Things_andOr_showing_but_Associated_With_Preoccupations" ellipse
+2 "show_Some_Bringing_Things_andOr_showing_but_Associated_With_Preoccupations"
+*Arcs
+1 2 0.3682620 l "substring"
+2 1 0.2971982 l "substring"
+1 2 0.3682620 l "substring"
+2 1 0.2971982 l "substring"
+1 2 0.3682620 l "substring"
+2 1 0.2971982 l "substring"
+*Edges

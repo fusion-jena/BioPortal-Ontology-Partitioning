@@ -1,0 +1,769 @@
+*Vertices 222
+1 "auranofin" ellipse
+2 "prednisone" ellipse
+3 "Anti-tumor necrosis factor alpha drug" ellipse
+4 "Tumor Necrosis Factor (TNF) Inhibitors" ellipse
+5 "Corticosteroids" ellipse
+6 "codeine" ellipse
+7 "Dexamethasone" ellipse
+8 "Glucocorticoids" ellipse
+9 "hydrocodone" ellipse
+10 "physical activity" ellipse
+11 "oxycodone" ellipse
+12 "Sulfasalazine" ellipse
+13 "TCA" ellipse
+14 "educational programs" ellipse
+15 "Education programs" ellipse
+16 "CSA" ellipse
+17 "belimumab" ellipse
+18 "Yoga" ellipse
+19 "Eicosapentaenoic Acid" ellipse
+20 "paracetamol" ellipse
+21 "aerobic exercise" ellipse
+22 "Anti-Inflammatory Agents" ellipse
+23 "Anti-Inflammatory Agents, Non-Steroidal" ellipse
+24 "arthroplasty" ellipse
+25 "azathioprine" ellipse
+26 "calcium pantothenate" ellipse
+27 "curcumin" ellipse
+28 "Cyclophosphamide" ellipse
+29 "Cyclosporine" ellipse
+30 "erythropoietin" ellipse
+31 "Exercise" ellipse
+32 "omega-3 fatty acids" ellipse
+33 "fish oil" ellipse
+34 "flurbiprofen" ellipse
+35 "hydroxychloroquine" ellipse
+36 "methotrexate" ellipse
+37 "naproxen" ellipse
+38 "nefopam" ellipse
+39 "nerve block" ellipse
+40 "pentazocine" ellipse
+41 "piroxicam" ellipse
+42 "relaxation" ellipse
+43 "Rest" ellipse
+44 "tilidine" ellipse
+45 "tumor necrosis factor" ellipse
+46 "gamma-Linolenic Acid" ellipse
+47 "leflunomide" ellipse
+48 "salsalate" ellipse
+49 "Tripterygium wilfordii" ellipse
+50 "stress management" ellipse
+51 "hot pack" ellipse
+52 "ice pack" ellipse
+53 "Synovectomy" ellipse
+54 "joint replacement" ellipse
+55 "total shoulder arthroplasty" ellipse
+56 "Mayo excision arthroplasty" ellipse
+57 "Calcium" ellipse
+58 "mobilizing exercises" ellipse
+59 "systemic" ellipse
+60 "physical" ellipse
+61 "borage oil" ellipse
+62 "opioids" ellipse
+63 "anti-tumor necrosis factor therapy" ellipse
+64 "Relaxation Therapy" ellipse
+65 "Glucocorticoid systemic preparation" ellipse
+66 "suprascapular nerve block" ellipse
+67 "Physical training teacher" ellipse
+68 "Arthroscopic synovectomy knee" ellipse
+69 "total wrist arthroplasty" ellipse
+70 "Muscle strength exercise" ellipse
+71 "strengthening exercises" ellipse
+72 "Psychosocial intervention strategy" ellipse
+73 "celecoxib" ellipse
+74 "Resting splinting" ellipse
+75 "stretching exercises" ellipse
+76 "infliximab" ellipse
+77 "etanercept" ellipse
+78 "Enbrel" ellipse
+79 "Remicade" ellipse
+80 "hemiarthroplasty" ellipse
+81 "adalimumab" ellipse
+82 "kinase inhibitor" ellipse
+83 "collagen type II" ellipse
+84 "Humira" ellipse
+85 "Nefopam Oral Tablet" ellipse
+86 "Cyclooxygenase 2 Inhibitors" ellipse
+87 "Group exercise" ellipse
+88 "Abatacept" ellipse
+89 "Orencia" ellipse
+90 "current use of resting hand splint" ellipse
+91 "Total arthroplasty of glenohumeral joint" ellipse
+92 "Tripterygium wilfordii root extract" ellipse
+93 "Janus kinase inhibitor" ellipse
+94 "MCP arthroplasty" ellipse
+95 "Nonpharmacologic" ellipse
+96 "nonpharmacologic measures" ellipse
+97 "radiation synovectomy" ellipse
+98 "recombinant human erythropoietin" ellipse
+99 "triple helical collagen type II" ellipse
+100 "antioxidants" ellipse
+101 "Arthrodesis" ellipse
+102 "bupivacaine" ellipse
+103 "cannabinoids" ellipse
+104 "capsaicin" ellipse
+105 "combination therapy" ellipse
+106 "dimethyl sulfoxide" ellipse
+107 "bisphosphonate" ellipse
+108 "drug therapy" ellipse
+109 "interferon beta" ellipse
+110 "heat shock protein" ellipse
+111 "influenza vaccine" ellipse
+112 "metacarpophalangeal joint" ellipse
+113 "Minocycline" ellipse
+114 "podophyllotoxin" ellipse
+115 "preventive therapy" ellipse
+116 "surgery" ellipse
+117 "triazolam" ellipse
+118 "turmeric" ellipse
+119 "vitamin D" ellipse
+120 "simvastatin" ellipse
+121 "zopiclone" ellipse
+122 "joint range of motion" ellipse
+123 "misoprostol" ellipse
+124 "balneotherapy" ellipse
+125 "Chaperonin 10" ellipse
+126 "cytotoxic T-lymphocyte antigen 4" ellipse
+127 "Coach in sports activity accident" ellipse
+128 "low-level laser therapy" ellipse
+129 "atorvastatin" ellipse
+130 "Phytodolor N" ellipse
+131 "yttrium-90" ellipse
+132 "bacillus coagulans" ellipse
+133 "pneumococcal vaccine" ellipse
+134 "muscle relaxants" ellipse
+135 "Proton Pump Inhibitors" ellipse
+136 "feverfew" ellipse
+137 "tai chi" ellipse
+138 "anti-CD52 monoclonal antibody" ellipse
+139 "acupuncture" ellipse
+140 "Upper limit of fusion" ellipse
+141 "Surgical procedures" ellipse
+142 "surgical intervention" ellipse
+143 "DHA - Docosahexaenoic acid" ellipse
+144 "Joint protection training" ellipse
+145 "Faradic foot bath" ellipse
+146 "Therapeutic paraffin bath" ellipse
+147 "Triple therapy helicobacter" ellipse
+148 "Referral;rheumatologist" ellipse
+149 "LEF 537" ellipse
+150 "Wrist Splint" ellipse
+151 "Reishi mushroom" ellipse
+152 "Cat's Claw" ellipse
+153 "Mineral Bath Salts" ellipse
+154 "ROSE HIPS" ellipse
+155 "Self Instruction" ellipse
+156 "willow bark" ellipse
+157 "neuromodulator" ellipse
+158 "Rosa canina" ellipse
+159 "Mediterranean diet" ellipse
+160 "ezetimibe" ellipse
+161 "inhibitors kinase" ellipse
+162 "Osteoporosis - falls prevention" ellipse
+163 "Eye drop dispenser" ellipse
+164 "Custom-made foot orthosis with leather uppers" ellipse
+165 "implants silicone" ellipse
+166 "Nutritional" ellipse
+167 "anti-IL-6 chimeric monoclonal antibody" ellipse
+168 "Cuneiform osteotomy of proximal phalanx with resection of head of first metatarsal" ellipse
+169 "San Miao San" ellipse
+170 "orthotics lower limb ankle-foot posterior solid ankle" ellipse
+171 "pamapimod" ellipse
+172 "Boswellia serrata" ellipse
+173 "Fostamatinib Disodium" ellipse
+174 "Favorable response to intermittent, low-dose steroid therapy" ellipse
+175 "Erythropoiesis-stimulating Agent" ellipse
+176 "tofacitinib" ellipse
+177 "mavrilimumab" ellipse
+178 "Psychological Process Intervention" ellipse
+179 "Orthotic Insoles" ellipse
+180 "Cannabis-Based Oromucosal Spray GW-1000-02" ellipse
+181 "Interleukin-6 Receptor Antagonist [EPC]" ellipse
+182 "adaptive devices" ellipse
+183 "anti-CD20 B-cell depleting monoclonal antibody" ellipse
+184 "augmented subscapularis transposition" ellipse
+185 "Ayurvedic formula RA-1" ellipse
+186 "bioreplaceable implants" ellipse
+187 "cardiovascular risk reduction" ellipse
+188 "chicken type II collagen" ellipse
+189 "coaching program" ellipse
+190 "combination pain therapy" ellipse
+191 "CTLA4Ig" ellipse
+192 "custom-made semi-rigid insoles" ellipse
+193 "dietary manipulation" ellipse
+194 "emotion regulation therapy" ellipse
+195 "extra-depth shoes" ellipse
+196 "fasting followed by vegetarian diet" ellipse
+197 "herbal cannabis" ellipse
+198 "herbal interventions" ellipse
+199 "individual self-help books" ellipse
+200 "intra-articular steroid injection" ellipse
+201 "group mindfulness training" ellipse
+202 "mindfulness-based stress reduction" ellipse
+203 "monotherapy" ellipse
+204 "non-acetylated salicylates" ellipse
+205 "nonbiologic triple therapy" ellipse
+206 "posted insoles" ellipse
+207 "prefabricated thermoplastic splint" ellipse
+208 "ready-made soft insoles" ellipse
+209 "Salix daphnoides" ellipse
+210 "semi-rigid orthoses" ellipse
+211 "silver ring splint" ellipse
+212 "soft orthoses" ellipse
+213 "mail-delivered self-management tool kit" ellipse
+214 "spa therapy" ellipse
+215 "writing about stressful life experience" ellipse
+216 "early intensive management" ellipse
+217 "late aggressive management" ellipse
+218 "planned nursing consultations" ellipse
+219 "rheumatologist consultations" ellipse
+220 "topical nerve growth factor" ellipse
+221 "wrist working splints" ellipse
+222 "Treatment" ellipse
+*Arcs
+19 32 0.5000000 l "isa"
+32 19 0.5000000 l "isa"
+19 222 0.5000000 l "isa"
+222 19 0.0049020 l "isa"
+20 23 0.5000000 l "isa"
+23 20 0.0714286 l "isa"
+21 222 0.5000000 l "isa"
+222 21 0.0049020 l "isa"
+23 22 0.1428571 l "isa"
+22 23 0.1250000 l "isa"
+100 222 1.0000000 l "isa"
+222 100 0.0049020 l "isa"
+101 222 1.0000000 l "isa"
+222 101 0.0049020 l "isa"
+24 222 0.1250000 l "isa"
+222 24 0.0049020 l "isa"
+102 222 1.0000000 l "isa"
+222 102 0.0049020 l "isa"
+26 222 0.5000000 l "isa"
+222 26 0.0049020 l "isa"
+103 222 1.0000000 l "isa"
+222 103 0.0049020 l "isa"
+104 222 1.0000000 l "isa"
+222 104 0.0049020 l "isa"
+105 222 1.0000000 l "isa"
+222 105 0.0049020 l "isa"
+27 23 0.5000000 l "isa"
+23 27 0.0714286 l "isa"
+27 222 0.5000000 l "isa"
+222 27 0.0049020 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.1428571 l "isa"
+7 22 0.3333333 l "isa"
+22 7 0.0625000 l "isa"
+7 8 0.3333333 l "isa"
+8 7 0.1111111 l "isa"
+106 222 1.0000000 l "isa"
+222 106 0.0049020 l "isa"
+107 222 1.0000000 l "isa"
+222 107 0.0049020 l "isa"
+108 222 1.0000000 l "isa"
+222 108 0.0049020 l "isa"
+30 222 0.5000000 l "isa"
+222 30 0.0049020 l "isa"
+31 10 0.1428571 l "isa"
+10 31 0.3333333 l "isa"
+32 33 0.5000000 l "isa"
+33 32 0.5000000 l "isa"
+109 222 1.0000000 l "isa"
+222 109 0.0049020 l "isa"
+33 222 0.5000000 l "isa"
+222 33 0.0049020 l "isa"
+34 23 0.5000000 l "isa"
+23 34 0.0714286 l "isa"
+8 5 0.1111111 l "isa"
+5 8 0.1428571 l "isa"
+8 22 0.1111111 l "isa"
+22 8 0.0625000 l "isa"
+110 222 1.0000000 l "isa"
+222 110 0.0049020 l "isa"
+9 6 0.3333333 l "isa"
+6 9 0.2500000 l "isa"
+9 62 0.3333333 l "isa"
+62 9 0.1666667 l "isa"
+9 222 0.3333333 l "isa"
+222 9 0.0049020 l "isa"
+111 222 1.0000000 l "isa"
+222 111 0.0049020 l "isa"
+112 222 1.0000000 l "isa"
+222 112 0.0049020 l "isa"
+113 222 1.0000000 l "isa"
+222 113 0.0049020 l "isa"
+10 222 0.3333333 l "isa"
+222 10 0.0049020 l "isa"
+37 23 0.5000000 l "isa"
+23 37 0.0714286 l "isa"
+37 222 0.5000000 l "isa"
+222 37 0.0049020 l "isa"
+38 23 0.5000000 l "isa"
+23 38 0.0714286 l "isa"
+39 222 0.5000000 l "isa"
+222 39 0.0049020 l "isa"
+11 6 0.3333333 l "isa"
+6 11 0.2500000 l "isa"
+11 62 0.3333333 l "isa"
+62 11 0.1666667 l "isa"
+11 222 0.3333333 l "isa"
+222 11 0.0049020 l "isa"
+40 62 0.5000000 l "isa"
+62 40 0.1666667 l "isa"
+41 22 0.5000000 l "isa"
+22 41 0.0625000 l "isa"
+41 23 0.5000000 l "isa"
+23 41 0.0714286 l "isa"
+114 222 1.0000000 l "isa"
+222 114 0.0049020 l "isa"
+2 5 0.2500000 l "isa"
+5 2 0.1428571 l "isa"
+2 22 0.2500000 l "isa"
+22 2 0.0625000 l "isa"
+2 8 0.2500000 l "isa"
+8 2 0.1111111 l "isa"
+115 222 1.0000000 l "isa"
+222 115 0.0049020 l "isa"
+42 222 0.3333333 l "isa"
+222 42 0.0049020 l "isa"
+43 42 0.2500000 l "isa"
+42 43 0.3333333 l "isa"
+12 22 0.3333333 l "isa"
+22 12 0.0625000 l "isa"
+12 23 0.3333333 l "isa"
+23 12 0.0714286 l "isa"
+116 222 1.0000000 l "isa"
+222 116 0.0049020 l "isa"
+44 62 0.5000000 l "isa"
+62 44 0.1666667 l "isa"
+117 222 1.0000000 l "isa"
+222 117 0.0049020 l "isa"
+118 222 1.0000000 l "isa"
+222 118 0.0049020 l "isa"
+45 222 0.2500000 l "isa"
+222 45 0.0049020 l "isa"
+13 222 0.3333333 l "isa"
+222 13 0.0049020 l "isa"
+119 222 1.0000000 l "isa"
+222 119 0.0049020 l "isa"
+46 222 0.5000000 l "isa"
+222 46 0.0049020 l "isa"
+48 23 0.5000000 l "isa"
+23 48 0.0714286 l "isa"
+48 222 0.5000000 l "isa"
+222 48 0.0049020 l "isa"
+120 222 1.0000000 l "isa"
+222 120 0.0049020 l "isa"
+49 222 0.5000000 l "isa"
+222 49 0.0049020 l "isa"
+121 222 1.0000000 l "isa"
+222 121 0.0049020 l "isa"
+122 222 1.0000000 l "isa"
+222 122 0.0049020 l "isa"
+123 222 1.0000000 l "isa"
+222 123 0.0049020 l "isa"
+124 222 1.0000000 l "isa"
+222 124 0.0049020 l "isa"
+125 222 1.0000000 l "isa"
+222 125 0.0049020 l "isa"
+126 222 1.0000000 l "isa"
+222 126 0.0049020 l "isa"
+14 222 0.3333333 l "isa"
+222 14 0.0049020 l "isa"
+50 72 0.5000000 l "isa"
+72 50 0.5000000 l "isa"
+51 222 0.5000000 l "isa"
+222 51 0.0049020 l "isa"
+52 222 0.5000000 l "isa"
+222 52 0.0049020 l "isa"
+53 222 0.3333333 l "isa"
+222 53 0.0049020 l "isa"
+54 24 0.5000000 l "isa"
+24 54 0.1250000 l "isa"
+55 54 0.3333333 l "isa"
+54 55 0.5000000 l "isa"
+55 222 0.3333333 l "isa"
+222 55 0.0049020 l "isa"
+56 222 0.5000000 l "isa"
+222 56 0.0049020 l "isa"
+57 222 0.5000000 l "isa"
+222 57 0.0049020 l "isa"
+59 222 0.5000000 l "isa"
+222 59 0.0049020 l "isa"
+60 222 0.2500000 l "isa"
+222 60 0.0049020 l "isa"
+61 46 0.5000000 l "isa"
+46 61 0.5000000 l "isa"
+127 222 1.0000000 l "isa"
+222 127 0.0049020 l "isa"
+128 222 1.0000000 l "isa"
+222 128 0.0049020 l "isa"
+63 222 0.5000000 l "isa"
+222 63 0.0049020 l "isa"
+64 222 0.5000000 l "isa"
+222 64 0.0049020 l "isa"
+129 222 1.0000000 l "isa"
+222 129 0.0049020 l "isa"
+130 222 1.0000000 l "isa"
+222 130 0.0049020 l "isa"
+131 222 1.0000000 l "isa"
+222 131 0.0049020 l "isa"
+65 222 0.5000000 l "isa"
+222 65 0.0049020 l "isa"
+132 222 1.0000000 l "isa"
+222 132 0.0049020 l "isa"
+133 222 1.0000000 l "isa"
+222 133 0.0049020 l "isa"
+134 222 1.0000000 l "isa"
+222 134 0.0049020 l "isa"
+135 222 1.0000000 l "isa"
+222 135 0.0049020 l "isa"
+136 222 1.0000000 l "isa"
+222 136 0.0049020 l "isa"
+137 222 1.0000000 l "isa"
+222 137 0.0049020 l "isa"
+138 222 1.0000000 l "isa"
+222 138 0.0049020 l "isa"
+139 222 1.0000000 l "isa"
+222 139 0.0049020 l "isa"
+66 222 0.5000000 l "isa"
+222 66 0.0049020 l "isa"
+67 222 0.5000000 l "isa"
+222 67 0.0049020 l "isa"
+68 222 0.5000000 l "isa"
+222 68 0.0049020 l "isa"
+69 222 0.5000000 l "isa"
+222 69 0.0049020 l "isa"
+70 222 0.5000000 l "isa"
+222 70 0.0049020 l "isa"
+140 222 1.0000000 l "isa"
+222 140 0.0049020 l "isa"
+72 222 0.5000000 l "isa"
+222 72 0.0049020 l "isa"
+73 23 0.5000000 l "isa"
+23 73 0.0714286 l "isa"
+73 86 0.5000000 l "isa"
+86 73 0.3333333 l "isa"
+141 222 1.0000000 l "isa"
+222 141 0.0049020 l "isa"
+142 222 1.0000000 l "isa"
+222 142 0.0049020 l "isa"
+143 222 1.0000000 l "isa"
+222 143 0.0049020 l "isa"
+144 222 1.0000000 l "isa"
+222 144 0.0049020 l "isa"
+74 222 0.5000000 l "isa"
+222 74 0.0049020 l "isa"
+145 222 1.0000000 l "isa"
+222 145 0.0049020 l "isa"
+146 222 1.0000000 l "isa"
+222 146 0.0049020 l "isa"
+147 222 1.0000000 l "isa"
+222 147 0.0049020 l "isa"
+148 222 1.0000000 l "isa"
+222 148 0.0049020 l "isa"
+75 222 0.5000000 l "isa"
+222 75 0.0049020 l "isa"
+76 22 0.2000000 l "isa"
+22 76 0.0625000 l "isa"
+76 3 0.2000000 l "isa"
+3 76 0.2000000 l "isa"
+76 4 0.2000000 l "isa"
+4 76 0.2000000 l "isa"
+149 222 1.0000000 l "isa"
+222 149 0.0049020 l "isa"
+77 3 0.2000000 l "isa"
+3 77 0.2000000 l "isa"
+77 4 0.2000000 l "isa"
+4 77 0.2000000 l "isa"
+78 77 0.5000000 l "isa"
+77 78 0.2000000 l "isa"
+78 222 0.5000000 l "isa"
+222 78 0.0049020 l "isa"
+79 76 0.5000000 l "isa"
+76 79 0.2000000 l "isa"
+79 222 0.5000000 l "isa"
+222 79 0.0049020 l "isa"
+150 222 1.0000000 l "isa"
+222 150 0.0049020 l "isa"
+15 222 0.3333333 l "isa"
+222 15 0.0049020 l "isa"
+80 222 0.5000000 l "isa"
+222 80 0.0049020 l "isa"
+151 222 1.0000000 l "isa"
+222 151 0.0049020 l "isa"
+152 222 1.0000000 l "isa"
+222 152 0.0049020 l "isa"
+153 222 1.0000000 l "isa"
+222 153 0.0049020 l "isa"
+154 222 1.0000000 l "isa"
+222 154 0.0049020 l "isa"
+155 222 1.0000000 l "isa"
+222 155 0.0049020 l "isa"
+156 222 1.0000000 l "isa"
+222 156 0.0049020 l "isa"
+157 222 1.0000000 l "isa"
+222 157 0.0049020 l "isa"
+158 222 1.0000000 l "isa"
+222 158 0.0049020 l "isa"
+81 22 0.1428571 l "isa"
+22 81 0.0625000 l "isa"
+81 3 0.1428571 l "isa"
+3 81 0.2000000 l "isa"
+81 4 0.1428571 l "isa"
+4 81 0.2000000 l "isa"
+159 222 1.0000000 l "isa"
+222 159 0.0049020 l "isa"
+160 222 1.0000000 l "isa"
+222 160 0.0049020 l "isa"
+82 222 0.5000000 l "isa"
+222 82 0.0049020 l "isa"
+83 222 0.5000000 l "isa"
+222 83 0.0049020 l "isa"
+84 81 0.5000000 l "isa"
+81 84 0.1428571 l "isa"
+84 222 0.5000000 l "isa"
+222 84 0.0049020 l "isa"
+161 222 1.0000000 l "isa"
+222 161 0.0049020 l "isa"
+85 222 0.5000000 l "isa"
+222 85 0.0049020 l "isa"
+86 23 0.3333333 l "isa"
+23 86 0.0714286 l "isa"
+86 222 0.3333333 l "isa"
+222 86 0.0049020 l "isa"
+162 222 1.0000000 l "isa"
+222 162 0.0049020 l "isa"
+87 222 0.5000000 l "isa"
+222 87 0.0049020 l "isa"
+163 222 1.0000000 l "isa"
+222 163 0.0049020 l "isa"
+164 222 1.0000000 l "isa"
+222 164 0.0049020 l "isa"
+165 222 1.0000000 l "isa"
+222 165 0.0049020 l "isa"
+16 222 0.2500000 l "isa"
+222 16 0.0049020 l "isa"
+166 222 1.0000000 l "isa"
+222 166 0.0049020 l "isa"
+3 22 0.2000000 l "isa"
+22 3 0.0625000 l "isa"
+167 222 1.0000000 l "isa"
+222 167 0.0049020 l "isa"
+89 88 0.5000000 l "isa"
+88 89 0.3333333 l "isa"
+89 222 0.5000000 l "isa"
+222 89 0.0049020 l "isa"
+17 222 0.3333333 l "isa"
+222 17 0.0049020 l "isa"
+18 222 0.2500000 l "isa"
+222 18 0.0049020 l "isa"
+168 222 1.0000000 l "isa"
+222 168 0.0049020 l "isa"
+169 222 1.0000000 l "isa"
+222 169 0.0049020 l "isa"
+170 222 1.0000000 l "isa"
+222 170 0.0049020 l "isa"
+90 222 0.5000000 l "isa"
+222 90 0.0049020 l "isa"
+171 222 1.0000000 l "isa"
+222 171 0.0049020 l "isa"
+172 222 1.0000000 l "isa"
+222 172 0.0049020 l "isa"
+173 222 1.0000000 l "isa"
+222 173 0.0049020 l "isa"
+174 222 1.0000000 l "isa"
+222 174 0.0049020 l "isa"
+175 222 1.0000000 l "isa"
+222 175 0.0049020 l "isa"
+176 222 1.0000000 l "isa"
+222 176 0.0049020 l "isa"
+177 222 1.0000000 l "isa"
+222 177 0.0049020 l "isa"
+178 222 1.0000000 l "isa"
+222 178 0.0049020 l "isa"
+179 222 1.0000000 l "isa"
+222 179 0.0049020 l "isa"
+91 222 0.5000000 l "isa"
+222 91 0.0049020 l "isa"
+92 222 0.5000000 l "isa"
+222 92 0.0049020 l "isa"
+180 222 1.0000000 l "isa"
+222 180 0.0049020 l "isa"
+181 222 1.0000000 l "isa"
+222 181 0.0049020 l "isa"
+182 222 1.0000000 l "isa"
+222 182 0.0049020 l "isa"
+183 222 1.0000000 l "isa"
+222 183 0.0049020 l "isa"
+184 222 1.0000000 l "isa"
+222 184 0.0049020 l "isa"
+185 222 1.0000000 l "isa"
+222 185 0.0049020 l "isa"
+186 222 1.0000000 l "isa"
+222 186 0.0049020 l "isa"
+187 222 1.0000000 l "isa"
+222 187 0.0049020 l "isa"
+188 222 1.0000000 l "isa"
+222 188 0.0049020 l "isa"
+189 222 1.0000000 l "isa"
+222 189 0.0049020 l "isa"
+190 222 1.0000000 l "isa"
+222 190 0.0049020 l "isa"
+191 222 1.0000000 l "isa"
+222 191 0.0049020 l "isa"
+192 222 1.0000000 l "isa"
+222 192 0.0049020 l "isa"
+193 222 1.0000000 l "isa"
+222 193 0.0049020 l "isa"
+194 222 1.0000000 l "isa"
+222 194 0.0049020 l "isa"
+195 222 1.0000000 l "isa"
+222 195 0.0049020 l "isa"
+196 222 1.0000000 l "isa"
+222 196 0.0049020 l "isa"
+197 222 1.0000000 l "isa"
+222 197 0.0049020 l "isa"
+198 222 1.0000000 l "isa"
+222 198 0.0049020 l "isa"
+199 222 1.0000000 l "isa"
+222 199 0.0049020 l "isa"
+200 222 1.0000000 l "isa"
+222 200 0.0049020 l "isa"
+93 222 0.5000000 l "isa"
+222 93 0.0049020 l "isa"
+94 222 0.5000000 l "isa"
+222 94 0.0049020 l "isa"
+201 222 1.0000000 l "isa"
+222 201 0.0049020 l "isa"
+202 222 1.0000000 l "isa"
+222 202 0.0049020 l "isa"
+203 222 1.0000000 l "isa"
+222 203 0.0049020 l "isa"
+204 222 1.0000000 l "isa"
+222 204 0.0049020 l "isa"
+205 222 1.0000000 l "isa"
+222 205 0.0049020 l "isa"
+95 222 0.5000000 l "isa"
+222 95 0.0049020 l "isa"
+96 222 0.5000000 l "isa"
+222 96 0.0049020 l "isa"
+206 222 1.0000000 l "isa"
+222 206 0.0049020 l "isa"
+207 222 1.0000000 l "isa"
+222 207 0.0049020 l "isa"
+97 222 0.5000000 l "isa"
+222 97 0.0049020 l "isa"
+208 222 1.0000000 l "isa"
+222 208 0.0049020 l "isa"
+98 222 0.5000000 l "isa"
+222 98 0.0049020 l "isa"
+209 222 1.0000000 l "isa"
+222 209 0.0049020 l "isa"
+210 222 1.0000000 l "isa"
+222 210 0.0049020 l "isa"
+211 222 1.0000000 l "isa"
+222 211 0.0049020 l "isa"
+212 222 1.0000000 l "isa"
+222 212 0.0049020 l "isa"
+213 222 1.0000000 l "isa"
+222 213 0.0049020 l "isa"
+214 222 1.0000000 l "isa"
+222 214 0.0049020 l "isa"
+215 222 1.0000000 l "isa"
+222 215 0.0049020 l "isa"
+216 222 1.0000000 l "isa"
+222 216 0.0049020 l "isa"
+217 222 1.0000000 l "isa"
+222 217 0.0049020 l "isa"
+218 222 1.0000000 l "isa"
+222 218 0.0049020 l "isa"
+219 222 1.0000000 l "isa"
+222 219 0.0049020 l "isa"
+220 222 1.0000000 l "isa"
+222 220 0.0049020 l "isa"
+99 222 0.5000000 l "isa"
+222 99 0.0049020 l "isa"
+221 222 1.0000000 l "isa"
+222 221 0.0049020 l "isa"
+21 31 0.5000000 l "substring"
+31 21 0.1428571 l "substring"
+22 23 0.1250000 l "substring"
+23 22 0.1428571 l "substring"
+24 55 0.1250000 l "substring"
+55 24 0.3333333 l "substring"
+24 56 0.1250000 l "substring"
+56 24 0.5000000 l "substring"
+24 69 0.1250000 l "substring"
+69 24 0.5000000 l "substring"
+24 80 0.1250000 l "substring"
+80 24 0.5000000 l "substring"
+24 91 0.1250000 l "substring"
+91 24 0.5000000 l "substring"
+24 94 0.1250000 l "substring"
+94 24 0.5000000 l "substring"
+26 57 0.5000000 l "substring"
+57 26 0.5000000 l "substring"
+30 98 0.5000000 l "substring"
+98 30 0.5000000 l "substring"
+31 58 0.1428571 l "substring"
+58 31 0.5000000 l "substring"
+31 70 0.1428571 l "substring"
+70 31 0.5000000 l "substring"
+31 71 0.1428571 l "substring"
+71 31 0.5000000 l "substring"
+31 75 0.1428571 l "substring"
+75 31 0.5000000 l "substring"
+31 87 0.1428571 l "substring"
+87 31 0.5000000 l "substring"
+10 60 0.3333333 l "substring"
+60 10 0.2500000 l "substring"
+38 85 0.5000000 l "substring"
+85 38 0.5000000 l "substring"
+39 66 0.5000000 l "substring"
+66 39 0.5000000 l "substring"
+42 64 0.3333333 l "substring"
+64 42 0.5000000 l "substring"
+43 74 0.2500000 l "substring"
+74 43 0.5000000 l "substring"
+43 90 0.2500000 l "substring"
+90 43 0.5000000 l "substring"
+45 63 0.2500000 l "substring"
+63 45 0.5000000 l "substring"
+45 3 0.2500000 l "substring"
+3 45 0.2000000 l "substring"
+45 4 0.2500000 l "substring"
+4 45 0.2000000 l "substring"
+49 92 0.5000000 l "substring"
+92 49 0.5000000 l "substring"
+53 68 0.3333333 l "substring"
+68 53 0.5000000 l "substring"
+53 97 0.3333333 l "substring"
+97 53 0.5000000 l "substring"
+59 65 0.5000000 l "substring"
+65 59 0.5000000 l "substring"
+60 67 0.2500000 l "substring"
+67 60 0.5000000 l "substring"
+82 93 0.5000000 l "substring"
+93 82 0.5000000 l "substring"
+83 99 0.5000000 l "substring"
+99 83 0.5000000 l "substring"
+95 96 0.5000000 l "substring"
+96 95 0.5000000 l "substring"
+43 16 0.2500000 l "distance"
+16 43 0.2500000 l "distance"
+13 16 0.3333333 l "distance"
+16 13 0.2500000 l "distance"
+13 18 0.3333333 l "distance"
+18 13 0.2500000 l "distance"
+14 15 0.3333333 l "distance"
+15 14 0.3333333 l "distance"
+51 52 0.5000000 l "distance"
+52 51 0.5000000 l "distance"
+81 17 0.1428571 l "distance"
+17 81 0.3333333 l "distance"
+16 18 0.2500000 l "distance"
+18 16 0.2500000 l "distance"
+*Edges

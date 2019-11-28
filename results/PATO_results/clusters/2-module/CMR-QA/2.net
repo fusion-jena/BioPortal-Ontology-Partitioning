@@ -1,0 +1,106 @@
+*Vertices 31
+1 "Wraparound artefact" ellipse
+2 "CMR artefact" ellipse
+3 "B0_Field_Inhomogeneity_Artefact" ellipse
+4 "Blood flow motion" ellipse
+5 "Blurring artefact" ellipse
+6 "Respiratory motion artefact" ellipse
+7 "Cardiac motion artefact" ellipse
+8 "Misregistration" ellipse
+9 "Black boundary artefact" ellipse
+10 "Black bands artefact" ellipse
+11 "Dark ghosting artefact" ellipse
+12 "Field_Inhomogeneity_Artefact" ellipse
+13 "Flow-related signal loss" ellipse
+14 "Ghost artefact" ellipse
+15 "Gibbs artefact" ellipse
+16 "Image distortion" ellipse
+17 "Inter-view Artefact" ellipse
+18 "Intra-view artefact" ellipse
+19 "Hardware related artefact" ellipse
+20 "Incomplete data" ellipse
+21 "Motion_Artefact" ellipse
+22 "Motion ringing" ellipse
+23 "Off resonance artefact" ellipse
+24 "Patient related artifact" ellipse
+25 "Banding artefact" ellipse
+26 "Signal variation artefact" ellipse
+27 "Signal_Loss_Artefact" ellipse
+28 "Signal_Processing_Dependant_Artefact" ellipse
+29 "Spatial distortion" ellipse
+30 "Technical_Issue" ellipse
+31 "ECG gating issue" ellipse
+*Arcs
+1 28 1.0000000 l "isa"
+28 1 0.2500000 l "isa"
+3 12 1.0000000 l "isa"
+12 3 0.7500000 l "isa"
+4 21 0.5000000 l "isa"
+21 4 0.2000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1111111 l "isa"
+6 17 1.0000000 l "isa"
+17 6 0.2500000 l "isa"
+7 17 1.0000000 l "isa"
+17 7 0.2500000 l "isa"
+8 28 0.5000000 l "isa"
+28 8 0.2500000 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.5000000 l "isa"
+10 26 1.0000000 l "isa"
+26 10 0.2500000 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.5000000 l "isa"
+12 19 0.2500000 l "isa"
+19 12 0.3333333 l "isa"
+13 4 0.5000000 l "isa"
+4 13 0.5000000 l "isa"
+13 27 0.5000000 l "isa"
+27 13 0.5000000 l "isa"
+14 2 0.5000000 l "isa"
+2 14 0.1111111 l "isa"
+15 25 0.5000000 l "isa"
+25 15 0.3333333 l "isa"
+15 28 0.5000000 l "isa"
+28 15 0.2500000 l "isa"
+16 2 0.5000000 l "isa"
+2 16 0.1111111 l "isa"
+17 21 0.2500000 l "isa"
+21 17 0.2000000 l "isa"
+18 21 0.5000000 l "isa"
+21 18 0.2000000 l "isa"
+19 2 0.3333333 l "isa"
+2 19 0.1111111 l "isa"
+19 30 0.3333333 l "isa"
+30 19 0.2500000 l "isa"
+20 30 1.0000000 l "isa"
+30 20 0.2500000 l "isa"
+21 24 0.2000000 l "isa"
+24 21 0.5000000 l "isa"
+22 21 0.5000000 l "isa"
+21 22 0.2000000 l "isa"
+22 25 0.5000000 l "isa"
+25 22 0.3333333 l "isa"
+23 26 1.0000000 l "isa"
+26 23 0.2500000 l "isa"
+24 2 0.5000000 l "isa"
+2 24 0.1111111 l "isa"
+25 2 0.3333333 l "isa"
+2 25 0.1111111 l "isa"
+26 2 0.2500000 l "isa"
+2 26 0.1111111 l "isa"
+27 26 0.5000000 l "isa"
+26 27 0.2500000 l "isa"
+28 2 0.2500000 l "isa"
+2 28 0.1111111 l "isa"
+29 16 1.0000000 l "isa"
+16 29 0.5000000 l "isa"
+31 30 1.0000000 l "isa"
+30 31 0.2500000 l "isa"
+3 12 1.0000000 l "substring"
+12 3 0.7500000 l "substring"
+3 12 1.0000000 l "distance"
+12 3 0.7500000 l "distance"
+17 18 0.2500000 l "distance"
+18 17 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,78 @@
+*Vertices 11
+1 "basal ganglia region" ellipse
+2 "central nervous system" ellipse
+3 "cortical thinning" ellipse
+4 "substantia nigra region" ellipse
+5 "pathology context" ellipse
+6 "spinal cord region" ellipse
+7 "one_dimensional_region" ellipse
+8 "spatial_region" ellipse
+9 "three_dimensional_region" ellipse
+10 "two_dimensional_region" ellipse
+11 "zero_dimensional_region" ellipse
+*Arcs
+6 8 0.2082370 l "isa"
+8 6 0.0573471 l "isa"
+7 8 0.4596443 l "isa"
+8 7 0.1386232 l "isa"
+9 8 0.6103896 l "isa"
+8 9 0.1551260 l "isa"
+10 8 0.3648961 l "isa"
+8 10 0.1303718 l "isa"
+11 8 0.4596443 l "isa"
+8 11 0.1386232 l "isa"
+1 5 0.2074078 l "definition"
+5 1 0.0515180 l "definition"
+2 5 0.2076866 l "definition"
+5 2 0.0515180 l "definition"
+3 5 0.2078056 l "definition"
+5 3 0.0515180 l "definition"
+4 5 0.2074078 l "definition"
+5 4 0.0515180 l "definition"
+6 5 0.2069755 l "definition"
+5 6 0.0515180 l "definition"
+8 7 0.1386232 l "definition"
+7 8 0.4596443 l "definition"
+8 9 0.1551260 l "definition"
+9 8 0.6103896 l "definition"
+8 10 0.1303718 l "definition"
+10 8 0.3648961 l "definition"
+8 11 0.1386232 l "definition"
+11 8 0.4596443 l "definition"
+7 10 0.2120383 l "distance"
+10 7 0.1789838 l "distance"
+10 11 0.1789838 l "distance"
+11 10 0.2120383 l "distance"
+6 8 0.2082370 l "isa"
+8 6 0.0573471 l "isa"
+7 8 0.4596443 l "isa"
+8 7 0.1386232 l "isa"
+9 8 0.6103896 l "isa"
+8 9 0.1551260 l "isa"
+10 8 0.3648961 l "isa"
+8 10 0.1303718 l "isa"
+11 8 0.4596443 l "isa"
+8 11 0.1386232 l "isa"
+1 5 0.2074078 l "definition"
+5 1 0.0515180 l "definition"
+2 5 0.2076866 l "definition"
+5 2 0.0515180 l "definition"
+3 5 0.2078056 l "definition"
+5 3 0.0515180 l "definition"
+4 5 0.2074078 l "definition"
+5 4 0.0515180 l "definition"
+6 5 0.2069755 l "definition"
+5 6 0.0515180 l "definition"
+8 7 0.1386232 l "definition"
+7 8 0.4596443 l "definition"
+8 9 0.1551260 l "definition"
+9 8 0.6103896 l "definition"
+8 10 0.1303718 l "definition"
+10 8 0.3648961 l "definition"
+8 11 0.1386232 l "definition"
+11 8 0.4596443 l "definition"
+7 10 0.2120383 l "distance"
+10 7 0.1789838 l "distance"
+10 11 0.1789838 l "distance"
+11 10 0.2120383 l "distance"
+*Edges

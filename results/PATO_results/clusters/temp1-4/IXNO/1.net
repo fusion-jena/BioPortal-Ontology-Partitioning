@@ -1,0 +1,42 @@
+*Vertices 13
+1 "chemical synthesis" ellipse
+2 "hydroxylation" ellipse
+3 "carboxylation" ellipse
+4 "metabolic process" ellipse
+5 "catabolic process" ellipse
+6 "protein glutathionylation" ellipse
+7 "phosphorylation" ellipse
+8 "protein ubiquitination" ellipse
+9 "protein sumoylation" ellipse
+10 "protein nitrosylation" ellipse
+11 "protein nucleotidylation" ellipse
+12 "protein carbamoylation" ellipse
+13 "sulfation" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0400000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0400000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0400000 l "isa"
+5 4 0.6666667 l "isa"
+4 5 0.0800000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0400000 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0400000 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.0400000 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.0400000 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.0400000 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.0400000 l "isa"
+12 4 1.0000000 l "isa"
+4 12 0.0400000 l "isa"
+13 4 1.0000000 l "isa"
+4 13 0.0400000 l "isa"
+4 5 0.0800000 l "distance"
+5 4 0.6666667 l "distance"
+*Edges

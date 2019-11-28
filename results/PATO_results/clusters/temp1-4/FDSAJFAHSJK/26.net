@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Condition" ellipse
+2 "PreCondition" ellipse
+3 "ConditionType" ellipse
+*Arcs
+1 3 0.3279215 l "hasConditionType"
+3 1 0.5667932 l "hasConditionType"
+1 2 0.3622147 l "substring"
+2 1 0.7432707 l "substring"
+1 3 0.3279215 l "substring"
+3 1 0.5667932 l "substring"
+1 2 0.3622147 l "distance"
+2 1 0.7432707 l "distance"
+1 3 0.3279215 l "hasConditionType"
+3 1 0.5667932 l "hasConditionType"
+1 2 0.3622147 l "substring"
+2 1 0.7432707 l "substring"
+1 3 0.3279215 l "substring"
+3 1 0.5667932 l "substring"
+1 2 0.3622147 l "distance"
+2 1 0.7432707 l "distance"
+1 3 0.3279215 l "hasConditionType"
+3 1 0.5667932 l "hasConditionType"
+1 2 0.3622147 l "substring"
+2 1 0.7432707 l "substring"
+1 3 0.3279215 l "substring"
+3 1 0.5667932 l "substring"
+1 2 0.3622147 l "distance"
+2 1 0.7432707 l "distance"
+*Edges

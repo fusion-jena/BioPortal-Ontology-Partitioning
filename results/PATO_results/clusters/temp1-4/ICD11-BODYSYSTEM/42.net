@@ -1,0 +1,36 @@
+*Vertices 5
+1 "Number of specimen tested" ellipse
+2 "Number of specimen negative" ellipse
+3 "Number of specimen positive" ellipse
+4 "integer"
+5 "has integer measurement value"
+*Arcs
+1 4 0.2034136 l "definition"
+4 1 0.1125476 l "definition"
+1 5 0.2046361 l "definition"
+5 1 0.1265115 l "definition"
+2 4 0.2034136 l "definition"
+4 2 0.1125476 l "definition"
+2 5 0.2046361 l "definition"
+5 2 0.1265115 l "definition"
+3 4 0.2034136 l "definition"
+4 3 0.1125476 l "definition"
+3 5 0.2046361 l "definition"
+5 3 0.1265115 l "definition"
+4 5 0.1088952 l "substring"
+5 4 0.1216747 l "substring"
+1 4 0.2034136 l "definition"
+4 1 0.1125476 l "definition"
+1 5 0.2046361 l "definition"
+5 1 0.1265115 l "definition"
+2 4 0.2034136 l "definition"
+4 2 0.1125476 l "definition"
+2 5 0.2046361 l "definition"
+5 2 0.1265115 l "definition"
+3 4 0.2034136 l "definition"
+4 3 0.1125476 l "definition"
+3 5 0.2046361 l "definition"
+5 3 0.1265115 l "definition"
+4 5 0.1088952 l "substring"
+5 4 0.1216747 l "substring"
+*Edges

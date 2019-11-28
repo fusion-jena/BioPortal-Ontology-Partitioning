@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Kiger Mustang" ellipse
+2 "Kustanai" ellipse
+3 "Mustang" ellipse
+*Arcs
+1 3 0.5625333 l "substring"
+3 1 0.1585568 l "substring"
+2 3 0.5625333 l "distance"
+3 2 0.1585568 l "distance"
+1 3 0.5625333 l "substring"
+3 1 0.1585568 l "substring"
+2 3 0.5625333 l "distance"
+3 2 0.1585568 l "distance"
+1 3 0.5625333 l "substring"
+3 1 0.1585568 l "substring"
+2 3 0.5625333 l "distance"
+3 2 0.1585568 l "distance"
+1 3 0.5625333 l "substring"
+3 1 0.1585568 l "substring"
+2 3 0.5625333 l "distance"
+3 2 0.1585568 l "distance"
+1 3 0.5625333 l "substring"
+3 1 0.1585568 l "substring"
+2 3 0.5625333 l "distance"
+3 2 0.1585568 l "distance"
+1 3 0.5625333 l "substring"
+3 1 0.1585568 l "substring"
+2 3 0.5625333 l "distance"
+3 2 0.1585568 l "distance"
+*Edges

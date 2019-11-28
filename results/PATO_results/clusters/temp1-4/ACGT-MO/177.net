@@ -1,0 +1,23 @@
+*Vertices 4
+1 "NodalStatus" ellipse
+2 "NodalStatusAssessment" ellipse
+3 "NodalStatusNegative" ellipse
+4 "NodalStatusPositive" ellipse
+*Arcs
+3 1 0.5000000 l "isa"
+1 3 0.2727273 l "isa"
+4 1 0.2727273 l "isa"
+1 4 0.2727273 l "isa"
+1 3 0.2727273 l "definition"
+3 1 0.5000000 l "definition"
+1 4 0.2727273 l "definition"
+4 1 0.2727273 l "definition"
+2 1 0.2857143 l "definition"
+1 2 0.1818182 l "definition"
+1 2 0.1818182 l "substring"
+2 1 0.2857143 l "substring"
+1 3 0.2727273 l "substring"
+3 1 0.5000000 l "substring"
+1 4 0.2727273 l "substring"
+4 1 0.2727273 l "substring"
+*Edges

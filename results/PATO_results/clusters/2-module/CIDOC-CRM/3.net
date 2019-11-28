@@ -1,0 +1,34 @@
+*Vertices 5
+1 "Changement de détenteur" ellipse
+2 "Actor" ellipse
+3 "Contact Point" ellipse
+4 "Actor Appellation" ellipse
+5 "Acquisition" ellipse
+*Arcs
+2 4 0.0697674 l "est identifié par"
+4 2 0.5000000 l "est identifié par"
+4 2 0.5000000 l "identifica"
+2 4 0.0697674 l "identifica"
+5 2 0.5000000 l "a fait passer le droit de propriété à"
+2 5 0.0930233 l "a fait passer le droit de propriété à"
+2 5 0.0930233 l "a acquis le droit de propriété du fait de"
+5 2 0.5000000 l "a acquis le droit de propriété du fait de"
+5 2 0.5000000 l "a fait passer le droit de propriété de"
+2 5 0.0930233 l "a fait passer le droit de propriété de"
+2 5 0.0930233 l "a perdu le droit de propriété du fait de"
+5 2 0.5000000 l "a perdu le droit de propriété du fait de"
+1 2 0.5000000 l "changement de détenteur au détriment de"
+2 1 0.0930233 l "changement de détenteur au détriment de"
+2 1 0.0930233 l "a cessé d’être détenteur à cause de"
+1 2 0.5000000 l "a cessé d’être détenteur à cause de"
+1 2 0.5000000 l "changement de détenteur au profit de"
+2 1 0.0930233 l "changement de détenteur au profit de"
+2 1 0.0930233 l "erhielt Gewahrsam durch"
+1 2 0.5000000 l "erhielt Gewahrsam durch"
+2 3 0.0465116 l "a pour coordonnées individuelles"
+3 2 0.4000000 l "a pour coordonnées individuelles"
+3 2 0.4000000 l "bietet Zugang zu"
+2 3 0.0465116 l "bietet Zugang zu"
+2 4 0.0697674 l "substring"
+4 2 0.5000000 l "substring"
+*Edges

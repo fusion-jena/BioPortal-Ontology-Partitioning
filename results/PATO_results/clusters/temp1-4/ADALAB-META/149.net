@@ -1,0 +1,30 @@
+*Vertices 3
+1 "CompleteParaplegia" ellipse
+2 "IncompleteParaplegia" ellipse
+3 "Paraplegia" ellipse
+*Arcs
+1 3 0.2954281 l "isa"
+3 1 0.1686665 l "isa"
+2 3 0.2561995 l "isa"
+3 2 0.1661973 l "isa"
+1 2 0.3070722 l "substring"
+2 1 0.2702538 l "substring"
+1 3 0.2954281 l "substring"
+3 1 0.1686665 l "substring"
+2 3 0.2561995 l "substring"
+3 2 0.1661973 l "substring"
+1 2 0.3070722 l "distance"
+2 1 0.2702538 l "distance"
+1 3 0.2954281 l "isa"
+3 1 0.1686665 l "isa"
+2 3 0.2561995 l "isa"
+3 2 0.1661973 l "isa"
+1 2 0.3070722 l "substring"
+2 1 0.2702538 l "substring"
+1 3 0.2954281 l "substring"
+3 1 0.1686665 l "substring"
+2 3 0.2561995 l "substring"
+3 2 0.1661973 l "substring"
+1 2 0.3070722 l "distance"
+2 1 0.2702538 l "distance"
+*Edges

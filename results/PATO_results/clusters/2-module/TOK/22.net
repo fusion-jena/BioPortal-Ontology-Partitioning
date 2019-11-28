@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Format_Specfication" ellipse
+2 "Open_Standard" ellipse
+3 "and" ellipse
+4 "private_Standard" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2500000 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.2500000 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.0526316 l "substring"
+3 4 0.0526316 l "substring"
+4 3 0.5000000 l "substring"
+*Edges

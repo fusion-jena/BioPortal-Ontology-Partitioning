@@ -1,0 +1,12 @@
+*Vertices 3
+1 "No_unusual_preoccupation" ellipse
+2 "Unusual_Preoccupations" ellipse
+3 "Unusual_Preoccupations_UnknownOrNotAsked" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2857143 l "isa"
+2 3 0.2857143 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

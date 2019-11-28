@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Generic Excitation Source" ellipse
+2 "Light Emitting Diode" ellipse
+3 "Light Source" ellipse
+4 "Source" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1428571 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.2500000 l "substring"
+3 4 0.1428571 l "substring"
+4 3 0.2500000 l "substring"
+*Edges

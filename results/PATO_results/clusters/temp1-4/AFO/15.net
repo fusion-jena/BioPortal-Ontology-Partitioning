@@ -1,0 +1,35 @@
+*Vertices 8
+1 "dilution" ellipse
+2 "mass concentration (quality)" ellipse
+3 "amount concentration" ellipse
+4 "volume concentration" ellipse
+5 "number concentration" ellipse
+6 "concentration" ellipse
+7 "concentrated" ellipse
+8 "diluted" ellipse
+*Arcs
+2 6 0.4000000 l "isa"
+6 2 0.1333333 l "isa"
+3 6 0.5000000 l "isa"
+6 3 0.1333333 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.1333333 l "isa"
+5 6 0.6666667 l "isa"
+6 5 0.1333333 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.1333333 l "isa"
+8 6 0.5000000 l "isa"
+6 8 0.0666667 l "isa"
+2 6 0.4000000 l "substring"
+6 2 0.1333333 l "substring"
+3 6 0.5000000 l "substring"
+6 3 0.1333333 l "substring"
+4 6 0.5000000 l "substring"
+6 4 0.1333333 l "substring"
+5 6 0.6666667 l "substring"
+6 5 0.1333333 l "substring"
+1 8 0.1000000 l "distance"
+8 1 0.5000000 l "distance"
+6 7 0.1333333 l "distance"
+7 6 0.5000000 l "distance"
+*Edges

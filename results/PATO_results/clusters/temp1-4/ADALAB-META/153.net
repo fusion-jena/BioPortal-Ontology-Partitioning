@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Haematooncologist" ellipse
+2 "Internist" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3228466 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3228466 l "isa"
+*Edges

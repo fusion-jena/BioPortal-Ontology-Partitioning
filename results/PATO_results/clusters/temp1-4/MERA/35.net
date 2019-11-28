@@ -1,0 +1,21 @@
+*Vertices 4
+1 "date_accepted"
+2 "date"
+3 "date_ranked"
+4 "date_rated"
+*Arcs
+1 2 0.4000000 l "definition"
+2 1 0.1052632 l "definition"
+3 2 0.2857143 l "definition"
+2 3 0.1052632 l "definition"
+4 2 0.3333333 l "definition"
+2 4 0.1052632 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.1052632 l "substring"
+2 3 0.1052632 l "substring"
+3 2 0.2857143 l "substring"
+2 4 0.1052632 l "substring"
+4 2 0.3333333 l "substring"
+3 4 0.1428571 l "distance"
+4 3 0.1666667 l "distance"
+*Edges

@@ -1,0 +1,86 @@
+*Vertices 15
+1 "ICW-1:01.04.01 Financial Wellness - NOS" ellipse
+2 "ICW-1:01.04.03.01 Individual Event - NOS" ellipse
+3 "ICW-1:01.04.02.03 Financial Planning" ellipse
+4 "ICW-1:01.04.03.02 Stock Market" ellipse
+5 "ICW-1:01.06.03 Group Event" ellipse
+6 "ICW-1:01.04.03 Individual Event" ellipse
+7 "ICW-1:01.04 Financial Wellness" ellipse
+8 "ICW-1:01.04.02.02 Stock Market" ellipse
+9 "ICW-1:01.04.02 Group Event" ellipse
+10 "ICW-1:01.04.03.03 Financial Planning" ellipse
+11 "ICW-1:01.06.03.01 Group Event - NOS" ellipse
+12 "ICW-1:01.06.03.04 Dining Event" ellipse
+13 "ICW-1:01.06.03.03 Televised Event" ellipse
+14 "ICW-1:01.04.02.01 Group Event - NOS" ellipse
+15 "ICW-1:01.06.03.02 Sporting Event" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.3080569 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.2888889 l "isa"
+3 9 0.4736842 l "isa"
+9 3 0.2090323 l "isa"
+4 6 0.4782609 l "isa"
+6 4 0.2444444 l "isa"
+6 7 0.2222222 l "isa"
+7 6 0.2369668 l "isa"
+8 9 0.4736842 l "isa"
+9 8 0.2090323 l "isa"
+9 7 0.1896774 l "isa"
+7 9 0.2322275 l "isa"
+10 6 0.4782609 l "isa"
+6 10 0.2444444 l "isa"
+11 5 0.4705882 l "isa"
+5 11 0.1573254 l "isa"
+12 5 1.0000000 l "isa"
+5 12 0.1868240 l "isa"
+13 5 1.0000000 l "isa"
+5 13 0.1868240 l "isa"
+14 9 0.4736842 l "isa"
+9 14 0.2090323 l "isa"
+15 5 1.0000000 l "isa"
+5 15 0.1868240 l "isa"
+3 10 0.5263158 l "distance"
+10 3 0.5217391 l "distance"
+4 8 0.5217391 l "distance"
+8 4 0.5263158 l "distance"
+5 9 0.1396264 l "distance"
+9 5 0.1832258 l "distance"
+11 14 0.5294117 l "distance"
+14 11 0.5263158 l "distance"
+1 7 1.0000000 l "isa"
+7 1 0.3080569 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.2888889 l "isa"
+3 9 0.4736842 l "isa"
+9 3 0.2090323 l "isa"
+4 6 0.4782609 l "isa"
+6 4 0.2444444 l "isa"
+6 7 0.2222222 l "isa"
+7 6 0.2369668 l "isa"
+8 9 0.4736842 l "isa"
+9 8 0.2090323 l "isa"
+9 7 0.1896774 l "isa"
+7 9 0.2322275 l "isa"
+10 6 0.4782609 l "isa"
+6 10 0.2444444 l "isa"
+11 5 0.4705882 l "isa"
+5 11 0.1573254 l "isa"
+12 5 1.0000000 l "isa"
+5 12 0.1868240 l "isa"
+13 5 1.0000000 l "isa"
+5 13 0.1868240 l "isa"
+14 9 0.4736842 l "isa"
+9 14 0.2090323 l "isa"
+15 5 1.0000000 l "isa"
+5 15 0.1868240 l "isa"
+3 10 0.5263158 l "distance"
+10 3 0.5217391 l "distance"
+4 8 0.5217391 l "distance"
+8 4 0.5263158 l "distance"
+5 9 0.1396264 l "distance"
+9 5 0.1832258 l "distance"
+11 14 0.5294117 l "distance"
+14 11 0.5263158 l "distance"
+*Edges

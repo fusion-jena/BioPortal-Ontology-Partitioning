@@ -1,0 +1,26 @@
+*Vertices 3
+1 "RFSDays" ellipse
+2 "RelapseFreeSurvival" ellipse
+3 "hasMagnitude"
+*Arcs
+2 3 0.2639153 l "definition"
+3 2 0.1177601 l "definition"
+2 1 0.2885780 l "definition"
+1 2 0.1851958 l "definition"
+2 3 0.2639153 l "definition"
+3 2 0.1177601 l "definition"
+2 1 0.2885780 l "definition"
+1 2 0.1851958 l "definition"
+2 3 0.2639153 l "definition"
+3 2 0.1177601 l "definition"
+2 1 0.2885780 l "definition"
+1 2 0.1851958 l "definition"
+2 3 0.2639153 l "definition"
+3 2 0.1177601 l "definition"
+2 1 0.2885780 l "definition"
+1 2 0.1851958 l "definition"
+2 3 0.2639153 l "definition"
+3 2 0.1177601 l "definition"
+2 1 0.2885780 l "definition"
+1 2 0.1851958 l "definition"
+*Edges

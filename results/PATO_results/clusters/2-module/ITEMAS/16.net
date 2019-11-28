@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Objetivo_I_D_i" ellipse
+2 "Politica_I_D_i" ellipse
+3 "esOriginadoEn"
+4 "originaObjetivo"
+*Arcs
+1 2 0.3636364 l "esOriginadoEn"
+2 1 0.3333333 l "esOriginadoEn"
+2 1 0.3333333 l "originaObjetivo"
+1 2 0.3636364 l "originaObjetivo"
+1 3 0.0909091 l "definition"
+3 1 1.0000000 l "definition"
+1 2 0.3636364 l "definition"
+2 1 0.3333333 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.3636364 l "definition"
+2 4 0.0833333 l "definition"
+4 2 1.0000000 l "definition"
+*Edges

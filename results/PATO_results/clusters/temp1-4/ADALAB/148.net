@@ -1,0 +1,17 @@
+*Vertices 2
+1 "DataReleasing" ellipse
+2 "DataReleasingToGCCR" ellipse
+*Arcs
+2 1 0.7842513 l "isa"
+1 2 0.6506804 l "isa"
+1 2 0.6506804 l "substring"
+2 1 0.7842513 l "substring"
+2 1 0.7842513 l "isa"
+1 2 0.6506804 l "isa"
+1 2 0.6506804 l "substring"
+2 1 0.7842513 l "substring"
+2 1 0.7842513 l "isa"
+1 2 0.6506804 l "isa"
+1 2 0.6506804 l "substring"
+2 1 0.7842513 l "substring"
+*Edges

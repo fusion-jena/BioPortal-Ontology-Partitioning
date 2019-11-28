@@ -1,0 +1,25 @@
+*Vertices 4
+1 "NAUAB" ellipse
+2 "PASEX" ellipse
+3 "Apnea" ellipse
+4 "Nausea" ellipse
+*Arcs
+1 4 0.0513603 l "distance"
+4 1 0.2537368 l "distance"
+2 4 0.0322307 l "distance"
+4 2 0.2499672 l "distance"
+3 4 0.0335408 l "distance"
+4 3 0.2506333 l "distance"
+1 4 0.0513603 l "distance"
+4 1 0.2537368 l "distance"
+2 4 0.0322307 l "distance"
+4 2 0.2499672 l "distance"
+3 4 0.0335408 l "distance"
+4 3 0.2506333 l "distance"
+1 4 0.0513603 l "distance"
+4 1 0.2537368 l "distance"
+2 4 0.0322307 l "distance"
+4 2 0.2499672 l "distance"
+3 4 0.0335408 l "distance"
+4 3 0.2506333 l "distance"
+*Edges

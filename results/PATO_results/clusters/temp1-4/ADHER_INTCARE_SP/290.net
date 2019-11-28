@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Developmental disorder" ellipse
+2 "Developmental regression" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5204999 l "isa"
+*Edges

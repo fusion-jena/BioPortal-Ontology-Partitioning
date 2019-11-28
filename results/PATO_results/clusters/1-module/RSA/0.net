@@ -1,0 +1,11 @@
+*Vertices 4
+1 "reference assembly" ellipse
+2 "Point" ellipse
+3 "nil"
+4 "none"
+*Arcs
+2 4 0.5000000 l "distance"
+4 2 0.3333333 l "distance"
+3 4 0.5000000 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

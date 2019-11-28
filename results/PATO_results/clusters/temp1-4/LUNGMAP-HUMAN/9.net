@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Fulani Sudanese" ellipse
+2 "Uda" ellipse
+3 "Sudan Country-Bred" ellipse
+4 "Western Sudan Pony" ellipse
+*Arcs
+1 2 0.5053352 l "substring"
+2 1 0.0352808 l "substring"
+2 3 0.0352791 l "substring"
+3 2 0.5052025 l "substring"
+2 4 0.0352791 l "substring"
+4 2 0.5052025 l "substring"
+1 2 0.5053352 l "substring"
+2 1 0.0352808 l "substring"
+2 3 0.0352791 l "substring"
+3 2 0.5052025 l "substring"
+2 4 0.0352791 l "substring"
+4 2 0.5052025 l "substring"
+1 2 0.5053352 l "substring"
+2 1 0.0352808 l "substring"
+2 3 0.0352791 l "substring"
+3 2 0.5052025 l "substring"
+2 4 0.0352791 l "substring"
+4 2 0.5052025 l "substring"
+*Edges

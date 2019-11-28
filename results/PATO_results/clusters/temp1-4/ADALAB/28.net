@@ -1,0 +1,32 @@
+*Vertices 5
+1 "NonInfectiousDisease" ellipse
+2 "SIOPRelevantHistory" ellipse
+3 "SIOPRelevantHistoryProcess" ellipse
+4 "Tabagism" ellipse
+5 "TabagismProcess" ellipse
+*Arcs
+2 1 0.3189735 l "isa"
+1 2 0.0588640 l "isa"
+4 1 0.4604232 l "isa"
+1 4 0.0656213 l "isa"
+2 3 0.3757374 l "substring"
+3 2 0.3008345 l "substring"
+4 5 0.5395768 l "substring"
+5 4 0.3237800 l "substring"
+2 1 0.3189735 l "isa"
+1 2 0.0588640 l "isa"
+4 1 0.4604232 l "isa"
+1 4 0.0656213 l "isa"
+2 3 0.3757374 l "substring"
+3 2 0.3008345 l "substring"
+4 5 0.5395768 l "substring"
+5 4 0.3237800 l "substring"
+2 1 0.3189735 l "isa"
+1 2 0.0588640 l "isa"
+4 1 0.4604232 l "isa"
+1 4 0.0656213 l "isa"
+2 3 0.3757374 l "substring"
+3 2 0.3008345 l "substring"
+4 5 0.5395768 l "substring"
+5 4 0.3237800 l "substring"
+*Edges

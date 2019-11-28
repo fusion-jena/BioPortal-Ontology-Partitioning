@@ -1,0 +1,9 @@
+*Vertices 2
+1 "levelling bucket" ellipse
+2 "laser-controlled bucket" ellipse
+*Arcs
+2 1 0.1772975 l "definition"
+1 2 0.2093258 l "definition"
+2 1 0.1772975 l "definition"
+1 2 0.2093258 l "definition"
+*Edges

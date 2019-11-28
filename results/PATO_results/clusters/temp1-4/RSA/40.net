@@ -1,0 +1,13 @@
+*Vertices 2
+1 "anticonvulsants" ellipse
+2 "diazepam" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.6926752 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.6926752 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.6926752 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.6926752 l "isa"
+*Edges

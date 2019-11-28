@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Regulation of transcription" ellipse
+2 "regulation via splicing variants" ellipse
+*Arcs
+2 1 0.4186426 l "isa"
+1 2 0.4025286 l "isa"
+2 1 0.4186426 l "isa"
+1 2 0.4025286 l "isa"
+2 1 0.4186426 l "isa"
+1 2 0.4025286 l "isa"
+*Edges

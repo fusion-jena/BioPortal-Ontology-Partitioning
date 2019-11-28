@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Coma" ellipse
+2 "Mucosa" ellipse
+3 "OrganComponenentLayer" ellipse
+*Arcs
+2 3 0.4784384 l "isa"
+3 2 0.3230720 l "isa"
+1 2 0.0298486 l "distance"
+2 1 0.3446144 l "distance"
+2 3 0.4784384 l "isa"
+3 2 0.3230720 l "isa"
+1 2 0.0298486 l "distance"
+2 1 0.3446144 l "distance"
+2 3 0.4784384 l "isa"
+3 2 0.3230720 l "isa"
+1 2 0.0298486 l "distance"
+2 1 0.3446144 l "distance"
+2 3 0.4784384 l "isa"
+3 2 0.3230720 l "isa"
+1 2 0.0298486 l "distance"
+2 1 0.3446144 l "distance"
+2 3 0.4784384 l "isa"
+3 2 0.3230720 l "isa"
+1 2 0.0298486 l "distance"
+2 1 0.3446144 l "distance"
+*Edges

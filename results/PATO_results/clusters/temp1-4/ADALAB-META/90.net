@@ -1,0 +1,22 @@
+*Vertices 3
+1 "ExtraabdominalLymphNode" ellipse
+2 "LymphNode" ellipse
+3 "LymphNodeDissection" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2855907 l "isa"
+3 2 0.3613654 l "definition"
+2 3 0.2265030 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.2855907 l "substring"
+2 3 0.2265030 l "substring"
+3 2 0.3613654 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.2855907 l "isa"
+3 2 0.3613654 l "definition"
+2 3 0.2265030 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.2855907 l "substring"
+2 3 0.2265030 l "substring"
+3 2 0.3613654 l "substring"
+*Edges

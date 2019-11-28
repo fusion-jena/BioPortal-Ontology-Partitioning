@@ -1,0 +1,53 @@
+*Vertices 6
+1 "LocalPathologist" ellipse
+2 "LocalRadiologist" ellipse
+3 "Pathologist" ellipse
+4 "Radiologist" ellipse
+5 "ReferencePathologist" ellipse
+6 "ReferenceRadiologist" ellipse
+*Arcs
+1 3 0.6888890 l "isa"
+3 1 0.3216725 l "isa"
+2 4 0.6888890 l "isa"
+4 2 0.3235611 l "isa"
+5 3 0.5396993 l "isa"
+3 5 0.3035135 l "isa"
+6 4 0.5396993 l "isa"
+4 6 0.3052955 l "isa"
+1 3 0.6888890 l "substring"
+3 1 0.3216725 l "substring"
+2 4 0.6888890 l "substring"
+4 2 0.3235611 l "substring"
+3 5 0.3035135 l "substring"
+5 3 0.5396993 l "substring"
+4 6 0.3052955 l "substring"
+6 4 0.5396993 l "substring"
+1 2 0.3111111 l "distance"
+2 1 0.3111111 l "distance"
+3 4 0.1245184 l "distance"
+4 3 0.1252494 l "distance"
+5 6 0.2421728 l "distance"
+6 5 0.2421728 l "distance"
+1 3 0.6888890 l "isa"
+3 1 0.3216725 l "isa"
+2 4 0.6888890 l "isa"
+4 2 0.3235611 l "isa"
+5 3 0.5396993 l "isa"
+3 5 0.3035135 l "isa"
+6 4 0.5396993 l "isa"
+4 6 0.3052955 l "isa"
+1 3 0.6888890 l "substring"
+3 1 0.3216725 l "substring"
+2 4 0.6888890 l "substring"
+4 2 0.3235611 l "substring"
+3 5 0.3035135 l "substring"
+5 3 0.5396993 l "substring"
+4 6 0.3052955 l "substring"
+6 4 0.5396993 l "substring"
+1 2 0.3111111 l "distance"
+2 1 0.3111111 l "distance"
+3 4 0.1245184 l "distance"
+4 3 0.1252494 l "distance"
+5 6 0.2421728 l "distance"
+6 5 0.2421728 l "distance"
+*Edges

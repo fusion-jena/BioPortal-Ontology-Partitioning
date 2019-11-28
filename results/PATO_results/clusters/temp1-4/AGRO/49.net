@@ -1,0 +1,23 @@
+*Vertices 4
+1 "compression" ellipse
+2 "decrementing" ellipse
+3 "charging" ellipse
+4 "discharging" ellipse
+*Arcs
+1 2 0.4444445 l "isa"
+2 1 0.2164600 l "isa"
+4 2 0.3002257 l "isa"
+2 4 0.1713642 l "isa"
+3 4 0.3438912 l "substring"
+4 3 0.6997743 l "substring"
+3 4 0.3438912 l "distance"
+4 3 0.6997743 l "distance"
+1 2 0.4444445 l "isa"
+2 1 0.2164600 l "isa"
+4 2 0.3002257 l "isa"
+2 4 0.1713642 l "isa"
+3 4 0.3438912 l "substring"
+4 3 0.6997743 l "substring"
+3 4 0.3438912 l "distance"
+4 3 0.6997743 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "mangrove swamp" ellipse
+2 "mangrove biome" ellipse
+*Arcs
+2 1 0.1779090 l "definition"
+1 2 0.2576526 l "definition"
+2 1 0.1779090 l "definition"
+1 2 0.2576526 l "definition"
+*Edges

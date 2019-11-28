@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Information Object" ellipse
+2 "Symbolic Object" ellipse
+*Arcs
+1 2 0.3000000 l "isa"
+2 1 0.2000000 l "isa"
+2 2 0.2666667 l "ist zusammengesetzt aus"
+2 2 0.2666667 l "ist zusammengesetzt aus"
+2 2 0.2666667 l "bildet Teil von"
+2 2 0.2666667 l "bildet Teil von"
+1 2 0.3000000 l "incorporates"
+2 1 0.2000000 l "incorporates"
+2 1 0.2000000 l "is incorporated in"
+1 2 0.3000000 l "is incorporated in"
+*Edges

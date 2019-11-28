@@ -1,0 +1,27 @@
+*Vertices 6
+1 "Experiment" ellipse
+2 "Experiment Type" ellipse
+3 "Experimental Condition" ellipse
+4 "Experimenter" ellipse
+5 "Growth Condition" ellipse
+6 "SubExperiment" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1176471 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2000000 l "isa"
+1 3 0.1176471 l "hasExperimentalCondition"
+3 1 0.4000000 l "hasExperimentalCondition"
+1 2 0.1176471 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1176471 l "substring"
+3 1 0.4000000 l "substring"
+1 4 0.1176471 l "substring"
+4 1 0.4000000 l "substring"
+1 6 0.1176471 l "substring"
+6 1 0.6666667 l "substring"
+1 4 0.1176471 l "distance"
+4 1 0.4000000 l "distance"
+1 6 0.1176471 l "distance"
+6 1 0.6666667 l "distance"
+*Edges

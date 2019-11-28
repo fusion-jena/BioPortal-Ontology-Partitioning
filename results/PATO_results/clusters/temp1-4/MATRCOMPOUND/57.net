@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Bachaur" ellipse
+2 "Bashkir" ellipse
+3 "Bashkir Curly" ellipse
+*Arcs
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+2 3 0.3190554 l "substring"
+3 2 0.6484840 l "substring"
+1 2 0.4626600 l "distance"
+2 1 0.2560428 l "distance"
+*Edges

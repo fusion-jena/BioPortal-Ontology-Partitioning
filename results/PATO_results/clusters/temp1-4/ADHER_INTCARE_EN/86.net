@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Acting_Before_Thinking" ellipse
+2 "Immoderate_Behavior" ellipse
+3 "Impatience" ellipse
+4 "Impulse_Control_and_Regulation" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2653061 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2653061 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2653061 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2653061 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2653061 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2653061 l "isa"
+*Edges

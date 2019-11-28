@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hours duration"
+2 "hour"
+*Arcs
+1 2 0.1747159 l "substring"
+2 1 0.2082691 l "substring"
+1 2 0.1747159 l "substring"
+2 1 0.2082691 l "substring"
+*Edges

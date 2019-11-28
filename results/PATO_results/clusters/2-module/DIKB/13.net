@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Stoichiometry" ellipse
+2 "stoichiometricCoefficient"
+*Arcs
+1 2 0.1250000 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

@@ -1,0 +1,40 @@
+*Vertices 5
+1 "Computer_Assisted_Instruction" ellipse
+2 "Digital_Divide" ellipse
+3 "Digital_Video" ellipse
+4 "Virtual_Teams" ellipse
+5 "EducationTraining" ellipse
+*Arcs
+1 5 0.6515896 l "isa"
+5 1 0.1091544 l "isa"
+2 5 0.3939871 l "isa"
+5 2 0.0882296 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1332722 l "isa"
+2 3 0.6060129 l "distance"
+3 2 0.6067500 l "distance"
+1 5 0.6515896 l "isa"
+5 1 0.1091544 l "isa"
+2 5 0.3939871 l "isa"
+5 2 0.0882296 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1332722 l "isa"
+2 3 0.6060129 l "distance"
+3 2 0.6067500 l "distance"
+1 5 0.6515896 l "isa"
+5 1 0.1091544 l "isa"
+2 5 0.3939871 l "isa"
+5 2 0.0882296 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1332722 l "isa"
+2 3 0.6060129 l "distance"
+3 2 0.6067500 l "distance"
+1 5 0.6515896 l "isa"
+5 1 0.1091544 l "isa"
+2 5 0.3939871 l "isa"
+5 2 0.0882296 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1332722 l "isa"
+2 3 0.6060129 l "distance"
+3 2 0.6067500 l "distance"
+*Edges

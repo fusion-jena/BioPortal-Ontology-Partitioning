@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Erotomania" ellipse
+2 "Kleptomania" ellipse
+3 "Mania" ellipse
+4 "Trichotillomania" ellipse
+*Arcs
+1 3 0.3346696 l "substring"
+3 1 0.0226055 l "substring"
+2 3 0.3346173 l "substring"
+3 2 0.0226055 l "substring"
+3 4 0.0226055 l "substring"
+4 3 0.3347116 l "substring"
+1 3 0.3346696 l "substring"
+3 1 0.0226055 l "substring"
+2 3 0.3346173 l "substring"
+3 2 0.0226055 l "substring"
+3 4 0.0226055 l "substring"
+4 3 0.3347116 l "substring"
+*Edges

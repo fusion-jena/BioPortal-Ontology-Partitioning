@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Vocational_Education" ellipse
+2 "Vocational_Education_Teachers" ellipse
+*Arcs
+1 2 0.3553179 l "substring"
+2 1 0.2738650 l "substring"
+1 2 0.3553179 l "substring"
+2 1 0.2738650 l "substring"
+*Edges

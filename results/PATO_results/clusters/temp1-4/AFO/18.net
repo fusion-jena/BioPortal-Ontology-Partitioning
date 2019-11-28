@@ -1,0 +1,26 @@
+*Vertices 7
+1 "pressure control" ellipse
+2 "maintaining" ellipse
+3 "regulating material" ellipse
+4 "regulating" ellipse
+5 "containing" ellipse
+6 "partial pressure" ellipse
+7 "pressure" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.2000000 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.2500000 l "isa"
+3 4 0.4000000 l "isa"
+4 3 0.5000000 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.2222222 l "isa"
+1 7 0.5000000 l "substring"
+7 1 0.1111111 l "substring"
+3 4 0.4000000 l "substring"
+4 3 0.5000000 l "substring"
+6 7 0.5000000 l "substring"
+7 6 0.2222222 l "substring"
+2 5 0.5000000 l "distance"
+5 2 0.2000000 l "distance"
+*Edges

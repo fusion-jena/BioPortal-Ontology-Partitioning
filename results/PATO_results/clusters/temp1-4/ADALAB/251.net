@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Has_Access_to_Transportation" ellipse
+2 "has_cause"
+*Arcs
+1 2 0.1259353 l "definition"
+2 1 0.1511222 l "definition"
+1 2 0.1259353 l "definition"
+2 1 0.1511222 l "definition"
+1 2 0.1259353 l "definition"
+2 1 0.1511222 l "definition"
+1 2 0.1259353 l "definition"
+2 1 0.1511222 l "definition"
+*Edges

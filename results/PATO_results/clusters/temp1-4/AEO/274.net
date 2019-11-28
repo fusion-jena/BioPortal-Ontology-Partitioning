@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Apptm1Dbo" ellipse
+2 "Apptm1Ini" ellipse
+*Arcs
+1 2 0.1365517 l "distance"
+2 1 0.1365517 l "distance"
+1 2 0.1365517 l "distance"
+2 1 0.1365517 l "distance"
+1 2 0.1365517 l "distance"
+2 1 0.1365517 l "distance"
+*Edges

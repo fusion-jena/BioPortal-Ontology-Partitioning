@@ -1,0 +1,11 @@
+*Vertices 2
+1 "IAO_0000221"
+2 "IAO_0000417"
+*Arcs
+1 2 0.1153846 l "definition"
+2 1 0.1250000 l "definition"
+2 1 0.1250000 l "definition"
+1 2 0.1153846 l "definition"
+1 2 0.1153846 l "distance"
+2 1 0.1250000 l "distance"
+*Edges

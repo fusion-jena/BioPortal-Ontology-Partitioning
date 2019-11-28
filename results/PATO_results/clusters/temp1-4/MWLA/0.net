@@ -1,0 +1,79 @@
+*Vertices 26
+1 "games" ellipse
+2 "adult" ellipse
+3 "arts_and_entertainment" ellipse
+4 "autos_and_vehicles" ellipse
+5 "beauty_and_fitness" ellipse
+6 "books_and_literature" ellipse
+7 "business_and_industry" ellipse
+8 "career_and_education" ellipse
+9 "computer_and_electronics" ellipse
+10 "finance" ellipse
+11 "food_and_drink" ellipse
+12 "gambling" ellipse
+13 "health" ellipse
+14 "home_and_garden" ellipse
+15 "intention" ellipse
+16 "internet_and_telecom" ellipse
+17 "law_and_government" ellipse
+18 "news_and_media" ellipse
+19 "people_and_society" ellipse
+20 "pets_and_animals" ellipse
+21 "recreation_and_hobbies" ellipse
+22 "reference" ellipse
+23 "science" ellipse
+24 "shopping" ellipse
+25 "sports" ellipse
+26 "travel" ellipse
+*Arcs
+2 15 1.0000000 l "isa"
+15 2 0.0384615 l "isa"
+3 15 1.0000000 l "isa"
+15 3 0.0384615 l "isa"
+4 15 1.0000000 l "isa"
+15 4 0.0384615 l "isa"
+5 15 1.0000000 l "isa"
+15 5 0.0384615 l "isa"
+6 15 1.0000000 l "isa"
+15 6 0.0384615 l "isa"
+7 15 1.0000000 l "isa"
+15 7 0.0384615 l "isa"
+8 15 1.0000000 l "isa"
+15 8 0.0384615 l "isa"
+9 15 1.0000000 l "isa"
+15 9 0.0384615 l "isa"
+10 15 1.0000000 l "isa"
+15 10 0.0384615 l "isa"
+11 15 1.0000000 l "isa"
+15 11 0.0384615 l "isa"
+12 15 1.0000000 l "isa"
+15 12 0.0384615 l "isa"
+1 15 0.5000000 l "isa"
+15 1 0.0384615 l "isa"
+13 15 1.0000000 l "isa"
+15 13 0.0384615 l "isa"
+14 15 1.0000000 l "isa"
+15 14 0.0384615 l "isa"
+16 15 1.0000000 l "isa"
+15 16 0.0384615 l "isa"
+17 15 1.0000000 l "isa"
+15 17 0.0384615 l "isa"
+18 15 1.0000000 l "isa"
+15 18 0.0384615 l "isa"
+19 15 1.0000000 l "isa"
+15 19 0.0384615 l "isa"
+20 15 1.0000000 l "isa"
+15 20 0.0384615 l "isa"
+21 15 1.0000000 l "isa"
+15 21 0.0384615 l "isa"
+22 15 1.0000000 l "isa"
+15 22 0.0384615 l "isa"
+23 15 1.0000000 l "isa"
+15 23 0.0384615 l "isa"
+24 15 1.0000000 l "isa"
+15 24 0.0384615 l "isa"
+25 15 1.0000000 l "isa"
+15 25 0.0384615 l "isa"
+26 15 1.0000000 l "isa"
+15 26 0.0384615 l "isa"
+*Edges

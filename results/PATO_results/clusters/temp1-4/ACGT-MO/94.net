@@ -1,0 +1,40 @@
+*Vertices 9
+1 "ExtrapyramidalMotorSystem" ellipse
+2 "GrossMotorSkills" ellipse
+3 "IntracranialPressure" ellipse
+4 "Malfunction" ellipse
+5 "MotoricCoordination" ellipse
+6 "TubulesFunctioning" ellipse
+7 "VegetativeFunctioning" ellipse
+8 "influencedBy"
+9 "hasInfluenceOn"
+*Arcs
+1 8 0.2000000 l "definition"
+8 1 0.5000000 l "definition"
+1 4 0.4000000 l "definition"
+4 1 0.0645161 l "definition"
+2 8 0.2000000 l "definition"
+8 2 0.5000000 l "definition"
+2 4 0.4000000 l "definition"
+4 2 0.0645161 l "definition"
+3 9 0.1428571 l "definition"
+9 3 0.5000000 l "definition"
+4 9 0.0322581 l "definition"
+9 4 0.5000000 l "definition"
+4 1 0.0645161 l "definition"
+1 4 0.4000000 l "definition"
+4 2 0.0645161 l "definition"
+2 4 0.4000000 l "definition"
+4 5 0.0645161 l "definition"
+5 4 0.3333333 l "definition"
+4 6 0.0645161 l "definition"
+6 4 0.3333333 l "definition"
+4 7 0.0645161 l "definition"
+7 4 0.3333333 l "definition"
+5 4 0.3333333 l "definition"
+4 5 0.0645161 l "definition"
+6 4 0.3333333 l "definition"
+4 6 0.0645161 l "definition"
+7 4 0.3333333 l "definition"
+4 7 0.0645161 l "definition"
+*Edges

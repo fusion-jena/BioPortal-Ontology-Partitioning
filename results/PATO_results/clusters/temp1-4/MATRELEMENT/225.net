@@ -1,0 +1,19 @@
+*Vertices 2
+1 "left lower lobe visceral pleura" ellipse
+2 "left upper lobe visceral pleura" ellipse
+*Arcs
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+1 2 0.1739959 l "distance"
+2 1 0.1734228 l "distance"
+*Edges

@@ -1,0 +1,511 @@
+*Vertices 128
+1 "general" ellipse
+2 "acute" ellipse
+3 "inactive" ellipse
+4 "specific" ellipse
+5 "asthma in pregnancy" ellipse
+6 "asthma with fixed airflow limitation" ellipse
+7 "asthma with obesity" ellipse
+8 "late-onset asthma" ellipse
+9 "asthma - currently dormant" ellipse
+10 "inactive asthma" ellipse
+11 "acute exacerbation of asthma" ellipse
+12 "brittle asthma" ellipse
+13 "asthma attack" ellipse
+14 "acute asthma" ellipse
+15 "difficult asthma" ellipse
+16 "atopic asthma" ellipse
+17 "hay fever with asthma" ellipse
+18 "status asthmaticus NOS" ellipse
+19 "asthma - currently active" ellipse
+20 "severe asthma" ellipse
+21 "moderate asthma" ellipse
+22 "extrinsic (atopic) asthma" ellipse
+23 "asthma unspecified" ellipse
+24 "asthma" ellipse
+25 "allergens" ellipse
+26 "environmental" ellipse
+27 "genetic" ellipse
+28 "dust mite allergy test" ellipse
+29 "mould allergy test" ellipse
+30 "pollen allergy test" ellipse
+31 "food allergy test" ellipse
+32 "pet allergy test" ellipse
+33 "skin prick test" ellipse
+34 "IgE antibody allergy test" ellipse
+35 "radioallergosorbent test (RAST)" ellipse
+36 "atopy" ellipse
+37 "PEFR increases by at least 20% in response to asthma treatment" ellipse
+38 "diurinal variation >20% for 3 days in a week over several week" ellipse
+39 "60-80% of predicted peak expiratory flow rate" ellipse
+40 "best ever peak expiratory rate" ellipse
+41 "diurnal variation of PEFR" ellipse
+42 "expected peak expiratory flow rate" ellipse
+43 "forced vital capacity - FVC" ellipse
+44 "FVC after bronchodilation" ellipse
+45 "less than 60% of predicted peak expiratory flow rate" ellipse
+46 "more than 80% of predicted peak expiratory flow rate" ellipse
+47 "peak expiratory flow rate flow rate: PEFR/PFR" ellipse
+48 "peak monitoring using diary" ellipse
+49 "PEFR after exercise" ellipse
+50 "PEFR monitoring" ellipse
+51 "PEFR using EN 13826 device" ellipse
+52 "percentage of best ever PEFR" ellipse
+53 "percentage of PEFR variability" ellipse
+54 "PFR - after bronchodilation" ellipse
+55 "PFR - before bronchodilation" ellipse
+56 "predict PEFR using EN13826 std" ellipse
+57 "recorded/predicted PEFR ratio" ellipse
+58 "serial peak expiratory flow rate" ellipse
+59 "serial PEFR abnormal" ellipse
+60 "peak expiratory flow test (PEFR)" ellipse
+61 "allergy test" ellipse
+62 "other" ellipse
+63 "screening" ellipse
+64 "clinical procedure" ellipse
+65 "management" ellipse
+66 "wheeze" ellipse
+67 "mild wheeze" ellipse
+68 "severe wheeze" ellipse
+69 "moderate wheeze" ellipse
+70 "very severe wheeze" ellipse
+71 "expiratory wheeze" ellipse
+72 "nocturnal wheeze" ellipse
+73 "inspiratory wheeze" ellipse
+74 "dust mite" ellipse
+75 "house dust" ellipse
+76 "pollen" ellipse
+77 "pet/animal" ellipse
+78 "cockroach" ellipse
+79 "cold air" ellipse
+80 "exercise" ellipse
+81 "high BMI" ellipse
+82 "passive smoking exposure" ellipse
+83 "active smoking" ellipse
+84 "gene-environment interactions" ellipse
+85 "gene-gene interactions" ellipse
+86 "gender effects" ellipse
+87 "parent-of-origin/ethnicity effects" ellipse
+88 "epigenetics" ellipse
+89 "maternal asthma" ellipse
+90 "parental atopy" ellipse
+91 "stresses" ellipse
+92 "psychosocial environment" ellipse
+93 "respiratory infections" ellipse
+94 "gut colonization" ellipse
+95 "nutrition" ellipse
+96 "outdoor air quality" ellipse
+97 "indoor air quality" ellipse
+98 "pharmacological agents such as histamine or metacholine" ellipse
+99 "medications" ellipse
+100 "occupational exposure" ellipse
+101 "chemicals" ellipse
+102 "geography/place of birth" ellipse
+103 "parental smoking" ellipse
+104 "absent from work or school due to asthma" ellipse
+105 "number of days absent from school due to wheeze in past 6 months" ellipse
+106 "primary care asthma register" ellipse
+107 "asthma screening questionnaires" ellipse
+108 "International Study of Asthma and Allergies in Childhood (ISAAC) questionnaire" ellipse
+109 "Asthma Prediction Index (API)" ellipse
+110 "Isle of Wright score" ellipse
+111 "Prevention and Incidence of Asthma and Mite Allergy (PIAMA) risk score" ellipse
+112 "asthma annual review" ellipse
+113 "asthma monitoring due" ellipse
+114 "change in asthma management plan" ellipse
+115 "step up change in asthma management plan" ellipse
+116 "step down change in asthma management plan" ellipse
+117 "patient has a written asthma personal action plan" ellipse
+118 "asthma medication review" ellipse
+119 "attends asthma monitoring" ellipse
+120 "asthma follow-up" ellipse
+121 "asthma monitoring by nurse" ellipse
+122 "asthma monitoring by doctor" ellipse
+123 "asthma monitoring check done" ellipse
+124 "asthma prophylactic medication used" ellipse
+125 "emergency asthma admission since last appointment" ellipse
+126 "guidelines for management and treatment" ellipse
+127 "formal procedure for reporting adherence to guidelines" ellipse
+128 "national asthma program" ellipse
+*Arcs
+5 4 0.5000000 l "isa"
+4 5 0.1428571 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.1428571 l "isa"
+7 4 0.5000000 l "isa"
+4 7 0.1428571 l "isa"
+8 4 0.5000000 l "isa"
+4 8 0.1428571 l "isa"
+9 3 0.5000000 l "isa"
+3 9 0.2500000 l "isa"
+10 3 0.6666667 l "isa"
+3 10 0.5000000 l "isa"
+11 2 0.6666667 l "isa"
+2 11 0.1538462 l "isa"
+12 2 0.5000000 l "isa"
+2 12 0.0769231 l "isa"
+13 2 0.5000000 l "isa"
+2 13 0.0769231 l "isa"
+14 2 0.6666667 l "isa"
+2 14 0.1538462 l "isa"
+15 2 0.5000000 l "isa"
+2 15 0.0769231 l "isa"
+16 1 0.5000000 l "isa"
+1 16 0.0312500 l "isa"
+17 1 0.5000000 l "isa"
+1 17 0.0312500 l "isa"
+18 1 0.5000000 l "isa"
+1 18 0.0312500 l "isa"
+19 1 0.5000000 l "isa"
+1 19 0.0312500 l "isa"
+20 1 0.5000000 l "isa"
+1 20 0.0312500 l "isa"
+21 1 0.5000000 l "isa"
+1 21 0.0312500 l "isa"
+22 1 0.5000000 l "isa"
+1 22 0.0312500 l "isa"
+23 1 0.5000000 l "isa"
+1 23 0.0312500 l "isa"
+24 1 0.0117647 l "isa"
+1 24 0.0312500 l "isa"
+28 61 0.6666667 l "isa"
+61 28 0.1250000 l "isa"
+29 61 0.5000000 l "isa"
+61 29 0.1250000 l "isa"
+30 61 0.6666667 l "isa"
+61 30 0.1250000 l "isa"
+31 61 0.5000000 l "isa"
+61 31 0.1250000 l "isa"
+32 61 1.0000000 l "isa"
+61 32 0.1250000 l "isa"
+33 61 1.0000000 l "isa"
+61 33 0.0625000 l "isa"
+34 61 1.0000000 l "isa"
+61 34 0.1250000 l "isa"
+35 61 1.0000000 l "isa"
+61 35 0.0625000 l "isa"
+36 61 0.5000000 l "isa"
+61 36 0.0625000 l "isa"
+37 60 0.5000000 l "isa"
+60 37 0.0384615 l "isa"
+38 60 1.0000000 l "isa"
+60 38 0.0384615 l "isa"
+39 60 1.0000000 l "isa"
+60 39 0.0384615 l "isa"
+40 60 1.0000000 l "isa"
+60 40 0.0384615 l "isa"
+41 60 1.0000000 l "isa"
+60 41 0.0384615 l "isa"
+42 60 1.0000000 l "isa"
+60 42 0.0384615 l "isa"
+43 60 1.0000000 l "isa"
+60 43 0.0384615 l "isa"
+44 60 1.0000000 l "isa"
+60 44 0.0384615 l "isa"
+45 60 1.0000000 l "isa"
+60 45 0.0384615 l "isa"
+46 60 1.0000000 l "isa"
+60 46 0.0384615 l "isa"
+47 60 1.0000000 l "isa"
+60 47 0.0384615 l "isa"
+48 60 1.0000000 l "isa"
+60 48 0.0384615 l "isa"
+49 60 0.5000000 l "isa"
+60 49 0.0384615 l "isa"
+50 60 1.0000000 l "isa"
+60 50 0.0384615 l "isa"
+51 60 1.0000000 l "isa"
+60 51 0.0384615 l "isa"
+52 60 1.0000000 l "isa"
+60 52 0.0384615 l "isa"
+53 60 1.0000000 l "isa"
+60 53 0.0384615 l "isa"
+54 60 1.0000000 l "isa"
+60 54 0.0384615 l "isa"
+55 60 1.0000000 l "isa"
+60 55 0.0384615 l "isa"
+56 60 1.0000000 l "isa"
+60 56 0.0384615 l "isa"
+57 60 1.0000000 l "isa"
+60 57 0.0384615 l "isa"
+58 60 1.0000000 l "isa"
+60 58 0.0384615 l "isa"
+59 60 1.0000000 l "isa"
+60 59 0.0384615 l "isa"
+67 66 1.0000000 l "isa"
+66 67 0.1250000 l "isa"
+68 66 0.6666667 l "isa"
+66 68 0.1250000 l "isa"
+69 66 1.0000000 l "isa"
+66 69 0.1250000 l "isa"
+70 66 0.6666667 l "isa"
+66 70 0.1250000 l "isa"
+71 66 0.6666667 l "isa"
+66 71 0.1250000 l "isa"
+72 66 1.0000000 l "isa"
+66 72 0.1250000 l "isa"
+73 66 0.6666667 l "isa"
+66 73 0.1250000 l "isa"
+74 25 0.5000000 l "isa"
+25 74 0.1250000 l "isa"
+75 25 1.0000000 l "isa"
+25 75 0.1250000 l "isa"
+76 25 0.5000000 l "isa"
+25 76 0.1250000 l "isa"
+77 25 1.0000000 l "isa"
+25 77 0.1250000 l "isa"
+78 25 1.0000000 l "isa"
+25 78 0.1250000 l "isa"
+79 26 1.0000000 l "isa"
+26 79 0.0500000 l "isa"
+80 26 0.5000000 l "isa"
+26 80 0.0500000 l "isa"
+81 26 1.0000000 l "isa"
+26 81 0.0500000 l "isa"
+82 26 1.0000000 l "isa"
+26 82 0.0500000 l "isa"
+83 26 1.0000000 l "isa"
+26 83 0.0500000 l "isa"
+84 27 1.0000000 l "isa"
+27 84 0.1000000 l "isa"
+85 27 1.0000000 l "isa"
+27 85 0.1000000 l "isa"
+86 27 1.0000000 l "isa"
+27 86 0.1000000 l "isa"
+87 27 1.0000000 l "isa"
+27 87 0.1000000 l "isa"
+88 27 1.0000000 l "isa"
+27 88 0.2000000 l "isa"
+89 27 0.5000000 l "isa"
+27 89 0.1000000 l "isa"
+90 27 0.5000000 l "isa"
+27 90 0.1000000 l "isa"
+91 26 1.0000000 l "isa"
+26 91 0.0500000 l "isa"
+92 26 1.0000000 l "isa"
+26 92 0.0500000 l "isa"
+93 26 1.0000000 l "isa"
+26 93 0.0500000 l "isa"
+94 26 1.0000000 l "isa"
+26 94 0.0500000 l "isa"
+95 26 1.0000000 l "isa"
+26 95 0.0500000 l "isa"
+96 26 0.5000000 l "isa"
+26 96 0.0500000 l "isa"
+97 26 0.5000000 l "isa"
+26 97 0.0500000 l "isa"
+98 26 1.0000000 l "isa"
+26 98 0.0500000 l "isa"
+99 26 1.0000000 l "isa"
+26 99 0.0500000 l "isa"
+100 26 1.0000000 l "isa"
+26 100 0.0500000 l "isa"
+101 26 1.0000000 l "isa"
+26 101 0.0500000 l "isa"
+102 26 1.0000000 l "isa"
+26 102 0.0500000 l "isa"
+103 26 1.0000000 l "isa"
+26 103 0.0500000 l "isa"
+104 62 0.5000000 l "isa"
+62 104 0.0769231 l "isa"
+105 62 0.5000000 l "isa"
+62 105 0.0769231 l "isa"
+106 62 0.5000000 l "isa"
+62 106 0.0769231 l "isa"
+107 63 0.6666667 l "isa"
+63 107 0.2500000 l "isa"
+108 63 0.5000000 l "isa"
+63 108 0.1250000 l "isa"
+109 63 0.5000000 l "isa"
+63 109 0.1250000 l "isa"
+110 63 1.0000000 l "isa"
+63 110 0.1250000 l "isa"
+111 63 0.5000000 l "isa"
+63 111 0.1250000 l "isa"
+112 65 0.5000000 l "isa"
+65 112 0.0500000 l "isa"
+113 65 0.5000000 l "isa"
+65 113 0.0500000 l "isa"
+114 65 0.4000000 l "isa"
+65 114 0.1000000 l "isa"
+115 65 0.5000000 l "isa"
+65 115 0.1000000 l "isa"
+116 65 0.5000000 l "isa"
+65 116 0.1000000 l "isa"
+117 65 0.5000000 l "isa"
+65 117 0.0500000 l "isa"
+118 65 0.5000000 l "isa"
+65 118 0.0500000 l "isa"
+119 65 0.5000000 l "isa"
+65 119 0.0500000 l "isa"
+120 65 0.5000000 l "isa"
+65 120 0.0500000 l "isa"
+121 65 0.5000000 l "isa"
+65 121 0.0500000 l "isa"
+122 65 0.5000000 l "isa"
+65 122 0.0500000 l "isa"
+123 65 0.5000000 l "isa"
+65 123 0.0500000 l "isa"
+124 64 0.5000000 l "isa"
+64 124 0.3333333 l "isa"
+125 64 0.5000000 l "isa"
+64 125 0.3333333 l "isa"
+126 65 1.0000000 l "isa"
+65 126 0.1000000 l "isa"
+127 65 1.0000000 l "isa"
+65 127 0.0500000 l "isa"
+128 65 0.5000000 l "isa"
+65 128 0.0500000 l "isa"
+2 11 0.1538462 l "substring"
+11 2 0.6666667 l "substring"
+2 14 0.1538462 l "substring"
+14 2 0.6666667 l "substring"
+3 10 0.5000000 l "substring"
+10 3 0.6666667 l "substring"
+5 24 0.5000000 l "substring"
+24 5 0.0117647 l "substring"
+6 24 0.5000000 l "substring"
+24 6 0.0117647 l "substring"
+7 24 0.5000000 l "substring"
+24 7 0.0117647 l "substring"
+8 24 0.5000000 l "substring"
+24 8 0.0117647 l "substring"
+9 24 0.5000000 l "substring"
+24 9 0.0117647 l "substring"
+10 24 0.3333333 l "substring"
+24 10 0.0117647 l "substring"
+11 24 0.3333333 l "substring"
+24 11 0.0117647 l "substring"
+12 24 0.5000000 l "substring"
+24 12 0.0117647 l "substring"
+13 24 0.5000000 l "substring"
+24 13 0.0117647 l "substring"
+14 24 0.3333333 l "substring"
+24 14 0.0117647 l "substring"
+15 24 0.5000000 l "substring"
+24 15 0.0117647 l "substring"
+16 24 0.5000000 l "substring"
+24 16 0.0117647 l "substring"
+17 24 0.5000000 l "substring"
+24 17 0.0117647 l "substring"
+18 24 0.5000000 l "substring"
+24 18 0.0117647 l "substring"
+19 24 0.5000000 l "substring"
+24 19 0.0117647 l "substring"
+20 24 0.5000000 l "substring"
+24 20 0.0117647 l "substring"
+21 24 0.5000000 l "substring"
+24 21 0.0117647 l "substring"
+22 24 0.5000000 l "substring"
+24 22 0.0117647 l "substring"
+23 24 0.5000000 l "substring"
+24 23 0.0117647 l "substring"
+24 37 0.0117647 l "substring"
+37 24 0.5000000 l "substring"
+24 89 0.0117647 l "substring"
+89 24 0.5000000 l "substring"
+24 104 0.0117647 l "substring"
+104 24 0.5000000 l "substring"
+24 106 0.0117647 l "substring"
+106 24 0.5000000 l "substring"
+24 107 0.0117647 l "substring"
+107 24 0.3333333 l "substring"
+24 108 0.0117647 l "substring"
+108 24 0.5000000 l "substring"
+24 109 0.0117647 l "substring"
+109 24 0.5000000 l "substring"
+24 111 0.0117647 l "substring"
+111 24 0.5000000 l "substring"
+24 112 0.0117647 l "substring"
+112 24 0.5000000 l "substring"
+24 113 0.0117647 l "substring"
+113 24 0.5000000 l "substring"
+24 114 0.0117647 l "substring"
+114 24 0.2000000 l "substring"
+24 115 0.0117647 l "substring"
+115 24 0.2500000 l "substring"
+24 116 0.0117647 l "substring"
+116 24 0.2500000 l "substring"
+24 117 0.0117647 l "substring"
+117 24 0.5000000 l "substring"
+24 118 0.0117647 l "substring"
+118 24 0.5000000 l "substring"
+24 119 0.0117647 l "substring"
+119 24 0.5000000 l "substring"
+24 120 0.0117647 l "substring"
+120 24 0.5000000 l "substring"
+24 121 0.0117647 l "substring"
+121 24 0.5000000 l "substring"
+24 122 0.0117647 l "substring"
+122 24 0.5000000 l "substring"
+24 123 0.0117647 l "substring"
+123 24 0.5000000 l "substring"
+24 124 0.0117647 l "substring"
+124 24 0.5000000 l "substring"
+24 125 0.0117647 l "substring"
+125 24 0.5000000 l "substring"
+24 128 0.0117647 l "substring"
+128 24 0.5000000 l "substring"
+27 88 0.2000000 l "substring"
+88 27 1.0000000 l "substring"
+28 61 0.6666667 l "substring"
+61 28 0.1250000 l "substring"
+28 74 0.3333333 l "substring"
+74 28 0.5000000 l "substring"
+29 61 0.5000000 l "substring"
+61 29 0.1250000 l "substring"
+30 61 0.6666667 l "substring"
+61 30 0.1250000 l "substring"
+30 76 0.3333333 l "substring"
+76 30 0.5000000 l "substring"
+31 61 0.5000000 l "substring"
+61 31 0.1250000 l "substring"
+32 61 1.0000000 l "substring"
+61 32 0.1250000 l "substring"
+34 61 1.0000000 l "substring"
+61 34 0.1250000 l "substring"
+36 90 0.5000000 l "substring"
+90 36 0.5000000 l "substring"
+49 80 0.5000000 l "substring"
+80 49 0.5000000 l "substring"
+63 107 0.2500000 l "substring"
+107 63 0.6666667 l "substring"
+65 114 0.1000000 l "substring"
+114 65 0.4000000 l "substring"
+65 115 0.1000000 l "substring"
+115 65 0.5000000 l "substring"
+65 116 0.1000000 l "substring"
+116 65 0.5000000 l "substring"
+65 126 0.1000000 l "substring"
+126 65 1.0000000 l "substring"
+66 67 0.1250000 l "substring"
+67 66 1.0000000 l "substring"
+66 68 0.1250000 l "substring"
+68 66 0.6666667 l "substring"
+66 69 0.1250000 l "substring"
+69 66 1.0000000 l "substring"
+66 70 0.1250000 l "substring"
+70 66 0.6666667 l "substring"
+66 71 0.1250000 l "substring"
+71 66 0.6666667 l "substring"
+66 72 0.1250000 l "substring"
+72 66 1.0000000 l "substring"
+66 73 0.1250000 l "substring"
+73 66 0.6666667 l "substring"
+66 105 0.0625000 l "substring"
+105 66 0.5000000 l "substring"
+68 70 0.3333333 l "substring"
+70 68 0.3333333 l "substring"
+114 115 0.2000000 l "substring"
+115 114 0.2500000 l "substring"
+114 116 0.2000000 l "substring"
+116 114 0.2500000 l "substring"
+1 27 0.0312500 l "distance"
+27 1 0.1000000 l "distance"
+29 31 0.2500000 l "distance"
+31 29 0.2500000 l "distance"
+71 73 0.3333333 l "distance"
+73 71 0.3333333 l "distance"
+96 97 0.5000000 l "distance"
+97 96 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "diluent role" ellipse
+2 "solvent role" ellipse
+3 "dilution role" ellipse
+*Arcs
+1 3 0.2659166 l "isa"
+3 1 0.1279683 l "isa"
+1 2 0.2812924 l "distance"
+2 1 0.2010207 l "distance"
+1 3 0.2659166 l "isa"
+3 1 0.1279683 l "isa"
+1 2 0.2812924 l "distance"
+2 1 0.2010207 l "distance"
+1 3 0.2659166 l "isa"
+3 1 0.1279683 l "isa"
+1 2 0.2812924 l "distance"
+2 1 0.2010207 l "distance"
+*Edges

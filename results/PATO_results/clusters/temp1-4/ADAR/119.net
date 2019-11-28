@@ -1,0 +1,31 @@
+*Vertices 4
+1 "HistopathologicTypeAssessment" ellipse
+2 "InvasiveDuctalCarcinomaAssessment" ellipse
+3 "InvasiveLobularCarcinoma" ellipse
+4 "InvasiveLobularCarcinomaAssessment" ellipse
+*Arcs
+2 1 0.3112736 l "isa"
+1 2 0.3593710 l "isa"
+4 1 0.2999336 l "isa"
+1 4 0.3573324 l "isa"
+3 4 0.3006177 l "substring"
+4 3 0.2812628 l "substring"
+2 1 0.3112736 l "isa"
+1 2 0.3593710 l "isa"
+4 1 0.2999336 l "isa"
+1 4 0.3573324 l "isa"
+3 4 0.3006177 l "substring"
+4 3 0.2812628 l "substring"
+2 1 0.3112736 l "isa"
+1 2 0.3593710 l "isa"
+4 1 0.2999336 l "isa"
+1 4 0.3573324 l "isa"
+3 4 0.3006177 l "substring"
+4 3 0.2812628 l "substring"
+2 1 0.3112736 l "isa"
+1 2 0.3593710 l "isa"
+4 1 0.2999336 l "isa"
+1 4 0.3573324 l "isa"
+3 4 0.3006177 l "substring"
+4 3 0.2812628 l "substring"
+*Edges

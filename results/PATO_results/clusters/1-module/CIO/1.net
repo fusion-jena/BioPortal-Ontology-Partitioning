@@ -1,0 +1,32 @@
+*Vertices 5
+1 "confidence statement from conflicting evidence lines of multiple types" ellipse
+2 "confidence statement from strongly conflicting evidence lines of multiple types" ellipse
+3 "confidence statement from strongly conflicting evidence lines of same type" ellipse
+4 "conflicting" ellipse
+5 "strongly conflicting" ellipse
+*Arcs
+2 1 0.1818182 l "isa"
+1 2 0.1666667 l "isa"
+5 4 0.2857143 l "isa"
+4 5 0.1052632 l "isa"
+1 4 0.1666667 l "definition"
+4 1 0.1052632 l "definition"
+2 5 0.1818182 l "definition"
+5 2 0.2857143 l "definition"
+2 1 0.1818182 l "definition"
+1 2 0.1666667 l "definition"
+3 5 0.1666667 l "definition"
+5 3 0.2857143 l "definition"
+1 4 0.1666667 l "substring"
+4 1 0.1052632 l "substring"
+2 4 0.0909091 l "substring"
+4 2 0.0526316 l "substring"
+2 5 0.1818182 l "substring"
+5 2 0.2857143 l "substring"
+3 4 0.0833333 l "substring"
+4 3 0.0526316 l "substring"
+3 5 0.1666667 l "substring"
+5 3 0.2857143 l "substring"
+4 5 0.1052632 l "substring"
+5 4 0.2857143 l "substring"
+*Edges

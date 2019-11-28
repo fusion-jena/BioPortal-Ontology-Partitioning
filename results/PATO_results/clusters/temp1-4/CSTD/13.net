@@ -1,0 +1,13 @@
+*Vertices 4
+1 "alternative_medicine" ellipse
+2 "behavioral" ellipse
+3 "received_intervention_for_the_current_problem" ellipse
+4 "rehabilitation" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1428571 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1428571 l "isa"
+*Edges

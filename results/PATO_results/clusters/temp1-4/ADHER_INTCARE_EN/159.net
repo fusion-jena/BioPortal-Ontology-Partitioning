@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Some_attachment_to_slightly_unusual_object" ellipse
+2 "uatt_Some_attachment_to_slightly_unusual_object"
+*Arcs
+1 2 0.2668345 l "substring"
+2 1 0.2686218 l "substring"
+1 2 0.2668345 l "substring"
+2 1 0.2686218 l "substring"
+*Edges

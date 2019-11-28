@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Organisation" ellipse
+2 "Project" ellipse
+*Arcs
+2 1 0.1428571 l "institution"
+1 2 1.0000000 l "institution"
+*Edges

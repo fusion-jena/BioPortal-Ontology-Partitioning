@@ -1,0 +1,24 @@
+*Vertices 7
+1 "group_number" ellipse
+2 "laboratory_experiment_parameters" ellipse
+3 "microarray_ANOVA_cluster" ellipse
+4 "priority" ellipse
+5 "protein_group_number" ellipse
+6 "purity" ellipse
+7 "stage_purity_determination" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1250000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1250000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.1250000 l "isa"
+7 6 0.2222222 l "definition"
+6 7 0.5000000 l "definition"
+1 5 0.5000000 l "substring"
+5 1 0.3333333 l "substring"
+6 7 0.5000000 l "substring"
+7 6 0.2222222 l "substring"
+4 6 0.5000000 l "distance"
+6 4 0.2500000 l "distance"
+*Edges

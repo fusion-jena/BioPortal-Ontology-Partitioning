@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Neotropical" ellipse
+2 "Tropical" ellipse
+*Arcs
+1 2 0.7265774 l "substring"
+2 1 0.5637982 l "substring"
+1 2 0.7265774 l "distance"
+2 1 0.5637982 l "distance"
+1 2 0.7265774 l "substring"
+2 1 0.5637982 l "substring"
+1 2 0.7265774 l "distance"
+2 1 0.5637982 l "distance"
+*Edges

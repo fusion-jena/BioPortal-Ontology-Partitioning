@@ -1,0 +1,46 @@
+*Vertices 9
+1 "N-acetylgalactosamine-4-O-sulfotransferase" ellipse
+2 "N-acetylgalactosamine_and_N-acetylglucosamine_and_galactose_6-O-sulfotransferase" ellipse
+3 "chondroitin_4-O-sulfotransferase" ellipse
+4 "heparan_N-deacetylase_and_N-sulfotransferase" ellipse
+5 "heparan_sulfate_2-O-sulfotransferase" ellipse
+6 "heparan_sulfate_6-O-sulfotransferase" ellipse
+7 "heparan_sulfate_D-glucosaminyl_3-O-sulfotransferase" ellipse
+8 "sulfotransferase" ellipse
+9 "uronyl-2-O-sulfotransferase" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.1176471 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.1176471 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.1176471 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1176471 l "isa"
+5 8 0.6666667 l "isa"
+8 5 0.1176471 l "isa"
+6 8 0.6666667 l "isa"
+8 6 0.1176471 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1176471 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.1176471 l "isa"
+1 8 1.0000000 l "substring"
+8 1 0.1176471 l "substring"
+2 8 1.0000000 l "substring"
+8 2 0.1176471 l "substring"
+3 8 1.0000000 l "substring"
+8 3 0.1176471 l "substring"
+4 8 1.0000000 l "substring"
+8 4 0.1176471 l "substring"
+5 8 0.6666667 l "substring"
+8 5 0.1176471 l "substring"
+6 8 0.6666667 l "substring"
+8 6 0.1176471 l "substring"
+7 8 1.0000000 l "substring"
+8 7 0.1176471 l "substring"
+8 9 0.1176471 l "substring"
+9 8 1.0000000 l "substring"
+5 6 0.3333333 l "distance"
+6 5 0.3333333 l "distance"
+*Edges

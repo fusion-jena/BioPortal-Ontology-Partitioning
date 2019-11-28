@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Myofibroblastoma" ellipse
+2 "Angiomyofibroblastoma" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

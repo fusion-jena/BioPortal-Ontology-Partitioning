@@ -1,0 +1,13 @@
+*Vertices 2
+1 "well depth measurement protocol" ellipse
+2 "well depth" ellipse
+*Arcs
+1 2 0.2402071 l "definition"
+2 1 0.1981860 l "definition"
+1 2 0.2402071 l "substring"
+2 1 0.1981860 l "substring"
+1 2 0.2402071 l "definition"
+2 1 0.1981860 l "definition"
+1 2 0.2402071 l "substring"
+2 1 0.1981860 l "substring"
+*Edges

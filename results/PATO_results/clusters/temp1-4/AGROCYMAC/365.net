@@ -1,0 +1,17 @@
+*Vertices 2
+1 "plasma" ellipse
+2 "plasma" ellipse
+*Arcs
+1 2 0.1952810 l "substring"
+2 1 0.1934547 l "substring"
+1 2 0.1952810 l "distance"
+2 1 0.1934547 l "distance"
+1 2 0.1952810 l "substring"
+2 1 0.1934547 l "substring"
+1 2 0.1952810 l "distance"
+2 1 0.1934547 l "distance"
+1 2 0.1952810 l "substring"
+2 1 0.1934547 l "substring"
+1 2 0.1952810 l "distance"
+2 1 0.1934547 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Dizziness" ellipse
+2 "Drowziness" ellipse
+*Arcs
+1 2 0.1754265 l "distance"
+2 1 0.2087384 l "distance"
+1 2 0.1754265 l "distance"
+2 1 0.2087384 l "distance"
+*Edges

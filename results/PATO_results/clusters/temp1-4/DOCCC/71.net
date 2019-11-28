@@ -1,0 +1,36 @@
+*Vertices 3
+1 "lower cup of the late culminant" ellipse
+2 "lower cup of the fruiting body" ellipse
+3 "lower cup" ellipse
+*Arcs
+1 3 0.1665880 l "isa"
+3 1 0.1744044 l "isa"
+2 3 0.1560074 l "isa"
+3 2 0.1729861 l "isa"
+2 1 0.0679750 l "definition"
+1 2 0.0719949 l "definition"
+1 3 0.1665880 l "substring"
+3 1 0.1744044 l "substring"
+2 3 0.1560074 l "substring"
+3 2 0.1729861 l "substring"
+1 3 0.1665880 l "isa"
+3 1 0.1744044 l "isa"
+2 3 0.1560074 l "isa"
+3 2 0.1729861 l "isa"
+2 1 0.0679750 l "definition"
+1 2 0.0719949 l "definition"
+1 3 0.1665880 l "substring"
+3 1 0.1744044 l "substring"
+2 3 0.1560074 l "substring"
+3 2 0.1729861 l "substring"
+1 3 0.1665880 l "isa"
+3 1 0.1744044 l "isa"
+2 3 0.1560074 l "isa"
+3 2 0.1729861 l "isa"
+2 1 0.0679750 l "definition"
+1 2 0.0719949 l "definition"
+1 3 0.1665880 l "substring"
+3 1 0.1744044 l "substring"
+2 3 0.1560074 l "substring"
+3 2 0.1729861 l "substring"
+*Edges

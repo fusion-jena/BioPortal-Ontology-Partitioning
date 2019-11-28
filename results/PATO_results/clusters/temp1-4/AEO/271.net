@@ -1,0 +1,17 @@
+*Vertices 2
+1 "descriptive statistics entity" ellipse
+2 "statistics entity" ellipse
+*Arcs
+1 2 0.3463487 l "isa"
+2 1 0.2752523 l "isa"
+1 2 0.3463487 l "substring"
+2 1 0.2752523 l "substring"
+1 2 0.3463487 l "isa"
+2 1 0.2752523 l "isa"
+1 2 0.3463487 l "substring"
+2 1 0.2752523 l "substring"
+1 2 0.3463487 l "isa"
+2 1 0.2752523 l "isa"
+1 2 0.3463487 l "substring"
+2 1 0.2752523 l "substring"
+*Edges

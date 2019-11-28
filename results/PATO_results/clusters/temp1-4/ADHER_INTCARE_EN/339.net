@@ -1,0 +1,15 @@
+*Vertices 2
+1 "undertakenBy"
+2 "undertakes"
+*Arcs
+1 2 0.1012651 l "distance"
+2 1 0.1871925 l "distance"
+1 2 0.1012651 l "distance"
+2 1 0.1871925 l "distance"
+1 2 0.1012651 l "distance"
+2 1 0.1871925 l "distance"
+1 2 0.1012651 l "distance"
+2 1 0.1871925 l "distance"
+1 2 0.1012651 l "distance"
+2 1 0.1871925 l "distance"
+*Edges

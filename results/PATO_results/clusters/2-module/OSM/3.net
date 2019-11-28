@@ -1,0 +1,9 @@
+*Vertices 2
+1 "gestor" ellipse
+2 "leitos" ellipse
+*Arcs
+1 2 0.2222222 l "reserva_leito"
+2 1 0.4000000 l "reserva_leito"
+1 2 0.2222222 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

@@ -1,0 +1,32 @@
+*Vertices 7
+1 "ICAM-1" ellipse
+2 "ICAM1" ellipse
+3 "LECAM2" ellipse
+4 "PECAM1" ellipse
+5 "VAMP" ellipse
+6 "VCAM-I" ellipse
+7 "VLA-4" ellipse
+*Arcs
+1 2 0.1666667 l "distance"
+2 1 0.0476190 l "distance"
+1 4 0.1666667 l "distance"
+4 1 0.1250000 l "distance"
+1 6 0.1666667 l "distance"
+6 1 0.2500000 l "distance"
+2 3 0.0476190 l "distance"
+3 2 0.5000000 l "distance"
+2 4 0.0476190 l "distance"
+4 2 0.1250000 l "distance"
+2 5 0.0476190 l "distance"
+5 2 0.0238095 l "distance"
+2 6 0.0476190 l "distance"
+6 2 0.2500000 l "distance"
+3 4 0.5000000 l "distance"
+4 3 0.1250000 l "distance"
+5 6 0.0238095 l "distance"
+6 5 0.2500000 l "distance"
+5 7 0.0238095 l "distance"
+7 5 0.0666667 l "distance"
+6 7 0.2500000 l "distance"
+7 6 0.0666667 l "distance"
+*Edges

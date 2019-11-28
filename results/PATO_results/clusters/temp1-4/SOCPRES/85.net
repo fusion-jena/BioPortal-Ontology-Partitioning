@@ -1,0 +1,39 @@
+*Vertices 8
+1 "Confederate cue deviation-during scenario" ellipse
+2 "Confederate deviation-during scenario" ellipse
+3 "Inaccurate portrayal of confederate role-during scenario" ellipse
+4 "Missing confederate cue-during scenario" ellipse
+5 "Mistimed confederate cue-during scenario" ellipse
+6 "Mistimed entry or departure of confederates-during scenario" ellipse
+7 "Wrong confederate cue-during scenario" ellipse
+8 "Wrong number of confederates-during scenario" ellipse
+*Arcs
+1 2 0.2008197 l "isa"
+2 1 0.1704348 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2226087 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2663935 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2663935 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.2226087 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.2663935 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.2226087 l "isa"
+1 2 0.2008197 l "isa"
+2 1 0.1704348 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2226087 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2663935 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2663935 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.2226087 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.2663935 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.2226087 l "isa"
+*Edges

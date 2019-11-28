@@ -1,0 +1,13 @@
+*Vertices 2
+1 "propellant" ellipse
+2 "food propellant" ellipse
+*Arcs
+2 1 0.5717593 l "isa"
+1 2 0.7265774 l "isa"
+1 2 0.7265774 l "substring"
+2 1 0.5717593 l "substring"
+2 1 0.5717593 l "isa"
+1 2 0.7265774 l "isa"
+1 2 0.7265774 l "substring"
+2 1 0.5717593 l "substring"
+*Edges

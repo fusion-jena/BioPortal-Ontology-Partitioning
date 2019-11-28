@@ -1,0 +1,13 @@
+*Vertices 2
+1 "vapor generation" ellipse
+2 "closed loop vapor generation" ellipse
+*Arcs
+2 1 0.4914311 l "isa"
+1 2 0.3600867 l "isa"
+1 2 0.3600867 l "substring"
+2 1 0.4914311 l "substring"
+2 1 0.4914311 l "isa"
+1 2 0.3600867 l "isa"
+1 2 0.3600867 l "substring"
+2 1 0.4914311 l "substring"
+*Edges

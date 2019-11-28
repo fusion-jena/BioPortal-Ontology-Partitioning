@@ -1,0 +1,13 @@
+*Vertices 2
+1 "FC_CarrierOfCharacteristics" ellipse
+2 "carrierOfCharacteristics"
+*Arcs
+1 2 0.1315983 l "substring"
+2 1 0.7024083 l "substring"
+1 2 0.1315983 l "distance"
+2 1 0.7024083 l "distance"
+1 2 0.1315983 l "substring"
+2 1 0.7024083 l "substring"
+1 2 0.1315983 l "distance"
+2 1 0.7024083 l "distance"
+*Edges

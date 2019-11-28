@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Dementia" ellipse
+2 "Pseudodementia" ellipse
+*Arcs
+1 2 0.1150789 l "substring"
+2 1 0.3541692 l "substring"
+1 2 0.1150789 l "substring"
+2 1 0.3541692 l "substring"
+1 2 0.1150789 l "substring"
+2 1 0.3541692 l "substring"
+*Edges

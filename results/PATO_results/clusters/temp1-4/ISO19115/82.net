@@ -1,0 +1,38 @@
+*Vertices 3
+1 "milk" ellipse
+2 "Immunological detection or quantification method" ellipse
+3 "Milk ring-test" ellipse
+*Arcs
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+3 2 0.6213301 l "isa"
+2 3 0.6332275 l "isa"
+1 3 0.0399232 l "substring"
+3 1 0.2431644 l "substring"
+*Edges

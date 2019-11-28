@@ -1,0 +1,7 @@
+*Vertices 2
+1 "_Cholesterol" ellipse
+2 "Oxidized_Cholesterol_Derivatives" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

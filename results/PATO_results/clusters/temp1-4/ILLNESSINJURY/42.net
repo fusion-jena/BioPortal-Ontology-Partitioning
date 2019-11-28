@@ -1,0 +1,25 @@
+*Vertices 2
+1 "alimentary part of gastrointestinal system" ellipse
+2 "part of"
+*Arcs
+1 2 0.3230902 l "definition"
+2 1 0.0505065 l "definition"
+1 2 0.3230902 l "substring"
+2 1 0.0505065 l "substring"
+1 2 0.3230902 l "definition"
+2 1 0.0505065 l "definition"
+1 2 0.3230902 l "substring"
+2 1 0.0505065 l "substring"
+1 2 0.3230902 l "definition"
+2 1 0.0505065 l "definition"
+1 2 0.3230902 l "substring"
+2 1 0.0505065 l "substring"
+1 2 0.3230902 l "definition"
+2 1 0.0505065 l "definition"
+1 2 0.3230902 l "substring"
+2 1 0.0505065 l "substring"
+1 2 0.3230902 l "definition"
+2 1 0.0505065 l "definition"
+1 2 0.3230902 l "substring"
+2 1 0.0505065 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hydrides" ellipse
+2 "mononuclear parent hydride" ellipse
+*Arcs
+2 1 0.2086996 l "isa"
+1 2 0.1725773 l "isa"
+2 1 0.2086996 l "isa"
+1 2 0.1725773 l "isa"
+*Edges

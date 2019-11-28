@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Folivore" ellipse
+2 "Frugivore" ellipse
+3 "Omnivore" ellipse
+*Arcs
+1 2 0.2549554 l "distance"
+2 1 0.2095008 l "distance"
+1 3 0.2514866 l "distance"
+3 1 0.1735183 l "distance"
+1 2 0.2549554 l "distance"
+2 1 0.2095008 l "distance"
+1 3 0.2514866 l "distance"
+3 1 0.1735183 l "distance"
+*Edges

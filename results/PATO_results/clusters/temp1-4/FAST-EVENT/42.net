@@ -1,0 +1,29 @@
+*Vertices 2
+1 "ClassOfTemporalSequence" ellipse
+2 "TemporalSequence" ellipse
+*Arcs
+1 2 0.5863748 l "definition"
+2 1 0.8815823 l "definition"
+1 2 0.5863748 l "substring"
+2 1 0.8815823 l "substring"
+1 2 0.5863748 l "definition"
+2 1 0.8815823 l "definition"
+1 2 0.5863748 l "substring"
+2 1 0.8815823 l "substring"
+1 2 0.5863748 l "definition"
+2 1 0.8815823 l "definition"
+1 2 0.5863748 l "substring"
+2 1 0.8815823 l "substring"
+1 2 0.5863748 l "definition"
+2 1 0.8815823 l "definition"
+1 2 0.5863748 l "substring"
+2 1 0.8815823 l "substring"
+1 2 0.5863748 l "definition"
+2 1 0.8815823 l "definition"
+1 2 0.5863748 l "substring"
+2 1 0.8815823 l "substring"
+1 2 0.5863748 l "definition"
+2 1 0.8815823 l "definition"
+1 2 0.5863748 l "substring"
+2 1 0.8815823 l "substring"
+*Edges

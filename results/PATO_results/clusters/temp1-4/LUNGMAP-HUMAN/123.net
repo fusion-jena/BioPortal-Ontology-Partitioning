@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Dølafe" ellipse
+2 "Døle" ellipse
+*Arcs
+1 2 0.3480192 l "distance"
+2 1 0.1037395 l "distance"
+1 2 0.3480192 l "distance"
+2 1 0.1037395 l "distance"
+1 2 0.3480192 l "distance"
+2 1 0.1037395 l "distance"
+*Edges

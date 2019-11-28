@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Biostatistics" ellipse
+2 "Clinical Study" ellipse
+3 "Post-Study Analysis" ellipse
+4 "Bioinformatics" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3333333 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.2000000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.3333333 l "isa"
+*Edges

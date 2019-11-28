@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Coleção" ellipse
+2 "Activity" ellipse
+3 "Curation Activity" ellipse
+*Arcs
+3 2 0.4000000 l "isa"
+2 3 0.0540541 l "isa"
+2 2 0.1081081 l "continued"
+2 2 0.1081081 l "continued"
+2 2 0.1081081 l "a été continuée par"
+2 2 0.1081081 l "a été continuée par"
+3 1 0.4000000 l "betreute kuratorisch"
+1 3 0.3333333 l "betreute kuratorisch"
+1 3 0.3333333 l "was curated by"
+3 1 0.4000000 l "was curated by"
+2 3 0.0540541 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

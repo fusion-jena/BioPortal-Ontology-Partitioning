@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Galician Blond" ellipse
+2 "Galician Pony" ellipse
+*Arcs
+1 2 0.6685957 l "distance"
+2 1 0.6684220 l "distance"
+1 2 0.6685957 l "distance"
+2 1 0.6684220 l "distance"
+1 2 0.6685957 l "distance"
+2 1 0.6684220 l "distance"
+1 2 0.6685957 l "distance"
+2 1 0.6684220 l "distance"
+1 2 0.6685957 l "distance"
+2 1 0.6684220 l "distance"
+*Edges

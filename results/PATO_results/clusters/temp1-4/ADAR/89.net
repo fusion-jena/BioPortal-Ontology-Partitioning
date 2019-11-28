@@ -1,0 +1,44 @@
+*Vertices 13
+1 "Association_of_loss_of_language_with_physical_illness" ellipse
+2 "Definite_loss_of_five_meaningful_words_use" ellipse
+3 "Insufficient_language_to_show_change_five_meaningful_words_use" ellipse
+4 "Loss_of_language_skills_NK_or_not_asked" ellipse
+5 "Loss_of_language_skills_associated_meningeal_or_encephalitic_involvement" ellipse
+6 "Loss_of_language_skills_associated_with_illness" ellipse
+7 "Loss_of_language_skills_but_not_associated_with_physical_illness" ellipse
+8 "Loss_of_language_skills_or_other_skills" ellipse
+9 "Loss_of_spontaneous_use_of_at_least_five_meaningful_words" ellipse
+10 "NK_or_not_asked_five_meaningful_words_use" ellipse
+11 "No_definite_loss_of_five_meaningful_words_use" ellipse
+12 "No_loss_of_language_skills" ellipse
+13 "Probable_loss_of_five_meaningful_words_use" ellipse
+*Arcs
+1 8 0.1666667 l "isa"
+8 1 0.1000000 l "isa"
+2 9 0.3333333 l "isa"
+9 2 0.1666667 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.1666667 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1666667 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1666667 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1666667 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1666667 l "isa"
+9 8 0.1666667 l "isa"
+8 9 0.1000000 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.1666667 l "isa"
+11 9 0.3333333 l "isa"
+9 11 0.1666667 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.1666667 l "isa"
+13 9 1.0000000 l "isa"
+9 13 0.1666667 l "isa"
+2 11 0.6666667 l "substring"
+11 2 0.6666667 l "substring"
+2 11 0.6666667 l "distance"
+11 2 0.6666667 l "distance"
+*Edges

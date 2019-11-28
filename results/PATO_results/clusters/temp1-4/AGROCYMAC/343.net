@@ -1,0 +1,17 @@
+*Vertices 2
+1 "drawing a conclusion based on data" ellipse
+2 "conclusion based on data" ellipse
+*Arcs
+1 2 0.2843955 l "definition"
+2 1 0.3044306 l "definition"
+2 1 0.3044306 l "definition"
+1 2 0.2843955 l "definition"
+1 2 0.2843955 l "substring"
+2 1 0.3044306 l "substring"
+1 2 0.2843955 l "definition"
+2 1 0.3044306 l "definition"
+2 1 0.3044306 l "definition"
+1 2 0.2843955 l "definition"
+1 2 0.2843955 l "substring"
+2 1 0.3044306 l "substring"
+*Edges

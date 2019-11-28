@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Non-SI unit" ellipse
+2 "SI system (le Système international d'unités)" ellipse
+3 "English system of measurement" ellipse
+4 "Metric system of measurement" ellipse
+5 "non-SI pressure unit" ellipse
+6 "Unit of measurement" ellipse
+7 "United States customary units" ellipse
+8 "SI unit" ellipse
+*Arcs
+1 4 0.3333333 l "isa"
+4 1 0.3333333 l "isa"
+2 4 0.2500000 l "isa"
+4 2 0.3333333 l "isa"
+3 6 0.5000000 l "isa"
+6 3 0.1250000 l "isa"
+4 6 0.3333333 l "isa"
+6 4 0.1250000 l "isa"
+5 1 0.2500000 l "isa"
+1 5 0.3333333 l "isa"
+7 3 0.2500000 l "isa"
+3 7 0.5000000 l "isa"
+1 8 0.3333333 l "substring"
+8 1 0.1428571 l "substring"
+*Edges

@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Misaki" ellipse
+2 "Miyako" ellipse
+3 "Kiko" ellipse
+*Arcs
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+1 2 0.2370714 l "distance"
+2 1 0.4084079 l "distance"
+2 3 0.3442772 l "distance"
+3 2 0.1375560 l "distance"
+*Edges

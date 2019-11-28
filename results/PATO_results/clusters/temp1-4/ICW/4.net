@@ -1,0 +1,23 @@
+*Vertices 2
+1 "bile" ellipse
+2 "liver" ellipse
+*Arcs
+1 2 0.2355225 l "definition"
+2 1 0.2728463 l "definition"
+2 1 0.2728463 l "definition"
+1 2 0.2355225 l "definition"
+1 2 0.2355225 l "distance"
+2 1 0.2728463 l "distance"
+1 2 0.2355225 l "definition"
+2 1 0.2728463 l "definition"
+2 1 0.2728463 l "definition"
+1 2 0.2355225 l "definition"
+1 2 0.2355225 l "distance"
+2 1 0.2728463 l "distance"
+1 2 0.2355225 l "definition"
+2 1 0.2728463 l "definition"
+2 1 0.2728463 l "definition"
+1 2 0.2355225 l "definition"
+1 2 0.2355225 l "distance"
+2 1 0.2728463 l "distance"
+*Edges

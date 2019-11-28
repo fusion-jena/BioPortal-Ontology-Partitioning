@@ -1,0 +1,21 @@
+*Vertices 6
+1 "EthicsCommittee" ellipse
+2 "FundingInstitution" ellipse
+3 "Institution" ellipse
+4 "Labor" ellipse
+5 "Laboratory" ellipse
+6 "StudyCommittee" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.0400000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.0800000 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.0400000 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.0400000 l "isa"
+2 3 1.0000000 l "substring"
+3 2 0.0800000 l "substring"
+4 5 0.0666667 l "substring"
+5 4 0.5000000 l "substring"
+*Edges

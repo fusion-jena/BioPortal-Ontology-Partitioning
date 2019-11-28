@@ -1,0 +1,15 @@
+*Vertices 2
+1 "tocilizumab" ellipse
+2 "Actemra" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7300242 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7300242 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7300242 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7300242 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7300242 l "isa"
+*Edges

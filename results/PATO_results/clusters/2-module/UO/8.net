@@ -1,0 +1,13 @@
+*Vertices 4
+1 "minute" ellipse
+2 "activity (of a radionuclide) unit" ellipse
+3 "becquerel" ellipse
+4 "counts per minute" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.0769231 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.0769231 l "isa"
+1 4 0.1428571 l "substring"
+4 1 0.5000000 l "substring"
+*Edges

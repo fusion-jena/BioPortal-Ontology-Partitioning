@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Feasibility Documentation" ellipse
+2 "Investigator Confidentiality Agreement" ellipse
+3 "Pre Trial Monitoring Report" ellipse
+4 "Site Selection" ellipse
+5 "Sites Evaluated but not Selected" ellipse
+6 "Study Site Personnel Details" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1666667 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1666667 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1666667 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "BloodPlasmaSample" ellipse
+2 "sampledFrom"
+*Arcs
+1 2 0.2062067 l "definition"
+2 1 0.1178575 l "definition"
+1 2 0.2062067 l "definition"
+2 1 0.1178575 l "definition"
+*Edges

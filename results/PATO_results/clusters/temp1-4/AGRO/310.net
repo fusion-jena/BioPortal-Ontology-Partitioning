@@ -1,0 +1,22 @@
+*Vertices 3
+1 "relative retention time" ellipse
+2 "unadjusted relative retention" ellipse
+3 "adjusted relative retention" ellipse
+*Arcs
+2 1 0.2222222 l "isa"
+1 2 0.1222583 l "isa"
+3 1 0.2222222 l "isa"
+1 3 0.1222583 l "isa"
+2 3 0.5982906 l "substring"
+3 2 0.5982906 l "substring"
+2 3 0.5982906 l "distance"
+3 2 0.5982906 l "distance"
+2 1 0.2222222 l "isa"
+1 2 0.1222583 l "isa"
+3 1 0.2222222 l "isa"
+1 3 0.1222583 l "isa"
+2 3 0.5982906 l "substring"
+3 2 0.5982906 l "substring"
+2 3 0.5982906 l "distance"
+3 2 0.5982906 l "distance"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 5
+1 "Face-to-face" ellipse
+2 "Indicators" ellipse
+3 "Non_Face-to-face" ellipse
+4 "STOPPFrail_criteria" ellipse
+5 "STOPP_START_criteria" ellipse
+*Arcs
+4 2 1.0000000 l "isa"
+2 4 0.0476190 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0476190 l "isa"
+2 1 0.0952381 l "Has_Presence_of_Type"
+1 2 0.4000000 l "Has_Presence_of_Type"
+2 3 0.0952381 l "Has_Presence_of_Type"
+3 2 0.4000000 l "Has_Presence_of_Type"
+1 2 0.4000000 l "It_is_Type_Presence_of"
+2 1 0.0952381 l "It_is_Type_Presence_of"
+3 2 0.4000000 l "It_is_Type_Presence_of"
+2 3 0.0952381 l "It_is_Type_Presence_of"
+1 3 0.2000000 l "substring"
+3 1 0.2000000 l "substring"
+*Edges

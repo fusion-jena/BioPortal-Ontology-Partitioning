@@ -1,0 +1,17 @@
+*Vertices 2
+1 "t-test" ellipse
+2 "test" ellipse
+*Arcs
+1 2 0.8237288 l "isa"
+2 1 0.0840289 l "isa"
+1 2 0.8237288 l "substring"
+2 1 0.0840289 l "substring"
+1 2 0.8237288 l "distance"
+2 1 0.0840289 l "distance"
+1 2 0.8237288 l "isa"
+2 1 0.0840289 l "isa"
+1 2 0.8237288 l "substring"
+2 1 0.0840289 l "substring"
+1 2 0.8237288 l "distance"
+2 1 0.0840289 l "distance"
+*Edges

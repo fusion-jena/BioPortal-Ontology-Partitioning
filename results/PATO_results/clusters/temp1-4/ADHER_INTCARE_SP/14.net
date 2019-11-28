@@ -1,0 +1,59 @@
+*Vertices 8
+1 "Emotional reciprocity capability" ellipse
+2 "Impairment of non-verval social interaction" ellipse
+3 "Impairment of peer relationship" ellipse
+4 "Impairment of social behavior" ellipse
+5 "Impairment of social or emotional reciprocity" ellipse
+6 "Peer relationship" ellipse
+7 "Social interaction capability" ellipse
+8 "Social reciprocity" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1442893 l "isa"
+2 4 0.3729023 l "isa"
+4 2 0.1288712 l "isa"
+3 4 0.4360091 l "isa"
+4 3 0.1373133 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1852815 l "isa"
+6 7 0.4315774 l "isa"
+7 6 0.1066208 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.1442893 l "isa"
+4 7 0.1032584 l "definition"
+7 4 0.0816377 l "definition"
+3 6 0.5639908 l "substring"
+6 3 0.5684226 l "substring"
+1 7 1.0000000 l "isa"
+7 1 0.1442893 l "isa"
+2 4 0.3729023 l "isa"
+4 2 0.1288712 l "isa"
+3 4 0.4360091 l "isa"
+4 3 0.1373133 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1852815 l "isa"
+6 7 0.4315774 l "isa"
+7 6 0.1066208 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.1442893 l "isa"
+4 7 0.1032584 l "definition"
+7 4 0.0816377 l "definition"
+3 6 0.5639908 l "substring"
+6 3 0.5684226 l "substring"
+1 7 1.0000000 l "isa"
+7 1 0.1442893 l "isa"
+2 4 0.3729023 l "isa"
+4 2 0.1288712 l "isa"
+3 4 0.4360091 l "isa"
+4 3 0.1373133 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1852815 l "isa"
+6 7 0.4315774 l "isa"
+7 6 0.1066208 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.1442893 l "isa"
+4 7 0.1032584 l "definition"
+7 4 0.0816377 l "definition"
+3 6 0.5639908 l "substring"
+6 3 0.5684226 l "substring"
+*Edges

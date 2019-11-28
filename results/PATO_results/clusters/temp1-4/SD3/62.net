@@ -1,0 +1,19 @@
+*Vertices 2
+1 "certolizumab pegol" ellipse
+2 "Cimzia" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7840760 l "isa"
+*Edges

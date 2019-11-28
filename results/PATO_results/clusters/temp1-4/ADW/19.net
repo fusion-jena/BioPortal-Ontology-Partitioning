@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Guinea pig" ellipse
+2 "Rodent" ellipse
+*Arcs
+1 2 0.6129032 l "isa"
+2 1 0.1738520 l "isa"
+1 2 0.6129032 l "isa"
+2 1 0.1738520 l "isa"
+*Edges

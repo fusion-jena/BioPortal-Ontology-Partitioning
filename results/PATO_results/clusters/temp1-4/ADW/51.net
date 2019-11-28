@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Endosome" ellipse
+2 "Lysosome" ellipse
+3 "Microglia" ellipse
+*Arcs
+2 3 0.3413174 l "isa"
+3 2 0.0862319 l "isa"
+1 2 0.3962264 l "distance"
+2 1 0.3952096 l "distance"
+2 3 0.3413174 l "isa"
+3 2 0.0862319 l "isa"
+1 2 0.3962264 l "distance"
+2 1 0.3952096 l "distance"
+*Edges

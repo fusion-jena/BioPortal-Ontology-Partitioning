@@ -1,0 +1,13 @@
+*Vertices 2
+1 "DQ_Scope" ellipse
+2 "scope"
+*Arcs
+1 2 0.1899955 l "substring"
+2 1 0.0683751 l "substring"
+1 2 0.1899955 l "distance"
+2 1 0.0683751 l "distance"
+1 2 0.1899955 l "substring"
+2 1 0.0683751 l "substring"
+1 2 0.1899955 l "distance"
+2 1 0.0683751 l "distance"
+*Edges

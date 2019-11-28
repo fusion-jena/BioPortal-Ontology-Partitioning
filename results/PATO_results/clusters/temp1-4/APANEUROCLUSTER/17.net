@@ -1,0 +1,11 @@
+*Vertices 2
+1 "atopy" ellipse
+2 "Biopsy" ellipse
+*Arcs
+1 2 0.0594551 l "distance"
+2 1 0.5078048 l "distance"
+1 2 0.0594551 l "distance"
+2 1 0.5078048 l "distance"
+1 2 0.0594551 l "distance"
+2 1 0.5078048 l "distance"
+*Edges

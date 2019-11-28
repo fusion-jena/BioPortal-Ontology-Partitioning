@@ -1,0 +1,51 @@
+*Vertices 8
+1 "Appropriate_response_to_overtures_by_familiar_and_unfamiliar_adults" ellipse
+2 "Appropriateness_of_social_responses" ellipse
+3 "Appropriateness_of_social_responses_NA" ellipse
+4 "Appropriateness_of_social_responses_UnknownOrNotAsked" ellipse
+5 "Little_or_no_interest_in_or_response_to_people" ellipse
+6 "Responds_to_parentsOrCaregiver_and_others_in_familiar_settings" ellipse
+7 "cresp_Little_or_no_interest_in_or_response_to_people"
+8 "cresp_Responds_to_parentsOrCaregiver_and_others_in_familiar_settings"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1065597 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3403036 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2199943 l "isa"
+5 2 0.3310271 l "isa"
+2 5 0.0836437 l "isa"
+6 2 0.4785276 l "isa"
+2 6 0.0893727 l "isa"
+2 3 0.3403036 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2199943 l "substring"
+4 2 1.0000000 l "substring"
+5 7 0.3514329 l "substring"
+7 5 0.2755774 l "substring"
+6 8 0.5214724 l "substring"
+8 6 0.3757705 l "substring"
+2 3 0.3403036 l "distance"
+3 2 1.0000000 l "distance"
+1 2 1.0000000 l "isa"
+2 1 0.1065597 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3403036 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2199943 l "isa"
+5 2 0.3310271 l "isa"
+2 5 0.0836437 l "isa"
+6 2 0.4785276 l "isa"
+2 6 0.0893727 l "isa"
+2 3 0.3403036 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2199943 l "substring"
+4 2 1.0000000 l "substring"
+5 7 0.3514329 l "substring"
+7 5 0.2755774 l "substring"
+6 8 0.5214724 l "substring"
+8 6 0.3757705 l "substring"
+2 3 0.3403036 l "distance"
+3 2 1.0000000 l "distance"
+*Edges

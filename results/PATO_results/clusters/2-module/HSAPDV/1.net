@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Carnegie stage 22" ellipse
+2 "Carnegie stage 23" ellipse
+*Arcs
+2 1 0.0606061 l "definition"
+1 2 0.0588235 l "definition"
+1 2 0.0588235 l "distance"
+2 1 0.0606061 l "distance"
+*Edges

@@ -1,0 +1,63 @@
+*Vertices 8
+1 "solid" ellipse
+2 "suspension" ellipse
+3 "spray" ellipse
+4 "heterogeneous mixture" ellipse
+5 "solid heterogeneous mixture" ellipse
+6 "dispersion" ellipse
+7 "solidifying" ellipse
+8 "solid" ellipse
+*Arcs
+2 4 0.2645779 l "isa"
+4 2 0.1705948 l "isa"
+3 2 0.0474292 l "isa"
+2 3 0.2567450 l "isa"
+5 1 0.2904789 l "isa"
+1 5 0.0591723 l "isa"
+5 4 0.3269311 l "isa"
+4 5 0.3681257 l "isa"
+6 4 0.2082077 l "isa"
+4 6 0.1649832 l "isa"
+1 5 0.0591723 l "substring"
+5 1 0.2904789 l "substring"
+1 7 0.0279908 l "substring"
+7 1 0.2516611 l "substring"
+1 8 0.0533711 l "substring"
+8 1 0.0537217 l "substring"
+4 5 0.3681257 l "substring"
+5 4 0.3269311 l "substring"
+5 8 0.1324242 l "substring"
+8 5 0.0271528 l "substring"
+7 8 0.2516611 l "substring"
+8 7 0.0281747 l "substring"
+1 8 0.0533711 l "distance"
+8 1 0.0537217 l "distance"
+2 6 0.2697999 l "distance"
+6 2 0.2195387 l "distance"
+2 4 0.2645779 l "isa"
+4 2 0.1705948 l "isa"
+3 2 0.0474292 l "isa"
+2 3 0.2567450 l "isa"
+5 1 0.2904789 l "isa"
+1 5 0.0591723 l "isa"
+5 4 0.3269311 l "isa"
+4 5 0.3681257 l "isa"
+6 4 0.2082077 l "isa"
+4 6 0.1649832 l "isa"
+1 5 0.0591723 l "substring"
+5 1 0.2904789 l "substring"
+1 7 0.0279908 l "substring"
+7 1 0.2516611 l "substring"
+1 8 0.0533711 l "substring"
+8 1 0.0537217 l "substring"
+4 5 0.3681257 l "substring"
+5 4 0.3269311 l "substring"
+5 8 0.1324242 l "substring"
+8 5 0.0271528 l "substring"
+7 8 0.2516611 l "substring"
+8 7 0.0281747 l "substring"
+1 8 0.0533711 l "distance"
+8 1 0.0537217 l "distance"
+2 6 0.2697999 l "distance"
+6 2 0.2195387 l "distance"
+*Edges

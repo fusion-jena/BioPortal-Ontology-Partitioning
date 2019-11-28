@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Some_Participation_in_Pretend_Play_With_Another_Child" ellipse
+2 "peerpl_Some_Participation_in_Pretend_Play_With_Another_Child"
+*Arcs
+1 2 0.1745232 l "substring"
+2 1 0.1517594 l "substring"
+1 2 0.1745232 l "substring"
+2 1 0.1517594 l "substring"
+*Edges

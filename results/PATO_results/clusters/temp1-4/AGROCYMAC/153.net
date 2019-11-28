@@ -1,0 +1,14 @@
+*Vertices 3
+1 "degradation" ellipse
+2 "soil degradation" ellipse
+3 "environmental system process" ellipse
+*Arcs
+2 3 0.2495321 l "isa"
+3 2 0.0365653 l "isa"
+1 2 0.1241518 l "substring"
+2 1 0.2581518 l "substring"
+2 3 0.2495321 l "isa"
+3 2 0.0365653 l "isa"
+1 2 0.1241518 l "substring"
+2 1 0.2581518 l "substring"
+*Edges

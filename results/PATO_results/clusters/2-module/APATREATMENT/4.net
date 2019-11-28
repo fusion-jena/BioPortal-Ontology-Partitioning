@@ -1,0 +1,56 @@
+*Vertices 13
+1 "Counseling_Psychology" ellipse
+2 "Cross_Cultural_Counseling" ellipse
+3 "Family_Planning" ellipse
+4 "Genetic_Counseling" ellipse
+5 "Group_Counseling" ellipse
+6 "Hot_Line_Services" ellipse
+7 "Microcounseling" ellipse
+8 "Pastoral_Counseling" ellipse
+9 "Peer_Counseling" ellipse
+10 "Premarital_Counseling" ellipse
+11 "Social_Casework" ellipse
+12 "Social_Group_Work" ellipse
+13 "Counseling" ellipse
+*Arcs
+1 13 0.6666667 l "isa"
+13 1 0.0714286 l "isa"
+2 13 0.6666667 l "isa"
+13 2 0.0714286 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.0357143 l "isa"
+4 13 0.6666667 l "isa"
+13 4 0.0714286 l "isa"
+5 13 0.6666667 l "isa"
+13 5 0.0714286 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.0357143 l "isa"
+7 13 0.6666667 l "isa"
+13 7 0.0714286 l "isa"
+8 13 0.6666667 l "isa"
+13 8 0.0714286 l "isa"
+9 13 0.6666667 l "isa"
+13 9 0.0714286 l "isa"
+10 13 0.6666667 l "isa"
+13 10 0.0714286 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.0357143 l "isa"
+12 13 1.0000000 l "isa"
+13 12 0.0357143 l "isa"
+1 13 0.6666667 l "substring"
+13 1 0.0714286 l "substring"
+2 13 0.6666667 l "substring"
+13 2 0.0714286 l "substring"
+4 13 0.6666667 l "substring"
+13 4 0.0714286 l "substring"
+5 13 0.6666667 l "substring"
+13 5 0.0714286 l "substring"
+7 13 0.6666667 l "substring"
+13 7 0.0714286 l "substring"
+8 13 0.6666667 l "substring"
+13 8 0.0714286 l "substring"
+9 13 0.6666667 l "substring"
+13 9 0.0714286 l "substring"
+10 13 0.6666667 l "substring"
+13 10 0.0714286 l "substring"
+*Edges

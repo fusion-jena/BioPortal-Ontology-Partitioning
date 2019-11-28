@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Enjoys_Parallel_Active_Play_but_Little_or_No_Cooperative_Play" ellipse
+2 "grplay_Enjoys_Parallel_Active_Play_but_Little_or_No_Cooperative_Play"
+*Arcs
+1 2 0.2638424 l "substring"
+2 1 0.2168953 l "substring"
+1 2 0.2638424 l "substring"
+2 1 0.2168953 l "substring"
+*Edges

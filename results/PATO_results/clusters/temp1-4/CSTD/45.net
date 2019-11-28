@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Hospital Informatics Services" ellipse
+2 "Bionutrition Support" ellipse
+3 "Pharmacy Services" ellipse
+4 "Study Support" ellipse
+5 "Nursing Support" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2113208 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2113208 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2113208 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2113208 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2113208 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2113208 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2113208 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2113208 l "isa"
+*Edges

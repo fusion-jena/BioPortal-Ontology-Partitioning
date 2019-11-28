@@ -1,0 +1,21 @@
+*Vertices 2
+1 "ALCOH" ellipse
+2 "MFCON" ellipse
+*Arcs
+1 2 0.0975550 l "isa"
+2 1 0.0386539 l "isa"
+1 2 0.0975550 l "distance"
+2 1 0.0386539 l "distance"
+1 2 0.0975550 l "isa"
+2 1 0.0386539 l "isa"
+1 2 0.0975550 l "distance"
+2 1 0.0386539 l "distance"
+1 2 0.0975550 l "isa"
+2 1 0.0386539 l "isa"
+1 2 0.0975550 l "distance"
+2 1 0.0386539 l "distance"
+1 2 0.0975550 l "isa"
+2 1 0.0386539 l "isa"
+1 2 0.0975550 l "distance"
+2 1 0.0386539 l "distance"
+*Edges

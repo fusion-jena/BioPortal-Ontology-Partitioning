@@ -1,0 +1,19 @@
+*Vertices 4
+1 "antero-ventral region" ellipse
+2 "postero-ventral region" ellipse
+3 "ventral-most region" ellipse
+4 "ventral region" ellipse
+*Arcs
+1 4 0.1666667 l "isa"
+4 1 0.1250000 l "isa"
+2 4 0.1666667 l "isa"
+4 2 0.1250000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0625000 l "isa"
+1 4 0.1666667 l "substring"
+4 1 0.1250000 l "substring"
+2 4 0.1666667 l "substring"
+4 2 0.1250000 l "substring"
+1 2 0.0833333 l "distance"
+2 1 0.0833333 l "distance"
+*Edges

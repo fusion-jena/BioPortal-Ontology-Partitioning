@@ -1,0 +1,160 @@
+*Vertices 53
+1 "Acupuncture" ellipse
+2 "Adrenalectomy" ellipse
+3 "Amputation" ellipse
+4 "Artificial_Pacemakers" ellipse
+5 "Artificial_Respiration" ellipse
+6 "Blood_Transfusion" ellipse
+7 "CPR" ellipse
+8 "Catheterization" ellipse
+9 "Circumcision" ellipse
+10 "Colostomy" ellipse
+11 "Commissurotomy" ellipse
+12 "Drug_Augmentation" ellipse
+13 "Drug_Self_Administration" ellipse
+14 "Family_Medicine" ellipse
+15 "Fertility_Enhancement" ellipse
+16 "Hemispherectomy" ellipse
+17 "Hormone_Therapy" ellipse
+18 "Hypophysectomy" ellipse
+19 "Hysterectomy" ellipse
+20 "Immunization" ellipse
+21 "Immunotherapy" ellipse
+22 "Induced_Abortion" ellipse
+23 "Laser_Irradiation" ellipse
+24 "Massage" ellipse
+25 "Medical_Therapeutic_Devices" ellipse
+26 "Mobility_Aids" ellipse
+27 "Mood_Stabilizers" ellipse
+28 "Movement_Therapy" ellipse
+29 "Narcoanalysis" ellipse
+30 "Neural_Transplantation" ellipse
+31 "Oncology" ellipse
+32 "Organ_Transplantation" ellipse
+33 "Pinealectomy" ellipse
+34 "Polypharmacy" ellipse
+35 "Postsurgical_Complications" ellipse
+36 "Prenatal_Care" ellipse
+37 "Preventive_Medicine" ellipse
+38 "Primary_Health_Care" ellipse
+39 "Psychosomatic_Medicine" ellipse
+40 "Radiation_Therapy" ellipse
+41 "Sex_Change" ellipse
+42 "Sports_Medicine" ellipse
+43 "Statins" ellipse
+44 "Stem_Cells" ellipse
+45 "Stereotaxic_Techniques" ellipse
+46 "Sympathectomy" ellipse
+47 "Thalamotomy" ellipse
+48 "Thyroidectomy" ellipse
+49 "Tractotomy" ellipse
+50 "Transcranial_Magnetic_Stimulation" ellipse
+51 "Tubal_Ligation" ellipse
+52 "Vitamin_Therapy" ellipse
+53 "MedicalPhysicalTreatment" ellipse
+*Arcs
+1 53 1.0000000 l "isa"
+53 1 0.0123457 l "isa"
+2 53 1.0000000 l "isa"
+53 2 0.0123457 l "isa"
+3 53 1.0000000 l "isa"
+53 3 0.0123457 l "isa"
+4 53 1.0000000 l "isa"
+53 4 0.0123457 l "isa"
+5 53 1.0000000 l "isa"
+53 5 0.0123457 l "isa"
+6 53 1.0000000 l "isa"
+53 6 0.0123457 l "isa"
+7 53 1.0000000 l "isa"
+53 7 0.0123457 l "isa"
+8 53 1.0000000 l "isa"
+53 8 0.0123457 l "isa"
+9 53 1.0000000 l "isa"
+53 9 0.0123457 l "isa"
+10 53 1.0000000 l "isa"
+53 10 0.0123457 l "isa"
+11 53 1.0000000 l "isa"
+53 11 0.0123457 l "isa"
+12 53 1.0000000 l "isa"
+53 12 0.0123457 l "isa"
+13 53 1.0000000 l "isa"
+53 13 0.0123457 l "isa"
+14 53 1.0000000 l "isa"
+53 14 0.0123457 l "isa"
+15 53 1.0000000 l "isa"
+53 15 0.0123457 l "isa"
+16 53 1.0000000 l "isa"
+53 16 0.0123457 l "isa"
+17 53 1.0000000 l "isa"
+53 17 0.0123457 l "isa"
+18 53 1.0000000 l "isa"
+53 18 0.0123457 l "isa"
+19 53 1.0000000 l "isa"
+53 19 0.0123457 l "isa"
+20 53 1.0000000 l "isa"
+53 20 0.0123457 l "isa"
+21 53 1.0000000 l "isa"
+53 21 0.0123457 l "isa"
+22 53 1.0000000 l "isa"
+53 22 0.0123457 l "isa"
+23 53 1.0000000 l "isa"
+53 23 0.0123457 l "isa"
+24 53 1.0000000 l "isa"
+53 24 0.0123457 l "isa"
+25 53 1.0000000 l "isa"
+53 25 0.0123457 l "isa"
+26 53 1.0000000 l "isa"
+53 26 0.0123457 l "isa"
+27 53 1.0000000 l "isa"
+53 27 0.0123457 l "isa"
+28 53 1.0000000 l "isa"
+53 28 0.0123457 l "isa"
+29 53 1.0000000 l "isa"
+53 29 0.0123457 l "isa"
+30 53 1.0000000 l "isa"
+53 30 0.0123457 l "isa"
+31 53 1.0000000 l "isa"
+53 31 0.0123457 l "isa"
+32 53 1.0000000 l "isa"
+53 32 0.0123457 l "isa"
+33 53 1.0000000 l "isa"
+53 33 0.0123457 l "isa"
+34 53 1.0000000 l "isa"
+53 34 0.0123457 l "isa"
+35 53 1.0000000 l "isa"
+53 35 0.0123457 l "isa"
+36 53 1.0000000 l "isa"
+53 36 0.0123457 l "isa"
+37 53 1.0000000 l "isa"
+53 37 0.0123457 l "isa"
+38 53 1.0000000 l "isa"
+53 38 0.0123457 l "isa"
+39 53 1.0000000 l "isa"
+53 39 0.0123457 l "isa"
+40 53 1.0000000 l "isa"
+53 40 0.0123457 l "isa"
+41 53 1.0000000 l "isa"
+53 41 0.0123457 l "isa"
+42 53 1.0000000 l "isa"
+53 42 0.0123457 l "isa"
+43 53 1.0000000 l "isa"
+53 43 0.0123457 l "isa"
+44 53 1.0000000 l "isa"
+53 44 0.0123457 l "isa"
+45 53 1.0000000 l "isa"
+53 45 0.0123457 l "isa"
+46 53 1.0000000 l "isa"
+53 46 0.0123457 l "isa"
+47 53 1.0000000 l "isa"
+53 47 0.0123457 l "isa"
+48 53 1.0000000 l "isa"
+53 48 0.0123457 l "isa"
+49 53 1.0000000 l "isa"
+53 49 0.0123457 l "isa"
+50 53 1.0000000 l "isa"
+53 50 0.0123457 l "isa"
+51 53 1.0000000 l "isa"
+53 51 0.0123457 l "isa"
+52 53 1.0000000 l "isa"
+53 52 0.0123457 l "isa"
+*Edges

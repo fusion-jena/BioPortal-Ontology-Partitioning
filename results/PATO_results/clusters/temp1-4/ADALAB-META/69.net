@@ -1,0 +1,52 @@
+*Vertices 9
+1 "Diaphragm" ellipse
+2 "DiaphragmaticHernia" ellipse
+3 "Hernia" ellipse
+4 "IncisionalHernia" ellipse
+5 "MuscleOfThorax" ellipse
+6 "MuscleOfTrunk" ellipse
+7 "MuscleOrgan" ellipse
+8 "Thorax" ellipse
+9 "Trunk" ellipse
+*Arcs
+1 5 0.5074627 l "isa"
+5 1 0.3505155 l "isa"
+2 3 0.5269383 l "isa"
+3 2 0.3107600 l "isa"
+4 3 0.7166082 l "isa"
+3 4 0.3293526 l "isa"
+5 6 0.3298969 l "isa"
+6 5 0.3489417 l "isa"
+6 7 0.3380372 l "isa"
+7 6 0.2678732 l "isa"
+1 2 0.4925373 l "substring"
+2 1 0.2600914 l "substring"
+2 3 0.5269383 l "substring"
+3 2 0.3107600 l "substring"
+3 4 0.3293526 l "substring"
+4 3 0.7166082 l "substring"
+5 8 0.3195876 l "substring"
+8 5 0.2663583 l "substring"
+6 9 0.3130212 l "substring"
+9 6 0.0647092 l "substring"
+1 5 0.5074627 l "isa"
+5 1 0.3505155 l "isa"
+2 3 0.5269383 l "isa"
+3 2 0.3107600 l "isa"
+4 3 0.7166082 l "isa"
+3 4 0.3293526 l "isa"
+5 6 0.3298969 l "isa"
+6 5 0.3489417 l "isa"
+6 7 0.3380372 l "isa"
+7 6 0.2678732 l "isa"
+1 2 0.4925373 l "substring"
+2 1 0.2600914 l "substring"
+2 3 0.5269383 l "substring"
+3 2 0.3107600 l "substring"
+3 4 0.3293526 l "substring"
+4 3 0.7166082 l "substring"
+5 8 0.3195876 l "substring"
+8 5 0.2663583 l "substring"
+6 9 0.3130212 l "substring"
+9 6 0.0647092 l "substring"
+*Edges

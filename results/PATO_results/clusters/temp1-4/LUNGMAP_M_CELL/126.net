@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Mewati" ellipse
+2 "Hejazi" ellipse
+*Arcs
+1 2 0.1555406 l "distance"
+2 1 0.3752995 l "distance"
+1 2 0.1555406 l "distance"
+2 1 0.3752995 l "distance"
+1 2 0.1555406 l "distance"
+2 1 0.3752995 l "distance"
+1 2 0.1555406 l "distance"
+2 1 0.3752995 l "distance"
+1 2 0.1555406 l "distance"
+2 1 0.3752995 l "distance"
+*Edges

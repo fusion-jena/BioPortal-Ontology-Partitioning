@@ -1,0 +1,13 @@
+*Vertices 2
+1 "trigger specification" ellipse
+2 "time trigger specification" ellipse
+*Arcs
+2 1 0.3047177 l "isa"
+1 2 0.3398671 l "isa"
+1 2 0.3398671 l "substring"
+2 1 0.3047177 l "substring"
+2 1 0.3047177 l "isa"
+1 2 0.3398671 l "isa"
+1 2 0.3398671 l "substring"
+2 1 0.3047177 l "substring"
+*Edges

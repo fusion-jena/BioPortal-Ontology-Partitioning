@@ -1,0 +1,9 @@
+*Vertices 2
+1 "EMG" ellipse
+2 "THEMG" ellipse
+*Arcs
+1 2 0.0168067 l "substring"
+2 1 0.0952381 l "substring"
+1 2 0.0168067 l "distance"
+2 1 0.0952381 l "distance"
+*Edges

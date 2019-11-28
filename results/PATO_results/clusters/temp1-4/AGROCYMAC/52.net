@@ -1,0 +1,51 @@
+*Vertices 6
+1 "to heat" ellipse
+2 "to cool" ellipse
+3 "to change" ellipse
+4 "to increment" ellipse
+5 "to decrement" ellipse
+6 "to shape" ellipse
+*Arcs
+1 4 0.2747922 l "isa"
+4 1 0.3353677 l "isa"
+2 5 0.1448228 l "isa"
+5 2 0.3152837 l "isa"
+4 3 0.3082876 l "isa"
+3 4 0.1484342 l "isa"
+5 3 0.3182141 l "isa"
+3 5 0.1489674 l "isa"
+6 3 0.2892167 l "isa"
+3 6 0.3171206 l "isa"
+3 6 0.3171206 l "distance"
+6 3 0.2892167 l "distance"
+4 5 0.3563448 l "distance"
+5 4 0.3665022 l "distance"
+1 4 0.2747922 l "isa"
+4 1 0.3353677 l "isa"
+2 5 0.1448228 l "isa"
+5 2 0.3152837 l "isa"
+4 3 0.3082876 l "isa"
+3 4 0.1484342 l "isa"
+5 3 0.3182141 l "isa"
+3 5 0.1489674 l "isa"
+6 3 0.2892167 l "isa"
+3 6 0.3171206 l "isa"
+3 6 0.3171206 l "distance"
+6 3 0.2892167 l "distance"
+4 5 0.3563448 l "distance"
+5 4 0.3665022 l "distance"
+1 4 0.2747922 l "isa"
+4 1 0.3353677 l "isa"
+2 5 0.1448228 l "isa"
+5 2 0.3152837 l "isa"
+4 3 0.3082876 l "isa"
+3 4 0.1484342 l "isa"
+5 3 0.3182141 l "isa"
+3 5 0.1489674 l "isa"
+6 3 0.2892167 l "isa"
+3 6 0.3171206 l "isa"
+3 6 0.3171206 l "distance"
+6 3 0.2892167 l "distance"
+4 5 0.3563448 l "distance"
+5 4 0.3665022 l "distance"
+*Edges

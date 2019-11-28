@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Hermes" ellipse
+2 "Satisfactory_adh_Hermes" ellipse
+3 "Unsatisfactory_adh_Hermes" ellipse
+4 "Adh_Hermes__Value"
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 0.1428571 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.1428571 l "isa"
+1 3 0.1428571 l "definition"
+3 1 0.2500000 l "definition"
+1 2 0.1428571 l "definition"
+2 1 0.2500000 l "definition"
+1 4 0.0952381 l "definition"
+4 1 0.4000000 l "definition"
+2 4 0.0833333 l "definition"
+4 2 0.2000000 l "definition"
+3 4 0.0833333 l "definition"
+4 3 0.2000000 l "definition"
+1 2 0.1428571 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.1428571 l "substring"
+3 1 0.2500000 l "substring"
+1 4 0.0952381 l "substring"
+4 1 0.4000000 l "substring"
+2 3 0.1666667 l "substring"
+3 2 0.1666667 l "substring"
+2 3 0.1666667 l "distance"
+3 2 0.1666667 l "distance"
+*Edges

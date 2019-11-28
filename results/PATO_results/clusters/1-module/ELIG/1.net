@@ -1,0 +1,45 @@
+*Vertices 14
+1 "DiseaseCharacteristic" ellipse
+2 "EligibilityFeature" ellipse
+3 "Device" ellipse
+4 "StagingInformation" ellipse
+5 "Age" ellipse
+6 "Gender" ellipse
+7 "MenopausalStatus" ellipse
+8 "LifeExpectancy" ellipse
+9 "AcceptsHealthyVolunteer" ellipse
+10 "OtherPatientCharacteristics" ellipse
+11 "Receptor" ellipse
+12 "Severity" ellipse
+13 "TNMStage" ellipse
+14 "PatientCharacteristic" ellipse
+*Arcs
+1 2 0.1666667 l "isa"
+2 1 0.5000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1666667 l "isa"
+5 14 0.5000000 l "isa"
+14 5 0.1250000 l "isa"
+6 14 1.0000000 l "isa"
+14 6 0.1250000 l "isa"
+7 14 1.0000000 l "isa"
+14 7 0.1250000 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.1250000 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.1250000 l "isa"
+10 14 0.6666667 l "isa"
+14 10 0.2500000 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.2000000 l "isa"
+12 4 1.0000000 l "isa"
+4 12 0.2000000 l "isa"
+13 4 0.5000000 l "isa"
+4 13 0.2000000 l "isa"
+14 2 0.1250000 l "isa"
+2 14 0.5000000 l "isa"
+5 13 0.5000000 l "substring"
+13 5 0.5000000 l "substring"
+10 14 0.6666667 l "substring"
+14 10 0.2500000 l "substring"
+*Edges

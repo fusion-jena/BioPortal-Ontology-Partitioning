@@ -1,0 +1,286 @@
+*Vertices 95
+1 "horse breed" ellipse
+2 "Abyssinian" ellipse
+3 "Akhal Teke" ellipse
+4 "Andravida" ellipse
+5 "Ardennes" ellipse
+6 "Australian Brumby" ellipse
+7 "Australian Stock Horse" ellipse
+8 "Azteca" ellipse
+9 "Basotho Pony" ellipse
+10 "Bhirum Pony" ellipse
+11 "Bhotia Pony" ellipse
+12 "Buckskin" ellipse
+13 "Budyonny" ellipse
+14 "Byelorussian Harness" ellipse
+15 "Camargue" ellipse
+16 "Chilean Corralero" ellipse
+17 "Chincoteague Pony" ellipse
+18 "Cleveland Bay" ellipse
+19 "Clydesdale" ellipse
+20 "Colorado Ranger Horse" ellipse
+21 "Connemara Pony" ellipse
+22 "Deliboz" ellipse
+23 "Djerma" ellipse
+24 "Dutch Draft" ellipse
+25 "Dutch Warmblood" ellipse
+26 "East Bulgarian" ellipse
+27 "Eriskay Pony" ellipse
+28 "Estonian Native" ellipse
+29 "Falabella" ellipse
+30 "Fell Pony" ellipse
+31 "Finnhorse" ellipse
+32 "Fleuve" ellipse
+33 "Frederiksborg" ellipse
+34 "French Trotter" ellipse
+35 "Galiceño" ellipse
+36 "Gelderlander" ellipse
+37 "Haflinger" ellipse
+38 "Hokkaido" ellipse
+39 "Irish Draught" ellipse
+40 "Kirdi Pony" ellipse
+41 "Kisber Felver" ellipse
+42 "Kladruby" ellipse
+43 "Knabstrup" ellipse
+44 "Lipizzan" ellipse
+45 "Malopolski" ellipse
+46 "M'Bayar" ellipse
+47 "Mérens Pony" ellipse
+48 "Messara" ellipse
+49 "Miniature" ellipse
+50 "Missouri Fox Trotting Horse" ellipse
+51 "National Show Horse" ellipse
+52 "New Forest Pony" ellipse
+53 "New Kirgiz" ellipse
+54 "Newfoundland Pony" ellipse
+55 "Northeastern" ellipse
+56 "North Swedish Horse" ellipse
+57 "Orlov Trotter" ellipse
+58 "Pantaneiro" ellipse
+59 "Percheron" ellipse
+60 "Peruvian Paso" ellipse
+61 "Pindos Pony" ellipse
+62 "Pintabian" ellipse
+63 "Pony of the Americas" ellipse
+64 "Przewalski" ellipse
+65 "Quarter Horse" ellipse
+66 "Quarter Pony" ellipse
+67 "Rocky Mountain Horse" ellipse
+68 "Russian Heavy Draft" ellipse
+69 "Russian Trotter" ellipse
+70 "Schleswiger Heavy Draft" ellipse
+71 "Selle Francais" ellipse
+72 "Single-Footing Horse" ellipse
+73 "Skyros Pony" ellipse
+74 "Soviet Heavy Draft" ellipse
+75 "Standardbred" ellipse
+76 "Tawleed" ellipse
+77 "Tennessee Walking Horse" ellipse
+78 "Thessalian" ellipse
+79 "Thoroughbred" ellipse
+80 "Trakehner" ellipse
+81 "Ukrainian Saddle" ellipse
+82 "Vlaamperd" ellipse
+83 "Vladimir Heavy Draft" ellipse
+84 "Welara Pony" ellipse
+85 "Wielkopolski" ellipse
+86 "Xilingol" ellipse
+87 "Zaniskari Pony" ellipse
+88 "South German Coldblood" ellipse
+89 "Rhenish German Coldblood" ellipse
+90 "Schwarzwälder Fuchs" ellipse
+91 "German Warmblood" ellipse
+92 "Freiberger" ellipse
+93 "Comtois" ellipse
+94 "Menorquín" ellipse
+95 "Scandinavian Coldblood Trotter" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0043103 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0043103 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0043103 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0043103 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0043103 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0043103 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0043103 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0043103 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0043103 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0043103 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0043103 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0043103 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0043103 l "isa"
+15 1 1.0000000 l "isa"
+1 15 0.0043103 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0043103 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0043103 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0043103 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0043103 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0043103 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0043103 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0043103 l "isa"
+23 1 1.0000000 l "isa"
+1 23 0.0043103 l "isa"
+24 1 1.0000000 l "isa"
+1 24 0.0043103 l "isa"
+25 1 1.0000000 l "isa"
+1 25 0.0043103 l "isa"
+26 1 1.0000000 l "isa"
+1 26 0.0043103 l "isa"
+27 1 1.0000000 l "isa"
+1 27 0.0043103 l "isa"
+28 1 1.0000000 l "isa"
+1 28 0.0043103 l "isa"
+29 1 1.0000000 l "isa"
+1 29 0.0043103 l "isa"
+30 1 1.0000000 l "isa"
+1 30 0.0043103 l "isa"
+31 1 1.0000000 l "isa"
+1 31 0.0043103 l "isa"
+32 1 1.0000000 l "isa"
+1 32 0.0043103 l "isa"
+33 1 1.0000000 l "isa"
+1 33 0.0043103 l "isa"
+34 1 1.0000000 l "isa"
+1 34 0.0043103 l "isa"
+35 1 1.0000000 l "isa"
+1 35 0.0043103 l "isa"
+36 1 1.0000000 l "isa"
+1 36 0.0043103 l "isa"
+37 1 1.0000000 l "isa"
+1 37 0.0043103 l "isa"
+38 1 1.0000000 l "isa"
+1 38 0.0043103 l "isa"
+39 1 1.0000000 l "isa"
+1 39 0.0043103 l "isa"
+40 1 1.0000000 l "isa"
+1 40 0.0043103 l "isa"
+41 1 1.0000000 l "isa"
+1 41 0.0043103 l "isa"
+42 1 1.0000000 l "isa"
+1 42 0.0043103 l "isa"
+43 1 1.0000000 l "isa"
+1 43 0.0043103 l "isa"
+44 1 1.0000000 l "isa"
+1 44 0.0043103 l "isa"
+45 1 1.0000000 l "isa"
+1 45 0.0043103 l "isa"
+46 1 1.0000000 l "isa"
+1 46 0.0043103 l "isa"
+47 1 1.0000000 l "isa"
+1 47 0.0043103 l "isa"
+48 1 1.0000000 l "isa"
+1 48 0.0043103 l "isa"
+49 1 1.0000000 l "isa"
+1 49 0.0043103 l "isa"
+50 1 1.0000000 l "isa"
+1 50 0.0043103 l "isa"
+51 1 1.0000000 l "isa"
+1 51 0.0043103 l "isa"
+52 1 1.0000000 l "isa"
+1 52 0.0043103 l "isa"
+53 1 1.0000000 l "isa"
+1 53 0.0043103 l "isa"
+54 1 1.0000000 l "isa"
+1 54 0.0043103 l "isa"
+55 1 1.0000000 l "isa"
+1 55 0.0043103 l "isa"
+56 1 1.0000000 l "isa"
+1 56 0.0043103 l "isa"
+57 1 1.0000000 l "isa"
+1 57 0.0043103 l "isa"
+58 1 1.0000000 l "isa"
+1 58 0.0043103 l "isa"
+59 1 1.0000000 l "isa"
+1 59 0.0043103 l "isa"
+60 1 1.0000000 l "isa"
+1 60 0.0043103 l "isa"
+61 1 1.0000000 l "isa"
+1 61 0.0043103 l "isa"
+62 1 1.0000000 l "isa"
+1 62 0.0043103 l "isa"
+63 1 1.0000000 l "isa"
+1 63 0.0043103 l "isa"
+64 1 1.0000000 l "isa"
+1 64 0.0043103 l "isa"
+65 1 1.0000000 l "isa"
+1 65 0.0043103 l "isa"
+66 1 1.0000000 l "isa"
+1 66 0.0043103 l "isa"
+67 1 1.0000000 l "isa"
+1 67 0.0043103 l "isa"
+68 1 1.0000000 l "isa"
+1 68 0.0043103 l "isa"
+69 1 1.0000000 l "isa"
+1 69 0.0043103 l "isa"
+70 1 1.0000000 l "isa"
+1 70 0.0043103 l "isa"
+71 1 1.0000000 l "isa"
+1 71 0.0043103 l "isa"
+72 1 1.0000000 l "isa"
+1 72 0.0043103 l "isa"
+73 1 1.0000000 l "isa"
+1 73 0.0043103 l "isa"
+74 1 1.0000000 l "isa"
+1 74 0.0043103 l "isa"
+75 1 1.0000000 l "isa"
+1 75 0.0043103 l "isa"
+76 1 1.0000000 l "isa"
+1 76 0.0043103 l "isa"
+77 1 1.0000000 l "isa"
+1 77 0.0043103 l "isa"
+78 1 1.0000000 l "isa"
+1 78 0.0043103 l "isa"
+79 1 1.0000000 l "isa"
+1 79 0.0043103 l "isa"
+80 1 1.0000000 l "isa"
+1 80 0.0043103 l "isa"
+81 1 1.0000000 l "isa"
+1 81 0.0043103 l "isa"
+82 1 1.0000000 l "isa"
+1 82 0.0043103 l "isa"
+83 1 1.0000000 l "isa"
+1 83 0.0043103 l "isa"
+84 1 1.0000000 l "isa"
+1 84 0.0043103 l "isa"
+85 1 1.0000000 l "isa"
+1 85 0.0043103 l "isa"
+86 1 1.0000000 l "isa"
+1 86 0.0043103 l "isa"
+87 1 1.0000000 l "isa"
+1 87 0.0043103 l "isa"
+88 1 1.0000000 l "isa"
+1 88 0.0043103 l "isa"
+89 1 1.0000000 l "isa"
+1 89 0.0043103 l "isa"
+90 1 1.0000000 l "isa"
+1 90 0.0043103 l "isa"
+91 1 1.0000000 l "isa"
+1 91 0.0043103 l "isa"
+92 1 1.0000000 l "isa"
+1 92 0.0043103 l "isa"
+93 1 1.0000000 l "isa"
+1 93 0.0043103 l "isa"
+94 1 1.0000000 l "isa"
+1 94 0.0043103 l "isa"
+95 1 1.0000000 l "isa"
+1 95 0.0043103 l "isa"
+*Edges

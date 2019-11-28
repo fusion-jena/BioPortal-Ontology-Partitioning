@@ -1,0 +1,9 @@
+*Vertices 2
+1 "liquid aerosol" ellipse
+2 "liquid aerosol" ellipse
+*Arcs
+1 2 0.2635694 l "substring"
+2 1 0.1176471 l "substring"
+1 2 0.2635694 l "distance"
+2 1 0.1176471 l "distance"
+*Edges

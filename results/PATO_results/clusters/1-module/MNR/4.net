@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Anthracite" ellipse
+2 "Coal" ellipse
+3 "Lignite" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1428571 l "isa"
+*Edges

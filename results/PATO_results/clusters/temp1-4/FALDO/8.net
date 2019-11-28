@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Region" ellipse
+2 "begin"
+*Arcs
+2 1 0.3750000 l "definition"
+1 2 0.2000000 l "definition"
+1 2 0.2000000 l "definition"
+2 1 0.3750000 l "definition"
+1 2 0.2000000 l "distance"
+2 1 0.3750000 l "distance"
+*Edges

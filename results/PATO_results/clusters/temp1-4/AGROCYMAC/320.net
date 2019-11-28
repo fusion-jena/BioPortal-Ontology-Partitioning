@@ -1,0 +1,13 @@
+*Vertices 2
+1 "chalcogen" ellipse
+2 "chalcogen molecular entity" ellipse
+*Arcs
+2 1 0.1795374 l "definition"
+1 2 0.2088488 l "definition"
+1 2 0.2088488 l "substring"
+2 1 0.1795374 l "substring"
+2 1 0.1795374 l "definition"
+1 2 0.2088488 l "definition"
+1 2 0.2088488 l "substring"
+2 1 0.1795374 l "substring"
+*Edges

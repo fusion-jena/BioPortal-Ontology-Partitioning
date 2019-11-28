@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Restriction"
+2 "Adaptation" ellipse
+3 "Conciliation" ellipse
+4 "Continuation" ellipse
+5 "Prescription" ellipse
+6 "Renal_insufficiency" ellipse
+7 "Therapeutic_optimization" ellipse
+*Arcs
+2 7 1.0000000 l "isa"
+7 2 0.1250000 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.1250000 l "isa"
+5 7 0.5000000 l "isa"
+7 5 0.1250000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1250000 l "isa"
+1 5 0.0094179 l "distance"
+5 1 0.5000000 l "distance"
+3 4 0.5000000 l "distance"
+4 3 0.1111111 l "distance"
+*Edges

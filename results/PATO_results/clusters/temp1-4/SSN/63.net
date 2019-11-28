@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Cognitive Therapy" ellipse
+2 "psychological therapies" ellipse
+*Arcs
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+1 2 0.8914964 l "isa"
+2 1 0.7462556 l "isa"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Veterinary activities" ellipse
+2 "Veterinary clinics" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7876726 l "isa"
+*Edges

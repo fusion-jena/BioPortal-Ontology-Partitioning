@@ -1,0 +1,9 @@
+*Vertices 2
+1 "DQ_EvaluationMethodTypeCode" ellipse
+2 "evaluationMethodType"
+*Arcs
+1 2 0.1226201 l "substring"
+2 1 0.2584237 l "substring"
+1 2 0.1226201 l "substring"
+2 1 0.2584237 l "substring"
+*Edges

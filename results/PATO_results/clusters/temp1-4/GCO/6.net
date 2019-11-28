@@ -1,0 +1,38 @@
+*Vertices 3
+1 "sporangium" ellipse
+2 "sorus" ellipse
+3 "indusium" ellipse
+*Arcs
+1 2 0.7485029 l "isa"
+2 1 0.3566309 l "isa"
+2 3 0.3582518 l "isa"
+3 2 0.7522427 l "isa"
+2 1 0.3566309 l "definition"
+1 2 0.7485029 l "definition"
+2 3 0.3582518 l "definition"
+3 2 0.7522427 l "definition"
+1 2 0.7485029 l "isa"
+2 1 0.3566309 l "isa"
+2 3 0.3582518 l "isa"
+3 2 0.7522427 l "isa"
+2 1 0.3566309 l "definition"
+1 2 0.7485029 l "definition"
+2 3 0.3582518 l "definition"
+3 2 0.7522427 l "definition"
+1 2 0.7485029 l "isa"
+2 1 0.3566309 l "isa"
+2 3 0.3582518 l "isa"
+3 2 0.7522427 l "isa"
+2 1 0.3566309 l "definition"
+1 2 0.7485029 l "definition"
+2 3 0.3582518 l "definition"
+3 2 0.7522427 l "definition"
+1 2 0.7485029 l "isa"
+2 1 0.3566309 l "isa"
+2 3 0.3582518 l "isa"
+3 2 0.7522427 l "isa"
+2 1 0.3566309 l "definition"
+1 2 0.7485029 l "definition"
+2 3 0.3582518 l "definition"
+3 2 0.7522427 l "definition"
+*Edges

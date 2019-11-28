@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Adaptive_Life_Skills" ellipse
+2 "Autism_Phenotype" ellipse
+3 "Personal_Traits" ellipse
+4 "Recognition_of_Social_Norms" ellipse
+5 "Regard_for_Customs_and_Manners" ellipse
+6 "Regression_of_General_Skills" ellipse
+7 "Social_Competence" ellipse
+*Arcs
+1 7 0.2367531 l "isa"
+7 1 0.2539913 l "isa"
+3 2 0.1470226 l "isa"
+2 3 0.2500431 l "isa"
+4 7 0.1916201 l "isa"
+7 4 0.2489115 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2502793 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.3077790 l "isa"
+7 2 0.2539913 l "isa"
+2 7 0.2612390 l "isa"
+1 7 0.2367531 l "isa"
+7 1 0.2539913 l "isa"
+3 2 0.1470226 l "isa"
+2 3 0.2500431 l "isa"
+4 7 0.1916201 l "isa"
+7 4 0.2489115 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2502793 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.3077790 l "isa"
+7 2 0.2539913 l "isa"
+2 7 0.2612390 l "isa"
+*Edges

@@ -1,0 +1,59 @@
+*Vertices 14
+1 "Central lobule" ellipse
+2 "Lobule II" ellipse
+3 "Lobule III" ellipse
+4 "Culmen" ellipse
+5 "Lobule IV" ellipse
+6 "Lobules IV-V" ellipse
+7 "Lobule V" ellipse
+8 "Declive (VI)" ellipse
+9 "Folium-tuber vermis (VII)" ellipse
+10 "Lingula (I)" ellipse
+11 "Nodulus (X)" ellipse
+12 "Pyramus (VIII)" ellipse
+13 "Uvula (IX)" ellipse
+14 "Vermal regions" ellipse
+*Arcs
+1 14 0.3333333 l "isa"
+14 1 0.1111111 l "isa"
+2 1 0.2000000 l "isa"
+1 2 0.3333333 l "isa"
+3 1 0.2000000 l "isa"
+1 3 0.3333333 l "isa"
+4 14 0.2500000 l "isa"
+14 4 0.1111111 l "isa"
+5 4 0.2000000 l "isa"
+4 5 0.2500000 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.2500000 l "isa"
+7 4 0.2500000 l "isa"
+4 7 0.2500000 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.1111111 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.1111111 l "isa"
+10 14 1.0000000 l "isa"
+14 10 0.1111111 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.1111111 l "isa"
+12 14 1.0000000 l "isa"
+14 12 0.1111111 l "isa"
+13 14 1.0000000 l "isa"
+14 13 0.1111111 l "isa"
+2 3 0.4000000 l "substring"
+3 2 0.4000000 l "substring"
+2 3 0.4000000 l "distance"
+3 2 0.4000000 l "distance"
+2 5 0.2000000 l "distance"
+5 2 0.2000000 l "distance"
+2 7 0.2000000 l "distance"
+7 2 0.2500000 l "distance"
+3 5 0.2000000 l "distance"
+5 3 0.2000000 l "distance"
+3 7 0.2000000 l "distance"
+7 3 0.2500000 l "distance"
+5 6 0.2000000 l "distance"
+6 5 0.5000000 l "distance"
+5 7 0.2000000 l "distance"
+7 5 0.2500000 l "distance"
+*Edges

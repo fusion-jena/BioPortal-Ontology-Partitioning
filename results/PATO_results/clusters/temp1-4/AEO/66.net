@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Brain Imaging" ellipse
+2 "Electro encophalogram" ellipse
+3 "Single photon emission computed tomography" ellipse
+4 "Structural Imaging" ellipse
+*Arcs
+2 1 0.4048109 l "isa"
+1 2 0.1113422 l "isa"
+3 1 0.4048109 l "isa"
+1 3 0.1113422 l "isa"
+4 1 0.4048109 l "isa"
+1 4 0.1113422 l "isa"
+2 1 0.4048109 l "isa"
+1 2 0.1113422 l "isa"
+3 1 0.4048109 l "isa"
+1 3 0.1113422 l "isa"
+4 1 0.4048109 l "isa"
+1 4 0.1113422 l "isa"
+2 1 0.4048109 l "isa"
+1 2 0.1113422 l "isa"
+3 1 0.4048109 l "isa"
+1 3 0.1113422 l "isa"
+4 1 0.4048109 l "isa"
+1 4 0.1113422 l "isa"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "flow rate" ellipse
+2 "fluid flow rate" ellipse
+3 "mass flow rate" ellipse
+*Arcs
+2 1 0.4548022 l "isa"
+1 2 0.2122881 l "isa"
+3 1 0.4556995 l "isa"
+1 3 0.2122881 l "isa"
+1 2 0.2122881 l "substring"
+2 1 0.4548022 l "substring"
+1 3 0.2122881 l "substring"
+3 1 0.4556995 l "substring"
+2 1 0.4548022 l "isa"
+1 2 0.2122881 l "isa"
+3 1 0.4556995 l "isa"
+1 3 0.2122881 l "isa"
+1 2 0.2122881 l "substring"
+2 1 0.4548022 l "substring"
+1 3 0.2122881 l "substring"
+3 1 0.4556995 l "substring"
+*Edges

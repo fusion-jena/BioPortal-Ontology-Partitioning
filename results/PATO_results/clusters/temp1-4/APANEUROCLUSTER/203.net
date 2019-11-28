@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Sadism" ellipse
+2 "Sexual_Sadism" ellipse
+*Arcs
+1 2 0.1914227 l "substring"
+2 1 0.2772577 l "substring"
+1 2 0.1914227 l "substring"
+2 1 0.2772577 l "substring"
+1 2 0.1914227 l "substring"
+2 1 0.2772577 l "substring"
+*Edges

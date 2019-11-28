@@ -1,0 +1,17 @@
+*Vertices 2
+1 "date" ellipse
+2 "dateTime"
+*Arcs
+1 2 0.2977186 l "has_date_value"
+2 1 0.5627240 l "has_date_value"
+1 2 0.2977186 l "substring"
+2 1 0.5627240 l "substring"
+1 2 0.2977186 l "has_date_value"
+2 1 0.5627240 l "has_date_value"
+1 2 0.2977186 l "substring"
+2 1 0.5627240 l "substring"
+1 2 0.2977186 l "has_date_value"
+2 1 0.5627240 l "has_date_value"
+1 2 0.2977186 l "substring"
+2 1 0.5627240 l "substring"
+*Edges

@@ -1,0 +1,59 @@
+*Vertices 8
+1 "Eyeball" ellipse
+2 "Scleral venous sinus" ellipse
+3 "Eyelid" ellipse
+4 "Upper eyelid" ellipse
+5 "Lower eyelid" ellipse
+6 "Eye" ellipse
+7 "Fat body" ellipse
+8 "Orbital fat body" ellipse
+*Arcs
+4 3 0.2222222 l "isa"
+3 4 0.1666667 l "isa"
+5 3 0.2222222 l "isa"
+3 5 0.1666667 l "isa"
+8 7 0.2857143 l "isa"
+7 8 0.5000000 l "isa"
+1 6 0.5000000 l "definition"
+6 1 0.0535714 l "definition"
+2 6 0.4000000 l "definition"
+6 2 0.0357143 l "definition"
+3 6 0.3333333 l "definition"
+6 3 0.0714286 l "definition"
+4 6 0.3333333 l "definition"
+6 4 0.0535714 l "definition"
+5 6 0.3333333 l "definition"
+6 5 0.0535714 l "definition"
+6 1 0.0535714 l "definition"
+1 6 0.5000000 l "definition"
+6 2 0.0357143 l "definition"
+2 6 0.4000000 l "definition"
+6 3 0.0714286 l "definition"
+3 6 0.3333333 l "definition"
+6 4 0.0535714 l "definition"
+4 6 0.3333333 l "definition"
+6 5 0.0535714 l "definition"
+5 6 0.3333333 l "definition"
+6 8 0.0357143 l "definition"
+8 6 0.2857143 l "definition"
+8 6 0.2857143 l "definition"
+6 8 0.0357143 l "definition"
+1 6 0.5000000 l "substring"
+6 1 0.0535714 l "substring"
+3 4 0.1666667 l "substring"
+4 3 0.2222222 l "substring"
+3 5 0.1666667 l "substring"
+5 3 0.2222222 l "substring"
+3 6 0.3333333 l "substring"
+6 3 0.0714286 l "substring"
+4 6 0.3333333 l "substring"
+6 4 0.0535714 l "substring"
+5 6 0.3333333 l "substring"
+6 5 0.0535714 l "substring"
+7 8 0.5000000 l "substring"
+8 7 0.2857143 l "substring"
+3 6 0.3333333 l "distance"
+6 3 0.0714286 l "distance"
+4 5 0.1111111 l "distance"
+5 4 0.1111111 l "distance"
+*Edges

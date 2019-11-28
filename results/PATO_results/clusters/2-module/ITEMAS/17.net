@@ -1,0 +1,38 @@
+*Vertices 9
+1 "Capital_Intelectual" ellipse
+2 "Conocimiento" ellipse
+3 "Contrato_Transferencia" ellipse
+4 "Meta_I_D_i" ellipse
+5 "incluyeConocimiento"
+6 "surgede"
+7 "formaParteDe"
+8 "transfiere"
+9 "surgeDeObjetivo"
+*Arcs
+2 1 0.2857143 l "formaParteDe"
+1 2 0.4444444 l "formaParteDe"
+1 2 0.4444444 l "incluyeConocimiento"
+2 1 0.2857143 l "incluyeConocimiento"
+3 2 0.4000000 l "transfiere"
+2 3 0.1428571 l "transfiere"
+1 5 0.1111111 l "definition"
+5 1 0.5000000 l "definition"
+1 2 0.4444444 l "definition"
+2 1 0.2857143 l "definition"
+2 6 0.0714286 l "definition"
+6 2 0.5000000 l "definition"
+2 7 0.0714286 l "definition"
+7 2 1.0000000 l "definition"
+2 1 0.2857143 l "definition"
+1 2 0.4444444 l "definition"
+3 8 0.2000000 l "definition"
+8 3 1.0000000 l "definition"
+3 2 0.4000000 l "definition"
+2 3 0.1428571 l "definition"
+4 9 0.1428571 l "definition"
+9 4 0.5000000 l "definition"
+2 5 0.0714286 l "substring"
+5 2 0.5000000 l "substring"
+6 9 0.5000000 l "substring"
+9 6 0.5000000 l "substring"
+*Edges

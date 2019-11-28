@@ -1,0 +1,37 @@
+*Vertices 10
+1 "isUsing"
+2 "PatientToComputerInteraction" ellipse
+3 "Restriction"
+4 "InteractiveGames" ellipse
+5 "InteractiveGaming" ellipse
+6 "TouchScreen" ellipse
+7 "fNIRs" ellipse
+8 "hasMeasurementOf"
+9 "isPartOf"
+10 "isInvolvedIn"
+*Arcs
+4 3 0.1666667 l "definition"
+3 4 0.1000000 l "definition"
+4 6 0.1666667 l "definition"
+6 4 0.3333333 l "definition"
+4 1 0.1666667 l "definition"
+1 4 0.1666667 l "definition"
+5 9 0.1428571 l "definition"
+9 5 0.3333333 l "definition"
+5 3 0.1428571 l "definition"
+3 5 0.1000000 l "definition"
+5 4 0.2857143 l "definition"
+4 5 0.3333333 l "definition"
+5 1 0.1428571 l "definition"
+1 5 0.1666667 l "definition"
+2 3 0.1428571 l "definition"
+3 2 0.1000000 l "definition"
+2 1 0.1428571 l "definition"
+1 2 0.1666667 l "definition"
+7 3 0.2500000 l "definition"
+3 7 0.1000000 l "definition"
+7 8 0.2500000 l "definition"
+8 7 0.3333333 l "definition"
+4 5 0.3333333 l "distance"
+5 4 0.2857143 l "distance"
+*Edges

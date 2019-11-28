@@ -1,0 +1,9 @@
+*Vertices 2
+1 "StatisticalMethods" ellipse
+2 "TestReproducibility" ellipse
+*Arcs
+2 1 0.1294532 l "isa"
+1 2 0.0951055 l "isa"
+2 1 0.1294532 l "isa"
+1 2 0.0951055 l "isa"
+*Edges

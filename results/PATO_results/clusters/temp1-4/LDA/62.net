@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Campine" ellipse
+2 "Campolina" ellipse
+*Arcs
+1 2 0.2811414 l "distance"
+2 1 0.5233798 l "distance"
+1 2 0.2811414 l "distance"
+2 1 0.5233798 l "distance"
+*Edges

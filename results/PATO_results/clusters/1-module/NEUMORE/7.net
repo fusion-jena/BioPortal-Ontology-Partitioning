@@ -1,0 +1,13 @@
+*Vertices 4
+1 "AnatomyAxis" ellipse
+2 "AnatomyPoint" ellipse
+3 "AnatomySurface" ellipse
+4 "SpatialRegion" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.3333333 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.3333333 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.3333333 l "isa"
+*Edges

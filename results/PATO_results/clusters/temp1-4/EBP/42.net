@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Knowledge_Deficit" ellipse
+2 "Knowledge_Deficit_of_Diagnostic_Test" ellipse
+*Arcs
+1 2 0.0817031 l "substring"
+2 1 0.1322075 l "substring"
+1 2 0.0817031 l "substring"
+2 1 0.1322075 l "substring"
+1 2 0.0817031 l "substring"
+2 1 0.1322075 l "substring"
+*Edges

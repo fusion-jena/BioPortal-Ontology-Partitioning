@@ -1,0 +1,29 @@
+*Vertices 2
+1 "Obstruction" ellipse
+2 "VenaCavaObstruction" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.8080629 l "isa"
+1 2 0.8080629 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8080629 l "isa"
+1 2 0.8080629 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8080629 l "isa"
+1 2 0.8080629 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8080629 l "isa"
+1 2 0.8080629 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8080629 l "isa"
+1 2 0.8080629 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8080629 l "isa"
+1 2 0.8080629 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

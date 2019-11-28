@@ -1,0 +1,39 @@
+*Vertices 6
+1 "GF_AttributeType" ellipse
+2 "GF_AttributeType" ellipse
+3 "MD_ScopeDescription" ellipse
+4 "featureInstances"
+5 "FeatureInstances" ellipse
+6 "uFeatureInstances.featureInstances"
+*Arcs
+3 2 0.0790195 l "attributeInstances"
+2 3 0.2572618 l "attributeInstances"
+3 2 0.0790195 l "attributes"
+2 3 0.2572618 l "attributes"
+3 4 0.0514545 l "definition"
+4 3 0.3365385 l "definition"
+1 2 0.2669643 l "substring"
+2 1 0.2734094 l "substring"
+1 2 0.2669643 l "distance"
+2 1 0.2734094 l "distance"
+3 2 0.0790195 l "attributeInstances"
+2 3 0.2572618 l "attributeInstances"
+3 2 0.0790195 l "attributes"
+2 3 0.2572618 l "attributes"
+3 4 0.0514545 l "definition"
+4 3 0.3365385 l "definition"
+5 6 0.2222222 l "definition"
+6 5 0.6666667 l "definition"
+1 2 0.2669643 l "substring"
+2 1 0.2734094 l "substring"
+4 5 0.4423077 l "substring"
+5 4 0.2222222 l "substring"
+4 6 0.2211539 l "substring"
+6 4 0.3333333 l "substring"
+5 6 0.2222222 l "substring"
+6 5 0.6666667 l "substring"
+1 2 0.2669643 l "distance"
+2 1 0.2734094 l "distance"
+4 5 0.4423077 l "distance"
+5 4 0.2222222 l "distance"
+*Edges

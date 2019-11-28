@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Mood and personality changes" ellipse
+2 "Personality changes" ellipse
+*Arcs
+1 2 0.2308954 l "substring"
+2 1 0.2822775 l "substring"
+1 2 0.2308954 l "substring"
+2 1 0.2822775 l "substring"
+*Edges

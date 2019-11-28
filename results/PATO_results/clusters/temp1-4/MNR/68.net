@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Histosol" ellipse
+2 "Leptosol" ellipse
+3 "Nitisol" ellipse
+*Arcs
+1 2 0.2165351 l "distance"
+2 1 0.1599465 l "distance"
+1 3 0.2070318 l "distance"
+3 1 0.1015506 l "distance"
+1 2 0.2165351 l "distance"
+2 1 0.1599465 l "distance"
+1 3 0.2070318 l "distance"
+3 1 0.1015506 l "distance"
+1 2 0.2165351 l "distance"
+2 1 0.1599465 l "distance"
+1 3 0.2070318 l "distance"
+3 1 0.1015506 l "distance"
+*Edges

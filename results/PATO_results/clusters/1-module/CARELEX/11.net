@@ -1,0 +1,27 @@
+*Vertices 8
+1 "Evidence of Contractor Compliance" ellipse
+2 "General Vendor Communications" ellipse
+3 "General Vendor Filenote" ellipse
+4 "General Vendor Meeting Material" ellipse
+5 "General Vendor Tracking Document" ellipse
+6 "General Vendors" ellipse
+7 "Vendor Oversight" ellipse
+8 "Vendors" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.5000000 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1666667 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1666667 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1666667 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1666667 l "isa"
+6 8 0.3333333 l "isa"
+8 6 0.4000000 l "isa"
+7 8 0.5000000 l "isa"
+8 7 0.2000000 l "isa"
+6 8 0.3333333 l "substring"
+8 6 0.4000000 l "substring"
+*Edges

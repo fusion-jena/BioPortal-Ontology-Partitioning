@@ -1,0 +1,15 @@
+*Vertices 2
+1 "NumericScale" ellipse
+2 "boolean"
+*Arcs
+1 2 0.4166667 l "circular"
+2 1 0.7142857 l "circular"
+1 2 0.4166667 l "hasMaximum"
+2 1 0.7142857 l "hasMaximum"
+1 2 0.4166667 l "hasMinimum"
+2 1 0.7142857 l "hasMinimum"
+1 2 0.4166667 l "maximumIsInclusive"
+2 1 0.7142857 l "maximumIsInclusive"
+1 2 0.4166667 l "minimumIsInclusive"
+2 1 0.7142857 l "minimumIsInclusive"
+*Edges

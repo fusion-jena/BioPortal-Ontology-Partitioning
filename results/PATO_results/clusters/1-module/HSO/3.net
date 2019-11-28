@@ -1,0 +1,57 @@
+*Vertices 14
+1 "sense organ" ellipse
+2 "organ" ellipse
+3 "membrane organ" ellipse
+4 "cavitated compound organ" ellipse
+5 "articular capsule" ellipse
+6 "skin of body" ellipse
+7 "olfactory organ" ellipse
+8 "compound organ" ellipse
+9 "reproductive organ" ellipse
+10 "ectoderm-derived structure" ellipse
+11 "external genitalia" ellipse
+12 "skeleton" ellipse
+13 "skeletal element" ellipse
+14 "dorsal region element" ellipse
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.0425532 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.0425532 l "isa"
+4 8 0.6666667 l "isa"
+8 4 0.4000000 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.3333333 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.0212766 l "isa"
+6 10 0.5000000 l "isa"
+10 6 0.1666667 l "isa"
+7 1 0.5000000 l "isa"
+1 7 0.1428571 l "isa"
+8 2 0.4000000 l "isa"
+2 8 0.0425532 l "isa"
+9 2 0.5000000 l "isa"
+2 9 0.0425532 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.2500000 l "isa"
+13 2 0.5000000 l "isa"
+2 13 0.0212766 l "isa"
+14 2 1.0000000 l "isa"
+2 14 0.0212766 l "isa"
+12 13 0.2500000 l "definition"
+13 12 0.5000000 l "definition"
+1 2 0.2857143 l "substring"
+2 1 0.0425532 l "substring"
+2 3 0.0425532 l "substring"
+3 2 0.6666667 l "substring"
+2 4 0.0212766 l "substring"
+4 2 0.3333333 l "substring"
+2 7 0.0212766 l "substring"
+7 2 0.5000000 l "substring"
+2 8 0.0425532 l "substring"
+8 2 0.4000000 l "substring"
+2 9 0.0425532 l "substring"
+9 2 0.5000000 l "substring"
+4 8 0.6666667 l "substring"
+8 4 0.4000000 l "substring"
+*Edges

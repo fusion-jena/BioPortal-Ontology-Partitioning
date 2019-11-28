@@ -1,0 +1,11 @@
+*Vertices 2
+1 "heme oxygenase-1" ellipse
+2 "oxygen" ellipse
+*Arcs
+1 2 0.1857004 l "substring"
+2 1 0.3824625 l "substring"
+1 2 0.1857004 l "substring"
+2 1 0.3824625 l "substring"
+1 2 0.1857004 l "substring"
+2 1 0.3824625 l "substring"
+*Edges

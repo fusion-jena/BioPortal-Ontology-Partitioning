@@ -1,0 +1,35 @@
+*Vertices 4
+1 "plant structure" ellipse
+2 "embryo plant structure" ellipse
+3 "multi-tissue plant structure" ellipse
+4 "collective plant structure" ellipse
+*Arcs
+2 1 0.2784770 l "isa"
+1 2 0.2276720 l "isa"
+3 1 0.3074285 l "isa"
+1 3 0.1495816 l "isa"
+4 1 0.4303645 l "isa"
+1 4 0.1566207 l "isa"
+2 1 0.2784770 l "definition"
+1 2 0.2276720 l "definition"
+1 2 0.2276720 l "substring"
+2 1 0.2784770 l "substring"
+1 3 0.1495816 l "substring"
+3 1 0.3074285 l "substring"
+1 4 0.1566207 l "substring"
+4 1 0.4303645 l "substring"
+2 1 0.2784770 l "isa"
+1 2 0.2276720 l "isa"
+3 1 0.3074285 l "isa"
+1 3 0.1495816 l "isa"
+4 1 0.4303645 l "isa"
+1 4 0.1566207 l "isa"
+2 1 0.2784770 l "definition"
+1 2 0.2276720 l "definition"
+1 2 0.2276720 l "substring"
+2 1 0.2784770 l "substring"
+1 3 0.1495816 l "substring"
+3 1 0.3074285 l "substring"
+1 4 0.1566207 l "substring"
+4 1 0.4303645 l "substring"
+*Edges

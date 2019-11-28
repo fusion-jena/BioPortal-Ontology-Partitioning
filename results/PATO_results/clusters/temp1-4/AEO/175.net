@@ -1,0 +1,58 @@
+*Vertices 7
+1 "Axura" ellipse
+2 "FAD mutation" ellipse
+3 "Fibril" ellipse
+4 "IL1A" ellipse
+5 "KIBRA" ellipse
+6 "amyloid fibril" ellipse
+7 "mutation" ellipse
+*Arcs
+2 7 0.7897441 l "isa"
+7 2 0.3706790 l "isa"
+5 7 0.2544928 l "isa"
+7 5 0.1214209 l "isa"
+6 3 0.7923451 l "isa"
+3 6 0.4036203 l "isa"
+2 7 0.7897441 l "substring"
+7 2 0.3706790 l "substring"
+3 6 0.4036203 l "substring"
+6 3 0.7923451 l "substring"
+1 5 0.1164231 l "distance"
+5 1 0.2513552 l "distance"
+3 5 0.1312944 l "distance"
+5 3 0.2567362 l "distance"
+4 5 0.0430934 l "distance"
+5 4 0.2374158 l "distance"
+2 7 0.7897441 l "isa"
+7 2 0.3706790 l "isa"
+5 7 0.2544928 l "isa"
+7 5 0.1214209 l "isa"
+6 3 0.7923451 l "isa"
+3 6 0.4036203 l "isa"
+2 7 0.7897441 l "substring"
+7 2 0.3706790 l "substring"
+3 6 0.4036203 l "substring"
+6 3 0.7923451 l "substring"
+1 5 0.1164231 l "distance"
+5 1 0.2513552 l "distance"
+3 5 0.1312944 l "distance"
+5 3 0.2567362 l "distance"
+4 5 0.0430934 l "distance"
+5 4 0.2374158 l "distance"
+2 7 0.7897441 l "isa"
+7 2 0.3706790 l "isa"
+5 7 0.2544928 l "isa"
+7 5 0.1214209 l "isa"
+6 3 0.7923451 l "isa"
+3 6 0.4036203 l "isa"
+2 7 0.7897441 l "substring"
+7 2 0.3706790 l "substring"
+3 6 0.4036203 l "substring"
+6 3 0.7923451 l "substring"
+1 5 0.1164231 l "distance"
+5 1 0.2513552 l "distance"
+3 5 0.1312944 l "distance"
+5 3 0.2567362 l "distance"
+4 5 0.0430934 l "distance"
+5 4 0.2374158 l "distance"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 3
+1 "DPYSL2" ellipse
+2 "DPYSL3" ellipse
+3 "DPYSL5" ellipse
+*Arcs
+1 2 0.1580475 l "distance"
+2 1 0.1580475 l "distance"
+1 3 0.1554273 l "distance"
+3 1 0.1363549 l "distance"
+2 3 0.1554273 l "distance"
+3 2 0.1363549 l "distance"
+1 2 0.1580475 l "distance"
+2 1 0.1580475 l "distance"
+1 3 0.1554273 l "distance"
+3 1 0.1363549 l "distance"
+2 3 0.1554273 l "distance"
+3 2 0.1363549 l "distance"
+1 2 0.1580475 l "distance"
+2 1 0.1580475 l "distance"
+1 3 0.1554273 l "distance"
+3 1 0.1363549 l "distance"
+2 3 0.1554273 l "distance"
+3 2 0.1363549 l "distance"
+*Edges

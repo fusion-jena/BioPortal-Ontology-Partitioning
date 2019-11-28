@@ -1,0 +1,27 @@
+*Vertices 6
+1 "continuant" ellipse
+2 "independent continuant" ellipse
+3 "quality" ellipse
+4 "specifically dependent continuant" ellipse
+5 "generically dependent continuant" ellipse
+6 "relational quality" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1818182 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.2500000 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1818182 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1818182 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.6666667 l "isa"
+1 2 0.1818182 l "substring"
+2 1 0.5000000 l "substring"
+1 4 0.1818182 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.1818182 l "substring"
+5 1 1.0000000 l "substring"
+3 6 0.6666667 l "substring"
+6 3 1.0000000 l "substring"
+*Edges

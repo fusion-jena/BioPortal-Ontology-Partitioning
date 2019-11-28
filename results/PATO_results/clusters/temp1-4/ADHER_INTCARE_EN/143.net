@@ -1,0 +1,15 @@
+*Vertices 2
+1 "SputumExam" ellipse
+2 "undergoneBy"
+*Arcs
+1 2 0.2567025 l "definition"
+2 1 0.0329924 l "definition"
+1 2 0.2567025 l "definition"
+2 1 0.0329924 l "definition"
+1 2 0.2567025 l "definition"
+2 1 0.0329924 l "definition"
+1 2 0.2567025 l "definition"
+2 1 0.0329924 l "definition"
+1 2 0.2567025 l "definition"
+2 1 0.0329924 l "definition"
+*Edges

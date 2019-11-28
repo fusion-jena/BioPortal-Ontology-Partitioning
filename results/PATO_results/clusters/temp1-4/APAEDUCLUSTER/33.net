@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Amenorrhea" ellipse
+2 "Gonorrhea" ellipse
+*Arcs
+1 2 0.3615619 l "distance"
+2 1 0.5309474 l "distance"
+1 2 0.3615619 l "distance"
+2 1 0.5309474 l "distance"
+*Edges

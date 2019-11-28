@@ -1,0 +1,39 @@
+*Vertices 12
+1 "model" ellipse
+2 "equipment manufacturer" ellipse
+3 "firmware version" ellipse
+4 "firmware" ellipse
+5 "fax number" ellipse
+6 "datum label" ellipse
+7 "software" ellipse
+8 "model number" ellipse
+9 "symbol" ellipse
+10 "version number" ellipse
+11 "lot number" ellipse
+12 "centrally registered identifier symbol" ellipse
+*Arcs
+2 9 1.0000000 l "isa"
+9 2 0.0909091 l "isa"
+3 10 0.5000000 l "isa"
+10 3 0.5000000 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.3333333 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0909091 l "isa"
+8 9 0.5000000 l "isa"
+9 8 0.0909091 l "isa"
+10 9 0.5000000 l "isa"
+9 10 0.0909091 l "isa"
+11 9 0.5000000 l "isa"
+9 11 0.0909091 l "isa"
+12 9 0.5000000 l "isa"
+9 12 0.1818182 l "isa"
+1 8 0.0909091 l "substring"
+8 1 0.5000000 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.5000000 l "substring"
+9 12 0.1818182 l "substring"
+12 9 0.5000000 l "substring"
+5 11 0.2500000 l "distance"
+11 5 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 4
+1 "PointArray" ellipse
+2 "PointArray_coordinates" ellipse
+3 "PointArray_positions" ellipse
+4 "positions"
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 0.2857143 l "isa"
+3 1 0.1818182 l "isa"
+1 3 0.2857143 l "isa"
+3 4 0.1818182 l "definition"
+4 3 0.1111111 l "definition"
+1 2 0.2857143 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.2857143 l "substring"
+3 1 0.1818182 l "substring"
+3 4 0.1818182 l "substring"
+4 3 0.1111111 l "substring"
+*Edges

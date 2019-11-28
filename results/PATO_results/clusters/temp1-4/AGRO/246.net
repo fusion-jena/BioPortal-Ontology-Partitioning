@@ -1,0 +1,47 @@
+*Vertices 8
+1 "desert" ellipse
+2 "desert oasis" ellipse
+3 "sandur" ellipse
+4 "beach sand" ellipse
+5 "desert sand" ellipse
+6 "sand" ellipse
+7 "desert biome" ellipse
+8 "oasis" ellipse
+*Arcs
+2 8 0.3333333 l "isa"
+8 2 0.1071429 l "isa"
+4 6 0.3333333 l "isa"
+6 4 0.0389610 l "isa"
+5 6 0.3333333 l "isa"
+6 5 0.0389610 l "isa"
+2 1 0.2222222 l "definition"
+1 2 0.1000000 l "definition"
+2 8 0.3333333 l "definition"
+8 2 0.1071429 l "definition"
+4 6 0.3333333 l "definition"
+6 4 0.0389610 l "definition"
+5 1 0.2222222 l "definition"
+1 5 0.1000000 l "definition"
+5 6 0.3333333 l "definition"
+6 5 0.0389610 l "definition"
+7 1 0.2222222 l "definition"
+1 7 0.1000000 l "definition"
+8 6 0.0357143 l "definition"
+6 8 0.0129870 l "definition"
+1 2 0.1000000 l "substring"
+2 1 0.2222222 l "substring"
+1 5 0.1000000 l "substring"
+5 1 0.2222222 l "substring"
+1 7 0.1000000 l "substring"
+7 1 0.2222222 l "substring"
+2 8 0.3333333 l "substring"
+8 2 0.1071429 l "substring"
+3 6 0.2500000 l "substring"
+6 3 0.0259740 l "substring"
+4 6 0.3333333 l "substring"
+6 4 0.0389610 l "substring"
+5 6 0.3333333 l "substring"
+6 5 0.0389610 l "substring"
+3 6 0.2500000 l "distance"
+6 3 0.0259740 l "distance"
+*Edges

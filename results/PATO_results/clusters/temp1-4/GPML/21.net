@@ -1,0 +1,44 @@
+*Vertices 5
+1 "Source" ellipse
+2 "Source Natural" ellipse
+3 "source" ellipse
+4 "source_natural" ellipse
+5 "Taxon" ellipse
+*Arcs
+2 1 0.3937083 l "isa"
+1 2 0.2442813 l "isa"
+2 5 0.2402288 l "has taxon"
+5 2 1.0000000 l "has taxon"
+1 2 0.2442813 l "substring"
+2 1 0.3937083 l "substring"
+1 3 0.2336346 l "substring"
+3 1 0.3038774 l "substring"
+1 4 0.1138599 l "substring"
+4 1 0.3279387 l "substring"
+2 3 0.1758818 l "substring"
+3 2 0.1419377 l "substring"
+3 4 0.1500154 l "substring"
+4 3 0.3321976 l "substring"
+1 3 0.2336346 l "distance"
+3 1 0.3038774 l "distance"
+2 4 0.1901811 l "distance"
+4 2 0.3398637 l "distance"
+2 1 0.3937083 l "isa"
+1 2 0.2442813 l "isa"
+2 5 0.2402288 l "has taxon"
+5 2 1.0000000 l "has taxon"
+1 2 0.2442813 l "substring"
+2 1 0.3937083 l "substring"
+1 3 0.2336346 l "substring"
+3 1 0.3038774 l "substring"
+1 4 0.1138599 l "substring"
+4 1 0.3279387 l "substring"
+2 3 0.1758818 l "substring"
+3 2 0.1419377 l "substring"
+3 4 0.1500154 l "substring"
+4 3 0.3321976 l "substring"
+1 3 0.2336346 l "distance"
+3 1 0.3038774 l "distance"
+2 4 0.1901811 l "distance"
+4 2 0.3398637 l "distance"
+*Edges

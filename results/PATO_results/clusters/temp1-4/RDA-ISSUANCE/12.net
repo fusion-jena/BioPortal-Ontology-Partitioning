@@ -1,0 +1,9 @@
+*Vertices 2
+1 "physical" ellipse
+2 "Physical training teacher" ellipse
+*Arcs
+1 2 0.2748653 l "substring"
+2 1 0.5233209 l "substring"
+1 2 0.2748653 l "substring"
+2 1 0.5233209 l "substring"
+*Edges

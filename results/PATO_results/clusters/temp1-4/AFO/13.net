@@ -1,0 +1,30 @@
+*Vertices 7
+1 "spectrophotometer" ellipse
+2 "ultraviolet-visible spectrometer" ellipse
+3 "optical spectrometer" ellipse
+4 "ultraviolet spectrometer" ellipse
+5 "ultraviolet-visible-near infrared spectrometer" ellipse
+6 "spectrometer" ellipse
+7 "photometer" ellipse
+*Arcs
+1 7 0.2500000 l "isa"
+7 1 0.4000000 l "isa"
+2 1 0.5000000 l "isa"
+1 2 0.1250000 l "isa"
+3 6 0.6666667 l "isa"
+6 3 0.2857143 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1250000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1250000 l "isa"
+1 7 0.2500000 l "substring"
+7 1 0.4000000 l "substring"
+2 6 0.5000000 l "substring"
+6 2 0.1428571 l "substring"
+3 6 0.6666667 l "substring"
+6 3 0.2857143 l "substring"
+4 6 0.5000000 l "substring"
+6 4 0.1428571 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.1428571 l "substring"
+*Edges

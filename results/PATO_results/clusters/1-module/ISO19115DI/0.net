@@ -1,0 +1,9 @@
+*Vertices 4
+1 "distributorFormat"
+2 "transferOptions"
+3 "distributorTransferOptions"
+4 "mediumFormat"
+*Arcs
+2 3 0.3333333 l "substring"
+3 2 0.3333333 l "substring"
+*Edges

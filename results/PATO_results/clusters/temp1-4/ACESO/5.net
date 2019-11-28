@@ -1,0 +1,106 @@
+*Vertices 25
+1 "Population Group" ellipse
+2 "School" ellipse
+3 "Academia" ellipse
+4 "Neighborhood" ellipse
+5 "Violence" ellipse
+6 "Bullying" ellipse
+7 "Sexual Abuse" ellipse
+8 "Bullying" ellipse
+9 "Educational establishment" ellipse
+10 "School" ellipse
+11 "Municipal and civic establishment" ellipse
+12 "Environment" ellipse
+13 "Community environment" ellipse
+14 "Environment or geographical location" ellipse
+15 "Emotional Abuse" ellipse
+16 "Abuse" ellipse
+17 "Physical Abuse" ellipse
+18 "Has_Been_Emotionally_Abused" ellipse
+19 "Has_Been_Physically_Abused" ellipse
+20 "Has_Been_Threatened_With_Violence" ellipse
+21 "Social_Determinant_of_Health" ellipse
+22 "Suffers_From_Bullying_in_School" ellipse
+23 "Witnessed_Violence_in_Neighborhood" ellipse
+24 "has_location"
+25 "witnessed"
+*Arcs
+2 3 0.2500000 l "isa"
+3 2 0.5000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1666667 l "isa"
+7 16 0.6666667 l "isa"
+16 7 0.1052632 l "isa"
+9 11 0.5000000 l "isa"
+11 9 0.5000000 l "isa"
+10 9 0.2000000 l "isa"
+9 10 0.5000000 l "isa"
+11 13 0.5000000 l "isa"
+13 11 0.3333333 l "isa"
+12 14 0.3333333 l "isa"
+14 12 1.0000000 l "isa"
+13 12 0.6666667 l "isa"
+12 13 0.3333333 l "isa"
+15 16 1.0000000 l "isa"
+16 15 0.1052632 l "isa"
+17 16 1.0000000 l "isa"
+16 17 0.1052632 l "isa"
+18 21 0.5000000 l "isa"
+21 18 0.0416667 l "isa"
+19 21 0.5000000 l "isa"
+21 19 0.0416667 l "isa"
+20 21 0.5000000 l "isa"
+21 20 0.0416667 l "isa"
+22 24 0.0769231 l "definition"
+24 22 0.5000000 l "definition"
+22 8 0.1538462 l "definition"
+8 22 0.4000000 l "definition"
+22 10 0.1538462 l "definition"
+10 22 0.4000000 l "definition"
+23 24 0.0909091 l "definition"
+24 23 0.5000000 l "definition"
+23 4 0.1818182 l "definition"
+4 23 0.6666667 l "definition"
+23 25 0.1818182 l "definition"
+25 23 1.0000000 l "definition"
+23 5 0.1818182 l "definition"
+5 23 0.5000000 l "definition"
+2 10 0.5000000 l "substring"
+10 2 0.4000000 l "substring"
+2 22 0.2500000 l "substring"
+22 2 0.0769231 l "substring"
+4 23 0.6666667 l "substring"
+23 4 0.1818182 l "substring"
+5 20 0.2500000 l "substring"
+20 5 0.5000000 l "substring"
+5 23 0.5000000 l "substring"
+23 5 0.1818182 l "substring"
+6 8 0.6666667 l "substring"
+8 6 0.4000000 l "substring"
+6 22 0.3333333 l "substring"
+22 6 0.0769231 l "substring"
+7 16 0.6666667 l "substring"
+16 7 0.1052632 l "substring"
+8 22 0.4000000 l "substring"
+22 8 0.1538462 l "substring"
+10 22 0.4000000 l "substring"
+22 10 0.1538462 l "substring"
+12 13 0.3333333 l "substring"
+13 12 0.6666667 l "substring"
+12 14 0.3333333 l "substring"
+14 12 1.0000000 l "substring"
+15 16 1.0000000 l "substring"
+16 15 0.1052632 l "substring"
+16 17 0.1052632 l "substring"
+17 16 1.0000000 l "substring"
+16 18 0.0526316 l "substring"
+18 16 0.5000000 l "substring"
+16 19 0.0526316 l "substring"
+19 16 0.5000000 l "substring"
+23 25 0.1818182 l "substring"
+25 23 1.0000000 l "substring"
+2 10 0.5000000 l "distance"
+10 2 0.4000000 l "distance"
+6 8 0.6666667 l "distance"
+8 6 0.4000000 l "distance"
+*Edges

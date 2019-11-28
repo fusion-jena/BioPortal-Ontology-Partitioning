@@ -1,0 +1,87 @@
+*Vertices 22
+1 "activeTime" ellipse
+2 "activeTimeSeconds" ellipse
+3 "altimeter" ellipse
+4 "basalMetabolicRate" ellipse
+5 "calories" ellipse
+6 "clock" ellipse
+7 "date" ellipse
+8 "distanceKilometers" ellipse
+9 "distanceMiles" ellipse
+10 "elevation" ellipse
+11 "fat" ellipse
+12 "floors" ellipse
+13 "gps" ellipse
+14 "minutesFairlyActive" ellipse
+15 "minutesLightlyActive" ellipse
+16 "minutesSedentary" ellipse
+17 "minutesVeryActive" ellipse
+18 "startTime" ellipse
+19 "steps" ellipse
+20 "3axisAccelerometer" ellipse
+21 "3axisGyroscope" ellipse
+22 "Class"
+*Arcs
+1 19 0.3333333 l "isa"
+19 1 0.1000000 l "isa"
+2 19 0.3333333 l "isa"
+19 2 0.1000000 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.0769231 l "isa"
+5 1 0.0769231 l "isa"
+1 5 0.3333333 l "isa"
+5 2 0.0769231 l "isa"
+2 5 0.3333333 l "isa"
+5 10 0.0769231 l "isa"
+10 5 0.5000000 l "isa"
+5 12 0.0769231 l "isa"
+12 5 0.5000000 l "isa"
+5 15 0.0769231 l "isa"
+15 5 0.5000000 l "isa"
+5 16 0.0769231 l "isa"
+16 5 0.5000000 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.3333333 l "isa"
+8 13 0.5000000 l "isa"
+13 8 0.1428571 l "isa"
+9 13 0.5000000 l "isa"
+13 9 0.1428571 l "isa"
+10 13 0.5000000 l "isa"
+13 10 0.1428571 l "isa"
+12 3 0.5000000 l "isa"
+3 12 1.0000000 l "isa"
+14 19 0.5000000 l "isa"
+19 14 0.1000000 l "isa"
+15 19 0.5000000 l "isa"
+19 15 0.1000000 l "isa"
+16 19 0.5000000 l "isa"
+19 16 0.1000000 l "isa"
+17 19 0.5000000 l "isa"
+19 17 0.1000000 l "isa"
+18 6 1.0000000 l "isa"
+6 18 0.3333333 l "isa"
+19 20 0.1000000 l "isa"
+20 19 1.0000000 l "isa"
+19 21 0.1000000 l "isa"
+21 19 1.0000000 l "isa"
+5 9 0.0769231 l "definition"
+9 5 0.5000000 l "definition"
+5 8 0.0769231 l "definition"
+8 5 0.5000000 l "definition"
+5 22 0.0769231 l "definition"
+22 5 0.5000000 l "definition"
+5 14 0.0769231 l "definition"
+14 5 0.5000000 l "definition"
+5 17 0.0769231 l "definition"
+17 5 0.5000000 l "definition"
+1 2 0.3333333 l "substring"
+2 1 0.3333333 l "substring"
+6 22 0.3333333 l "distance"
+22 6 0.5000000 l "distance"
+7 11 0.5000000 l "distance"
+11 7 0.2000000 l "distance"
+11 13 0.2000000 l "distance"
+13 11 0.1428571 l "distance"
+13 19 0.1428571 l "distance"
+19 13 0.1000000 l "distance"
+*Edges

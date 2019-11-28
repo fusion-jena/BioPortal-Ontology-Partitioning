@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Definite_loss_of_five_meaningful_words_use" ellipse
+2 "No_definite_loss_of_five_meaningful_words_use" ellipse
+*Arcs
+1 2 0.7272727 l "substring"
+2 1 0.7272727 l "substring"
+1 2 0.7272727 l "distance"
+2 1 0.7272727 l "distance"
+1 2 0.7272727 l "substring"
+2 1 0.7272727 l "substring"
+1 2 0.7272727 l "distance"
+2 1 0.7272727 l "distance"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Swelling" ellipse
+2 "cellular and subcellular process related to astrocytes" ellipse
+3 "expression of iNOS" ellipse
+4 "phagocytosis" ellipse
+5 "Evaluation" ellipse
+6 "Sampling" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1666667 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1666667 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1666667 l "isa"
+6 5 0.5000000 l "isa"
+5 6 0.1111111 l "isa"
+1 6 0.5000000 l "distance"
+6 1 0.5000000 l "distance"
+*Edges

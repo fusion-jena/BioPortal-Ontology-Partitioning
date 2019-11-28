@@ -1,0 +1,51 @@
+*Vertices 10
+1 "Frontal lobe" ellipse
+2 "Superior frontal gyrus" ellipse
+3 "Middle frontal gyrus" ellipse
+4 "Inferior frontal gyrus" ellipse
+5 "Straight gyrus" ellipse
+6 "Precentral gyrus" ellipse
+7 "Lateral orbital gyrus" ellipse
+8 "Medial orbital gyrus" ellipse
+9 "Intermediate orbital gyrus" ellipse
+10 "Posterior orbital gyrus" ellipse
+*Arcs
+1 2 0.0833333 l "definition"
+2 1 0.3333333 l "definition"
+1 3 0.0833333 l "definition"
+3 1 0.3333333 l "definition"
+1 4 0.0833333 l "definition"
+4 1 0.3333333 l "definition"
+1 5 0.0833333 l "definition"
+5 1 0.4000000 l "definition"
+1 6 0.0833333 l "definition"
+6 1 0.3333333 l "definition"
+1 7 0.0833333 l "definition"
+7 1 0.4000000 l "definition"
+1 8 0.0833333 l "definition"
+8 1 0.4000000 l "definition"
+1 9 0.0833333 l "definition"
+9 1 0.3333333 l "definition"
+1 10 0.0833333 l "definition"
+10 1 0.4000000 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.0833333 l "definition"
+3 1 0.3333333 l "definition"
+1 3 0.0833333 l "definition"
+4 1 0.3333333 l "definition"
+1 4 0.0833333 l "definition"
+5 1 0.4000000 l "definition"
+1 5 0.0833333 l "definition"
+6 1 0.3333333 l "definition"
+1 6 0.0833333 l "definition"
+7 1 0.4000000 l "definition"
+1 7 0.0833333 l "definition"
+8 1 0.4000000 l "definition"
+1 8 0.0833333 l "definition"
+9 1 0.3333333 l "definition"
+1 9 0.0833333 l "definition"
+10 1 0.4000000 l "definition"
+1 10 0.0833333 l "definition"
+2 4 0.1666667 l "distance"
+4 2 0.1666667 l "distance"
+*Edges

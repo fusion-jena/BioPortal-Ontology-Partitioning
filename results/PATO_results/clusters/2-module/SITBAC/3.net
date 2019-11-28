@@ -1,0 +1,60 @@
+*Vertices 13
+1 "Entity" ellipse
+2 "RuleGroup" ellipse
+3 "Entity" ellipse
+4 "ExtendedProposition" ellipse
+5 "Granularity" ellipse
+6 "Proposition" ellipse
+7 "ValidInstant" ellipse
+8 "ValidPeriod" ellipse
+9 "ValidTime" ellipse
+10 "Entity" ellipse
+11 "Imp" ellipse
+12 "boolean"
+13 "dateTime"
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1428571 l "isa"
+4 6 0.6666667 l "isa"
+6 4 0.6666667 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 0.3333333 l "isa"
+3 6 0.1111111 l "isa"
+7 9 0.5000000 l "isa"
+9 7 0.1666667 l "isa"
+8 9 0.3333333 l "isa"
+9 8 0.1666667 l "isa"
+9 3 0.1666667 l "isa"
+3 9 0.1111111 l "isa"
+11 12 0.1111111 l "isRuleEnabled"
+12 11 0.5000000 l "isRuleEnabled"
+11 2 0.1111111 l "hasRuleGroup"
+2 11 0.3333333 l "hasRuleGroup"
+9 5 0.1666667 l "hasGranularity"
+5 9 0.5000000 l "hasGranularity"
+4 9 0.3333333 l "hasValidTime"
+9 4 0.1666667 l "hasValidTime"
+2 12 0.3333333 l "isRuleGroupEnabled"
+12 2 0.5000000 l "isRuleGroupEnabled"
+8 13 0.6666667 l "hasFinishTime"
+13 8 0.4000000 l "hasFinishTime"
+8 13 0.6666667 l "hasStartTime"
+13 8 0.4000000 l "hasStartTime"
+7 13 0.5000000 l "hasTime"
+13 7 0.2000000 l "hasTime"
+1 3 0.2857143 l "substring"
+3 1 0.2222222 l "substring"
+1 10 0.2857143 l "substring"
+10 1 0.2000000 l "substring"
+3 10 0.2222222 l "substring"
+10 3 0.2000000 l "substring"
+4 6 0.6666667 l "substring"
+6 4 0.6666667 l "substring"
+1 3 0.2857143 l "distance"
+3 1 0.2222222 l "distance"
+1 10 0.2857143 l "distance"
+10 1 0.2000000 l "distance"
+3 10 0.2222222 l "distance"
+10 3 0.2000000 l "distance"
+*Edges

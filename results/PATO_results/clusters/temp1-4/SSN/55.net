@@ -1,0 +1,23 @@
+*Vertices 2
+1 "systemic" ellipse
+2 "Glucocorticoid systemic preparation" ellipse
+*Arcs
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+1 2 0.5870605 l "substring"
+2 1 0.6402012 l "substring"
+*Edges

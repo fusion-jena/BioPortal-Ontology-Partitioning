@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Complication" ellipse
+2 "LateComplication" ellipse
+3 "NeurologicalComplication" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1818182 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1818182 l "isa"
+1 2 0.1818182 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1818182 l "substring"
+3 1 1.0000000 l "substring"
+*Edges

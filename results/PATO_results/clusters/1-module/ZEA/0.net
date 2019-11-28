@@ -1,0 +1,28 @@
+*Vertices 13
+1 "palea" ellipse
+2 "lodicule" ellipse
+3 "lateral root meristem" ellipse
+4 "primary intermediate vein" ellipse
+5 "root branch" ellipse
+6 "shank" ellipse
+7 "cob" ellipse
+8 "ear (functionally female inflorescence)" ellipse
+9 "seminal root meristem" ellipse
+10 "seminal lateral root meristem" ellipse
+11 "root branch meristem" ellipse
+12 "prickle hair" ellipse
+13 "floret meristem" ellipse
+*Arcs
+7 8 0.1666667 l "definition"
+8 7 0.1428571 l "definition"
+10 9 0.1250000 l "definition"
+9 10 0.1666667 l "definition"
+11 3 0.1250000 l "definition"
+3 11 0.1250000 l "definition"
+11 10 0.1250000 l "definition"
+10 11 0.1250000 l "definition"
+5 11 0.1250000 l "substring"
+11 5 0.1250000 l "substring"
+3 10 0.1250000 l "substring"
+10 3 0.1250000 l "substring"
+*Edges

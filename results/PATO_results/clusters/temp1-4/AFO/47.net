@@ -1,0 +1,9 @@
+*Vertices 2
+1 "positioning" ellipse
+2 "position" ellipse
+*Arcs
+1 2 0.5000000 l "substring"
+2 1 0.0869565 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.0869565 l "distance"
+*Edges

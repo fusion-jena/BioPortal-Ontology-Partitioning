@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Baladi" ellipse
+2 "Balearic" ellipse
+3 "Barbari" ellipse
+*Arcs
+1 2 0.0530377 l "distance"
+2 1 0.3335480 l "distance"
+1 3 0.0393609 l "distance"
+3 1 0.0702047 l "distance"
+2 3 0.3508156 l "distance"
+3 2 0.0994961 l "distance"
+1 2 0.0530377 l "distance"
+2 1 0.3335480 l "distance"
+1 3 0.0393609 l "distance"
+3 1 0.0702047 l "distance"
+2 3 0.3508156 l "distance"
+3 2 0.0994961 l "distance"
+1 2 0.0530377 l "distance"
+2 1 0.3335480 l "distance"
+1 3 0.0393609 l "distance"
+3 1 0.0702047 l "distance"
+2 3 0.3508156 l "distance"
+3 2 0.0994961 l "distance"
+1 2 0.0530377 l "distance"
+2 1 0.3335480 l "distance"
+1 3 0.0393609 l "distance"
+3 1 0.0702047 l "distance"
+2 3 0.3508156 l "distance"
+3 2 0.0994961 l "distance"
+*Edges

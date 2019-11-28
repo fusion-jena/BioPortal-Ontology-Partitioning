@@ -1,0 +1,13 @@
+*Vertices 2
+1 "target of material addition role" ellipse
+2 "target of material addition" ellipse
+*Arcs
+2 1 0.3112702 l "definition"
+1 2 0.1598698 l "definition"
+1 2 0.1598698 l "substring"
+2 1 0.3112702 l "substring"
+2 1 0.3112702 l "definition"
+1 2 0.1598698 l "definition"
+1 2 0.1598698 l "substring"
+2 1 0.3112702 l "substring"
+*Edges

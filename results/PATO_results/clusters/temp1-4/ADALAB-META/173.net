@@ -1,0 +1,9 @@
+*Vertices 2
+1 "OlfactoryNerve" ellipse
+2 "SegmentOfNeuralTreeOrgan" ellipse
+*Arcs
+1 2 0.2126371 l "isa"
+2 1 0.2049437 l "isa"
+1 2 0.2126371 l "isa"
+2 1 0.2049437 l "isa"
+*Edges

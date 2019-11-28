@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Positive" ellipse
+2 "reversibility positive" ellipse
+*Arcs
+1 2 0.1068311 l "substring"
+2 1 0.5132202 l "substring"
+1 2 0.1068311 l "substring"
+2 1 0.5132202 l "substring"
+1 2 0.1068311 l "substring"
+2 1 0.5132202 l "substring"
+*Edges

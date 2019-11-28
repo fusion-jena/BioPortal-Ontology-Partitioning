@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hepatitis" ellipse
+2 "Toxic_Hepatitis" ellipse
+*Arcs
+1 2 0.3876854 l "substring"
+2 1 0.5624610 l "substring"
+1 2 0.3876854 l "substring"
+2 1 0.5624610 l "substring"
+1 2 0.3876854 l "substring"
+2 1 0.5624610 l "substring"
+*Edges

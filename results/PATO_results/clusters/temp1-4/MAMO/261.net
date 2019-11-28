@@ -1,0 +1,9 @@
+*Vertices 2
+1 "MAMO_0000182" ellipse
+2 "MAMO_0000187" ellipse
+*Arcs
+2 1 0.0204082 l "isa"
+1 2 0.0202020 l "isa"
+1 2 0.0202020 l "distance"
+2 1 0.0204082 l "distance"
+*Edges

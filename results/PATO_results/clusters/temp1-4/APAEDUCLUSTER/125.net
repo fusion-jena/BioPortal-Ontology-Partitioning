@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Allergic_Skin_Disorders" ellipse
+2 "Brain_Disorders" ellipse
+3 "Skin_Disorders" ellipse
+*Arcs
+1 3 0.2658589 l "substring"
+3 1 0.2082941 l "substring"
+2 3 0.2658726 l "distance"
+3 2 0.2082941 l "distance"
+1 3 0.2658589 l "substring"
+3 1 0.2082941 l "substring"
+2 3 0.2658726 l "distance"
+3 2 0.2082941 l "distance"
+*Edges

@@ -1,0 +1,48 @@
+*Vertices 5
+1 "ICW-1:01.03.04.01 Environmental Advocacy - NOS" ellipse
+2 "ICW-1:01.03.01 Environmental Wellness - NOS" ellipse
+3 "ICW-1:01.03 Environmental Wellness" ellipse
+4 "ICW-1:01.03.05 Environmental Action" ellipse
+5 "ICW-1:01.03.04 Environmental Advocacy" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.6826627 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2592274 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2592274 l "isa"
+5 3 0.3173373 l "isa"
+3 5 0.1490638 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.6826627 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2592274 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2592274 l "isa"
+5 3 0.3173373 l "isa"
+3 5 0.1490638 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.6826627 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2592274 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2592274 l "isa"
+5 3 0.3173373 l "isa"
+3 5 0.1490638 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.6826627 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2592274 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2592274 l "isa"
+5 3 0.3173373 l "isa"
+3 5 0.1490638 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.6826627 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2592274 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2592274 l "isa"
+5 3 0.3173373 l "isa"
+3 5 0.1490638 l "isa"
+*Edges

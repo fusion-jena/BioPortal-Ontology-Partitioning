@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Trial" ellipse
+2 "date"
+*Arcs
+1 2 0.1875000 l "hasCheckpointDate"
+2 1 0.1153846 l "hasCheckpointDate"
+1 2 0.1875000 l "hasEndDate"
+2 1 0.1153846 l "hasEndDate"
+1 2 0.1875000 l "hasStartDate"
+2 1 0.1153846 l "hasStartDate"
+*Edges

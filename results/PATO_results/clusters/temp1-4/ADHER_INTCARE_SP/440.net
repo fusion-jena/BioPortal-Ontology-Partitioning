@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Attachment_to_shooter_comforter_or_other_unusual_object_beyond_age" ellipse
+2 "uatt_Attachment_to_shooter_comforter_or_other_unusual_object_beyond_age"
+*Arcs
+1 2 0.1360459 l "substring"
+2 1 0.1227508 l "substring"
+1 2 0.1360459 l "substring"
+2 1 0.1227508 l "substring"
+1 2 0.1360459 l "substring"
+2 1 0.1227508 l "substring"
+*Edges

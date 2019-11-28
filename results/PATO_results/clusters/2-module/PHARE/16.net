@@ -1,0 +1,7 @@
+*Vertices 2
+1 "characteristic" ellipse
+2 "structure" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0714286 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Audio belt" ellipse
+2 "Belt" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1818182 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.1818182 l "substring"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Meat processing" ellipse
+2 "Slaughterhouse" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.5282467 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5282467 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5282467 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5282467 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5282467 l "isa"
+*Edges

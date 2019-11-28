@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Cell" ellipse
+2 "NonNucleatedCell" ellipse
+3 "NonNucleatedSolocyte" ellipse
+4 "NucleatedCell" ellipse
+5 "Platelet" ellipse
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 0.0303030 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.2000000 l "isa"
+4 1 0.4000000 l "isa"
+1 4 0.0303030 l "isa"
+5 3 0.0909091 l "isa"
+3 5 0.5000000 l "isa"
+1 2 0.0303030 l "substring"
+2 1 0.4000000 l "substring"
+1 4 0.0303030 l "substring"
+4 1 0.4000000 l "substring"
+2 4 0.4000000 l "substring"
+4 2 0.4000000 l "substring"
+2 4 0.4000000 l "distance"
+4 2 0.4000000 l "distance"
+*Edges

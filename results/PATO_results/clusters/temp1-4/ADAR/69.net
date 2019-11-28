@@ -1,0 +1,20 @@
+*Vertices 5
+1 "General_loss_of_skills" ellipse
+2 "Loss_of_language_skills_after_acquisition_phenotype" ellipse
+3 "Loss_of_skills" ellipse
+4 "Loss_of_skills_certainty" ellipse
+5 "Lost_language_skills_after_acquisition" ellipse
+*Arcs
+1 3 0.6666667 l "isa"
+3 1 0.2500000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.1250000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.5000000 l "isa"
+1 4 0.3333333 l "has_loss_certainty"
+4 1 0.2500000 l "has_loss_certainty"
+1 3 0.6666667 l "substring"
+3 1 0.2500000 l "substring"
+3 4 0.1250000 l "substring"
+4 3 0.2500000 l "substring"
+*Edges

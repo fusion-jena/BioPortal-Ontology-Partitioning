@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Herdwick" ellipse
+2 "Herik" ellipse
+*Arcs
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+1 2 0.5601720 l "distance"
+2 1 0.1334093 l "distance"
+*Edges

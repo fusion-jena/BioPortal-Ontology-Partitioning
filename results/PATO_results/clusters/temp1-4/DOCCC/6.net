@@ -1,0 +1,33 @@
+*Vertices 6
+1 "Fluid_Volume" ellipse
+2 "Fluid_Volume_Alteration" ellipse
+3 "Fluid_Volume_Deficit" ellipse
+4 "Fluid_Volume_Deficit_Risk" ellipse
+5 "Fluid_Volume_Excess" ellipse
+6 "Fluid_Volume_Excess_Risk" ellipse
+*Arcs
+2 1 0.2222222 l "isa"
+1 2 0.0952381 l "isa"
+3 1 0.2000000 l "isa"
+1 3 0.0952381 l "isa"
+4 1 0.1818182 l "isa"
+1 4 0.0952381 l "isa"
+5 1 0.1818182 l "isa"
+1 5 0.0952381 l "isa"
+6 1 0.1818182 l "isa"
+1 6 0.0952381 l "isa"
+1 2 0.0952381 l "substring"
+2 1 0.2222222 l "substring"
+1 3 0.0952381 l "substring"
+3 1 0.2000000 l "substring"
+1 4 0.0952381 l "substring"
+4 1 0.1818182 l "substring"
+1 5 0.0952381 l "substring"
+5 1 0.1818182 l "substring"
+1 6 0.0952381 l "substring"
+6 1 0.1818182 l "substring"
+3 4 0.1000000 l "substring"
+4 3 0.0909091 l "substring"
+5 6 0.0909091 l "substring"
+6 5 0.0909091 l "substring"
+*Edges

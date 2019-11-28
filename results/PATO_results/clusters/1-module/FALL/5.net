@@ -1,0 +1,40 @@
+*Vertices 11
+1 "Notification" ellipse
+2 "Result" ellipse
+3 "Action" ellipse
+4 "Alert" ellipse
+5 "Command" ellipse
+6 "Display" ellipse
+7 "Effect" ellipse
+8 "Notification" ellipse
+9 "Query" ellipse
+10 "ResultValue" ellipse
+11 "string"
+*Arcs
+3 7 1.0000000 l "isa"
+7 3 0.1250000 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.1250000 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1250000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1250000 l "isa"
+7 2 0.1250000 l "isa"
+2 7 0.3333333 l "isa"
+8 7 0.3333333 l "isa"
+7 8 0.1250000 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.1250000 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.6666667 l "isa"
+7 11 0.1250000 l "Text"
+11 7 1.0000000 l "Text"
+1 8 1.0000000 l "substring"
+8 1 0.6666667 l "substring"
+2 10 0.6666667 l "substring"
+10 2 1.0000000 l "substring"
+1 8 1.0000000 l "distance"
+8 1 0.6666667 l "distance"
+4 9 0.5000000 l "distance"
+9 4 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Unusually_negative_reaction_to_minor_changes_in_subjects_own_routines" ellipse
+2 "change_Unusually_negative_reaction_to_minor_changes_in_subjects_own_routines"
+*Arcs
+1 2 0.2620649 l "substring"
+2 1 0.2155372 l "substring"
+1 2 0.2620649 l "substring"
+2 1 0.2155372 l "substring"
+*Edges

@@ -1,0 +1,241 @@
+*Vertices 80
+1 "Acute_Stress_Disorder" ellipse
+2 "Alexithymia" ellipse
+3 "Anaclitic_Depression" ellipse
+4 "Anorexia_Nervosa" ellipse
+5 "Antisocial_Personality_Disorder" ellipse
+6 "Apotemnophilia" ellipse
+7 "Aspergers_Syndrome" ellipse
+8 "Avoidant_Personality_Disorder" ellipse
+9 "Bipolar_Disorder" ellipse
+10 "Body_Dysmorphic_Disorder" ellipse
+11 "Body_Image_Disturbances" ellipse
+12 "Borderline_Personality_Disorder" ellipse
+13 "Borderline_States" ellipse
+14 "Bulimia" ellipse
+15 "Capgras_Syndrome" ellipse
+16 "Chronic_Mental_Illness" ellipse
+17 "Claustrophobia" ellipse
+18 "Confabulation" ellipse
+19 "Consciousness_Disturbances" ellipse
+20 "Coprophagia" ellipse
+21 "Creutzfeldt_Jakob_Syndrome" ellipse
+22 "Cyclothymic_Personality" ellipse
+23 "Delusions" ellipse
+24 "Dependent_Personality_Disorder" ellipse
+25 "Dissociative_Identity_Disorder" ellipse
+26 "Dysfunctional_Family" ellipse
+27 "Dysthymic_Disorder" ellipse
+28 "Electra_Complex" ellipse
+29 "Endogenous_Depression" ellipse
+30 "Explosive_Disorder" ellipse
+31 "Fetal_Alcohol_Syndrome" ellipse
+32 "Folie_A_Deux" ellipse
+33 "Fugue_Reaction" ellipse
+34 "Gender_Identity_Disorder" ellipse
+35 "Histrionic_Personality_Disorder" ellipse
+36 "Homeless_Mentally_Ill" ellipse
+37 "Infantilism" ellipse
+38 "Inhibited_Sexual_Desire" ellipse
+39 "Judgment_Disturbances" ellipse
+40 "Magical_Thinking" ellipse
+41 "Major_Depression" ellipse
+42 "Malingering" ellipse
+43 "Mentally_Ill_Offenders" ellipse
+44 "Narcissistic_Personality_Disorder" ellipse
+45 "Obsessive_Compulsive_Disorder" ellipse
+46 "Obsessive_Compulsive_Personality_Disorder" ellipse
+47 "Oedipal_Complex" ellipse
+48 "Ophidiophobia" ellipse
+49 "Panic_Disorder" ellipse
+50 "Paranoid_Personality_Disorder" ellipse
+51 "Paraphilias" ellipse
+52 "Passive_Aggressive_Personality_Disorder" ellipse
+53 "Phobias" ellipse
+54 "Picks_Disease" ellipse
+55 "Postpartum_Depression" ellipse
+56 "Posttraumatic_Stress_Disorder" ellipse
+57 "Reactive_Depression" ellipse
+58 "Recurrent_Depression" ellipse
+59 "Repetition_Compulsion" ellipse
+60 "Schizoaffective_Disorder" ellipse
+61 "Schizoid_Personality_Disorder" ellipse
+62 "Schizophreniform_Disorder" ellipse
+63 "Schizophrenogenic_Family" ellipse
+64 "Schizophrenogenic_Mothers" ellipse
+65 "Schizotypal_Personality_Disorder" ellipse
+66 "School_Phobia" ellipse
+67 "Seasonal_Affective_Disorder" ellipse
+68 "Self_Defeating_Behavior" ellipse
+69 "Self_Mutilation" ellipse
+70 "Social_Phobia" ellipse
+71 "Stress_Reactions" ellipse
+72 "Toxic_Psychoses" ellipse
+73 "Treatment_Resistant_Depression" ellipse
+74 "Work_Related_Illnesses" ellipse
+75 "Alzheimer's_Disease" ellipse
+76 "Depression_(Emotion)" ellipse
+77 "Fixation_(Psychoanalytic)" ellipse
+78 "Fixation_(Psychological)" ellipse
+79 "Mental_Illness_(Attitudes_Toward)" ellipse
+80 "PsychologicalDisorders" ellipse
+*Arcs
+1 80 1.0000000 l "isa"
+80 1 0.0061728 l "isa"
+2 80 1.0000000 l "isa"
+80 2 0.0061728 l "isa"
+3 80 1.0000000 l "isa"
+80 3 0.0061728 l "isa"
+4 80 1.0000000 l "isa"
+80 4 0.0061728 l "isa"
+5 80 1.0000000 l "isa"
+80 5 0.0061728 l "isa"
+6 80 1.0000000 l "isa"
+80 6 0.0061728 l "isa"
+7 80 1.0000000 l "isa"
+80 7 0.0061728 l "isa"
+8 80 1.0000000 l "isa"
+80 8 0.0061728 l "isa"
+9 80 1.0000000 l "isa"
+80 9 0.0061728 l "isa"
+10 80 1.0000000 l "isa"
+80 10 0.0061728 l "isa"
+11 80 1.0000000 l "isa"
+80 11 0.0061728 l "isa"
+12 80 1.0000000 l "isa"
+80 12 0.0061728 l "isa"
+13 80 1.0000000 l "isa"
+80 13 0.0061728 l "isa"
+14 80 1.0000000 l "isa"
+80 14 0.0061728 l "isa"
+15 80 1.0000000 l "isa"
+80 15 0.0061728 l "isa"
+16 80 1.0000000 l "isa"
+80 16 0.0061728 l "isa"
+17 80 1.0000000 l "isa"
+80 17 0.0061728 l "isa"
+18 80 1.0000000 l "isa"
+80 18 0.0061728 l "isa"
+19 80 1.0000000 l "isa"
+80 19 0.0061728 l "isa"
+20 80 1.0000000 l "isa"
+80 20 0.0061728 l "isa"
+21 80 1.0000000 l "isa"
+80 21 0.0061728 l "isa"
+22 80 1.0000000 l "isa"
+80 22 0.0061728 l "isa"
+23 80 1.0000000 l "isa"
+80 23 0.0061728 l "isa"
+24 80 1.0000000 l "isa"
+80 24 0.0061728 l "isa"
+25 80 1.0000000 l "isa"
+80 25 0.0061728 l "isa"
+26 80 1.0000000 l "isa"
+80 26 0.0061728 l "isa"
+27 80 1.0000000 l "isa"
+80 27 0.0061728 l "isa"
+28 80 1.0000000 l "isa"
+80 28 0.0061728 l "isa"
+29 80 1.0000000 l "isa"
+80 29 0.0061728 l "isa"
+30 80 1.0000000 l "isa"
+80 30 0.0061728 l "isa"
+31 80 1.0000000 l "isa"
+80 31 0.0061728 l "isa"
+32 80 1.0000000 l "isa"
+80 32 0.0061728 l "isa"
+33 80 1.0000000 l "isa"
+80 33 0.0061728 l "isa"
+34 80 1.0000000 l "isa"
+80 34 0.0061728 l "isa"
+35 80 1.0000000 l "isa"
+80 35 0.0061728 l "isa"
+36 80 1.0000000 l "isa"
+80 36 0.0061728 l "isa"
+37 80 1.0000000 l "isa"
+80 37 0.0061728 l "isa"
+38 80 1.0000000 l "isa"
+80 38 0.0061728 l "isa"
+39 80 1.0000000 l "isa"
+80 39 0.0061728 l "isa"
+40 80 1.0000000 l "isa"
+80 40 0.0061728 l "isa"
+41 80 1.0000000 l "isa"
+80 41 0.0061728 l "isa"
+42 80 1.0000000 l "isa"
+80 42 0.0061728 l "isa"
+43 80 1.0000000 l "isa"
+80 43 0.0061728 l "isa"
+44 80 1.0000000 l "isa"
+80 44 0.0061728 l "isa"
+45 80 1.0000000 l "isa"
+80 45 0.0061728 l "isa"
+46 80 1.0000000 l "isa"
+80 46 0.0061728 l "isa"
+47 80 1.0000000 l "isa"
+80 47 0.0061728 l "isa"
+48 80 1.0000000 l "isa"
+80 48 0.0061728 l "isa"
+49 80 1.0000000 l "isa"
+80 49 0.0061728 l "isa"
+50 80 1.0000000 l "isa"
+80 50 0.0061728 l "isa"
+51 80 1.0000000 l "isa"
+80 51 0.0061728 l "isa"
+52 80 1.0000000 l "isa"
+80 52 0.0061728 l "isa"
+53 80 1.0000000 l "isa"
+80 53 0.0061728 l "isa"
+54 80 1.0000000 l "isa"
+80 54 0.0061728 l "isa"
+55 80 1.0000000 l "isa"
+80 55 0.0061728 l "isa"
+56 80 1.0000000 l "isa"
+80 56 0.0061728 l "isa"
+57 80 1.0000000 l "isa"
+80 57 0.0061728 l "isa"
+58 80 1.0000000 l "isa"
+80 58 0.0061728 l "isa"
+59 80 1.0000000 l "isa"
+80 59 0.0061728 l "isa"
+60 80 1.0000000 l "isa"
+80 60 0.0061728 l "isa"
+61 80 1.0000000 l "isa"
+80 61 0.0061728 l "isa"
+62 80 1.0000000 l "isa"
+80 62 0.0061728 l "isa"
+63 80 1.0000000 l "isa"
+80 63 0.0061728 l "isa"
+64 80 1.0000000 l "isa"
+80 64 0.0061728 l "isa"
+65 80 1.0000000 l "isa"
+80 65 0.0061728 l "isa"
+66 80 1.0000000 l "isa"
+80 66 0.0061728 l "isa"
+67 80 1.0000000 l "isa"
+80 67 0.0061728 l "isa"
+68 80 1.0000000 l "isa"
+80 68 0.0061728 l "isa"
+69 80 1.0000000 l "isa"
+80 69 0.0061728 l "isa"
+70 80 1.0000000 l "isa"
+80 70 0.0061728 l "isa"
+71 80 1.0000000 l "isa"
+80 71 0.0061728 l "isa"
+72 80 1.0000000 l "isa"
+80 72 0.0061728 l "isa"
+73 80 1.0000000 l "isa"
+80 73 0.0061728 l "isa"
+74 80 1.0000000 l "isa"
+80 74 0.0061728 l "isa"
+75 80 1.0000000 l "isa"
+80 75 0.0061728 l "isa"
+76 80 1.0000000 l "isa"
+80 76 0.0061728 l "isa"
+77 80 1.0000000 l "isa"
+80 77 0.0061728 l "isa"
+78 80 1.0000000 l "isa"
+80 78 0.0061728 l "isa"
+79 80 1.0000000 l "isa"
+80 79 0.0061728 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "to localize" ellipse
+2 "to export" ellipse
+*Arcs
+2 1 0.2051664 l "isa"
+1 2 0.1698829 l "isa"
+2 1 0.2051664 l "isa"
+1 2 0.1698829 l "isa"
+*Edges

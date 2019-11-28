@@ -1,0 +1,41 @@
+*Vertices 10
+1 "variable" ellipse
+2 "dependent variable" ellipse
+3 "independent variable" ellipse
+4 "statistical role" ellipse
+5 "arithmetic mean" ellipse
+6 "median" ellipse
+7 "skewness" ellipse
+8 "variance" ellipse
+9 "random variable" ellipse
+10 "statistic datum" ellipse
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 0.4000000 l "isa"
+1 3 0.2500000 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.1666667 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.1666667 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.1666667 l "isa"
+8 10 0.5000000 l "isa"
+10 8 0.1666667 l "isa"
+9 4 0.5000000 l "isa"
+4 9 0.1666667 l "isa"
+10 4 0.1666667 l "isa"
+4 10 0.1666667 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 0.4000000 l "substring"
+1 9 0.1250000 l "substring"
+9 1 0.5000000 l "substring"
+2 3 0.4000000 l "substring"
+3 2 0.4000000 l "substring"
+1 8 0.1250000 l "distance"
+8 1 0.5000000 l "distance"
+2 3 0.4000000 l "distance"
+3 2 0.4000000 l "distance"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Concept" ellipse
+2 "Variable" ellipse
+*Arcs
+2 1 0.0909091 l "operationalize"
+1 2 1.0000000 l "operationalize"
+*Edges

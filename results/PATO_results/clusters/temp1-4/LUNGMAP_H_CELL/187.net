@@ -1,0 +1,44 @@
+*Vertices 9
+1 "alveolar capillary endothelium" ellipse
+2 "lymphatic endothelial cell" ellipse
+3 "lymphatic vessel tunica intima" ellipse
+4 "vascular endothelial cell" ellipse
+5 "lymphatic endothelium" ellipse
+6 "arterial endothelial cell" ellipse
+7 "venous endothelial cell" ellipse
+8 "endothelial cell" ellipse
+9 "nonspecific endothelial cell" ellipse
+*Arcs
+2 5 0.2260313 l "definition"
+5 2 0.2183207 l "definition"
+4 1 0.2237225 l "definition"
+1 4 0.1825432 l "definition"
+5 3 0.2068302 l "definition"
+3 5 0.2104832 l "definition"
+2 8 0.3568915 l "isa"
+8 2 0.1538462 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.1538462 l "isa"
+4 8 0.3579560 l "isa"
+8 4 0.1538462 l "isa"
+6 8 0.3003586 l "isa"
+8 6 0.1538462 l "isa"
+7 8 0.3003586 l "isa"
+8 7 0.1538462 l "isa"
+2 5 0.2260313 l "definition"
+5 2 0.2183207 l "definition"
+4 1 0.2237225 l "definition"
+1 4 0.1825432 l "definition"
+5 3 0.2068302 l "definition"
+3 5 0.2104832 l "definition"
+2 8 0.3568915 l "substring"
+8 2 0.1538462 l "substring"
+4 8 0.3579560 l "substring"
+8 4 0.1538462 l "substring"
+6 8 0.3003586 l "substring"
+8 6 0.1538462 l "substring"
+7 8 0.3003586 l "substring"
+8 7 0.1538462 l "substring"
+8 9 0.1538462 l "substring"
+9 8 1.0000000 l "substring"
+*Edges

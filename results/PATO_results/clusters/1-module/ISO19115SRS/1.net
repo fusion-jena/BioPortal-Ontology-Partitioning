@@ -1,0 +1,15 @@
+*Vertices 4
+1 "MD_Identifier" ellipse
+2 "MD_ReferenceSystem" ellipse
+3 "Restriction"
+4 "referenceSystemIdentifier"
+*Arcs
+2 1 0.2500000 l "referenceSystemIdentifier"
+1 2 1.0000000 l "referenceSystemIdentifier"
+2 3 0.1250000 l "definition"
+3 2 1.0000000 l "definition"
+2 4 0.1250000 l "definition"
+4 2 1.0000000 l "definition"
+2 1 0.2500000 l "definition"
+1 2 1.0000000 l "definition"
+*Edges

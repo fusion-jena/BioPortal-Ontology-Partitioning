@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Individual" ellipse
+2 "nonNegativeInteger"
+*Arcs
+1 2 0.1428571 l "hasAgeValue"
+2 1 1.0000000 l "hasAgeValue"
+*Edges

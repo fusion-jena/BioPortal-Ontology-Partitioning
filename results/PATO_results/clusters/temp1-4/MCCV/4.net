@@ -1,0 +1,48 @@
+*Vertices 5
+1 "Fossil" ellipse
+2 "Macrofossil" ellipse
+3 "Microfossil" ellipse
+4 "SubstanceForm" ellipse
+5 "Felsic" ellipse
+*Arcs
+1 4 0.1721375 l "isa"
+4 1 0.6858513 l "isa"
+2 1 0.6111686 l "isa"
+1 2 0.3229722 l "isa"
+3 1 0.6111686 l "isa"
+1 3 0.3229722 l "isa"
+1 2 0.3229722 l "substring"
+2 1 0.6111686 l "substring"
+1 3 0.3229722 l "substring"
+3 1 0.6111686 l "substring"
+2 3 0.2396286 l "distance"
+3 2 0.2396286 l "distance"
+1 4 0.1721375 l "isa"
+4 1 0.6858513 l "isa"
+2 1 0.6111686 l "isa"
+1 2 0.3229722 l "isa"
+3 1 0.6111686 l "isa"
+1 3 0.3229722 l "isa"
+1 2 0.3229722 l "substring"
+2 1 0.6111686 l "substring"
+1 3 0.3229722 l "substring"
+3 1 0.6111686 l "substring"
+1 5 0.1030719 l "distance"
+5 1 0.3642890 l "distance"
+2 3 0.2396286 l "distance"
+3 2 0.2396286 l "distance"
+1 4 0.1721375 l "isa"
+4 1 0.6858513 l "isa"
+2 1 0.6111686 l "isa"
+1 2 0.3229722 l "isa"
+3 1 0.6111686 l "isa"
+1 3 0.3229722 l "isa"
+1 2 0.3229722 l "substring"
+2 1 0.6111686 l "substring"
+1 3 0.3229722 l "substring"
+3 1 0.6111686 l "substring"
+1 5 0.1030719 l "distance"
+5 1 0.3642890 l "distance"
+2 3 0.2396286 l "distance"
+3 2 0.2396286 l "distance"
+*Edges

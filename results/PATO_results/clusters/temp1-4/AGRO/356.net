@@ -1,0 +1,7 @@
+*Vertices 2
+1 "anthropogenic environmental process" ellipse
+2 "has active participant"
+*Arcs
+1 2 0.0833333 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

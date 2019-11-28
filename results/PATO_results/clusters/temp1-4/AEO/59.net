@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Electric" ellipse
+2 "Electric signals" ellipse
+*Arcs
+1 2 0.3012658 l "substring"
+2 1 0.3738632 l "substring"
+1 2 0.3012658 l "substring"
+2 1 0.3738632 l "substring"
+*Edges

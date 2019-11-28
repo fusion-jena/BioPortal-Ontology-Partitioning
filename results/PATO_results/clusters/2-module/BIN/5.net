@@ -1,0 +1,15 @@
+*Vertices 4
+1 "systolic blood pressure" ellipse
+2 "diastolic blood pressure" ellipse
+3 "sphygmomanometer" ellipse
+4 "heart rate" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.2500000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.2500000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2500000 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

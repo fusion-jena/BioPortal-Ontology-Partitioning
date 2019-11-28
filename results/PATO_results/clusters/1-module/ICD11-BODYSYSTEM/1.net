@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Female Genital System" ellipse
+2 "Genitourinary System" ellipse
+3 "Male Genital System" ellipse
+4 "Urinary System" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.2000000 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.2000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.4000000 l "isa"
+1 3 0.6666667 l "substring"
+3 1 0.6666667 l "substring"
+2 4 0.4000000 l "substring"
+4 2 1.0000000 l "substring"
+1 3 0.6666667 l "distance"
+3 1 0.6666667 l "distance"
+*Edges

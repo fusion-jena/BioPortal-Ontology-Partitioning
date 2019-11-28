@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Ancient_Lands" ellipse
+2 "Commonwealth_of_Independent_States" ellipse
+3 "Czechoslovakia" ellipse
+4 "Historical_Geographic_Locations" ellipse
+5 "Middle_East" ellipse
+6 "New_Guinea" ellipse
+7 "Yugoslavia" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0909091 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0909091 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0909091 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0909091 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0909091 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0909091 l "isa"
+*Edges

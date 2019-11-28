@@ -1,0 +1,22 @@
+*Vertices 7
+1 "MicroArray Data" ellipse
+2 "isMicroArrayDataOf"
+3 "hasDescription"
+4 "hasLogRatio"
+5 "hasNormalizedLogRatio"
+6 "hasProbeName"
+7 "hasSystematicName"
+*Arcs
+1 2 0.0714286 l "definition"
+2 1 1.0000000 l "definition"
+1 3 0.0714286 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.0714286 l "definition"
+4 1 1.0000000 l "definition"
+1 5 0.0714286 l "definition"
+5 1 1.0000000 l "definition"
+1 6 0.0714286 l "definition"
+6 1 1.0000000 l "definition"
+1 7 0.0714286 l "definition"
+7 1 1.0000000 l "definition"
+*Edges

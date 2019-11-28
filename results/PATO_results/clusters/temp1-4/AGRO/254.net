@@ -1,0 +1,14 @@
+*Vertices 3
+1 "alkaline earth metal atom" ellipse
+2 "alkali metal atom" ellipse
+3 "metal atom" ellipse
+*Arcs
+1 3 0.2500000 l "isa"
+3 1 0.1818182 l "isa"
+2 3 0.2500000 l "isa"
+3 2 0.1818182 l "isa"
+1 3 0.2500000 l "substring"
+3 1 0.1818182 l "substring"
+2 3 0.2500000 l "substring"
+3 2 0.1818182 l "substring"
+*Edges

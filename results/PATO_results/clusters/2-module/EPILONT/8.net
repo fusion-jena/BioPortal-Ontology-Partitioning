@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Benign myoclonic epilepsy in infancy" ellipse
+2 "Childhood absence epilepsy" ellipse
+3 "Epilepsias generalizadas idiopáticas" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1250000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1250000 l "isa"
+*Edges

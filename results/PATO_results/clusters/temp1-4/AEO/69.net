@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Clinical assesment" ellipse
+2 "neurological examination" ellipse
+*Arcs
+2 1 0.4130836 l "isa"
+1 2 0.1601065 l "isa"
+2 1 0.4130836 l "isa"
+1 2 0.1601065 l "isa"
+2 1 0.4130836 l "isa"
+1 2 0.1601065 l "isa"
+*Edges

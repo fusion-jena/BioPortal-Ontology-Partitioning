@@ -1,0 +1,33 @@
+*Vertices 2
+1 "DJD" ellipse
+2 "DXDJD" ellipse
+*Arcs
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+1 2 0.0205504 l "substring"
+2 1 0.0402855 l "substring"
+1 2 0.0205504 l "distance"
+2 1 0.0402855 l "distance"
+*Edges

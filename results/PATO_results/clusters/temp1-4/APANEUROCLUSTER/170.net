@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Eating_Disorders" ellipse
+2 "Feeding_Disorders" ellipse
+3 "Hearing_Disorders" ellipse
+4 "Purging_(Eating_Disorders)" ellipse
+*Arcs
+1 4 0.1833983 l "substring"
+4 1 0.2765686 l "substring"
+1 2 0.1828394 l "distance"
+2 1 0.2683931 l "distance"
+1 3 0.1678251 l "distance"
+3 1 0.1495811 l "distance"
+2 3 0.2642917 l "distance"
+3 2 0.1604729 l "distance"
+1 4 0.1833983 l "substring"
+4 1 0.2765686 l "substring"
+1 2 0.1828394 l "distance"
+2 1 0.2683931 l "distance"
+1 3 0.1678251 l "distance"
+3 1 0.1495811 l "distance"
+2 3 0.2642917 l "distance"
+3 2 0.1604729 l "distance"
+1 4 0.1833983 l "substring"
+4 1 0.2765686 l "substring"
+1 2 0.1828394 l "distance"
+2 1 0.2683931 l "distance"
+1 3 0.1678251 l "distance"
+3 1 0.1495811 l "distance"
+2 3 0.2642917 l "distance"
+3 2 0.1604729 l "distance"
+*Edges

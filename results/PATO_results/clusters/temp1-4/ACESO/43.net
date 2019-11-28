@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Lived_with_Parent_or_Guardian_who_Died" ellipse
+2 "lives_with_parent"
+3 "lives_with_legal_guardian"
+*Arcs
+1 2 0.1250000 l "definition"
+2 1 1.0000000 l "definition"
+1 3 0.1250000 l "definition"
+3 1 1.0000000 l "definition"
+*Edges

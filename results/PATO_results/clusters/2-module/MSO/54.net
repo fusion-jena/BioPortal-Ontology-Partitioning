@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Family History risk factor" ellipse
+2 "Gender risk factor" ellipse
+3 "Risk factor" ellipse
+*Arcs
+2 3 1.0000000 l "isa"
+3 2 0.6666667 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.3333333 l "substring"
+2 3 1.0000000 l "substring"
+3 2 0.6666667 l "substring"
+*Edges

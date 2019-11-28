@@ -1,0 +1,11 @@
+*Vertices 2
+1 "has source file"
+2 "file"
+*Arcs
+1 2 0.3522646 l "substring"
+2 1 0.1258671 l "substring"
+1 2 0.3522646 l "substring"
+2 1 0.1258671 l "substring"
+1 2 0.3522646 l "substring"
+2 1 0.1258671 l "substring"
+*Edges

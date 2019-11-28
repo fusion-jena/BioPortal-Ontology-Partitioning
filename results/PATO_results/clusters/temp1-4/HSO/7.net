@@ -1,0 +1,12 @@
+*Vertices 3
+1 "lung" ellipse
+2 "lateral structure" ellipse
+3 "in_lateral_side_of"
+*Arcs
+1 2 0.0526316 l "isa"
+2 1 0.1250000 l "isa"
+1 3 0.0526316 l "definition"
+3 1 0.5000000 l "definition"
+2 3 0.1250000 l "definition"
+3 2 0.5000000 l "definition"
+*Edges

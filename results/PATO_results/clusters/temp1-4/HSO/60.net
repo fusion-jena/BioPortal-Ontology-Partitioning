@@ -1,0 +1,62 @@
+*Vertices 13
+1 "lymph node" ellipse
+2 "serous gland" ellipse
+3 "secretion of exocrine gland" ellipse
+4 "synovial fluid" ellipse
+5 "mammary gland" ellipse
+6 "bile" ellipse
+7 "lymph" ellipse
+8 "bodily fluid" ellipse
+9 "mammary gland fluid/secretion" ellipse
+10 "transudate" ellipse
+11 "secretion of serous gland" ellipse
+12 "produced_by"
+13 "transformation of"
+*Arcs
+4 10 0.5000000 l "isa"
+10 4 0.1666667 l "isa"
+4 11 0.5000000 l "isa"
+11 4 0.0833333 l "isa"
+6 3 0.1333333 l "isa"
+3 6 0.1428571 l "isa"
+6 8 0.0666667 l "isa"
+8 6 0.1250000 l "isa"
+9 3 0.1000000 l "isa"
+3 9 0.0714286 l "isa"
+10 8 0.1666667 l "isa"
+8 10 0.1250000 l "isa"
+11 3 0.0833333 l "isa"
+3 11 0.0714286 l "isa"
+11 8 0.1666667 l "isa"
+8 11 0.2500000 l "isa"
+1 7 0.2857143 l "definition"
+7 1 0.2000000 l "definition"
+2 11 0.3333333 l "definition"
+11 2 0.2500000 l "definition"
+3 12 0.0714286 l "definition"
+12 3 0.2500000 l "definition"
+6 12 0.0666667 l "definition"
+12 6 0.2500000 l "definition"
+6 3 0.1333333 l "definition"
+3 6 0.1428571 l "definition"
+7 13 0.1000000 l "definition"
+13 7 0.5000000 l "definition"
+9 5 0.2000000 l "definition"
+5 9 0.2500000 l "definition"
+9 12 0.1000000 l "definition"
+12 9 0.2500000 l "definition"
+10 13 0.1666667 l "definition"
+13 10 0.5000000 l "definition"
+11 2 0.2500000 l "definition"
+2 11 0.3333333 l "definition"
+11 8 0.1666667 l "definition"
+8 11 0.2500000 l "definition"
+11 12 0.0833333 l "definition"
+12 11 0.2500000 l "definition"
+1 7 0.2857143 l "substring"
+7 1 0.2000000 l "substring"
+2 11 0.3333333 l "substring"
+11 2 0.2500000 l "substring"
+5 9 0.2500000 l "substring"
+9 5 0.2000000 l "substring"
+*Edges

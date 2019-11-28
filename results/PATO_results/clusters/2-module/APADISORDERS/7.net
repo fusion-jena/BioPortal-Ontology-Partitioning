@@ -1,0 +1,52 @@
+*Vertices 17
+1 "At_Risk_Populations" ellipse
+2 "Client_Attitudes" ellipse
+3 "Diathesis_Stress_Model" ellipse
+4 "Disease_Course" ellipse
+5 "Disease_Transmission" ellipse
+6 "Epidemiology" ellipse
+7 "Heritability" ellipse
+8 "Illness_Behavior" ellipse
+9 "Mortality_Rate" ellipse
+10 "Pathophysiology" ellipse
+11 "Patient_History" ellipse
+12 "Predisposition" ellipse
+13 "Protective_Factors" ellipse
+14 "Risk_Factors" ellipse
+15 "Seasonal_Variations" ellipse
+16 "Spontaneous_Remission" ellipse
+17 "DisorderCharacteristics" ellipse
+*Arcs
+1 17 1.0000000 l "isa"
+17 1 0.0263158 l "isa"
+2 17 1.0000000 l "isa"
+17 2 0.0263158 l "isa"
+3 17 1.0000000 l "isa"
+17 3 0.0263158 l "isa"
+4 17 1.0000000 l "isa"
+17 4 0.0263158 l "isa"
+5 17 1.0000000 l "isa"
+17 5 0.0263158 l "isa"
+6 17 1.0000000 l "isa"
+17 6 0.0263158 l "isa"
+7 17 1.0000000 l "isa"
+17 7 0.0263158 l "isa"
+8 17 1.0000000 l "isa"
+17 8 0.0263158 l "isa"
+9 17 1.0000000 l "isa"
+17 9 0.0263158 l "isa"
+10 17 1.0000000 l "isa"
+17 10 0.0263158 l "isa"
+11 17 1.0000000 l "isa"
+17 11 0.0263158 l "isa"
+12 17 1.0000000 l "isa"
+17 12 0.0263158 l "isa"
+13 17 1.0000000 l "isa"
+17 13 0.0263158 l "isa"
+14 17 1.0000000 l "isa"
+17 14 0.0263158 l "isa"
+15 17 1.0000000 l "isa"
+17 15 0.0263158 l "isa"
+16 17 1.0000000 l "isa"
+17 16 0.0263158 l "isa"
+*Edges

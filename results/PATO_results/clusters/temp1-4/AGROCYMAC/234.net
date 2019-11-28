@@ -1,0 +1,13 @@
+*Vertices 2
+1 "sulfur dioxide" ellipse
+2 "sulfur oxide" ellipse
+*Arcs
+1 2 0.5542295 l "isa"
+2 1 0.3872584 l "isa"
+1 2 0.5542295 l "distance"
+2 1 0.3872584 l "distance"
+1 2 0.5542295 l "isa"
+2 1 0.3872584 l "isa"
+1 2 0.5542295 l "distance"
+2 1 0.3872584 l "distance"
+*Edges

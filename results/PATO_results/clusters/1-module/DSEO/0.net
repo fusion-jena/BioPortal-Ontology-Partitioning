@@ -1,0 +1,265 @@
+*Vertices 76
+1 "HTML" ellipse
+2 "JSON" ellipse
+3 "Java" ellipse
+4 "JavaScript" ellipse
+5 "Perl" ellipse
+6 "RDF" ellipse
+7 "Spark" ellipse
+8 "Biotechnology" ellipse
+9 "Engineering" ellipse
+10 "Graph Data" ellipse
+11 "Graph Database" ellipse
+12 "Knowledge Representation" ellipse
+13 "Neuroinformatics" ellipse
+14 "Neuroscience" ellipse
+15 "Programming" ellipse
+16 "Regression" ellipse
+17 "Signal Processing" ellipse
+18 "Sociology" ellipse
+19 "Bioinformatics/Computational Biology" ellipse
+20 "GIS" ellipse
+21 "R" ellipse
+22 "Algorithms" ellipse
+23 "Artificial Intelligence" ellipse
+24 "Association Rule Learning" ellipse
+25 "Audio Data" ellipse
+26 "Business Analytics" ellipse
+27 "Chemistry" ellipse
+28 "Clustering" ellipse
+29 "Data Exploration" ellipse
+30 "Data Integration" ellipse
+31 "Databases" ellipse
+32 "Deep Learning" ellipse
+33 "Dimensionality Reduction" ellipse
+34 "Electronic Health Record" ellipse
+35 "Ensemble Learning" ellipse
+36 "Gaussian Processes" ellipse
+37 "Genomic Proteomic Data" ellipse
+38 "Graph Analytics" ellipse
+39 "High Performance Computing" ellipse
+40 "History" ellipse
+41 "Image Data" ellipse
+42 "Information Retrieval" ellipse
+43 "Information Theory" ellipse
+44 "Introductory" ellipse
+45 "Kernel Methods" ellipse
+46 "Linear Algebra" ellipse
+47 "Marketing Analytics" ellipse
+48 "Markov Processes" ellipse
+49 "Monte Carlo Methods" ellipse
+50 "Natural Language Processing" ellipse
+51 "Neural Networks" ellipse
+52 "Neuroimaging" ellipse
+53 "Parallel Database" ellipse
+54 "Pharmacology Drug Discovery" ellipse
+55 "Physiology" ellipse
+56 "Precision Medicine" ellipse
+57 "Proteomics" ellipse
+58 "Psychology" ellipse
+59 "Recommender System" ellipse
+60 "Reinforcement Learning" ellipse
+61 "Relational Database" ellipse
+62 "Reproducibility" ellipse
+63 "Research Methodology" ellipse
+64 "Resource Format" ellipse
+65 "Security" ellipse
+66 "Sensor Networks/IoT" ellipse
+67 "Social Media Analysis" ellipse
+68 "Spatial Data" ellipse
+69 "Stochastic Processes" ellipse
+70 "Streaming Data" ellipse
+71 "Tabular Data" ellipse
+72 "Time Series Data" ellipse
+73 "Unsupervised Learning" ellipse
+74 "Video" ellipse
+75 "Video Data" ellipse
+76 "Written Documents" ellipse
+*Arcs
+20 68 0.2000000 l "isa"
+68 20 0.5000000 l "isa"
+6 10 0.1666667 l "isa"
+10 6 0.2500000 l "isa"
+24 73 0.5000000 l "isa"
+73 24 0.1428571 l "isa"
+8 9 0.3333333 l "isa"
+9 8 0.2500000 l "isa"
+28 73 0.5000000 l "isa"
+73 28 0.1428571 l "isa"
+32 51 0.5000000 l "isa"
+51 32 0.3333333 l "isa"
+33 73 0.5000000 l "isa"
+73 33 0.1428571 l "isa"
+36 69 0.5000000 l "isa"
+69 36 0.2500000 l "isa"
+11 31 0.3333333 l "isa"
+31 11 0.1666667 l "isa"
+12 23 0.3333333 l "isa"
+23 12 0.2000000 l "isa"
+12 31 0.3333333 l "isa"
+31 12 0.1666667 l "isa"
+47 26 0.5000000 l "isa"
+26 47 0.5000000 l "isa"
+48 69 0.5000000 l "isa"
+69 48 0.2500000 l "isa"
+50 23 0.5000000 l "isa"
+23 50 0.2000000 l "isa"
+52 41 0.5000000 l "isa"
+41 52 0.5000000 l "isa"
+13 14 0.3333333 l "isa"
+14 13 0.3333333 l "isa"
+53 31 0.5000000 l "isa"
+31 53 0.1666667 l "isa"
+61 31 0.5000000 l "isa"
+31 61 0.1666667 l "isa"
+17 9 0.3333333 l "isa"
+9 17 0.2500000 l "isa"
+74 64 0.5000000 l "isa"
+64 74 0.3333333 l "isa"
+76 64 0.5000000 l "isa"
+64 76 0.3333333 l "isa"
+3 4 0.3333333 l "substring"
+4 3 0.3333333 l "substring"
+4 21 0.3333333 l "substring"
+21 4 0.0126582 l "substring"
+5 21 0.2857143 l "substring"
+21 5 0.0253165 l "substring"
+21 6 0.0253165 l "substring"
+6 21 0.3333333 l "substring"
+21 7 0.0126582 l "substring"
+7 21 0.3333333 l "substring"
+21 22 0.0126582 l "substring"
+22 21 0.5000000 l "substring"
+21 23 0.0126582 l "substring"
+23 21 0.2000000 l "substring"
+21 24 0.0126582 l "substring"
+24 21 0.5000000 l "substring"
+21 19 0.0126582 l "substring"
+19 21 0.2000000 l "substring"
+21 27 0.0126582 l "substring"
+27 21 0.5000000 l "substring"
+21 28 0.0126582 l "substring"
+28 21 0.5000000 l "substring"
+21 29 0.0126582 l "substring"
+29 21 0.5000000 l "substring"
+21 30 0.0126582 l "substring"
+30 21 0.5000000 l "substring"
+21 32 0.0126582 l "substring"
+32 21 0.5000000 l "substring"
+21 33 0.0126582 l "substring"
+33 21 0.5000000 l "substring"
+21 34 0.0126582 l "substring"
+34 21 0.5000000 l "substring"
+21 9 0.0126582 l "substring"
+9 21 0.2500000 l "substring"
+21 35 0.0126582 l "substring"
+35 21 0.5000000 l "substring"
+21 36 0.0126582 l "substring"
+36 21 0.5000000 l "substring"
+21 37 0.0126582 l "substring"
+37 21 0.5000000 l "substring"
+21 38 0.0126582 l "substring"
+38 21 0.5000000 l "substring"
+21 10 0.0126582 l "substring"
+10 21 0.2500000 l "substring"
+21 11 0.0126582 l "substring"
+11 21 0.3333333 l "substring"
+21 39 0.0126582 l "substring"
+39 21 0.5000000 l "substring"
+21 40 0.0126582 l "substring"
+40 21 0.5000000 l "substring"
+21 42 0.0126582 l "substring"
+42 21 0.5000000 l "substring"
+21 43 0.0126582 l "substring"
+43 21 0.5000000 l "substring"
+21 44 0.0126582 l "substring"
+44 21 0.5000000 l "substring"
+21 45 0.0126582 l "substring"
+45 21 0.5000000 l "substring"
+21 12 0.0126582 l "substring"
+12 21 0.3333333 l "substring"
+21 46 0.0126582 l "substring"
+46 21 0.5000000 l "substring"
+21 47 0.0126582 l "substring"
+47 21 0.5000000 l "substring"
+21 48 0.0126582 l "substring"
+48 21 0.5000000 l "substring"
+21 49 0.0126582 l "substring"
+49 21 0.5000000 l "substring"
+21 50 0.0126582 l "substring"
+50 21 0.5000000 l "substring"
+21 51 0.0126582 l "substring"
+51 21 0.3333333 l "substring"
+21 52 0.0126582 l "substring"
+52 21 0.5000000 l "substring"
+21 13 0.0126582 l "substring"
+13 21 0.3333333 l "substring"
+21 14 0.0126582 l "substring"
+14 21 0.3333333 l "substring"
+21 53 0.0126582 l "substring"
+53 21 0.5000000 l "substring"
+21 54 0.0126582 l "substring"
+54 21 0.5000000 l "substring"
+21 56 0.0126582 l "substring"
+56 21 0.5000000 l "substring"
+21 15 0.0126582 l "substring"
+15 21 0.3333333 l "substring"
+21 57 0.0126582 l "substring"
+57 21 0.5000000 l "substring"
+21 59 0.0126582 l "substring"
+59 21 0.5000000 l "substring"
+21 16 0.0126582 l "substring"
+16 21 0.3333333 l "substring"
+21 60 0.0126582 l "substring"
+60 21 0.5000000 l "substring"
+21 61 0.0126582 l "substring"
+61 21 0.5000000 l "substring"
+21 62 0.0126582 l "substring"
+62 21 0.5000000 l "substring"
+21 63 0.0126582 l "substring"
+63 21 0.5000000 l "substring"
+21 64 0.0126582 l "substring"
+64 21 0.3333333 l "substring"
+21 65 0.0126582 l "substring"
+65 21 0.5000000 l "substring"
+21 66 0.0126582 l "substring"
+66 21 0.5000000 l "substring"
+21 17 0.0126582 l "substring"
+17 21 0.3333333 l "substring"
+21 69 0.0126582 l "substring"
+69 21 0.2500000 l "substring"
+21 70 0.0126582 l "substring"
+70 21 0.5000000 l "substring"
+21 71 0.0126582 l "substring"
+71 21 0.5000000 l "substring"
+21 72 0.0126582 l "substring"
+72 21 0.5000000 l "substring"
+21 73 0.0126582 l "substring"
+73 21 0.1428571 l "substring"
+21 76 0.0126582 l "substring"
+76 21 0.5000000 l "substring"
+10 11 0.2500000 l "substring"
+11 10 0.3333333 l "substring"
+74 75 0.5000000 l "substring"
+75 74 0.3333333 l "substring"
+20 21 0.2000000 l "distance"
+21 20 0.0126582 l "distance"
+20 6 0.2000000 l "distance"
+6 20 0.1666667 l "distance"
+1 5 0.2500000 l "distance"
+5 1 0.1428571 l "distance"
+2 3 0.3333333 l "distance"
+3 2 0.3333333 l "distance"
+5 21 0.2857143 l "distance"
+21 5 0.0253165 l "distance"
+5 7 0.1428571 l "distance"
+7 5 0.3333333 l "distance"
+21 6 0.0253165 l "distance"
+6 21 0.3333333 l "distance"
+25 75 0.5000000 l "distance"
+75 25 0.3333333 l "distance"
+55 58 0.5000000 l "distance"
+58 55 0.3333333 l "distance"
+58 18 0.3333333 l "distance"
+18 58 0.2500000 l "distance"
+*Edges

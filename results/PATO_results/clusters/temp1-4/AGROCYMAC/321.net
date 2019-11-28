@@ -1,0 +1,43 @@
+*Vertices 4
+1 "volume fraction" ellipse
+2 "fraction" ellipse
+3 "mass fraction" ellipse
+4 "amount fraction" ellipse
+*Arcs
+1 2 0.4630299 l "isa"
+2 1 0.1028316 l "isa"
+3 2 0.4659343 l "isa"
+2 3 0.1029624 l "isa"
+4 2 0.3370918 l "isa"
+2 4 0.0954034 l "isa"
+1 2 0.4630299 l "substring"
+2 1 0.1028316 l "substring"
+2 3 0.1029624 l "substring"
+3 2 0.4659343 l "substring"
+2 4 0.0954034 l "substring"
+4 2 0.3370918 l "substring"
+1 2 0.4630299 l "isa"
+2 1 0.1028316 l "isa"
+3 2 0.4659343 l "isa"
+2 3 0.1029624 l "isa"
+4 2 0.3370918 l "isa"
+2 4 0.0954034 l "isa"
+1 2 0.4630299 l "substring"
+2 1 0.1028316 l "substring"
+2 3 0.1029624 l "substring"
+3 2 0.4659343 l "substring"
+2 4 0.0954034 l "substring"
+4 2 0.3370918 l "substring"
+1 2 0.4630299 l "isa"
+2 1 0.1028316 l "isa"
+3 2 0.4659343 l "isa"
+2 3 0.1029624 l "isa"
+4 2 0.3370918 l "isa"
+2 4 0.0954034 l "isa"
+1 2 0.4630299 l "substring"
+2 1 0.1028316 l "substring"
+2 3 0.1029624 l "substring"
+3 2 0.4659343 l "substring"
+2 4 0.0954034 l "substring"
+4 2 0.3370918 l "substring"
+*Edges

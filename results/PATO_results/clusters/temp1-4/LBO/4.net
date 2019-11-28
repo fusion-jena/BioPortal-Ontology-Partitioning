@@ -1,0 +1,9 @@
+*Vertices 2
+1 "folding" ellipse
+2 "binding" ellipse
+*Arcs
+1 2 0.5000000 l "distance"
+2 1 0.6666667 l "distance"
+1 2 0.5000000 l "distance"
+2 1 0.6666667 l "distance"
+*Edges

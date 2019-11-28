@@ -1,0 +1,16 @@
+*Vertices 5
+1 "AnnotationEncoding" ellipse
+2 "IdentifierEncoding" ellipse
+3 "MetaIdEncoding" ellipse
+4 "ModelEncoding" ellipse
+5 "VcardEncoding" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.3333333 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.3333333 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.5000000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.5000000 l "isa"
+*Edges

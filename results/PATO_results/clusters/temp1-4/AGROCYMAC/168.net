@@ -1,0 +1,58 @@
+*Vertices 7
+1 "group" ellipse
+2 "hydroxides" ellipse
+3 "inorganic group" ellipse
+4 "organic group" ellipse
+5 "organic oxo compound" ellipse
+6 "hydroxy group" ellipse
+7 "oxo group" ellipse
+*Arcs
+3 1 0.2816743 l "isa"
+1 3 0.0418366 l "isa"
+4 1 0.1633189 l "isa"
+1 4 0.0396937 l "isa"
+6 3 0.2582318 l "isa"
+3 6 0.1449990 l "isa"
+7 3 0.2550210 l "isa"
+3 7 0.1449990 l "isa"
+2 6 0.0884424 l "definition"
+6 2 0.2518081 l "definition"
+5 7 0.2113198 l "definition"
+7 5 0.2611111 l "definition"
+1 3 0.0418366 l "substring"
+3 1 0.2816743 l "substring"
+1 4 0.0396937 l "substring"
+4 1 0.1633189 l "substring"
+1 6 0.0204238 l "substring"
+6 1 0.2448903 l "substring"
+1 7 0.0204238 l "substring"
+7 1 0.2418454 l "substring"
+3 4 0.2972119 l "substring"
+4 3 0.1816313 l "substring"
+3 4 0.2972119 l "distance"
+4 3 0.1816313 l "distance"
+3 1 0.2816743 l "isa"
+1 3 0.0418366 l "isa"
+4 1 0.1633189 l "isa"
+1 4 0.0396937 l "isa"
+6 3 0.2582318 l "isa"
+3 6 0.1449990 l "isa"
+7 3 0.2550210 l "isa"
+3 7 0.1449990 l "isa"
+2 6 0.0884424 l "definition"
+6 2 0.2518081 l "definition"
+5 7 0.2113198 l "definition"
+7 5 0.2611111 l "definition"
+1 3 0.0418366 l "substring"
+3 1 0.2816743 l "substring"
+1 4 0.0396937 l "substring"
+4 1 0.1633189 l "substring"
+1 6 0.0204238 l "substring"
+6 1 0.2448903 l "substring"
+1 7 0.0204238 l "substring"
+7 1 0.2418454 l "substring"
+3 4 0.2972119 l "substring"
+4 3 0.1816313 l "substring"
+3 4 0.2972119 l "distance"
+4 3 0.1816313 l "distance"
+*Edges

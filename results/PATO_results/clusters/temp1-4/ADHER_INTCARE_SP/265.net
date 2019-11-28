@@ -1,0 +1,39 @@
+*Vertices 4
+1 "Consequence" ellipse
+2 "Consequences" ellipse
+3 "Economic_consequences" ellipse
+4 "Psychosocial_consequences" ellipse
+*Arcs
+3 2 0.6979865 l "isa"
+2 3 0.2244835 l "isa"
+4 2 0.6979865 l "isa"
+2 4 0.2244835 l "isa"
+1 2 0.3463855 l "substring"
+2 1 0.1985816 l "substring"
+1 3 0.1694277 l "substring"
+3 1 0.3020134 l "substring"
+1 4 0.1694277 l "substring"
+4 1 0.3020134 l "substring"
+2 3 0.2244835 l "substring"
+3 2 0.6979865 l "substring"
+2 4 0.2244835 l "substring"
+4 2 0.6979865 l "substring"
+1 2 0.3463855 l "distance"
+2 1 0.1985816 l "distance"
+3 2 0.6979865 l "isa"
+2 3 0.2244835 l "isa"
+4 2 0.6979865 l "isa"
+2 4 0.2244835 l "isa"
+1 2 0.3463855 l "substring"
+2 1 0.1985816 l "substring"
+1 3 0.1694277 l "substring"
+3 1 0.3020134 l "substring"
+1 4 0.1694277 l "substring"
+4 1 0.3020134 l "substring"
+2 3 0.2244835 l "substring"
+3 2 0.6979865 l "substring"
+2 4 0.2244835 l "substring"
+4 2 0.6979865 l "substring"
+1 2 0.3463855 l "distance"
+2 1 0.1985816 l "distance"
+*Edges

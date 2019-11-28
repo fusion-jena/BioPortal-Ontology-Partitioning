@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Heat" ellipse
+2 "Electrical modality" ellipse
+3 "Pressure Modality" ellipse
+4 "Tactile Modality" ellipse
+5 "Thermal Modality" ellipse
+6 "Electronic Stimulations" ellipse
+7 "Vibratory Stimulation" ellipse
+*Arcs
+2 4 0.5000000 l "isa"
+4 2 0.0833333 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.0833333 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0833333 l "isa"
+1 5 0.1250000 l "definition"
+5 1 0.5000000 l "definition"
+6 2 0.2500000 l "definition"
+2 6 0.5000000 l "definition"
+7 3 0.2500000 l "definition"
+3 7 0.5000000 l "definition"
+*Edges

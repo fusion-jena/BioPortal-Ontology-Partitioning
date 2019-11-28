@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Clinical thing" ellipse
+2 "thing related to pathology" ellipse
+*Arcs
+2 1 0.1484818 l "isa"
+1 2 0.0948337 l "isa"
+2 1 0.1484818 l "isa"
+1 2 0.0948337 l "isa"
+*Edges

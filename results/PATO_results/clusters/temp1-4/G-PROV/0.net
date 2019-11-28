@@ -1,0 +1,61 @@
+*Vertices 22
+1 "undivided" ellipse
+2 "CreativeWork" ellipse
+3 "Label Property" ellipse
+4 "Project" ellipse
+5 "disease management" ellipse
+6 "formal rule" ellipse
+7 "part_of"
+8 "has_part"
+9 "Spatial Thing" ellipse
+10 "Restriction"
+11 "Issue" ellipse
+12 "journal" ellipse
+13 "magazine" ellipse
+14 "newspaper" ellipse
+15 "was derieved from"
+16 "hasPart"
+17 "phyllome" ellipse
+18 "stipe" ellipse
+19 "PersonalProfileDocument" ellipse
+20 "root" ellipse
+21 "periodical" ellipse
+22 "report" ellipse
+*Arcs
+9 9 0.5668321 l "based near"
+9 9 0.5668321 l "based near"
+12 21 0.2500000 l "isa"
+21 12 0.2500000 l "isa"
+13 21 0.2500000 l "isa"
+21 13 0.2500000 l "isa"
+14 21 0.2500000 l "isa"
+21 14 0.2500000 l "isa"
+9 9 0.5668321 l "based near"
+9 9 0.5668321 l "based near"
+11 10 0.1250000 l "definition"
+10 11 0.0544769 l "definition"
+11 16 0.1250000 l "definition"
+16 11 0.2000000 l "definition"
+12 10 0.2500000 l "definition"
+10 12 0.0544769 l "definition"
+12 16 0.2500000 l "definition"
+16 12 0.2000000 l "definition"
+12 11 0.2500000 l "definition"
+11 12 0.1250000 l "definition"
+13 10 0.2500000 l "definition"
+10 13 0.0544769 l "definition"
+13 16 0.2500000 l "definition"
+16 13 0.2000000 l "definition"
+13 11 0.2500000 l "definition"
+11 13 0.1250000 l "definition"
+14 10 0.2500000 l "definition"
+10 14 0.0544769 l "definition"
+14 16 0.2500000 l "definition"
+16 14 0.2000000 l "definition"
+14 11 0.2500000 l "definition"
+11 14 0.1250000 l "definition"
+20 22 0.1368649 l "distance"
+22 20 0.3333333 l "distance"
+8 16 0.1350341 l "distance"
+16 8 0.2000000 l "distance"
+*Edges

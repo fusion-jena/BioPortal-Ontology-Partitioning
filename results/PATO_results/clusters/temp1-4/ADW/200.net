@@ -1,0 +1,9 @@
+*Vertices 2
+1 "PCDH11X" ellipse
+2 "PDHA1" ellipse
+*Arcs
+1 2 0.2036239 l "distance"
+2 1 0.0567934 l "distance"
+1 2 0.2036239 l "distance"
+2 1 0.0567934 l "distance"
+*Edges

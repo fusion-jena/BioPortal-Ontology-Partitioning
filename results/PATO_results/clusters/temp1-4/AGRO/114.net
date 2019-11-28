@@ -1,0 +1,40 @@
+*Vertices 9
+1 "(13)C-modified compound" ellipse
+2 "isotopically modified compound" ellipse
+3 "urea" ellipse
+4 "molecular entity" ellipse
+5 "((13)C)urea" ellipse
+6 "carbamimidic acid" ellipse
+7 "isourea" ellipse
+8 "one-carbon compound" ellipse
+9 "is_tautomer_of"
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.5000000 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.0277778 l "isa"
+3 8 0.0156250 l "isa"
+8 3 0.1250000 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.5000000 l "isa"
+5 8 0.3333333 l "isa"
+8 5 0.1250000 l "isa"
+6 7 0.1111111 l "isa"
+7 6 0.2500000 l "isa"
+6 8 0.1111111 l "isa"
+8 6 0.1250000 l "isa"
+3 9 0.0156250 l "definition"
+9 3 0.5000000 l "definition"
+3 6 0.0312500 l "definition"
+6 3 0.2222222 l "definition"
+6 3 0.2222222 l "definition"
+3 6 0.0312500 l "definition"
+6 9 0.1111111 l "definition"
+9 6 0.5000000 l "definition"
+3 5 0.0156250 l "substring"
+5 3 0.3333333 l "substring"
+3 7 0.0312500 l "substring"
+7 3 0.5000000 l "substring"
+3 7 0.0312500 l "distance"
+7 3 0.5000000 l "distance"
+*Edges

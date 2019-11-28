@@ -1,0 +1,26 @@
+*Vertices 17
+1 "Automédication" ellipse
+2 "Modalité_thérapeutique" ellipse
+3 "Niveau_de_preuve" ellipse
+4 "Plante_médicinale" ellipse
+5 "Prise_en_charge_clinique" ellipse
+6 "Recherche_clinique" ellipse
+7 "Réligion" ellipse
+8 "Résultat" ellipse
+9 "Symptôme" ellipse
+10 "Temps" ellipse
+11 "Maux_de_seins" ellipse
+12 "Sexe" ellipse
+13 "Sort" ellipse
+14 "Caste" ellipse
+15 "Effet_sur_le_système_de_santé_" ellipse
+16 "Maux_de_nerfs" ellipse
+17 "Maux_de_nez" ellipse
+*Arcs
+16 17 0.2000000 l "distance"
+17 16 0.2500000 l "distance"
+16 11 0.2000000 l "distance"
+11 16 0.1666667 l "distance"
+12 13 0.2000000 l "distance"
+13 12 0.2000000 l "distance"
+*Edges

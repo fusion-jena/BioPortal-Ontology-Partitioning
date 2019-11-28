@@ -1,0 +1,59 @@
+*Vertices 12
+1 "annotation location" ellipse
+2 "FeatureAnnotation" ellipse
+3 "Junction" ellipse
+4 "Point" ellipse
+5 "reference sequence" ellipse
+6 "Region" ellipse
+7 "sequence annotation" ellipse
+8 "variation annotation" ellipse
+9 "none"
+10 "ResearchPaper" ellipse
+11 "Person" ellipse
+12 "origin"
+*Arcs
+2 7 1.0000000 l "isa"
+7 2 0.2692308 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1577061 l "isa"
+4 1 0.4946524 l "isa"
+1 4 0.1326165 l "isa"
+6 1 0.4400000 l "isa"
+1 6 0.1577061 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2692308 l "isa"
+7 1 0.4615385 l "isAnnotatedAt"
+1 7 0.2795699 l "isAnnotatedAt"
+7 1 0.4615385 l "mapsTo"
+1 7 0.2795699 l "mapsTo"
+1 5 0.1577061 l "regionOf"
+5 1 1.0000000 l "regionOf"
+4 9 0.5053476 l "distance"
+9 4 0.1679837 l "distance"
+2 7 1.0000000 l "isa"
+7 2 0.2692308 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1577061 l "isa"
+4 1 0.4946524 l "isa"
+1 4 0.1326165 l "isa"
+6 1 0.4400000 l "isa"
+1 6 0.1577061 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2692308 l "isa"
+7 1 0.4615385 l "isAnnotatedAt"
+1 7 0.2795699 l "isAnnotatedAt"
+7 1 0.4615385 l "mapsTo"
+1 7 0.2795699 l "mapsTo"
+1 5 0.1577061 l "regionOf"
+5 1 1.0000000 l "regionOf"
+12 11 0.1250000 l "definition"
+11 12 0.5000000 l "definition"
+12 10 0.1250000 l "definition"
+10 12 1.0000000 l "definition"
+4 9 0.5053476 l "distance"
+9 4 0.1679837 l "distance"
+6 11 0.2800000 l "distance"
+11 6 0.5000000 l "distance"
+6 12 0.2800000 l "distance"
+12 6 0.1250000 l "distance"
+*Edges

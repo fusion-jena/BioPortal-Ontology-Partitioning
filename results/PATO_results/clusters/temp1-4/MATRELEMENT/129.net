@@ -1,0 +1,19 @@
+*Vertices 2
+1 "right middle lobe hilum" ellipse
+2 "right lung middle lobe" ellipse
+*Arcs
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+1 2 0.2984606 l "definition"
+2 1 0.1182008 l "definition"
+*Edges

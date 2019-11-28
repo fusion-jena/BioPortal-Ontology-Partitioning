@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Cerebral cortex" ellipse
+2 "Cerebral cortex, layers 1-6b" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0909091 l "isa"
+1 2 0.0909091 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

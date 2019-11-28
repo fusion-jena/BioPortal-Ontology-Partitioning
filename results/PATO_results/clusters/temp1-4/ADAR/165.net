@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Age_when_abnormality_first_evident" ellipse
+2 "Age_when_abnormality_first_evident_UnknownOrNotAsked" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1666667 l "isa"
+1 2 0.1666667 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

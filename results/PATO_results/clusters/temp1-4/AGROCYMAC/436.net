@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hierarchical clustering" ellipse
+2 "class discovery objective" ellipse
+*Arcs
+1 2 0.1299847 l "definition"
+2 1 0.1279536 l "definition"
+1 2 0.1299847 l "definition"
+2 1 0.1279536 l "definition"
+*Edges

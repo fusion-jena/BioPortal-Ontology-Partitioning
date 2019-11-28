@@ -1,0 +1,41 @@
+*Vertices 6
+1 "ImageObject" ellipse
+2 "Concept" ellipse
+3 "Document" ellipse
+4 "Image" ellipse
+5 "PersonalProfileDocument" ellipse
+6 "Thing"
+*Arcs
+4 3 0.1428571 l "isa"
+3 4 0.0588235 l "isa"
+5 3 0.4000000 l "isa"
+3 5 0.1176471 l "isa"
+6 4 0.0869565 l "depiction"
+4 6 0.2857143 l "depiction"
+4 6 0.2857143 l "depicts"
+6 4 0.0869565 l "depicts"
+2 6 1.0000000 l "focus"
+6 2 0.0434783 l "focus"
+6 6 0.2608696 l "funded by"
+6 6 0.2608696 l "funded by"
+6 3 0.2173913 l "homepage"
+3 6 0.2941177 l "homepage"
+6 3 0.2173913 l "is primary topic of"
+3 6 0.2941177 l "is primary topic of"
+6 6 0.2608696 l "logo"
+6 6 0.2608696 l "logo"
+6 3 0.2173913 l "page"
+3 6 0.2941177 l "page"
+3 6 0.2941177 l "primary topic"
+6 3 0.2173913 l "primary topic"
+6 6 0.2608696 l "theme"
+6 6 0.2608696 l "theme"
+4 4 0.2857143 l "thumbnail"
+4 4 0.2857143 l "thumbnail"
+3 6 0.2941177 l "topic"
+6 3 0.2173913 l "topic"
+1 4 1.0000000 l "substring"
+4 1 0.1428571 l "substring"
+3 5 0.1176471 l "substring"
+5 3 0.4000000 l "substring"
+*Edges

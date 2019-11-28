@@ -1,0 +1,13 @@
+*Vertices 2
+1 "TM_Primitive" ellipse
+2 "EX_TemporalExtent" ellipse
+*Arcs
+2 1 0.2237957 l "extent"
+1 2 0.7086274 l "extent"
+2 1 0.2237957 l "definition"
+1 2 0.7086274 l "definition"
+2 1 0.2237957 l "extent"
+1 2 0.7086274 l "extent"
+2 1 0.2237957 l "definition"
+1 2 0.7086274 l "definition"
+*Edges

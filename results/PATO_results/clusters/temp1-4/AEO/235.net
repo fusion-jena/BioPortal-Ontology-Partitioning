@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Duets" ellipse
+2 "Weeks" ellipse
+*Arcs
+1 2 0.1759401 l "distance"
+2 1 0.1762198 l "distance"
+1 2 0.1759401 l "distance"
+2 1 0.1762198 l "distance"
+*Edges

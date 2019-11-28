@@ -1,0 +1,15 @@
+*Vertices 4
+1 "HplusConcentration" ellipse
+2 "pH" ellipse
+3 "ChemicalQuantity" ellipse
+4 "Hplus"
+*Arcs
+1 3 0.2000000 l "isa"
+3 1 0.5000000 l "isa"
+2 3 0.2500000 l "isa"
+3 2 0.5000000 l "isa"
+1 4 0.4000000 l "definition"
+4 1 1.0000000 l "definition"
+1 4 0.4000000 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

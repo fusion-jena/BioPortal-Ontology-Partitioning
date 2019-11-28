@@ -1,0 +1,11 @@
+*Vertices 2
+1 "steps" ellipse
+2 "3axisGyroscope" ellipse
+*Arcs
+1 2 0.0781114 l "isa"
+2 1 0.2382108 l "isa"
+1 2 0.0781114 l "isa"
+2 1 0.2382108 l "isa"
+1 2 0.0781114 l "isa"
+2 1 0.2382108 l "isa"
+*Edges

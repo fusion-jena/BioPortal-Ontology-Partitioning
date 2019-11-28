@@ -1,0 +1,25 @@
+*Vertices 2
+1 "proliferative interstitial cell" ellipse
+2 "proliferative interstitial cell" ellipse
+*Arcs
+1 2 0.3510336 l "substring"
+2 1 0.4014953 l "substring"
+1 2 0.3510336 l "distance"
+2 1 0.4014953 l "distance"
+1 2 0.3510336 l "substring"
+2 1 0.4014953 l "substring"
+1 2 0.3510336 l "distance"
+2 1 0.4014953 l "distance"
+1 2 0.3510336 l "substring"
+2 1 0.4014953 l "substring"
+1 2 0.3510336 l "distance"
+2 1 0.4014953 l "distance"
+1 2 0.3510336 l "substring"
+2 1 0.4014953 l "substring"
+1 2 0.3510336 l "distance"
+2 1 0.4014953 l "distance"
+1 2 0.3510336 l "substring"
+2 1 0.4014953 l "substring"
+1 2 0.3510336 l "distance"
+2 1 0.4014953 l "distance"
+*Edges

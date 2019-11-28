@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Width" ellipse
+2 "hasWidth"
+3 "widthOf"
+*Arcs
+1 2 0.1250000 l "substring"
+2 1 0.2000000 l "substring"
+1 3 0.1250000 l "substring"
+3 1 0.2857143 l "substring"
+1 2 0.1250000 l "distance"
+2 1 0.2000000 l "distance"
+1 3 0.1250000 l "distance"
+3 1 0.2857143 l "distance"
+*Edges

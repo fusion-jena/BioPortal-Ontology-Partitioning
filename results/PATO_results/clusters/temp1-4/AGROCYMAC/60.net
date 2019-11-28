@@ -1,0 +1,11 @@
+*Vertices 2
+1 "absorbance (quality)" ellipse
+2 "absorbance" ellipse
+*Arcs
+1 2 0.2676010 l "substring"
+2 1 0.1099448 l "substring"
+1 2 0.2676010 l "substring"
+2 1 0.1099448 l "substring"
+1 2 0.2676010 l "substring"
+2 1 0.1099448 l "substring"
+*Edges

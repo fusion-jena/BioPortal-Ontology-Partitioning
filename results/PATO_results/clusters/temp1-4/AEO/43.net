@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Ectothermic" ellipse
+2 "Endothermic" ellipse
+*Arcs
+1 2 0.3581488 l "distance"
+2 1 0.3581488 l "distance"
+1 2 0.3581488 l "distance"
+2 1 0.3581488 l "distance"
+*Edges

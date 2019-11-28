@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Linguistic Object" ellipse
+2 "Language" ellipse
+*Arcs
+1 2 0.2000000 l "est en langue"
+2 1 0.5000000 l "est en langue"
+2 1 0.5000000 l "est la langue de"
+1 2 0.2000000 l "est la langue de"
+1 1 0.4000000 l "a pour traduction"
+1 1 0.4000000 l "a pour traduction"
+1 1 0.4000000 l "est la traduction de"
+1 1 0.4000000 l "est la traduction de"
+*Edges

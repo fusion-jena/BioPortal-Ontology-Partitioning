@@ -1,0 +1,57 @@
+*Vertices 10
+1 "Central Trial Documents" ellipse
+2 "Central Trial Final Reports" ellipse
+3 "Clinical Study Report" ellipse
+4 "Clinical Study Report Synopsis" ellipse
+5 "General Central Trial Communications" ellipse
+6 "General Central Trial Documents" ellipse
+7 "General Central Trial Filenote" ellipse
+8 "General Central Trial Meeting Material" ellipse
+9 "General Central Trial Tracking Document" ellipse
+10 "Pharmacokinetics Report" ellipse
+*Arcs
+2 1 0.2164179 l "isa"
+1 2 0.1657871 l "isa"
+3 2 0.4782609 l "isa"
+2 3 0.2462686 l "isa"
+4 2 0.4782609 l "isa"
+2 4 0.2462686 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1759259 l "isa"
+6 1 0.2962963 l "isa"
+1 6 0.3658751 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.1759259 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.1759259 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.1759259 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.2910448 l "isa"
+1 6 0.3658751 l "substring"
+6 1 0.2962963 l "substring"
+3 4 0.5217391 l "substring"
+4 3 0.5217391 l "substring"
+2 1 0.2164179 l "isa"
+1 2 0.1657871 l "isa"
+3 2 0.4782609 l "isa"
+2 3 0.2462686 l "isa"
+4 2 0.4782609 l "isa"
+2 4 0.2462686 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1759259 l "isa"
+6 1 0.2962963 l "isa"
+1 6 0.3658751 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.1759259 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.1759259 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.1759259 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.2910448 l "isa"
+1 6 0.3658751 l "substring"
+6 1 0.2962963 l "substring"
+3 4 0.5217391 l "substring"
+4 3 0.5217391 l "substring"
+*Edges

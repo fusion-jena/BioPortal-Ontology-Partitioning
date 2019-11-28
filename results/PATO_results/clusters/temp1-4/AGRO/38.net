@@ -1,0 +1,85 @@
+*Vertices 22
+1 "anion" ellipse
+2 "monoatomic monoanion" ellipse
+3 "monoanion" ellipse
+4 "Teleostomi" ellipse
+5 "Euteleostomi" ellipse
+6 "Dipnotetrapodomorpha" ellipse
+7 "Boreoeutheria" ellipse
+8 "Homininae" ellipse
+9 "Euarchontoglires" ellipse
+10 "Simiiformes" ellipse
+11 "Hominoidea" ellipse
+12 "Tetrapoda" ellipse
+13 "Amniota" ellipse
+14 "Theria <Mammalia>" ellipse
+15 "Haplorrhini" ellipse
+16 "Mammalia" ellipse
+17 "Sarcopterygii" ellipse
+18 "Eutheria" ellipse
+19 "Primates" ellipse
+20 "Catarrhini" ellipse
+21 "Hominidae" ellipse
+22 "Homo" ellipse
+*Arcs
+2 3 0.2500000 l "isa"
+3 2 0.3333333 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.0370370 l "isa"
+5 4 0.7500000 l "isa"
+4 5 0.7500000 l "isa"
+6 17 0.2000000 l "isa"
+17 6 0.5000000 l "isa"
+7 18 0.6666667 l "isa"
+18 7 0.6666667 l "isa"
+8 21 0.6666667 l "isa"
+21 8 0.5000000 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.3333333 l "isa"
+10 15 0.5000000 l "isa"
+15 10 0.5000000 l "isa"
+11 20 0.3333333 l "isa"
+20 11 0.5000000 l "isa"
+12 6 0.5000000 l "isa"
+6 12 0.2000000 l "isa"
+13 12 0.3333333 l "isa"
+12 13 0.5000000 l "isa"
+14 16 0.6666667 l "isa"
+16 14 0.4000000 l "isa"
+15 19 0.5000000 l "isa"
+19 15 0.5000000 l "isa"
+16 13 0.2000000 l "isa"
+13 16 0.3333333 l "isa"
+17 5 0.5000000 l "isa"
+5 17 0.2500000 l "isa"
+18 14 0.3333333 l "isa"
+14 18 0.3333333 l "isa"
+19 9 0.5000000 l "isa"
+9 19 0.5000000 l "isa"
+20 10 0.5000000 l "isa"
+10 20 0.5000000 l "isa"
+21 11 0.5000000 l "isa"
+11 21 0.6666667 l "isa"
+22 8 0.0250000 l "isa"
+8 22 0.3333333 l "isa"
+1 2 0.0185185 l "substring"
+2 1 0.1250000 l "substring"
+1 3 0.0370370 l "substring"
+3 1 0.3333333 l "substring"
+2 3 0.2500000 l "substring"
+3 2 0.3333333 l "substring"
+4 5 0.7500000 l "substring"
+5 4 0.7500000 l "substring"
+7 18 0.6666667 l "substring"
+18 7 0.6666667 l "substring"
+14 16 0.6666667 l "substring"
+16 14 0.4000000 l "substring"
+1 13 0.0185185 l "distance"
+13 1 0.3333333 l "distance"
+4 5 0.7500000 l "distance"
+5 4 0.7500000 l "distance"
+8 21 0.6666667 l "distance"
+21 8 0.5000000 l "distance"
+11 21 0.6666667 l "distance"
+21 11 0.5000000 l "distance"
+*Edges

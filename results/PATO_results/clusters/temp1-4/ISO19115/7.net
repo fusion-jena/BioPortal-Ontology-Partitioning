@@ -1,0 +1,15 @@
+*Vertices 2
+1 "CDK19" ellipse
+2 "PDIK1L" ellipse
+*Arcs
+1 2 0.0338363 l "distance"
+2 1 0.0919096 l "distance"
+1 2 0.0338363 l "distance"
+2 1 0.0919096 l "distance"
+1 2 0.0338363 l "distance"
+2 1 0.0919096 l "distance"
+1 2 0.0338363 l "distance"
+2 1 0.0919096 l "distance"
+1 2 0.0338363 l "distance"
+2 1 0.0919096 l "distance"
+*Edges

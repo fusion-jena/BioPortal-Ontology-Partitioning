@@ -1,0 +1,38 @@
+*Vertices 3
+1 "CentralNeurotoxicity" ellipse
+2 "Neurotoxicity" ellipse
+3 "PeripheralNeurotoxicity" ellipse
+*Arcs
+1 2 0.2566843 l "isa"
+2 1 0.1271325 l "isa"
+3 2 0.2329506 l "isa"
+2 3 0.1240343 l "isa"
+1 2 0.2566843 l "substring"
+2 1 0.1271325 l "substring"
+2 3 0.1240343 l "substring"
+3 2 0.2329506 l "substring"
+1 2 0.2566843 l "isa"
+2 1 0.1271325 l "isa"
+3 2 0.2329506 l "isa"
+2 3 0.1240343 l "isa"
+1 2 0.2566843 l "substring"
+2 1 0.1271325 l "substring"
+2 3 0.1240343 l "substring"
+3 2 0.2329506 l "substring"
+1 2 0.2566843 l "isa"
+2 1 0.1271325 l "isa"
+3 2 0.2329506 l "isa"
+2 3 0.1240343 l "isa"
+1 2 0.2566843 l "substring"
+2 1 0.1271325 l "substring"
+2 3 0.1240343 l "substring"
+3 2 0.2329506 l "substring"
+1 2 0.2566843 l "isa"
+2 1 0.1271325 l "isa"
+3 2 0.2329506 l "isa"
+2 3 0.1240343 l "isa"
+1 2 0.2566843 l "substring"
+2 1 0.1271325 l "substring"
+2 3 0.1240343 l "substring"
+3 2 0.2329506 l "substring"
+*Edges

@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Holstein" ellipse
+2 "Israeli Holstein" ellipse
+3 "Holsteiner" ellipse
+*Arcs
+1 2 0.2200916 l "substring"
+2 1 0.5777735 l "substring"
+1 3 0.6718819 l "substring"
+3 1 0.8524504 l "substring"
+1 3 0.6718819 l "distance"
+3 1 0.8524504 l "distance"
+1 2 0.2200916 l "substring"
+2 1 0.5777735 l "substring"
+1 3 0.6718819 l "substring"
+3 1 0.8524504 l "substring"
+1 3 0.6718819 l "distance"
+3 1 0.8524504 l "distance"
+1 2 0.2200916 l "substring"
+2 1 0.5777735 l "substring"
+1 3 0.6718819 l "substring"
+3 1 0.8524504 l "substring"
+1 3 0.6718819 l "distance"
+3 1 0.8524504 l "distance"
+1 2 0.2200916 l "substring"
+2 1 0.5777735 l "substring"
+1 3 0.6718819 l "substring"
+3 1 0.8524504 l "substring"
+1 3 0.6718819 l "distance"
+3 1 0.8524504 l "distance"
+1 2 0.2200916 l "substring"
+2 1 0.5777735 l "substring"
+1 3 0.6718819 l "substring"
+3 1 0.8524504 l "substring"
+1 3 0.6718819 l "distance"
+3 1 0.8524504 l "distance"
+*Edges

@@ -1,0 +1,12 @@
+*Vertices 3
+1 "process" ellipse
+2 "process profile" ellipse
+3 "history" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.4000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+1 2 0.4000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

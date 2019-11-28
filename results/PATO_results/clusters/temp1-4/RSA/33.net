@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Corticosteroids" ellipse
+2 "Dexamethasone" ellipse
+3 "Glucocorticoids" ellipse
+*Arcs
+2 1 0.3494786 l "isa"
+1 2 0.1716682 l "isa"
+2 3 0.3356856 l "isa"
+3 2 0.1317415 l "isa"
+3 1 0.1064065 l "isa"
+1 3 0.1331826 l "isa"
+2 1 0.3494786 l "isa"
+1 2 0.1716682 l "isa"
+2 3 0.3356856 l "isa"
+3 2 0.1317415 l "isa"
+3 1 0.1064065 l "isa"
+1 3 0.1331826 l "isa"
+2 1 0.3494786 l "isa"
+1 2 0.1716682 l "isa"
+2 3 0.3356856 l "isa"
+3 2 0.1317415 l "isa"
+3 1 0.1064065 l "isa"
+1 3 0.1331826 l "isa"
+2 1 0.3494786 l "isa"
+1 2 0.1716682 l "isa"
+2 3 0.3356856 l "isa"
+3 2 0.1317415 l "isa"
+3 1 0.1064065 l "isa"
+1 3 0.1331826 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "duodenum" ellipse
+2 "proximalmost_part_of"
+*Arcs
+1 2 0.3079995 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.3079995 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.3079995 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.3079995 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

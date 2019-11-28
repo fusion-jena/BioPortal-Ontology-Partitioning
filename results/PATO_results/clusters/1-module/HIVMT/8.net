@@ -1,0 +1,7 @@
+*Vertices 2
+1 "OWLClass_00000004270463394160" ellipse
+2 "OWLObjectProperty_d3993abe_2e38_4e79_8658_381c95ff4ead"
+*Arcs
+1 2 0.2500000 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

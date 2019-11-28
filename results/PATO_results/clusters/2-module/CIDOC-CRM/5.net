@@ -1,0 +1,55 @@
+*Vertices 10
+1 "Característica Material" ellipse
+2 "Gelände" ellipse
+3 "Collectivité" ellipse
+4 "Appellation de lieu" ellipse
+5 "Coordenadas Espaciais" ellipse
+6 "Nome de Local" ellipse
+7 "Formation" ellipse
+8 "Dissolution" ellipse
+9 "" ellipse
+10 "Group" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1428571 l "isa"
+3 10 0.5000000 l "isa"
+10 3 0.0666667 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1000000 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.1000000 l "isa"
+9 9 0.0404040 l "apresenta características de"
+9 9 0.0404040 l "apresenta características de"
+9 9 0.0404040 l "Merkmale auch auf"
+9 9 0.0404040 l "Merkmale auch auf"
+7 10 0.4000000 l "was formed from"
+10 7 0.2666667 l "was formed from"
+10 7 0.2666667 l "participated in"
+7 10 0.4000000 l "participated in"
+7 10 0.4000000 l "a fondé"
+10 7 0.2666667 l "a fondé"
+10 7 0.2666667 l "a été fondé par"
+7 10 0.4000000 l "a été fondé par"
+8 10 0.5000000 l "a dissous"
+10 8 0.1333333 l "a dissous"
+10 8 0.1333333 l "a été dissous par"
+8 10 0.5000000 l "a été dissous par"
+1 9 0.1428571 l "substring"
+9 1 0.0101010 l "substring"
+2 9 0.5000000 l "substring"
+9 2 0.0101010 l "substring"
+3 9 0.5000000 l "substring"
+9 3 0.0101010 l "substring"
+4 9 0.1000000 l "substring"
+9 4 0.0101010 l "substring"
+5 9 0.5000000 l "substring"
+9 5 0.0101010 l "substring"
+6 9 0.5000000 l "substring"
+9 6 0.0101010 l "substring"
+7 9 0.1000000 l "substring"
+9 7 0.0101010 l "substring"
+8 9 0.2500000 l "substring"
+9 8 0.0101010 l "substring"
+9 10 0.0101010 l "substring"
+10 9 0.0666667 l "substring"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 5
+1 "EBT" ellipse
+2 "StartUp" ellipse
+3 "ebitda"
+4 "facturacionEBT"
+5 "fondosCaptadosEBT"
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 0.0714286 l "isa"
+1 3 0.0714286 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.0714286 l "definition"
+4 1 1.0000000 l "definition"
+1 5 0.0714286 l "definition"
+5 1 1.0000000 l "definition"
+2 1 0.4000000 l "definition"
+1 2 0.0714286 l "definition"
+1 4 0.0714286 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.0714286 l "substring"
+5 1 1.0000000 l "substring"
+1 3 0.0714286 l "distance"
+3 1 1.0000000 l "distance"
+*Edges

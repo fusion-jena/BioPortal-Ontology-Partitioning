@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Apoptosis" ellipse
+2 "Necrosis" ellipse
+3 "Tumor Necrosis Factor alpha" ellipse
+4 "Cell death" ellipse
+5 "Neurodegeneration" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.3333333 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.3333333 l "isa"
+4 5 0.3333333 l "isa"
+5 4 0.2000000 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.1428571 l "substring"
+*Edges

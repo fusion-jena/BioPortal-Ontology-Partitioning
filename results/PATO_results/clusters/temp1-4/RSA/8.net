@@ -1,0 +1,13 @@
+*Vertices 2
+1 "etanercept" ellipse
+2 "Enbrel" ellipse
+*Arcs
+2 1 0.5626007 l "isa"
+1 2 0.2702793 l "isa"
+2 1 0.5626007 l "isa"
+1 2 0.2702793 l "isa"
+2 1 0.5626007 l "isa"
+1 2 0.2702793 l "isa"
+2 1 0.5626007 l "isa"
+1 2 0.2702793 l "isa"
+*Edges

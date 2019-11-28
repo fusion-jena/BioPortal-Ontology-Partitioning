@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Learning" ellipse
+2 "Problem_Based_Learning" ellipse
+3 "Relearning" ellipse
+*Arcs
+1 2 0.0182982 l "substring"
+2 1 0.3341848 l "substring"
+1 3 0.0368696 l "substring"
+3 1 0.3434950 l "substring"
+1 3 0.0368696 l "distance"
+3 1 0.3434950 l "distance"
+1 2 0.0182982 l "substring"
+2 1 0.3341848 l "substring"
+1 3 0.0368696 l "substring"
+3 1 0.3434950 l "substring"
+1 3 0.0368696 l "distance"
+3 1 0.3434950 l "distance"
+*Edges

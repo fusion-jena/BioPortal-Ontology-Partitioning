@@ -1,0 +1,14 @@
+*Vertices 9
+1 "undivided" ellipse
+2 "CreativeWork" ellipse
+3 "Label Property" ellipse
+4 "Project" ellipse
+5 "Restriction"
+6 "part_of"
+7 "has_part"
+8 "Spatial Thing" ellipse
+9 "phyllome" ellipse
+*Arcs
+8 8 0.5000000 l "based near"
+8 8 0.5000000 l "based near"
+*Edges

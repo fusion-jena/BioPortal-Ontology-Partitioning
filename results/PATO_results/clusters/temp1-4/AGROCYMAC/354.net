@@ -1,0 +1,11 @@
+*Vertices 2
+1 "trigger configuration" ellipse
+2 "notification configuration" ellipse
+*Arcs
+2 1 0.1928313 l "isa"
+1 2 0.1629885 l "isa"
+2 1 0.1928313 l "isa"
+1 2 0.1629885 l "isa"
+2 1 0.1928313 l "isa"
+1 2 0.1629885 l "isa"
+*Edges

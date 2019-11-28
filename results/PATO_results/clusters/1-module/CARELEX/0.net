@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Site Management" ellipse
+2 "Import-Export License" ellipse
+3 "Import-Export License Application" ellipse
+4 "Investigational Medicinal Product" ellipse
+5 "License" ellipse
+6 "Protocol Amendment" ellipse
+7 "Protocol Amendment Signature Page" ellipse
+*Arcs
+2 4 0.3333333 l "isa"
+4 2 0.3333333 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.3333333 l "isa"
+2 3 0.3333333 l "substring"
+3 2 0.3333333 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.3333333 l "substring"
+3 5 0.3333333 l "substring"
+5 3 0.3333333 l "substring"
+6 7 0.3333333 l "substring"
+7 6 0.3333333 l "substring"
+*Edges

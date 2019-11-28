@@ -1,0 +1,31 @@
+*Vertices 4
+1 "temperature controller" ellipse
+2 "mass flow controller" ellipse
+3 "controller" ellipse
+4 "temperature control" ellipse
+*Arcs
+1 3 0.3442706 l "isa"
+3 1 0.2568786 l "isa"
+2 3 0.7101449 l "isa"
+3 2 0.2900242 l "isa"
+1 3 0.3442706 l "substring"
+3 1 0.2568786 l "substring"
+1 4 0.3553761 l "substring"
+4 1 0.3646913 l "substring"
+2 3 0.7101449 l "substring"
+3 2 0.2900242 l "substring"
+1 4 0.3553761 l "distance"
+4 1 0.3646913 l "distance"
+1 3 0.3442706 l "isa"
+3 1 0.2568786 l "isa"
+2 3 0.7101449 l "isa"
+3 2 0.2900242 l "isa"
+1 3 0.3442706 l "substring"
+3 1 0.2568786 l "substring"
+1 4 0.3553761 l "substring"
+4 1 0.3646913 l "substring"
+2 3 0.7101449 l "substring"
+3 2 0.2900242 l "substring"
+1 4 0.3553761 l "distance"
+4 1 0.3646913 l "distance"
+*Edges

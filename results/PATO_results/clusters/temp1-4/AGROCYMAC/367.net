@@ -1,0 +1,11 @@
+*Vertices 2
+1 "signal configuration" ellipse
+2 "signal gain configuration" ellipse
+*Arcs
+2 1 0.1856626 l "isa"
+1 2 0.1403064 l "isa"
+2 1 0.1856626 l "isa"
+1 2 0.1403064 l "isa"
+2 1 0.1856626 l "isa"
+1 2 0.1403064 l "isa"
+*Edges

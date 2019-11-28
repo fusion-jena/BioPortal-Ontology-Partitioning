@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Economic importance negative" ellipse
+2 "Economic importance negative text" ellipse
+*Arcs
+2 1 0.2788527 l "definition"
+1 2 0.2633493 l "definition"
+1 2 0.2633493 l "substring"
+2 1 0.2788527 l "substring"
+2 1 0.2788527 l "definition"
+1 2 0.2633493 l "definition"
+1 2 0.2633493 l "substring"
+2 1 0.2788527 l "substring"
+*Edges

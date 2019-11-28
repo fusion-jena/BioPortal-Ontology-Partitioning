@@ -1,0 +1,12 @@
+*Vertices 3
+1 "MethaneHydrate" ellipse
+2 "MethaneIce" ellipse
+3 "Methane"
+*Arcs
+1 3 1.0000000 l "substring"
+3 1 0.1666667 l "substring"
+2 3 0.6666667 l "substring"
+3 2 0.3333333 l "substring"
+2 3 0.6666667 l "distance"
+3 2 0.3333333 l "distance"
+*Edges

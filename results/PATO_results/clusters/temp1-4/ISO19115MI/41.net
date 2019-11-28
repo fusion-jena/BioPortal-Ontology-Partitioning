@@ -1,0 +1,33 @@
+*Vertices 2
+1 "CI_Responsibility" ellipse
+2 "CI_RoleCode" ellipse
+*Arcs
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+1 2 0.2091586 l "role"
+2 1 0.6599879 l "role"
+1 2 0.2091586 l "definition"
+2 1 0.6599879 l "definition"
+*Edges

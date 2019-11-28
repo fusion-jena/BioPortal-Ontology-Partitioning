@@ -1,0 +1,48 @@
+*Vertices 5
+1 "Istoben" ellipse
+2 "Bundner Oberland" ellipse
+3 "Coburger Fuchsschaf" ellipse
+4 "Ob" ellipse
+5 "Oberhasli" ellipse
+*Arcs
+1 4 0.5065411 l "substring"
+4 1 0.0191928 l "substring"
+2 4 0.5064990 l "substring"
+4 2 0.0191921 l "substring"
+3 4 0.5064990 l "substring"
+4 3 0.0191921 l "substring"
+4 5 0.0191473 l "substring"
+5 4 0.5032588 l "substring"
+1 4 0.5065411 l "substring"
+4 1 0.0191928 l "substring"
+2 4 0.5064990 l "substring"
+4 2 0.0191921 l "substring"
+3 4 0.5064990 l "substring"
+4 3 0.0191921 l "substring"
+4 5 0.0191473 l "substring"
+5 4 0.5032588 l "substring"
+1 4 0.5065411 l "substring"
+4 1 0.0191928 l "substring"
+2 4 0.5064990 l "substring"
+4 2 0.0191921 l "substring"
+3 4 0.5064990 l "substring"
+4 3 0.0191921 l "substring"
+4 5 0.0191473 l "substring"
+5 4 0.5032588 l "substring"
+1 4 0.5065411 l "substring"
+4 1 0.0191928 l "substring"
+2 4 0.5064990 l "substring"
+4 2 0.0191921 l "substring"
+3 4 0.5064990 l "substring"
+4 3 0.0191921 l "substring"
+4 5 0.0191473 l "substring"
+5 4 0.5032588 l "substring"
+1 4 0.5065411 l "substring"
+4 1 0.0191928 l "substring"
+2 4 0.5064990 l "substring"
+4 2 0.0191921 l "substring"
+3 4 0.5064990 l "substring"
+4 3 0.0191921 l "substring"
+4 5 0.0191473 l "substring"
+5 4 0.5032588 l "substring"
+*Edges

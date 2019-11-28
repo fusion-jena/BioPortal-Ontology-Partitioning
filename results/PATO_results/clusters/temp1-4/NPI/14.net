@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Psychological Health Interventions" ellipse
+2 "Zootherapy" ellipse
+3 "Zootherapy related terms" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.6666667 l "isa"
+2 3 0.6666667 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

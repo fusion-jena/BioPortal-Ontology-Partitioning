@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Habitat" ellipse
+2 "MPO_00001" ellipse
+3 "MEO_0000817" ellipse
+*Arcs
+1 3 0.2618317 l "environmental feature"
+3 1 0.3441144 l "environmental feature"
+2 3 0.2693630 l "distance"
+3 2 0.3441144 l "distance"
+1 3 0.2618317 l "environmental feature"
+3 1 0.3441144 l "environmental feature"
+2 3 0.2693630 l "distance"
+3 2 0.3441144 l "distance"
+*Edges

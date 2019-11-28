@@ -1,0 +1,15 @@
+*Vertices 4
+1 "smoke" ellipse
+2 "combustion process" ellipse
+3 "thermolysis" ellipse
+4 "material transformation process" ellipse
+*Arcs
+2 3 0.1250000 l "isa"
+3 2 0.5000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1428571 l "isa"
+1 2 0.0526316 l "definition"
+2 1 0.2500000 l "definition"
+2 1 0.2500000 l "definition"
+1 2 0.0526316 l "definition"
+*Edges

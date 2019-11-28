@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Seeks_No_Play_That_Involves_Participation_in_Groups_of_Other_Children" ellipse
+2 "grplay_Seeks_No_Play_That_Involves_Participation_in_Groups_of_Other_Children"
+*Arcs
+1 2 0.1545266 l "substring"
+2 1 0.1381605 l "substring"
+1 2 0.1545266 l "substring"
+2 1 0.1381605 l "substring"
+1 2 0.1545266 l "substring"
+2 1 0.1381605 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Deglutition" ellipse
+2 "implements"
+*Arcs
+1 2 0.2541843 l "definition"
+2 1 0.0357692 l "definition"
+1 2 0.2541843 l "definition"
+2 1 0.0357692 l "definition"
+1 2 0.2541843 l "definition"
+2 1 0.0357692 l "definition"
+1 2 0.2541843 l "definition"
+2 1 0.0357692 l "definition"
+*Edges

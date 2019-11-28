@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Conclusion Details" ellipse
+2 "Stopping Details" ellipse
+3 "Trial Details" ellipse
+*Arcs
+1 3 0.1532011 l "isa"
+3 1 0.0650392 l "isa"
+2 3 0.1532011 l "isa"
+3 2 0.0650392 l "isa"
+1 3 0.1532011 l "isa"
+3 1 0.0650392 l "isa"
+2 3 0.1532011 l "isa"
+3 2 0.0650392 l "isa"
+1 3 0.1532011 l "isa"
+3 1 0.0650392 l "isa"
+2 3 0.1532011 l "isa"
+3 2 0.0650392 l "isa"
+1 3 0.1532011 l "isa"
+3 1 0.0650392 l "isa"
+2 3 0.1532011 l "isa"
+3 2 0.0650392 l "isa"
+*Edges

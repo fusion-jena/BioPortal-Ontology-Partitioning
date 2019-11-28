@@ -1,0 +1,24 @@
+*Vertices 5
+1 "adult oviduct" ellipse
+2 "adult oviduct epithelial lining" ellipse
+3 "adult oviduct outer wall" ellipse
+4 "adult oviduct ampulla" ellipse
+5 "adult oviduct lumen" ellipse
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.1666667 l "definition"
+3 1 0.5000000 l "definition"
+1 3 0.1666667 l "definition"
+4 1 0.5000000 l "definition"
+1 4 0.1666667 l "definition"
+5 1 0.3333333 l "definition"
+1 5 0.1666667 l "definition"
+1 2 0.1666667 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.1666667 l "substring"
+3 1 0.5000000 l "substring"
+1 4 0.1666667 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.1666667 l "substring"
+5 1 0.3333333 l "substring"
+*Edges

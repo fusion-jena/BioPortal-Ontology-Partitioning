@@ -1,0 +1,13 @@
+*Vertices 2
+1 "existence ends during"
+2 "existence ends at point"
+*Arcs
+1 1 0.2413451 l "definition"
+1 1 0.2413451 l "definition"
+1 2 0.1165587 l "definition"
+2 1 0.2559916 l "definition"
+1 1 0.2413451 l "definition"
+1 1 0.2413451 l "definition"
+1 2 0.1165587 l "definition"
+2 1 0.2559916 l "definition"
+*Edges

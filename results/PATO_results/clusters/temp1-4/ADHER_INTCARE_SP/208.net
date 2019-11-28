@@ -1,0 +1,17 @@
+*Vertices 2
+1 "MedullaOblongata" ellipse
+2 "SegmentOfHindbrain" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.5602930 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5602930 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5602930 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5602930 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5602930 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5602930 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Policies_and_Procedures" ellipse
+2 "WH&S" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.5000000 l "isa"
+1 2 0.5000000 l "refersTo"
+2 1 0.5000000 l "refersTo"
+*Edges

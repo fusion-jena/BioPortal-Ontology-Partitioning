@@ -1,0 +1,28 @@
+*Vertices 3
+1 "CI_Party" ellipse
+2 "contactInfo"
+3 "userContactInfo"
+*Arcs
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+2 3 0.2132770 l "substring"
+3 2 0.3732545 l "substring"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+2 3 0.2132770 l "substring"
+3 2 0.3732545 l "substring"
+1 2 0.1280362 l "definition"
+2 1 0.4646039 l "definition"
+2 3 0.2132770 l "substring"
+3 2 0.3732545 l "substring"
+*Edges

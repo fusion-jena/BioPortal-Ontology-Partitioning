@@ -1,0 +1,13 @@
+*Vertices 2
+1 "EndSystolicWallStressLevel" ellipse
+2 "StressLevel" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.7565055 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.7565055 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.7565055 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.7565055 l "substring"
+*Edges

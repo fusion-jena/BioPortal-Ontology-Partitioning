@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Romanian" ellipse
+2 "Romanian founder" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.1000000 l "isa"
+1 2 0.1000000 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

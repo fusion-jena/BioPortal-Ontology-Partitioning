@@ -1,0 +1,55 @@
+*Vertices 8
+1 "inflammatory risk factor" ellipse
+2 "vascular risk factor" ellipse
+3 "Protective factor" ellipse
+4 "Risk factor" ellipse
+5 "Thing that can act as a protective factor" ellipse
+6 "disposition" ellipse
+7 "realizable_entity" ellipse
+8 "specifically_dependent_continuant" ellipse
+*Arcs
+2 8 0.1954187 l "isa"
+8 2 0.0765591 l "isa"
+3 6 0.0708337 l "isa"
+6 3 0.3298969 l "isa"
+4 6 0.0446476 l "isa"
+6 4 0.3264605 l "isa"
+6 7 0.3436426 l "isa"
+7 6 0.1775060 l "isa"
+7 8 0.3531915 l "isa"
+8 7 0.1672574 l "isa"
+2 4 0.4262681 l "definition"
+4 2 0.0933683 l "definition"
+5 3 0.3135913 l "definition"
+3 5 0.1456025 l "definition"
+8 7 0.1672574 l "definition"
+7 8 0.3531915 l "definition"
+1 4 0.2804977 l "substring"
+4 1 0.0477808 l "substring"
+2 4 0.4262681 l "substring"
+4 2 0.0933683 l "substring"
+3 5 0.1456025 l "substring"
+5 3 0.3135913 l "substring"
+2 8 0.1954187 l "isa"
+8 2 0.0765591 l "isa"
+3 6 0.0708337 l "isa"
+6 3 0.3298969 l "isa"
+4 6 0.0446476 l "isa"
+6 4 0.3264605 l "isa"
+6 7 0.3436426 l "isa"
+7 6 0.1775060 l "isa"
+7 8 0.3531915 l "isa"
+8 7 0.1672574 l "isa"
+2 4 0.4262681 l "definition"
+4 2 0.0933683 l "definition"
+5 3 0.3135913 l "definition"
+3 5 0.1456025 l "definition"
+8 7 0.1672574 l "definition"
+7 8 0.3531915 l "definition"
+1 4 0.2804977 l "substring"
+4 1 0.0477808 l "substring"
+2 4 0.4262681 l "substring"
+4 2 0.0933683 l "substring"
+3 5 0.1456025 l "substring"
+5 3 0.3135913 l "substring"
+*Edges

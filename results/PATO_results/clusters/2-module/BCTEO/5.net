@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Gel" ellipse
+2 "Other gel" ellipse
+3 "Chitosan gel" ellipse
+4 "Gelatin" ellipse
+5 "Dextran gel" ellipse
+6 "Polyethylene glycol gel" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1111111 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.1111111 l "isa"
+4 1 0.4000000 l "isa"
+1 4 0.1111111 l "isa"
+5 1 0.4000000 l "isa"
+1 5 0.1111111 l "isa"
+6 1 0.3333333 l "isa"
+1 6 0.1111111 l "isa"
+1 2 0.1111111 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1111111 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.1111111 l "substring"
+4 1 0.4000000 l "substring"
+1 5 0.1111111 l "substring"
+5 1 0.4000000 l "substring"
+1 6 0.1111111 l "substring"
+6 1 0.3333333 l "substring"
+*Edges

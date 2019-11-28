@@ -1,0 +1,45 @@
+*Vertices 6
+1 "Group" ellipse
+2 "Person" ellipse
+3 "Ethnic group" ellipse
+4 "Group" ellipse
+5 "Person categorized by age" ellipse
+6 "Social context" ellipse
+*Arcs
+2 6 0.0816485 l "isa"
+6 2 0.4983051 l "isa"
+3 4 0.7045454 l "isa"
+4 3 0.2079665 l "isa"
+4 6 0.0930818 l "isa"
+6 4 0.5016949 l "isa"
+5 2 0.4666667 l "isa"
+2 5 0.1814412 l "isa"
+1 3 0.0899265 l "substring"
+3 1 0.2954545 l "substring"
+1 4 0.1867704 l "substring"
+4 1 0.1811321 l "substring"
+2 5 0.1814412 l "substring"
+5 2 0.4666667 l "substring"
+3 4 0.7045454 l "substring"
+4 3 0.2079665 l "substring"
+1 4 0.1867704 l "distance"
+4 1 0.1811321 l "distance"
+2 6 0.0816485 l "isa"
+6 2 0.4983051 l "isa"
+3 4 0.7045454 l "isa"
+4 3 0.2079665 l "isa"
+4 6 0.0930818 l "isa"
+6 4 0.5016949 l "isa"
+5 2 0.4666667 l "isa"
+2 5 0.1814412 l "isa"
+1 3 0.0899265 l "substring"
+3 1 0.2954545 l "substring"
+1 4 0.1867704 l "substring"
+4 1 0.1811321 l "substring"
+2 5 0.1814412 l "substring"
+5 2 0.4666667 l "substring"
+3 4 0.7045454 l "substring"
+4 3 0.2079665 l "substring"
+1 4 0.1867704 l "distance"
+4 1 0.1811321 l "distance"
+*Edges

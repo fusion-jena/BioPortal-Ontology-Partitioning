@@ -1,0 +1,30 @@
+*Vertices 3
+1 "SaturationPoint" ellipse
+2 "SaturationProperty" ellipse
+3 "Saturation"
+*Arcs
+1 2 0.4689739 l "isa"
+2 1 0.1432142 l "isa"
+2 3 0.3517047 l "definition"
+3 2 0.6844259 l "definition"
+1 3 0.5310261 l "substring"
+3 1 0.3155741 l "substring"
+2 3 0.3517047 l "substring"
+3 2 0.6844259 l "substring"
+1 2 0.4689739 l "isa"
+2 1 0.1432142 l "isa"
+2 3 0.3517047 l "definition"
+3 2 0.6844259 l "definition"
+1 3 0.5310261 l "substring"
+3 1 0.3155741 l "substring"
+2 3 0.3517047 l "substring"
+3 2 0.6844259 l "substring"
+1 2 0.4689739 l "isa"
+2 1 0.1432142 l "isa"
+2 3 0.3517047 l "definition"
+3 2 0.6844259 l "definition"
+1 3 0.5310261 l "substring"
+3 1 0.3155741 l "substring"
+2 3 0.3517047 l "substring"
+3 2 0.6844259 l "substring"
+*Edges

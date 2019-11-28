@@ -1,0 +1,39 @@
+*Vertices 4
+1 "Beefalo" ellipse
+2 "Bengali" ellipse
+3 "Beetal" ellipse
+4 "Benadir" ellipse
+*Arcs
+1 2 0.3634303 l "distance"
+2 1 0.2769867 l "distance"
+1 3 0.3661690 l "distance"
+3 1 0.2906810 l "distance"
+2 3 0.2534064 l "distance"
+3 2 0.2639458 l "distance"
+2 4 0.2815546 l "distance"
+4 2 0.3939078 l "distance"
+1 2 0.3634303 l "distance"
+2 1 0.2769867 l "distance"
+1 3 0.3661690 l "distance"
+3 1 0.2906810 l "distance"
+2 3 0.2534064 l "distance"
+3 2 0.2639458 l "distance"
+2 4 0.2815546 l "distance"
+4 2 0.3939078 l "distance"
+1 2 0.3634303 l "distance"
+2 1 0.2769867 l "distance"
+1 3 0.3661690 l "distance"
+3 1 0.2906810 l "distance"
+2 3 0.2534064 l "distance"
+3 2 0.2639458 l "distance"
+2 4 0.2815546 l "distance"
+4 2 0.3939078 l "distance"
+1 2 0.3634303 l "distance"
+2 1 0.2769867 l "distance"
+1 3 0.3661690 l "distance"
+3 1 0.2906810 l "distance"
+2 3 0.2534064 l "distance"
+3 2 0.2639458 l "distance"
+2 4 0.2815546 l "distance"
+4 2 0.3939078 l "distance"
+*Edges

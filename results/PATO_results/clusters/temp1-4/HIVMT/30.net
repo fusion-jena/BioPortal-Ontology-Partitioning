@@ -1,0 +1,17 @@
+*Vertices 2
+1 "History" ellipse
+2 "Occurrent" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.4701707 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4701707 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4701707 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4701707 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4701707 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4701707 l "isa"
+*Edges

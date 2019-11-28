@@ -1,0 +1,249 @@
+*Vertices 72
+1 "abuso_substancias_que_nao_produzem_dependencia" ellipse
+2 "alcoolismo" ellipse
+3 "alergias" ellipse
+4 "ansioliticos" ellipse
+5 "antidepressivos" ellipse
+6 "antipsicoticos" ellipse
+7 "aspectos_clinicos" ellipse
+8 "comorbidades" ellipse
+9 "consulta" ellipse
+10 "continuidade_do_tratamento" ellipse
+11 "convulsao" ellipse
+12 "dados_saude" ellipse
+13 "delirium" ellipse
+14 "demencia_em_outras_doencas" ellipse
+15 "demencia_nao_especificada" ellipse
+16 "demencia_no_alzheimer" ellipse
+17 "demencia_vascular" ellipse
+18 "demograficos" ellipse
+19 "devido_uso_alcool" ellipse
+20 "devido_uso_alucinogenos" ellipse
+21 "devido_uso_canabinoides" ellipse
+22 "devido_uso_cocaina" ellipse
+23 "devido_uso_fumo" ellipse
+24 "devido_uso_multiplas_drogas" ellipse
+25 "devido_uso_opiaceos" ellipse
+26 "devido_uso_outros_estimulantes" ellipse
+27 "devido_uso_sedativos_e_hipinoticos" ellipse
+28 "devido_uso_solventes_volateis" ellipse
+29 "diabetes" ellipse
+30 "disfuncao_sexual" ellipse
+31 "dor" ellipse
+32 "drogas" ellipse
+33 "efeitos_colaterais" ellipse
+34 "epidemiologicos" ellipse
+35 "epidemiologista" ellipse
+36 "estabilizadores_de_humor" ellipse
+37 "estatistico" ellipse
+38 "estatisticos" ellipse
+39 "fatores_psicologicos_associados_a_outras_doencas" ellipse
+40 "grave" ellipse
+41 "gravidez" ellipse
+42 "indicadores" ellipse
+43 "informata_biomedico" ellipse
+44 "organico_ou_sintomatico_nao_especificado" ellipse
+45 "outros_devido_lesao_cerebral" ellipse
+46 "outros_transtornos_ansiosos" ellipse
+47 "outros_transtornos_neuroticos" ellipse
+48 "pesquisador" ellipse
+49 "primeira_consulta" ellipse
+50 "relacoes_ao_stress_grave" ellipse
+51 "sindrome_amnesica_organica" ellipse
+52 "sindromes" ellipse
+53 "sindromes_comportamentais_associadas_a_disfuncoes_fisiologicas" ellipse
+54 "sindromes_comportamentais_nao_especificadas" ellipse
+55 "sintomas" ellipse
+56 "socioeconomicos" ellipse
+57 "tabagismo" ellipse
+58 "transtorno_de_alimentacao" ellipse
+59 "transtorno_de_personalidade" ellipse
+60 "transtorno_dissociativo" ellipse
+61 "transtorno_fobico_ansioso" ellipse
+62 "transtorno_mental_associado_ao_puerperio" ellipse
+63 "transtorno_nao_organico_do_sono" ellipse
+64 "transtorno_obsessivo_compulsivo" ellipse
+65 "transtorno_somatoforme" ellipse
+66 "transtornos_mentais_e_comportamentais_devidos_ao_uso_de_substancia_psicoativa" ellipse
+67 "transtornos_mentais_organicos" ellipse
+68 "transtornos_neuroticos" ellipse
+69 "trauma" ellipse
+70 "ubs" ellipse
+71 "vicio_em_drogas" ellipse
+72 "int"
+*Arcs
+1 53 0.5000000 l "isa"
+53 1 0.1111111 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.0588235 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.0588235 l "isa"
+4 32 1.0000000 l "isa"
+32 4 0.0909091 l "isa"
+5 32 1.0000000 l "isa"
+32 5 0.0909091 l "isa"
+6 32 1.0000000 l "isa"
+32 6 0.0909091 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.0588235 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.1000000 l "isa"
+11 7 0.5000000 l "isa"
+7 11 0.0588235 l "isa"
+13 67 1.0000000 l "isa"
+67 13 0.0909091 l "isa"
+14 67 1.0000000 l "isa"
+67 14 0.0909091 l "isa"
+15 67 1.0000000 l "isa"
+67 15 0.0909091 l "isa"
+16 67 1.0000000 l "isa"
+67 16 0.0909091 l "isa"
+17 67 1.0000000 l "isa"
+67 17 0.0909091 l "isa"
+18 12 1.0000000 l "isa"
+12 18 0.0714286 l "isa"
+19 66 1.0000000 l "isa"
+66 19 0.0769231 l "isa"
+20 66 1.0000000 l "isa"
+66 20 0.0769231 l "isa"
+21 66 1.0000000 l "isa"
+66 21 0.0769231 l "isa"
+22 66 1.0000000 l "isa"
+66 22 0.0769231 l "isa"
+23 66 1.0000000 l "isa"
+66 23 0.0769231 l "isa"
+24 66 0.5000000 l "isa"
+66 24 0.0769231 l "isa"
+25 66 1.0000000 l "isa"
+66 25 0.0769231 l "isa"
+26 66 1.0000000 l "isa"
+66 26 0.0769231 l "isa"
+27 66 1.0000000 l "isa"
+66 27 0.0769231 l "isa"
+28 66 1.0000000 l "isa"
+66 28 0.0769231 l "isa"
+29 7 1.0000000 l "isa"
+7 29 0.0588235 l "isa"
+30 53 1.0000000 l "isa"
+53 30 0.1111111 l "isa"
+33 7 1.0000000 l "isa"
+7 33 0.0588235 l "isa"
+34 12 0.5000000 l "isa"
+12 34 0.0714286 l "isa"
+36 32 0.5000000 l "isa"
+32 36 0.0909091 l "isa"
+38 12 0.3333333 l "isa"
+12 38 0.0714286 l "isa"
+39 53 1.0000000 l "isa"
+53 39 0.1111111 l "isa"
+41 7 0.5000000 l "isa"
+7 41 0.0588235 l "isa"
+42 12 0.5000000 l "isa"
+12 42 0.0714286 l "isa"
+44 67 0.5000000 l "isa"
+67 44 0.0909091 l "isa"
+45 67 1.0000000 l "isa"
+67 45 0.0909091 l "isa"
+46 68 1.0000000 l "isa"
+68 46 0.1111111 l "isa"
+47 68 1.0000000 l "isa"
+68 47 0.2222222 l "isa"
+49 9 1.0000000 l "isa"
+9 49 0.2000000 l "isa"
+50 68 0.5000000 l "isa"
+68 50 0.1111111 l "isa"
+51 67 1.0000000 l "isa"
+67 51 0.0909091 l "isa"
+52 7 0.2500000 l "isa"
+7 52 0.0588235 l "isa"
+54 53 0.5000000 l "isa"
+53 54 0.1111111 l "isa"
+55 7 0.3333333 l "isa"
+7 55 0.0588235 l "isa"
+56 12 1.0000000 l "isa"
+12 56 0.0714286 l "isa"
+57 7 1.0000000 l "isa"
+7 57 0.0588235 l "isa"
+58 53 1.0000000 l "isa"
+53 58 0.1111111 l "isa"
+59 67 1.0000000 l "isa"
+67 59 0.0909091 l "isa"
+60 68 1.0000000 l "isa"
+68 60 0.1111111 l "isa"
+61 68 1.0000000 l "isa"
+68 61 0.1111111 l "isa"
+62 53 1.0000000 l "isa"
+53 62 0.1111111 l "isa"
+63 53 1.0000000 l "isa"
+53 63 0.1111111 l "isa"
+64 68 1.0000000 l "isa"
+68 64 0.1111111 l "isa"
+65 68 1.0000000 l "isa"
+68 65 0.1111111 l "isa"
+69 7 1.0000000 l "isa"
+7 69 0.0588235 l "isa"
+71 7 0.5000000 l "isa"
+7 71 0.0588235 l "isa"
+35 12 0.5000000 l "analisa_dados_saude"
+12 35 0.1428571 l "analisa_dados_saude"
+37 12 0.4000000 l "analisa_dados_saude"
+12 37 0.1428571 l "analisa_dados_saude"
+43 12 0.5000000 l "analisa_dados_saude"
+12 43 0.1428571 l "analisa_dados_saude"
+48 12 0.5000000 l "analisa_dados_saude"
+12 48 0.1428571 l "analisa_dados_saude"
+35 12 0.5000000 l "fornece_dados_saude"
+12 35 0.1428571 l "fornece_dados_saude"
+37 12 0.4000000 l "fornece_dados_saude"
+12 37 0.1428571 l "fornece_dados_saude"
+43 12 0.5000000 l "fornece_dados_saude"
+12 43 0.1428571 l "fornece_dados_saude"
+48 12 0.5000000 l "fornece_dados_saude"
+12 48 0.1428571 l "fornece_dados_saude"
+1 70 0.5000000 l "substring"
+70 1 0.0714286 l "substring"
+9 49 0.2000000 l "substring"
+49 9 1.0000000 l "substring"
+24 32 0.5000000 l "substring"
+32 24 0.0909091 l "substring"
+31 36 0.0909091 l "substring"
+36 31 0.5000000 l "substring"
+31 42 0.0909091 l "substring"
+42 31 0.5000000 l "substring"
+31 48 0.0909091 l "substring"
+48 31 0.2500000 l "substring"
+32 71 0.0909091 l "substring"
+71 32 0.5000000 l "substring"
+37 38 0.4000000 l "substring"
+38 37 0.6666667 l "substring"
+40 50 0.1428571 l "substring"
+50 40 0.5000000 l "substring"
+44 72 0.5000000 l "substring"
+72 44 0.0526316 l "substring"
+47 68 1.0000000 l "substring"
+68 47 0.2222222 l "substring"
+52 53 0.2500000 l "substring"
+53 52 0.1111111 l "substring"
+52 54 0.2500000 l "substring"
+54 52 0.5000000 l "substring"
+55 72 0.3333333 l "substring"
+72 55 0.0526316 l "substring"
+66 70 0.0769231 l "substring"
+70 66 0.0714286 l "substring"
+9 11 0.1000000 l "distance"
+11 9 0.5000000 l "distance"
+31 70 0.0909091 l "distance"
+70 31 0.0714286 l "distance"
+31 72 0.0909091 l "distance"
+72 31 0.0526316 l "distance"
+34 35 0.5000000 l "distance"
+35 34 0.2500000 l "distance"
+37 38 0.4000000 l "distance"
+38 37 0.6666667 l "distance"
+40 41 0.1428571 l "distance"
+41 40 0.5000000 l "distance"
+52 55 0.2500000 l "distance"
+55 52 0.3333333 l "distance"
+70 72 0.0714286 l "distance"
+72 70 0.0526316 l "distance"
+*Edges

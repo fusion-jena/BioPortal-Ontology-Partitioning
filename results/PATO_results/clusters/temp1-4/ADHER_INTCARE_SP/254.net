@@ -1,0 +1,29 @@
+*Vertices 2
+1 "CardinalFreeLimbSegment" ellipse
+2 "FreeLimbSegment" ellipse
+*Arcs
+1 2 0.3106138 l "isa"
+2 1 0.2460608 l "isa"
+1 2 0.3106138 l "substring"
+2 1 0.2460608 l "substring"
+1 2 0.3106138 l "isa"
+2 1 0.2460608 l "isa"
+1 2 0.3106138 l "substring"
+2 1 0.2460608 l "substring"
+1 2 0.3106138 l "isa"
+2 1 0.2460608 l "isa"
+1 2 0.3106138 l "substring"
+2 1 0.2460608 l "substring"
+1 2 0.3106138 l "isa"
+2 1 0.2460608 l "isa"
+1 2 0.3106138 l "substring"
+2 1 0.2460608 l "substring"
+1 2 0.3106138 l "isa"
+2 1 0.2460608 l "isa"
+1 2 0.3106138 l "substring"
+2 1 0.2460608 l "substring"
+1 2 0.3106138 l "isa"
+2 1 0.2460608 l "isa"
+1 2 0.3106138 l "substring"
+2 1 0.2460608 l "substring"
+*Edges

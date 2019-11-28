@@ -1,0 +1,26 @@
+*Vertices 3
+1 "ICW-1:01.05.03 Individual Study" ellipse
+2 "ICW-1:01.05.03.02 Read Book" ellipse
+3 "ICW-1:01.05.03.01 Individual Study - NOS" ellipse
+*Arcs
+2 1 0.7463218 l "isa"
+1 2 0.3782585 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4343055 l "isa"
+2 1 0.7463218 l "isa"
+1 2 0.3782585 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4343055 l "isa"
+2 1 0.7463218 l "isa"
+1 2 0.3782585 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4343055 l "isa"
+2 1 0.7463218 l "isa"
+1 2 0.3782585 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4343055 l "isa"
+2 1 0.7463218 l "isa"
+1 2 0.3782585 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4343055 l "isa"
+*Edges

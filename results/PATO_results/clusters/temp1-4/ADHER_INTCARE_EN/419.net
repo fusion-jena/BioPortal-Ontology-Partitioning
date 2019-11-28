@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Predictable_abnormal_idiosyncratic_negative_response_to_one_or_more_sensory_stimuli_with_substantial_interference_with_family_routines" ellipse
+2 "abinr_Predictable_abnormal_idiosyncratic_negative_response_to_one_or_more_sensory_stimuli_with_substantial_interference_with_family_routines"
+*Arcs
+1 2 0.1301467 l "substring"
+2 1 0.1306324 l "substring"
+1 2 0.1301467 l "substring"
+2 1 0.1306324 l "substring"
+*Edges

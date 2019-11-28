@@ -1,0 +1,27 @@
+*Vertices 8
+1 "Dimension Order" ellipse
+2 "Pixels" ellipse
+3 "Pixels Setting" ellipse
+4 "Pixels Type" ellipse
+5 "Rendering Def" ellipse
+6 "Rendering Model" ellipse
+7 "Significant Bits" ellipse
+8 "TimeIncrement" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.0588235 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.0588235 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.0588235 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.0588235 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.0588235 l "isa"
+2 3 0.3333333 l "substring"
+3 2 0.0588235 l "substring"
+2 4 0.3333333 l "substring"
+4 2 0.5000000 l "substring"
+5 6 0.5000000 l "distance"
+6 5 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,469 @@
+*Vertices 98
+1 "Anterior amygdalar area" ellipse
+2 "Nucleus accumbens" ellipse
+3 "Anterodorsal nucleus" ellipse
+4 "Anteromedial nucleus" ellipse
+5 "Anteromedial nucleus, dorsal part" ellipse
+6 "Anteromedial nucleus, ventral part" ellipse
+7 "Anterior group of the dorsal thalamus" ellipse
+8 "Anteroventral nucleus of thalamus" ellipse
+9 "Bed nucleus of the accessory olfactory tract" ellipse
+10 "Bed nucleus of the anterior commissure" ellipse
+11 "Brain stem" ellipse
+12 "Bed nuclei of the stria terminalis" ellipse
+13 "Bed nuclei of the stria terminalis, anterior division" ellipse
+14 "Bed nuclei of the stria terminalis, anterior division, anterolateral area" ellipse
+15 "Bed nuclei of the stria terminalis, anterior division, anteromedial area]" ellipse
+16 "Bed nuclei of the stria terminalis, posterior division, dorsal nucleus" ellipse
+17 "Bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus" ellipse
+18 "Bed nuclei of the stria terminalis, anterior division, fusiform nucleus" ellipse
+19 "Bed nuclei of the stria terminalis, posterior division, interfascicular nucleus" ellipse
+20 "Bed nuclei of the stria terminalis, anterior division, juxtacapsular nucleus" ellipse
+21 "Bed nuclei of the stria terminalis, anterior division, magnocellular nucleus" ellipse
+22 "Bed nuclei of the stria terminalis, anterior division, oval nucleus" ellipse
+23 "Bed nuclei of the stria terminalis, posterior division" ellipse
+24 "Bed nuclei of the stria terminalis, posterior division, principal nucleus" ellipse
+25 "Bed nuclei of the stria terminalis, anterior division, rhomboid nucleus" ellipse
+26 "Bed nuclei of the stria terminalis, posterior division, strial extension" ellipse
+27 "Bed nuclei of the stria terminalis, posterior division, transverse nucleus" ellipse
+28 "Bed nuclei of the stria terminalis, anterior division, ventral nucleus" ellipse
+29 "Cerebrum" ellipse
+30 "Central lateral nucleus of the thalamus" ellipse
+31 "Central medial nucleus of the thalamus" ellipse
+32 "Cerebral nuclei" ellipse
+33 "Caudoputamen" ellipse
+34 "Thalamus, polymodal association cortex related" ellipse
+35 "Thalamus, sensory-motor cortex related" ellipse
+36 "Epithalamus" ellipse
+37 "Fundus of striatum" ellipse
+38 "Geniculate group, ventral thalamus" ellipse
+39 "Globus pallidus, external segment" ellipse
+40 "Globus pallidus, internal segment" ellipse
+41 "Hypothalamus" ellipse
+42 "Intercalated amygdalar nucleus" ellipse
+43 "Interanterodorsal nucleus of the thalamus" ellipse
+44 "Interanteromedial nucleus of the thalamus" ellipse
+45 "Interbrain" ellipse
+46 "Intergeniculate leaflet of the lateral geniculate complex" ellipse
+47 "Intralaminar nuclei of the dorsal thalamus" ellipse
+48 "Intermediodorsal nucleus of the thalamus" ellipse
+49 "Lateral group of the dorsal thalamus" ellipse
+50 "Lateral dorsal nucleus of thalamus" ellipse
+51 "Lateral habenula" ellipse
+52 "Lateral posterior nucleus of the thalamus" ellipse
+53 "Magnocellular nucleus" ellipse
+54 "Mediodorsal nucleus of thalamus" ellipse
+55 "Mediodorsal nucleus of the thalamus, central part" ellipse
+56 "Mediodorsal nucleus of the thalamus, lateral part" ellipse
+57 "Mediodorsal nucleus of the thalamus, medial part" ellipse
+58 "Medial group of the dorsal thalamus" ellipse
+59 "Medial habenula" ellipse
+60 "Medial septal nucleus" ellipse
+61 "Medial septal complex" ellipse
+62 "Midline group of the dorsal thalamus" ellipse
+63 "Diagonal band nucleus" ellipse
+64 "Pallidum" ellipse
+65 "Pallidum, caudal region" ellipse
+66 "Pallidum, dorsal region" ellipse
+67 "Pallidum, medial region" ellipse
+68 "Pallidum, ventral region" ellipse
+69 "Paracentral nucleus" ellipse
+70 "Pineal body" ellipse
+71 "Posterior complex of the thalamus" ellipse
+72 "Posterior limiting nucleus of the thalamus" ellipse
+73 "Peripeduncular nucleus" ellipse
+74 "Perireunensis nucleus" ellipse
+75 "Parataenial nucleus" ellipse
+76 "Paraventricular nucleus of the thalamus" ellipse
+77 "Nucleus of reunions" ellipse
+78 "Rhomboid nucleus" ellipse
+79 "Reticular nucleus of the thalamus" ellipse
+80 "Suprageniculate nucleus" ellipse
+81 "Substantia innominata" ellipse
+82 "Submedial nucleus of the thalamus" ellipse
+83 "Subparafascicular area" ellipse
+84 "Striatum" ellipse
+85 "Striatum dorsal region" ellipse
+86 "Striatum ventral region" ellipse
+87 "Subgeniculate nucleus" ellipse
+88 "Thalamus" ellipse
+89 "Triangular nucleus of septum" ellipse
+90 "Ventral anterior-lateral complex of the thalamus" ellipse
+91 "Ventral group of the dorsal thalamus" ellipse
+92 "Ventral medial nucleus of the thalamus" ellipse
+93 "Ventral posterior complex of the thalamus" ellipse
+94 "Ventral posterolateral nucleus of the thalamus" ellipse
+95 "Ventral posterolateral nucleus of the thalamus, parvicellular part" ellipse
+96 "Ventral posteromedial nucleus of the thalamus" ellipse
+97 "Ventral posteromedial nucleus of the thalamus, parvicellular part" ellipse
+98 "Striatum-like amygdalar nuclei" ellipse
+*Arcs
+1 98 1.0000000 l "isa"
+98 1 0.1428571 l "isa"
+2 86 1.0000000 l "isa"
+86 2 0.2000000 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.1250000 l "isa"
+4 7 0.1666667 l "isa"
+7 4 0.1250000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.3333333 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.3333333 l "isa"
+7 34 0.1250000 l "isa"
+34 7 0.1000000 l "isa"
+8 7 0.5000000 l "isa"
+7 8 0.1250000 l "isa"
+9 98 1.0000000 l "isa"
+98 9 0.1428571 l "isa"
+10 65 1.0000000 l "isa"
+65 10 0.2500000 l "isa"
+12 65 0.0526316 l "isa"
+65 12 0.2500000 l "isa"
+13 12 0.0952381 l "isa"
+12 13 0.1052632 l "isa"
+14 13 0.6666667 l "isa"
+13 14 0.0952381 l "isa"
+15 13 0.6666667 l "isa"
+13 15 0.0952381 l "isa"
+16 23 0.6666667 l "isa"
+23 16 0.1538462 l "isa"
+17 13 0.6666667 l "isa"
+13 17 0.0952381 l "isa"
+18 13 0.6666667 l "isa"
+13 18 0.0952381 l "isa"
+19 23 0.6666667 l "isa"
+23 19 0.1538462 l "isa"
+20 13 0.6666667 l "isa"
+13 20 0.0952381 l "isa"
+21 13 0.5000000 l "isa"
+13 21 0.0952381 l "isa"
+22 13 0.6666667 l "isa"
+13 22 0.0952381 l "isa"
+23 12 0.1538462 l "isa"
+12 23 0.1052632 l "isa"
+24 23 0.6666667 l "isa"
+23 24 0.1538462 l "isa"
+25 13 0.5000000 l "isa"
+13 25 0.0952381 l "isa"
+26 23 0.6666667 l "isa"
+23 26 0.1538462 l "isa"
+27 23 0.6666667 l "isa"
+23 27 0.1538462 l "isa"
+28 13 0.6666667 l "isa"
+13 28 0.0952381 l "isa"
+30 47 0.5000000 l "isa"
+47 30 0.1428571 l "isa"
+31 47 0.3333333 l "isa"
+47 31 0.1428571 l "isa"
+32 29 0.3333333 l "isa"
+29 32 0.2500000 l "isa"
+33 85 1.0000000 l "isa"
+85 33 0.3333333 l "isa"
+34 88 0.2000000 l "isa"
+88 34 0.0454545 l "isa"
+35 88 0.2857143 l "isa"
+88 35 0.0454545 l "isa"
+36 34 0.1428571 l "isa"
+34 36 0.1000000 l "isa"
+37 86 0.5000000 l "isa"
+86 37 0.2000000 l "isa"
+38 34 0.2000000 l "isa"
+34 38 0.1000000 l "isa"
+39 66 0.5000000 l "isa"
+66 39 0.2500000 l "isa"
+40 66 0.5000000 l "isa"
+66 40 0.2500000 l "isa"
+41 45 0.0909091 l "isa"
+45 41 0.3333333 l "isa"
+42 98 1.0000000 l "isa"
+98 42 0.1428571 l "isa"
+43 7 0.3333333 l "isa"
+7 43 0.1250000 l "isa"
+44 7 0.3333333 l "isa"
+7 44 0.1250000 l "isa"
+45 11 0.3333333 l "isa"
+11 45 0.2500000 l "isa"
+46 38 1.0000000 l "isa"
+38 46 0.2000000 l "isa"
+47 34 0.1428571 l "isa"
+34 47 0.1000000 l "isa"
+48 58 0.5000000 l "isa"
+58 48 0.1666667 l "isa"
+49 34 0.1666667 l "isa"
+34 49 0.1000000 l "isa"
+50 7 0.5000000 l "isa"
+7 50 0.1250000 l "isa"
+51 36 1.0000000 l "isa"
+36 51 0.1428571 l "isa"
+52 49 0.5000000 l "isa"
+49 52 0.1666667 l "isa"
+53 68 0.5000000 l "isa"
+68 53 0.2500000 l "isa"
+54 58 0.2000000 l "isa"
+58 54 0.1666667 l "isa"
+55 54 0.5000000 l "isa"
+54 55 0.2000000 l "isa"
+56 54 0.5000000 l "isa"
+54 56 0.2000000 l "isa"
+57 54 0.5000000 l "isa"
+54 57 0.2000000 l "isa"
+58 34 0.1666667 l "isa"
+34 58 0.1000000 l "isa"
+59 36 1.0000000 l "isa"
+36 59 0.1428571 l "isa"
+60 61 1.0000000 l "isa"
+61 60 0.3333333 l "isa"
+61 67 0.3333333 l "isa"
+67 61 0.2500000 l "isa"
+62 34 0.2000000 l "isa"
+34 62 0.1000000 l "isa"
+63 61 1.0000000 l "isa"
+61 63 0.3333333 l "isa"
+64 32 0.1111111 l "isa"
+32 64 0.3333333 l "isa"
+65 64 0.5000000 l "isa"
+64 65 0.2222222 l "isa"
+66 64 0.5000000 l "isa"
+64 66 0.2222222 l "isa"
+67 64 0.5000000 l "isa"
+64 67 0.2222222 l "isa"
+68 64 0.5000000 l "isa"
+64 68 0.2222222 l "isa"
+69 47 1.0000000 l "isa"
+47 69 0.1428571 l "isa"
+70 36 1.0000000 l "isa"
+36 70 0.1428571 l "isa"
+71 49 0.3333333 l "isa"
+49 71 0.1666667 l "isa"
+72 49 0.5000000 l "isa"
+49 72 0.1666667 l "isa"
+73 35 1.0000000 l "isa"
+35 73 0.1428571 l "isa"
+74 58 1.0000000 l "isa"
+58 74 0.1666667 l "isa"
+75 62 1.0000000 l "isa"
+62 75 0.2000000 l "isa"
+76 62 0.5000000 l "isa"
+62 76 0.2000000 l "isa"
+77 62 1.0000000 l "isa"
+62 77 0.2000000 l "isa"
+78 47 0.5000000 l "isa"
+47 78 0.1428571 l "isa"
+79 34 0.5000000 l "isa"
+34 79 0.1000000 l "isa"
+80 49 0.5000000 l "isa"
+49 80 0.1666667 l "isa"
+81 68 1.0000000 l "isa"
+68 81 0.2500000 l "isa"
+82 58 0.5000000 l "isa"
+58 82 0.1666667 l "isa"
+83 35 1.0000000 l "isa"
+35 83 0.1428571 l "isa"
+84 32 0.1111111 l "isa"
+32 84 0.3333333 l "isa"
+85 84 0.6666667 l "isa"
+84 85 0.2222222 l "isa"
+86 84 0.4000000 l "isa"
+84 86 0.2222222 l "isa"
+87 38 0.5000000 l "isa"
+38 87 0.2000000 l "isa"
+88 45 0.0227273 l "isa"
+45 88 0.3333333 l "isa"
+89 67 1.0000000 l "isa"
+67 89 0.2500000 l "isa"
+90 91 0.5000000 l "isa"
+91 90 0.2000000 l "isa"
+91 35 0.2000000 l "isa"
+35 91 0.1428571 l "isa"
+92 91 0.3333333 l "isa"
+91 92 0.2000000 l "isa"
+93 91 0.1666667 l "isa"
+91 93 0.2000000 l "isa"
+94 93 0.3333333 l "isa"
+93 94 0.1666667 l "isa"
+95 93 0.3333333 l "isa"
+93 95 0.1666667 l "isa"
+96 93 0.2500000 l "isa"
+93 96 0.1666667 l "isa"
+97 96 0.6666667 l "isa"
+96 97 0.5000000 l "isa"
+98 84 0.2857143 l "isa"
+84 98 0.2222222 l "isa"
+3 43 0.5000000 l "substring"
+43 3 0.3333333 l "substring"
+4 5 0.3333333 l "substring"
+5 4 1.0000000 l "substring"
+4 6 0.3333333 l "substring"
+6 4 1.0000000 l "substring"
+4 44 0.1666667 l "substring"
+44 4 0.3333333 l "substring"
+7 88 0.1250000 l "substring"
+88 7 0.0227273 l "substring"
+8 88 0.5000000 l "substring"
+88 8 0.0227273 l "substring"
+12 13 0.1052632 l "substring"
+13 12 0.0952381 l "substring"
+12 14 0.0526316 l "substring"
+14 12 0.3333333 l "substring"
+12 15 0.0526316 l "substring"
+15 12 0.3333333 l "substring"
+12 16 0.0526316 l "substring"
+16 12 0.3333333 l "substring"
+12 17 0.0526316 l "substring"
+17 12 0.3333333 l "substring"
+12 18 0.0526316 l "substring"
+18 12 0.3333333 l "substring"
+12 19 0.0526316 l "substring"
+19 12 0.3333333 l "substring"
+12 20 0.0526316 l "substring"
+20 12 0.3333333 l "substring"
+12 21 0.0526316 l "substring"
+21 12 0.2500000 l "substring"
+12 22 0.0526316 l "substring"
+22 12 0.3333333 l "substring"
+12 23 0.1052632 l "substring"
+23 12 0.1538462 l "substring"
+12 24 0.0526316 l "substring"
+24 12 0.3333333 l "substring"
+12 25 0.0526316 l "substring"
+25 12 0.2500000 l "substring"
+12 26 0.0526316 l "substring"
+26 12 0.3333333 l "substring"
+12 27 0.0526316 l "substring"
+27 12 0.3333333 l "substring"
+12 28 0.0526316 l "substring"
+28 12 0.3333333 l "substring"
+13 14 0.0952381 l "substring"
+14 13 0.6666667 l "substring"
+13 15 0.0952381 l "substring"
+15 13 0.6666667 l "substring"
+13 17 0.0952381 l "substring"
+17 13 0.6666667 l "substring"
+13 18 0.0952381 l "substring"
+18 13 0.6666667 l "substring"
+13 20 0.0952381 l "substring"
+20 13 0.6666667 l "substring"
+13 21 0.0952381 l "substring"
+21 13 0.5000000 l "substring"
+13 22 0.0952381 l "substring"
+22 13 0.6666667 l "substring"
+13 25 0.0952381 l "substring"
+25 13 0.5000000 l "substring"
+13 28 0.0952381 l "substring"
+28 13 0.6666667 l "substring"
+16 23 0.6666667 l "substring"
+23 16 0.1538462 l "substring"
+19 23 0.6666667 l "substring"
+23 19 0.1538462 l "substring"
+21 53 0.2500000 l "substring"
+53 21 0.5000000 l "substring"
+23 24 0.1538462 l "substring"
+24 23 0.6666667 l "substring"
+23 26 0.1538462 l "substring"
+26 23 0.6666667 l "substring"
+23 27 0.1538462 l "substring"
+27 23 0.6666667 l "substring"
+25 78 0.2500000 l "substring"
+78 25 0.5000000 l "substring"
+30 88 0.5000000 l "substring"
+88 30 0.0227273 l "substring"
+31 88 0.3333333 l "substring"
+88 31 0.0227273 l "substring"
+34 88 0.2000000 l "substring"
+88 34 0.0454545 l "substring"
+35 88 0.2857143 l "substring"
+88 35 0.0454545 l "substring"
+36 88 0.2857143 l "substring"
+88 36 0.0454545 l "substring"
+37 84 0.5000000 l "substring"
+84 37 0.1111111 l "substring"
+38 88 0.2000000 l "substring"
+88 38 0.0227273 l "substring"
+41 88 0.0909091 l "substring"
+88 41 0.0227273 l "substring"
+43 88 0.3333333 l "substring"
+88 43 0.0227273 l "substring"
+44 88 0.3333333 l "substring"
+88 44 0.0227273 l "substring"
+47 88 0.1428571 l "substring"
+88 47 0.0227273 l "substring"
+48 88 0.5000000 l "substring"
+88 48 0.0227273 l "substring"
+49 88 0.1666667 l "substring"
+88 49 0.0227273 l "substring"
+50 88 0.5000000 l "substring"
+88 50 0.0227273 l "substring"
+52 88 0.5000000 l "substring"
+88 52 0.0227273 l "substring"
+54 88 0.2000000 l "substring"
+88 54 0.0227273 l "substring"
+55 88 0.5000000 l "substring"
+88 55 0.0227273 l "substring"
+56 88 0.5000000 l "substring"
+88 56 0.0227273 l "substring"
+57 88 0.5000000 l "substring"
+88 57 0.0227273 l "substring"
+58 88 0.1666667 l "substring"
+88 58 0.0227273 l "substring"
+62 88 0.2000000 l "substring"
+88 62 0.0227273 l "substring"
+64 65 0.2222222 l "substring"
+65 64 0.5000000 l "substring"
+64 66 0.2222222 l "substring"
+66 64 0.5000000 l "substring"
+64 67 0.2222222 l "substring"
+67 64 0.5000000 l "substring"
+64 68 0.2222222 l "substring"
+68 64 0.5000000 l "substring"
+71 88 0.3333333 l "substring"
+88 71 0.0227273 l "substring"
+71 93 0.3333333 l "substring"
+93 71 0.1666667 l "substring"
+72 88 0.5000000 l "substring"
+88 72 0.0227273 l "substring"
+76 88 0.5000000 l "substring"
+88 76 0.0227273 l "substring"
+79 88 0.5000000 l "substring"
+88 79 0.0227273 l "substring"
+82 88 0.5000000 l "substring"
+88 82 0.0227273 l "substring"
+84 85 0.2222222 l "substring"
+85 84 0.6666667 l "substring"
+84 86 0.2222222 l "substring"
+86 84 0.4000000 l "substring"
+84 98 0.2222222 l "substring"
+98 84 0.2857143 l "substring"
+88 90 0.0227273 l "substring"
+90 88 0.5000000 l "substring"
+88 91 0.0227273 l "substring"
+91 88 0.2000000 l "substring"
+88 92 0.0227273 l "substring"
+92 88 0.3333333 l "substring"
+88 93 0.0227273 l "substring"
+93 88 0.1666667 l "substring"
+88 94 0.0227273 l "substring"
+94 88 0.3333333 l "substring"
+88 95 0.0227273 l "substring"
+95 88 0.3333333 l "substring"
+88 96 0.0227273 l "substring"
+96 88 0.2500000 l "substring"
+88 97 0.0227273 l "substring"
+97 88 0.3333333 l "substring"
+94 95 0.3333333 l "substring"
+95 94 0.3333333 l "substring"
+96 97 0.5000000 l "substring"
+97 96 0.6666667 l "substring"
+13 23 0.0476190 l "distance"
+23 13 0.0769231 l "distance"
+31 92 0.3333333 l "distance"
+92 31 0.3333333 l "distance"
+36 41 0.1428571 l "distance"
+41 36 0.0909091 l "distance"
+36 88 0.2857143 l "distance"
+88 36 0.0454545 l "distance"
+39 40 0.5000000 l "distance"
+40 39 0.5000000 l "distance"
+80 87 0.5000000 l "distance"
+87 80 0.5000000 l "distance"
+*Edges

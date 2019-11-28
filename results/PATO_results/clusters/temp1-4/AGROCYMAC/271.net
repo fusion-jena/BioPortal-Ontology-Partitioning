@@ -1,0 +1,9 @@
+*Vertices 2
+1 "drip irrigation process" ellipse
+2 "subsurface drip irrigation process" ellipse
+*Arcs
+1 2 0.2088342 l "substring"
+2 1 0.1748843 l "substring"
+1 2 0.2088342 l "substring"
+2 1 0.1748843 l "substring"
+*Edges

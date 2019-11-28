@@ -1,0 +1,224 @@
+*Vertices 61
+1 "Carcinoma, NOS" ellipse
+2 "Large cell carcinoma, NOS" ellipse
+3 "Spindle cell carcinoma, NOS" ellipse
+4 "Small cell carcinoma, NOS" ellipse
+5 "Papillary carcinoma, NOS" ellipse
+6 "Verrucous carcinoma, NOS" ellipse
+7 "Squamous cell carcinoma, NOS" ellipse
+8 "Basal cell carcinoma, NOS (C44._)" ellipse
+9 "Infiltrating basal cell carcinoma, NOS (C44._)" ellipse
+10 "Adenocarcinoma, NOS" ellipse
+11 "Hepatocellular carcinoma, NOS (C22.0)" ellipse
+12 "Cribriform carcinoma, NOS" ellipse
+13 "Solid carcinoma, NOS" ellipse
+14 "Neuroendocrine carcinoma, NOS" ellipse
+15 "Bronchiolo-alveolar adenocarcinoma, NOS (C34._)" ellipse
+16 "Papillary adenocarcinoma, NOS" ellipse
+17 "Micropapillary carcinoma, NOS (C18._, C19.9, C20.9)" ellipse
+18 "Pituitary carcinoma, NOS (C75.1)" ellipse
+19 "Clear cell adenocarcinoma, NOS" ellipse
+20 "Renal cell carcinoma, NOS (C64.9)" ellipse
+21 "Follicular adenocarcinoma, NOS (C73.9)" ellipse
+22 "Endometrioid adenocarcinoma, NOS" ellipse
+23 "Cystadenocarcinoma, NOS" ellipse
+24 "Serous cystadenocarcinoma, NOS (C56.9)" ellipse
+25 "Papillary cystadenocarcinoma, NOS (C56.9)" ellipse
+26 "Mucinous cystadenocarcinoma, NOS (C56.9)" ellipse
+27 "Infiltrating duct carcinoma, NOS (C50._)" ellipse
+28 "Comedocarcinoma, NOS (C50._)" ellipse
+29 "Intracystic carcinoma, NOS" ellipse
+30 "Medullary carcinoma, NOS" ellipse
+31 "Lobular carcinoma, NOS (C50._)" ellipse
+32 "Metaplastic carcinoma, NOS" ellipse
+33 "Thymic carcinoma, NOS (C37.9)" ellipse
+34 "Sarcoma, NOS" ellipse
+35 "Fibrosarcoma, NOS" ellipse
+36 "Fibromyxosarcoma" ellipse
+37 "Dermatofibrosarcoma, NOS (C44._)" ellipse
+38 "Myxosarcoma" ellipse
+39 "Liposarcoma, NOS" ellipse
+40 "Leiomyosarcoma, NOS" ellipse
+41 "Epithelioid leiomyosarcoma" ellipse
+42 "Angiomyosarcoma" ellipse
+43 "Myosarcoma" ellipse
+44 "Myxoid leiomyosarcoma" ellipse
+45 "Rhabdomyosarcoma, NOS" ellipse
+46 "Pleomorphic rhabdomyosarcoma, adult type" ellipse
+47 "Mixed type rhabdomyosarcoma" ellipse
+48 "Embryonal rhabdomyosarcoma, NOS" ellipse
+49 "Spindle cell rhabdomyosarcoma" ellipse
+50 "Alveolar rhabdomyosarcoma" ellipse
+51 "Rhabdomyosarcoma with ganglionic differentiation" ellipse
+52 "Endometrial stromal sarcoma, NOS (C54.1)" ellipse
+53 "Stromal sarcoma, NOS" ellipse
+54 "Carcinosarcoma, NOS" ellipse
+55 "Synovial sarcoma, NOS" ellipse
+56 "Clear cell sarcoma, NOS (except of kidney M-8964/3)" ellipse
+57 "Embryonal carcinoma, NOS" ellipse
+58 "Choriocarcinoma, NOS" ellipse
+59 "Osteosarcoma, NOS (C40._,C41._)" ellipse
+60 "Chondrosarcoma, NOS (C40._,C41._)" ellipse
+61 "Cerebellar sarcoma, NOS (C71.6) [obs]" ellipse
+*Arcs
+1 2 0.0285714 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.0285714 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.0285714 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.0285714 l "substring"
+5 1 0.5000000 l "substring"
+1 6 0.0285714 l "substring"
+6 1 1.0000000 l "substring"
+1 7 0.0285714 l "substring"
+7 1 1.0000000 l "substring"
+1 8 0.0285714 l "substring"
+8 1 0.5000000 l "substring"
+1 9 0.0285714 l "substring"
+9 1 0.5000000 l "substring"
+1 10 0.0285714 l "substring"
+10 1 0.1000000 l "substring"
+1 11 0.0285714 l "substring"
+11 1 1.0000000 l "substring"
+1 12 0.0285714 l "substring"
+12 1 1.0000000 l "substring"
+1 13 0.0285714 l "substring"
+13 1 1.0000000 l "substring"
+1 14 0.0285714 l "substring"
+14 1 1.0000000 l "substring"
+1 15 0.0285714 l "substring"
+15 1 0.5000000 l "substring"
+1 16 0.0285714 l "substring"
+16 1 0.5000000 l "substring"
+1 17 0.0285714 l "substring"
+17 1 0.5000000 l "substring"
+1 18 0.0285714 l "substring"
+18 1 1.0000000 l "substring"
+1 19 0.0285714 l "substring"
+19 1 0.5000000 l "substring"
+1 20 0.0285714 l "substring"
+20 1 1.0000000 l "substring"
+1 21 0.0285714 l "substring"
+21 1 0.5000000 l "substring"
+1 22 0.0285714 l "substring"
+22 1 0.5000000 l "substring"
+1 23 0.0285714 l "substring"
+23 1 0.2000000 l "substring"
+1 24 0.0285714 l "substring"
+24 1 0.3333333 l "substring"
+1 25 0.0285714 l "substring"
+25 1 0.3333333 l "substring"
+1 26 0.0285714 l "substring"
+26 1 0.3333333 l "substring"
+1 27 0.0285714 l "substring"
+27 1 1.0000000 l "substring"
+1 28 0.0285714 l "substring"
+28 1 1.0000000 l "substring"
+1 29 0.0285714 l "substring"
+29 1 1.0000000 l "substring"
+1 30 0.0285714 l "substring"
+30 1 1.0000000 l "substring"
+1 31 0.0285714 l "substring"
+31 1 1.0000000 l "substring"
+1 32 0.0285714 l "substring"
+32 1 1.0000000 l "substring"
+1 33 0.0285714 l "substring"
+33 1 1.0000000 l "substring"
+1 57 0.0285714 l "substring"
+57 1 1.0000000 l "substring"
+1 58 0.0285714 l "substring"
+58 1 1.0000000 l "substring"
+5 17 0.5000000 l "substring"
+17 5 0.5000000 l "substring"
+8 9 0.5000000 l "substring"
+9 8 0.5000000 l "substring"
+10 15 0.1000000 l "substring"
+15 10 0.5000000 l "substring"
+10 16 0.1000000 l "substring"
+16 10 0.5000000 l "substring"
+10 19 0.1000000 l "substring"
+19 10 0.5000000 l "substring"
+10 21 0.1000000 l "substring"
+21 10 0.5000000 l "substring"
+10 22 0.1000000 l "substring"
+22 10 0.5000000 l "substring"
+10 23 0.1000000 l "substring"
+23 10 0.2000000 l "substring"
+10 24 0.1000000 l "substring"
+24 10 0.3333333 l "substring"
+10 25 0.1000000 l "substring"
+25 10 0.3333333 l "substring"
+10 26 0.1000000 l "substring"
+26 10 0.3333333 l "substring"
+23 24 0.2000000 l "substring"
+24 23 0.3333333 l "substring"
+23 25 0.2000000 l "substring"
+25 23 0.3333333 l "substring"
+23 26 0.2000000 l "substring"
+26 23 0.3333333 l "substring"
+34 35 0.0666667 l "substring"
+35 34 0.3333333 l "substring"
+34 37 0.0666667 l "substring"
+37 34 0.5000000 l "substring"
+34 39 0.0666667 l "substring"
+39 34 0.5000000 l "substring"
+34 40 0.0666667 l "substring"
+40 34 0.5000000 l "substring"
+34 45 0.0666667 l "substring"
+45 34 0.3333333 l "substring"
+34 48 0.0666667 l "substring"
+48 34 0.3333333 l "substring"
+34 52 0.0666667 l "substring"
+52 34 0.5000000 l "substring"
+34 53 0.0666667 l "substring"
+53 34 0.5000000 l "substring"
+34 54 0.0666667 l "substring"
+54 34 1.0000000 l "substring"
+34 55 0.0666667 l "substring"
+55 34 1.0000000 l "substring"
+34 56 0.0666667 l "substring"
+56 34 1.0000000 l "substring"
+34 59 0.0666667 l "substring"
+59 34 1.0000000 l "substring"
+34 60 0.0666667 l "substring"
+60 34 1.0000000 l "substring"
+34 61 0.0666667 l "substring"
+61 34 1.0000000 l "substring"
+35 37 0.3333333 l "substring"
+37 35 0.5000000 l "substring"
+36 38 1.0000000 l "substring"
+38 36 0.5000000 l "substring"
+40 43 0.5000000 l "substring"
+43 40 0.0833333 l "substring"
+41 43 1.0000000 l "substring"
+43 41 0.0833333 l "substring"
+42 43 1.0000000 l "substring"
+43 42 0.0833333 l "substring"
+43 44 0.0833333 l "substring"
+44 43 1.0000000 l "substring"
+43 45 0.0833333 l "substring"
+45 43 0.3333333 l "substring"
+43 46 0.0833333 l "substring"
+46 43 1.0000000 l "substring"
+43 47 0.0833333 l "substring"
+47 43 1.0000000 l "substring"
+43 48 0.0833333 l "substring"
+48 43 0.3333333 l "substring"
+43 49 0.0833333 l "substring"
+49 43 1.0000000 l "substring"
+43 50 0.0833333 l "substring"
+50 43 1.0000000 l "substring"
+43 51 0.0833333 l "substring"
+51 43 1.0000000 l "substring"
+45 48 0.3333333 l "substring"
+48 45 0.3333333 l "substring"
+52 53 0.5000000 l "substring"
+53 52 0.5000000 l "substring"
+1 34 0.0285714 l "distance"
+34 1 0.0666667 l "distance"
+35 39 0.3333333 l "distance"
+39 35 0.5000000 l "distance"
+38 43 0.5000000 l "distance"
+43 38 0.0833333 l "distance"
+*Edges

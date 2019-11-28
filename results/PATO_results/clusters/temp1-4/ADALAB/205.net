@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Ataxia" ellipse
+2 "FreeLimb" ellipse
+*Arcs
+1 2 0.1876334 l "definition"
+2 1 0.1602544 l "definition"
+2 1 0.1602544 l "definition"
+1 2 0.1876334 l "definition"
+1 2 0.1876334 l "definition"
+2 1 0.1602544 l "definition"
+2 1 0.1602544 l "definition"
+1 2 0.1876334 l "definition"
+1 2 0.1876334 l "definition"
+2 1 0.1602544 l "definition"
+2 1 0.1602544 l "definition"
+1 2 0.1876334 l "definition"
+*Edges

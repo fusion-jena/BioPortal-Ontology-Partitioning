@@ -1,0 +1,60 @@
+*Vertices 13
+1 "torque" ellipse
+2 "thickness" ellipse
+3 "force" ellipse
+4 "1-D extent" ellipse
+5 "mulch thickness" ellipse
+6 "mulch color" ellipse
+7 "mulch thickness measurement protocol" ellipse
+8 "mulch color recording protocol" ellipse
+9 "metallic material" ellipse
+10 "opacity" ellipse
+11 "opaque" ellipse
+12 "transparent" ellipse
+13 "has method"
+*Arcs
+1 3 0.4025501 l "isa"
+3 1 0.0992916 l "isa"
+2 4 0.3478261 l "isa"
+4 2 0.1556415 l "isa"
+1 3 0.4025501 l "distance"
+3 1 0.0992916 l "distance"
+1 3 0.4025501 l "isa"
+3 1 0.0992916 l "isa"
+2 4 0.3478261 l "isa"
+4 2 0.1556415 l "isa"
+5 2 0.2000000 l "isa"
+2 5 0.4347826 l "isa"
+11 10 0.3333333 l "isa"
+10 11 0.1250000 l "isa"
+12 6 0.5000000 l "isa"
+6 12 0.0625000 l "isa"
+12 10 0.5000000 l "isa"
+10 12 0.1250000 l "isa"
+5 13 0.1000000 l "definition"
+13 5 0.5000000 l "definition"
+5 7 0.3000000 l "definition"
+7 5 0.3000000 l "definition"
+6 13 0.0625000 l "definition"
+13 6 0.5000000 l "definition"
+6 8 0.1875000 l "definition"
+8 6 0.3000000 l "definition"
+7 5 0.3000000 l "definition"
+5 7 0.3000000 l "definition"
+8 6 0.3000000 l "definition"
+6 8 0.1875000 l "definition"
+9 11 0.0666667 l "definition"
+11 9 0.3333333 l "definition"
+2 5 0.4347826 l "substring"
+5 2 0.2000000 l "substring"
+2 7 0.2173913 l "substring"
+7 2 0.1000000 l "substring"
+5 7 0.3000000 l "substring"
+7 5 0.3000000 l "substring"
+6 8 0.1875000 l "substring"
+8 6 0.3000000 l "substring"
+1 3 0.4025501 l "distance"
+3 1 0.0992916 l "distance"
+1 11 0.1420765 l "distance"
+11 1 0.3333333 l "distance"
+*Edges

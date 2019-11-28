@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Arthritis" ellipse
+2 "Rheumatoid_Arthritis" ellipse
+*Arcs
+1 2 0.5891032 l "substring"
+2 1 0.5891032 l "substring"
+1 2 0.5891032 l "substring"
+2 1 0.5891032 l "substring"
+1 2 0.5891032 l "substring"
+2 1 0.5891032 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Lourdais" ellipse
+2 "Landais" ellipse
+*Arcs
+1 2 0.5188732 l "distance"
+2 1 0.2250861 l "distance"
+1 2 0.5188732 l "distance"
+2 1 0.2250861 l "distance"
+*Edges

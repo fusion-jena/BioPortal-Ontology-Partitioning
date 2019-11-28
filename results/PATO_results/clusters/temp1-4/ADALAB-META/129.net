@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Hydrochlorothiazide" ellipse
+2 "Thiazide" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.7563851 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.7563851 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.7563851 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.7563851 l "substring"
+*Edges

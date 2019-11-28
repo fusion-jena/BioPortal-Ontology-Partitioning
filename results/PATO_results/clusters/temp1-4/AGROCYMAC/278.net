@@ -1,0 +1,9 @@
+*Vertices 2
+1 "zinc atom" ellipse
+2 "zinc group element atom" ellipse
+*Arcs
+1 2 0.2099115 l "isa"
+2 1 0.1759758 l "isa"
+1 2 0.2099115 l "isa"
+2 1 0.1759758 l "isa"
+*Edges

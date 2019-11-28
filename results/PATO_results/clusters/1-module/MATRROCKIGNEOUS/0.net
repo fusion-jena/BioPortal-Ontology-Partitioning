@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Pyroclastic" ellipse
+2 "Tuff" ellipse
+3 "TuffCone" ellipse
+4 "TuffRing" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.3333333 l "isa"
+2 3 0.3333333 l "substring"
+3 2 0.3333333 l "substring"
+2 4 0.3333333 l "substring"
+4 2 0.3333333 l "substring"
+3 4 0.3333333 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

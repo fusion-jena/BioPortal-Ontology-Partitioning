@@ -1,0 +1,46 @@
+*Vertices 7
+1 "Compulsions_or_rituals" ellipse
+2 "Compulsions_or_rituals_UknownOrNotAsked" ellipse
+3 "Human_With_DSM-5_Diagnosis_definition_B_2" ellipse
+4 "Human_with_DSM-IV_definition_A_3_b" ellipse
+5 "No_compulsions_or_rituals" ellipse
+6 "Some_activities_with_unusual_fixed_sequences" ellipse
+7 "crit_Some_activities_with_unusual_fixed_sequences"
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2495582 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.3872455 l "isa"
+6 1 0.4795918 l "isa"
+1 6 0.1011141 l "isa"
+3 7 0.0345615 l "definition"
+7 3 0.3128158 l "definition"
+4 7 0.0307994 l "definition"
+7 4 0.3123565 l "definition"
+1 2 0.2495582 l "substring"
+2 1 1.0000000 l "substring"
+1 5 0.3872455 l "substring"
+5 1 1.0000000 l "substring"
+6 7 0.5204082 l "substring"
+7 6 0.3748278 l "substring"
+1 5 0.3872455 l "distance"
+5 1 1.0000000 l "distance"
+2 1 1.0000000 l "isa"
+1 2 0.2495582 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.3872455 l "isa"
+6 1 0.4795918 l "isa"
+1 6 0.1011141 l "isa"
+3 7 0.0345615 l "definition"
+7 3 0.3128158 l "definition"
+4 7 0.0307994 l "definition"
+7 4 0.3123565 l "definition"
+1 2 0.2495582 l "substring"
+2 1 1.0000000 l "substring"
+1 5 0.3872455 l "substring"
+5 1 1.0000000 l "substring"
+6 7 0.5204082 l "substring"
+7 6 0.3748278 l "substring"
+1 5 0.3872455 l "distance"
+5 1 1.0000000 l "distance"
+*Edges

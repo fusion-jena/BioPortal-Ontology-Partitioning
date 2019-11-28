@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Graph Data" ellipse
+2 "Graph Database" ellipse
+*Arcs
+1 2 0.1152126 l "substring"
+2 1 0.1043227 l "substring"
+1 2 0.1152126 l "substring"
+2 1 0.1043227 l "substring"
+*Edges

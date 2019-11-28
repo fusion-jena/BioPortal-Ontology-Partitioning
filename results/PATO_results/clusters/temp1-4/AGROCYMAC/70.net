@@ -1,0 +1,24 @@
+*Vertices 3
+1 "function specification" ellipse
+2 "method function specification" ellipse
+3 "capability specification" ellipse
+*Arcs
+2 1 0.4194614 l "isa"
+1 2 0.2616802 l "isa"
+3 1 0.2849009 l "isa"
+1 3 0.1122457 l "isa"
+1 2 0.2616802 l "substring"
+2 1 0.4194614 l "substring"
+2 1 0.4194614 l "isa"
+1 2 0.2616802 l "isa"
+3 1 0.2849009 l "isa"
+1 3 0.1122457 l "isa"
+1 2 0.2616802 l "substring"
+2 1 0.4194614 l "substring"
+2 1 0.4194614 l "isa"
+1 2 0.2616802 l "isa"
+3 1 0.2849009 l "isa"
+1 3 0.1122457 l "isa"
+1 2 0.2616802 l "substring"
+2 1 0.4194614 l "substring"
+*Edges

@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Direct agglutination (DA)" ellipse
+2 "Rose Bengal plate test (RBT)/Buffered Brucella antigen test (BBAT)" ellipse
+3 "Serum agglutination test (SAT)" ellipse
+*Arcs
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+2 1 0.6646978 l "isa"
+1 2 0.3726699 l "isa"
+3 1 0.8154044 l "isa"
+1 3 0.4227549 l "isa"
+*Edges

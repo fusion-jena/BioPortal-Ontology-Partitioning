@@ -1,0 +1,9 @@
+*Vertices 2
+1 "MIMARKS-specific prep" ellipse
+2 "MIMS-specific prep" ellipse
+*Arcs
+1 2 0.2135639 l "distance"
+2 1 0.2135639 l "distance"
+1 2 0.2135639 l "distance"
+2 1 0.2135639 l "distance"
+*Edges

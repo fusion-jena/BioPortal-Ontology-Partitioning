@@ -1,0 +1,17 @@
+*Vertices 2
+1 "minutes"
+2 "minute"
+*Arcs
+1 2 0.5072608 l "substring"
+2 1 0.5058972 l "substring"
+1 2 0.5072608 l "distance"
+2 1 0.5058972 l "distance"
+1 2 0.5072608 l "substring"
+2 1 0.5058972 l "substring"
+1 2 0.5072608 l "distance"
+2 1 0.5058972 l "distance"
+1 2 0.5072608 l "substring"
+2 1 0.5058972 l "substring"
+1 2 0.5072608 l "distance"
+2 1 0.5058972 l "distance"
+*Edges

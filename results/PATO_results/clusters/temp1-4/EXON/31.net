@@ -1,0 +1,25 @@
+*Vertices 2
+1 "critical interpretive synthesis" ellipse
+2 "interpretive synthesis" ellipse
+*Arcs
+1 2 0.8875119 l "isa"
+2 1 0.7794883 l "isa"
+1 2 0.8875119 l "substring"
+2 1 0.7794883 l "substring"
+1 2 0.8875119 l "isa"
+2 1 0.7794883 l "isa"
+1 2 0.8875119 l "substring"
+2 1 0.7794883 l "substring"
+1 2 0.8875119 l "isa"
+2 1 0.7794883 l "isa"
+1 2 0.8875119 l "substring"
+2 1 0.7794883 l "substring"
+1 2 0.8875119 l "isa"
+2 1 0.7794883 l "isa"
+1 2 0.8875119 l "substring"
+2 1 0.7794883 l "substring"
+1 2 0.8875119 l "isa"
+2 1 0.7794883 l "isa"
+1 2 0.8875119 l "substring"
+2 1 0.7794883 l "substring"
+*Edges

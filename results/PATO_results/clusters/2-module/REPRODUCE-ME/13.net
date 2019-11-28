@@ -1,0 +1,34 @@
+*Vertices 11
+1 "Annotation" ellipse
+2 "Experimental Data" ellipse
+3 "Input Data" ellipse
+4 "Library" ellipse
+5 "Material Transfer Agreement" ellipse
+6 "Measurement" ellipse
+7 "Metadata" ellipse
+8 "Parameter" ellipse
+9 "Processed Data" ellipse
+10 "Publication" ellipse
+11 "Raw Data" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0357143 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0357143 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0357143 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0357143 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.0357143 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.0357143 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.0357143 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.0357143 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.0357143 l "isa"
+11 2 1.0000000 l "isa"
+2 11 0.0357143 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "thing related to procedure using biomarkers" ellipse
+2 "thing related to diagnosis" ellipse
+*Arcs
+1 2 0.1339452 l "isa"
+2 1 0.1325235 l "isa"
+1 2 0.1339452 l "isa"
+2 1 0.1325235 l "isa"
+*Edges

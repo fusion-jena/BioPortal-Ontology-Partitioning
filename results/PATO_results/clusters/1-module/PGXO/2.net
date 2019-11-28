@@ -1,0 +1,27 @@
+*Vertices 8
+1 "Drug" ellipse
+2 "Pharmacogenomic relationship" ellipse
+3 "nil"
+4 "depends on"
+5 "Restriction"
+6 "causes"
+7 "isCausedBy"
+8 "Class"
+*Arcs
+2 3 0.1000000 l "definition"
+3 2 1.0000000 l "definition"
+2 1 0.1000000 l "definition"
+1 2 1.0000000 l "definition"
+2 4 0.1000000 l "definition"
+4 2 1.0000000 l "definition"
+2 5 0.1000000 l "definition"
+5 2 1.0000000 l "definition"
+2 6 0.1000000 l "definition"
+6 2 0.5000000 l "definition"
+2 7 0.1000000 l "definition"
+7 2 1.0000000 l "definition"
+2 8 0.1000000 l "definition"
+8 2 0.5000000 l "definition"
+6 8 0.5000000 l "distance"
+8 6 0.5000000 l "distance"
+*Edges

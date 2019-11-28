@@ -1,0 +1,9 @@
+*Vertices 2
+1 "imidic acid" ellipse
+2 "carboximidic acid" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.3333333 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

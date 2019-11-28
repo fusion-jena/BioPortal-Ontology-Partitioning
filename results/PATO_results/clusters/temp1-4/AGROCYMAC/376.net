@@ -1,0 +1,9 @@
+*Vertices 2
+1 "data about an ontology part" ellipse
+2 "denotator type" ellipse
+*Arcs
+2 1 0.1753241 l "isa"
+1 2 0.1724359 l "isa"
+2 1 0.1753241 l "isa"
+1 2 0.1724359 l "isa"
+*Edges

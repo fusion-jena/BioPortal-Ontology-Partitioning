@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Definite_preoccupation_that_causes_substantial_interference_or_social_impairment" ellipse
+2 "unproc_Definite_preoccupation_that_causes_substantial_interference_or_social_impairment"
+*Arcs
+1 2 0.1533101 l "substring"
+2 1 0.1374291 l "substring"
+1 2 0.1533101 l "substring"
+2 1 0.1374291 l "substring"
+1 2 0.1533101 l "substring"
+2 1 0.1374291 l "substring"
+*Edges

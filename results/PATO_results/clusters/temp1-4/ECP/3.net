@@ -1,0 +1,10 @@
+*Vertices 3
+1 "resource" ellipse
+2 "Medical Device" ellipse
+3 "Occupation or Discipline" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1428571 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1428571 l "isa"
+*Edges

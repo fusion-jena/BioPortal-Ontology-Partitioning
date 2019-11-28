@@ -1,0 +1,26 @@
+*Vertices 5
+1 "CERVIX UTERI" ellipse
+2 "Endocervix" ellipse
+3 "Exocervix" ellipse
+4 "Overlapping lesion of cervix uteri" ellipse
+5 "Cervix uteri" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1250000 l "isa"
+4 1 0.6666667 l "isa"
+1 4 0.2500000 l "isa"
+5 1 0.7500000 l "isa"
+1 5 0.3750000 l "isa"
+1 4 0.2500000 l "substring"
+4 1 0.6666667 l "substring"
+1 5 0.3750000 l "substring"
+5 1 0.7500000 l "substring"
+4 5 0.3333333 l "substring"
+5 4 0.2500000 l "substring"
+1 5 0.3750000 l "distance"
+5 1 0.7500000 l "distance"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

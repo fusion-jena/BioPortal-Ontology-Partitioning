@@ -1,0 +1,59 @@
+*Vertices 8
+1 "bund" ellipse
+2 "wetland" ellipse
+3 "woodland" ellipse
+4 "tundra" ellipse
+5 "coastal wetland" ellipse
+6 "saline wetland" ellipse
+7 "tephra" ellipse
+8 "vegetated area" ellipse
+*Arcs
+2 8 0.0404117 l "isa"
+8 2 0.0871115 l "isa"
+3 8 0.2549086 l "isa"
+8 3 0.0956215 l "isa"
+4 8 0.3370359 l "isa"
+8 4 0.0990255 l "isa"
+5 2 0.2497160 l "isa"
+2 5 0.1339235 l "isa"
+6 2 0.3295348 l "isa"
+2 6 0.1378592 l "isa"
+5 2 0.2497160 l "definition"
+2 5 0.1339235 l "definition"
+6 2 0.3295348 l "definition"
+2 6 0.1378592 l "definition"
+2 5 0.1339235 l "substring"
+5 2 0.2497160 l "substring"
+2 6 0.1378592 l "substring"
+6 2 0.3295348 l "substring"
+1 4 0.0282237 l "distance"
+4 1 0.3278727 l "distance"
+2 3 0.0434264 l "distance"
+3 2 0.2495464 l "distance"
+4 7 0.3350914 l "distance"
+7 4 0.0863662 l "distance"
+2 8 0.0404117 l "isa"
+8 2 0.0871115 l "isa"
+3 8 0.2549086 l "isa"
+8 3 0.0956215 l "isa"
+4 8 0.3370359 l "isa"
+8 4 0.0990255 l "isa"
+5 2 0.2497160 l "isa"
+2 5 0.1339235 l "isa"
+6 2 0.3295348 l "isa"
+2 6 0.1378592 l "isa"
+5 2 0.2497160 l "definition"
+2 5 0.1339235 l "definition"
+6 2 0.3295348 l "definition"
+2 6 0.1378592 l "definition"
+2 5 0.1339235 l "substring"
+5 2 0.2497160 l "substring"
+2 6 0.1378592 l "substring"
+6 2 0.3295348 l "substring"
+1 4 0.0282237 l "distance"
+4 1 0.3278727 l "distance"
+2 3 0.0434264 l "distance"
+3 2 0.2495464 l "distance"
+4 7 0.3350914 l "distance"
+7 4 0.0863662 l "distance"
+*Edges

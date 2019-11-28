@@ -1,0 +1,13 @@
+*Vertices 4
+1 "psychological characteristic" ellipse
+2 "lack of self-esteem" ellipse
+3 "anxiety" ellipse
+4 "life satisfaction" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+*Edges

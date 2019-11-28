@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Macroscopic identification method" ellipse
+2 "Sedimentation and Counting Technique" ellipse
+*Arcs
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+2 1 0.8428969 l "isa"
+1 2 0.7673186 l "isa"
+*Edges

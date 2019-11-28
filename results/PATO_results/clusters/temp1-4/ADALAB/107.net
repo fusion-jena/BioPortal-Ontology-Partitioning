@@ -1,0 +1,18 @@
+*Vertices 3
+1 "BacterialInfection" ellipse
+2 "BacterialInfectionProcess" ellipse
+3 "InfectiousDisease" ellipse
+*Arcs
+1 3 0.2516592 l "isa"
+3 1 0.0926712 l "isa"
+1 2 0.2706909 l "substring"
+2 1 0.1946591 l "substring"
+1 3 0.2516592 l "isa"
+3 1 0.0926712 l "isa"
+1 2 0.2706909 l "substring"
+2 1 0.1946591 l "substring"
+1 3 0.2516592 l "isa"
+3 1 0.0926712 l "isa"
+1 2 0.2706909 l "substring"
+2 1 0.1946591 l "substring"
+*Edges

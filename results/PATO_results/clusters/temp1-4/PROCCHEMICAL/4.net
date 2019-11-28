@@ -1,0 +1,9 @@
+*Vertices 2
+1 "current pregnancy" ellipse
+2 "referral relating to current pregnancy" ellipse
+*Arcs
+1 2 0.5396825 l "substring"
+2 1 0.5396825 l "substring"
+1 2 0.5396825 l "substring"
+2 1 0.5396825 l "substring"
+*Edges

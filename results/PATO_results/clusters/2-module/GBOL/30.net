@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Country" ellipse
+2 "LandBasedGeographicalLocation" ellipse
+3 "country"
+*Arcs
+2 1 0.1250000 l "country"
+1 2 0.2857143 l "country"
+2 1 0.1250000 l "definition"
+1 2 0.2857143 l "definition"
+2 3 0.0625000 l "definition"
+3 2 0.2000000 l "definition"
+1 3 0.2857143 l "substring"
+3 1 0.4000000 l "substring"
+1 3 0.2857143 l "distance"
+3 1 0.4000000 l "distance"
+*Edges

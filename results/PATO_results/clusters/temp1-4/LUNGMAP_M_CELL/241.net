@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Canary Island" ellipse
+2 "Canary Island" ellipse
+*Arcs
+1 2 0.8674998 l "substring"
+2 1 0.8662014 l "substring"
+1 2 0.8674998 l "distance"
+2 1 0.8662014 l "distance"
+1 2 0.8674998 l "substring"
+2 1 0.8662014 l "substring"
+1 2 0.8674998 l "distance"
+2 1 0.8662014 l "distance"
+1 2 0.8674998 l "substring"
+2 1 0.8662014 l "substring"
+1 2 0.8674998 l "distance"
+2 1 0.8662014 l "distance"
+1 2 0.8674998 l "substring"
+2 1 0.8662014 l "substring"
+1 2 0.8674998 l "distance"
+2 1 0.8662014 l "distance"
+1 2 0.8674998 l "substring"
+2 1 0.8662014 l "substring"
+1 2 0.8674998 l "distance"
+2 1 0.8662014 l "distance"
+*Edges

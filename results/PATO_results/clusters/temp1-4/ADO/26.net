@@ -1,0 +1,58 @@
+*Vertices 19
+1 "NT-proBNP" ellipse
+2 "anthocyanin" ellipse
+3 "arachidonic acid" ellipse
+4 "arylquinone" ellipse
+5 "corticotrophin-releasing hormone" ellipse
+6 "dityrosine" ellipse
+7 "flavonoid" ellipse
+8 "glucocorticoid" ellipse
+9 "lipoic acid" ellipse
+10 "noradrenaline" ellipse
+11 "phosphatidylcholine" ellipse
+12 "phosphatidylethanolamine" ellipse
+13 "phosphatidylinositol" ellipse
+14 "phytic acid" ellipse
+15 "polymer" ellipse
+16 "polyphenol" ellipse
+17 "synuclein" ellipse
+18 "3-nitrotyrosine" ellipse
+19 "Molecular entity" ellipse
+*Arcs
+1 19 1.0000000 l "isa"
+19 1 0.0106383 l "isa"
+2 19 1.0000000 l "isa"
+19 2 0.0106383 l "isa"
+3 19 1.0000000 l "isa"
+19 3 0.0106383 l "isa"
+4 19 1.0000000 l "isa"
+19 4 0.0106383 l "isa"
+5 19 1.0000000 l "isa"
+19 5 0.0106383 l "isa"
+6 19 1.0000000 l "isa"
+19 6 0.0106383 l "isa"
+7 19 1.0000000 l "isa"
+19 7 0.0106383 l "isa"
+8 19 1.0000000 l "isa"
+19 8 0.0106383 l "isa"
+9 19 1.0000000 l "isa"
+19 9 0.0106383 l "isa"
+10 19 1.0000000 l "isa"
+19 10 0.0106383 l "isa"
+11 19 1.0000000 l "isa"
+19 11 0.0106383 l "isa"
+12 19 1.0000000 l "isa"
+19 12 0.0106383 l "isa"
+13 19 1.0000000 l "isa"
+19 13 0.0106383 l "isa"
+14 19 1.0000000 l "isa"
+19 14 0.0106383 l "isa"
+15 19 1.0000000 l "isa"
+19 15 0.0106383 l "isa"
+16 19 1.0000000 l "isa"
+19 16 0.0106383 l "isa"
+17 19 1.0000000 l "isa"
+19 17 0.0106383 l "isa"
+18 19 1.0000000 l "isa"
+19 18 0.0106383 l "isa"
+*Edges

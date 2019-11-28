@@ -1,0 +1,74 @@
+*Vertices 23
+1 "Administer_Analgesia" ellipse
+2 "Administer_Antibiotics" ellipse
+3 "Admissions" ellipse
+4 "Care_Plan" ellipse
+5 "Checking_DDs" ellipse
+6 "Dietician" ellipse
+7 "Discharge" ellipse
+8 "Discharge_Planner" ellipse
+9 "Documentation" ellipse
+10 "Finding_keys" ellipse
+11 "Fluid_Balance_Chart" ellipse
+12 "Medication" ellipse
+13 "Medication_Administration" ellipse
+14 "Medication_Charts" ellipse
+15 "Monitor_IV_Infusions" ellipse
+16 "Nursing_Notes" ellipse
+17 "OT" ellipse
+18 "Observation_Charts" ellipse
+19 "Physio" ellipse
+20 "Put_IVs_in" ellipse
+21 "Referrals_to_Allied_Health" ellipse
+22 "Speech_Pathology" ellipse
+23 "Wound_Chart" ellipse
+*Arcs
+1 13 1.0000000 l "isa"
+13 1 0.1111111 l "isa"
+2 13 0.5000000 l "isa"
+13 2 0.1111111 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.1111111 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.1111111 l "isa"
+5 13 1.0000000 l "isa"
+13 5 0.1111111 l "isa"
+6 21 1.0000000 l "isa"
+21 6 0.1666667 l "isa"
+7 9 0.5000000 l "isa"
+9 7 0.1111111 l "isa"
+8 21 0.5000000 l "isa"
+21 8 0.1666667 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.1111111 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.1111111 l "isa"
+14 9 0.5000000 l "isa"
+9 14 0.1111111 l "isa"
+15 13 1.0000000 l "isa"
+13 15 0.1111111 l "isa"
+16 9 0.5000000 l "isa"
+9 16 0.1111111 l "isa"
+17 21 0.2000000 l "isa"
+21 17 0.1666667 l "isa"
+18 9 1.0000000 l "isa"
+9 18 0.1111111 l "isa"
+19 21 1.0000000 l "isa"
+21 19 0.1666667 l "isa"
+20 13 1.0000000 l "isa"
+13 20 0.1111111 l "isa"
+22 21 1.0000000 l "isa"
+21 22 0.1666667 l "isa"
+23 9 1.0000000 l "isa"
+9 23 0.1111111 l "isa"
+2 17 0.5000000 l "substring"
+17 2 0.2000000 l "substring"
+7 8 0.5000000 l "substring"
+8 7 0.5000000 l "substring"
+12 13 0.3333333 l "substring"
+13 12 0.1111111 l "substring"
+12 14 0.3333333 l "substring"
+14 12 0.5000000 l "substring"
+16 17 0.5000000 l "substring"
+17 16 0.2000000 l "substring"
+*Edges

@@ -1,0 +1,90 @@
+*Vertices 21
+1 "Stub for NIF Behavioral process" ellipse
+2 "Human" ellipse
+3 "Environmental_effect_of_humans" ellipse
+4 "Friendships" ellipse
+5 "Friendships_NotAvailable" ellipse
+6 "Friendships_NotKnownOrNotAsked" ellipse
+7 "Human-caused_Phenomenon_or_process" ellipse
+8 "Human_with_DSM-IV_definition_A_1_b" ellipse
+9 "Injury_or_poisoning" ellipse
+10 "Involve_Seeking_of_Contact_in_Group_Situation_within_personal_relationships" ellipse
+11 "Mental_process" ellipse
+12 "Natural_Process_or_Phenomenone_NOS" ellipse
+13 "Natural_phenomenon_or_process" ellipse
+14 "One_or_More_Relationships_That_Involve_Some_Personal_Shared_Activities" ellipse
+15 "One_or_More_Relationships_With_Person_In_Approximately_Own_Age_Group" ellipse
+16 "Organism_function" ellipse
+17 "age_group" ellipse
+18 "disposition" ellipse
+19 "process" ellipse
+20 "friend_Involve_Seeking_of_Contact_in_Group_Situation_within_personal_relationships"
+21 "friend_One_or_More_Relationships_That_Involve_Some_Personal_Shared_Activities"
+*Arcs
+1 19 0.6666667 l "isa"
+19 1 0.1111111 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.2500000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2222222 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.2222222 l "isa"
+7 19 0.5000000 l "isa"
+19 7 0.1111111 l "isa"
+9 19 1.0000000 l "isa"
+19 9 0.0555556 l "isa"
+10 4 0.5000000 l "isa"
+4 10 0.1111111 l "isa"
+11 16 0.5000000 l "isa"
+16 11 0.2500000 l "isa"
+12 13 0.5000000 l "isa"
+13 12 0.2500000 l "isa"
+13 19 0.5000000 l "isa"
+19 13 0.1111111 l "isa"
+14 4 0.5000000 l "isa"
+4 14 0.1111111 l "isa"
+15 4 0.5000000 l "isa"
+4 15 0.1111111 l "isa"
+17 18 0.5000000 l "isa"
+18 17 0.0769231 l "isa"
+2 18 0.0980392 l "has_current_finding"
+18 2 0.3846154 l "has_current_finding"
+2 18 0.0980392 l "has_ever_finding"
+18 2 0.3846154 l "has_ever_finding"
+2 18 0.0980392 l "has_finding"
+18 2 0.3846154 l "has_finding"
+2 18 0.0980392 l "has_general_finding"
+18 2 0.3846154 l "has_general_finding"
+2 18 0.0980392 l "has_mostAbnormal4-5_finding"
+18 2 0.3846154 l "has_mostAbnormal4-5_finding"
+8 20 0.0243902 l "definition"
+20 8 0.5000000 l "definition"
+8 21 0.0243902 l "definition"
+21 8 0.5000000 l "definition"
+1 19 0.6666667 l "substring"
+19 1 0.1111111 l "substring"
+2 3 0.0196078 l "substring"
+3 2 0.5000000 l "substring"
+2 7 0.0196078 l "substring"
+7 2 0.2500000 l "substring"
+2 8 0.0196078 l "substring"
+8 2 0.0243902 l "substring"
+4 5 0.2222222 l "substring"
+5 4 1.0000000 l "substring"
+4 6 0.2222222 l "substring"
+6 4 1.0000000 l "substring"
+7 19 0.5000000 l "substring"
+19 7 0.1111111 l "substring"
+10 20 0.5000000 l "substring"
+20 10 0.5000000 l "substring"
+11 19 0.5000000 l "substring"
+19 11 0.0555556 l "substring"
+12 19 0.5000000 l "substring"
+19 12 0.0555556 l "substring"
+13 19 0.5000000 l "substring"
+19 13 0.1111111 l "substring"
+14 21 0.5000000 l "substring"
+21 14 0.5000000 l "substring"
+15 17 0.5000000 l "substring"
+17 15 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Lamona" ellipse
+2 "LaMancha" ellipse
+*Arcs
+1 2 0.1509108 l "distance"
+2 1 0.5525407 l "distance"
+1 2 0.1509108 l "distance"
+2 1 0.5525407 l "distance"
+1 2 0.1509108 l "distance"
+2 1 0.5525407 l "distance"
+1 2 0.1509108 l "distance"
+2 1 0.5525407 l "distance"
+1 2 0.1509108 l "distance"
+2 1 0.5525407 l "distance"
+1 2 0.1509108 l "distance"
+2 1 0.5525407 l "distance"
+*Edges

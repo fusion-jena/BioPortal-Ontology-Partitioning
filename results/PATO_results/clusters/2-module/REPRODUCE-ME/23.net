@@ -1,0 +1,23 @@
+*Vertices 6
+1 "Arc" ellipse
+2 "Arc Type" ellipse
+3 "Funding Agency" ellipse
+4 "Research Group" ellipse
+5 "Research Project" ellipse
+6 "Organization"
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1538462 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.2500000 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.2500000 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.2500000 l "isa"
+1 2 0.1538462 l "substring"
+2 1 1.0000000 l "substring"
+1 4 0.0769231 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.0769231 l "substring"
+5 1 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Age_when_abnormality_first_evident" ellipse
+2 "Age_when_abnormality_first_evident_UnknownOrNotAsked" ellipse
+3 "Development_possibly_within_normal_limits_during_first_3_years" ellipse
+*Arcs
+2 1 0.3419445 l "isa"
+1 2 0.1886519 l "isa"
+3 1 0.2608761 l "isa"
+1 3 0.0845967 l "isa"
+1 2 0.1886519 l "substring"
+2 1 0.3419445 l "substring"
+2 1 0.3419445 l "isa"
+1 2 0.1886519 l "isa"
+3 1 0.2608761 l "isa"
+1 3 0.0845967 l "isa"
+1 2 0.1886519 l "substring"
+2 1 0.3419445 l "substring"
+2 1 0.3419445 l "isa"
+1 2 0.1886519 l "isa"
+3 1 0.2608761 l "isa"
+1 3 0.0845967 l "isa"
+1 2 0.1886519 l "substring"
+2 1 0.3419445 l "substring"
+*Edges

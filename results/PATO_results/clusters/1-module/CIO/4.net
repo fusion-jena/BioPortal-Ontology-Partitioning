@@ -1,0 +1,33 @@
+*Vertices 6
+1 "confidence statement from single evidence" ellipse
+2 "high confidence from single evidence" ellipse
+3 "medium confidence from single evidence" ellipse
+4 "low confidence from single evidence" ellipse
+5 "rejected" ellipse
+6 "single evidence" ellipse
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 0.1176471 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.1176471 l "isa"
+4 1 0.2500000 l "isa"
+1 4 0.1176471 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0588235 l "isa"
+1 6 0.1176471 l "definition"
+6 1 0.2857143 l "definition"
+2 1 0.2500000 l "definition"
+1 2 0.1176471 l "definition"
+3 1 0.2500000 l "definition"
+1 3 0.1176471 l "definition"
+4 1 0.2500000 l "definition"
+1 4 0.1176471 l "definition"
+1 6 0.1176471 l "substring"
+6 1 0.2857143 l "substring"
+2 6 0.1250000 l "substring"
+6 2 0.1428571 l "substring"
+3 6 0.1250000 l "substring"
+6 3 0.1428571 l "substring"
+4 6 0.1250000 l "substring"
+6 4 0.1428571 l "substring"
+*Edges

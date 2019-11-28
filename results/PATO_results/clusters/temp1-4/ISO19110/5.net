@@ -1,0 +1,21 @@
+*Vertices 2
+1 "GPR32" ellipse
+2 "GPR32P1" ellipse
+*Arcs
+1 2 0.0257779 l "substring"
+2 1 0.0731800 l "substring"
+1 2 0.0257779 l "distance"
+2 1 0.0731800 l "distance"
+1 2 0.0257779 l "substring"
+2 1 0.0731800 l "substring"
+1 2 0.0257779 l "distance"
+2 1 0.0731800 l "distance"
+1 2 0.0257779 l "substring"
+2 1 0.0731800 l "substring"
+1 2 0.0257779 l "distance"
+2 1 0.0731800 l "distance"
+1 2 0.0257779 l "substring"
+2 1 0.0731800 l "substring"
+1 2 0.0257779 l "distance"
+2 1 0.0731800 l "distance"
+*Edges

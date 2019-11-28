@@ -1,0 +1,68 @@
+*Vertices 17
+1 "vibration" ellipse
+2 "ablation" ellipse
+3 "chemical ablation" ellipse
+4 "light ablation" ellipse
+5 "resection" ellipse
+6 "amputation" ellipse
+7 "laceration" ellipse
+8 "surgical manipulation" ellipse
+9 "perforation" ellipse
+10 "abrasion" ellipse
+11 "contusion" ellipse
+12 "transection" ellipse
+13 "physical alteration" ellipse
+14 "ultrasound" ellipse
+15 "light damage" ellipse
+16 "cold damage" ellipse
+17 "cryoablation" ellipse
+*Arcs
+2 13 0.1000000 l "isa"
+13 2 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.2000000 l "isa"
+4 15 0.2500000 l "isa"
+15 4 0.5000000 l "isa"
+5 8 0.3333333 l "isa"
+8 5 0.3333333 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.3333333 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.1000000 l "isa"
+8 13 0.3333333 l "isa"
+13 8 0.1000000 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.1000000 l "isa"
+10 13 0.3333333 l "isa"
+13 10 0.1000000 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.1000000 l "isa"
+12 8 0.5000000 l "isa"
+8 12 0.3333333 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.2500000 l "isa"
+15 13 0.5000000 l "isa"
+13 15 0.1000000 l "isa"
+16 13 0.5000000 l "isa"
+13 16 0.1000000 l "isa"
+17 2 0.6666667 l "isa"
+2 17 0.2000000 l "isa"
+17 16 0.3333333 l "isa"
+16 17 0.5000000 l "isa"
+2 3 0.2000000 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2000000 l "substring"
+4 2 0.5000000 l "substring"
+2 17 0.2000000 l "substring"
+17 2 0.6666667 l "substring"
+1 2 0.2500000 l "distance"
+2 1 0.1000000 l "distance"
+1 10 0.2500000 l "distance"
+10 1 0.3333333 l "distance"
+2 10 0.1000000 l "distance"
+10 2 0.3333333 l "distance"
+5 12 0.3333333 l "distance"
+12 5 0.5000000 l "distance"
+*Edges

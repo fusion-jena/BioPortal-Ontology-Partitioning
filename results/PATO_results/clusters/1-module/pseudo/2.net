@@ -1,0 +1,23 @@
+*Vertices 6
+1 "Evidence Code" ellipse
+2 "Sequence Homology" ellipse
+3 "Intra-Genome Sequence Homology" ellipse
+4 "Cross-Genome Sequence Homology" ellipse
+5 "Recognition Feature" ellipse
+6 "Pseudo-PolyA Tail" ellipse
+*Arcs
+2 1 0.2000000 l "isa"
+1 2 0.5000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.4000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.4000000 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.5000000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.3333333 l "isa"
+2 3 0.4000000 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.4000000 l "substring"
+4 2 1.0000000 l "substring"
+*Edges

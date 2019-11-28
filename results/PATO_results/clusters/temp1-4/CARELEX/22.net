@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Modal" ellipse
+2 "Posture" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3037383 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3037383 l "isa"
+*Edges

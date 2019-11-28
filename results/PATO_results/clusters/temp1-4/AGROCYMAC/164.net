@@ -1,0 +1,9 @@
+*Vertices 2
+1 "volatile astrogeological material" ellipse
+2 "astrogeological gas" ellipse
+*Arcs
+2 1 0.2162199 l "isa"
+1 2 0.2652938 l "isa"
+2 1 0.2162199 l "isa"
+1 2 0.2652938 l "isa"
+*Edges

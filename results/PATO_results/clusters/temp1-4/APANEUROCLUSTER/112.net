@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Teaching_Methods" ellipse
+2 "Testing_Methods" ellipse
+*Arcs
+1 2 0.3515677 l "distance"
+2 1 0.2737356 l "distance"
+1 2 0.3515677 l "distance"
+2 1 0.2737356 l "distance"
+*Edges

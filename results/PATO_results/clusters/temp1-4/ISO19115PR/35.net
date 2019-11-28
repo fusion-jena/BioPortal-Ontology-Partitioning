@@ -1,0 +1,18 @@
+*Vertices 3
+1 "dateType"
+2 "fileName"
+3 "fileType"
+*Arcs
+1 3 0.1023807 l "distance"
+3 1 0.2517188 l "distance"
+2 3 0.1673204 l "distance"
+3 2 0.2633730 l "distance"
+1 3 0.1023807 l "distance"
+3 1 0.2517188 l "distance"
+2 3 0.1673204 l "distance"
+3 2 0.2633730 l "distance"
+1 3 0.1023807 l "distance"
+3 1 0.2517188 l "distance"
+2 3 0.1673204 l "distance"
+3 2 0.2633730 l "distance"
+*Edges

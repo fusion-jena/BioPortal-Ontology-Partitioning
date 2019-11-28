@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Postsynaptic_Terminal" ellipse
+2 "Presynaptic_Terminal" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

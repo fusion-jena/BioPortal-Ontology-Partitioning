@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Boarding_Schools" ellipse
+2 "Charter_Schools" ellipse
+3 "Military_Schools" ellipse
+4 "Schools" ellipse
+5 "Technical_Schools" ellipse
+*Arcs
+1 4 0.3375479 l "substring"
+4 1 0.0694041 l "substring"
+2 4 0.3375479 l "substring"
+4 2 0.0694041 l "substring"
+3 4 0.3375479 l "substring"
+4 3 0.0694041 l "substring"
+4 5 0.0694041 l "substring"
+5 4 0.3375479 l "substring"
+1 4 0.3375479 l "substring"
+4 1 0.0694041 l "substring"
+2 4 0.3375479 l "substring"
+4 2 0.0694041 l "substring"
+3 4 0.3375479 l "substring"
+4 3 0.0694041 l "substring"
+4 5 0.0694041 l "substring"
+5 4 0.3375479 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Real-Time PCR (qualitative or quantitative)" ellipse
+2 "ISO 15216-1:2017 Hepatitis A virus and norovirus" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.5289837 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5289837 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5289837 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.5289837 l "isa"
+*Edges

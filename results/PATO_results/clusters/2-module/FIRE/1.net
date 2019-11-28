@@ -1,0 +1,52 @@
+*Vertices 11
+1 "Brush fire" ellipse
+2 "Fire" ellipse
+3 "Fire frequency" ellipse
+4 "Forest fire" ellipse
+5 "Ignition probability factor" ellipse
+6 "Controlled fire" ellipse
+7 "Scrub fire" ellipse
+8 "Out of control fire" ellipse
+9 "has ignition"
+10 "has risk"
+11 "ignites"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0465116 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0465116 l "isa"
+6 2 0.6666667 l "isa"
+2 6 0.0465116 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.0465116 l "isa"
+8 2 0.6666667 l "isa"
+2 8 0.0465116 l "isa"
+2 3 0.0465116 l "has frequency"
+3 2 0.6666667 l "has frequency"
+2 5 0.0930233 l "has ignition"
+5 2 0.6666667 l "has ignition"
+5 2 0.6666667 l "ignites"
+2 5 0.0930233 l "ignites"
+2 9 0.0232558 l "definition"
+9 2 1.0000000 l "definition"
+2 5 0.0930233 l "definition"
+5 2 0.6666667 l "definition"
+2 10 0.0232558 l "definition"
+10 2 1.0000000 l "definition"
+5 2 0.6666667 l "definition"
+2 5 0.0930233 l "definition"
+5 11 0.1666667 l "definition"
+11 5 1.0000000 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.0465116 l "substring"
+2 3 0.0465116 l "substring"
+3 2 0.6666667 l "substring"
+2 4 0.0465116 l "substring"
+4 2 1.0000000 l "substring"
+2 6 0.0465116 l "substring"
+6 2 0.6666667 l "substring"
+2 7 0.0465116 l "substring"
+7 2 1.0000000 l "substring"
+2 8 0.0465116 l "substring"
+8 2 0.6666667 l "substring"
+*Edges

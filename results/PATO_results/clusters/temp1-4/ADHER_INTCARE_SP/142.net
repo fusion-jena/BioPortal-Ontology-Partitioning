@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Percentage_adh_lower_30" ellipse
+2 "SMAQ" ellipse
+3 "Adh_SMAQ__Value_Question_5"
+*Arcs
+1 2 0.1429273 l "isa"
+2 1 0.0149792 l "isa"
+1 3 0.1453759 l "definition"
+3 1 0.0547168 l "definition"
+2 3 0.0143977 l "substring"
+3 2 0.0517067 l "substring"
+1 2 0.1429273 l "isa"
+2 1 0.0149792 l "isa"
+1 3 0.1453759 l "definition"
+3 1 0.0547168 l "definition"
+2 3 0.0143977 l "substring"
+3 2 0.0517067 l "substring"
+*Edges

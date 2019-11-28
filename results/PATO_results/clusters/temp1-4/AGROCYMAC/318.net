@@ -1,0 +1,18 @@
+*Vertices 3
+1 "arenosol" ellipse
+2 "andosol" ellipse
+3 "regosol" ellipse
+*Arcs
+1 2 0.2074289 l "distance"
+2 1 0.1747538 l "distance"
+1 3 0.2103505 l "distance"
+3 1 0.2103505 l "distance"
+2 3 0.1747538 l "distance"
+3 2 0.2074289 l "distance"
+1 2 0.2074289 l "distance"
+2 1 0.1747538 l "distance"
+1 3 0.2103505 l "distance"
+3 1 0.2103505 l "distance"
+2 3 0.1747538 l "distance"
+3 2 0.2074289 l "distance"
+*Edges

@@ -1,0 +1,27 @@
+*Vertices 6
+1 "UDP-glucose_glycoprotein_glucosyltransferase" ellipse
+2 "dolichyl_phosphate_glucosyltransferase" ellipse
+3 "dolichyl_pyrophosphate_glucosyltransferase" ellipse
+4 "glucosylceramide_synthase" ellipse
+5 "glucosyltransferase" ellipse
+6 "protein_O-glucosyltransferase" ellipse
+*Arcs
+1 5 0.6666667 l "isa"
+5 1 0.1428571 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1428571 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1428571 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.0714286 l "isa"
+6 5 0.5000000 l "isa"
+5 6 0.1428571 l "isa"
+1 5 0.6666667 l "substring"
+5 1 0.1428571 l "substring"
+2 5 1.0000000 l "substring"
+5 2 0.1428571 l "substring"
+3 5 1.0000000 l "substring"
+5 3 0.1428571 l "substring"
+5 6 0.1428571 l "substring"
+6 5 0.5000000 l "substring"
+*Edges

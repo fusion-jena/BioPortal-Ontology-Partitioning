@@ -1,0 +1,19 @@
+*Vertices 4
+1 "dementia with Lewy bodies" ellipse
+2 "mental disorder" ellipse
+3 "mixed dementia" ellipse
+4 "vascular dementia" ellipse
+*Arcs
+1 2 0.6111111 l "isa"
+2 1 0.1478163 l "isa"
+3 2 0.6111111 l "isa"
+2 3 0.1478163 l "isa"
+4 2 0.6111111 l "isa"
+2 4 0.1478163 l "isa"
+1 2 0.6111111 l "isa"
+2 1 0.1478163 l "isa"
+3 2 0.6111111 l "isa"
+2 3 0.1478163 l "isa"
+4 2 0.6111111 l "isa"
+2 4 0.1478163 l "isa"
+*Edges

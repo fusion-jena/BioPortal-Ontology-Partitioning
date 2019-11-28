@@ -1,0 +1,34 @@
+*Vertices 11
+1 "Arthritis, Gout or Non-septic" ellipse
+2 "Arthritis, Septic" ellipse
+3 "Fracture, Pathologic or Fall" ellipse
+4 "Joint Contracture" ellipse
+5 "Limb Compartment Syndrome" ellipse
+6 "Limitation of Range of Motion" ellipse
+7 "Lymphedema" ellipse
+8 "Musculoskeletal System" ellipse
+9 "Orthopaedic Instrumentation Failure" ellipse
+10 "Osteonecrosis" ellipse
+11 "Rhabdomyolysis" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.0909091 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0909091 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0909091 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.0909091 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0909091 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0909091 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.0909091 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0909091 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.0909091 l "isa"
+11 8 1.0000000 l "isa"
+8 11 0.0909091 l "isa"
+*Edges

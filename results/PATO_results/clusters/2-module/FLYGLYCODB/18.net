@@ -1,0 +1,19 @@
+*Vertices 6
+1 "GDP-Fuc_and_UDP-GlcNAc_and_UDP-Xyl_transporter_ER" ellipse
+2 "GDP-Fuc_transporter_Golgi" ellipse
+3 "PAPS_transporter" ellipse
+4 "UDP-Gal_and_UDP-GalNAc_transporter" ellipse
+5 "UDP-sugar_transporter" ellipse
+6 "sugar-nucleotide_transporter" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.1666667 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1666667 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1666667 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1666667 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1666667 l "isa"
+*Edges

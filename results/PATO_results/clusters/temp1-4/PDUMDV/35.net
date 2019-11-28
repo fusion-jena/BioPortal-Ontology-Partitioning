@@ -1,0 +1,30 @@
+*Vertices 3
+1 "SYMPTOM" ellipse
+2 "SYMPTOM_ID" ellipse
+3 "SYMPTOM_NAME" ellipse
+*Arcs
+2 1 0.5707240 l "isa"
+1 2 0.5409918 l "isa"
+3 1 0.4460074 l "isa"
+1 3 0.3286024 l "isa"
+2 3 0.1500793 l "HAS_SYMPTOM_NAME"
+3 2 0.1930886 l "HAS_SYMPTOM_NAME"
+1 2 0.5409918 l "substring"
+2 1 0.5707240 l "substring"
+1 3 0.3286024 l "substring"
+3 1 0.4460074 l "substring"
+1 2 0.5409918 l "distance"
+2 1 0.5707240 l "distance"
+2 1 0.5707240 l "isa"
+1 2 0.5409918 l "isa"
+3 1 0.4460074 l "isa"
+1 3 0.3286024 l "isa"
+2 3 0.1500793 l "HAS_SYMPTOM_NAME"
+3 2 0.1930886 l "HAS_SYMPTOM_NAME"
+1 2 0.5409918 l "substring"
+2 1 0.5707240 l "substring"
+1 3 0.3286024 l "substring"
+3 1 0.4460074 l "substring"
+1 2 0.5409918 l "distance"
+2 1 0.5707240 l "distance"
+*Edges

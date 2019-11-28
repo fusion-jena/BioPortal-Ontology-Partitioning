@@ -1,0 +1,38 @@
+*Vertices 3
+1 "DoseIncrease" ellipse
+2 "DoseModulation" ellipse
+3 "DoseReduction" ellipse
+*Arcs
+1 2 0.6230547 l "isa"
+2 1 0.2499787 l "isa"
+3 2 0.5136438 l "isa"
+2 3 0.2292430 l "isa"
+2 3 0.2292430 l "definition"
+3 2 0.5136438 l "definition"
+2 1 0.2499787 l "definition"
+1 2 0.6230547 l "definition"
+1 2 0.6230547 l "isa"
+2 1 0.2499787 l "isa"
+3 2 0.5136438 l "isa"
+2 3 0.2292430 l "isa"
+2 3 0.2292430 l "definition"
+3 2 0.5136438 l "definition"
+2 1 0.2499787 l "definition"
+1 2 0.6230547 l "definition"
+1 2 0.6230547 l "isa"
+2 1 0.2499787 l "isa"
+3 2 0.5136438 l "isa"
+2 3 0.2292430 l "isa"
+2 3 0.2292430 l "definition"
+3 2 0.5136438 l "definition"
+2 1 0.2499787 l "definition"
+1 2 0.6230547 l "definition"
+1 2 0.6230547 l "isa"
+2 1 0.2499787 l "isa"
+3 2 0.5136438 l "isa"
+2 3 0.2292430 l "isa"
+2 3 0.2292430 l "definition"
+3 2 0.5136438 l "definition"
+2 1 0.2499787 l "definition"
+1 2 0.6230547 l "definition"
+*Edges

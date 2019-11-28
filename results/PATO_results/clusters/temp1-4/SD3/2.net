@@ -1,0 +1,18 @@
+*Vertices 3
+1 "restriction enzyme recognition site symbol" ellipse
+2 "blunt restriction site symbol" ellipse
+3 "Restriction"
+*Arcs
+2 1 0.3441191 l "isa"
+1 2 0.1788370 l "isa"
+1 3 0.1585688 l "substring"
+3 1 0.0491335 l "substring"
+2 3 0.3280602 l "substring"
+3 2 0.0528277 l "substring"
+2 1 0.3441191 l "isa"
+1 2 0.1788370 l "isa"
+1 3 0.1585688 l "substring"
+3 1 0.0491335 l "substring"
+2 3 0.3280602 l "substring"
+3 2 0.0528277 l "substring"
+*Edges

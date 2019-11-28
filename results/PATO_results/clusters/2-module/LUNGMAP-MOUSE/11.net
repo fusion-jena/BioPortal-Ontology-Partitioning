@@ -1,0 +1,32 @@
+*Vertices 7
+1 "macrophage" ellipse
+2 "interstitial macrophage" ellipse
+3 "lymph node" ellipse
+4 "alveolar macrophage" ellipse
+5 "primitive macrophage" ellipse
+6 "immature macrophage" ellipse
+7 "lymph node macrophage" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1818182 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1818182 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1818182 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1818182 l "isa"
+7 1 0.6666667 l "isa"
+1 7 0.1818182 l "isa"
+1 2 0.1818182 l "substring"
+2 1 1.0000000 l "substring"
+1 4 0.1818182 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.1818182 l "substring"
+5 1 1.0000000 l "substring"
+1 6 0.1818182 l "substring"
+6 1 1.0000000 l "substring"
+1 7 0.1818182 l "substring"
+7 1 0.6666667 l "substring"
+3 7 0.1000000 l "substring"
+7 3 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 2
+1 "system role" ellipse
+2 "subsystem role" ellipse
+*Arcs
+2 1 0.5700642 l "isa"
+1 2 0.4631968 l "isa"
+1 2 0.4631968 l "substring"
+2 1 0.5700642 l "substring"
+1 2 0.4631968 l "distance"
+2 1 0.5700642 l "distance"
+2 1 0.5700642 l "isa"
+1 2 0.4631968 l "isa"
+1 2 0.4631968 l "substring"
+2 1 0.5700642 l "substring"
+1 2 0.4631968 l "distance"
+2 1 0.5700642 l "distance"
+2 1 0.5700642 l "isa"
+1 2 0.4631968 l "isa"
+1 2 0.4631968 l "substring"
+2 1 0.5700642 l "substring"
+1 2 0.4631968 l "distance"
+2 1 0.5700642 l "distance"
+*Edges

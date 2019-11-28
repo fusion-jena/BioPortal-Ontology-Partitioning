@@ -1,0 +1,19 @@
+*Vertices 4
+1 "fiat_object_part" ellipse
+2 "independent_continuant" ellipse
+3 "object_aggregate" ellipse
+4 "object_boundary" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1176471 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.1176471 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.1176471 l "isa"
+2 1 0.1176471 l "definition"
+1 2 0.6666667 l "definition"
+2 3 0.1176471 l "definition"
+3 2 0.6666667 l "definition"
+2 4 0.1176471 l "definition"
+4 2 0.6666667 l "definition"
+*Edges

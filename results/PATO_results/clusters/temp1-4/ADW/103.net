@@ -1,0 +1,41 @@
+*Vertices 6
+1 "_Cognitive decline is more evident" ellipse
+2 "_Dysgrosia" ellipse
+3 "_Dysphasia" ellipse
+4 "_Dyspraxia" ellipse
+5 "_Physiological symptoms of moderate cognitive decline" ellipse
+6 "_Spatial Disorientation" ellipse
+*Arcs
+1 5 0.2847153 l "isa"
+5 1 0.0854951 l "isa"
+2 5 0.1949527 l "isa"
+5 2 0.0772456 l "isa"
+3 5 0.2339137 l "isa"
+5 3 0.0772456 l "isa"
+4 5 0.3193613 l "isa"
+5 4 0.0799954 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1019941 l "isa"
+2 3 0.2082019 l "distance"
+3 2 0.2498107 l "distance"
+2 4 0.2151420 l "distance"
+4 2 0.3403194 l "distance"
+3 4 0.2581378 l "distance"
+4 3 0.3403194 l "distance"
+1 5 0.2847153 l "isa"
+5 1 0.0854951 l "isa"
+2 5 0.1949527 l "isa"
+5 2 0.0772456 l "isa"
+3 5 0.2339137 l "isa"
+5 3 0.0772456 l "isa"
+4 5 0.3193613 l "isa"
+5 4 0.0799954 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1019941 l "isa"
+2 3 0.2082019 l "distance"
+3 2 0.2498107 l "distance"
+2 4 0.2151420 l "distance"
+4 2 0.3403194 l "distance"
+3 4 0.2581378 l "distance"
+4 3 0.3403194 l "distance"
+*Edges

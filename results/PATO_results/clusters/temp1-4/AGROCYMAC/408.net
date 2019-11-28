@@ -1,0 +1,26 @@
+*Vertices 3
+1 "carbon dioxide" ellipse
+2 "carbon monoxide" ellipse
+3 "carbon oxide" ellipse
+*Arcs
+1 3 0.2775602 l "isa"
+3 1 0.2978076 l "isa"
+2 3 0.3685555 l "isa"
+3 2 0.3075947 l "isa"
+1 2 0.1254233 l "distance"
+2 1 0.1612430 l "distance"
+1 3 0.2775602 l "distance"
+3 1 0.2978076 l "distance"
+2 3 0.3685555 l "distance"
+3 2 0.3075947 l "distance"
+1 3 0.2775602 l "isa"
+3 1 0.2978076 l "isa"
+2 3 0.3685555 l "isa"
+3 2 0.3075947 l "isa"
+1 2 0.1254233 l "distance"
+2 1 0.1612430 l "distance"
+1 3 0.2775602 l "distance"
+3 1 0.2978076 l "distance"
+2 3 0.3685555 l "distance"
+3 2 0.3075947 l "distance"
+*Edges

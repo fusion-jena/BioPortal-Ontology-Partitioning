@@ -1,0 +1,22 @@
+*Vertices 3
+1 "environmentDescription"
+2 "environment" ellipse
+3 "environment"
+*Arcs
+1 2 0.1508559 l "substring"
+2 1 0.2239227 l "substring"
+1 3 0.1508559 l "substring"
+3 1 0.2239227 l "substring"
+2 3 0.5627956 l "substring"
+3 2 0.5627956 l "substring"
+2 3 0.5627956 l "distance"
+3 2 0.5627956 l "distance"
+1 2 0.1508559 l "substring"
+2 1 0.2239227 l "substring"
+1 3 0.1508559 l "substring"
+3 1 0.2239227 l "substring"
+2 3 0.5627956 l "substring"
+3 2 0.5627956 l "substring"
+2 3 0.5627956 l "distance"
+3 2 0.5627956 l "distance"
+*Edges

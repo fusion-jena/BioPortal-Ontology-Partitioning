@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Pronominal_confusion_when_asking_a_question" ellipse
+2 "pronominalReversal_Pronominal_confusion_when_asking_a_question"
+*Arcs
+1 2 0.2143716 l "substring"
+2 1 0.1576093 l "substring"
+1 2 0.2143716 l "substring"
+2 1 0.1576093 l "substring"
+*Edges

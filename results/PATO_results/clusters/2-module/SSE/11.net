@@ -1,0 +1,40 @@
+*Vertices 11
+1 "Acidosis" ellipse
+2 "Alkalosis" ellipse
+3 "B12 Deficiency" ellipse
+4 "Fluid Imbalance" ellipse
+5 "Hyperglycemia" ellipse
+6 "Hyperkalemia" ellipse
+7 "Hypocalcemia" ellipse
+8 "Hypoglycemia" ellipse
+9 "Hyponatremia" ellipse
+10 "Malnutrition" ellipse
+11 "Metabolic" ellipse
+*Arcs
+1 11 1.0000000 l "isa"
+11 1 0.0909091 l "isa"
+2 11 1.0000000 l "isa"
+11 2 0.0909091 l "isa"
+3 11 1.0000000 l "isa"
+11 3 0.0909091 l "isa"
+4 11 1.0000000 l "isa"
+11 4 0.0909091 l "isa"
+5 11 0.5000000 l "isa"
+11 5 0.0909091 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.0909091 l "isa"
+7 11 0.3333333 l "isa"
+11 7 0.0909091 l "isa"
+8 11 0.3333333 l "isa"
+11 8 0.0909091 l "isa"
+9 11 0.5000000 l "isa"
+11 9 0.0909091 l "isa"
+10 11 1.0000000 l "isa"
+11 10 0.0909091 l "isa"
+5 8 0.5000000 l "distance"
+8 5 0.3333333 l "distance"
+7 8 0.3333333 l "distance"
+8 7 0.3333333 l "distance"
+7 9 0.3333333 l "distance"
+9 7 0.5000000 l "distance"
+*Edges

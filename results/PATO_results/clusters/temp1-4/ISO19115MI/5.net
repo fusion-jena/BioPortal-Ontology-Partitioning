@@ -1,0 +1,15 @@
+*Vertices 2
+1 "MD_Distributor" ellipse
+2 "distributionOrderProcess"
+*Arcs
+1 2 0.0671944 l "definition"
+2 1 0.5424280 l "definition"
+1 2 0.0671944 l "definition"
+2 1 0.5424280 l "definition"
+1 2 0.0671944 l "definition"
+2 1 0.5424280 l "definition"
+1 2 0.0671944 l "definition"
+2 1 0.5424280 l "definition"
+1 2 0.0671944 l "definition"
+2 1 0.5424280 l "definition"
+*Edges

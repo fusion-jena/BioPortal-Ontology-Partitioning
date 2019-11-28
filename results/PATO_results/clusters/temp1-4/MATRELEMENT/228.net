@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Zoulay" ellipse
+2 "Fouta" ellipse
+*Arcs
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+1 2 0.1664167 l "distance"
+2 1 0.1214290 l "distance"
+*Edges

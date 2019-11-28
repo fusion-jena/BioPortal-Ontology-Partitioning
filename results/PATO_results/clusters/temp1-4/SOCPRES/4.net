@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Incorrect confederate role-start of scenario" ellipse
+2 "Scenario conduction deviation" ellipse
+3 "Scenario execution deviation" ellipse
+4 "Set-up confederate deviation" ellipse
+5 "Set-up deviation" ellipse
+6 "Too few confederates-start of scenario" ellipse
+7 "Too many confederates-start of scenario" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2635135 l "isa"
+2 3 0.3422460 l "isa"
+3 2 0.3333333 l "isa"
+4 5 0.2094595 l "isa"
+5 4 0.3351352 l "isa"
+5 2 0.3459460 l "isa"
+2 5 0.3422460 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.2635135 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.2635135 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2635135 l "isa"
+2 3 0.3422460 l "isa"
+3 2 0.3333333 l "isa"
+4 5 0.2094595 l "isa"
+5 4 0.3351352 l "isa"
+5 2 0.3459460 l "isa"
+2 5 0.3422460 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.2635135 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.2635135 l "isa"
+*Edges

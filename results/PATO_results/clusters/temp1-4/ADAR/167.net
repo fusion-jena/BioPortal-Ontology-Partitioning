@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Has_no_unusual_sensory_interests" ellipse
+2 "Unusual_Sensory_Interests" ellipse
+3 "Unusual_sensory_interests" ellipse
+4 "Unusual_sensory_interests_UnknownOrNotAsked" ellipse
+*Arcs
+1 3 0.4000000 l "isa"
+3 1 0.1818182 l "isa"
+3 2 0.2727273 l "isa"
+2 3 0.3750000 l "isa"
+4 3 0.4000000 l "isa"
+3 4 0.1818182 l "isa"
+1 2 0.2000000 l "substring"
+2 1 0.1250000 l "substring"
+1 3 0.4000000 l "substring"
+3 1 0.1818182 l "substring"
+2 3 0.3750000 l "substring"
+3 2 0.2727273 l "substring"
+2 4 0.1250000 l "substring"
+4 2 0.2000000 l "substring"
+3 4 0.1818182 l "substring"
+4 3 0.4000000 l "substring"
+2 3 0.3750000 l "distance"
+3 2 0.2727273 l "distance"
+*Edges

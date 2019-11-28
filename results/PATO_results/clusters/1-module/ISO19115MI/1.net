@@ -1,0 +1,25 @@
+*Vertices 6
+1 "MD_ScopeCode" ellipse
+2 "MD_MetadataScope" ellipse
+3 "string"
+4 "metadataScope"
+5 "resourceScope"
+6 "name"
+*Arcs
+2 1 0.1666667 l "resourceScope"
+1 2 1.0000000 l "resourceScope"
+2 3 0.1666667 l "name"
+3 2 1.0000000 l "name"
+2 1 0.1666667 l "definition"
+1 2 1.0000000 l "definition"
+2 5 0.0833333 l "definition"
+5 2 1.0000000 l "definition"
+2 3 0.1666667 l "definition"
+3 2 1.0000000 l "definition"
+2 6 0.0833333 l "definition"
+6 2 1.0000000 l "definition"
+2 4 0.1666667 l "substring"
+4 2 0.6666667 l "substring"
+2 4 0.1666667 l "distance"
+4 2 0.6666667 l "distance"
+*Edges

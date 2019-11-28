@@ -1,0 +1,11 @@
+*Vertices 2
+1 "White blood cell count" ellipse
+2 "white" ellipse
+*Arcs
+1 2 0.2087306 l "substring"
+2 1 0.0952869 l "substring"
+1 2 0.2087306 l "substring"
+2 1 0.0952869 l "substring"
+1 2 0.2087306 l "substring"
+2 1 0.0952869 l "substring"
+*Edges

@@ -1,0 +1,30 @@
+*Vertices 3
+1 "clinical pathway" ellipse
+2 "clinical protocol" ellipse
+3 "protocol" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3188954 l "isa"
+2 3 0.6811047 l "isa"
+3 2 0.8253030 l "isa"
+2 3 0.6811047 l "substring"
+3 2 0.8253030 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.3188954 l "isa"
+2 3 0.6811047 l "isa"
+3 2 0.8253030 l "isa"
+2 3 0.6811047 l "substring"
+3 2 0.8253030 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.3188954 l "isa"
+2 3 0.6811047 l "isa"
+3 2 0.8253030 l "isa"
+2 3 0.6811047 l "substring"
+3 2 0.8253030 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.3188954 l "isa"
+2 3 0.6811047 l "isa"
+3 2 0.8253030 l "isa"
+2 3 0.6811047 l "substring"
+3 2 0.8253030 l "substring"
+*Edges

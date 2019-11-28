@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Kenya" ellipse
+2 "Liberia" ellipse
+3 "Libya" ellipse
+*Arcs
+1 3 0.1500994 l "distance"
+3 1 0.1724029 l "distance"
+2 3 0.1485043 l "distance"
+3 2 0.1724029 l "distance"
+1 3 0.1500994 l "distance"
+3 1 0.1724029 l "distance"
+2 3 0.1485043 l "distance"
+3 2 0.1724029 l "distance"
+*Edges

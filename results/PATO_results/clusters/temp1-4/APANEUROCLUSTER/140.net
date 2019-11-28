@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Parathyroid_Disorders" ellipse
+2 "Thyroid_Disorders" ellipse
+*Arcs
+1 2 0.2471808 l "substring"
+2 1 0.3717357 l "substring"
+1 2 0.2471808 l "substring"
+2 1 0.3717357 l "substring"
+1 2 0.2471808 l "substring"
+2 1 0.3717357 l "substring"
+*Edges

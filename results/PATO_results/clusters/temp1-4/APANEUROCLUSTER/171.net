@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Directed_Discussion_Method" ellipse
+2 "Nondirected_Discussion_Method" ellipse
+*Arcs
+1 2 0.7395324 l "substring"
+2 1 0.7395324 l "substring"
+1 2 0.7395324 l "distance"
+2 1 0.7395324 l "distance"
+1 2 0.7395324 l "substring"
+2 1 0.7395324 l "substring"
+1 2 0.7395324 l "distance"
+2 1 0.7395324 l "distance"
+*Edges

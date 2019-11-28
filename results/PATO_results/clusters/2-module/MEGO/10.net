@@ -1,0 +1,12 @@
+*Vertices 3
+1 "prophage" ellipse
+2 "cryptic prophage" ellipse
+3 "transfer agent" ellipse
+*Arcs
+2 1 0.6666667 l "isa"
+1 2 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+1 2 0.1000000 l "substring"
+2 1 0.6666667 l "substring"
+*Edges

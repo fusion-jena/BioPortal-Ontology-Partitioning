@@ -1,0 +1,28 @@
+*Vertices 3
+1 "HttpRequestState" ellipse
+2 "State" ellipse
+3 "Commonwealth_of_Independent_States" ellipse
+*Arcs
+1 2 0.7912271 l "isa"
+2 1 0.3694928 l "isa"
+1 2 0.7912271 l "substring"
+2 1 0.3694928 l "substring"
+1 2 0.7912271 l "isa"
+2 1 0.3694928 l "isa"
+1 2 0.7912271 l "substring"
+2 1 0.3694928 l "substring"
+2 3 0.1009857 l "substring"
+3 2 0.3428807 l "substring"
+1 2 0.7912271 l "isa"
+2 1 0.3694928 l "isa"
+1 2 0.7912271 l "substring"
+2 1 0.3694928 l "substring"
+2 3 0.1009857 l "substring"
+3 2 0.3428807 l "substring"
+1 2 0.7912271 l "isa"
+2 1 0.3694928 l "isa"
+1 2 0.7912271 l "substring"
+2 1 0.3694928 l "substring"
+2 3 0.1009857 l "substring"
+3 2 0.3428807 l "substring"
+*Edges

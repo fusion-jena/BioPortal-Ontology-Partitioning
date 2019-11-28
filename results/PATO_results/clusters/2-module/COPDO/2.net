@@ -1,0 +1,43 @@
+*Vertices 12
+1 "emphysematous bronchitis" ellipse
+2 "At risk of COPD exacerbation" ellipse
+3 "severe COPD" ellipse
+4 "chronic obstructive pulmonary disease" ellipse
+5 "history of COPD" ellipse
+6 "very severe COPD" ellipse
+7 "diagnosis" ellipse
+8 "moderate COPD" ellipse
+9 "general diagnosis" ellipse
+10 "end stage COPD" ellipse
+11 "mild COPD" ellipse
+12 "emphysema" ellipse
+*Arcs
+1 12 1.0000000 l "isa"
+12 1 0.6666667 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.1111111 l "isa"
+3 9 0.3333333 l "isa"
+9 3 0.1111111 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.1111111 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.1111111 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.6666667 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.1111111 l "isa"
+9 7 0.2222222 l "isa"
+7 9 0.4000000 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.1111111 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.1111111 l "isa"
+12 7 0.3333333 l "isa"
+7 12 0.2000000 l "isa"
+1 12 1.0000000 l "substring"
+12 1 0.6666667 l "substring"
+3 6 0.6666667 l "substring"
+6 3 1.0000000 l "substring"
+7 9 0.4000000 l "substring"
+9 7 0.2222222 l "substring"
+*Edges

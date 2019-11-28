@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Restriction"
+2 "PhysicalRestrictions"
+*Arcs
+2 1 0.2000000 l "definition"
+1 2 0.0052493 l "definition"
+1 2 0.0052493 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

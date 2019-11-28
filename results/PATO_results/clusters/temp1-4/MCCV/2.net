@@ -1,0 +1,50 @@
+*Vertices 7
+1 "ExtrusiveRock" ellipse
+2 "Lava" ellipse
+3 "Obsidian" ellipse
+4 "Pahoehoe" ellipse
+5 "PillowLava" ellipse
+6 "Tephra" ellipse
+7 "Ultramaphic" ellipse
+*Arcs
+2 1 0.0805766 l "isa"
+1 2 0.0665392 l "isa"
+3 1 0.3585018 l "isa"
+1 3 0.0783655 l "isa"
+3 2 0.3632580 l "isa"
+2 3 0.0961569 l "isa"
+4 1 0.3585018 l "isa"
+1 4 0.0783655 l "isa"
+4 2 0.3632580 l "isa"
+2 4 0.0961569 l "isa"
+5 1 0.2365772 l "isa"
+1 5 0.0732971 l "isa"
+5 2 0.5671141 l "isa"
+2 5 0.2127727 l "isa"
+6 1 0.3615758 l "isa"
+1 6 0.0783655 l "isa"
+7 1 0.3615758 l "isa"
+1 7 0.0783655 l "isa"
+2 5 0.2127727 l "substring"
+5 2 0.5671141 l "substring"
+2 1 0.0805766 l "isa"
+1 2 0.0665392 l "isa"
+3 1 0.3585018 l "isa"
+1 3 0.0783655 l "isa"
+3 2 0.3632580 l "isa"
+2 3 0.0961569 l "isa"
+4 1 0.3585018 l "isa"
+1 4 0.0783655 l "isa"
+4 2 0.3632580 l "isa"
+2 4 0.0961569 l "isa"
+5 1 0.2365772 l "isa"
+1 5 0.0732971 l "isa"
+5 2 0.5671141 l "isa"
+2 5 0.2127727 l "isa"
+6 1 0.3615758 l "isa"
+1 6 0.0783655 l "isa"
+7 1 0.3615758 l "isa"
+1 7 0.0783655 l "isa"
+2 5 0.2127727 l "substring"
+5 2 0.5671141 l "substring"
+*Edges

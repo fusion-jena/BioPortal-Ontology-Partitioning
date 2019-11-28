@@ -1,0 +1,67 @@
+*Vertices 14
+1 "ClinicalStudy" ellipse
+2 "DeclarativeProposition" ellipse
+3 "PatientAdmission" ellipse
+4 "PatientEnrollment" ellipse
+5 "PrimaryClinicalStudy" ellipse
+6 "Proposition" ellipse
+7 "Reason" ellipse
+8 "ReasonForPatientEnrollment" ellipse
+9 "ReasonOfAdmission" ellipse
+10 "ReasonOfTherapyTermination" ellipse
+11 "SecondaryClinicalStudy" ellipse
+12 "describedBy"
+13 "describes"
+14 "hasReason"
+*Arcs
+2 6 0.2857143 l "isa"
+6 2 0.2857143 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.1153846 l "isa"
+8 7 0.4000000 l "isa"
+7 8 0.0800000 l "isa"
+9 7 0.6666667 l "isa"
+7 9 0.0800000 l "isa"
+10 7 0.4000000 l "isa"
+7 10 0.0800000 l "isa"
+11 1 0.3333333 l "isa"
+1 11 0.1153846 l "isa"
+1 5 0.1153846 l "definition"
+5 1 0.3333333 l "definition"
+1 11 0.1153846 l "definition"
+11 1 0.3333333 l "definition"
+1 12 0.0384615 l "definition"
+12 1 0.3333333 l "definition"
+2 13 0.1428571 l "definition"
+13 2 0.5000000 l "definition"
+3 14 0.2000000 l "definition"
+14 3 0.1428571 l "definition"
+3 9 0.2000000 l "definition"
+9 3 0.3333333 l "definition"
+4 8 0.3333333 l "definition"
+8 4 0.4000000 l "definition"
+4 14 0.1666667 l "definition"
+14 4 0.1428571 l "definition"
+7 12 0.0400000 l "definition"
+12 7 0.3333333 l "definition"
+1 5 0.1153846 l "substring"
+5 1 0.3333333 l "substring"
+1 11 0.1153846 l "substring"
+11 1 0.3333333 l "substring"
+2 6 0.2857143 l "substring"
+6 2 0.2857143 l "substring"
+4 8 0.3333333 l "substring"
+8 4 0.4000000 l "substring"
+7 8 0.0800000 l "substring"
+8 7 0.4000000 l "substring"
+7 9 0.0800000 l "substring"
+9 7 0.6666667 l "substring"
+7 10 0.0800000 l "substring"
+10 7 0.4000000 l "substring"
+7 14 0.0800000 l "substring"
+14 7 0.2857143 l "substring"
+7 14 0.0800000 l "distance"
+14 7 0.2857143 l "distance"
+12 13 0.3333333 l "distance"
+13 12 0.5000000 l "distance"
+*Edges

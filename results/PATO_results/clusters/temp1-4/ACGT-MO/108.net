@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Sexual Orientation" ellipse
+2 "Sexual orientation" ellipse
+*Arcs
+1 2 0.4549020 l "substring"
+2 1 0.5446010 l "substring"
+1 2 0.4549020 l "distance"
+2 1 0.5446010 l "distance"
+1 2 0.4549020 l "substring"
+2 1 0.5446010 l "substring"
+1 2 0.4549020 l "distance"
+2 1 0.5446010 l "distance"
+*Edges

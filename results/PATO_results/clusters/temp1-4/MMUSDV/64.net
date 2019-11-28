@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hours" ellipse
+2 "Honduras" ellipse
+*Arcs
+1 2 0.1758500 l "distance"
+2 1 0.2117599 l "distance"
+1 2 0.1758500 l "distance"
+2 1 0.2117599 l "distance"
+*Edges

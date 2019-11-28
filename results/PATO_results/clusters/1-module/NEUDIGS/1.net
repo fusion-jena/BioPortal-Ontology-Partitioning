@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Distribution of Dendrite Segments" ellipse
+2 "Distribution of Subcellular Neuronal Components" ellipse
+3 "4 point ordinal measure" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1111111 l "isa"
+2 3 0.1111111 l "ordinal-count"
+3 2 1.0000000 l "ordinal-count"
+*Edges

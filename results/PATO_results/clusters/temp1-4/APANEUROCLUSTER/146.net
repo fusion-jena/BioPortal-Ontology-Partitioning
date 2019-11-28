@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Chromosome_Disorders" ellipse
+2 "Sex_Chromosome_Disorders" ellipse
+*Arcs
+1 2 0.3805548 l "substring"
+2 1 0.3036578 l "substring"
+1 2 0.3805548 l "substring"
+2 1 0.3036578 l "substring"
+1 2 0.3805548 l "substring"
+2 1 0.3036578 l "substring"
+*Edges

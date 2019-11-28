@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Family History" ellipse
+2 "Family history" ellipse
+*Arcs
+1 2 0.3307184 l "substring"
+2 1 0.3315557 l "substring"
+1 2 0.3307184 l "distance"
+2 1 0.3315557 l "distance"
+1 2 0.3307184 l "substring"
+2 1 0.3315557 l "substring"
+1 2 0.3307184 l "distance"
+2 1 0.3315557 l "distance"
+*Edges

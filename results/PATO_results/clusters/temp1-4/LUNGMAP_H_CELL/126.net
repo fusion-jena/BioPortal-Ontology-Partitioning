@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Altai" ellipse
+2 "Altai" ellipse
+3 "Altai Mountain" ellipse
+*Arcs
+1 2 0.0801649 l "substring"
+2 1 0.0801636 l "substring"
+1 3 0.0511309 l "substring"
+3 1 0.3381416 l "substring"
+2 3 0.0511300 l "substring"
+3 2 0.3381414 l "substring"
+1 2 0.0801649 l "distance"
+2 1 0.0801636 l "distance"
+1 2 0.0801649 l "substring"
+2 1 0.0801636 l "substring"
+1 3 0.0511309 l "substring"
+3 1 0.3381416 l "substring"
+2 3 0.0511300 l "substring"
+3 2 0.3381414 l "substring"
+1 2 0.0801649 l "distance"
+2 1 0.0801636 l "distance"
+1 2 0.0801649 l "substring"
+2 1 0.0801636 l "substring"
+1 3 0.0511309 l "substring"
+3 1 0.3381416 l "substring"
+2 3 0.0511300 l "substring"
+3 2 0.3381414 l "substring"
+1 2 0.0801649 l "distance"
+2 1 0.0801636 l "distance"
+1 2 0.0801649 l "substring"
+2 1 0.0801636 l "substring"
+1 3 0.0511309 l "substring"
+3 1 0.3381416 l "substring"
+2 3 0.0511300 l "substring"
+3 2 0.3381414 l "substring"
+1 2 0.0801649 l "distance"
+2 1 0.0801636 l "distance"
+*Edges

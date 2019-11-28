@@ -1,0 +1,26 @@
+*Vertices 3
+1 "clinical practice guideline" ellipse
+2 "guideline" ellipse
+3 "practice guideline" ellipse
+*Arcs
+1 3 0.7102804 l "isa"
+3 1 0.5135135 l "isa"
+3 2 0.4864865 l "isa"
+2 3 0.5522531 l "isa"
+1 2 0.2897196 l "substring"
+2 1 0.2377757 l "substring"
+1 3 0.7102804 l "substring"
+3 1 0.5135135 l "substring"
+2 3 0.5522531 l "substring"
+3 2 0.4864865 l "substring"
+1 3 0.7102804 l "isa"
+3 1 0.5135135 l "isa"
+3 2 0.4864865 l "isa"
+2 3 0.5522531 l "isa"
+1 2 0.2897196 l "substring"
+2 1 0.2377757 l "substring"
+1 3 0.7102804 l "substring"
+3 1 0.5135135 l "substring"
+2 3 0.5522531 l "substring"
+3 2 0.4864865 l "substring"
+*Edges

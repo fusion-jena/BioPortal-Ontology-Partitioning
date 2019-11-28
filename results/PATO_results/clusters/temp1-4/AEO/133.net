@@ -1,0 +1,39 @@
+*Vertices 6
+1 "isocarboxazid" ellipse
+2 "l-tryptophan" ellipse
+3 "phenelzine" ellipse
+4 "sertraline" ellipse
+5 "venlafaxine" ellipse
+6 "antidepressant" ellipse
+*Arcs
+1 6 0.2544755 l "definition"
+6 1 0.0326946 l "definition"
+2 6 0.2544755 l "definition"
+6 2 0.0326946 l "definition"
+3 6 0.2544755 l "definition"
+6 3 0.0326946 l "definition"
+4 6 0.2544755 l "definition"
+6 4 0.0326946 l "definition"
+5 6 0.2544755 l "definition"
+6 5 0.0326946 l "definition"
+1 6 0.2544755 l "definition"
+6 1 0.0326946 l "definition"
+2 6 0.2544755 l "definition"
+6 2 0.0326946 l "definition"
+3 6 0.2544755 l "definition"
+6 3 0.0326946 l "definition"
+4 6 0.2544755 l "definition"
+6 4 0.0326946 l "definition"
+5 6 0.2544755 l "definition"
+6 5 0.0326946 l "definition"
+1 6 0.2544755 l "definition"
+6 1 0.0326946 l "definition"
+2 6 0.2544755 l "definition"
+6 2 0.0326946 l "definition"
+3 6 0.2544755 l "definition"
+6 3 0.0326946 l "definition"
+4 6 0.2544755 l "definition"
+6 4 0.0326946 l "definition"
+5 6 0.2544755 l "definition"
+6 5 0.0326946 l "definition"
+*Edges

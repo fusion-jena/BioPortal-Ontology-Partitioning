@@ -1,0 +1,15 @@
+*Vertices 2
+1 "collagen type II" ellipse
+2 "triple helical collagen type II" ellipse
+*Arcs
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+*Edges

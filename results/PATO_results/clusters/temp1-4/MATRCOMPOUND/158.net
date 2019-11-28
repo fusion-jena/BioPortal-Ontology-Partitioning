@@ -1,0 +1,21 @@
+*Vertices 2
+1 "connective tissue cell" ellipse
+2 "connective tissue cell" ellipse
+*Arcs
+1 2 0.0883199 l "substring"
+2 1 0.2715091 l "substring"
+1 2 0.0883199 l "distance"
+2 1 0.2715091 l "distance"
+1 2 0.0883199 l "substring"
+2 1 0.2715091 l "substring"
+1 2 0.0883199 l "distance"
+2 1 0.2715091 l "distance"
+1 2 0.0883199 l "substring"
+2 1 0.2715091 l "substring"
+1 2 0.0883199 l "distance"
+2 1 0.2715091 l "distance"
+1 2 0.0883199 l "substring"
+2 1 0.2715091 l "substring"
+1 2 0.0883199 l "distance"
+2 1 0.2715091 l "distance"
+*Edges

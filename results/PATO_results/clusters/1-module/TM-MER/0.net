@@ -1,0 +1,19 @@
+*Vertices 16
+1 "Lung Meridian (LU) / 手太阴肺经 / 수태음폐경" ellipse
+2 "Large Intestine Meridian (LI) / 手阳明大肠经 / 수양명대장경" ellipse
+3 "Stomach Meridian (ST) / 足阳明胃经 / 족양명위경" ellipse
+4 "Spleen Meridian (SP) / 足太阴脾经 / 족태음비경" ellipse
+5 "Heart Meridian (HT) / 手少阴心经 / 수소음심경" ellipse
+6 "Small Intestine Meridian (SI) / 手太阳小肠经 / 수태양소장경" ellipse
+7 "Bladder Meridian (BL) / 足太阳膀胱经 / 족태양방광경" ellipse
+8 "Kidney Meridian / 足少阴肾经 / 족소음신경" ellipse
+9 "Pericardium Meridian (PC) / 手厥阴心包经 / 수궐음심포경" ellipse
+10 "Sanjiao (Triple Energizer) Meridian (TE) / 手少阳三焦经 / 수소양삼초경" ellipse
+11 "Gallbladder Meridian (GB) / 足少阳胆经 / 족소양담경" ellipse
+12 "Liver Meridian (LR) / 足厥阴肝经 / 족궐음간경" ellipse
+13 "Governor (Vessel) Meridian (GV) / 독맥" ellipse
+14 "Conception (Vessel) Meridian (CV) / 임맥" ellipse
+15 "Thoroughfare (Vessel) Meridian / 충맥" ellipse
+16 "Belt (Vessel) Meridian / 대맥" ellipse
+*Arcs
+*Edges

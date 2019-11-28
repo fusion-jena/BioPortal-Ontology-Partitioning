@@ -1,0 +1,13 @@
+*Vertices 2
+1 "StateOfCare" ellipse
+2 "TemporalInfo" ellipse
+*Arcs
+1 2 0.5761638 l "isa"
+2 1 0.3373489 l "isa"
+1 2 0.5761638 l "isa"
+2 1 0.3373489 l "isa"
+1 2 0.5761638 l "isa"
+2 1 0.3373489 l "isa"
+1 2 0.5761638 l "isa"
+2 1 0.3373489 l "isa"
+*Edges

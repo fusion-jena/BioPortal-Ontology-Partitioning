@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Astrocyte related to primary glial cell culture" ellipse
+2 "Microglia related to primary glial cell culture" ellipse
+3 "Primary glial cell culture" ellipse
+*Arcs
+1 3 0.3224044 l "isa"
+3 1 0.1963394 l "isa"
+2 3 0.3239129 l "isa"
+3 2 0.1963394 l "isa"
+1 3 0.3224044 l "substring"
+3 1 0.1963394 l "substring"
+2 3 0.3239129 l "substring"
+3 2 0.1963394 l "substring"
+1 3 0.3224044 l "isa"
+3 1 0.1963394 l "isa"
+2 3 0.3239129 l "isa"
+3 2 0.1963394 l "isa"
+1 3 0.3224044 l "substring"
+3 1 0.1963394 l "substring"
+2 3 0.3239129 l "substring"
+3 2 0.1963394 l "substring"
+*Edges

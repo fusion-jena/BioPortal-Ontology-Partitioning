@@ -1,0 +1,15 @@
+*Vertices 2
+1 "nil"
+2 "eMail"
+*Arcs
+1 2 0.0623871 l "distance"
+2 1 0.3478156 l "distance"
+1 2 0.0623871 l "distance"
+2 1 0.3478156 l "distance"
+1 2 0.0623871 l "distance"
+2 1 0.3478156 l "distance"
+1 2 0.0623871 l "distance"
+2 1 0.3478156 l "distance"
+1 2 0.0623871 l "distance"
+2 1 0.3478156 l "distance"
+*Edges

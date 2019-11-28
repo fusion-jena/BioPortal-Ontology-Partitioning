@@ -1,0 +1,11 @@
+*Vertices 2
+1 "has_event"
+2 "has_parent"
+*Arcs
+1 2 0.2235312 l "distance"
+2 1 0.1993293 l "distance"
+1 2 0.2235312 l "distance"
+2 1 0.1993293 l "distance"
+1 2 0.2235312 l "distance"
+2 1 0.1993293 l "distance"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "concentration unit" ellipse
+2 "mass percentage" ellipse
+3 "percent" ellipse
+*Arcs
+2 1 0.1932812 l "isa"
+1 2 0.0883818 l "isa"
+2 3 0.4323596 l "isa"
+3 2 0.1750961 l "isa"
+2 3 0.4323596 l "substring"
+3 2 0.1750961 l "substring"
+2 1 0.1932812 l "isa"
+1 2 0.0883818 l "isa"
+2 3 0.4323596 l "isa"
+3 2 0.1750961 l "isa"
+2 3 0.4323596 l "substring"
+3 2 0.1750961 l "substring"
+*Edges

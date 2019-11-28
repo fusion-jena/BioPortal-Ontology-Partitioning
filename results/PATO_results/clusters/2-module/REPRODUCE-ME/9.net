@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Column Naming Convention" ellipse
+2 "Columns" ellipse
+3 "Field Index" ellipse
+4 "Plate Setting" ellipse
+5 "RowNaming Convention" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0666667 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0666667 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0666667 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0666667 l "isa"
+*Edges

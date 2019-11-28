@@ -1,0 +1,40 @@
+*Vertices 13
+1 "Hydrogen Species Shuttle" ellipse
+2 "Hydride Shuttle" ellipse
+3 "Hydrogen Radical Shuttle" ellipse
+4 "Dihydrogen Shuttle" ellipse
+5 "Hydride Acceptor" ellipse
+6 "Hydride Donor" ellipse
+7 "Hydride Relay" ellipse
+8 "Hydrogen Radical Acceptor" ellipse
+9 "Hydrogen Radical Donor" ellipse
+10 "Hydrogen Radical Relay" ellipse
+11 "Dihydrogen Acceptor" ellipse
+12 "Dihydrogen Donor" ellipse
+13 "Dihydrogen Relay" ellipse
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 0.2500000 l "isa"
+1 4 0.2000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.2500000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.2500000 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.2500000 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.2500000 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.2500000 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.2500000 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.2500000 l "isa"
+12 4 1.0000000 l "isa"
+4 12 0.2500000 l "isa"
+13 4 1.0000000 l "isa"
+4 13 0.2500000 l "isa"
+*Edges

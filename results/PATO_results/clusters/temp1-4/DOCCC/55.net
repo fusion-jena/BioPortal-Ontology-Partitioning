@@ -1,0 +1,36 @@
+*Vertices 3
+1 "sorus of the late culminant" ellipse
+2 "sorus of the fruiting body" ellipse
+3 "sorus" ellipse
+*Arcs
+1 3 0.1234990 l "isa"
+3 1 0.1290888 l "isa"
+2 3 0.1244023 l "isa"
+3 2 0.1291322 l "isa"
+2 1 0.0557059 l "definition"
+1 2 0.0553200 l "definition"
+1 3 0.1234990 l "substring"
+3 1 0.1290888 l "substring"
+2 3 0.1244023 l "substring"
+3 2 0.1291322 l "substring"
+1 3 0.1234990 l "isa"
+3 1 0.1290888 l "isa"
+2 3 0.1244023 l "isa"
+3 2 0.1291322 l "isa"
+2 1 0.0557059 l "definition"
+1 2 0.0553200 l "definition"
+1 3 0.1234990 l "substring"
+3 1 0.1290888 l "substring"
+2 3 0.1244023 l "substring"
+3 2 0.1291322 l "substring"
+1 3 0.1234990 l "isa"
+3 1 0.1290888 l "isa"
+2 3 0.1244023 l "isa"
+3 2 0.1291322 l "isa"
+2 1 0.0557059 l "definition"
+1 2 0.0553200 l "definition"
+1 3 0.1234990 l "substring"
+3 1 0.1290888 l "substring"
+2 3 0.1244023 l "substring"
+3 2 0.1291322 l "substring"
+*Edges

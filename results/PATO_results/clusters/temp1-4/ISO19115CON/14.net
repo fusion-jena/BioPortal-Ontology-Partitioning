@@ -1,0 +1,31 @@
+*Vertices 4
+1 "CI_Telephone" ellipse
+2 "CI_TelephoneTypeCode" ellipse
+3 "numberType"
+4 "number"
+*Arcs
+1 2 0.2953341 l "numberType"
+2 1 0.6448196 l "numberType"
+1 3 0.0892335 l "definition"
+3 1 0.4889590 l "definition"
+1 2 0.2953341 l "definition"
+2 1 0.6448196 l "definition"
+1 4 0.0788709 l "definition"
+4 1 0.1925879 l "definition"
+1 2 0.2953341 l "substring"
+2 1 0.6448196 l "substring"
+3 4 0.5110410 l "substring"
+4 3 0.2277316 l "substring"
+1 2 0.2953341 l "numberType"
+2 1 0.6448196 l "numberType"
+1 3 0.0892335 l "definition"
+3 1 0.4889590 l "definition"
+1 2 0.2953341 l "definition"
+2 1 0.6448196 l "definition"
+1 4 0.0788709 l "definition"
+4 1 0.1925879 l "definition"
+1 2 0.2953341 l "substring"
+2 1 0.6448196 l "substring"
+3 4 0.5110410 l "substring"
+4 3 0.2277316 l "substring"
+*Edges

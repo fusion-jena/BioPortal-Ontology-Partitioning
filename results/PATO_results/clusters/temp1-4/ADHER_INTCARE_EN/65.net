@@ -1,0 +1,46 @@
+*Vertices 7
+1 "Body posture" ellipse
+2 "Concept" ellipse
+3 "Emotional_Traits" ellipse
+4 "Self_Concept" ellipse
+5 "Vocabulary  term" ellipse
+6 "Concept_16"
+7 "vocabulary_term"
+*Arcs
+4 3 0.5140187 l "isa"
+3 4 0.2769784 l "isa"
+5 2 0.5151033 l "concept"
+2 5 0.2142529 l "concept"
+5 2 0.5151033 l "synonyms"
+2 5 0.2142529 l "synonyms"
+1 6 0.2578729 l "definition"
+6 1 0.3106212 l "definition"
+1 7 0.2745098 l "definition"
+7 1 0.5000000 l "definition"
+2 4 0.1031588 l "substring"
+4 2 0.4859813 l "substring"
+2 6 0.2274784 l "substring"
+6 2 0.6893787 l "substring"
+2 6 0.2274784 l "distance"
+6 2 0.6893787 l "distance"
+5 7 0.2623211 l "distance"
+7 5 0.5000000 l "distance"
+4 3 0.5140187 l "isa"
+3 4 0.2769784 l "isa"
+5 2 0.5151033 l "concept"
+2 5 0.2142529 l "concept"
+5 2 0.5151033 l "synonyms"
+2 5 0.2142529 l "synonyms"
+1 6 0.2578729 l "definition"
+6 1 0.3106212 l "definition"
+1 7 0.2745098 l "definition"
+7 1 0.5000000 l "definition"
+2 4 0.1031588 l "substring"
+4 2 0.4859813 l "substring"
+2 6 0.2274784 l "substring"
+6 2 0.6893787 l "substring"
+2 6 0.2274784 l "distance"
+6 2 0.6893787 l "distance"
+5 7 0.2623211 l "distance"
+7 5 0.5000000 l "distance"
+*Edges

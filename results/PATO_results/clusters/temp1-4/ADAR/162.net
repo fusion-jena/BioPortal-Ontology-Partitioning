@@ -1,0 +1,127 @@
+*Vertices 26
+1 "Delayed phrases" ellipse
+2 "Delayed word" ellipse
+3 "Delay" ellipse
+4 "No phrases" ellipse
+5 "No word" ellipse
+6 "Not delayed phrases" ellipse
+7 "Not delayed word" ellipse
+8 "Age of phrases phenotype" ellipse
+9 "Age of words phenotype" ellipse
+10 "Early development and skill acquisition phenotype" ellipse
+11 "Delayed_walked_unaided" ellipse
+12 "First_walked_unaided" ellipse
+13 "First_walked_unaided_milestone_not_reached" ellipse
+14 "Human_with_DSm-IV_definition_B" ellipse
+15 "Motor_milestones" ellipse
+16 "Not_delayed_walked_unaided" ellipse
+17 "Stereotyped_utterances_and_delayed_echolalia" ellipse
+18 "Stereotyped_utterances_and_delayed_echolalia_NotAvailable_or_No_Phrase" ellipse
+19 "Stereotyped_utterances_and_delayed_echolalia_UnknownOrNotAsked" ellipse
+20 "Unknown Word" ellipse
+21 "Unknown_first_walked_unaided" ellipse
+22 "Unknown phrases" ellipse
+23 "Delayed_Word"
+24 "No_Phrase"
+25 "Delayed_Phrase"
+26 "No_Word"
+*Arcs
+1 8 0.4000000 l "isa"
+8 1 0.1666667 l "isa"
+2 9 0.4000000 l "isa"
+9 2 0.1666667 l "isa"
+4 8 0.6666667 l "isa"
+8 4 0.1666667 l "isa"
+5 9 0.6666667 l "isa"
+9 5 0.1666667 l "isa"
+6 8 0.5000000 l "isa"
+8 6 0.1666667 l "isa"
+7 9 0.5000000 l "isa"
+9 7 0.1666667 l "isa"
+11 12 0.3333333 l "isa"
+12 11 0.1428571 l "isa"
+12 15 0.1428571 l "isa"
+15 12 0.5000000 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.2857143 l "isa"
+15 10 0.5000000 l "isa"
+10 15 0.1000000 l "isa"
+16 12 0.3333333 l "isa"
+12 16 0.1428571 l "isa"
+18 17 0.3333333 l "isa"
+17 18 0.1666667 l "isa"
+19 17 0.4000000 l "isa"
+17 19 0.1666667 l "isa"
+20 9 1.0000000 l "isa"
+9 20 0.0833333 l "isa"
+21 12 1.0000000 l "isa"
+12 21 0.2857143 l "isa"
+22 8 1.0000000 l "isa"
+8 22 0.0833333 l "isa"
+8 4 0.1666667 l "definition"
+4 8 0.6666667 l "definition"
+8 1 0.1666667 l "definition"
+1 8 0.4000000 l "definition"
+8 6 0.1666667 l "definition"
+6 8 0.5000000 l "definition"
+9 2 0.1666667 l "definition"
+2 9 0.4000000 l "definition"
+9 7 0.1666667 l "definition"
+7 9 0.5000000 l "definition"
+9 5 0.1666667 l "definition"
+5 9 0.6666667 l "definition"
+14 23 0.0476190 l "definition"
+23 14 0.3333333 l "definition"
+14 24 0.0476190 l "definition"
+24 14 0.3333333 l "definition"
+14 25 0.0476190 l "definition"
+25 14 0.3333333 l "definition"
+14 26 0.0476190 l "definition"
+26 14 0.5000000 l "definition"
+1 3 0.2000000 l "substring"
+3 1 0.0434783 l "substring"
+1 6 0.2000000 l "substring"
+6 1 0.2500000 l "substring"
+2 3 0.2000000 l "substring"
+3 2 0.0434783 l "substring"
+2 7 0.2000000 l "substring"
+7 2 0.2500000 l "substring"
+3 6 0.0434783 l "substring"
+6 3 0.2500000 l "substring"
+3 7 0.0434783 l "substring"
+7 3 0.2500000 l "substring"
+3 11 0.0434783 l "substring"
+11 3 0.3333333 l "substring"
+3 16 0.0434783 l "substring"
+16 3 0.3333333 l "substring"
+3 17 0.0434783 l "substring"
+17 3 0.0833333 l "substring"
+3 18 0.0434783 l "substring"
+18 3 0.1666667 l "substring"
+3 19 0.0434783 l "substring"
+19 3 0.2000000 l "substring"
+3 23 0.0434783 l "substring"
+23 3 0.3333333 l "substring"
+3 25 0.0434783 l "substring"
+25 3 0.3333333 l "substring"
+11 16 0.3333333 l "substring"
+16 11 0.3333333 l "substring"
+12 13 0.2857143 l "substring"
+13 12 1.0000000 l "substring"
+12 21 0.2857143 l "substring"
+21 12 1.0000000 l "substring"
+17 18 0.1666667 l "substring"
+18 17 0.3333333 l "substring"
+17 19 0.1666667 l "substring"
+19 17 0.4000000 l "substring"
+18 24 0.1666667 l "substring"
+24 18 0.3333333 l "substring"
+1 25 0.2000000 l "distance"
+25 1 0.3333333 l "distance"
+2 23 0.2000000 l "distance"
+23 2 0.3333333 l "distance"
+4 24 0.3333333 l "distance"
+24 4 0.3333333 l "distance"
+5 26 0.3333333 l "distance"
+26 5 0.5000000 l "distance"
+*Edges

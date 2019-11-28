@@ -1,0 +1,9 @@
+*Vertices 2
+1 "costa" ellipse
+2 "root" ellipse
+*Arcs
+1 2 0.1336281 l "distance"
+2 1 0.2642580 l "distance"
+1 2 0.1336281 l "distance"
+2 1 0.2642580 l "distance"
+*Edges

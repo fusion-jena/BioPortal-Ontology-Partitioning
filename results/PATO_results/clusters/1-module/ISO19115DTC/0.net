@@ -1,0 +1,56 @@
+*Vertices 17
+1 "last Revision" ellipse
+2 "last Update" ellipse
+3 "next Update" ellipse
+4 "revision" ellipse
+5 "CI_DateTypeCode" ellipse
+6 "adopted" ellipse
+7 "creation" ellipse
+8 "deprecated" ellipse
+9 "distribution" ellipse
+10 "expiry" ellipse
+11 "in Force" ellipse
+12 "publication" ellipse
+13 "released" ellipse
+14 "superseded" ellipse
+15 "unavailable" ellipse
+16 "validity Begins" ellipse
+17 "validity Expires" ellipse
+*Arcs
+6 5 1.0000000 l "isa"
+5 6 0.0588235 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.0588235 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.0588235 l "isa"
+9 5 1.0000000 l "isa"
+5 9 0.0588235 l "isa"
+10 5 1.0000000 l "isa"
+5 10 0.0588235 l "isa"
+11 5 1.0000000 l "isa"
+5 11 0.0588235 l "isa"
+1 5 0.5000000 l "isa"
+5 1 0.0588235 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.0588235 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.0588235 l "isa"
+12 5 1.0000000 l "isa"
+5 12 0.0588235 l "isa"
+13 5 1.0000000 l "isa"
+5 13 0.0588235 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.0588235 l "isa"
+14 5 1.0000000 l "isa"
+5 14 0.0588235 l "isa"
+15 5 1.0000000 l "isa"
+5 15 0.0588235 l "isa"
+16 5 1.0000000 l "isa"
+5 16 0.0588235 l "isa"
+17 5 1.0000000 l "isa"
+5 17 0.0588235 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.5000000 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

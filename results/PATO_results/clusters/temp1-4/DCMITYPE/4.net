@@ -1,0 +1,60 @@
+*Vertices 9
+1 "averageSpeedPace" ellipse
+2 "duration" ellipse
+3 "efficiency" ellipse
+4 "estamatedIntensityFactor" ellipse
+5 "estimatedTrainingStessScore" ellipse
+6 "inactive" ellipse
+7 "maxSpeedBestPace" ellipse
+8 "percentActive" ellipse
+9 "physicalActivityPerformance" ellipse
+*Arcs
+1 9 0.2388961 l "isa"
+9 1 0.0908046 l "isa"
+2 9 0.2388961 l "isa"
+9 2 0.0908046 l "isa"
+3 9 0.2388961 l "isa"
+9 3 0.0908046 l "isa"
+4 9 0.2388961 l "isa"
+9 4 0.0908046 l "isa"
+5 9 0.2388961 l "isa"
+9 5 0.0908046 l "isa"
+6 9 0.2388961 l "isa"
+9 6 0.0908046 l "isa"
+7 9 0.2388961 l "isa"
+9 7 0.0908046 l "isa"
+8 9 0.2388961 l "isa"
+9 8 0.0908046 l "isa"
+1 9 0.2388961 l "isa"
+9 1 0.0908046 l "isa"
+2 9 0.2388961 l "isa"
+9 2 0.0908046 l "isa"
+3 9 0.2388961 l "isa"
+9 3 0.0908046 l "isa"
+4 9 0.2388961 l "isa"
+9 4 0.0908046 l "isa"
+5 9 0.2388961 l "isa"
+9 5 0.0908046 l "isa"
+6 9 0.2388961 l "isa"
+9 6 0.0908046 l "isa"
+7 9 0.2388961 l "isa"
+9 7 0.0908046 l "isa"
+8 9 0.2388961 l "isa"
+9 8 0.0908046 l "isa"
+1 9 0.2388961 l "isa"
+9 1 0.0908046 l "isa"
+2 9 0.2388961 l "isa"
+9 2 0.0908046 l "isa"
+3 9 0.2388961 l "isa"
+9 3 0.0908046 l "isa"
+4 9 0.2388961 l "isa"
+9 4 0.0908046 l "isa"
+5 9 0.2388961 l "isa"
+9 5 0.0908046 l "isa"
+6 9 0.2388961 l "isa"
+9 6 0.0908046 l "isa"
+7 9 0.2388961 l "isa"
+9 7 0.0908046 l "isa"
+8 9 0.2388961 l "isa"
+9 8 0.0908046 l "isa"
+*Edges

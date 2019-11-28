@@ -1,0 +1,21 @@
+*Vertices 2
+1 "serous cell" ellipse
+2 "serous cell" ellipse
+*Arcs
+1 2 0.3679890 l "substring"
+2 1 0.5177260 l "substring"
+1 2 0.3679890 l "distance"
+2 1 0.5177260 l "distance"
+1 2 0.3679890 l "substring"
+2 1 0.5177260 l "substring"
+1 2 0.3679890 l "distance"
+2 1 0.5177260 l "distance"
+1 2 0.3679890 l "substring"
+2 1 0.5177260 l "substring"
+1 2 0.3679890 l "distance"
+2 1 0.5177260 l "distance"
+1 2 0.3679890 l "substring"
+2 1 0.5177260 l "substring"
+1 2 0.3679890 l "distance"
+2 1 0.5177260 l "distance"
+*Edges

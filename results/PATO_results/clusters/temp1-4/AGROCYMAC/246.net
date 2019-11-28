@@ -1,0 +1,11 @@
+*Vertices 2
+1 "interpolation" ellipse
+2 "interpolation role" ellipse
+*Arcs
+1 2 0.1348115 l "substring"
+2 1 0.2230014 l "substring"
+1 2 0.1348115 l "substring"
+2 1 0.2230014 l "substring"
+1 2 0.1348115 l "substring"
+2 1 0.2230014 l "substring"
+*Edges

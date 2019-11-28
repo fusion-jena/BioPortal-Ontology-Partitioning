@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Lacombe" ellipse
+2 "Lacaune" ellipse
+*Arcs
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+1 2 0.4526975 l "distance"
+2 1 0.5469025 l "distance"
+*Edges

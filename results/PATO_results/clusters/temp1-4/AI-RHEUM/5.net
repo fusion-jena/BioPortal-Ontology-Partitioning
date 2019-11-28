@@ -1,0 +1,9 @@
+*Vertices 2
+1 "MFHED" ellipse
+2 "ORBED" ellipse
+*Arcs
+2 1 0.1111111 l "isa"
+1 2 0.0487805 l "isa"
+1 2 0.0487805 l "distance"
+2 1 0.1111111 l "distance"
+*Edges

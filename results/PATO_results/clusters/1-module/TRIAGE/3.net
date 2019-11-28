@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Interdependent_Nursing_Role" ellipse
+2 "Triage_Nurse" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.2500000 l "isa"
+2 1 0.2500000 l "has"
+1 2 0.5000000 l "has"
+*Edges

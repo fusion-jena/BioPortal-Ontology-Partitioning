@@ -1,0 +1,11 @@
+*Vertices 2
+1 "cell counter result" ellipse
+2 "cell counter result datum" ellipse
+*Arcs
+1 2 0.1500717 l "substring"
+2 1 0.0883242 l "substring"
+1 2 0.1500717 l "substring"
+2 1 0.0883242 l "substring"
+1 2 0.1500717 l "substring"
+2 1 0.0883242 l "substring"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "DBC1" ellipse
+2 "DOCK10" ellipse
+3 "Sox-10" ellipse
+*Arcs
+1 2 0.0243902 l "distance"
+2 1 0.5000000 l "distance"
+2 3 0.5000000 l "distance"
+3 2 0.1428571 l "distance"
+*Edges

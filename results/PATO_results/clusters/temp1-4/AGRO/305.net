@@ -1,0 +1,9 @@
+*Vertices 2
+1 "geographic feature" ellipse
+2 "hydroform" ellipse
+*Arcs
+2 1 0.2000000 l "isa"
+1 2 0.1052632 l "isa"
+2 1 0.2000000 l "definition"
+1 2 0.1052632 l "definition"
+*Edges

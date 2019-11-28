@@ -1,0 +1,46 @@
+*Vertices 7
+1 "Breed" ellipse
+2 "Cattle crossbreed" ellipse
+3 "Chicken crossbreed" ellipse
+4 "Goat crossbreed" ellipse
+5 "Horse crossbreed" ellipse
+6 "Pig crossbreed" ellipse
+7 "Sheep crossbreed" ellipse
+*Arcs
+1 2 0.0476505 l "substring"
+2 1 0.5075040 l "substring"
+1 3 0.0476195 l "substring"
+3 1 0.5055460 l "substring"
+1 4 0.0476274 l "substring"
+4 1 0.5059502 l "substring"
+1 5 0.0476483 l "substring"
+5 1 0.5073713 l "substring"
+1 6 0.0476241 l "substring"
+6 1 0.5058087 l "substring"
+1 7 0.0476500 l "substring"
+7 1 0.5074765 l "substring"
+1 2 0.0476505 l "substring"
+2 1 0.5075040 l "substring"
+1 3 0.0476195 l "substring"
+3 1 0.5055460 l "substring"
+1 4 0.0476274 l "substring"
+4 1 0.5059502 l "substring"
+1 5 0.0476483 l "substring"
+5 1 0.5073713 l "substring"
+1 6 0.0476241 l "substring"
+6 1 0.5058087 l "substring"
+1 7 0.0476500 l "substring"
+7 1 0.5074765 l "substring"
+1 2 0.0476505 l "substring"
+2 1 0.5075040 l "substring"
+1 3 0.0476195 l "substring"
+3 1 0.5055460 l "substring"
+1 4 0.0476274 l "substring"
+4 1 0.5059502 l "substring"
+1 5 0.0476483 l "substring"
+5 1 0.5073713 l "substring"
+1 6 0.0476241 l "substring"
+6 1 0.5058087 l "substring"
+1 7 0.0476500 l "substring"
+7 1 0.5074765 l "substring"
+*Edges

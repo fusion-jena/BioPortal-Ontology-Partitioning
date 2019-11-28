@@ -1,0 +1,10 @@
+*Vertices 3
+1 "symbol" ellipse
+2 "IAO_0000030" ellipse
+3 "version number" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.5000000 l "isa"
+*Edges

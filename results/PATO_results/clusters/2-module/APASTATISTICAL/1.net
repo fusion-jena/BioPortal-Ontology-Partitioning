@@ -1,0 +1,111 @@
+*Vertices 36
+1 "Biased_Sampling" ellipse
+2 "Binomial_Distribution" ellipse
+3 "Chaos_Theory" ellipse
+4 "Classical_Test_Theory" ellipse
+5 "Conjoint_Measurement" ellipse
+6 "Cutting_Scores" ellipse
+7 "Data_Collection" ellipse
+8 "Data_Processing" ellipse
+9 "Double_Bind_Interaction" ellipse
+10 "Empirical_Methods" ellipse
+11 "Experiment_Controls" ellipse
+12 "Experimental_Replication" ellipse
+13 "Experimental_Subjects" ellipse
+14 "Experimentation" ellipse
+15 "Experimenter_Bias" ellipse
+16 "Followup_Studies" ellipse
+17 "Frequency_Distribution" ellipse
+18 "Halo_Effect" ellipse
+19 "Knowledge_of_Results" ellipse
+20 "Longitudinal_Studies" ellipse
+21 "Methodology" ellipse
+22 "Normal_Distribution" ellipse
+23 "Null_Hypothesis_Testing" ellipse
+24 "Prediction_Errors" ellipse
+25 "Qualitative_Research" ellipse
+26 "Quantitative_Methods" ellipse
+27 "Quasi_Experimental_Methods" ellipse
+28 "Random_Sampling" ellipse
+29 "Research_Setting" ellipse
+30 "Sample_Size" ellipse
+31 "Skewed_Distribution" ellipse
+32 "Statistical_Sample_Parameters" ellipse
+33 "Consistency_(Measurement)" ellipse
+34 "Effect_Size_(Statistical)" ellipse
+35 "Sampling_(Experimental)" ellipse
+36 "StatisticalTheoryExperimentation" ellipse
+*Arcs
+1 36 1.0000000 l "isa"
+36 1 0.0217391 l "isa"
+2 36 1.0000000 l "isa"
+36 2 0.0217391 l "isa"
+3 36 1.0000000 l "isa"
+36 3 0.0217391 l "isa"
+4 36 1.0000000 l "isa"
+36 4 0.0217391 l "isa"
+5 36 1.0000000 l "isa"
+36 5 0.0217391 l "isa"
+6 36 1.0000000 l "isa"
+36 6 0.0217391 l "isa"
+7 36 1.0000000 l "isa"
+36 7 0.0217391 l "isa"
+8 36 1.0000000 l "isa"
+36 8 0.0217391 l "isa"
+9 36 1.0000000 l "isa"
+36 9 0.0217391 l "isa"
+10 36 1.0000000 l "isa"
+36 10 0.0217391 l "isa"
+11 36 1.0000000 l "isa"
+36 11 0.0217391 l "isa"
+12 36 1.0000000 l "isa"
+36 12 0.0217391 l "isa"
+13 36 1.0000000 l "isa"
+36 13 0.0217391 l "isa"
+14 36 1.0000000 l "isa"
+36 14 0.0434783 l "isa"
+15 36 1.0000000 l "isa"
+36 15 0.0217391 l "isa"
+16 36 1.0000000 l "isa"
+36 16 0.0217391 l "isa"
+17 36 1.0000000 l "isa"
+36 17 0.0217391 l "isa"
+18 36 1.0000000 l "isa"
+36 18 0.0217391 l "isa"
+19 36 1.0000000 l "isa"
+36 19 0.0217391 l "isa"
+20 36 1.0000000 l "isa"
+36 20 0.0217391 l "isa"
+21 36 1.0000000 l "isa"
+36 21 0.0217391 l "isa"
+22 36 1.0000000 l "isa"
+36 22 0.0217391 l "isa"
+23 36 1.0000000 l "isa"
+36 23 0.0217391 l "isa"
+24 36 1.0000000 l "isa"
+36 24 0.0217391 l "isa"
+25 36 1.0000000 l "isa"
+36 25 0.0217391 l "isa"
+26 36 1.0000000 l "isa"
+36 26 0.0217391 l "isa"
+27 36 1.0000000 l "isa"
+36 27 0.0217391 l "isa"
+28 36 1.0000000 l "isa"
+36 28 0.0217391 l "isa"
+29 36 1.0000000 l "isa"
+36 29 0.0217391 l "isa"
+30 36 1.0000000 l "isa"
+36 30 0.0217391 l "isa"
+31 36 1.0000000 l "isa"
+36 31 0.0217391 l "isa"
+32 36 1.0000000 l "isa"
+36 32 0.0217391 l "isa"
+33 36 1.0000000 l "isa"
+36 33 0.0217391 l "isa"
+34 36 1.0000000 l "isa"
+36 34 0.0217391 l "isa"
+35 36 1.0000000 l "isa"
+36 35 0.0217391 l "isa"
+14 36 1.0000000 l "substring"
+36 14 0.0434783 l "substring"
+*Edges

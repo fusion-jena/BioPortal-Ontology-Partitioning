@@ -1,0 +1,7 @@
+*Vertices 2
+1 "thermometer" ellipse
+2 "measurement device" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1250000 l "isa"
+*Edges

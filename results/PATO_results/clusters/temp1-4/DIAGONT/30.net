@@ -1,0 +1,31 @@
+*Vertices 4
+1 "DDANAT_0000001" ellipse
+2 "DDANAT_0000081" ellipse
+3 "DDANAT_0000082" ellipse
+4 "DDANAT_0000085" ellipse
+*Arcs
+1 2 0.1293616 l "distance"
+2 1 0.1293616 l "distance"
+1 3 0.1293616 l "distance"
+3 1 0.1293616 l "distance"
+1 4 0.1293616 l "distance"
+4 1 0.1293616 l "distance"
+2 3 0.1293616 l "distance"
+3 2 0.1293616 l "distance"
+2 4 0.1293616 l "distance"
+4 2 0.1293616 l "distance"
+3 4 0.1293616 l "distance"
+4 3 0.1293616 l "distance"
+1 2 0.1293616 l "distance"
+2 1 0.1293616 l "distance"
+1 3 0.1293616 l "distance"
+3 1 0.1293616 l "distance"
+1 4 0.1293616 l "distance"
+4 1 0.1293616 l "distance"
+2 3 0.1293616 l "distance"
+3 2 0.1293616 l "distance"
+2 4 0.1293616 l "distance"
+4 2 0.1293616 l "distance"
+3 4 0.1293616 l "distance"
+4 3 0.1293616 l "distance"
+*Edges

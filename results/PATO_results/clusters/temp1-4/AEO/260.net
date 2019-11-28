@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Age specific mortality rate" ellipse
+2 "Cause specific mortality rate" ellipse
+3 "Race specific mortality rate" ellipse
+4 "Sex specific mortality rate" ellipse
+*Arcs
+1 2 0.1093161 l "distance"
+2 1 0.1510695 l "distance"
+1 3 0.1062517 l "distance"
+3 1 0.1175682 l "distance"
+1 4 0.1097463 l "distance"
+4 1 0.1549008 l "distance"
+2 3 0.1524959 l "distance"
+3 2 0.1221010 l "distance"
+1 2 0.1093161 l "distance"
+2 1 0.1510695 l "distance"
+1 3 0.1062517 l "distance"
+3 1 0.1175682 l "distance"
+1 4 0.1097463 l "distance"
+4 1 0.1549008 l "distance"
+2 3 0.1524959 l "distance"
+3 2 0.1221010 l "distance"
+1 2 0.1093161 l "distance"
+2 1 0.1510695 l "distance"
+1 3 0.1062517 l "distance"
+3 1 0.1175682 l "distance"
+1 4 0.1097463 l "distance"
+4 1 0.1549008 l "distance"
+2 3 0.1524959 l "distance"
+3 2 0.1221010 l "distance"
+*Edges

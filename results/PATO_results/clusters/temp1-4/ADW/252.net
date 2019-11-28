@@ -1,0 +1,9 @@
+*Vertices 2
+1 "t-tau" ellipse
+2 "t-tau/Amyloid beta 42" ellipse
+*Arcs
+1 2 0.1310412 l "substring"
+2 1 0.1314300 l "substring"
+1 2 0.1310412 l "substring"
+2 1 0.1314300 l "substring"
+*Edges

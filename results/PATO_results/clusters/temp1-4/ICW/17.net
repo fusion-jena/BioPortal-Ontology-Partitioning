@@ -1,0 +1,43 @@
+*Vertices 4
+1 "continuant" ellipse
+2 "independent continuant" ellipse
+3 "specifically dependent continuant" ellipse
+4 "generically dependent continuant" ellipse
+*Arcs
+2 1 0.5627776 l "isa"
+1 2 0.2038409 l "isa"
+3 1 0.5539669 l "isa"
+1 3 0.2032226 l "isa"
+4 1 0.7313603 l "isa"
+1 4 0.2251328 l "isa"
+1 2 0.2038409 l "substring"
+2 1 0.5627776 l "substring"
+1 3 0.2032226 l "substring"
+3 1 0.5539669 l "substring"
+1 4 0.2251328 l "substring"
+4 1 0.7313603 l "substring"
+2 1 0.5627776 l "isa"
+1 2 0.2038409 l "isa"
+3 1 0.5539669 l "isa"
+1 3 0.2032226 l "isa"
+4 1 0.7313603 l "isa"
+1 4 0.2251328 l "isa"
+1 2 0.2038409 l "substring"
+2 1 0.5627776 l "substring"
+1 3 0.2032226 l "substring"
+3 1 0.5539669 l "substring"
+1 4 0.2251328 l "substring"
+4 1 0.7313603 l "substring"
+2 1 0.5627776 l "isa"
+1 2 0.2038409 l "isa"
+3 1 0.5539669 l "isa"
+1 3 0.2032226 l "isa"
+4 1 0.7313603 l "isa"
+1 4 0.2251328 l "isa"
+1 2 0.2038409 l "substring"
+2 1 0.5627776 l "substring"
+1 3 0.2032226 l "substring"
+3 1 0.5539669 l "substring"
+1 4 0.2251328 l "substring"
+4 1 0.7313603 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Melange" ellipse
+2 "Molasse" ellipse
+*Arcs
+1 2 0.5373135 l "distance"
+2 1 0.5142857 l "distance"
+1 2 0.5373135 l "distance"
+2 1 0.5142857 l "distance"
+*Edges

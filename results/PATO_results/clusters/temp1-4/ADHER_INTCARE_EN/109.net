@@ -1,0 +1,48 @@
+*Vertices 5
+1 "one_dimensional_region" ellipse
+2 "spatial_region" ellipse
+3 "three_dimensional_region" ellipse
+4 "two_dimensional_region" ellipse
+5 "zero_dimensional_region" ellipse
+*Arcs
+1 2 0.6868687 l "isa"
+2 1 0.1780588 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1990069 l "isa"
+4 2 0.5079365 l "isa"
+2 4 0.1675847 l "isa"
+5 2 0.6868687 l "isa"
+2 5 0.1780588 l "isa"
+2 1 0.1780588 l "definition"
+1 2 0.6868687 l "definition"
+2 3 0.1990069 l "definition"
+3 2 1.0000000 l "definition"
+2 4 0.1675847 l "definition"
+4 2 0.5079365 l "definition"
+2 5 0.1780588 l "definition"
+5 2 0.6868687 l "definition"
+1 4 0.3131313 l "distance"
+4 1 0.2460318 l "distance"
+4 5 0.2460318 l "distance"
+5 4 0.3131313 l "distance"
+1 2 0.6868687 l "isa"
+2 1 0.1780588 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1990069 l "isa"
+4 2 0.5079365 l "isa"
+2 4 0.1675847 l "isa"
+5 2 0.6868687 l "isa"
+2 5 0.1780588 l "isa"
+2 1 0.1780588 l "definition"
+1 2 0.6868687 l "definition"
+2 3 0.1990069 l "definition"
+3 2 1.0000000 l "definition"
+2 4 0.1675847 l "definition"
+4 2 0.5079365 l "definition"
+2 5 0.1780588 l "definition"
+5 2 0.6868687 l "definition"
+1 4 0.3131313 l "distance"
+4 1 0.2460318 l "distance"
+4 5 0.2460318 l "distance"
+5 4 0.3131313 l "distance"
+*Edges

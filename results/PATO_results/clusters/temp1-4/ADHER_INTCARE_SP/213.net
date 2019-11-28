@@ -1,0 +1,30 @@
+*Vertices 3
+1 "MesenteryOfLargeIntestine" ellipse
+2 "PeritonealMesentery" ellipse
+3 "RegionOfVisceralPeritoneum" ellipse
+*Arcs
+1 2 0.3835125 l "isa"
+2 1 0.4086180 l "isa"
+2 3 0.3591803 l "isa"
+3 2 0.2649949 l "isa"
+1 2 0.3835125 l "isa"
+2 1 0.4086180 l "isa"
+2 3 0.3591803 l "isa"
+3 2 0.2649949 l "isa"
+1 2 0.3835125 l "isa"
+2 1 0.4086180 l "isa"
+2 3 0.3591803 l "isa"
+3 2 0.2649949 l "isa"
+1 2 0.3835125 l "isa"
+2 1 0.4086180 l "isa"
+2 3 0.3591803 l "isa"
+3 2 0.2649949 l "isa"
+1 2 0.3835125 l "isa"
+2 1 0.4086180 l "isa"
+2 3 0.3591803 l "isa"
+3 2 0.2649949 l "isa"
+1 2 0.3835125 l "isa"
+2 1 0.4086180 l "isa"
+2 3 0.3591803 l "isa"
+3 2 0.2649949 l "isa"
+*Edges

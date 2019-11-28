@@ -1,0 +1,19 @@
+*Vertices 2
+1 "German Mountain" ellipse
+2 "Yemen Mountain" ellipse
+*Arcs
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+1 2 0.7324013 l "distance"
+2 1 0.7293178 l "distance"
+*Edges

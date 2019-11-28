@@ -1,0 +1,17 @@
+*Vertices 2
+1 "pump" ellipse
+2 "to pump" ellipse
+*Arcs
+1 2 0.0729799 l "substring"
+2 1 0.4215962 l "substring"
+1 2 0.0729799 l "distance"
+2 1 0.4215962 l "distance"
+1 2 0.0729799 l "substring"
+2 1 0.4215962 l "substring"
+1 2 0.0729799 l "distance"
+2 1 0.4215962 l "distance"
+1 2 0.0729799 l "substring"
+2 1 0.4215962 l "substring"
+1 2 0.0729799 l "distance"
+2 1 0.4215962 l "distance"
+*Edges

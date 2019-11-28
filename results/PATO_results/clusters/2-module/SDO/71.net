@@ -1,0 +1,18 @@
+*Vertices 3
+1 "NREM sleep arousal index" ellipse
+2 "REM sleep arousal index" ellipse
+3 "Sleep arousal index" ellipse
+*Arcs
+1 3 0.2500000 l "isa"
+3 1 0.1176471 l "isa"
+2 3 0.2500000 l "isa"
+3 2 0.1176471 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 0.1176471 l "substring"
+2 3 0.2500000 l "substring"
+3 2 0.1176471 l "substring"
+1 2 0.2500000 l "distance"
+2 1 0.2500000 l "distance"
+*Edges

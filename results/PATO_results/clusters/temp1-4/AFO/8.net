@@ -1,0 +1,502 @@
+*Vertices 123
+1 "collection" ellipse
+2 "plumbing equipment" ellipse
+3 "diode array detector" ellipse
+4 "electromagnetic radiation source" ellipse
+5 "detector" ellipse
+6 "device" ellipse
+7 "data acquisition device" ellipse
+8 "splitter" ellipse
+9 "ion detector" ellipse
+10 "cooling device" ellipse
+11 "heating device" ellipse
+12 "computer" ellipse
+13 "optical device" ellipse
+14 "excimer lamp" ellipse
+15 "UV lamp" ellipse
+16 "visible lamp" ellipse
+17 "deuterium lamp" ellipse
+18 "fibrette" ellipse
+19 "fibrette coupler" ellipse
+20 "lamp" ellipse
+21 "artifact" ellipse
+22 "needle" ellipse
+23 "input device" ellipse
+24 "separation device" ellipse
+25 "separation column" ellipse
+26 "transferring device" ellipse
+27 "collecting device" ellipse
+28 "injection device component" ellipse
+29 "to separate material" ellipse
+30 "to transmit energy" ellipse
+31 "to communicate" ellipse
+32 "to filter material" ellipse
+33 "to transport" ellipse
+34 "to transfer" ellipse
+35 "material" ellipse
+36 "natural material" ellipse
+37 "energy" ellipse
+38 "thermal energy" ellipse
+39 "mechanic translational energy" ellipse
+40 "chemical energy" ellipse
+41 "electrical energy" ellipse
+42 "mechanic rotational energy" ellipse
+43 "hydraulic energy" ellipse
+44 "pneumatic energy" ellipse
+45 "information process" ellipse
+46 "calorimetry" ellipse
+47 "spectra combination" ellipse
+48 "detecting" ellipse
+49 "integration" ellipse
+50 "electroporation" ellipse
+51 "differentiation" ellipse
+52 "Fourier transformation" ellipse
+53 "passaging" ellipse
+54 "separation method-detection method" ellipse
+55 "data apodization" ellipse
+56 "ion detection" ellipse
+57 "calculation" ellipse
+58 "ratio calculation" ellipse
+59 "relative retention calculation" ellipse
+60 "transferring" ellipse
+61 "transmitting energy" ellipse
+62 "communicating" ellipse
+63 "melting" ellipse
+64 "combining" ellipse
+65 "image analysis" ellipse
+66 "data collection" ellipse
+67 "ordering data" ellipse
+68 "data transformation" ellipse
+69 "assigning" ellipse
+70 "peak identification" ellipse
+71 "peak detection" ellipse
+72 "submitting" ellipse
+73 "summarizing" ellipse
+74 "ratio" ellipse
+75 "dilution ratio" ellipse
+76 "diastereomeric ratio" ellipse
+77 "enantiomeric ratio" ellipse
+78 "Auger spectrum" ellipse
+79 "differential scanning calorimetry curve" ellipse
+80 "microwave spectrum" ellipse
+81 "conversion spectrum" ellipse
+82 "circular dichroism spectrum" ellipse
+83 "spectrum" ellipse
+84 "voltammogram" ellipse
+85 "gamma-ray spectrum" ellipse
+86 "adsorption-desorption isotherm" ellipse
+87 "absorption spectrum" ellipse
+88 "nuclear magnetic resonance spectrum" ellipse
+89 "optical extinction spectrum" ellipse
+90 "atomic spectrum" ellipse
+91 "inelastic tunneling spectrum" ellipse
+92 "melting curve" ellipse
+93 "flow curve" ellipse
+94 "X-ray spectrum" ellipse
+95 "beta-particle spectrum" ellipse
+96 "Tauc plot" ellipse
+97 "peak" ellipse
+98 "electromagnetic radiation spectrum" ellipse
+99 "titration curve" ellipse
+100 "luminescence spectrum" ellipse
+101 "Mossbauer spectrum" ellipse
+102 "electronic absorption spectrum" ellipse
+103 "Raman spectrum" ellipse
+104 "unretained peak" ellipse
+105 "level of measurement" ellipse
+106 "nominal scale" ellipse
+107 "ordinal scale" ellipse
+108 "ratio scale" ellipse
+109 "cyclic scale" ellipse
+110 "order" ellipse
+111 "predecessor" ellipse
+112 "successor" ellipse
+113 "peak facet" ellipse
+114 "data distribution function" ellipse
+115 "peak area" ellipse
+116 "peak polarity" ellipse
+117 "selected object role" ellipse
+118 "selected device" ellipse
+119 "sum" ellipse
+120 "submitter" ellipse
+121 "predecessor role" ellipse
+122 "successor role" ellipse
+123 "image" ellipse
+*Arcs
+2 6 1.0000000 l "isa"
+6 2 0.0204082 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.0952381 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.0204082 l "isa"
+5 6 0.0476190 l "isa"
+6 5 0.0204082 l "isa"
+6 21 0.0204082 l "isa"
+21 6 0.5000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0408163 l "isa"
+8 6 0.5000000 l "isa"
+6 8 0.0204082 l "isa"
+9 5 0.6666667 l "isa"
+5 9 0.0952381 l "isa"
+10 6 0.5000000 l "isa"
+6 10 0.0408163 l "isa"
+11 6 0.6666667 l "isa"
+6 11 0.0408163 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.0204082 l "isa"
+13 6 0.5000000 l "isa"
+6 13 0.0408163 l "isa"
+14 15 0.5000000 l "isa"
+15 14 0.2000000 l "isa"
+15 20 0.6000000 l "isa"
+20 15 0.1304348 l "isa"
+16 20 1.0000000 l "isa"
+20 16 0.0869565 l "isa"
+17 15 0.5000000 l "isa"
+15 17 0.2000000 l "isa"
+18 6 0.5000000 l "isa"
+6 18 0.0204082 l "isa"
+19 6 0.5000000 l "isa"
+6 19 0.0204082 l "isa"
+20 4 0.0434783 l "isa"
+4 20 0.5000000 l "isa"
+21 35 0.5000000 l "isa"
+35 21 0.0303030 l "isa"
+22 28 1.0000000 l "isa"
+28 22 0.2500000 l "isa"
+23 6 1.0000000 l "isa"
+6 23 0.0408163 l "isa"
+24 6 0.2857143 l "isa"
+6 24 0.0408163 l "isa"
+25 24 0.5000000 l "isa"
+24 25 0.1428571 l "isa"
+26 6 0.5000000 l "isa"
+6 26 0.0408163 l "isa"
+27 6 0.5000000 l "isa"
+6 27 0.0408163 l "isa"
+28 6 0.5000000 l "isa"
+6 28 0.0408163 l "isa"
+30 34 0.5000000 l "isa"
+34 30 0.2000000 l "isa"
+31 34 1.0000000 l "isa"
+34 31 0.2000000 l "isa"
+32 29 0.5000000 l "isa"
+29 32 0.1111111 l "isa"
+33 34 0.5000000 l "isa"
+34 33 0.4000000 l "isa"
+36 35 0.5000000 l "isa"
+35 36 0.0606061 l "isa"
+38 37 1.0000000 l "isa"
+37 38 0.0769231 l "isa"
+39 37 1.0000000 l "isa"
+37 39 0.0769231 l "isa"
+40 37 1.0000000 l "isa"
+37 40 0.0769231 l "isa"
+41 37 1.0000000 l "isa"
+37 41 0.0769231 l "isa"
+42 37 1.0000000 l "isa"
+37 42 0.0769231 l "isa"
+43 37 1.0000000 l "isa"
+37 43 0.0769231 l "isa"
+44 37 1.0000000 l "isa"
+37 44 0.0769231 l "isa"
+47 64 0.5000000 l "isa"
+64 47 0.1250000 l "isa"
+47 68 0.5000000 l "isa"
+68 47 0.0588235 l "isa"
+49 57 0.5000000 l "isa"
+57 49 0.0833333 l "isa"
+50 60 0.5000000 l "isa"
+60 50 0.0769231 l "isa"
+51 57 1.0000000 l "isa"
+57 51 0.0833333 l "isa"
+52 57 1.0000000 l "isa"
+57 52 0.0833333 l "isa"
+53 60 0.5000000 l "isa"
+60 53 0.0769231 l "isa"
+54 48 0.5000000 l "isa"
+48 54 0.0909091 l "isa"
+55 45 0.5000000 l "isa"
+45 55 0.0714286 l "isa"
+55 68 0.5000000 l "isa"
+68 55 0.0588235 l "isa"
+56 48 0.5000000 l "isa"
+48 56 0.0909091 l "isa"
+57 68 0.0833333 l "isa"
+68 57 0.0588235 l "isa"
+58 57 0.6666667 l "isa"
+57 58 0.1666667 l "isa"
+59 57 1.0000000 l "isa"
+57 59 0.1666667 l "isa"
+61 60 0.5000000 l "isa"
+60 61 0.0769231 l "isa"
+62 45 0.5000000 l "isa"
+45 62 0.0714286 l "isa"
+62 60 0.5000000 l "isa"
+60 62 0.0769231 l "isa"
+65 68 0.5000000 l "isa"
+68 65 0.0588235 l "isa"
+66 68 0.5000000 l "isa"
+68 66 0.0588235 l "isa"
+67 68 0.5000000 l "isa"
+68 67 0.0588235 l "isa"
+68 45 0.0588235 l "isa"
+45 68 0.0714286 l "isa"
+70 69 0.5000000 l "isa"
+69 70 0.1250000 l "isa"
+71 68 0.5000000 l "isa"
+68 71 0.0588235 l "isa"
+72 60 0.5000000 l "isa"
+60 72 0.0769231 l "isa"
+73 68 0.5000000 l "isa"
+68 73 0.0588235 l "isa"
+75 74 0.5000000 l "isa"
+74 75 0.0277778 l "isa"
+76 74 0.6666667 l "isa"
+74 76 0.0277778 l "isa"
+77 74 0.6666667 l "isa"
+74 77 0.0277778 l "isa"
+78 114 0.5000000 l "isa"
+114 78 0.0227273 l "isa"
+79 114 0.5000000 l "isa"
+114 79 0.0227273 l "isa"
+80 114 0.5000000 l "isa"
+114 80 0.0227273 l "isa"
+81 114 0.5000000 l "isa"
+114 81 0.0227273 l "isa"
+82 114 0.5000000 l "isa"
+114 82 0.0227273 l "isa"
+83 114 0.0270270 l "isa"
+114 83 0.0227273 l "isa"
+84 114 1.0000000 l "isa"
+114 84 0.0227273 l "isa"
+85 114 0.5000000 l "isa"
+114 85 0.0227273 l "isa"
+86 114 1.0000000 l "isa"
+114 86 0.0227273 l "isa"
+87 83 0.5000000 l "isa"
+83 87 0.0540541 l "isa"
+88 114 0.5000000 l "isa"
+114 88 0.0227273 l "isa"
+89 114 0.5000000 l "isa"
+114 89 0.0227273 l "isa"
+90 114 0.5000000 l "isa"
+114 90 0.0227273 l "isa"
+91 114 0.5000000 l "isa"
+114 91 0.0227273 l "isa"
+92 114 0.5000000 l "isa"
+114 92 0.0227273 l "isa"
+93 114 1.0000000 l "isa"
+114 93 0.0227273 l "isa"
+94 114 0.5000000 l "isa"
+114 94 0.0227273 l "isa"
+95 114 0.5000000 l "isa"
+114 95 0.0227273 l "isa"
+96 114 1.0000000 l "isa"
+114 96 0.0227273 l "isa"
+98 114 0.5000000 l "isa"
+114 98 0.0227273 l "isa"
+99 114 0.5000000 l "isa"
+114 99 0.0227273 l "isa"
+100 114 0.5000000 l "isa"
+114 100 0.0227273 l "isa"
+101 114 0.5000000 l "isa"
+114 101 0.0227273 l "isa"
+102 87 0.2500000 l "isa"
+87 102 0.5000000 l "isa"
+102 114 0.1250000 l "isa"
+114 102 0.0227273 l "isa"
+103 114 0.5000000 l "isa"
+114 103 0.0227273 l "isa"
+104 97 1.0000000 l "isa"
+97 104 0.0253165 l "isa"
+106 105 0.5000000 l "isa"
+105 106 0.1111111 l "isa"
+107 105 0.5000000 l "isa"
+105 107 0.1111111 l "isa"
+108 105 0.5000000 l "isa"
+105 108 0.1111111 l "isa"
+109 105 1.0000000 l "isa"
+105 109 0.1111111 l "isa"
+111 110 0.5000000 l "isa"
+110 111 0.0769231 l "isa"
+112 110 0.5000000 l "isa"
+110 112 0.0769231 l "isa"
+115 113 0.4000000 l "isa"
+113 115 0.0714286 l "isa"
+116 113 0.5000000 l "isa"
+113 116 0.0357143 l "isa"
+118 117 0.5000000 l "isa"
+117 118 0.2500000 l "isa"
+1 66 0.1111111 l "substring"
+66 1 0.5000000 l "substring"
+3 5 0.5000000 l "substring"
+5 3 0.0952381 l "substring"
+5 9 0.0952381 l "substring"
+9 5 0.6666667 l "substring"
+6 7 0.0408163 l "substring"
+7 6 1.0000000 l "substring"
+6 10 0.0408163 l "substring"
+10 6 0.5000000 l "substring"
+6 11 0.0408163 l "substring"
+11 6 0.6666667 l "substring"
+6 13 0.0408163 l "substring"
+13 6 0.5000000 l "substring"
+6 23 0.0408163 l "substring"
+23 6 1.0000000 l "substring"
+6 24 0.0408163 l "substring"
+24 6 0.2857143 l "substring"
+6 26 0.0408163 l "substring"
+26 6 0.5000000 l "substring"
+6 27 0.0408163 l "substring"
+27 6 0.5000000 l "substring"
+6 28 0.0408163 l "substring"
+28 6 0.5000000 l "substring"
+6 118 0.0204082 l "substring"
+118 6 0.5000000 l "substring"
+14 20 0.5000000 l "substring"
+20 14 0.0434783 l "substring"
+15 20 0.6000000 l "substring"
+20 15 0.1304348 l "substring"
+16 20 1.0000000 l "substring"
+20 16 0.0869565 l "substring"
+17 20 0.5000000 l "substring"
+20 17 0.0434783 l "substring"
+18 19 0.5000000 l "substring"
+19 18 0.5000000 l "substring"
+24 74 0.1428571 l "substring"
+74 24 0.0138889 l "substring"
+25 74 0.5000000 l "substring"
+74 25 0.0138889 l "substring"
+26 60 0.2500000 l "substring"
+60 26 0.0769231 l "substring"
+29 35 0.1111111 l "substring"
+35 29 0.0303030 l "substring"
+30 37 0.5000000 l "substring"
+37 30 0.0384615 l "substring"
+32 35 0.5000000 l "substring"
+35 32 0.0303030 l "substring"
+35 36 0.0606061 l "substring"
+36 35 0.5000000 l "substring"
+37 38 0.0769231 l "substring"
+38 37 1.0000000 l "substring"
+37 39 0.0769231 l "substring"
+39 37 1.0000000 l "substring"
+37 40 0.0769231 l "substring"
+40 37 1.0000000 l "substring"
+37 41 0.0769231 l "substring"
+41 37 1.0000000 l "substring"
+37 42 0.0769231 l "substring"
+42 37 1.0000000 l "substring"
+37 43 0.0769231 l "substring"
+43 37 1.0000000 l "substring"
+37 44 0.0769231 l "substring"
+44 37 1.0000000 l "substring"
+37 61 0.0384615 l "substring"
+61 37 0.5000000 l "substring"
+46 79 0.1428571 l "substring"
+79 46 0.5000000 l "substring"
+49 74 0.5000000 l "substring"
+74 49 0.0138889 l "substring"
+50 74 0.5000000 l "substring"
+74 50 0.0138889 l "substring"
+54 74 0.5000000 l "substring"
+74 54 0.0138889 l "substring"
+57 58 0.1666667 l "substring"
+58 57 0.6666667 l "substring"
+57 59 0.1666667 l "substring"
+59 57 1.0000000 l "substring"
+58 74 0.3333333 l "substring"
+74 58 0.0138889 l "substring"
+63 92 0.0833333 l "substring"
+92 63 0.5000000 l "substring"
+65 123 0.5000000 l "substring"
+123 65 0.1250000 l "substring"
+67 110 0.5000000 l "substring"
+110 67 0.0769231 l "substring"
+70 97 0.5000000 l "substring"
+97 70 0.0126582 l "substring"
+71 97 0.5000000 l "substring"
+97 71 0.0126582 l "substring"
+73 119 0.5000000 l "substring"
+119 73 0.0285714 l "substring"
+74 75 0.0277778 l "substring"
+75 74 0.5000000 l "substring"
+74 76 0.0277778 l "substring"
+76 74 0.6666667 l "substring"
+74 77 0.0277778 l "substring"
+77 74 0.6666667 l "substring"
+74 99 0.0138889 l "substring"
+99 74 0.5000000 l "substring"
+74 108 0.0138889 l "substring"
+108 74 0.5000000 l "substring"
+78 83 0.5000000 l "substring"
+83 78 0.0270270 l "substring"
+80 83 0.5000000 l "substring"
+83 80 0.0270270 l "substring"
+81 83 0.5000000 l "substring"
+83 81 0.0270270 l "substring"
+82 83 0.5000000 l "substring"
+83 82 0.0270270 l "substring"
+83 85 0.0270270 l "substring"
+85 83 0.5000000 l "substring"
+83 87 0.0540541 l "substring"
+87 83 0.5000000 l "substring"
+83 88 0.0270270 l "substring"
+88 83 0.5000000 l "substring"
+83 89 0.0270270 l "substring"
+89 83 0.5000000 l "substring"
+83 90 0.0270270 l "substring"
+90 83 0.5000000 l "substring"
+83 91 0.0270270 l "substring"
+91 83 0.5000000 l "substring"
+83 94 0.0270270 l "substring"
+94 83 0.5000000 l "substring"
+83 95 0.0270270 l "substring"
+95 83 0.5000000 l "substring"
+83 98 0.0270270 l "substring"
+98 83 0.5000000 l "substring"
+83 100 0.0270270 l "substring"
+100 83 0.5000000 l "substring"
+83 101 0.0270270 l "substring"
+101 83 0.5000000 l "substring"
+83 102 0.0270270 l "substring"
+102 83 0.1250000 l "substring"
+83 103 0.0270270 l "substring"
+103 83 0.5000000 l "substring"
+87 102 0.5000000 l "substring"
+102 87 0.2500000 l "substring"
+97 104 0.0253165 l "substring"
+104 97 1.0000000 l "substring"
+97 113 0.0126582 l "substring"
+113 97 0.0357143 l "substring"
+97 115 0.0126582 l "substring"
+115 97 0.2000000 l "substring"
+97 116 0.0126582 l "substring"
+116 97 0.5000000 l "substring"
+111 121 0.5000000 l "substring"
+121 111 0.3333333 l "substring"
+112 122 0.5000000 l "substring"
+122 112 0.3333333 l "substring"
+5 48 0.0476190 l "distance"
+48 5 0.0909091 l "distance"
+8 120 0.5000000 l "distance"
+120 8 0.2500000 l "distance"
+9 56 0.3333333 l "distance"
+56 9 0.5000000 l "distance"
+15 20 0.6000000 l "distance"
+20 15 0.1304348 l "distance"
+20 119 0.0434783 l "distance"
+119 20 0.0285714 l "distance"
+33 34 0.5000000 l "distance"
+34 33 0.4000000 l "distance"
+53 69 0.5000000 l "distance"
+69 53 0.1250000 l "distance"
+72 120 0.5000000 l "distance"
+120 72 0.2500000 l "distance"
+106 107 0.5000000 l "distance"
+107 106 0.5000000 l "distance"
+113 115 0.0714286 l "distance"
+115 113 0.4000000 l "distance"
+*Edges

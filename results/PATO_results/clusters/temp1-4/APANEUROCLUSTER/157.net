@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hysterical_Paralysis" ellipse
+2 "Paralysis" ellipse
+*Arcs
+1 2 0.3952401 l "substring"
+2 1 0.3216213 l "substring"
+1 2 0.3952401 l "substring"
+2 1 0.3216213 l "substring"
+1 2 0.3952401 l "substring"
+2 1 0.3216213 l "substring"
+*Edges

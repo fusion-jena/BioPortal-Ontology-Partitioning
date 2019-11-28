@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Comorbidity" ellipse
+2 "Morbidity" ellipse
+3 "Premorbidity" ellipse
+*Arcs
+1 2 0.5921845 l "substring"
+2 1 0.4346735 l "substring"
+2 3 0.4346735 l "substring"
+3 2 0.5921845 l "substring"
+1 2 0.5921845 l "distance"
+2 1 0.4346735 l "distance"
+1 3 0.2215905 l "distance"
+3 1 0.2215905 l "distance"
+2 3 0.4346735 l "distance"
+3 2 0.5921845 l "distance"
+1 2 0.5921845 l "substring"
+2 1 0.4346735 l "substring"
+2 3 0.4346735 l "substring"
+3 2 0.5921845 l "substring"
+1 2 0.5921845 l "distance"
+2 1 0.4346735 l "distance"
+1 3 0.2215905 l "distance"
+3 1 0.2215905 l "distance"
+2 3 0.4346735 l "distance"
+3 2 0.5921845 l "distance"
+1 2 0.5921845 l "substring"
+2 1 0.4346735 l "substring"
+2 3 0.4346735 l "substring"
+3 2 0.5921845 l "substring"
+1 2 0.5921845 l "distance"
+2 1 0.4346735 l "distance"
+1 3 0.2215905 l "distance"
+3 1 0.2215905 l "distance"
+2 3 0.4346735 l "distance"
+3 2 0.5921845 l "distance"
+*Edges

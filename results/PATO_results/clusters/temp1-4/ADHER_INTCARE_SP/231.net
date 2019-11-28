@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Pelvis" ellipse
+2 "Sepsis" ellipse
+*Arcs
+1 2 0.2353629 l "distance"
+2 1 0.3075674 l "distance"
+1 2 0.2353629 l "distance"
+2 1 0.3075674 l "distance"
+1 2 0.2353629 l "distance"
+2 1 0.3075674 l "distance"
+1 2 0.2353629 l "distance"
+2 1 0.3075674 l "distance"
+1 2 0.2353629 l "distance"
+2 1 0.3075674 l "distance"
+1 2 0.2353629 l "distance"
+2 1 0.3075674 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "result specification" ellipse
+2 "participant specification" ellipse
+*Arcs
+1 2 0.2866910 l "isa"
+2 1 0.1278913 l "isa"
+1 2 0.2866910 l "isa"
+2 1 0.1278913 l "isa"
+1 2 0.2866910 l "isa"
+2 1 0.1278913 l "isa"
+*Edges

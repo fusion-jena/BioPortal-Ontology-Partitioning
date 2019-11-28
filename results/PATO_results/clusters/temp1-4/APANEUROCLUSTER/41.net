@@ -1,0 +1,49 @@
+*Vertices 6
+1 "SOFT" ellipse
+2 "Computer_Software" ellipse
+3 "Electronic_Commerce" ellipse
+4 "Electronic_Communication" ellipse
+5 "Electronic_Retailing" ellipse
+6 "ComputersMedia" ellipse
+*Arcs
+2 6 0.5361278 l "isa"
+6 2 0.1546170 l "isa"
+3 6 0.5404043 l "isa"
+6 3 0.1548958 l "isa"
+4 6 0.5404043 l "isa"
+6 4 0.1548958 l "isa"
+5 6 0.5404043 l "isa"
+6 5 0.1548958 l "isa"
+1 2 0.0214176 l "substring"
+2 1 0.4638721 l "substring"
+2 6 0.5361278 l "isa"
+6 2 0.1546170 l "isa"
+3 6 0.5404043 l "isa"
+6 3 0.1548958 l "isa"
+4 6 0.5404043 l "isa"
+6 4 0.1548958 l "isa"
+5 6 0.5404043 l "isa"
+6 5 0.1548958 l "isa"
+1 2 0.0214176 l "substring"
+2 1 0.4638721 l "substring"
+2 6 0.5361278 l "isa"
+6 2 0.1546170 l "isa"
+3 6 0.5404043 l "isa"
+6 3 0.1548958 l "isa"
+4 6 0.5404043 l "isa"
+6 4 0.1548958 l "isa"
+5 6 0.5404043 l "isa"
+6 5 0.1548958 l "isa"
+1 2 0.0214176 l "substring"
+2 1 0.4638721 l "substring"
+2 6 0.5361278 l "isa"
+6 2 0.1546170 l "isa"
+3 6 0.5404043 l "isa"
+6 3 0.1548958 l "isa"
+4 6 0.5404043 l "isa"
+6 4 0.1548958 l "isa"
+5 6 0.5404043 l "isa"
+6 5 0.1548958 l "isa"
+1 2 0.0214176 l "substring"
+2 1 0.4638721 l "substring"
+*Edges

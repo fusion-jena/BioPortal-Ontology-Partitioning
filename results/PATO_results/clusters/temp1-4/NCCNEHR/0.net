@@ -1,0 +1,138 @@
+*Vertices 39
+1 "CancerStaged" ellipse
+2 "DiagnosticImaging" ellipse
+3 "DiagnosticProcedure" ellipse
+4 "DiseaseMilestoneEvent" ellipse
+5 "HereditaryCounselingTesting" ellipse
+6 "HospiceEnrollment" ellipse
+7 "InitialPresentation" ellipse
+8 "PalliativeCareEnrollment" ellipse
+9 "PathologyTumorProfile" ellipse
+10 "RadiationTherapy" ellipse
+11 "Surgery" ellipse
+12 "SurvivorshipCarePlanning" ellipse
+13 "SystemicTherapy" ellipse
+14 "TransplantCellularTherapy" ellipse
+15 "adult" ellipse
+16 "arts_and_entertainment" ellipse
+17 "autos_and_vehicles" ellipse
+18 "beauty_and_fitness" ellipse
+19 "books_and_literature" ellipse
+20 "business_and_industry" ellipse
+21 "career_and_education" ellipse
+22 "computer_and_electronics" ellipse
+23 "finance" ellipse
+24 "food_and_drink" ellipse
+25 "gambling" ellipse
+26 "health" ellipse
+27 "home_and_garden" ellipse
+28 "intention" ellipse
+29 "internet_and_telecom" ellipse
+30 "law_and_government" ellipse
+31 "news_and_media" ellipse
+32 "people_and_society" ellipse
+33 "pets_and_animals" ellipse
+34 "recreation_and_hobbies" ellipse
+35 "reference" ellipse
+36 "science" ellipse
+37 "shopping" ellipse
+38 "sports" ellipse
+39 "travel" ellipse
+*Arcs
+15 28 1.0000000 l "isa"
+28 15 0.0391050 l "isa"
+16 28 1.0000000 l "isa"
+28 16 0.0391050 l "isa"
+17 28 1.0000000 l "isa"
+28 17 0.0391050 l "isa"
+18 28 1.0000000 l "isa"
+28 18 0.0391050 l "isa"
+19 28 1.0000000 l "isa"
+28 19 0.0391050 l "isa"
+20 28 1.0000000 l "isa"
+28 20 0.0391050 l "isa"
+21 28 1.0000000 l "isa"
+28 21 0.0391050 l "isa"
+22 28 1.0000000 l "isa"
+28 22 0.0391050 l "isa"
+23 28 1.0000000 l "isa"
+28 23 0.0391050 l "isa"
+24 28 1.0000000 l "isa"
+28 24 0.0391050 l "isa"
+25 28 1.0000000 l "isa"
+28 25 0.0391050 l "isa"
+26 28 1.0000000 l "isa"
+28 26 0.0391050 l "isa"
+27 28 1.0000000 l "isa"
+28 27 0.0391050 l "isa"
+29 28 1.0000000 l "isa"
+28 29 0.0391050 l "isa"
+30 28 1.0000000 l "isa"
+28 30 0.0391050 l "isa"
+31 28 1.0000000 l "isa"
+28 31 0.0391050 l "isa"
+32 28 1.0000000 l "isa"
+28 32 0.0391050 l "isa"
+33 28 1.0000000 l "isa"
+28 33 0.0391050 l "isa"
+34 28 1.0000000 l "isa"
+28 34 0.0391050 l "isa"
+35 28 1.0000000 l "isa"
+28 35 0.0391050 l "isa"
+36 28 1.0000000 l "isa"
+28 36 0.0391050 l "isa"
+37 28 1.0000000 l "isa"
+28 37 0.0391050 l "isa"
+38 28 1.0000000 l "isa"
+28 38 0.0391050 l "isa"
+39 28 1.0000000 l "isa"
+28 39 0.0391050 l "isa"
+15 28 1.0000000 l "isa"
+28 15 0.0391050 l "isa"
+16 28 1.0000000 l "isa"
+28 16 0.0391050 l "isa"
+17 28 1.0000000 l "isa"
+28 17 0.0391050 l "isa"
+18 28 1.0000000 l "isa"
+28 18 0.0391050 l "isa"
+19 28 1.0000000 l "isa"
+28 19 0.0391050 l "isa"
+20 28 1.0000000 l "isa"
+28 20 0.0391050 l "isa"
+21 28 1.0000000 l "isa"
+28 21 0.0391050 l "isa"
+22 28 1.0000000 l "isa"
+28 22 0.0391050 l "isa"
+23 28 1.0000000 l "isa"
+28 23 0.0391050 l "isa"
+24 28 1.0000000 l "isa"
+28 24 0.0391050 l "isa"
+25 28 1.0000000 l "isa"
+28 25 0.0391050 l "isa"
+26 28 1.0000000 l "isa"
+28 26 0.0391050 l "isa"
+27 28 1.0000000 l "isa"
+28 27 0.0391050 l "isa"
+29 28 1.0000000 l "isa"
+28 29 0.0391050 l "isa"
+30 28 1.0000000 l "isa"
+28 30 0.0391050 l "isa"
+31 28 1.0000000 l "isa"
+28 31 0.0391050 l "isa"
+32 28 1.0000000 l "isa"
+28 32 0.0391050 l "isa"
+33 28 1.0000000 l "isa"
+28 33 0.0391050 l "isa"
+34 28 1.0000000 l "isa"
+28 34 0.0391050 l "isa"
+35 28 1.0000000 l "isa"
+28 35 0.0391050 l "isa"
+36 28 1.0000000 l "isa"
+28 36 0.0391050 l "isa"
+37 28 1.0000000 l "isa"
+28 37 0.0391050 l "isa"
+38 28 1.0000000 l "isa"
+28 38 0.0391050 l "isa"
+39 28 1.0000000 l "isa"
+28 39 0.0391050 l "isa"
+*Edges

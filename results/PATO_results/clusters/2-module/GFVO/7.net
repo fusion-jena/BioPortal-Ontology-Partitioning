@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Catalog" ellipse
+2 "Collection" ellipse
+3 "Contig" ellipse
+4 "Haplotype" ellipse
+5 "Scaffold" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.5000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.2000000 l "isa"
+*Edges

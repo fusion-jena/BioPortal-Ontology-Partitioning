@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Area burned" ellipse
+2 "Fire characteristic" ellipse
+3 "Flame height" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1000000 l "isa"
+*Edges

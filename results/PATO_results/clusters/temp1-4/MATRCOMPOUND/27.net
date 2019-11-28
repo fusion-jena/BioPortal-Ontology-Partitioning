@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Turken" ellipse
+2 "Tarpan" ellipse
+*Arcs
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+1 2 0.5719506 l "distance"
+2 1 0.1534854 l "distance"
+*Edges

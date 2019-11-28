@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Gotland" ellipse
+2 "Gotland" ellipse
+*Arcs
+1 2 0.2067032 l "substring"
+2 1 0.2066964 l "substring"
+1 2 0.2067032 l "distance"
+2 1 0.2066964 l "distance"
+1 2 0.2067032 l "substring"
+2 1 0.2066964 l "substring"
+1 2 0.2067032 l "distance"
+2 1 0.2066964 l "distance"
+1 2 0.2067032 l "substring"
+2 1 0.2066964 l "substring"
+1 2 0.2067032 l "distance"
+2 1 0.2066964 l "distance"
+*Edges

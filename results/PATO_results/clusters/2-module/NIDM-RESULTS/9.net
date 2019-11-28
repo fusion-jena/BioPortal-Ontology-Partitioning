@@ -1,0 +1,47 @@
+*Vertices 12
+1 "Poisson distribution" ellipse
+2 "continuous probability distribution" ellipse
+3 "discrete probability distribution" ellipse
+4 "probability distribution" ellipse
+5 "normal distribution" ellipse
+6 "binomial distribution" ellipse
+7 "Binomial Distribution" ellipse
+8 "Error Distribution" ellipse
+9 "Gaussian Distribution" ellipse
+10 "Non Parametric Distribution" ellipse
+11 "Non Parametric Symmetric Distribution" ellipse
+12 "Poisson Distribution" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.2000000 l "isa"
+2 4 0.6666667 l "isa"
+4 2 0.3333333 l "isa"
+3 4 0.4000000 l "isa"
+4 3 0.3333333 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.3333333 l "isa"
+6 3 0.3333333 l "isa"
+3 6 0.2000000 l "isa"
+7 8 0.3333333 l "isa"
+8 7 0.2000000 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.2000000 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.2000000 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.2000000 l "isa"
+12 8 0.3333333 l "isa"
+8 12 0.2000000 l "isa"
+1 12 0.6666667 l "substring"
+12 1 0.6666667 l "substring"
+2 4 0.6666667 l "substring"
+4 2 0.3333333 l "substring"
+3 4 0.4000000 l "substring"
+4 3 0.3333333 l "substring"
+6 7 0.6666667 l "substring"
+7 6 0.6666667 l "substring"
+1 12 0.6666667 l "distance"
+12 1 0.6666667 l "distance"
+6 7 0.6666667 l "distance"
+7 6 0.6666667 l "distance"
+*Edges

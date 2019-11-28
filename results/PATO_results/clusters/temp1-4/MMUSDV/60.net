@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Argentina" ellipse
+2 "Armenia" ellipse
+*Arcs
+1 2 0.2088227 l "distance"
+2 1 0.1325344 l "distance"
+1 2 0.2088227 l "distance"
+2 1 0.1325344 l "distance"
+*Edges

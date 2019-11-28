@@ -1,0 +1,31 @@
+*Vertices 8
+1 "arteriole endothelium" ellipse
+2 "pulmonary muscular arteriole" ellipse
+3 "subendothelial connective tissue cell" ellipse
+4 "vascular smooth muscle" ellipse
+5 "vasa vasorum" ellipse
+6 "pulmonary muscular arteriole tunica adventitia" ellipse
+7 "pulmonary muscular arteriole tunica intima" ellipse
+8 "pulmonary muscular arteriole tunica media" ellipse
+*Arcs
+6 2 0.6666667 l "isa"
+2 6 0.2857143 l "isa"
+7 2 0.5000000 l "isa"
+2 7 0.2857143 l "isa"
+8 2 0.6666667 l "isa"
+2 8 0.2857143 l "isa"
+1 7 0.1428571 l "definition"
+7 1 0.2500000 l "definition"
+3 7 0.0714286 l "definition"
+7 3 0.2500000 l "definition"
+4 8 0.0769231 l "definition"
+8 4 0.3333333 l "definition"
+5 6 0.2000000 l "definition"
+6 5 0.3333333 l "definition"
+2 6 0.2857143 l "substring"
+6 2 0.6666667 l "substring"
+2 7 0.2857143 l "substring"
+7 2 0.5000000 l "substring"
+2 8 0.2857143 l "substring"
+8 2 0.6666667 l "substring"
+*Edges

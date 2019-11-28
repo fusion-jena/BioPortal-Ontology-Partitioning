@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Pluton" ellipse
+2 "PlutonicRock" ellipse
+*Arcs
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+1 2 0.2518202 l "substring"
+2 1 0.4074675 l "substring"
+*Edges

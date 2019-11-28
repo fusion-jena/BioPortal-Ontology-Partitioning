@@ -1,0 +1,59 @@
+*Vertices 8
+1 "Thing" ellipse
+2 "Manufacturing" ellipse
+3 "Fish processing" ellipse
+4 "Manufacture of prepared animal feeds" ellipse
+5 "Fishery activities" ellipse
+6 "Fishing and fish processing" ellipse
+7 "Aquaculture" ellipse
+8 "Fishing" ellipse
+*Arcs
+3 2 0.3467578 l "isa"
+2 3 0.2353040 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3425005 l "isa"
+6 5 0.2487100 l "isa"
+5 6 0.2213141 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.3435716 l "isa"
+8 5 0.3233792 l "isa"
+5 8 0.2343139 l "isa"
+3 6 0.3507718 l "substring"
+6 3 0.2682720 l "substring"
+6 8 0.2663235 l "substring"
+8 6 0.3270690 l "substring"
+1 8 0.3100204 l "distance"
+8 1 0.3495518 l "distance"
+3 2 0.3467578 l "isa"
+2 3 0.2353040 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3425005 l "isa"
+6 5 0.2487100 l "isa"
+5 6 0.2213141 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.3435716 l "isa"
+8 5 0.3233792 l "isa"
+5 8 0.2343139 l "isa"
+3 6 0.3507718 l "substring"
+6 3 0.2682720 l "substring"
+6 8 0.2663235 l "substring"
+8 6 0.3270690 l "substring"
+1 8 0.3100204 l "distance"
+8 1 0.3495518 l "distance"
+3 2 0.3467578 l "isa"
+2 3 0.2353040 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3425005 l "isa"
+6 5 0.2487100 l "isa"
+5 6 0.2213141 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.3435716 l "isa"
+8 5 0.3233792 l "isa"
+5 8 0.2343139 l "isa"
+3 6 0.3507718 l "substring"
+6 3 0.2682720 l "substring"
+6 8 0.2663235 l "substring"
+8 6 0.3270690 l "substring"
+1 8 0.3100204 l "distance"
+8 1 0.3495518 l "distance"
+*Edges

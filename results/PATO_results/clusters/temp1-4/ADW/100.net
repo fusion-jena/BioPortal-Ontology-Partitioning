@@ -1,0 +1,13 @@
+*Vertices 2
+1 "arterial hypertension" ellipse
+2 "hypertension" ellipse
+*Arcs
+1 2 0.4798069 l "isa"
+2 1 0.7213665 l "isa"
+1 2 0.4798069 l "substring"
+2 1 0.7213665 l "substring"
+1 2 0.4798069 l "isa"
+2 1 0.7213665 l "isa"
+1 2 0.4798069 l "substring"
+2 1 0.7213665 l "substring"
+*Edges

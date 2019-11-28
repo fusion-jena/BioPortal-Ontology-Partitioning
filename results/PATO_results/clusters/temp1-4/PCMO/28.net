@@ -1,0 +1,13 @@
+*Vertices 2
+1 "state"
+2 "status"
+*Arcs
+1 2 0.0872238 l "distance"
+2 1 0.2672105 l "distance"
+1 2 0.0872238 l "distance"
+2 1 0.2672105 l "distance"
+1 2 0.0872238 l "distance"
+2 1 0.2672105 l "distance"
+1 2 0.0872238 l "distance"
+2 1 0.2672105 l "distance"
+*Edges

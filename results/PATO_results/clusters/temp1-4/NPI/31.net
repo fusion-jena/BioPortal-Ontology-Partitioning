@@ -1,0 +1,18 @@
+*Vertices 5
+1 "Nutritional Health Interventions" ellipse
+2 "Dietary Supplements" ellipse
+3 "Dietary Supplement related terms" ellipse
+4 "Nutritional Therapy related terms" ellipse
+5 "Nutritional Therapy" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.5000000 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.6666667 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.2000000 l "isa"
+4 5 1.0000000 l "substring"
+5 4 0.6666667 l "substring"
+*Edges

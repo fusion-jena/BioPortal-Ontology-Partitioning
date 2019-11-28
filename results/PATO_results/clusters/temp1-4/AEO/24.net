@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Algivore" ellipse
+2 "Sanguivore" ellipse
+*Arcs
+1 2 0.1526790 l "distance"
+2 1 0.3428968 l "distance"
+1 2 0.1526790 l "distance"
+2 1 0.3428968 l "distance"
+*Edges

@@ -1,0 +1,59 @@
+*Vertices 12
+1 "Alcohol_Abuse" ellipse
+2 "Aspiration_Risk" ellipse
+3 "Fall_Risk" ellipse
+4 "Perioperative_Positioning_Injury" ellipse
+5 "Poisoning_Risk" ellipse
+6 "Safety" ellipse
+7 "Self_mutilation_Risk" ellipse
+8 "Substance_Abuse" ellipse
+9 "Suffocation_Risk" ellipse
+10 "Tobacco_Abuse" ellipse
+11 "Trauma_Risk" ellipse
+12 "Violence_Risk" ellipse
+*Arcs
+1 6 0.1449875 l "isa"
+6 1 0.0405052 l "isa"
+2 6 0.1466401 l "isa"
+6 2 0.0409470 l "isa"
+3 6 0.1466401 l "isa"
+6 3 0.0409470 l "isa"
+4 6 0.1466401 l "isa"
+6 4 0.0409470 l "isa"
+5 6 0.1466401 l "isa"
+6 5 0.0409470 l "isa"
+7 6 0.1466401 l "isa"
+6 7 0.0409470 l "isa"
+8 6 0.1449875 l "isa"
+6 8 0.0405052 l "isa"
+9 6 0.1466401 l "isa"
+6 9 0.0409470 l "isa"
+10 6 0.1449875 l "isa"
+6 10 0.0405052 l "isa"
+11 6 0.1466401 l "isa"
+6 11 0.0409470 l "isa"
+12 6 0.1466401 l "isa"
+6 12 0.0409470 l "isa"
+1 6 0.1449875 l "isa"
+6 1 0.0405052 l "isa"
+2 6 0.1466401 l "isa"
+6 2 0.0409470 l "isa"
+3 6 0.1466401 l "isa"
+6 3 0.0409470 l "isa"
+4 6 0.1466401 l "isa"
+6 4 0.0409470 l "isa"
+5 6 0.1466401 l "isa"
+6 5 0.0409470 l "isa"
+7 6 0.1466401 l "isa"
+6 7 0.0409470 l "isa"
+8 6 0.1449875 l "isa"
+6 8 0.0405052 l "isa"
+9 6 0.1466401 l "isa"
+6 9 0.0409470 l "isa"
+10 6 0.1449875 l "isa"
+6 10 0.0405052 l "isa"
+11 6 0.1466401 l "isa"
+6 11 0.0409470 l "isa"
+12 6 0.1466401 l "isa"
+6 12 0.0409470 l "isa"
+*Edges

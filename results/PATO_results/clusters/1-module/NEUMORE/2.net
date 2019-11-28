@@ -1,0 +1,28 @@
+*Vertices 9
+1 "DataSet" ellipse
+2 "Disposition" ellipse
+3 "Function" ellipse
+4 "InfoContentEntity" ellipse
+5 "Measurement" ellipse
+6 "Plan" ellipse
+7 "PlanSpecification" ellipse
+8 "RealizableEntity" ellipse
+9 "Disease" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.3333333 l "isa"
+2 8 0.5000000 l "isa"
+8 2 0.3333333 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.3333333 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.3333333 l "isa"
+6 8 0.5000000 l "isa"
+8 6 0.3333333 l "isa"
+7 4 0.5000000 l "isa"
+4 7 0.3333333 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.5000000 l "isa"
+6 7 0.5000000 l "substring"
+7 6 0.5000000 l "substring"
+*Edges

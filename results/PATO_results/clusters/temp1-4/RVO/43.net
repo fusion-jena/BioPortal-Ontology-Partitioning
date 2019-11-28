@@ -1,0 +1,56 @@
+*Vertices 11
+1 "DataSource" ellipse
+2 "Dataset" ellipse
+3 "DatasetStructure" ellipse
+4 "LinkType" ellipse
+5 "LinkedVariables" ellipse
+6 "Measure" ellipse
+7 "Model" ellipse
+8 "ModelType" ellipse
+9 "Variable" ellipse
+10 "Literal"
+11 "rCode"
+*Arcs
+3 6 0.2500000 l "containMeasure"
+6 3 0.2500000 l "containMeasure"
+7 9 0.2307692 l "controlVariable"
+9 7 0.2727273 l "controlVariable"
+3 1 0.2500000 l "dataSource"
+1 3 1.0000000 l "dataSource"
+2 3 0.6666667 l "datasetStructure"
+3 2 0.5000000 l "datasetStructure"
+7 9 0.2307692 l "dependentVariable"
+9 7 0.2727273 l "dependentVariable"
+5 9 0.3333333 l "firstVariable"
+9 5 0.2727273 l "firstVariable"
+7 9 0.2307692 l "independentVariable"
+9 7 0.2727273 l "independentVariable"
+5 4 0.1111111 l "linkType"
+4 5 1.0000000 l "linkType"
+9 6 0.0909091 l "measuredBy"
+6 9 0.2500000 l "measuredBy"
+7 8 0.1538462 l "modelType"
+8 7 0.6666667 l "modelType"
+5 9 0.3333333 l "secondVariable"
+9 5 0.2727273 l "secondVariable"
+7 2 0.0769231 l "trainingSet"
+2 7 0.3333333 l "trainingSet"
+5 7 0.1111111 l "viaModel"
+7 5 0.0769231 l "viaModel"
+5 10 0.1111111 l "coefficients"
+10 5 0.5000000 l "coefficients"
+6 10 0.2500000 l "measureReferenceInDatasource"
+10 6 0.5000000 l "measureReferenceInDatasource"
+11 8 0.1666667 l "definition"
+8 11 0.3333333 l "definition"
+11 7 0.3333333 l "definition"
+7 11 0.1538462 l "definition"
+2 3 0.6666667 l "substring"
+3 2 0.5000000 l "substring"
+5 9 0.3333333 l "substring"
+9 5 0.2727273 l "substring"
+7 8 0.1538462 l "substring"
+8 7 0.6666667 l "substring"
+7 11 0.1538462 l "distance"
+11 7 0.3333333 l "distance"
+*Edges

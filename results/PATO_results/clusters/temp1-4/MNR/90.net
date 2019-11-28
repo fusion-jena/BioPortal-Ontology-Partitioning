@@ -1,0 +1,11 @@
+*Vertices 2
+1 "British Virgin Islands" ellipse
+2 "Virgin Islands" ellipse
+*Arcs
+1 2 0.1977311 l "substring"
+2 1 0.1977311 l "substring"
+1 2 0.1977311 l "substring"
+2 1 0.1977311 l "substring"
+1 2 0.1977311 l "substring"
+2 1 0.1977311 l "substring"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "ChangeOfInstrument" ellipse
+2 "MitigatingFactor" ellipse
+3 "NotifyManufacturer" ellipse
+*Arcs
+1 2 0.5704970 l "isa"
+2 1 0.2912088 l "isa"
+3 2 0.5704970 l "isa"
+2 3 0.2912088 l "isa"
+1 2 0.5704970 l "isa"
+2 1 0.2912088 l "isa"
+3 2 0.5704970 l "isa"
+2 3 0.2912088 l "isa"
+1 2 0.5704970 l "isa"
+2 1 0.2912088 l "isa"
+3 2 0.5704970 l "isa"
+2 3 0.2912088 l "isa"
+1 2 0.5704970 l "isa"
+2 1 0.2912088 l "isa"
+3 2 0.5704970 l "isa"
+2 3 0.2912088 l "isa"
+*Edges

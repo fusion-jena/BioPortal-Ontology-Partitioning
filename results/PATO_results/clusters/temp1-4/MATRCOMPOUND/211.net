@@ -1,0 +1,17 @@
+*Vertices 2
+1 "tracheal smooth muscle" ellipse
+2 "tracheal mucosa" ellipse
+*Arcs
+1 2 0.1962162 l "definition"
+2 1 0.1329222 l "definition"
+1 2 0.1962162 l "definition"
+2 1 0.1329222 l "definition"
+1 2 0.1962162 l "definition"
+2 1 0.1329222 l "definition"
+1 2 0.1962162 l "definition"
+2 1 0.1329222 l "definition"
+1 2 0.1962162 l "definition"
+2 1 0.1329222 l "definition"
+1 2 0.1962162 l "definition"
+2 1 0.1329222 l "definition"
+*Edges

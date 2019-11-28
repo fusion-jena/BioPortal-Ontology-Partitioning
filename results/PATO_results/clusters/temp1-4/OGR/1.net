@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Asia" ellipse
+2 "Asia_Southeastern" ellipse
+*Arcs
+2 1 0.6666667 l "isa"
+1 2 0.1818182 l "isa"
+1 2 0.1818182 l "substring"
+2 1 0.6666667 l "substring"
+*Edges

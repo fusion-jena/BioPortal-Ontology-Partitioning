@@ -1,0 +1,18 @@
+*Vertices 5
+1 "product oriented farming type" ellipse
+2 "egg production" ellipse
+3 "meat production" ellipse
+4 "reproducer" ellipse
+5 "produces"
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1666667 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.1666667 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1666667 l "isa"
+2 3 0.5000000 l "distance"
+3 2 0.3333333 l "distance"
+4 5 0.5000000 l "distance"
+5 4 0.1250000 l "distance"
+*Edges

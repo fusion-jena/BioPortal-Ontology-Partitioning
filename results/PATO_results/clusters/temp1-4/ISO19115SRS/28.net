@@ -1,0 +1,11 @@
+*Vertices 2
+1 "MD_ReferenceSystem" ellipse
+2 "MD_ReferenceSystemTypeCode" ellipse
+*Arcs
+1 2 0.1689305 l "referenceSystemType"
+2 1 0.4285714 l "referenceSystemType"
+1 2 0.1689305 l "definition"
+2 1 0.4285714 l "definition"
+1 2 0.1689305 l "substring"
+2 1 0.4285714 l "substring"
+*Edges

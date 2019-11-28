@@ -1,0 +1,12 @@
+*Vertices 3
+1 "A Doctor of medicine" ellipse
+2 "IIMS_Reporting" ellipse
+3 "Nurses_Independent_Role" ellipse
+*Arcs
+1 3 0.4000000 l "isa"
+3 1 0.1333333 l "isa"
+3 2 0.0666667 l "alerts"
+2 3 1.0000000 l "alerts"
+3 1 0.1333333 l "communicates"
+1 3 0.4000000 l "communicates"
+*Edges

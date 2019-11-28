@@ -1,0 +1,17 @@
+*Vertices 2
+1 "has_subject"
+2 "has_subject"
+*Arcs
+1 2 0.1371688 l "substring"
+2 1 0.3847698 l "substring"
+1 2 0.1371688 l "distance"
+2 1 0.3847698 l "distance"
+1 2 0.1371688 l "substring"
+2 1 0.3847698 l "substring"
+1 2 0.1371688 l "distance"
+2 1 0.3847698 l "distance"
+1 2 0.1371688 l "substring"
+2 1 0.3847698 l "substring"
+1 2 0.1371688 l "distance"
+2 1 0.3847698 l "distance"
+*Edges

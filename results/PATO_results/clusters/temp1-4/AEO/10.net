@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Image based biomarker" ellipse
+2 "_Other Biomarker" ellipse
+3 "biomarker" ellipse
+*Arcs
+1 3 0.4813680 l "isa"
+3 1 0.1088913 l "isa"
+1 3 0.4813680 l "substring"
+3 1 0.1088913 l "substring"
+2 3 0.3584630 l "substring"
+3 2 0.0488943 l "substring"
+1 3 0.4813680 l "isa"
+3 1 0.1088913 l "isa"
+1 3 0.4813680 l "substring"
+3 1 0.1088913 l "substring"
+2 3 0.3584630 l "substring"
+3 2 0.0488943 l "substring"
+1 3 0.4813680 l "isa"
+3 1 0.1088913 l "isa"
+1 3 0.4813680 l "substring"
+3 1 0.1088913 l "substring"
+2 3 0.3584630 l "substring"
+3 2 0.0488943 l "substring"
+*Edges

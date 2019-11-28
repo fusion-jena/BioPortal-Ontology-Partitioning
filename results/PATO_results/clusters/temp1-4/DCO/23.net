@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Service" ellipse
+2 "Service" ellipse
+*Arcs
+1 2 0.1883329 l "substring"
+2 1 0.2000000 l "substring"
+1 2 0.1883329 l "distance"
+2 1 0.2000000 l "distance"
+*Edges

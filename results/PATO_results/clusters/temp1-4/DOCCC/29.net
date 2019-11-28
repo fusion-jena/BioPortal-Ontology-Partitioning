@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Physical Medium" ellipse
+2 "Physical Resource" ellipse
+*Arcs
+2 1 0.1582590 l "Medium"
+1 2 0.1167142 l "Medium"
+2 1 0.1582590 l "Medium"
+1 2 0.1167142 l "Medium"
+2 1 0.1582590 l "Medium"
+1 2 0.1167142 l "Medium"
+2 1 0.1582590 l "Medium"
+1 2 0.1167142 l "Medium"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "mucus cell" ellipse
+2 "mucus cell" ellipse
+*Arcs
+1 2 0.2744293 l "substring"
+2 1 0.3630652 l "substring"
+1 2 0.2744293 l "distance"
+2 1 0.3630652 l "distance"
+1 2 0.2744293 l "substring"
+2 1 0.3630652 l "substring"
+1 2 0.2744293 l "distance"
+2 1 0.3630652 l "distance"
+1 2 0.2744293 l "substring"
+2 1 0.3630652 l "substring"
+1 2 0.2744293 l "distance"
+2 1 0.3630652 l "distance"
+1 2 0.2744293 l "substring"
+2 1 0.3630652 l "substring"
+1 2 0.2744293 l "distance"
+2 1 0.3630652 l "distance"
+*Edges

@@ -1,0 +1,34 @@
+*Vertices 3
+1 "ALTCount" ellipse
+2 "ASTCount" ellipse
+3 "Count" ellipse
+*Arcs
+1 2 0.1730368 l "distance"
+2 1 0.1730368 l "distance"
+1 2 0.1730368 l "distance"
+2 1 0.1730368 l "distance"
+1 2 0.1730368 l "distance"
+2 1 0.1730368 l "distance"
+1 2 0.1730368 l "distance"
+2 1 0.1730368 l "distance"
+1 3 0.2051629 l "substring"
+3 1 0.0504582 l "substring"
+2 3 0.2051629 l "substring"
+3 2 0.0504582 l "substring"
+1 2 0.1730368 l "distance"
+2 1 0.1730368 l "distance"
+1 3 0.2051629 l "distance"
+3 1 0.0504582 l "distance"
+2 3 0.2051629 l "distance"
+3 2 0.0504582 l "distance"
+1 3 0.2051629 l "substring"
+3 1 0.0504582 l "substring"
+2 3 0.2051629 l "substring"
+3 2 0.0504582 l "substring"
+1 2 0.1730368 l "distance"
+2 1 0.1730368 l "distance"
+1 3 0.2051629 l "distance"
+3 1 0.0504582 l "distance"
+2 3 0.2051629 l "distance"
+3 2 0.0504582 l "distance"
+*Edges

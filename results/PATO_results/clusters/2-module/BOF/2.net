@@ -1,0 +1,42 @@
+*Vertices 5
+1 "GeographicalCoordinate" ellipse
+2 "InstitutionResearch" ellipse
+3 "Sex" ellipse
+4 "Taxon" ellipse
+5 "string"
+*Arcs
+1 5 0.4285714 l "altitude"
+5 1 0.1363636 l "altitude"
+3 5 0.5833333 l "asexual"
+5 3 0.3181818 l "asexual"
+3 5 0.5833333 l "bisexual"
+5 3 0.3181818 l "bisexual"
+4 5 0.4166667 l "especie"
+5 4 0.2272727 l "especie"
+4 5 0.4166667 l "familia"
+5 4 0.2272727 l "familia"
+3 5 0.5833333 l "female"
+5 3 0.3181818 l "female"
+4 5 0.4166667 l "genero"
+5 4 0.2272727 l "genero"
+3 5 0.5833333 l "hermaphrodite"
+5 3 0.3181818 l "hermaphrodite"
+1 5 0.4285714 l "latitude"
+5 1 0.1363636 l "latitude"
+1 5 0.4285714 l "longitude"
+5 1 0.1363636 l "longitude"
+3 5 0.5833333 l "male"
+5 3 0.3181818 l "male"
+2 5 0.5000000 l "nomeInstituicao"
+5 2 0.0909091 l "nomeInstituicao"
+4 5 0.4166667 l "nomecientifico"
+5 4 0.2272727 l "nomecientifico"
+4 5 0.4166667 l "nomepopular"
+5 4 0.2272727 l "nomepopular"
+3 5 0.5833333 l "notreviewed"
+5 3 0.3181818 l "notreviewed"
+2 5 0.5000000 l "siglaInstituicao"
+5 2 0.0909091 l "siglaInstituicao"
+3 5 0.5833333 l "undetermined"
+5 3 0.3181818 l "undetermined"
+*Edges

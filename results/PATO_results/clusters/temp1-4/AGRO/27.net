@@ -1,0 +1,32 @@
+*Vertices 5
+1 "analysis sequence" ellipse
+2 "procedure specification" ellipse
+3 "sequential procedure specification" ellipse
+4 "queue" ellipse
+5 "request queue" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.3984064 l "isa"
+3 2 0.2885745 l "isa"
+2 3 0.3249176 l "isa"
+3 4 0.1249316 l "isa"
+4 3 0.1341854 l "isa"
+5 3 0.2988048 l "isa"
+3 5 0.1319700 l "isa"
+2 3 0.3249176 l "substring"
+3 2 0.2885745 l "substring"
+4 5 0.1436351 l "substring"
+5 4 0.3027888 l "substring"
+1 5 1.0000000 l "isa"
+5 1 0.3984064 l "isa"
+3 2 0.2885745 l "isa"
+2 3 0.3249176 l "isa"
+3 4 0.1249316 l "isa"
+4 3 0.1341854 l "isa"
+5 3 0.2988048 l "isa"
+3 5 0.1319700 l "isa"
+2 3 0.3249176 l "substring"
+3 2 0.2885745 l "substring"
+4 5 0.1436351 l "substring"
+5 4 0.3027888 l "substring"
+*Edges

@@ -1,0 +1,48 @@
+*Vertices 9
+1 "Acalculia" ellipse
+2 "Agnosia" ellipse
+3 "Anosognosia" ellipse
+4 "Delayed_Speech" ellipse
+5 "Dysarthria" ellipse
+6 "Glossolalia" ellipse
+7 "Prosopagnosia" ellipse
+8 "Stuttering" ellipse
+9 "SpeechLanguageDisorders" ellipse
+*Arcs
+1 9 0.4316940 l "isa"
+9 1 0.0473777 l "isa"
+2 9 0.0807427 l "isa"
+9 2 0.0332026 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.0473777 l "isa"
+4 9 0.6030535 l "isa"
+9 4 0.0473777 l "isa"
+5 9 0.6030535 l "isa"
+9 5 0.0473777 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0473777 l "isa"
+7 9 0.4948876 l "isa"
+9 7 0.0395814 l "isa"
+8 9 0.4316940 l "isa"
+9 8 0.0473777 l "isa"
+2 7 0.0982436 l "substring"
+7 2 0.5051125 l "substring"
+1 9 0.4316940 l "isa"
+9 1 0.0473777 l "isa"
+2 9 0.0807427 l "isa"
+9 2 0.0332026 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.0473777 l "isa"
+4 9 0.6030535 l "isa"
+9 4 0.0473777 l "isa"
+5 9 0.6030535 l "isa"
+9 5 0.0473777 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0473777 l "isa"
+7 9 0.4948876 l "isa"
+9 7 0.0395814 l "isa"
+8 9 0.4316940 l "isa"
+9 8 0.0473777 l "isa"
+2 7 0.0982436 l "substring"
+7 2 0.5051125 l "substring"
+*Edges

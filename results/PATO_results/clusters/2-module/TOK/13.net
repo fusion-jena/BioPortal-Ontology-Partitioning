@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Translation" ellipse
+2 "translation_of"
+*Arcs
+1 2 0.6666667 l "substring"
+2 1 0.6666667 l "substring"
+1 2 0.6666667 l "distance"
+2 1 0.6666667 l "distance"
+*Edges

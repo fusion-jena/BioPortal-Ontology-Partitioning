@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Boreoeutheria" ellipse
+2 "Homo sapiens" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4910690 l "isa"
+*Edges

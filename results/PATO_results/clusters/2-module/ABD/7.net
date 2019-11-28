@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Common smut" ellipse
+2 "Corn smut" ellipse
+*Arcs
+1 2 0.0151515 l "definition"
+2 1 0.0158730 l "definition"
+1 2 0.0151515 l "distance"
+2 1 0.0158730 l "distance"
+*Edges

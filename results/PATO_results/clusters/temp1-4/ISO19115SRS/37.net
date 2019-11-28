@@ -1,0 +1,13 @@
+*Vertices 2
+1 "oceans" ellipse
+2 "oceans"
+*Arcs
+1 2 0.5659170 l "substring"
+2 1 0.5659170 l "substring"
+1 2 0.5659170 l "distance"
+2 1 0.5659170 l "distance"
+1 2 0.5659170 l "substring"
+2 1 0.5659170 l "substring"
+1 2 0.5659170 l "distance"
+2 1 0.5659170 l "distance"
+*Edges

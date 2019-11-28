@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Qualifier" ellipse
+2 "provenance"
+*Arcs
+2 1 0.0869565 l "definition"
+1 2 0.2000000 l "definition"
+1 2 0.2000000 l "definition"
+2 1 0.0869565 l "definition"
+*Edges

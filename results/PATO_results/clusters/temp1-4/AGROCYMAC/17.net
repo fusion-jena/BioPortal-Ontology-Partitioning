@@ -1,0 +1,26 @@
+*Vertices 3
+1 "plain" ellipse
+2 "coastal plain" ellipse
+3 "flood plain" ellipse
+*Arcs
+2 1 0.3612214 l "isa"
+1 2 0.0945357 l "isa"
+3 1 0.6965417 l "isa"
+1 3 0.0709638 l "isa"
+2 1 0.3612214 l "definition"
+1 2 0.0945357 l "definition"
+1 2 0.0945357 l "substring"
+2 1 0.3612214 l "substring"
+1 3 0.0709638 l "substring"
+3 1 0.6965417 l "substring"
+2 1 0.3612214 l "isa"
+1 2 0.0945357 l "isa"
+3 1 0.6965417 l "isa"
+1 3 0.0709638 l "isa"
+2 1 0.3612214 l "definition"
+1 2 0.0945357 l "definition"
+1 2 0.0945357 l "substring"
+2 1 0.3612214 l "substring"
+1 3 0.0709638 l "substring"
+3 1 0.6965417 l "substring"
+*Edges

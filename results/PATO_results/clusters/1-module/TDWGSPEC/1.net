@@ -1,0 +1,7 @@
+*Vertices 2
+1 "DefinedTerm" ellipse
+2 "Kind Of Specimen Term" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 1.0000000 l "isa"
+*Edges

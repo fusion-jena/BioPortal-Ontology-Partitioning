@@ -1,0 +1,44 @@
+*Vertices 11
+1 "pH" ellipse
+2 "ammonium hydroxide" ellipse
+3 "nutrient" ellipse
+4 "acid" ellipse
+5 "Bronsted acid" ellipse
+6 "physiological role" ellipse
+7 "food additive" ellipse
+8 "food acidity regulator" ellipse
+9 "food component" ellipse
+10 "medium acidity" ellipse
+11 "pH" ellipse
+*Arcs
+3 9 0.1000000 l "isa"
+9 3 0.3333333 l "isa"
+5 4 0.2857143 l "isa"
+4 5 0.0250000 l "isa"
+7 9 0.1666667 l "isa"
+9 7 0.3333333 l "isa"
+8 7 0.3333333 l "isa"
+7 8 0.1666667 l "isa"
+9 6 0.3333333 l "isa"
+6 9 0.1250000 l "isa"
+10 1 0.3333333 l "isa"
+1 10 0.0043935 l "isa"
+2 8 0.1250000 l "definition"
+8 2 0.3333333 l "definition"
+11 10 0.0045662 l "definition"
+10 11 0.3333333 l "definition"
+1 6 0.0043935 l "substring"
+6 1 0.1250000 l "substring"
+1 11 0.0087871 l "substring"
+11 1 0.0091324 l "substring"
+4 5 0.0250000 l "substring"
+5 4 0.2857143 l "substring"
+4 8 0.0125000 l "substring"
+8 4 0.3333333 l "substring"
+4 10 0.0125000 l "substring"
+10 4 0.3333333 l "substring"
+6 11 0.1250000 l "substring"
+11 6 0.0045662 l "substring"
+1 11 0.0087871 l "distance"
+11 1 0.0091324 l "distance"
+*Edges

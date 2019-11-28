@@ -1,0 +1,60 @@
+*Vertices 13
+1 "BindingFeature" ellipse
+2 "BiochemicalReaction" ellipse
+3 "Complex" ellipse
+4 "ComplexAssembly" ellipse
+5 "Conversion" ellipse
+6 "CovalentBindingFeature" ellipse
+7 "Degradation" ellipse
+8 "Transport" ellipse
+9 "TransportWithBiochemicalReaction" ellipse
+10 "float"
+11 "boolean"
+12 "conversionDirection"
+13 "Restriction"
+*Arcs
+2 5 0.1250000 l "isa"
+5 2 0.0666667 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.0666667 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.2500000 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.0666667 l "isa"
+8 5 0.3333333 l "isa"
+5 8 0.0666667 l "isa"
+9 2 0.5000000 l "isa"
+2 9 0.2500000 l "isa"
+9 8 0.5000000 l "isa"
+8 9 0.6666667 l "isa"
+1 1 0.2500000 l "bindsTo"
+1 1 0.2500000 l "bindsTo"
+2 10 0.2500000 l "deltaH"
+10 2 0.2857143 l "deltaH"
+2 10 0.2500000 l "deltaS"
+10 2 0.2857143 l "deltaS"
+1 11 0.1250000 l "intraMolecular"
+11 1 0.5000000 l "intraMolecular"
+5 11 0.0666667 l "spontaneous"
+11 5 0.5000000 l "spontaneous"
+3 13 0.1250000 l "definition"
+13 3 0.0136986 l "definition"
+3 3 0.2500000 l "definition"
+3 3 0.2500000 l "definition"
+5 13 0.0666667 l "definition"
+13 5 0.0136986 l "definition"
+7 13 0.3333333 l "definition"
+13 7 0.0136986 l "definition"
+7 12 0.3333333 l "definition"
+12 7 0.2000000 l "definition"
+1 6 0.2500000 l "substring"
+6 1 0.5000000 l "substring"
+2 9 0.2500000 l "substring"
+9 2 0.5000000 l "substring"
+3 4 0.1250000 l "substring"
+4 3 0.5000000 l "substring"
+5 12 0.0666667 l "substring"
+12 5 0.2000000 l "substring"
+8 9 0.6666667 l "substring"
+9 8 0.5000000 l "substring"
+*Edges

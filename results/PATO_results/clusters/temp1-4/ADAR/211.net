@@ -1,0 +1,40 @@
+*Vertices 5
+1 "DigitalFile" ellipse
+2 "Hearing" ellipse
+3 "HearingDevice" ellipse
+4 "TechnicalObject" ellipse
+5 "hasIdentifier"
+*Arcs
+1 4 0.2629859 l "isa"
+4 1 0.0947376 l "isa"
+3 4 0.2651521 l "isa"
+4 3 0.0948689 l "isa"
+1 5 0.2587387 l "definition"
+5 1 0.0837457 l "definition"
+2 3 0.0647423 l "substring"
+3 2 0.2585394 l "substring"
+1 4 0.2629859 l "isa"
+4 1 0.0947376 l "isa"
+3 4 0.2651521 l "isa"
+4 3 0.0948689 l "isa"
+1 5 0.2587387 l "definition"
+5 1 0.0837457 l "definition"
+2 3 0.0647423 l "substring"
+3 2 0.2585394 l "substring"
+1 4 0.2629859 l "isa"
+4 1 0.0947376 l "isa"
+3 4 0.2651521 l "isa"
+4 3 0.0948689 l "isa"
+1 5 0.2587387 l "definition"
+5 1 0.0837457 l "definition"
+2 3 0.0647423 l "substring"
+3 2 0.2585394 l "substring"
+1 4 0.2629859 l "isa"
+4 1 0.0947376 l "isa"
+3 4 0.2651521 l "isa"
+4 3 0.0948689 l "isa"
+1 5 0.2587387 l "definition"
+5 1 0.0837457 l "definition"
+2 3 0.0647423 l "substring"
+3 2 0.2585394 l "substring"
+*Edges

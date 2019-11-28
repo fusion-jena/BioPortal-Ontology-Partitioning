@@ -1,0 +1,31 @@
+*Vertices 10
+1 "term pregnancy" ellipse
+2 "delivery of potentially viable baby" ellipse
+3 "performance of postnatal examination" ellipse
+4 "provision of postnatal care" ellipse
+5 "recording of current breast feeding" ellipse
+6 "issue of completed maternity services claim" ellipse
+7 "puerperal findings" ellipse
+8 "obstetric wound problems" ellipse
+9 "depression post partum" ellipse
+10 "presentation at delivery" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0909091 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0909091 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0909091 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0909091 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0909091 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0909091 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0909091 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0909091 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0909091 l "isa"
+*Edges

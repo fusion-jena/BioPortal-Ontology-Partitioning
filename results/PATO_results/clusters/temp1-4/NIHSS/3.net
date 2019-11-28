@@ -1,0 +1,19 @@
+*Vertices 4
+1 "CommonBioConcepts" ellipse
+2 "Tissue" ellipse
+3 "Treatment" ellipse
+4 "SignsOrSymptom" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3672316 l "isa"
+3 1 0.0825306 l "isa"
+1 3 0.2655367 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.3672316 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3672316 l "isa"
+3 1 0.0825306 l "isa"
+1 3 0.2655367 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.3672316 l "isa"
+*Edges

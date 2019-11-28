@@ -1,0 +1,19 @@
+*Vertices 4
+1 "amount" ellipse
+2 "physical object quality" ellipse
+3 "has number of" ellipse
+4 "reciprocal_of"
+*Arcs
+3 2 0.5040305 l "isa"
+2 3 0.0847904 l "isa"
+1 3 0.0344922 l "definition"
+3 1 0.4959694 l "definition"
+1 4 0.0413080 l "definition"
+4 1 1.0000000 l "definition"
+3 2 0.5040305 l "isa"
+2 3 0.0847904 l "isa"
+1 3 0.0344922 l "definition"
+3 1 0.4959694 l "definition"
+1 4 0.0413080 l "definition"
+4 1 1.0000000 l "definition"
+*Edges

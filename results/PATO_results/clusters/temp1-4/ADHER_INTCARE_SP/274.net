@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Phrases_are_almost_exclusively_stereotyped_utterances" ellipse
+2 "stereo_Phrases_are_almost_exclusively_stereotyped_utterances"
+*Arcs
+1 2 0.2215836 l "substring"
+2 1 0.1908075 l "substring"
+1 2 0.2215836 l "substring"
+2 1 0.1908075 l "substring"
+1 2 0.2215836 l "substring"
+2 1 0.1908075 l "substring"
+*Edges

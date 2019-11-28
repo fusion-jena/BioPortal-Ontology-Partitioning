@@ -1,0 +1,13 @@
+*Vertices 8
+1 "ICD-10 code" ellipse
+2 "value"
+3 "url"
+4 "reaction_type"
+5 "classification" ellipse
+6 "group_type"
+7 "mutant"
+8 "int"
+*Arcs
+3 8 0.0989353 l "distance"
+8 3 0.0526316 l "distance"
+*Edges

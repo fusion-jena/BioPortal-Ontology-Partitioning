@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Welsh Black" ellipse
+2 "Welsh" ellipse
+3 "Welsh Hill Speckled Face" ellipse
+4 "Welsh Pony and Cob" ellipse
+*Arcs
+1 2 0.3483970 l "substring"
+2 1 0.0928046 l "substring"
+2 3 0.0928041 l "substring"
+3 2 0.3483845 l "substring"
+2 4 0.0927397 l "substring"
+4 2 0.3461645 l "substring"
+1 2 0.3483970 l "substring"
+2 1 0.0928046 l "substring"
+2 3 0.0928041 l "substring"
+3 2 0.3483845 l "substring"
+2 4 0.0927397 l "substring"
+4 2 0.3461645 l "substring"
+1 2 0.3483970 l "substring"
+2 1 0.0928046 l "substring"
+2 3 0.0928041 l "substring"
+3 2 0.3483845 l "substring"
+2 4 0.0927397 l "substring"
+4 2 0.3461645 l "substring"
+*Edges

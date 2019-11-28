@@ -1,0 +1,17 @@
+*Vertices 2
+1 "chemical disposition" ellipse
+2 "disposition" ellipse
+*Arcs
+1 2 0.3275045 l "isa"
+2 1 0.1385433 l "isa"
+1 2 0.3275045 l "substring"
+2 1 0.1385433 l "substring"
+1 2 0.3275045 l "isa"
+2 1 0.1385433 l "isa"
+1 2 0.3275045 l "substring"
+2 1 0.1385433 l "substring"
+1 2 0.3275045 l "isa"
+2 1 0.1385433 l "isa"
+1 2 0.3275045 l "substring"
+2 1 0.1385433 l "substring"
+*Edges

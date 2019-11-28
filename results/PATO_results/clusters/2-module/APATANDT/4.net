@@ -1,0 +1,46 @@
+*Vertices 15
+1 "Behavioral_Assessment" ellipse
+2 "Clinical_Trials" ellipse
+3 "Cognitive_Assessment" ellipse
+4 "Criterion_Referenced_Tests" ellipse
+5 "Interview_Schedules" ellipse
+6 "Likert_Scales" ellipse
+7 "Matching_to_Sample" ellipse
+8 "Multidimensional_Scaling" ellipse
+9 "Performance_Tests" ellipse
+10 "Questionnaires" ellipse
+11 "Rating_Scales" ellipse
+12 "Standardized_Tests" ellipse
+13 "Symptom_Checklists" ellipse
+14 "Verbal_Tests" ellipse
+15 "TestingMethods" ellipse
+*Arcs
+1 15 1.0000000 l "isa"
+15 1 0.0238095 l "isa"
+2 15 1.0000000 l "isa"
+15 2 0.0238095 l "isa"
+3 15 1.0000000 l "isa"
+15 3 0.0238095 l "isa"
+4 15 1.0000000 l "isa"
+15 4 0.0238095 l "isa"
+5 15 1.0000000 l "isa"
+15 5 0.0238095 l "isa"
+6 15 1.0000000 l "isa"
+15 6 0.0238095 l "isa"
+7 15 1.0000000 l "isa"
+15 7 0.0238095 l "isa"
+8 15 1.0000000 l "isa"
+15 8 0.0238095 l "isa"
+9 15 1.0000000 l "isa"
+15 9 0.0238095 l "isa"
+10 15 1.0000000 l "isa"
+15 10 0.0238095 l "isa"
+11 15 1.0000000 l "isa"
+15 11 0.0238095 l "isa"
+12 15 1.0000000 l "isa"
+15 12 0.0238095 l "isa"
+13 15 1.0000000 l "isa"
+15 13 0.0238095 l "isa"
+14 15 1.0000000 l "isa"
+15 14 0.0238095 l "isa"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Endosome" ellipse
+2 "Lysosome" ellipse
+*Arcs
+1 2 0.4136341 l "distance"
+2 1 0.3347635 l "distance"
+1 2 0.4136341 l "distance"
+2 1 0.3347635 l "distance"
+1 2 0.4136341 l "distance"
+2 1 0.3347635 l "distance"
+*Edges

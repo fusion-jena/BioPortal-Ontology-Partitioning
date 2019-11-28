@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Familia_Patente" ellipse
+2 "Patente" ellipse
+3 "pertenecePatente"
+4 "oficinaPatente"
+*Arcs
+2 1 0.3571429 l "pertenecePatente"
+1 2 0.7142857 l "pertenecePatente"
+1 2 0.7142857 l "tienePatente"
+2 1 0.3571429 l "tienePatente"
+1 2 0.7142857 l "definition"
+2 1 0.3571429 l "definition"
+2 3 0.1428571 l "definition"
+3 2 1.0000000 l "definition"
+2 1 0.3571429 l "definition"
+1 2 0.7142857 l "definition"
+2 4 0.1428571 l "definition"
+4 2 0.6666667 l "definition"
+1 2 0.7142857 l "substring"
+2 1 0.3571429 l "substring"
+2 3 0.1428571 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.1428571 l "substring"
+4 2 0.6666667 l "substring"
+*Edges

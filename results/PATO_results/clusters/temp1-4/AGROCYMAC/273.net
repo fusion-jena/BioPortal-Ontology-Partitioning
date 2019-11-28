@@ -1,0 +1,43 @@
+*Vertices 4
+1 "device configuration" ellipse
+2 "plumbing configuration" ellipse
+3 "injection device configuration" ellipse
+4 "configuration" ellipse
+*Arcs
+2 1 0.2152856 l "isa"
+1 2 0.0686358 l "isa"
+3 1 0.2630343 l "isa"
+1 3 0.1486586 l "isa"
+1 3 0.1486586 l "substring"
+3 1 0.2630343 l "substring"
+1 4 0.0595679 l "substring"
+4 1 0.0532724 l "substring"
+2 4 0.2138430 l "substring"
+4 2 0.0609707 l "substring"
+3 4 0.1105115 l "substring"
+4 3 0.0558567 l "substring"
+2 1 0.2152856 l "isa"
+1 2 0.0686358 l "isa"
+3 1 0.2630343 l "isa"
+1 3 0.1486586 l "isa"
+1 3 0.1486586 l "substring"
+3 1 0.2630343 l "substring"
+1 4 0.0595679 l "substring"
+4 1 0.0532724 l "substring"
+2 4 0.2138430 l "substring"
+4 2 0.0609707 l "substring"
+3 4 0.1105115 l "substring"
+4 3 0.0558567 l "substring"
+2 1 0.2152856 l "isa"
+1 2 0.0686358 l "isa"
+3 1 0.2630343 l "isa"
+1 3 0.1486586 l "isa"
+1 3 0.1486586 l "substring"
+3 1 0.2630343 l "substring"
+1 4 0.0595679 l "substring"
+4 1 0.0532724 l "substring"
+2 4 0.2138430 l "substring"
+4 2 0.0609707 l "substring"
+3 4 0.1105115 l "substring"
+4 3 0.0558567 l "substring"
+*Edges

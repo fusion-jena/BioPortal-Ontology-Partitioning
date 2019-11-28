@@ -1,0 +1,9 @@
+*Vertices 2
+1 "blastula stage" ellipse
+2 "gastrula stage" ellipse
+*Arcs
+1 2 0.0797376 l "distance"
+2 1 0.1026289 l "distance"
+1 2 0.0797376 l "distance"
+2 1 0.1026289 l "distance"
+*Edges

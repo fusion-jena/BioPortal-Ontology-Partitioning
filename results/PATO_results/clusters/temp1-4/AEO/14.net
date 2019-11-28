@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Swelling" ellipse
+2 "Sampling" ellipse
+*Arcs
+1 2 0.3914611 l "distance"
+2 1 0.3206609 l "distance"
+1 2 0.3914611 l "distance"
+2 1 0.3206609 l "distance"
+1 2 0.3914611 l "distance"
+2 1 0.3206609 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Free limb" ellipse
+2 "Proximal free limb segment" ellipse
+*Arcs
+1 2 0.2727273 l "definition"
+2 1 0.3000000 l "definition"
+2 1 0.3000000 l "definition"
+1 2 0.2727273 l "definition"
+1 2 0.2727273 l "substring"
+2 1 0.3000000 l "substring"
+*Edges

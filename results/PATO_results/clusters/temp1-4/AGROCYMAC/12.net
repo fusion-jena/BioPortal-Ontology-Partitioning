@@ -1,0 +1,27 @@
+*Vertices 4
+1 "electric potential" ellipse
+2 "electric potential difference unit" ellipse
+3 "volt" ellipse
+4 "megavolt" ellipse
+*Arcs
+3 2 0.0180956 l "isa"
+2 3 0.1010061 l "isa"
+4 2 0.5091220 l "isa"
+2 4 0.1238990 l "isa"
+2 1 0.2583426 l "definition"
+1 2 0.5448846 l "definition"
+1 2 0.5448846 l "substring"
+2 1 0.2583426 l "substring"
+3 4 0.0214016 l "substring"
+4 3 0.4908780 l "substring"
+3 2 0.0180956 l "isa"
+2 3 0.1010061 l "isa"
+4 2 0.5091220 l "isa"
+2 4 0.1238990 l "isa"
+2 1 0.2583426 l "definition"
+1 2 0.5448846 l "definition"
+1 2 0.5448846 l "substring"
+2 1 0.2583426 l "substring"
+3 4 0.0214016 l "substring"
+4 3 0.4908780 l "substring"
+*Edges

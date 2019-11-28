@@ -1,0 +1,32 @@
+*Vertices 5
+1 "OrganismCategoryByBRCInJapan" ellipse
+2 "Bacteria" ellipse
+3 "Archaea" ellipse
+4 "Fungi" ellipse
+5 "Phages" ellipse
+*Arcs
+2 1 0.5270048 l "isa"
+1 2 0.1547604 l "isa"
+3 1 0.5270048 l "isa"
+1 3 0.1547604 l "isa"
+4 1 0.5270048 l "isa"
+1 4 0.1547604 l "isa"
+5 1 0.5270048 l "isa"
+1 5 0.1547604 l "isa"
+2 1 0.5270048 l "isa"
+1 2 0.1547604 l "isa"
+3 1 0.5270048 l "isa"
+1 3 0.1547604 l "isa"
+4 1 0.5270048 l "isa"
+1 4 0.1547604 l "isa"
+5 1 0.5270048 l "isa"
+1 5 0.1547604 l "isa"
+2 1 0.5270048 l "isa"
+1 2 0.1547604 l "isa"
+3 1 0.5270048 l "isa"
+1 3 0.1547604 l "isa"
+4 1 0.5270048 l "isa"
+1 4 0.1547604 l "isa"
+5 1 0.5270048 l "isa"
+1 5 0.1547604 l "isa"
+*Edges

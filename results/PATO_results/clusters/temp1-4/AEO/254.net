@@ -1,0 +1,17 @@
+*Vertices 2
+1 "C10AA:HMG CoA reductase inhibitor" ellipse
+2 "C10AA:HMG CoA reductase inhibitor drug molecule" ellipse
+*Arcs
+2 1 0.1659969 l "definition"
+1 2 0.1593421 l "definition"
+1 2 0.1593421 l "substring"
+2 1 0.1659969 l "substring"
+2 1 0.1659969 l "definition"
+1 2 0.1593421 l "definition"
+1 2 0.1593421 l "substring"
+2 1 0.1659969 l "substring"
+2 1 0.1659969 l "definition"
+1 2 0.1593421 l "definition"
+1 2 0.1593421 l "substring"
+2 1 0.1659969 l "substring"
+*Edges

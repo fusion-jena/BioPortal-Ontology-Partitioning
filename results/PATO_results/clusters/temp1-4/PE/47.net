@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Participants" ellipse
+2 "Participants" ellipse
+*Arcs
+1 2 0.7286137 l "substring"
+2 1 0.7242095 l "substring"
+1 2 0.7286137 l "distance"
+2 1 0.7242095 l "distance"
+1 2 0.7286137 l "substring"
+2 1 0.7242095 l "substring"
+1 2 0.7286137 l "distance"
+2 1 0.7242095 l "distance"
+1 2 0.7286137 l "substring"
+2 1 0.7242095 l "substring"
+1 2 0.7286137 l "distance"
+2 1 0.7242095 l "distance"
+1 2 0.7286137 l "substring"
+2 1 0.7242095 l "substring"
+1 2 0.7286137 l "distance"
+2 1 0.7242095 l "distance"
+1 2 0.7286137 l "substring"
+2 1 0.7242095 l "substring"
+1 2 0.7286137 l "distance"
+2 1 0.7242095 l "distance"
+*Edges

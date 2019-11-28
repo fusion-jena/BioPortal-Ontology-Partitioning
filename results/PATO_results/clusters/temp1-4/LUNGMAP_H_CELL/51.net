@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Cachena" ellipse
+2 "Manchega" ellipse
+*Arcs
+1 2 0.2448312 l "distance"
+2 1 0.5584790 l "distance"
+1 2 0.2448312 l "distance"
+2 1 0.5584790 l "distance"
+1 2 0.2448312 l "distance"
+2 1 0.5584790 l "distance"
+1 2 0.2448312 l "distance"
+2 1 0.5584790 l "distance"
+*Edges

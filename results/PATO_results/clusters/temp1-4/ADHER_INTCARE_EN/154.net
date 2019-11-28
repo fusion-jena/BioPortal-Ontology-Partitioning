@@ -1,0 +1,21 @@
+*Vertices 4
+1 "Incident" ellipse
+2 "Indirect" ellipse
+3 "Interactions" ellipse
+4 "Indirect" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.0588235 l "isa"
+2 4 0.1333333 l "isa"
+4 2 0.2352941 l "isa"
+4 2 0.2352941 l "definition"
+2 4 0.1333333 l "definition"
+2 4 0.1333333 l "substring"
+4 2 0.2352941 l "substring"
+1 2 0.3333333 l "distance"
+2 1 0.0333333 l "distance"
+1 4 0.3333333 l "distance"
+4 1 0.0588235 l "distance"
+2 4 0.1333333 l "distance"
+4 2 0.2352941 l "distance"
+*Edges

@@ -1,0 +1,82 @@
+*Vertices 17
+1 "MEO_001" ellipse
+2 "génotype génomique" ellipse
+3 "génotype hétérozygote" ellipse
+4 "génotype homozygote" ellipse
+5 "variation génomique" ellipse
+6 "génotype" ellipse
+7 "génotype tumoral" ellipse
+8 "génotype somatique" ellipse
+9 "génotype du gène TPMT" ellipse
+10 "tpmt1" ellipse
+11 "tpmt3a" ellipse
+12 "tmpt3b" ellipse
+13 "tpmt3c" ellipse
+14 "génotype viral" ellipse
+15 "génotype de l'HIV" ellipse
+16 "is the observed genotype for"
+17 "has been genotyped as"
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1111111 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.0588235 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.0588235 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0800000 l "isa"
+8 6 0.6666667 l "isa"
+6 8 0.0800000 l "isa"
+9 8 0.1666667 l "isa"
+8 9 0.3333333 l "isa"
+10 9 0.3333333 l "isa"
+9 10 0.1666667 l "isa"
+11 9 0.2500000 l "isa"
+9 11 0.1666667 l "isa"
+12 9 0.3333333 l "isa"
+9 12 0.1666667 l "isa"
+13 9 0.2500000 l "isa"
+9 13 0.1666667 l "isa"
+14 6 0.6666667 l "isa"
+6 14 0.0800000 l "isa"
+15 14 0.5000000 l "isa"
+14 15 0.3333333 l "isa"
+5 2 0.4444444 l "has been genotyped as"
+2 5 0.2352941 l "has been genotyped as"
+2 5 0.2352941 l "is the observed genotype for"
+5 2 0.4444444 l "is the observed genotype for"
+2 5 0.2352941 l "definition"
+5 2 0.4444444 l "definition"
+2 16 0.0588235 l "definition"
+16 2 1.0000000 l "definition"
+5 17 0.1111111 l "definition"
+17 5 1.0000000 l "definition"
+5 2 0.4444444 l "definition"
+2 5 0.2352941 l "definition"
+2 6 0.0588235 l "substring"
+6 2 0.0400000 l "substring"
+3 6 0.5000000 l "substring"
+6 3 0.0400000 l "substring"
+4 6 0.5000000 l "substring"
+6 4 0.0400000 l "substring"
+6 7 0.0800000 l "substring"
+7 6 1.0000000 l "substring"
+6 8 0.0800000 l "substring"
+8 6 0.6666667 l "substring"
+6 9 0.0400000 l "substring"
+9 6 0.1666667 l "substring"
+6 14 0.0800000 l "substring"
+14 6 0.6666667 l "substring"
+6 15 0.0400000 l "substring"
+15 6 0.5000000 l "substring"
+10 11 0.3333333 l "distance"
+11 10 0.2500000 l "distance"
+10 13 0.3333333 l "distance"
+13 10 0.2500000 l "distance"
+11 12 0.2500000 l "distance"
+12 11 0.3333333 l "distance"
+11 13 0.2500000 l "distance"
+13 11 0.2500000 l "distance"
+12 13 0.3333333 l "distance"
+13 12 0.2500000 l "distance"
+*Edges

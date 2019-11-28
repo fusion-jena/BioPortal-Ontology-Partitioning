@@ -1,0 +1,20 @@
+*Vertices 5
+1 "weather" ellipse
+2 "sunny" ellipse
+3 "cloudy" ellipse
+4 "rainy" ellipse
+5 "snowy" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.2000000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.2000000 l "isa"
+2 4 0.3333333 l "distance"
+4 2 0.5000000 l "distance"
+2 5 0.3333333 l "distance"
+5 2 0.5000000 l "distance"
+*Edges

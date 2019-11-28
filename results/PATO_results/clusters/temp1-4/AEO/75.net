@@ -1,0 +1,11 @@
+*Vertices 2
+1 "NAbs-Abeta" ellipse
+2 "antibody" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.5153090 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5153090 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.5153090 l "isa"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Measure of disease occurrence entity" ellipse
+2 "Measurement scale" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+*Edges

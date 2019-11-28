@@ -1,0 +1,58 @@
+*Vertices 19
+1 "Achievement_Measures" ellipse
+2 "Armed_Services_Vocational_Aptitude_Battery" ellipse
+3 "College_Entrance_Examination_Board_Scholastic_Aptitude_Test" ellipse
+4 "Comprehension_Tests" ellipse
+5 "Curriculum_Based_Assessment" ellipse
+6 "Differential_Aptitude_Tests" ellipse
+7 "Entrance_Examinations" ellipse
+8 "General_Aptitude_Test_Battery" ellipse
+9 "Graduate_Record_Examination" ellipse
+10 "Iowa_Tests_of_Basic_Skills" ellipse
+11 "Metropolitan_Readiness_Tests" ellipse
+12 "Minimum_Competency_Tests" ellipse
+13 "Professional_Examinations" ellipse
+14 "Reading_Measures" ellipse
+15 "Retention_Measures" ellipse
+16 "Stanford_Achievement_Test" ellipse
+17 "Wide_Range_Achievement_Test" ellipse
+18 "Woodcock_Johnson_Psychoeducational_Battery" ellipse
+19 "AcademicAchievementAptitudeMeasures" ellipse
+*Arcs
+1 19 1.0000000 l "isa"
+19 1 0.0500000 l "isa"
+2 19 1.0000000 l "isa"
+19 2 0.0500000 l "isa"
+3 19 1.0000000 l "isa"
+19 3 0.0500000 l "isa"
+4 19 1.0000000 l "isa"
+19 4 0.0500000 l "isa"
+5 19 1.0000000 l "isa"
+19 5 0.0500000 l "isa"
+6 19 1.0000000 l "isa"
+19 6 0.0500000 l "isa"
+7 19 1.0000000 l "isa"
+19 7 0.0500000 l "isa"
+8 19 1.0000000 l "isa"
+19 8 0.0500000 l "isa"
+9 19 1.0000000 l "isa"
+19 9 0.0500000 l "isa"
+10 19 1.0000000 l "isa"
+19 10 0.0500000 l "isa"
+11 19 1.0000000 l "isa"
+19 11 0.0500000 l "isa"
+12 19 1.0000000 l "isa"
+19 12 0.0500000 l "isa"
+13 19 1.0000000 l "isa"
+19 13 0.0500000 l "isa"
+14 19 1.0000000 l "isa"
+19 14 0.0500000 l "isa"
+15 19 1.0000000 l "isa"
+19 15 0.0500000 l "isa"
+16 19 1.0000000 l "isa"
+19 16 0.0500000 l "isa"
+17 19 1.0000000 l "isa"
+19 17 0.0500000 l "isa"
+18 19 1.0000000 l "isa"
+19 18 0.0500000 l "isa"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 4
+1 "Meeting" ellipse
+2 "Item" ellipse
+3 "Event" ellipse
+4 "Agent" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.2000000 l "isa"
+1 4 0.5000000 l "isa"
+4 1 0.1428571 l "isa"
+2 4 0.2857143 l "held by"
+4 2 0.2857143 l "held by"
+4 2 0.2857143 l "holds"
+2 4 0.2857143 l "holds"
+3 4 0.2000000 l "distance"
+4 3 0.1428571 l "distance"
+*Edges

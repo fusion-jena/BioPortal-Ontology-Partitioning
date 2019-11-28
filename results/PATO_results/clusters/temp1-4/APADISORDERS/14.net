@@ -1,0 +1,44 @@
+*Vertices 9
+1 "Communication_Systems" ellipse
+2 "Computer_Mediated_Communication" ellipse
+3 "Computer_Usage" ellipse
+4 "Groupware" ellipse
+5 "Interpreters" ellipse
+6 "Online_Social_Networks" ellipse
+7 "Scientific_Communication" ellipse
+8 "Technology_Transfer" ellipse
+9 "ComputersCommunication" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.1007905 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.1007905 l "isa"
+3 9 0.5082439 l "isa"
+9 3 0.0844862 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.1007905 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.1007905 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.1007905 l "isa"
+7 9 0.5084768 l "isa"
+9 7 0.0844862 l "isa"
+8 9 0.5085290 l "isa"
+9 8 0.0844862 l "isa"
+1 9 1.0000000 l "isa"
+9 1 0.1007905 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.1007905 l "isa"
+3 9 0.5082439 l "isa"
+9 3 0.0844862 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.1007905 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.1007905 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.1007905 l "isa"
+7 9 0.5084768 l "isa"
+9 7 0.0844862 l "isa"
+8 9 0.5085290 l "isa"
+9 8 0.0844862 l "isa"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "ultraviolet detector" ellipse
+2 "ultraviolet detection" ellipse
+3 "electronic absorbance measurement" ellipse
+*Arcs
+2 3 0.5000000 l "isa"
+3 2 0.2500000 l "isa"
+1 2 0.3333333 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

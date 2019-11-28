@@ -1,0 +1,35 @@
+*Vertices 4
+1 "health" ellipse
+2 "health administration" ellipse
+3 "health care service utilization" ellipse
+4 "health care" ellipse
+*Arcs
+2 4 0.3399123 l "isa"
+4 2 0.2069426 l "isa"
+3 2 0.1854067 l "isa"
+2 3 0.3399123 l "isa"
+4 1 0.4325768 l "isa"
+1 4 0.1410843 l "isa"
+1 2 0.0635750 l "substring"
+2 1 0.3201754 l "substring"
+1 3 0.0613978 l "substring"
+3 1 0.1686603 l "substring"
+1 4 0.1410843 l "substring"
+4 1 0.4325768 l "substring"
+3 4 0.1794258 l "substring"
+4 3 0.2002670 l "substring"
+2 4 0.3399123 l "isa"
+4 2 0.2069426 l "isa"
+3 2 0.1854067 l "isa"
+2 3 0.3399123 l "isa"
+4 1 0.4325768 l "isa"
+1 4 0.1410843 l "isa"
+1 2 0.0635750 l "substring"
+2 1 0.3201754 l "substring"
+1 3 0.0613978 l "substring"
+3 1 0.1686603 l "substring"
+1 4 0.1410843 l "substring"
+4 1 0.4325768 l "substring"
+3 4 0.1794258 l "substring"
+4 3 0.2002670 l "substring"
+*Edges

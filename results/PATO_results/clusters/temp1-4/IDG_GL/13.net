@@ -1,0 +1,9 @@
+*Vertices 2
+1 "ICW-1:01.06 Social Wellness" ellipse
+2 "ICW-1:01.06.01 Social Wellness - NOS" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3090333 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3090333 l "isa"
+*Edges

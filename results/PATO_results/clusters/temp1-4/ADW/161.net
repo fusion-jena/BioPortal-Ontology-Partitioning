@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Membrane" ellipse
+2 "_Membranes" ellipse
+*Arcs
+1 2 0.6021505 l "substring"
+2 1 0.6049822 l "substring"
+1 2 0.6021505 l "distance"
+2 1 0.6049822 l "distance"
+1 2 0.6021505 l "substring"
+2 1 0.6049822 l "substring"
+1 2 0.6021505 l "distance"
+2 1 0.6049822 l "distance"
+*Edges

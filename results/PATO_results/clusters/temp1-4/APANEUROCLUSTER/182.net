@@ -1,0 +1,11 @@
+*Vertices 2
+1 "LYMPH" ellipse
+2 "Blood_and_Lymphatic_Disorders" ellipse
+*Arcs
+1 2 0.0458311 l "substring"
+2 1 0.2559803 l "substring"
+1 2 0.0458311 l "substring"
+2 1 0.2559803 l "substring"
+1 2 0.0458311 l "substring"
+2 1 0.2559803 l "substring"
+*Edges

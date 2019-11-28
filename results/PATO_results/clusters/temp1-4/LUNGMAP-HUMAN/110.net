@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Norwegian Red" ellipse
+2 "Norwegian Fur" ellipse
+3 "Norwegian Fjord" ellipse
+*Arcs
+1 2 0.3630913 l "distance"
+2 1 0.2746762 l "distance"
+2 3 0.2746704 l "distance"
+3 2 0.3630336 l "distance"
+1 2 0.3630913 l "distance"
+2 1 0.2746762 l "distance"
+2 3 0.2746704 l "distance"
+3 2 0.3630336 l "distance"
+1 2 0.3630913 l "distance"
+2 1 0.2746762 l "distance"
+2 3 0.2746704 l "distance"
+3 2 0.3630336 l "distance"
+*Edges

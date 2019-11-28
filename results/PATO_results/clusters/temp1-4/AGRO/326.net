@@ -1,0 +1,14 @@
+*Vertices 3
+1 "chiral stationary phase high-performance liquid chromatography" ellipse
+2 "stationary phase" ellipse
+3 "chromatographic phase" ellipse
+*Arcs
+2 3 0.1807954 l "isa"
+3 2 0.1377826 l "isa"
+1 2 0.0731838 l "substring"
+2 1 0.1758137 l "substring"
+2 3 0.1807954 l "isa"
+3 2 0.1377826 l "isa"
+1 2 0.0731838 l "substring"
+2 1 0.1758137 l "substring"
+*Edges

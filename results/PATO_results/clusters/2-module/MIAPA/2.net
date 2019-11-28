@@ -1,0 +1,88 @@
+*Vertices 23
+1 "software" ellipse
+2 "directive information entity" ellipse
+3 "Software procedure" ellipse
+4 "Manual procedure" ellipse
+5 "Parameter specification" ellipse
+6 "RAxML" ellipse
+7 "MAFFT" ellipse
+8 "PRANK" ellipse
+9 "PAUP*" ellipse
+10 "PhyML" ellipse
+11 "AMPHORA" ellipse
+12 "MrBayes" ellipse
+13 "BEAST" ellipse
+14 "MUSCLE" ellipse
+15 "Entity" ellipse
+16 "Person" ellipse
+17 "Plan" ellipse
+18 "SoftwareAgent" ellipse
+19 "CDAO_0000007"
+20 "Agent"
+21 "wasInfluencedBy"
+22 "used"
+23 "Class"
+*Arcs
+19 5 0.1250000 l "isa"
+5 19 0.5000000 l "isa"
+1 18 0.1250000 l "isa"
+18 1 0.4000000 l "isa"
+5 17 0.5000000 l "isa"
+17 5 0.1428571 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.0625000 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0625000 l "isa"
+8 1 0.5000000 l "isa"
+1 8 0.0625000 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0625000 l "isa"
+10 1 0.5000000 l "isa"
+1 10 0.0625000 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0625000 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0625000 l "isa"
+13 1 0.5000000 l "isa"
+1 13 0.0625000 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0625000 l "isa"
+16 20 0.5000000 l "isa"
+20 16 0.2500000 l "isa"
+17 15 0.1428571 l "isa"
+15 17 0.5000000 l "isa"
+18 20 0.4000000 l "isa"
+20 18 0.5000000 l "isa"
+3 21 0.1111111 l "definition"
+21 3 0.5000000 l "definition"
+3 18 0.1111111 l "definition"
+18 3 0.2000000 l "definition"
+3 17 0.1111111 l "definition"
+17 3 0.1428571 l "definition"
+3 22 0.1111111 l "definition"
+22 3 1.0000000 l "definition"
+3 23 0.1111111 l "definition"
+23 3 0.1666667 l "definition"
+4 21 0.1666667 l "definition"
+21 4 0.5000000 l "definition"
+4 16 0.1666667 l "definition"
+16 4 0.5000000 l "definition"
+4 23 0.1666667 l "definition"
+23 4 0.1666667 l "definition"
+1 3 0.0625000 l "substring"
+3 1 0.1111111 l "substring"
+1 18 0.1250000 l "substring"
+18 1 0.4000000 l "substring"
+2 15 0.3333333 l "substring"
+15 2 0.5000000 l "substring"
+18 20 0.4000000 l "substring"
+20 18 0.5000000 l "substring"
+6 10 0.5000000 l "distance"
+10 6 0.5000000 l "distance"
+8 17 0.5000000 l "distance"
+17 8 0.1428571 l "distance"
+13 23 0.5000000 l "distance"
+23 13 0.1666667 l "distance"
+17 23 0.1428571 l "distance"
+23 17 0.1666667 l "distance"
+*Edges

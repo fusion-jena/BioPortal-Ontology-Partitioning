@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Acrisol" ellipse
+2 "Cambisol" ellipse
+3 "Durisol" ellipse
+4 "Umbrisol" ellipse
+*Arcs
+1 2 0.0683461 l "distance"
+2 1 0.1427054 l "distance"
+1 3 0.0667392 l "distance"
+3 1 0.0903387 l "distance"
+1 4 0.0690826 l "distance"
+4 1 0.1675365 l "distance"
+2 4 0.1491641 l "distance"
+4 2 0.1732520 l "distance"
+3 4 0.0945257 l "distance"
+4 3 0.1693551 l "distance"
+1 2 0.0683461 l "distance"
+2 1 0.1427054 l "distance"
+1 3 0.0667392 l "distance"
+3 1 0.0903387 l "distance"
+1 4 0.0690826 l "distance"
+4 1 0.1675365 l "distance"
+2 4 0.1491641 l "distance"
+4 2 0.1732520 l "distance"
+3 4 0.0945257 l "distance"
+4 3 0.1693551 l "distance"
+*Edges

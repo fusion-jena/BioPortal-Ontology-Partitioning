@@ -1,0 +1,59 @@
+*Vertices 16
+1 "Certificate of Destruction" ellipse
+2 "IP Accountability Record" ellipse
+3 "IP Documentation" ellipse
+4 "IP Instructions for Handling" ellipse
+5 "IP Quality Complaint Form" ellipse
+6 "IP Re-labeling Plan" ellipse
+7 "IP Recall Plan" ellipse
+8 "IP Return Record" ellipse
+9 "IP Sample Label" ellipse
+10 "IP Shipment Record" ellipse
+11 "IP Supply Plan" ellipse
+12 "IP Transfer Record" ellipse
+13 "Non-IP Documentation" ellipse
+14 "Non-IP Documentation of Return" ellipse
+15 "Non-IP Documentation of Shipment" ellipse
+16 "Non-IP Supply Plan" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.0666667 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.0666667 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.0666667 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.0666667 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.0666667 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.0666667 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.0666667 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.0666667 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.0666667 l "isa"
+11 3 0.5000000 l "isa"
+3 11 0.0666667 l "isa"
+12 3 1.0000000 l "isa"
+3 12 0.0666667 l "isa"
+14 13 0.6666667 l "isa"
+13 14 0.2857143 l "isa"
+15 13 0.6666667 l "isa"
+13 15 0.2857143 l "isa"
+16 13 0.5000000 l "isa"
+13 16 0.1428571 l "isa"
+3 13 0.0666667 l "substring"
+13 3 0.1428571 l "substring"
+3 14 0.0666667 l "substring"
+14 3 0.3333333 l "substring"
+3 15 0.0666667 l "substring"
+15 3 0.3333333 l "substring"
+11 16 0.5000000 l "substring"
+16 11 0.5000000 l "substring"
+13 14 0.2857143 l "substring"
+14 13 0.6666667 l "substring"
+13 15 0.2857143 l "substring"
+15 13 0.6666667 l "substring"
+*Edges

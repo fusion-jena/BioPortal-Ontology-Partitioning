@@ -1,0 +1,64 @@
+*Vertices 21
+1 "Analog_Computers" ellipse
+2 "Apparatus" ellipse
+3 "Computer_Assisted_Instruction" ellipse
+4 "Computer_Assisted_Language_Learning" ellipse
+5 "Computer_Assisted_Testing" ellipse
+6 "Computer_Literacy" ellipse
+7 "Computer_Training" ellipse
+8 "Digital_Computers" ellipse
+9 "Digital_Divide" ellipse
+10 "Digital_Video" ellipse
+11 "Educational_Television" ellipse
+12 "Keyboards" ellipse
+13 "Microcomputers" ellipse
+14 "Robotics" ellipse
+15 "Televised_Instruction" ellipse
+16 "Video_Display_Units" ellipse
+17 "Virtual_Classrooms" ellipse
+18 "Virtual_Teams" ellipse
+19 "Visual_Displays" ellipse
+20 "EducationTraining" ellipse
+21 "Equipment" ellipse
+*Arcs
+1 21 1.0000000 l "isa"
+21 1 0.1111111 l "isa"
+2 21 1.0000000 l "isa"
+21 2 0.1111111 l "isa"
+3 20 1.0000000 l "isa"
+20 3 0.1000000 l "isa"
+4 20 1.0000000 l "isa"
+20 4 0.1000000 l "isa"
+5 20 1.0000000 l "isa"
+20 5 0.1000000 l "isa"
+6 20 1.0000000 l "isa"
+20 6 0.1000000 l "isa"
+7 20 1.0000000 l "isa"
+20 7 0.1000000 l "isa"
+8 21 1.0000000 l "isa"
+21 8 0.1111111 l "isa"
+9 20 0.5000000 l "isa"
+20 9 0.1000000 l "isa"
+10 21 0.5000000 l "isa"
+21 10 0.1111111 l "isa"
+11 20 1.0000000 l "isa"
+20 11 0.1000000 l "isa"
+12 21 1.0000000 l "isa"
+21 12 0.1111111 l "isa"
+13 21 1.0000000 l "isa"
+21 13 0.1111111 l "isa"
+14 21 1.0000000 l "isa"
+21 14 0.1111111 l "isa"
+15 20 1.0000000 l "isa"
+20 15 0.1000000 l "isa"
+16 21 1.0000000 l "isa"
+21 16 0.1111111 l "isa"
+17 20 1.0000000 l "isa"
+20 17 0.1000000 l "isa"
+18 20 1.0000000 l "isa"
+20 18 0.1000000 l "isa"
+19 21 1.0000000 l "isa"
+21 19 0.1111111 l "isa"
+9 10 0.5000000 l "distance"
+10 9 0.5000000 l "distance"
+*Edges

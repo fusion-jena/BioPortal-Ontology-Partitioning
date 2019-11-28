@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Oldenburg" ellipse
+2 "Toggenburg" ellipse
+*Arcs
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+1 2 0.7583860 l "distance"
+2 1 0.7552837 l "distance"
+*Edges

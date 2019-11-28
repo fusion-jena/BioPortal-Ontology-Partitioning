@@ -1,0 +1,16 @@
+*Vertices 5
+1 "intermediate pneumocyte" ellipse
+2 "proximal acinar tubule epithelial cell" ellipse
+3 "alveolar epithelial cell" ellipse
+4 "terminal saccule epithelial cell" ellipse
+5 "transitory duct epithelial cell" ellipse
+*Arcs
+1 2 0.2500000 l "isa"
+2 1 0.1250000 l "isa"
+1 3 0.2500000 l "isa"
+3 1 0.1111111 l "isa"
+1 4 0.2500000 l "isa"
+4 1 0.1428571 l "isa"
+1 5 0.2500000 l "isa"
+5 1 0.1666667 l "isa"
+*Edges

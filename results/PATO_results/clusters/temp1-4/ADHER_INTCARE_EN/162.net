@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Use_of_some_questions_or_statements_regardless_of_situation" ellipse
+2 "inappquesorstate_Use_of_some_questions_or_statements_regardless_of_situation"
+*Arcs
+1 2 0.2657393 l "substring"
+2 1 0.2673893 l "substring"
+1 2 0.2657393 l "substring"
+2 1 0.2673893 l "substring"
+*Edges

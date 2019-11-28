@@ -1,0 +1,61 @@
+*Vertices 10
+1 "adipocyte" ellipse
+2 "adipose tissue" ellipse
+3 "bronchial adventitia" ellipse
+4 "chondrocyte" ellipse
+5 "hyaline cartilage" ellipse
+6 "tracheal adventitia" ellipse
+7 "mesenchymal derived cell" ellipse
+8 "adipocyte" ellipse
+9 "chondrocyte" ellipse
+10 "mesenchymal derived cell" ellipse
+*Arcs
+1 2 0.2077104 l "definition"
+2 1 0.2273743 l "definition"
+2 3 0.2060694 l "definition"
+3 2 0.1600299 l "definition"
+2 6 0.2030060 l "definition"
+6 2 0.1407080 l "definition"
+4 5 0.2035303 l "definition"
+5 4 0.1928163 l "definition"
+1 7 0.1641312 l "isa"
+7 1 0.1176321 l "isa"
+4 7 0.1649875 l "isa"
+7 4 0.1176715 l "isa"
+1 2 0.2077104 l "definition"
+2 1 0.2273743 l "definition"
+2 3 0.2060694 l "definition"
+3 2 0.1600299 l "definition"
+2 6 0.2030060 l "definition"
+6 2 0.1407080 l "definition"
+4 5 0.2035303 l "definition"
+5 4 0.1928163 l "definition"
+1 7 0.1641312 l "isa"
+7 1 0.1176321 l "isa"
+4 7 0.1649875 l "isa"
+7 4 0.1176715 l "isa"
+8 10 0.3333333 l "isa"
+10 8 0.1428571 l "isa"
+9 10 0.3333333 l "isa"
+10 9 0.1428571 l "isa"
+1 2 0.2077104 l "definition"
+2 1 0.2273743 l "definition"
+2 3 0.2060694 l "definition"
+3 2 0.1600299 l "definition"
+2 6 0.2030060 l "definition"
+6 2 0.1407080 l "definition"
+4 5 0.2035303 l "definition"
+5 4 0.1928163 l "definition"
+1 8 0.2781811 l "substring"
+8 1 0.6666667 l "substring"
+4 9 0.2795389 l "substring"
+9 4 0.6666667 l "substring"
+7 10 0.1993713 l "substring"
+10 7 0.2857143 l "substring"
+1 8 0.2781811 l "distance"
+8 1 0.6666667 l "distance"
+4 9 0.2795389 l "distance"
+9 4 0.6666667 l "distance"
+7 10 0.1993713 l "distance"
+10 7 0.2857143 l "distance"
+*Edges

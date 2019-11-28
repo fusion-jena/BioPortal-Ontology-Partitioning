@@ -1,0 +1,15 @@
+*Vertices 2
+1 "diclofenac" ellipse
+2 "Voltaren" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7082599 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7082599 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7082599 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7082599 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7082599 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Head_Injuries" ellipse
+2 "Injuries" ellipse
+*Arcs
+1 2 0.3484962 l "substring"
+2 1 0.1774265 l "substring"
+1 2 0.3484962 l "substring"
+2 1 0.1774265 l "substring"
+*Edges

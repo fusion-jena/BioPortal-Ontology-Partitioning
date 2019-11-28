@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Analytical study" ellipse
+2 "family based analytical study" ellipse
+3 "population based analytical study" ellipse
+*Arcs
+2 1 0.7727273 l "isa"
+1 2 0.4451372 l "isa"
+3 1 0.7104247 l "isa"
+1 3 0.4014962 l "isa"
+1 2 0.4451372 l "substring"
+2 1 0.7727273 l "substring"
+1 3 0.4014962 l "substring"
+3 1 0.7104247 l "substring"
+2 1 0.7727273 l "isa"
+1 2 0.4451372 l "isa"
+3 1 0.7104247 l "isa"
+1 3 0.4014962 l "isa"
+1 2 0.4451372 l "substring"
+2 1 0.7727273 l "substring"
+1 3 0.4014962 l "substring"
+3 1 0.7104247 l "substring"
+*Edges

@@ -1,0 +1,78 @@
+*Vertices 23
+1 "Attribute" ellipse
+2 "Base Quality" ellipse
+3 "Breakpoint" ellipse
+4 "Circular Helix" ellipse
+5 "Comment" ellipse
+6 "Conditional Genotype Quality" ellipse
+7 "External Reference" ellipse
+8 "Feature" ellipse
+9 "Functional Specification" ellipse
+10 "Gametic Phase" ellipse
+11 "Genome Analysis" ellipse
+12 "Genotype" ellipse
+13 "Genotyping" ellipse
+14 "Helix Structure" ellipse
+15 "Information Content Entity" ellipse
+16 "Locus" ellipse
+17 "Mapping Quality" ellipse
+18 "Phenotype" ellipse
+19 "Phred Score" ellipse
+20 "Quality" ellipse
+21 "Score" ellipse
+22 "Variant Calling" ellipse
+23 "Watson-Crick Helix" ellipse
+*Arcs
+2 21 0.5000000 l "isa"
+21 2 0.0714286 l "isa"
+3 16 1.0000000 l "isa"
+16 3 0.5000000 l "isa"
+4 14 1.0000000 l "isa"
+14 4 0.3333333 l "isa"
+5 15 1.0000000 l "isa"
+15 5 0.1111111 l "isa"
+6 19 0.3333333 l "isa"
+19 6 0.1250000 l "isa"
+7 15 1.0000000 l "isa"
+15 7 0.1111111 l "isa"
+8 15 1.0000000 l "isa"
+15 8 0.1111111 l "isa"
+9 15 0.5000000 l "isa"
+15 9 0.1111111 l "isa"
+10 20 1.0000000 l "isa"
+20 10 0.0833333 l "isa"
+12 9 0.2000000 l "isa"
+9 12 0.5000000 l "isa"
+13 11 0.5000000 l "isa"
+11 13 0.2500000 l "isa"
+14 20 0.3333333 l "isa"
+20 14 0.0833333 l "isa"
+16 15 0.5000000 l "isa"
+15 16 0.1111111 l "isa"
+17 21 0.5000000 l "isa"
+21 17 0.0714286 l "isa"
+18 20 0.5000000 l "isa"
+20 18 0.0833333 l "isa"
+19 21 0.2500000 l "isa"
+21 19 0.1428571 l "isa"
+20 1 0.0833333 l "isa"
+1 20 1.0000000 l "isa"
+22 11 1.0000000 l "isa"
+11 22 0.2500000 l "isa"
+23 14 1.0000000 l "isa"
+14 23 0.3333333 l "isa"
+2 20 0.5000000 l "substring"
+20 2 0.0833333 l "substring"
+6 12 0.3333333 l "substring"
+12 6 0.2000000 l "substring"
+6 20 0.3333333 l "substring"
+20 6 0.0833333 l "substring"
+17 20 0.5000000 l "substring"
+20 17 0.0833333 l "substring"
+19 21 0.2500000 l "substring"
+21 19 0.1428571 l "substring"
+12 13 0.2000000 l "distance"
+13 12 0.5000000 l "distance"
+12 18 0.2000000 l "distance"
+18 12 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "TotalBilirubin" ellipse
+2 "TotalBilirubinTest" ellipse
+*Arcs
+2 1 0.2857143 l "definition"
+1 2 0.5000000 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "other" ellipse
+2 "adjuncts used to administer therapies such as spacer devices" ellipse
+*Arcs
+2 1 0.3413319 l "isa"
+1 2 0.0376585 l "isa"
+2 1 0.3413319 l "isa"
+1 2 0.0376585 l "isa"
+2 1 0.3413319 l "isa"
+1 2 0.0376585 l "isa"
+2 1 0.3413319 l "isa"
+1 2 0.0376585 l "isa"
+*Edges

@@ -1,0 +1,64 @@
+*Vertices 17
+1 "device categories" ellipse
+2 "stimulation software" ellipse
+3 "psychopy" ellipse
+4 "opensesame" ellipse
+5 "presentation" ellipse
+6 "eeg recording software" ellipse
+7 "electrode location file" ellipse
+8 "brainvision recorder" ellipse
+9 "brainvision pycorder" ellipse
+10 "grounding electrode" ellipse
+11 "brainvision v-amp" ellipse
+12 "brainvision actichamp" ellipse
+13 "electrode" ellipse
+14 "software" ellipse
+15 "reference electrode" ellipse
+16 "amplifier" ellipse
+17 "computer" ellipse
+*Arcs
+2 14 0.4000000 l "isa"
+14 2 0.4000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.2000000 l "isa"
+6 14 0.4000000 l "isa"
+14 6 0.4000000 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.2000000 l "isa"
+8 6 0.5000000 l "isa"
+6 8 0.2000000 l "isa"
+9 6 0.5000000 l "isa"
+6 9 0.2000000 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.3333333 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.3333333 l "isa"
+12 16 1.0000000 l "isa"
+16 12 0.3333333 l "isa"
+13 1 0.1666667 l "isa"
+1 13 0.1000000 l "isa"
+14 17 0.2000000 l "isa"
+17 14 0.5000000 l "isa"
+15 13 1.0000000 l "isa"
+13 15 0.3333333 l "isa"
+16 1 0.3333333 l "isa"
+1 16 0.1000000 l "isa"
+17 1 0.5000000 l "isa"
+1 17 0.1000000 l "isa"
+2 14 0.4000000 l "substring"
+14 2 0.4000000 l "substring"
+6 14 0.4000000 l "substring"
+14 6 0.4000000 l "substring"
+7 13 0.5000000 l "substring"
+13 7 0.1666667 l "substring"
+10 13 1.0000000 l "substring"
+13 10 0.3333333 l "substring"
+13 15 0.3333333 l "substring"
+15 13 1.0000000 l "substring"
+8 9 0.5000000 l "distance"
+9 8 0.5000000 l "distance"
+*Edges

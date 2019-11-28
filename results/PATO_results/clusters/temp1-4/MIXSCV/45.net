@@ -1,0 +1,9 @@
+*Vertices 2
+1 "obligate anaerobe" ellipse
+2 "obligate anaerobe" ellipse
+*Arcs
+1 2 0.1666667 l "substring"
+2 1 0.1666667 l "substring"
+1 2 0.1666667 l "distance"
+2 1 0.1666667 l "distance"
+*Edges

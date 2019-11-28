@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Dexter" ellipse
+2 "Dorper" ellipse
+3 "Texel" ellipse
+*Arcs
+1 2 0.3661547 l "distance"
+2 1 0.2174132 l "distance"
+1 3 0.3435818 l "distance"
+3 1 0.1572088 l "distance"
+1 2 0.3661547 l "distance"
+2 1 0.2174132 l "distance"
+1 3 0.3435818 l "distance"
+3 1 0.1572088 l "distance"
+1 2 0.3661547 l "distance"
+2 1 0.2174132 l "distance"
+1 3 0.3435818 l "distance"
+3 1 0.1572088 l "distance"
+1 2 0.3661547 l "distance"
+2 1 0.2174132 l "distance"
+1 3 0.3435818 l "distance"
+3 1 0.1572088 l "distance"
+*Edges

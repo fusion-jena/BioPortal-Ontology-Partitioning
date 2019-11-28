@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Gene" ellipse
+2 "Genetic factor" ellipse
+*Arcs
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+1 2 0.3071031 l "isa"
+2 1 0.6814238 l "isa"
+1 2 0.3071031 l "substring"
+2 1 0.6814238 l "substring"
+*Edges

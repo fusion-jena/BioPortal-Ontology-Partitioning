@@ -1,0 +1,18 @@
+*Vertices 3
+1 "identifier role" ellipse
+2 "designative purpose" ellipse
+3 "version role" ellipse
+*Arcs
+1 2 0.2826473 l "isa"
+2 1 0.1765731 l "isa"
+3 2 0.2963278 l "isa"
+2 3 0.1803250 l "isa"
+1 2 0.2826473 l "isa"
+2 1 0.1765731 l "isa"
+3 2 0.2963278 l "isa"
+2 3 0.1803250 l "isa"
+1 2 0.2826473 l "isa"
+2 1 0.1765731 l "isa"
+3 2 0.2963278 l "isa"
+2 3 0.1803250 l "isa"
+*Edges

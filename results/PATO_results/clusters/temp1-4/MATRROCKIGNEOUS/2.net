@@ -1,0 +1,21 @@
+*Vertices 6
+1 "Dacite" ellipse
+2 "Pumice" ellipse
+3 "SpatterCone" ellipse
+4 "Trachyte" ellipse
+5 "VolcanicNeck" ellipse
+6 "VolcanicRock" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.0500000 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0500000 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0500000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0500000 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1000000 l "isa"
+5 6 1.0000000 l "distance"
+6 5 0.1000000 l "distance"
+*Edges

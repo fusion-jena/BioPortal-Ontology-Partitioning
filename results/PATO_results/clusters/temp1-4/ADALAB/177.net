@@ -1,0 +1,24 @@
+*Vertices 3
+1 "ALTCount" ellipse
+2 "ASTCount" ellipse
+3 "TransaminaseBiochemistry" ellipse
+*Arcs
+3 1 0.1586276 l "definition"
+1 3 0.2017360 l "definition"
+3 2 0.1586276 l "definition"
+2 3 0.2017360 l "definition"
+1 2 0.2105995 l "distance"
+2 1 0.2105995 l "distance"
+3 1 0.1586276 l "definition"
+1 3 0.2017360 l "definition"
+3 2 0.1586276 l "definition"
+2 3 0.2017360 l "definition"
+1 2 0.2105995 l "distance"
+2 1 0.2105995 l "distance"
+3 1 0.1586276 l "definition"
+1 3 0.2017360 l "definition"
+3 2 0.1586276 l "definition"
+2 3 0.2017360 l "definition"
+1 2 0.2105995 l "distance"
+2 1 0.2105995 l "distance"
+*Edges

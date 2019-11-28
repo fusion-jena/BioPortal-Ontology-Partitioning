@@ -1,0 +1,22 @@
+*Vertices 3
+1 "high temperature environment" ellipse
+2 "high osmolarity environment" ellipse
+3 "environmental system determined by a quality" ellipse
+*Arcs
+1 3 0.2361171 l "isa"
+3 1 0.1026005 l "isa"
+2 3 0.2342995 l "isa"
+3 2 0.1026005 l "isa"
+1 3 0.2361171 l "definition"
+3 1 0.1026005 l "definition"
+2 3 0.2342995 l "definition"
+3 2 0.1026005 l "definition"
+1 3 0.2361171 l "isa"
+3 1 0.1026005 l "isa"
+2 3 0.2342995 l "isa"
+3 2 0.1026005 l "isa"
+1 3 0.2361171 l "definition"
+3 1 0.1026005 l "definition"
+2 3 0.2342995 l "definition"
+3 2 0.1026005 l "definition"
+*Edges

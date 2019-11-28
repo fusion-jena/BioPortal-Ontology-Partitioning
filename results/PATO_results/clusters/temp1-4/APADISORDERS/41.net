@@ -1,0 +1,53 @@
+*Vertices 10
+1 "ANTIC" ellipse
+2 "Algorithms" ellipse
+3 "Computer_Applications" ellipse
+4 "Computer_Games" ellipse
+5 "Computer_Simulation" ellipse
+6 "Error_Analysis" ellipse
+7 "Intelligent_Agents" ellipse
+8 "Semantic_Networks" ellipse
+9 "Word_Processing" ellipse
+10 "ComputerApplications" ellipse
+*Arcs
+2 10 1.0000000 l "isa"
+10 2 0.0758688 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.1550362 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0758688 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0758688 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0758688 l "isa"
+7 10 0.3390766 l "isa"
+10 7 0.0593756 l "isa"
+8 10 0.5039293 l "isa"
+10 8 0.0634989 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0758688 l "isa"
+1 8 0.0281719 l "substring"
+8 1 0.4960707 l "substring"
+3 10 1.0000000 l "distance"
+10 3 0.1550362 l "distance"
+2 10 1.0000000 l "isa"
+10 2 0.0758688 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.1550362 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0758688 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0758688 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0758688 l "isa"
+7 10 0.3390766 l "isa"
+10 7 0.0593756 l "isa"
+8 10 0.5039293 l "isa"
+10 8 0.0634989 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0758688 l "isa"
+1 8 0.0281719 l "substring"
+8 1 0.4960707 l "substring"
+3 10 1.0000000 l "distance"
+10 3 0.1550362 l "distance"
+*Edges

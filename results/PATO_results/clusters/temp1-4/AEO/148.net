@@ -1,0 +1,18 @@
+*Vertices 3
+1 "combined estrogen plus progestin therapy" ellipse
+2 "estrogen" ellipse
+3 "stroke" ellipse
+*Arcs
+1 2 0.1739540 l "substring"
+2 1 0.2670055 l "substring"
+2 3 0.2919678 l "distance"
+3 2 0.2977914 l "distance"
+1 2 0.1739540 l "substring"
+2 1 0.2670055 l "substring"
+2 3 0.2919678 l "distance"
+3 2 0.2977914 l "distance"
+1 2 0.1739540 l "substring"
+2 1 0.2670055 l "substring"
+2 3 0.2919678 l "distance"
+3 2 0.2977914 l "distance"
+*Edges

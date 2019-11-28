@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Endocrine_Neoplasms" ellipse
+2 "Neoplasms" ellipse
+3 "Nervous_System_Neoplasms" ellipse
+*Arcs
+1 2 0.3462845 l "substring"
+2 1 0.1515304 l "substring"
+2 3 0.1515304 l "substring"
+3 2 0.3462845 l "substring"
+1 2 0.3462845 l "substring"
+2 1 0.1515304 l "substring"
+2 3 0.1515304 l "substring"
+3 2 0.3462845 l "substring"
+*Edges

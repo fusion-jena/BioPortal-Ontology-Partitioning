@@ -1,0 +1,67 @@
+*Vertices 22
+1 "goat breed" ellipse
+2 "Australian Goat" ellipse
+3 "Booted Goat" ellipse
+4 "Canindé" ellipse
+5 "Corsican" ellipse
+6 "Daera Din Panah" ellipse
+7 "Erzgebirg" ellipse
+8 "Grisons Striped" ellipse
+9 "Hexi Cashmere" ellipse
+10 "Irish Goat" ellipse
+11 "Jining Grey" ellipse
+12 "Murcia-Granada" ellipse
+13 "Myotonic" ellipse
+14 "Nigerian Dwarf" ellipse
+15 "Repartida" ellipse
+16 "Russian White" ellipse
+17 "Sahelian" ellipse
+18 "San Clemente" ellipse
+19 "White Shorthaired Goat" ellipse
+20 "Zhongwei" ellipse
+21 "Chèvre des Fossés" ellipse
+22 "Massif Central" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0111111 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0111111 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0111111 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0111111 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0111111 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0111111 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0111111 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0111111 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0111111 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0111111 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0111111 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0111111 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0111111 l "isa"
+15 1 1.0000000 l "isa"
+1 15 0.0111111 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0111111 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0111111 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0111111 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0111111 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0111111 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0111111 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0111111 l "isa"
+*Edges

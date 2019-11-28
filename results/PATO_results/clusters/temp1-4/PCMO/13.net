@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CHILD_ID" ellipse
+2 "boolean"
+*Arcs
+1 2 0.1333333 l "IS_DRUG"
+2 1 0.6666667 l "IS_DRUG"
+1 2 0.1333333 l "IS_SHOWER"
+2 1 0.6666667 l "IS_SHOWER"
+*Edges

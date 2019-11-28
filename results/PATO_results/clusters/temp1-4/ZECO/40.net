@@ -1,0 +1,19 @@
+*Vertices 2
+1 "epistaxis / 衄血" ellipse
+2 "Epistaxis / 鼻衄" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

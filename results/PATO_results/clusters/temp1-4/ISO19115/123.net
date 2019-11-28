@@ -1,0 +1,21 @@
+*Vertices 2
+1 "subnational region" ellipse
+2 "NUTS region" ellipse
+*Arcs
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+2 1 0.8338680 l "isa"
+1 2 0.5852790 l "isa"
+*Edges

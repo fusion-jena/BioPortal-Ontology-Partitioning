@@ -1,0 +1,59 @@
+*Vertices 14
+1 "European" ellipse
+2 "uncategorised population" ellipse
+3 "genetically isolated population" ellipse
+4 "Italian" ellipse
+5 "Val Borbera" ellipse
+6 "Friuli Venezia Giulia" ellipse
+7 "Carlantino" ellipse
+8 "Hutterite" ellipse
+9 "Erasmus Rucphen" ellipse
+10 "Ashkenazi Jew" ellipse
+11 "Cilento" ellipse
+12 "Italian founder" ellipse
+13 "South Tyrolean" ellipse
+14 "Bashkir" ellipse
+*Arcs
+4 1 0.0588235 l "isa"
+1 4 0.0434783 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.0344828 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0588235 l "isa"
+6 3 0.5000000 l "isa"
+3 6 0.0344828 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.0588235 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.0344828 l "isa"
+7 4 0.5000000 l "isa"
+4 7 0.0588235 l "isa"
+8 1 0.5000000 l "isa"
+1 8 0.0434783 l "isa"
+8 3 0.5000000 l "isa"
+3 8 0.0344828 l "isa"
+9 1 0.5000000 l "isa"
+1 9 0.0434783 l "isa"
+9 3 0.5000000 l "isa"
+3 9 0.0344828 l "isa"
+10 2 0.5000000 l "isa"
+2 10 0.0769231 l "isa"
+10 3 0.5000000 l "isa"
+3 10 0.0344828 l "isa"
+11 3 0.5000000 l "isa"
+3 11 0.0344828 l "isa"
+11 4 0.5000000 l "isa"
+4 11 0.0588235 l "isa"
+12 3 0.3333333 l "isa"
+3 12 0.0344828 l "isa"
+12 4 0.6666667 l "isa"
+4 12 0.1176471 l "isa"
+13 1 0.5000000 l "isa"
+1 13 0.0434783 l "isa"
+13 3 0.5000000 l "isa"
+3 13 0.0344828 l "isa"
+14 2 1.0000000 l "isa"
+2 14 0.0769231 l "isa"
+4 12 0.1176471 l "substring"
+12 4 0.6666667 l "substring"
+*Edges

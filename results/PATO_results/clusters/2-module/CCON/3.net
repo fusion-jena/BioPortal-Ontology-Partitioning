@@ -1,0 +1,198 @@
+*Vertices 39
+1 "basal area" ellipse
+2 "biodiversity" ellipse
+3 "community dynamics" ellipse
+4 "conservation status" ellipse
+5 "density" ellipse
+6 "diameter class distribution" ellipse
+7 "difference" ellipse
+8 "diversity index" ellipse
+9 "geographical distribution" ellipse
+10 "metapopulation" ellipse
+11 "death rate" ellipse
+12 "birth rate" ellipse
+13 "number of individuos" ellipse
+14 "pielou's evenness" ellipse
+15 "population dynamics" ellipse
+16 "recruitment" ellipse
+17 "simpson's index" ellipse
+18 "Sørensen–Dice index" ellipse
+19 "species" ellipse
+20 "species composition" ellipse
+21 "species diversity" ellipse
+22 "species evenness" ellipse
+23 "species richness" ellipse
+24 "specific name" ellipse
+25 "shannon's diversity index" ellipse
+26 "community" ellipse
+27 "community structure" ellipse
+28 "diversity" ellipse
+29 "plant community" ellipse
+30 "population" ellipse
+31 "densidad de población" ellipse
+32 "population size" ellipse
+33 "sample" ellipse
+34 "specimen" ellipse
+35 "vegetation" ellipse
+36 "vegetation cover" ellipse
+37 "Class"
+38 "is characteristic of"
+39 "is characterized by"
+*Arcs
+1 27 1.0000000 l "isa"
+27 1 0.1000000 l "isa"
+2 28 1.0000000 l "isa"
+28 2 0.3000000 l "isa"
+5 27 0.5000000 l "isa"
+27 5 0.1000000 l "isa"
+6 27 0.5000000 l "isa"
+27 6 0.1000000 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.1000000 l "isa"
+8 28 0.2857143 l "isa"
+28 8 0.2000000 l "isa"
+11 3 0.2000000 l "isa"
+3 11 0.1000000 l "isa"
+11 15 0.2000000 l "isa"
+15 11 0.1428571 l "isa"
+12 15 0.2500000 l "isa"
+15 12 0.1428571 l "isa"
+13 27 0.5000000 l "isa"
+27 13 0.1000000 l "isa"
+14 22 1.0000000 l "isa"
+22 14 0.3333333 l "isa"
+16 3 0.3333333 l "isa"
+3 16 0.1000000 l "isa"
+17 21 1.0000000 l "isa"
+21 17 0.2000000 l "isa"
+18 20 1.0000000 l "isa"
+20 18 0.3333333 l "isa"
+20 8 0.3333333 l "isa"
+8 20 0.1428571 l "isa"
+21 8 0.2000000 l "isa"
+8 21 0.1428571 l "isa"
+22 8 0.3333333 l "isa"
+8 22 0.1428571 l "isa"
+23 8 0.5000000 l "isa"
+8 23 0.1428571 l "isa"
+25 21 0.3333333 l "isa"
+21 25 0.2000000 l "isa"
+29 26 0.3333333 l "isa"
+26 29 0.0769231 l "isa"
+31 15 1.0000000 l "isa"
+15 31 0.1428571 l "isa"
+32 15 0.5000000 l "isa"
+15 32 0.1428571 l "isa"
+33 30 0.5000000 l "isa"
+30 33 0.0666667 l "isa"
+34 33 0.5000000 l "isa"
+33 34 0.5000000 l "isa"
+35 29 0.3333333 l "isa"
+29 35 0.1666667 l "isa"
+36 35 0.5000000 l "isa"
+35 36 0.6666667 l "isa"
+26 19 0.1153846 l "has component"
+19 26 0.1250000 l "has component"
+19 9 0.0833333 l "has distribution"
+9 19 1.0000000 l "has distribution"
+26 11 0.0769231 l "has mortality"
+11 26 0.4000000 l "has mortality"
+30 12 0.1333333 l "has natality"
+12 30 0.5000000 l "has natality"
+19 13 0.0416667 l "hasNumberOfIndividuals"
+13 19 0.5000000 l "hasNumberOfIndividuals"
+26 16 0.0769231 l "has recruitment"
+16 26 0.6666667 l "has recruitment"
+19 24 0.0833333 l "has specific name"
+24 19 1.0000000 l "has specific name"
+19 4 0.0833333 l "has status"
+4 19 1.0000000 l "has status"
+9 19 1.0000000 l "is habitat of"
+19 9 0.0833333 l "is habitat of"
+11 26 0.4000000 l "is mortality of"
+26 11 0.0769231 l "is mortality of"
+12 30 0.5000000 l "is natality of"
+30 12 0.1333333 l "is natality of"
+19 26 0.1250000 l "is part of"
+26 19 0.1153846 l "is part of"
+16 26 0.6666667 l "is recruitment of"
+26 16 0.0769231 l "is recruitment of"
+24 19 1.0000000 l "is specific name of"
+19 24 0.0833333 l "is specific name of"
+4 19 1.0000000 l "is status of"
+19 4 0.0833333 l "is status of"
+19 26 0.1250000 l "is part of"
+26 19 0.1153846 l "is part of"
+19 19 0.1666667 l "has exact match"
+19 19 0.1666667 l "has exact match"
+19 19 0.1666667 l "mapping relation"
+19 19 0.1666667 l "mapping relation"
+3 38 0.1000000 l "definition"
+38 3 0.5000000 l "definition"
+3 29 0.1000000 l "definition"
+29 3 0.1666667 l "definition"
+10 19 0.1428571 l "definition"
+19 10 0.0416667 l "definition"
+10 26 0.1428571 l "definition"
+26 10 0.0384615 l "definition"
+26 3 0.0769231 l "definition"
+3 26 0.2000000 l "definition"
+26 39 0.0384615 l "definition"
+39 26 1.0000000 l "definition"
+26 27 0.0769231 l "definition"
+27 26 0.2000000 l "definition"
+26 28 0.0384615 l "definition"
+28 26 0.1000000 l "definition"
+27 38 0.1000000 l "definition"
+38 27 0.5000000 l "definition"
+27 29 0.1000000 l "definition"
+29 27 0.1666667 l "definition"
+30 10 0.1333333 l "definition"
+10 30 0.2857143 l "definition"
+30 19 0.0666667 l "definition"
+19 30 0.0416667 l "definition"
+30 26 0.0666667 l "definition"
+26 30 0.0384615 l "definition"
+2 28 1.0000000 l "substring"
+28 2 0.3000000 l "substring"
+3 26 0.2000000 l "substring"
+26 3 0.0769231 l "substring"
+6 37 0.5000000 l "substring"
+37 6 0.2000000 l "substring"
+8 25 0.1428571 l "substring"
+25 8 0.3333333 l "substring"
+8 28 0.2857143 l "substring"
+28 8 0.2000000 l "substring"
+10 30 0.2857143 l "substring"
+30 10 0.1333333 l "substring"
+15 30 0.1428571 l "substring"
+30 15 0.0666667 l "substring"
+19 20 0.0416667 l "substring"
+20 19 0.3333333 l "substring"
+19 21 0.0416667 l "substring"
+21 19 0.2000000 l "substring"
+19 22 0.0416667 l "substring"
+22 19 0.3333333 l "substring"
+19 23 0.0416667 l "substring"
+23 19 0.5000000 l "substring"
+21 28 0.2000000 l "substring"
+28 21 0.1000000 l "substring"
+25 28 0.3333333 l "substring"
+28 25 0.1000000 l "substring"
+26 27 0.0769231 l "substring"
+27 26 0.2000000 l "substring"
+26 29 0.0769231 l "substring"
+29 26 0.3333333 l "substring"
+30 32 0.0666667 l "substring"
+32 30 0.5000000 l "substring"
+35 36 0.6666667 l "substring"
+36 35 0.5000000 l "substring"
+2 28 1.0000000 l "distance"
+28 2 0.3000000 l "distance"
+5 28 0.5000000 l "distance"
+28 5 0.1000000 l "distance"
+11 12 0.2000000 l "distance"
+12 11 0.2500000 l "distance"
+19 34 0.0416667 l "distance"
+34 19 0.5000000 l "distance"
+*Edges

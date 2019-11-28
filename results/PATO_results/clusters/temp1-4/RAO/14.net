@@ -1,0 +1,7 @@
+*Vertices 2
+1 "immunosuppressants" ellipse
+2 "everolimus" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0666667 l "isa"
+*Edges

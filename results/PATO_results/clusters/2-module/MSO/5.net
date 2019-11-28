@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Interferon_Beta" ellipse
+2 "Interferon_Beta_1a" ellipse
+3 "Interferon_Beta_1b" ellipse
+4 "Neutralizing_antibodies_of_interferon_beta" ellipse
+*Arcs
+1 2 0.4000000 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.4000000 l "substring"
+3 1 0.4000000 l "substring"
+1 4 0.2000000 l "substring"
+4 1 1.0000000 l "substring"
+1 2 0.4000000 l "distance"
+2 1 0.4000000 l "distance"
+1 3 0.4000000 l "distance"
+3 1 0.4000000 l "distance"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+*Edges

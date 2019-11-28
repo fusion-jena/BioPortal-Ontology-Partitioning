@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Epigenetics" ellipse
+2 "Sumoylation" ellipse
+*Arcs
+2 1 0.6111111 l "isa"
+1 2 0.1659123 l "isa"
+2 1 0.6111111 l "isa"
+1 2 0.1659123 l "isa"
+*Edges

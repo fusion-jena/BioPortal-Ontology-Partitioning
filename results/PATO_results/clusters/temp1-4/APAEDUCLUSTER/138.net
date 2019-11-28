@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Elective_Mutism" ellipse
+2 "Mutism" ellipse
+*Arcs
+1 2 0.2603942 l "substring"
+2 1 0.1344456 l "substring"
+1 2 0.2603942 l "substring"
+2 1 0.1344456 l "substring"
+*Edges

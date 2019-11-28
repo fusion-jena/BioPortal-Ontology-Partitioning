@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Stove" ellipse
+2 "Oven_or_Stove_not_Working" ellipse
+*Arcs
+2 1 0.2000000 l "definition"
+1 2 0.6666667 l "definition"
+1 2 0.6666667 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

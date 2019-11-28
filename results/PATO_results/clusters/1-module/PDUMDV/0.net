@@ -1,0 +1,49 @@
+*Vertices 16
+1 "stereoblastula - stereogastrula stage" ellipse
+2 "protrochophore stage" ellipse
+3 "early trochophore stage" ellipse
+4 "mid trochophore stage" ellipse
+5 "late trochophore stage" ellipse
+6 "early metatrochophore stage" ellipse
+7 "mid metatrochophore stage" ellipse
+8 "late metatrochophore stage" ellipse
+9 "early nectochaete stage" ellipse
+10 "mid nectochaete stage" ellipse
+11 "late nectochaete stage" ellipse
+12 "three-segmented errant juvenile stage" ellipse
+13 "4- and 5-segmented errant juvenile stage" ellipse
+14 "cephalic metamorphosis stage" ellipse
+15 "small atokous worm stage" ellipse
+16 "large atokous worm stage" ellipse
+*Arcs
+2 1 0.2000000 l "definition"
+1 2 0.2000000 l "definition"
+3 2 0.2000000 l "definition"
+2 3 0.2000000 l "definition"
+4 3 0.2000000 l "definition"
+3 4 0.2000000 l "definition"
+5 4 0.2000000 l "definition"
+4 5 0.2000000 l "definition"
+6 5 0.2000000 l "definition"
+5 6 0.2000000 l "definition"
+7 6 0.2000000 l "definition"
+6 7 0.2000000 l "definition"
+8 7 0.2000000 l "definition"
+7 8 0.2000000 l "definition"
+9 8 0.2000000 l "definition"
+8 9 0.2000000 l "definition"
+10 9 0.2000000 l "definition"
+9 10 0.2000000 l "definition"
+11 10 0.2000000 l "definition"
+10 11 0.2000000 l "definition"
+12 11 0.2000000 l "definition"
+11 12 0.2000000 l "definition"
+13 12 0.2000000 l "definition"
+12 13 0.2000000 l "definition"
+14 13 0.2000000 l "definition"
+13 14 0.2000000 l "definition"
+15 14 0.2000000 l "definition"
+14 15 0.2000000 l "definition"
+16 15 0.2000000 l "definition"
+15 16 0.2000000 l "definition"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "repelling" ellipse
+2 "receiving" ellipse
+3 "moving" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.0476190 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.2000000 l "distance"
+*Edges

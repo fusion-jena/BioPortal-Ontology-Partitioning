@@ -1,0 +1,42 @@
+*Vertices 7
+1 "Aniridia" ellipse
+2 "AniridiaProcess" ellipse
+3 "BuddChiariSyndrome" ellipse
+4 "StuartBrasSyndrome" ellipse
+5 "Syndrome" ellipse
+6 "WiedemannBeckwithEMG" ellipse
+7 "WiedemannBeckwithEMGProcess" ellipse
+*Arcs
+1 5 0.4827586 l "isa"
+5 1 0.0730040 l "isa"
+3 5 0.5313478 l "isa"
+5 3 0.1498004 l "isa"
+4 5 0.4294606 l "isa"
+5 4 0.1441118 l "isa"
+6 5 0.4827586 l "isa"
+5 6 0.0730040 l "isa"
+1 2 0.5172414 l "substring"
+2 1 0.2871681 l "substring"
+3 5 0.5313478 l "substring"
+5 3 0.1498004 l "substring"
+4 5 0.4294606 l "substring"
+5 4 0.1441118 l "substring"
+6 7 0.5172414 l "substring"
+7 6 0.2871681 l "substring"
+1 5 0.4827586 l "isa"
+5 1 0.0730040 l "isa"
+3 5 0.5313478 l "isa"
+5 3 0.1498004 l "isa"
+4 5 0.4294606 l "isa"
+5 4 0.1441118 l "isa"
+6 5 0.4827586 l "isa"
+5 6 0.0730040 l "isa"
+1 2 0.5172414 l "substring"
+2 1 0.2871681 l "substring"
+3 5 0.5313478 l "substring"
+5 3 0.1498004 l "substring"
+4 5 0.4294606 l "substring"
+5 4 0.1441118 l "substring"
+6 7 0.5172414 l "substring"
+7 6 0.2871681 l "substring"
+*Edges

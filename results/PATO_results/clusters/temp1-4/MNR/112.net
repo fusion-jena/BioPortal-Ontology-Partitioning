@@ -1,0 +1,13 @@
+*Vertices 2
+1 "mouse life cycle stage" ellipse
+2 "mouse life cycle" ellipse
+*Arcs
+2 1 0.2291547 l "isa"
+1 2 0.0193684 l "isa"
+1 2 0.0193684 l "substring"
+2 1 0.2291547 l "substring"
+2 1 0.2291547 l "isa"
+1 2 0.0193684 l "isa"
+1 2 0.0193684 l "substring"
+2 1 0.2291547 l "substring"
+*Edges

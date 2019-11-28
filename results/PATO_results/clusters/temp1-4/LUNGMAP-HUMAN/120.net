@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Balwen Welsh Mountain" ellipse
+2 "Welsh Mountain" ellipse
+*Arcs
+1 2 0.3624784 l "substring"
+2 1 0.2241195 l "substring"
+1 2 0.3624784 l "substring"
+2 1 0.2241195 l "substring"
+1 2 0.3624784 l "substring"
+2 1 0.2241195 l "substring"
+*Edges

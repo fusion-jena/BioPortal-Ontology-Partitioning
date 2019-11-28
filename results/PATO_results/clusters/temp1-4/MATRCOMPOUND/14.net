@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Czech Improved White" ellipse
+2 "Provençale" ellipse
+3 "Rove" ellipse
+*Arcs
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+1 3 0.5351444 l "substring"
+3 1 0.0744218 l "substring"
+2 3 0.5349439 l "substring"
+3 2 0.0744148 l "substring"
+*Edges

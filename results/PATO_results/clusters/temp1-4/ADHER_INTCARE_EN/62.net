@@ -1,0 +1,78 @@
+*Vertices 11
+1 "Abnormal_speech" ellipse
+2 "Abnormal_speech_due_to_other_impairment" ellipse
+3 "Expressive_Phonology" ellipse
+4 "Intonation_Volume_Rhythm_Rate" ellipse
+5 "Intonation_Volume_Rhythm_Rate_NotAvailable" ellipse
+6 "Intonation_Volume_Rhythm_Rate_UnknownOrNotAsked" ellipse
+7 "Normal_speech" ellipse
+8 "Prosody" ellipse
+9 "Speech_peculiar_or_difficult_to_understand" ellipse
+10 "Speech_with_abnormality" ellipse
+11 "Vocalizations" ellipse
+*Arcs
+1 4 0.2142857 l "isa"
+4 1 0.0797190 l "isa"
+2 4 0.3193613 l "isa"
+4 2 0.0825569 l "isa"
+4 8 0.0882327 l "isa"
+8 4 0.4776536 l "isa"
+5 4 0.7093581 l "isa"
+4 5 0.1940088 l "isa"
+6 4 0.7093581 l "isa"
+4 6 0.1940088 l "isa"
+7 4 0.2142857 l "isa"
+4 7 0.0797190 l "isa"
+8 3 0.5223464 l "isa"
+3 8 0.3269231 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.1052601 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.1052601 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.3846154 l "isa"
+1 2 0.2364771 l "substring"
+2 1 0.3403194 l "substring"
+1 7 0.5492372 l "substring"
+7 1 0.5492372 l "substring"
+2 7 0.3403194 l "substring"
+7 2 0.2364771 l "substring"
+4 5 0.1940088 l "substring"
+5 4 0.7093581 l "substring"
+4 6 0.1940088 l "substring"
+6 4 0.7093581 l "substring"
+1 7 0.5492372 l "distance"
+7 1 0.5492372 l "distance"
+1 4 0.2142857 l "isa"
+4 1 0.0797190 l "isa"
+2 4 0.3193613 l "isa"
+4 2 0.0825569 l "isa"
+4 8 0.0882327 l "isa"
+8 4 0.4776536 l "isa"
+5 4 0.7093581 l "isa"
+4 5 0.1940088 l "isa"
+6 4 0.7093581 l "isa"
+4 6 0.1940088 l "isa"
+7 4 0.2142857 l "isa"
+4 7 0.0797190 l "isa"
+8 3 0.5223464 l "isa"
+3 8 0.3269231 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.1052601 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.1052601 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.3846154 l "isa"
+1 2 0.2364771 l "substring"
+2 1 0.3403194 l "substring"
+1 7 0.5492372 l "substring"
+7 1 0.5492372 l "substring"
+2 7 0.3403194 l "substring"
+7 2 0.2364771 l "substring"
+4 5 0.1940088 l "substring"
+5 4 0.7093581 l "substring"
+4 6 0.1940088 l "substring"
+6 4 0.7093581 l "substring"
+1 7 0.5492372 l "distance"
+7 1 0.5492372 l "distance"
+*Edges

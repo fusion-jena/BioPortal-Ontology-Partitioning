@@ -1,0 +1,64 @@
+*Vertices 25
+1 "ICD-10 code" ellipse
+2 "Measurement" ellipse
+3 "Atomic" ellipse
+4 "Composite" ellipse
+5 "Parameter" ellipse
+6 "BluetoothLEMsg" ellipse
+7 "External" ellipse
+8 "WSN" ellipse
+9 "reaction_type"
+10 "Family" ellipse
+11 "after"
+12 "Action" ellipse
+13 "end"
+14 "classification" ellipse
+15 "url"
+16 "Hub" ellipse
+17 "Data" ellipse
+18 "Patient" ellipse
+19 "HTTP" ellipse
+20 "Alert" ellipse
+21 "Query" ellipse
+22 "mutant"
+23 "location"
+24 "Exact position" ellipse
+25 "format"
+*Arcs
+10 10 0.2792699 l "hasSubfam"
+10 10 0.2792699 l "hasSubfam"
+10 10 0.2792699 l "hasSubfam"
+10 10 0.2792699 l "hasSubfam"
+10 10 0.2792699 l "hasSubfam"
+10 10 0.2792699 l "hasSubfam"
+15 13 0.0622163 l "distance"
+13 15 0.0451342 l "distance"
+10 10 0.2792699 l "hasSubfam"
+10 10 0.2792699 l "hasSubfam"
+9 12 0.1243837 l "substring"
+12 9 0.1111111 l "substring"
+15 13 0.0622163 l "distance"
+13 15 0.0451342 l "distance"
+15 16 0.0585712 l "distance"
+16 15 0.0909091 l "distance"
+15 8 0.0585712 l "distance"
+8 15 0.1000000 l "distance"
+15 21 0.0585712 l "distance"
+21 15 0.2500000 l "distance"
+23 12 0.0894170 l "distance"
+12 23 0.1111111 l "distance"
+11 20 0.1775016 l "distance"
+20 11 0.1666667 l "distance"
+13 16 0.0424899 l "distance"
+16 13 0.0909091 l "distance"
+13 8 0.0424899 l "distance"
+8 13 0.1000000 l "distance"
+16 8 0.0909091 l "distance"
+8 16 0.1000000 l "distance"
+16 19 0.0909091 l "distance"
+19 16 0.2500000 l "distance"
+17 19 0.1250000 l "distance"
+19 17 0.2500000 l "distance"
+20 21 0.1666667 l "distance"
+21 20 0.2500000 l "distance"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "BirthCityName" ellipse
+2 "CityName" ellipse
+*Arcs
+1 2 0.4477702 l "isa"
+2 1 0.6300380 l "isa"
+1 2 0.4477702 l "substring"
+2 1 0.6300380 l "substring"
+1 2 0.4477702 l "isa"
+2 1 0.6300380 l "isa"
+1 2 0.4477702 l "substring"
+2 1 0.6300380 l "substring"
+1 2 0.4477702 l "isa"
+2 1 0.6300380 l "isa"
+1 2 0.4477702 l "substring"
+2 1 0.6300380 l "substring"
+1 2 0.4477702 l "isa"
+2 1 0.6300380 l "isa"
+1 2 0.4477702 l "substring"
+2 1 0.6300380 l "substring"
+*Edges

@@ -1,0 +1,43 @@
+*Vertices 10
+1 "Bax protein" ellipse
+2 "complement 3" ellipse
+3 "TRAIL-R3" ellipse
+4 "amyloid precursor protein" ellipse
+5 "cholesteryl ester transfer protein" ellipse
+6 "fibrinogen" ellipse
+7 "heat shock protein" ellipse
+8 "low-density lipoprotein" ellipse
+9 "plasma protein" ellipse
+10 "protein" ellipse
+*Arcs
+1 10 0.6666667 l "isa"
+10 1 0.0317460 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.0158730 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.0158730 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0317460 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0317460 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0158730 l "isa"
+7 10 0.6666667 l "isa"
+10 7 0.0317460 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0317460 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0317460 l "isa"
+1 10 0.6666667 l "substring"
+10 1 0.0317460 l "substring"
+4 10 1.0000000 l "substring"
+10 4 0.0317460 l "substring"
+5 10 1.0000000 l "substring"
+10 5 0.0317460 l "substring"
+7 10 0.6666667 l "substring"
+10 7 0.0317460 l "substring"
+8 10 1.0000000 l "substring"
+10 8 0.0317460 l "substring"
+9 10 1.0000000 l "substring"
+10 9 0.0317460 l "substring"
+*Edges

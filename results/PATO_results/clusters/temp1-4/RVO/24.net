@@ -1,0 +1,15 @@
+*Vertices 2
+1 "erythropoietin" ellipse
+2 "recombinant human erythropoietin" ellipse
+*Arcs
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+1 2 0.6683799 l "substring"
+2 1 0.6683799 l "substring"
+*Edges

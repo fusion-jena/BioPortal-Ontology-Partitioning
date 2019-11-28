@@ -1,0 +1,278 @@
+*Vertices 99
+1 "auranofin" ellipse
+2 "prednisone" ellipse
+3 "Anti-tumor necrosis factor alpha drug" ellipse
+4 "Tumor Necrosis Factor (TNF) Inhibitors" ellipse
+5 "Corticosteroids" ellipse
+6 "codeine" ellipse
+7 "Dexamethasone" ellipse
+8 "Glucocorticoids" ellipse
+9 "hydrocodone" ellipse
+10 "physical activity" ellipse
+11 "oxycodone" ellipse
+12 "Sulfasalazine" ellipse
+13 "TCA" ellipse
+14 "educational programs" ellipse
+15 "Education programs" ellipse
+16 "CSA" ellipse
+17 "belimumab" ellipse
+18 "Yoga" ellipse
+19 "Eicosapentaenoic Acid" ellipse
+20 "paracetamol" ellipse
+21 "aerobic exercise" ellipse
+22 "Anti-Inflammatory Agents" ellipse
+23 "Anti-Inflammatory Agents, Non-Steroidal" ellipse
+24 "arthroplasty" ellipse
+25 "azathioprine" ellipse
+26 "calcium pantothenate" ellipse
+27 "curcumin" ellipse
+28 "Cyclophosphamide" ellipse
+29 "Cyclosporine" ellipse
+30 "erythropoietin" ellipse
+31 "Exercise" ellipse
+32 "omega-3 fatty acids" ellipse
+33 "fish oil" ellipse
+34 "flurbiprofen" ellipse
+35 "hydroxychloroquine" ellipse
+36 "methotrexate" ellipse
+37 "naproxen" ellipse
+38 "nefopam" ellipse
+39 "nerve block" ellipse
+40 "pentazocine" ellipse
+41 "piroxicam" ellipse
+42 "relaxation" ellipse
+43 "Rest" ellipse
+44 "tilidine" ellipse
+45 "tumor necrosis factor" ellipse
+46 "gamma-Linolenic Acid" ellipse
+47 "leflunomide" ellipse
+48 "salsalate" ellipse
+49 "Tripterygium wilfordii" ellipse
+50 "stress management" ellipse
+51 "hot pack" ellipse
+52 "ice pack" ellipse
+53 "Synovectomy" ellipse
+54 "joint replacement" ellipse
+55 "total shoulder arthroplasty" ellipse
+56 "Mayo excision arthroplasty" ellipse
+57 "Calcium" ellipse
+58 "mobilizing exercises" ellipse
+59 "systemic" ellipse
+60 "physical" ellipse
+61 "borage oil" ellipse
+62 "opioids" ellipse
+63 "anti-tumor necrosis factor therapy" ellipse
+64 "Relaxation Therapy" ellipse
+65 "Glucocorticoid systemic preparation" ellipse
+66 "suprascapular nerve block" ellipse
+67 "Physical training teacher" ellipse
+68 "Arthroscopic synovectomy knee" ellipse
+69 "total wrist arthroplasty" ellipse
+70 "Muscle strength exercise" ellipse
+71 "strengthening exercises" ellipse
+72 "Psychosocial intervention strategy" ellipse
+73 "celecoxib" ellipse
+74 "Resting splinting" ellipse
+75 "stretching exercises" ellipse
+76 "infliximab" ellipse
+77 "etanercept" ellipse
+78 "Enbrel" ellipse
+79 "Remicade" ellipse
+80 "hemiarthroplasty" ellipse
+81 "adalimumab" ellipse
+82 "kinase inhibitor" ellipse
+83 "collagen type II" ellipse
+84 "Humira" ellipse
+85 "Nefopam Oral Tablet" ellipse
+86 "Cyclooxygenase 2 Inhibitors" ellipse
+87 "Group exercise" ellipse
+88 "Abatacept" ellipse
+89 "Orencia" ellipse
+90 "current use of resting hand splint" ellipse
+91 "Total arthroplasty of glenohumeral joint" ellipse
+92 "Tripterygium wilfordii root extract" ellipse
+93 "Janus kinase inhibitor" ellipse
+94 "MCP arthroplasty" ellipse
+95 "Nonpharmacologic" ellipse
+96 "nonpharmacologic measures" ellipse
+97 "radiation synovectomy" ellipse
+98 "recombinant human erythropoietin" ellipse
+99 "triple helical collagen type II" ellipse
+*Arcs
+19 32 0.5000000 l "isa"
+32 19 0.5000000 l "isa"
+20 23 0.5000000 l "isa"
+23 20 0.0714286 l "isa"
+23 22 0.1428571 l "isa"
+22 23 0.1250000 l "isa"
+27 23 0.5000000 l "isa"
+23 27 0.0714286 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.1428571 l "isa"
+7 22 0.3333333 l "isa"
+22 7 0.0625000 l "isa"
+7 8 0.3333333 l "isa"
+8 7 0.1111111 l "isa"
+31 10 0.1428571 l "isa"
+10 31 0.3333333 l "isa"
+32 33 0.5000000 l "isa"
+33 32 0.5000000 l "isa"
+34 23 0.5000000 l "isa"
+23 34 0.0714286 l "isa"
+8 5 0.1111111 l "isa"
+5 8 0.1428571 l "isa"
+8 22 0.1111111 l "isa"
+22 8 0.0625000 l "isa"
+9 6 0.3333333 l "isa"
+6 9 0.2500000 l "isa"
+9 62 0.3333333 l "isa"
+62 9 0.1666667 l "isa"
+37 23 0.5000000 l "isa"
+23 37 0.0714286 l "isa"
+38 23 0.5000000 l "isa"
+23 38 0.0714286 l "isa"
+11 6 0.3333333 l "isa"
+6 11 0.2500000 l "isa"
+11 62 0.3333333 l "isa"
+62 11 0.1666667 l "isa"
+40 62 0.5000000 l "isa"
+62 40 0.1666667 l "isa"
+41 22 0.5000000 l "isa"
+22 41 0.0625000 l "isa"
+41 23 0.5000000 l "isa"
+23 41 0.0714286 l "isa"
+2 5 0.2500000 l "isa"
+5 2 0.1428571 l "isa"
+2 22 0.2500000 l "isa"
+22 2 0.0625000 l "isa"
+2 8 0.2500000 l "isa"
+8 2 0.1111111 l "isa"
+43 42 0.2500000 l "isa"
+42 43 0.3333333 l "isa"
+12 22 0.3333333 l "isa"
+22 12 0.0625000 l "isa"
+12 23 0.3333333 l "isa"
+23 12 0.0714286 l "isa"
+44 62 0.5000000 l "isa"
+62 44 0.1666667 l "isa"
+48 23 0.5000000 l "isa"
+23 48 0.0714286 l "isa"
+50 72 0.5000000 l "isa"
+72 50 0.5000000 l "isa"
+54 24 0.5000000 l "isa"
+24 54 0.1250000 l "isa"
+55 54 0.3333333 l "isa"
+54 55 0.5000000 l "isa"
+61 46 0.5000000 l "isa"
+46 61 0.5000000 l "isa"
+73 23 0.5000000 l "isa"
+23 73 0.0714286 l "isa"
+73 86 0.5000000 l "isa"
+86 73 0.3333333 l "isa"
+76 22 0.2000000 l "isa"
+22 76 0.0625000 l "isa"
+76 3 0.2000000 l "isa"
+3 76 0.2000000 l "isa"
+76 4 0.2000000 l "isa"
+4 76 0.2000000 l "isa"
+77 3 0.2000000 l "isa"
+3 77 0.2000000 l "isa"
+77 4 0.2000000 l "isa"
+4 77 0.2000000 l "isa"
+78 77 0.5000000 l "isa"
+77 78 0.2000000 l "isa"
+79 76 0.5000000 l "isa"
+76 79 0.2000000 l "isa"
+81 22 0.1428571 l "isa"
+22 81 0.0625000 l "isa"
+81 3 0.1428571 l "isa"
+3 81 0.2000000 l "isa"
+81 4 0.1428571 l "isa"
+4 81 0.2000000 l "isa"
+84 81 0.5000000 l "isa"
+81 84 0.1428571 l "isa"
+86 23 0.3333333 l "isa"
+23 86 0.0714286 l "isa"
+3 22 0.2000000 l "isa"
+22 3 0.0625000 l "isa"
+89 88 0.5000000 l "isa"
+88 89 0.3333333 l "isa"
+21 31 0.5000000 l "substring"
+31 21 0.1428571 l "substring"
+22 23 0.1250000 l "substring"
+23 22 0.1428571 l "substring"
+24 55 0.1250000 l "substring"
+55 24 0.3333333 l "substring"
+24 56 0.1250000 l "substring"
+56 24 0.5000000 l "substring"
+24 69 0.1250000 l "substring"
+69 24 0.5000000 l "substring"
+24 80 0.1250000 l "substring"
+80 24 0.5000000 l "substring"
+24 91 0.1250000 l "substring"
+91 24 0.5000000 l "substring"
+24 94 0.1250000 l "substring"
+94 24 0.5000000 l "substring"
+26 57 0.5000000 l "substring"
+57 26 0.5000000 l "substring"
+30 98 0.5000000 l "substring"
+98 30 0.5000000 l "substring"
+31 58 0.1428571 l "substring"
+58 31 0.5000000 l "substring"
+31 70 0.1428571 l "substring"
+70 31 0.5000000 l "substring"
+31 71 0.1428571 l "substring"
+71 31 0.5000000 l "substring"
+31 75 0.1428571 l "substring"
+75 31 0.5000000 l "substring"
+31 87 0.1428571 l "substring"
+87 31 0.5000000 l "substring"
+10 60 0.3333333 l "substring"
+60 10 0.2500000 l "substring"
+38 85 0.5000000 l "substring"
+85 38 0.5000000 l "substring"
+39 66 0.5000000 l "substring"
+66 39 0.5000000 l "substring"
+42 64 0.3333333 l "substring"
+64 42 0.5000000 l "substring"
+43 74 0.2500000 l "substring"
+74 43 0.5000000 l "substring"
+43 90 0.2500000 l "substring"
+90 43 0.5000000 l "substring"
+45 63 0.2500000 l "substring"
+63 45 0.5000000 l "substring"
+45 3 0.2500000 l "substring"
+3 45 0.2000000 l "substring"
+45 4 0.2500000 l "substring"
+4 45 0.2000000 l "substring"
+49 92 0.5000000 l "substring"
+92 49 0.5000000 l "substring"
+53 68 0.3333333 l "substring"
+68 53 0.5000000 l "substring"
+53 97 0.3333333 l "substring"
+97 53 0.5000000 l "substring"
+59 65 0.5000000 l "substring"
+65 59 0.5000000 l "substring"
+60 67 0.2500000 l "substring"
+67 60 0.5000000 l "substring"
+82 93 0.5000000 l "substring"
+93 82 0.5000000 l "substring"
+83 99 0.5000000 l "substring"
+99 83 0.5000000 l "substring"
+95 96 0.5000000 l "substring"
+96 95 0.5000000 l "substring"
+43 16 0.2500000 l "distance"
+16 43 0.2500000 l "distance"
+13 16 0.3333333 l "distance"
+16 13 0.2500000 l "distance"
+13 18 0.3333333 l "distance"
+18 13 0.2500000 l "distance"
+14 15 0.3333333 l "distance"
+15 14 0.3333333 l "distance"
+51 52 0.5000000 l "distance"
+52 51 0.5000000 l "distance"
+81 17 0.1428571 l "distance"
+17 81 0.3333333 l "distance"
+16 18 0.2500000 l "distance"
+18 16 0.2500000 l "distance"
+*Edges

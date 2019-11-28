@@ -1,0 +1,41 @@
+*Vertices 6
+1 "biotic mesoscopic physical object" ellipse
+2 "bone meal" ellipse
+3 "plant feed" ellipse
+4 "plant cell" ellipse
+5 "embryo plant cell" ellipse
+6 "native plant cell" ellipse
+*Arcs
+2 3 0.1779049 l "isa"
+3 2 0.2567923 l "isa"
+3 1 0.2508891 l "isa"
+1 3 0.1150022 l "isa"
+5 6 0.1852726 l "isa"
+6 5 0.2603628 l "isa"
+6 4 0.2693408 l "isa"
+4 6 0.2749478 l "isa"
+5 6 0.1852726 l "definition"
+6 5 0.2603628 l "definition"
+4 5 0.1214353 l "substring"
+5 4 0.0846504 l "substring"
+4 6 0.2749478 l "substring"
+6 4 0.2693408 l "substring"
+3 4 0.2523649 l "distance"
+4 3 0.1306002 l "distance"
+2 3 0.1779049 l "isa"
+3 2 0.2567923 l "isa"
+3 1 0.2508891 l "isa"
+1 3 0.1150022 l "isa"
+5 6 0.1852726 l "isa"
+6 5 0.2603628 l "isa"
+6 4 0.2693408 l "isa"
+4 6 0.2749478 l "isa"
+5 6 0.1852726 l "definition"
+6 5 0.2603628 l "definition"
+4 5 0.1214353 l "substring"
+5 4 0.0846504 l "substring"
+4 6 0.2749478 l "substring"
+6 4 0.2693408 l "substring"
+3 4 0.2523649 l "distance"
+4 3 0.1306002 l "distance"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Gelbray" ellipse
+2 "Gobra" ellipse
+3 "Galway" ellipse
+*Arcs
+1 2 0.3365101 l "distance"
+2 1 0.0699771 l "distance"
+1 3 0.3510381 l "distance"
+3 1 0.1098271 l "distance"
+1 2 0.3365101 l "distance"
+2 1 0.0699771 l "distance"
+1 3 0.3510381 l "distance"
+3 1 0.1098271 l "distance"
+1 2 0.3365101 l "distance"
+2 1 0.0699771 l "distance"
+1 3 0.3510381 l "distance"
+3 1 0.1098271 l "distance"
+1 2 0.3365101 l "distance"
+2 1 0.0699771 l "distance"
+1 3 0.3510381 l "distance"
+3 1 0.1098271 l "distance"
+*Edges

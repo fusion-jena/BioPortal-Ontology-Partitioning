@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Ponwar" ellipse
+2 "Polwarth" ellipse
+*Arcs
+1 2 0.4098165 l "distance"
+2 1 0.5637857 l "distance"
+1 2 0.4098165 l "distance"
+2 1 0.5637857 l "distance"
+1 2 0.4098165 l "distance"
+2 1 0.5637857 l "distance"
+*Edges

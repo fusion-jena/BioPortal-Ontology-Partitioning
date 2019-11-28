@@ -1,0 +1,12 @@
+*Vertices 3
+1 "NGFR" ellipse
+2 "PDGFRA" ellipse
+3 "Pdgfb" ellipse
+*Arcs
+1 2 0.0303030 l "distance"
+2 1 0.5000000 l "distance"
+1 3 0.0303030 l "distance"
+3 1 0.0714286 l "distance"
+2 3 0.5000000 l "distance"
+3 2 0.0714286 l "distance"
+*Edges

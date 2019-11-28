@@ -1,0 +1,39 @@
+*Vertices 4
+1 "DoubleAnchoredTimeRangeInterval" ellipse
+2 "SingleAnchoredTimeRangeInterval" ellipse
+3 "TimeRange" ellipse
+4 "TimeRangeInterval" ellipse
+*Arcs
+1 4 0.1811442 l "isa"
+4 1 0.1628963 l "isa"
+2 4 0.1811894 l "isa"
+4 2 0.1628963 l "isa"
+4 3 0.1619963 l "isa"
+3 4 0.1652928 l "isa"
+1 3 0.0843171 l "substring"
+3 1 0.0773662 l "substring"
+1 4 0.1811442 l "substring"
+4 1 0.1628963 l "substring"
+2 3 0.0843382 l "substring"
+3 2 0.0773662 l "substring"
+2 4 0.1811894 l "substring"
+4 2 0.1628963 l "substring"
+3 4 0.1652928 l "substring"
+4 3 0.1619963 l "substring"
+1 4 0.1811442 l "isa"
+4 1 0.1628963 l "isa"
+2 4 0.1811894 l "isa"
+4 2 0.1628963 l "isa"
+4 3 0.1619963 l "isa"
+3 4 0.1652928 l "isa"
+1 3 0.0843171 l "substring"
+3 1 0.0773662 l "substring"
+1 4 0.1811442 l "substring"
+4 1 0.1628963 l "substring"
+2 3 0.0843382 l "substring"
+3 2 0.0773662 l "substring"
+2 4 0.1811894 l "substring"
+4 2 0.1628963 l "substring"
+3 4 0.1652928 l "substring"
+4 3 0.1619963 l "substring"
+*Edges

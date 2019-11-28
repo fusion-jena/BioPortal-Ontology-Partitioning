@@ -1,0 +1,67 @@
+*Vertices 10
+1 "bronchus" ellipse
+2 "bronchus lumen" ellipse
+3 "bronchus wall" ellipse
+4 "left lung main bronchus" ellipse
+5 "right lung main bronchus" ellipse
+6 "left lung segmental bronchus" ellipse
+7 "main bronchus" ellipse
+8 "right lung segmental bronchus" ellipse
+9 "segmental bronchus" ellipse
+10 "right apical bronchus" ellipse
+*Arcs
+4 7 0.2857143 l "isa"
+7 4 0.2500000 l "isa"
+5 7 0.2857143 l "isa"
+7 5 0.2500000 l "isa"
+6 9 0.1428571 l "isa"
+9 6 0.2222222 l "isa"
+10 8 0.2500000 l "isa"
+8 10 0.0588235 l "isa"
+2 4 0.0344828 l "definition"
+4 2 0.1428571 l "definition"
+2 5 0.0344828 l "definition"
+5 2 0.1428571 l "definition"
+2 10 0.0344828 l "definition"
+10 2 0.2500000 l "definition"
+3 1 0.0606061 l "definition"
+1 3 0.0465116 l "definition"
+3 4 0.0303030 l "definition"
+4 3 0.1428571 l "definition"
+3 5 0.0303030 l "definition"
+5 3 0.1428571 l "definition"
+3 10 0.0303030 l "definition"
+10 3 0.2500000 l "definition"
+7 1 0.2500000 l "definition"
+1 7 0.0465116 l "definition"
+8 9 0.1176471 l "definition"
+9 8 0.2222222 l "definition"
+9 1 0.2222222 l "definition"
+1 9 0.0465116 l "definition"
+1 2 0.0232558 l "substring"
+2 1 0.0344828 l "substring"
+1 3 0.0465116 l "substring"
+3 1 0.0606061 l "substring"
+1 4 0.0232558 l "substring"
+4 1 0.1428571 l "substring"
+1 5 0.0232558 l "substring"
+5 1 0.1428571 l "substring"
+1 6 0.0232558 l "substring"
+6 1 0.0714286 l "substring"
+1 7 0.0465116 l "substring"
+7 1 0.2500000 l "substring"
+1 8 0.0232558 l "substring"
+8 1 0.0588235 l "substring"
+1 9 0.0465116 l "substring"
+9 1 0.2222222 l "substring"
+1 10 0.0232558 l "substring"
+10 1 0.2500000 l "substring"
+4 7 0.2857143 l "substring"
+7 4 0.2500000 l "substring"
+5 7 0.2857143 l "substring"
+7 5 0.2500000 l "substring"
+6 9 0.1428571 l "substring"
+9 6 0.2222222 l "substring"
+8 9 0.1176471 l "substring"
+9 8 0.2222222 l "substring"
+*Edges

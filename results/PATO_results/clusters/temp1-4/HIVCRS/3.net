@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Restriction"
+2 "OWLClass_00000012296616137386" ellipse
+3 "OWLClass_a4e8540e_649f_477f_8115_1b0bad4b8c73" ellipse
+4 "OWLObjectProperty_2ac5572d_278b_414c_b969_7c5aea56b6d8"
+*Arcs
+2 1 0.1990134 l "definition"
+1 2 0.0153118 l "definition"
+2 4 0.2012724 l "definition"
+4 2 0.0416546 l "definition"
+2 3 0.2026701 l "definition"
+3 2 0.0581752 l "definition"
+2 1 0.1990134 l "definition"
+1 2 0.0153118 l "definition"
+2 4 0.2012724 l "definition"
+4 2 0.0416546 l "definition"
+2 3 0.2026701 l "definition"
+3 2 0.0581752 l "definition"
+*Edges

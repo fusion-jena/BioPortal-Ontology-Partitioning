@@ -1,0 +1,22 @@
+*Vertices 3
+1 "AnteriorInferiorRenalSegment" ellipse
+2 "LeftKidneyAnteriorInferiorRenalSegment" ellipse
+3 "RightKidneyAnteriorInferiorRenalSegment" ellipse
+*Arcs
+2 1 0.2742343 l "isa"
+1 2 0.2349532 l "isa"
+3 1 0.2736559 l "isa"
+1 3 0.2349532 l "isa"
+1 2 0.2349532 l "substring"
+2 1 0.2742343 l "substring"
+1 3 0.2349532 l "substring"
+3 1 0.2736559 l "substring"
+2 1 0.2742343 l "isa"
+1 2 0.2349532 l "isa"
+3 1 0.2736559 l "isa"
+1 3 0.2349532 l "isa"
+1 2 0.2349532 l "substring"
+2 1 0.2742343 l "substring"
+1 3 0.2349532 l "substring"
+3 1 0.2736559 l "substring"
+*Edges

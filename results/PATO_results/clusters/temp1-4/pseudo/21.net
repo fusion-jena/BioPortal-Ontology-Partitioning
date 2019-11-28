@@ -1,0 +1,22 @@
+*Vertices 3
+1 "PrimarySource" ellipse
+2 "hadPrimarySource"
+3 "qualifiedPrimarySource"
+*Arcs
+2 3 0.2111649 l "definition"
+3 2 0.5000000 l "definition"
+1 2 0.4368698 l "substring"
+2 1 0.4379717 l "substring"
+1 3 0.2106337 l "substring"
+3 1 0.5000000 l "substring"
+1 2 0.4368698 l "distance"
+2 1 0.4379717 l "distance"
+2 3 0.2111649 l "definition"
+3 2 0.5000000 l "definition"
+1 2 0.4368698 l "substring"
+2 1 0.4379717 l "substring"
+1 3 0.2106337 l "substring"
+3 1 0.5000000 l "substring"
+1 2 0.4368698 l "distance"
+2 1 0.4379717 l "distance"
+*Edges

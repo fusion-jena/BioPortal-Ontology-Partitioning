@@ -1,0 +1,31 @@
+*Vertices 4
+1 "OrganComponent" ellipse
+2 "SerousMembrane" ellipse
+3 "ViscusSerousMembrane" ellipse
+4 "WallOfOrgan" ellipse
+*Arcs
+2 4 0.1901766 l "isa"
+4 2 0.3567216 l "isa"
+3 2 0.6012253 l "isa"
+2 3 0.4934962 l "isa"
+4 1 0.3330020 l "isa"
+1 4 0.1127533 l "isa"
+2 3 0.4934962 l "substring"
+3 2 0.6012253 l "substring"
+2 4 0.1901766 l "isa"
+4 2 0.3567216 l "isa"
+3 2 0.6012253 l "isa"
+2 3 0.4934962 l "isa"
+4 1 0.3330020 l "isa"
+1 4 0.1127533 l "isa"
+2 3 0.4934962 l "substring"
+3 2 0.6012253 l "substring"
+2 4 0.1901766 l "isa"
+4 2 0.3567216 l "isa"
+3 2 0.6012253 l "isa"
+2 3 0.4934962 l "isa"
+4 1 0.3330020 l "isa"
+1 4 0.1127533 l "isa"
+2 3 0.4934962 l "substring"
+3 2 0.6012253 l "substring"
+*Edges

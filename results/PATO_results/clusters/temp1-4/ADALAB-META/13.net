@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Colon" ellipse
+2 "OrganSegment" ellipse
+3 "SegmentOfLargeInstestine" ellipse
+*Arcs
+1 3 0.1014192 l "isa"
+3 1 0.3366829 l "isa"
+3 2 0.3401420 l "isa"
+2 3 0.1339311 l "isa"
+1 3 0.1014192 l "isa"
+3 1 0.3366829 l "isa"
+3 2 0.3401420 l "isa"
+2 3 0.1339311 l "isa"
+*Edges

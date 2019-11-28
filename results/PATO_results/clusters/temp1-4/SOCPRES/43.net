@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Incorrect timing of lab values-during scenario" ellipse
+2 "Lab results deviation-during scenario" ellipse
+3 "Wrong lab values given-during scenario" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3652968 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3652968 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3652968 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3652968 l "isa"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "ADAM10" ellipse
+2 "DAB1" ellipse
+3 "alpha-secretase gene" ellipse
+*Arcs
+1 3 0.3919061 l "isa"
+3 1 0.2537060 l "isa"
+1 2 0.3320349 l "distance"
+2 1 0.0234582 l "distance"
+1 3 0.3919061 l "isa"
+3 1 0.2537060 l "isa"
+1 2 0.3320349 l "distance"
+2 1 0.0234582 l "distance"
+1 3 0.3919061 l "isa"
+3 1 0.2537060 l "isa"
+1 2 0.3320349 l "distance"
+2 1 0.0234582 l "distance"
+*Edges

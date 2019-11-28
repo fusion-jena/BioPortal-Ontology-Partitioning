@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Frequency Multiplication" ellipse
+2 "Laser Setting" ellipse
+3 "Repetition Rate" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0833333 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0833333 l "isa"
+*Edges

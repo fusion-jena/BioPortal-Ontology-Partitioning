@@ -1,0 +1,47 @@
+*Vertices 8
+1 "Consistently_and_persistently_avoids_approaches_of_other_children" ellipse
+2 "Generally_responsive_to_other_childrens_approaches" ellipse
+3 "Initiating_and_Responding_to_Social_Overtures" ellipse
+4 "Response_to_Approaches_Of_Other_Children" ellipse
+5 "Response_to_Approaches_Of_Other_Children_NotAvailable" ellipse
+6 "Response_to_Approaches_Of_Other_Children_NotKnownorNotAsked" ellipse
+7 "Responsiveness_to_Social_Advances" ellipse
+8 "respch_Consistently_and_persistently_avoids_approaches_of_other_children"
+*Arcs
+1 4 0.2512693 l "isa"
+4 1 0.0830505 l "isa"
+2 4 0.2565408 l "isa"
+4 2 0.0830505 l "isa"
+4 7 0.0830505 l "isa"
+7 4 0.2518833 l "isa"
+5 4 0.4370517 l "isa"
+4 5 0.1827110 l "isa"
+6 4 0.4370517 l "isa"
+4 6 0.1827110 l "isa"
+7 3 0.2608791 l "isa"
+3 7 0.1774359 l "isa"
+1 8 0.2638328 l "substring"
+8 1 0.2168888 l "substring"
+4 5 0.1827110 l "substring"
+5 4 0.4370517 l "substring"
+4 6 0.1827110 l "substring"
+6 4 0.4370517 l "substring"
+1 4 0.2512693 l "isa"
+4 1 0.0830505 l "isa"
+2 4 0.2565408 l "isa"
+4 2 0.0830505 l "isa"
+4 7 0.0830505 l "isa"
+7 4 0.2518833 l "isa"
+5 4 0.4370517 l "isa"
+4 5 0.1827110 l "isa"
+6 4 0.4370517 l "isa"
+4 6 0.1827110 l "isa"
+7 3 0.2608791 l "isa"
+3 7 0.1774359 l "isa"
+1 8 0.2638328 l "substring"
+8 1 0.2168888 l "substring"
+4 5 0.1827110 l "substring"
+5 4 0.4370517 l "substring"
+4 6 0.1827110 l "substring"
+6 4 0.4370517 l "substring"
+*Edges

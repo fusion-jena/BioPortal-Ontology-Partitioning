@@ -1,0 +1,38 @@
+*Vertices 3
+1 "chest tightness" ellipse
+2 "chest tightness" ellipse
+3 "tight chest" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7217255 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1892068 l "isa"
+1 2 0.7217255 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.7217255 l "distance"
+2 1 1.0000000 l "distance"
+2 1 1.0000000 l "isa"
+1 2 0.7217255 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1892068 l "isa"
+1 2 0.7217255 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.7217255 l "distance"
+2 1 1.0000000 l "distance"
+2 1 1.0000000 l "isa"
+1 2 0.7217255 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1892068 l "isa"
+1 2 0.7217255 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.7217255 l "distance"
+2 1 1.0000000 l "distance"
+2 1 1.0000000 l "isa"
+1 2 0.7217255 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1892068 l "isa"
+1 2 0.7217255 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.7217255 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

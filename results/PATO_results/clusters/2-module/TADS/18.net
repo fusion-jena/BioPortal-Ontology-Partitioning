@@ -1,0 +1,34 @@
+*Vertices 7
+1 "epithelium" ellipse
+2 "simple cuboidal epithelium" ellipse
+3 "simple columnar epithlium" ellipse
+4 "multilaminar epithelium" ellipse
+5 "simple squamous epithelium" ellipse
+6 "atypical epithelium" ellipse
+7 "unilaminar epithelium" ellipse
+*Arcs
+2 7 0.5000000 l "isa"
+7 2 0.1666667 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1666667 l "isa"
+4 1 0.6666667 l "isa"
+1 4 0.0909091 l "isa"
+5 7 0.5000000 l "isa"
+7 5 0.1666667 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0909091 l "isa"
+7 1 0.3333333 l "isa"
+1 7 0.0909091 l "isa"
+1 2 0.0454545 l "substring"
+2 1 0.5000000 l "substring"
+1 4 0.0909091 l "substring"
+4 1 0.6666667 l "substring"
+1 5 0.0454545 l "substring"
+5 1 0.5000000 l "substring"
+1 6 0.0909091 l "substring"
+6 1 1.0000000 l "substring"
+1 7 0.0909091 l "substring"
+7 1 0.3333333 l "substring"
+4 7 0.3333333 l "distance"
+7 4 0.1666667 l "distance"
+*Edges

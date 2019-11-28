@@ -1,0 +1,18 @@
+*Vertices 3
+1 "NotEligible" ellipse
+2 "Reason" ellipse
+3 "WithdrawalReason" ellipse
+*Arcs
+1 2 0.1706783 l "isa"
+2 1 0.0688537 l "isa"
+3 2 0.2718610 l "isa"
+2 3 0.1469563 l "isa"
+2 3 0.1469563 l "substring"
+3 2 0.2718610 l "substring"
+1 2 0.1706783 l "isa"
+2 1 0.0688537 l "isa"
+3 2 0.2718610 l "isa"
+2 3 0.1469563 l "isa"
+2 3 0.1469563 l "substring"
+3 2 0.2718610 l "substring"
+*Edges

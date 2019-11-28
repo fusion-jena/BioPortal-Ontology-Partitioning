@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Molecular detection or quantification method" ellipse
+2 "Pulsed field gel electrophoresis (PFGE)" ellipse
+*Arcs
+2 1 0.8417298 l "isa"
+1 2 0.7569542 l "isa"
+2 1 0.8417298 l "isa"
+1 2 0.7569542 l "isa"
+2 1 0.8417298 l "isa"
+1 2 0.7569542 l "isa"
+2 1 0.8417298 l "isa"
+1 2 0.7569542 l "isa"
+2 1 0.8417298 l "isa"
+1 2 0.7569542 l "isa"
+2 1 0.8417298 l "isa"
+1 2 0.7569542 l "isa"
+*Edges

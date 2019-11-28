@@ -1,0 +1,55 @@
+*Vertices 8
+1 "Bike" ellipse
+2 "Fiber" ellipse
+3 "Macronutrient Protocol Development Carbohydrate" ellipse
+4 "Macronutrient Protocol Development Fat" ellipse
+5 "Macronutrient Protocol Development Fiber" ellipse
+6 "Macronutrient Protocol Development Protein" ellipse
+7 "Macronutrient Protocol Development" ellipse
+8 "Water" ellipse
+*Arcs
+3 7 0.4271806 l "isa"
+7 3 0.1634578 l "isa"
+4 7 0.3566963 l "isa"
+7 4 0.1591908 l "isa"
+5 7 0.3517913 l "isa"
+7 5 0.1591908 l "isa"
+6 7 0.4271806 l "isa"
+7 6 0.1634578 l "isa"
+2 5 0.2468085 l "substring"
+5 2 0.1709089 l "substring"
+3 7 0.4271806 l "substring"
+7 3 0.1634578 l "substring"
+4 7 0.3566963 l "substring"
+7 4 0.1591908 l "substring"
+5 7 0.3517913 l "substring"
+7 5 0.1591908 l "substring"
+6 7 0.4271806 l "substring"
+7 6 0.1634578 l "substring"
+1 2 0.1913018 l "distance"
+2 1 0.2638298 l "distance"
+2 8 0.2468085 l "distance"
+8 2 0.1505972 l "distance"
+3 7 0.4271806 l "isa"
+7 3 0.1634578 l "isa"
+4 7 0.3566963 l "isa"
+7 4 0.1591908 l "isa"
+5 7 0.3517913 l "isa"
+7 5 0.1591908 l "isa"
+6 7 0.4271806 l "isa"
+7 6 0.1634578 l "isa"
+2 5 0.2468085 l "substring"
+5 2 0.1709089 l "substring"
+3 7 0.4271806 l "substring"
+7 3 0.1634578 l "substring"
+4 7 0.3566963 l "substring"
+7 4 0.1591908 l "substring"
+5 7 0.3517913 l "substring"
+7 5 0.1591908 l "substring"
+6 7 0.4271806 l "substring"
+7 6 0.1634578 l "substring"
+1 2 0.1913018 l "distance"
+2 1 0.2638298 l "distance"
+2 8 0.2468085 l "distance"
+8 2 0.1505972 l "distance"
+*Edges

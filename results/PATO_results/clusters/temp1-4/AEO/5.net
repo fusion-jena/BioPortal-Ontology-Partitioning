@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Genotype" ellipse
+2 "RPS6KB1" ellipse
+3 "SERPINI1" ellipse
+4 "TARDBP" ellipse
+*Arcs
+2 1 0.2504294 l "definition"
+1 2 0.0083432 l "definition"
+3 1 0.2504294 l "definition"
+1 3 0.0083432 l "definition"
+4 1 0.2504294 l "definition"
+1 4 0.0083432 l "definition"
+2 1 0.2504294 l "definition"
+1 2 0.0083432 l "definition"
+3 1 0.2504294 l "definition"
+1 3 0.0083432 l "definition"
+4 1 0.2504294 l "definition"
+1 4 0.0083432 l "definition"
+2 1 0.2504294 l "definition"
+1 2 0.0083432 l "definition"
+3 1 0.2504294 l "definition"
+1 3 0.0083432 l "definition"
+4 1 0.2504294 l "definition"
+1 4 0.0083432 l "definition"
+*Edges

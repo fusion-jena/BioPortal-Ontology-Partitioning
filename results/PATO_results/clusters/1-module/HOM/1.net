@@ -1,0 +1,12 @@
+*Vertices 3
+1 "heterochronous homology" ellipse
+2 "peramorphosis" ellipse
+3 "hypermorphosis" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.6666667 l "isa"
+2 3 0.6666667 l "distance"
+3 2 1.0000000 l "distance"
+*Edges

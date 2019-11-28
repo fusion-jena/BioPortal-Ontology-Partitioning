@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Serious" ellipse
+2 "Serious" ellipse
+*Arcs
+1 2 0.3572243 l "substring"
+2 1 0.4245822 l "substring"
+1 2 0.3572243 l "distance"
+2 1 0.4245822 l "distance"
+1 2 0.3572243 l "substring"
+2 1 0.4245822 l "substring"
+1 2 0.3572243 l "distance"
+2 1 0.4245822 l "distance"
+1 2 0.3572243 l "substring"
+2 1 0.4245822 l "substring"
+1 2 0.3572243 l "distance"
+2 1 0.4245822 l "distance"
+*Edges

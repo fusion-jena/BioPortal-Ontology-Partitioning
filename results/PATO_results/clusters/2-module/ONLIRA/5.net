@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Wall" ellipse
+2 "Wall Type"
+3 "is Contrasted"
+*Arcs
+3 1 0.4000000 l "definition"
+1 3 0.1818182 l "definition"
+1 2 0.1818182 l "definition"
+2 1 0.4000000 l "definition"
+1 3 0.1818182 l "definition"
+3 1 0.4000000 l "definition"
+1 2 0.1818182 l "substring"
+2 1 0.4000000 l "substring"
+*Edges

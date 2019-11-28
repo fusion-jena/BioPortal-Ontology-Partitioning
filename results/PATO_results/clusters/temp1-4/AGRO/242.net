@@ -1,0 +1,9 @@
+*Vertices 2
+1 "temperature measurement" ellipse
+2 "temperature measurement result" ellipse
+*Arcs
+1 2 0.2077817 l "substring"
+2 1 0.1754853 l "substring"
+1 2 0.2077817 l "substring"
+2 1 0.1754853 l "substring"
+*Edges

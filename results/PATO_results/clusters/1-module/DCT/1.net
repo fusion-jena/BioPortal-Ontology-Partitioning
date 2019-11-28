@@ -1,0 +1,21 @@
+*Vertices 6
+1 "File Format" ellipse
+2 "Media Type" ellipse
+3 "Media Type or Extent" ellipse
+4 "Physical Medium" ellipse
+5 "Physical Resource" ellipse
+6 "Size or Duration" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6666667 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.2500000 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.3333333 l "isa"
+5 4 1.0000000 l "Medium"
+4 5 0.5000000 l "Medium"
+2 3 0.5000000 l "substring"
+3 2 0.6666667 l "substring"
+*Edges

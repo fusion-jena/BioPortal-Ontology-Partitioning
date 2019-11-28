@@ -1,0 +1,11 @@
+*Vertices 2
+1 "name"
+2 "MD_DimensionNameTypeCode" ellipse
+*Arcs
+1 2 0.0455824 l "substring"
+2 1 0.1681430 l "substring"
+1 2 0.0455824 l "substring"
+2 1 0.1681430 l "substring"
+1 2 0.0455824 l "substring"
+2 1 0.1681430 l "substring"
+*Edges

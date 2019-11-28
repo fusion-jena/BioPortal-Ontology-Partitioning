@@ -1,0 +1,11 @@
+*Vertices 2
+1 "dry fur / 燥苔" ellipse
+2 "gray fur / 灰苔" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

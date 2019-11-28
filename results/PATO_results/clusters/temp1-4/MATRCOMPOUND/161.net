@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Haimen" ellipse
+2 "Saanen" ellipse
+*Arcs
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+1 2 0.2279228 l "distance"
+2 1 0.2549079 l "distance"
+*Edges

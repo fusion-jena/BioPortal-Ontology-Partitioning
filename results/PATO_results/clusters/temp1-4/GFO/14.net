@@ -1,0 +1,17 @@
+*Vertices 2
+1 "academic Article" ellipse
+2 "article" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.6700779 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.6700779 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.6700779 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.6700779 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.6700779 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.6700779 l "substring"
+*Edges

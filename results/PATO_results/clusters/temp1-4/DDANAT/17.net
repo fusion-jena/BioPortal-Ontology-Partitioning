@@ -1,0 +1,16 @@
+*Vertices 3
+1 "basal region of the standing slug" ellipse
+2 "basal region of the early culminant" ellipse
+3 "basal region" ellipse
+*Arcs
+1 3 0.1111111 l "isa"
+3 1 0.1538462 l "isa"
+2 3 0.1250000 l "isa"
+3 2 0.1538462 l "isa"
+2 1 0.0625000 l "definition"
+1 2 0.0555556 l "definition"
+1 3 0.1111111 l "substring"
+3 1 0.1538462 l "substring"
+2 3 0.1250000 l "substring"
+3 2 0.1538462 l "substring"
+*Edges

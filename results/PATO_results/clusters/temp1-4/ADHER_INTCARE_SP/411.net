@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Involve_Seeking_of_Contact_in_Group_Situation_within_personal_relationships" ellipse
+2 "friend_Involve_Seeking_of_Contact_in_Group_Situation_within_personal_relationships"
+*Arcs
+1 2 0.1556296 l "substring"
+2 1 0.1568667 l "substring"
+1 2 0.1556296 l "substring"
+2 1 0.1568667 l "substring"
+1 2 0.1556296 l "substring"
+2 1 0.1568667 l "substring"
+*Edges

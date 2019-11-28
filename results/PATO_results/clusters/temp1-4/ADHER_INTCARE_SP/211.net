@@ -1,0 +1,31 @@
+*Vertices 4
+1 "No_pretend_play" ellipse
+2 "Some_pretend_play" ellipse
+3 "play_Some_pretend_play"
+4 "play_No_pretend_play"
+*Arcs
+1 4 0.2729274 l "substring"
+4 1 0.2744139 l "substring"
+2 3 0.2729274 l "substring"
+3 2 0.2744139 l "substring"
+1 2 0.2727463 l "distance"
+2 1 0.2727463 l "distance"
+3 4 0.2745959 l "distance"
+4 3 0.2745959 l "distance"
+1 4 0.2729274 l "substring"
+4 1 0.2744139 l "substring"
+2 3 0.2729274 l "substring"
+3 2 0.2744139 l "substring"
+1 2 0.2727463 l "distance"
+2 1 0.2727463 l "distance"
+3 4 0.2745959 l "distance"
+4 3 0.2745959 l "distance"
+1 4 0.2729274 l "substring"
+4 1 0.2744139 l "substring"
+2 3 0.2729274 l "substring"
+3 2 0.2744139 l "substring"
+1 2 0.2727463 l "distance"
+2 1 0.2727463 l "distance"
+3 4 0.2745959 l "distance"
+4 3 0.2745959 l "distance"
+*Edges

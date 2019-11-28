@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Functional" ellipse
+2 "Functional_Urinary_Incontinence" ellipse
+*Arcs
+1 2 0.0876296 l "substring"
+2 1 0.1483572 l "substring"
+1 2 0.0876296 l "substring"
+2 1 0.1483572 l "substring"
+*Edges

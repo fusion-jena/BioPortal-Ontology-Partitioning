@@ -1,0 +1,123 @@
+*Vertices 30
+1 "nutrition research applied clinical trial" ellipse
+2 "nutrition research applied non-clinical trial" ellipse
+3 "nutrition research basic non-clinical trial" ellipse
+4 "blind design" ellipse
+5 "clinical trial" ellipse
+6 "compassionate use trial" ellipse
+7 "controlled clinical trial" ellipse
+8 "early detection trial" ellipse
+9 "efficacy study" ellipse
+10 "masked clinical study" ellipse
+11 "minimal risk study" ellipse
+12 "non-equivalent control group design" ellipse
+13 "non-randomized clinical trial" ellipse
+14 "nutrition research non-clinical trial" ellipse
+15 "open label clinical design" ellipse
+16 "open label design" ellipse
+17 "planned clinical trial" ellipse
+18 "pragmatic clinical trial" ellipse
+19 "pre-clinical trial" ellipse
+20 "preventive clinical trial" ellipse
+21 "quasi-experimental clinical trial" ellipse
+22 "quasi-experimental design" ellipse
+23 "randomized clinical trial" ellipse
+24 "randomized controlled clinical trial" ellipse
+25 "single blind study" ellipse
+26 "single group study" ellipse
+27 "supportive care study" ellipse
+28 "therapeutic clinical trial" ellipse
+29 "triple blind study" ellipse
+30 "vaccine clinical trial" ellipse
+*Arcs
+1 5 0.6666667 l "isa"
+5 1 0.0476190 l "isa"
+2 14 0.5000000 l "isa"
+14 2 0.2500000 l "isa"
+3 14 0.5000000 l "isa"
+14 3 0.2500000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.0238095 l "isa"
+7 5 0.4000000 l "isa"
+5 7 0.0476190 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.0238095 l "isa"
+9 28 1.0000000 l "isa"
+28 9 0.2500000 l "isa"
+10 4 0.5000000 l "isa"
+4 10 0.1428571 l "isa"
+10 5 0.5000000 l "isa"
+5 10 0.0238095 l "isa"
+11 5 1.0000000 l "isa"
+5 11 0.0238095 l "isa"
+12 13 1.0000000 l "isa"
+13 12 0.2500000 l "isa"
+13 5 0.5000000 l "isa"
+5 13 0.0476190 l "isa"
+15 5 0.5000000 l "isa"
+5 15 0.0238095 l "isa"
+15 16 0.5000000 l "isa"
+16 15 0.3333333 l "isa"
+17 5 1.0000000 l "isa"
+5 17 0.0476190 l "isa"
+18 5 0.6666667 l "isa"
+5 18 0.0476190 l "isa"
+19 5 1.0000000 l "isa"
+5 19 0.0476190 l "isa"
+20 5 1.0000000 l "isa"
+5 20 0.0476190 l "isa"
+21 22 0.5000000 l "isa"
+22 21 0.2500000 l "isa"
+23 5 0.4000000 l "isa"
+5 23 0.0476190 l "isa"
+24 7 0.5000000 l "isa"
+7 24 0.4000000 l "isa"
+24 23 0.2500000 l "isa"
+23 24 0.2000000 l "isa"
+25 4 1.0000000 l "isa"
+4 25 0.1428571 l "isa"
+26 5 1.0000000 l "isa"
+5 26 0.0238095 l "isa"
+27 5 1.0000000 l "isa"
+5 27 0.0238095 l "isa"
+28 5 0.5000000 l "isa"
+5 28 0.0476190 l "isa"
+29 4 1.0000000 l "isa"
+4 29 0.1428571 l "isa"
+30 5 1.0000000 l "isa"
+5 30 0.0476190 l "isa"
+1 5 0.6666667 l "substring"
+5 1 0.0476190 l "substring"
+2 5 0.5000000 l "substring"
+5 2 0.0238095 l "substring"
+3 5 0.5000000 l "substring"
+5 3 0.0238095 l "substring"
+5 7 0.0476190 l "substring"
+7 5 0.4000000 l "substring"
+5 13 0.0476190 l "substring"
+13 5 0.5000000 l "substring"
+5 14 0.0238095 l "substring"
+14 5 0.2500000 l "substring"
+5 17 0.0476190 l "substring"
+17 5 1.0000000 l "substring"
+5 18 0.0476190 l "substring"
+18 5 0.6666667 l "substring"
+5 19 0.0476190 l "substring"
+19 5 1.0000000 l "substring"
+5 20 0.0476190 l "substring"
+20 5 1.0000000 l "substring"
+5 21 0.0238095 l "substring"
+21 5 0.5000000 l "substring"
+5 23 0.0476190 l "substring"
+23 5 0.4000000 l "substring"
+5 24 0.0238095 l "substring"
+24 5 0.2500000 l "substring"
+5 28 0.0476190 l "substring"
+28 5 0.5000000 l "substring"
+5 30 0.0476190 l "substring"
+30 5 1.0000000 l "substring"
+7 24 0.4000000 l "substring"
+24 7 0.5000000 l "substring"
+13 23 0.2500000 l "substring"
+23 13 0.2000000 l "substring"
+*Edges

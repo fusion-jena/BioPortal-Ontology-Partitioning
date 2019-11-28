@@ -1,0 +1,91 @@
+*Vertices 30
+1 "Cutting_Scores" ellipse
+2 "Employment_Tests" ellipse
+3 "Evaluation_Criteria" ellipse
+4 "Factor_Analysis" ellipse
+5 "Factor_Structure" ellipse
+6 "Foreign_Language_Translation" ellipse
+7 "Item_Response_Theory" ellipse
+8 "Piagetian_Tasks" ellipse
+9 "Psychometrics" ellipse
+10 "Score_Equating" ellipse
+11 "Selection_Tests" ellipse
+12 "Semantic_Differential" ellipse
+13 "Sociometric_Tests" ellipse
+14 "Standard_Scores" ellipse
+15 "Statistical_Validity" ellipse
+16 "Statistical_Weighting" ellipse
+17 "Subtests" ellipse
+18 "Test_Administration" ellipse
+19 "Test_Anxiety" ellipse
+20 "Test_Construction" ellipse
+21 "Test_Interpretation" ellipse
+22 "Test_Reliability" ellipse
+23 "Test_Standardization" ellipse
+24 "Test_Taking" ellipse
+25 "Testwiseness" ellipse
+26 "Content_Analysis_(Test)" ellipse
+27 "Difficulty_Level_(Test)" ellipse
+28 "Item_Analysis_(Test)" ellipse
+29 "Item_Content_(Test)" ellipse
+30 "Testing" ellipse
+*Arcs
+1 30 1.0000000 l "isa"
+30 1 0.0158730 l "isa"
+2 30 1.0000000 l "isa"
+30 2 0.0158730 l "isa"
+3 30 1.0000000 l "isa"
+30 3 0.0158730 l "isa"
+4 30 1.0000000 l "isa"
+30 4 0.0158730 l "isa"
+5 30 1.0000000 l "isa"
+30 5 0.0158730 l "isa"
+6 30 1.0000000 l "isa"
+30 6 0.0158730 l "isa"
+7 30 1.0000000 l "isa"
+30 7 0.0158730 l "isa"
+8 30 1.0000000 l "isa"
+30 8 0.0158730 l "isa"
+9 30 1.0000000 l "isa"
+30 9 0.0158730 l "isa"
+10 30 1.0000000 l "isa"
+30 10 0.0158730 l "isa"
+11 30 1.0000000 l "isa"
+30 11 0.0158730 l "isa"
+12 30 1.0000000 l "isa"
+30 12 0.0158730 l "isa"
+13 30 1.0000000 l "isa"
+30 13 0.0158730 l "isa"
+14 30 1.0000000 l "isa"
+30 14 0.0158730 l "isa"
+15 30 1.0000000 l "isa"
+30 15 0.0158730 l "isa"
+16 30 1.0000000 l "isa"
+30 16 0.0158730 l "isa"
+17 30 1.0000000 l "isa"
+30 17 0.0158730 l "isa"
+18 30 1.0000000 l "isa"
+30 18 0.0158730 l "isa"
+19 30 1.0000000 l "isa"
+30 19 0.0158730 l "isa"
+20 30 1.0000000 l "isa"
+30 20 0.0158730 l "isa"
+21 30 1.0000000 l "isa"
+30 21 0.0158730 l "isa"
+22 30 1.0000000 l "isa"
+30 22 0.0158730 l "isa"
+23 30 1.0000000 l "isa"
+30 23 0.0158730 l "isa"
+24 30 1.0000000 l "isa"
+30 24 0.0158730 l "isa"
+25 30 1.0000000 l "isa"
+30 25 0.0158730 l "isa"
+26 30 1.0000000 l "isa"
+30 26 0.0158730 l "isa"
+27 30 1.0000000 l "isa"
+30 27 0.0158730 l "isa"
+28 30 1.0000000 l "isa"
+30 28 0.0158730 l "isa"
+29 30 1.0000000 l "isa"
+30 29 0.0158730 l "isa"
+*Edges

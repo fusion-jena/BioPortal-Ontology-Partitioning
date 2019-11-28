@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Alopecia" ellipse
+2 "IntergumentarySystemSymptom" ellipse
+*Arcs
+1 2 0.3122420 l "definition"
+2 1 0.2012815 l "definition"
+1 2 0.3122420 l "definition"
+2 1 0.2012815 l "definition"
+1 2 0.3122420 l "definition"
+2 1 0.2012815 l "definition"
+1 2 0.3122420 l "definition"
+2 1 0.2012815 l "definition"
+1 2 0.3122420 l "definition"
+2 1 0.2012815 l "definition"
+1 2 0.3122420 l "definition"
+2 1 0.2012815 l "definition"
+*Edges

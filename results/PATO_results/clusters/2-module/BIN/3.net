@@ -1,0 +1,23 @@
+*Vertices 6
+1 "mobile devices" ellipse
+2 "tablet" ellipse
+3 "mobile application" ellipse
+4 "mobile application for data acquisition" ellipse
+5 "mobile application for fitness tracking" ellipse
+6 "smartphone" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 6 0.2000000 l "isa"
+6 3 0.5000000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.4000000 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.4000000 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.2500000 l "isa"
+3 4 0.4000000 l "substring"
+4 3 1.0000000 l "substring"
+3 5 0.4000000 l "substring"
+5 3 1.0000000 l "substring"
+*Edges

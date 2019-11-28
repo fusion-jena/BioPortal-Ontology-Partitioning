@@ -1,0 +1,36 @@
+*Vertices 11
+1 "Bacterial Resistance" ellipse
+2 "Bacterial Strain" ellipse
+3 "Cell Line" ellipse
+4 "Chemical" ellipse
+5 "Eukaryotic Cell Resistance" ellipse
+6 "Experiment Material" ellipse
+7 "OligoNucleotide" ellipse
+8 "Organism" ellipse
+9 "Plasmid" ellipse
+10 "Restriction Enzyme" ellipse
+11 "Specimen" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.0400000 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0400000 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0400000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0400000 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.0400000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0400000 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.0400000 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.0400000 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.0400000 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.0400000 l "isa"
+6 6 0.0800000 l "wasExtractedFrom"
+6 6 0.0800000 l "wasExtractedFrom"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Criollo" ellipse
+2 "Criollo (Uruguay)" ellipse
+*Arcs
+1 2 0.2003932 l "substring"
+2 1 0.5331035 l "substring"
+1 2 0.2003932 l "substring"
+2 1 0.5331035 l "substring"
+1 2 0.2003932 l "substring"
+2 1 0.5331035 l "substring"
+*Edges

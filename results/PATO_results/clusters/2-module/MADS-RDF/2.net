@@ -1,0 +1,85 @@
+*Vertices 18
+1 "Address" ellipse
+2 "Affiliation" ellipse
+3 "Authority" ellipse
+4 "Genre/Form Type" ellipse
+5 "Language Type" ellipse
+6 "MADS Scheme" ellipse
+7 "Occupation Type" ellipse
+8 "Real World
+      Object" ellipse
+9 "Simple Type" ellipse
+10 "Temporal Type" ellipse
+11 "Terms of Address
+      Element" ellipse
+12 "Title Type" ellipse
+13 "Topic Type" ellipse
+14 "Variant" ellipse
+15 "Concept" ellipse
+16 "ConceptScheme" ellipse
+17 "Label" ellipse
+18 "date"
+*Arcs
+3 15 0.0526316 l "isa"
+15 3 0.5000000 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.0909091 l "isa"
+5 9 0.5000000 l "isa"
+9 5 0.0909091 l "isa"
+6 16 0.3333333 l "isa"
+16 6 0.5000000 l "isa"
+7 9 0.5000000 l "isa"
+9 7 0.0909091 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.0909091 l "isa"
+12 9 0.4000000 l "isa"
+9 12 0.1818182 l "isa"
+13 9 1.0000000 l "isa"
+9 13 0.0909091 l "isa"
+14 17 0.2000000 l "isa"
+17 14 0.5000000 l "isa"
+8 5 0.1111111 l "Associated
+      Language"
+5 8 0.5000000 l "Associated
+      Language"
+8 2 0.1111111 l "Has Affiliation"
+2 8 0.2500000 l "Has Affiliation"
+2 1 0.2500000 l "Has Affiliation
+      Address"
+1 2 0.5000000 l "Has Affiliation
+      Address"
+3 14 0.1052632 l "Has Hidden Variant"
+14 3 0.4000000 l "Has Hidden Variant"
+3 3 0.1052632 l "Has Related Authority"
+3 3 0.1052632 l "Has Related Authority"
+6 3 0.3333333 l "Has Top Member of MADS
+      Scheme"
+3 6 0.0526316 l "Has Top Member of MADS
+      Scheme"
+3 14 0.1052632 l "Has Variant"
+14 3 0.4000000 l "Has Variant"
+3 8 0.1052632 l "Identifies RWO"
+8 3 0.2222222 l "Identifies RWO"
+8 3 0.2222222 l "Is Identified By
+      Authority"
+3 8 0.1052632 l "Is Identified By
+      Authority"
+8 7 0.1111111 l "Occupation"
+7 8 0.5000000 l "Occupation"
+2 18 0.5000000 l "Affiliation
+      Ended"
+18 2 0.4000000 l "Affiliation
+      Ended"
+2 18 0.5000000 l "Affiliation
+      Started"
+18 2 0.4000000 l "Affiliation
+      Started"
+1 11 0.5000000 l "substring"
+11 1 0.3333333 l "substring"
+15 16 0.5000000 l "substring"
+16 15 0.5000000 l "substring"
+9 12 0.1818182 l "distance"
+12 9 0.4000000 l "distance"
+17 18 0.5000000 l "distance"
+18 17 0.2000000 l "distance"
+*Edges

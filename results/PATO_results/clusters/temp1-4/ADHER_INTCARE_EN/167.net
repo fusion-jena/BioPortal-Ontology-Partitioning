@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Occasional_spontaneous_pretend_actions_or_highly_repetitive_pretend_play" ellipse
+2 "play_Occasional_spontaneous_pretend_actions_or_highly_repetitive_pretend_play"
+*Arcs
+1 2 0.2678321 l "substring"
+2 1 0.2688939 l "substring"
+1 2 0.2678321 l "substring"
+2 1 0.2688939 l "substring"
+*Edges

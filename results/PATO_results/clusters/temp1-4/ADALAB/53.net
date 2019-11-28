@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Lives_in_Foster_Care" ellipse
+2 "lives_in"
+*Arcs
+1 2 0.3100724 l "definition"
+2 1 0.2339426 l "definition"
+1 2 0.3100724 l "substring"
+2 1 0.2339426 l "substring"
+1 2 0.3100724 l "definition"
+2 1 0.2339426 l "definition"
+1 2 0.3100724 l "substring"
+2 1 0.2339426 l "substring"
+1 2 0.3100724 l "definition"
+2 1 0.2339426 l "definition"
+1 2 0.3100724 l "substring"
+2 1 0.2339426 l "substring"
+1 2 0.3100724 l "definition"
+2 1 0.2339426 l "definition"
+1 2 0.3100724 l "substring"
+2 1 0.2339426 l "substring"
+*Edges

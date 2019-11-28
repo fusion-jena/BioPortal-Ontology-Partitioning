@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Electrode" ellipse
+2 "Electroencephalography" ellipse
+3 "Paroxysmal" ellipse
+4 "Photic stimulation" ellipse
+5 "Sharp wave" ellipse
+6 "Slowing" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1250000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1250000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1250000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1250000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1250000 l "isa"
+*Edges

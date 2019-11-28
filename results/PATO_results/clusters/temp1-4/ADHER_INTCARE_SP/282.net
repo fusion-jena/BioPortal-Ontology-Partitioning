@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Marked_mannerisms_associated_with_social_impairment" ellipse
+2 "othman_Marked_mannerisms_associated_with_social_impairment"
+*Arcs
+1 2 0.2198235 l "substring"
+2 1 0.1896047 l "substring"
+1 2 0.2198235 l "substring"
+2 1 0.1896047 l "substring"
+1 2 0.2198235 l "substring"
+2 1 0.1896047 l "substring"
+*Edges

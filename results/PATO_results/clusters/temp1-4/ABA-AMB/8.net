@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Frontal pole, cerebral cortex" ellipse
+2 "Frontal pole, layer 1" ellipse
+3 "Frontal pole, layer 2/3" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.2500000 l "isa"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

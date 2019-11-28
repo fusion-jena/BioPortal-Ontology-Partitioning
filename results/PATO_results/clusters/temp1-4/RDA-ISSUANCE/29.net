@@ -1,0 +1,9 @@
+*Vertices 2
+1 "nerve block" ellipse
+2 "suprascapular nerve block" ellipse
+*Arcs
+1 2 0.5449688 l "substring"
+2 1 0.5449688 l "substring"
+1 2 0.5449688 l "substring"
+2 1 0.5449688 l "substring"
+*Edges

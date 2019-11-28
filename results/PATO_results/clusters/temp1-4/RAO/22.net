@@ -1,0 +1,9 @@
+*Vertices 2
+1 "triamcinolone acetonide" ellipse
+2 "triamcinolone hexacetonide" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.3333333 l "isa"
+1 2 0.3333333 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

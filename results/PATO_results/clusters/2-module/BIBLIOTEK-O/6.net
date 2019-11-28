@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Aperture card" ellipse
+2 "Card" ellipse
+3 "Stereograph card" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.2500000 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.2500000 l "substring"
+2 3 0.2500000 l "substring"
+3 2 0.6666667 l "substring"
+*Edges

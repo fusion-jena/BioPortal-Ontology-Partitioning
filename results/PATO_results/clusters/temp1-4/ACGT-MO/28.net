@@ -1,0 +1,13 @@
+*Vertices 4
+1 "GenomicType" ellipse
+2 "HistologicalExamination" ellipse
+3 "HistologicalType" ellipse
+4 "TumorClass" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0625000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.0625000 l "isa"
+2 3 0.0588235 l "definition"
+3 2 0.5000000 l "definition"
+*Edges

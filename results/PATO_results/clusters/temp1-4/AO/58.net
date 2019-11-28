@@ -1,0 +1,21 @@
+*Vertices 2
+1 "SJ" ellipse
+2 "SJLBX" ellipse
+*Arcs
+1 2 0.0191952 l "substring"
+2 1 0.0804220 l "substring"
+1 2 0.0191952 l "distance"
+2 1 0.0804220 l "distance"
+1 2 0.0191952 l "substring"
+2 1 0.0804220 l "substring"
+1 2 0.0191952 l "distance"
+2 1 0.0804220 l "distance"
+1 2 0.0191952 l "substring"
+2 1 0.0804220 l "substring"
+1 2 0.0191952 l "distance"
+2 1 0.0804220 l "distance"
+1 2 0.0191952 l "substring"
+2 1 0.0804220 l "substring"
+1 2 0.0191952 l "distance"
+2 1 0.0804220 l "distance"
+*Edges

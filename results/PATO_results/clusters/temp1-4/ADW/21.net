@@ -1,0 +1,19 @@
+*Vertices 4
+1 "California Verbal learning test" ellipse
+2 "Everyday Cognition questionnaire" ellipse
+3 "Rey auditory verbal learning test" ellipse
+4 "Simple Word Test" ellipse
+*Arcs
+1 4 0.6153846 l "isa"
+4 1 0.1952891 l "isa"
+2 4 0.6153846 l "isa"
+4 2 0.1952891 l "isa"
+3 4 0.6153846 l "isa"
+4 3 0.1952891 l "isa"
+1 4 0.6153846 l "isa"
+4 1 0.1952891 l "isa"
+2 4 0.6153846 l "isa"
+4 2 0.1952891 l "isa"
+3 4 0.6153846 l "isa"
+4 3 0.1952891 l "isa"
+*Edges

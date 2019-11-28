@@ -1,0 +1,42 @@
+*Vertices 9
+1 "Bouteille" ellipse
+2 "Objet" ellipse
+3 "Objet_en_bois" ellipse
+4 "Objet_en_terre" ellipse
+5 "Objet_en_verre" ellipse
+6 "Objet_métallique" ellipse
+7 "Objet_pharmacologique" ellipse
+8 "Objet_traditionnel" ellipse
+9 "Statuette" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.2500000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.1538462 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.1538462 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.1538462 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1538462 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1538462 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.1538462 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.3333333 l "isa"
+2 3 0.1538462 l "substring"
+3 2 0.6666667 l "substring"
+2 4 0.1538462 l "substring"
+4 2 0.6666667 l "substring"
+2 5 0.1538462 l "substring"
+5 2 0.5000000 l "substring"
+2 6 0.1538462 l "substring"
+6 2 1.0000000 l "substring"
+2 7 0.1538462 l "substring"
+7 2 1.0000000 l "substring"
+2 8 0.1538462 l "substring"
+8 2 1.0000000 l "substring"
+4 5 0.3333333 l "distance"
+5 4 0.2500000 l "distance"
+*Edges

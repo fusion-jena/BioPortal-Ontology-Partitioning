@@ -1,0 +1,39 @@
+*Vertices 10
+1 "Air" ellipse
+2 "Chemical" ellipse
+3 "ChemicalSubstance" ellipse
+4 "Inorganic" ellipse
+5 "InorganicSubstance" ellipse
+6 "Medium" ellipse
+7 "MixedChemicalSubstance" ellipse
+8 "Mixture" ellipse
+9 "Solution" ellipse
+10 "Substance" ellipse
+*Arcs
+1 8 0.2500000 l "isa"
+8 1 0.3333333 l "isa"
+2 10 0.3333333 l "isa"
+10 2 0.0769231 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.1428571 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0769231 l "isa"
+8 3 0.3333333 l "isa"
+3 8 0.1428571 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.3333333 l "isa"
+2 3 0.3333333 l "substring"
+3 2 0.1428571 l "substring"
+2 7 0.3333333 l "substring"
+7 2 0.3333333 l "substring"
+3 7 0.1428571 l "substring"
+7 3 0.3333333 l "substring"
+3 10 0.1428571 l "substring"
+10 3 0.0769231 l "substring"
+4 5 0.5000000 l "substring"
+5 4 0.5000000 l "substring"
+5 10 0.5000000 l "substring"
+10 5 0.0769231 l "substring"
+7 10 0.3333333 l "substring"
+10 7 0.0769231 l "substring"
+*Edges

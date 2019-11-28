@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Grandparent" ellipse
+2 "Maternal_Grandparent" ellipse
+3 "Paternal_Grandparent" ellipse
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 0.4000000 l "isa"
+1 3 0.2000000 l "isa"
+1 2 0.2000000 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.2000000 l "substring"
+3 1 0.4000000 l "substring"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+*Edges

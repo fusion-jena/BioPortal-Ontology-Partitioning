@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Provider" ellipse
+2 "Insurance_Provider" ellipse
+*Arcs
+2 1 0.6360724 l "isa"
+1 2 0.5359520 l "isa"
+1 2 0.5359520 l "substring"
+2 1 0.6360724 l "substring"
+2 1 0.6360724 l "isa"
+1 2 0.5359520 l "isa"
+1 2 0.5359520 l "substring"
+2 1 0.6360724 l "substring"
+2 1 0.6360724 l "isa"
+1 2 0.5359520 l "isa"
+1 2 0.5359520 l "substring"
+2 1 0.6360724 l "substring"
+2 1 0.6360724 l "isa"
+1 2 0.5359520 l "isa"
+1 2 0.5359520 l "substring"
+2 1 0.6360724 l "substring"
+2 1 0.6360724 l "isa"
+1 2 0.5359520 l "isa"
+1 2 0.5359520 l "substring"
+2 1 0.6360724 l "substring"
+*Edges

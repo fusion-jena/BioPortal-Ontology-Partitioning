@@ -1,0 +1,15 @@
+*Vertices 2
+1 "LowCertainty" ellipse
+2 "isQualityOf"
+*Arcs
+1 2 0.1498479 l "definition"
+2 1 0.1576452 l "definition"
+1 2 0.1498479 l "definition"
+2 1 0.1576452 l "definition"
+1 2 0.1498479 l "definition"
+2 1 0.1576452 l "definition"
+1 2 0.1498479 l "definition"
+2 1 0.1576452 l "definition"
+1 2 0.1498479 l "definition"
+2 1 0.1576452 l "definition"
+*Edges

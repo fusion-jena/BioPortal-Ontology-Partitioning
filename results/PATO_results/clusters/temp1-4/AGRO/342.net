@@ -1,0 +1,9 @@
+*Vertices 2
+1 "freshwater environment" ellipse
+2 "aquatic environment" ellipse
+*Arcs
+1 2 0.2222222 l "isa"
+2 1 0.1666667 l "isa"
+1 2 0.2222222 l "definition"
+2 1 0.1666667 l "definition"
+*Edges

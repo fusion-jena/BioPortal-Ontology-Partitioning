@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Dartmoor" ellipse
+2 "Whiteface Dartmoor" ellipse
+3 "Dartmoor Pony" ellipse
+*Arcs
+1 2 0.3691151 l "substring"
+2 1 0.4690075 l "substring"
+1 3 0.4433714 l "substring"
+3 1 0.6497678 l "substring"
+1 2 0.3691151 l "substring"
+2 1 0.4690075 l "substring"
+1 3 0.4433714 l "substring"
+3 1 0.6497678 l "substring"
+1 2 0.3691151 l "substring"
+2 1 0.4690075 l "substring"
+1 3 0.4433714 l "substring"
+3 1 0.6497678 l "substring"
+1 2 0.3691151 l "substring"
+2 1 0.4690075 l "substring"
+1 3 0.4433714 l "substring"
+3 1 0.6497678 l "substring"
+1 2 0.3691151 l "substring"
+2 1 0.4690075 l "substring"
+1 3 0.4433714 l "substring"
+3 1 0.6497678 l "substring"
+1 2 0.3691151 l "substring"
+2 1 0.4690075 l "substring"
+1 3 0.4433714 l "substring"
+3 1 0.6497678 l "substring"
+*Edges

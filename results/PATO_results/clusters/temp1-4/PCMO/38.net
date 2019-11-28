@@ -1,0 +1,21 @@
+*Vertices 2
+1 "FormalityLevel" ellipse
+2 "hasFormalityLevel"
+*Arcs
+1 2 0.2612443 l "substring"
+2 1 0.6269343 l "substring"
+1 2 0.2612443 l "distance"
+2 1 0.6269343 l "distance"
+1 2 0.2612443 l "substring"
+2 1 0.6269343 l "substring"
+1 2 0.2612443 l "distance"
+2 1 0.6269343 l "distance"
+1 2 0.2612443 l "substring"
+2 1 0.6269343 l "substring"
+1 2 0.2612443 l "distance"
+2 1 0.6269343 l "distance"
+1 2 0.2612443 l "substring"
+2 1 0.6269343 l "substring"
+1 2 0.2612443 l "distance"
+2 1 0.6269343 l "distance"
+*Edges

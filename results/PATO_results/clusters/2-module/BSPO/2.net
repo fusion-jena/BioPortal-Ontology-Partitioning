@@ -1,0 +1,29 @@
+*Vertices 6
+1 "upper-lower gradient" ellipse
+2 "apical-basal gradient" ellipse
+3 "proximal-distal gradient" ellipse
+4 "anatomical gradient" ellipse
+5 "anterior-posterior gradient" ellipse
+6 "dorsal-ventral gradient" ellipse
+*Arcs
+1 4 0.2857143 l "isa"
+4 1 0.1538462 l "isa"
+2 4 0.2857143 l "isa"
+4 2 0.1538462 l "isa"
+3 4 0.2857143 l "isa"
+4 3 0.1538462 l "isa"
+5 4 0.2857143 l "isa"
+4 5 0.1538462 l "isa"
+6 4 0.2857143 l "isa"
+4 6 0.1538462 l "isa"
+1 4 0.2857143 l "definition"
+4 1 0.1538462 l "definition"
+2 4 0.2857143 l "definition"
+4 2 0.1538462 l "definition"
+3 4 0.2857143 l "definition"
+4 3 0.1538462 l "definition"
+5 4 0.2857143 l "definition"
+4 5 0.1538462 l "definition"
+6 4 0.2857143 l "definition"
+4 6 0.1538462 l "definition"
+*Edges

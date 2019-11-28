@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Catalog" ellipse
+2 "Catalog Record" ellipse
+*Arcs
+1 2 0.3591885 l "record"
+2 1 0.4094246 l "record"
+1 2 0.3591885 l "substring"
+2 1 0.4094246 l "substring"
+1 2 0.3591885 l "record"
+2 1 0.4094246 l "record"
+1 2 0.3591885 l "substring"
+2 1 0.4094246 l "substring"
+1 2 0.3591885 l "record"
+2 1 0.4094246 l "record"
+1 2 0.3591885 l "substring"
+2 1 0.4094246 l "substring"
+1 2 0.3591885 l "record"
+2 1 0.4094246 l "record"
+1 2 0.3591885 l "substring"
+2 1 0.4094246 l "substring"
+*Edges

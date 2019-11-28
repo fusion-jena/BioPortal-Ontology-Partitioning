@@ -1,0 +1,13 @@
+*Vertices 2
+1 "bank" ellipse
+2 "stream bank" ellipse
+*Arcs
+2 1 0.5154094 l "isa"
+1 2 0.0501305 l "isa"
+1 2 0.0501305 l "substring"
+2 1 0.5154094 l "substring"
+2 1 0.5154094 l "isa"
+1 2 0.0501305 l "isa"
+1 2 0.0501305 l "substring"
+2 1 0.5154094 l "substring"
+*Edges

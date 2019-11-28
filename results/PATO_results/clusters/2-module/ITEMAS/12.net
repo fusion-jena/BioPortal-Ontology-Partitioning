@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Difusion_Externa" ellipse
+2 "Eventos_Difusion" ellipse
+3 "organizadosPor"
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1111111 l "isa"
+2 1 0.1111111 l "definition"
+1 2 0.6666667 l "definition"
+2 3 0.0555556 l "definition"
+3 2 1.0000000 l "definition"
+*Edges

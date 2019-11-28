@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Nasal_and_paranasal" ellipse
+2 "cranial_nerves" ellipse
+3 "hypopharynx_and_larynx" ellipse
+4 "oral_cavity_and_oropharynx" ellipse
+5 "otologic_and_otoneurologic" ellipse
+6 "physical_examination_findings" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.1428571 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1428571 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1428571 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1428571 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1428571 l "isa"
+*Edges

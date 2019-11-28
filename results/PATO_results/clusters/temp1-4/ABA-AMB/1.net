@@ -1,0 +1,277 @@
+*Vertices 74
+1 "Accessory abducens nucleus" ellipse
+2 "Accessory facial motor nucleus" ellipse
+3 "Area postrema" ellipse
+4 "Barrington's nucleus" ellipse
+5 "Cerebellar nuclei" ellipse
+6 "Superior central nucleus raphé" ellipse
+7 "Superior central nucleus raphe, lateral part" ellipse
+8 "Superior central nucleus raphe, medial part" ellipse
+9 "Cuneate nucleus" ellipse
+10 "Dorsal column nuclei" ellipse
+11 "Dorsal motor nucleus of the vagus nerve" ellipse
+12 "Dentate nucleus" ellipse
+13 "Dorsal tegmental nucleus" ellipse
+14 "Efferent vestibular nucleus" ellipse
+15 "External cuneate nucleus" ellipse
+16 "Efferent vestibular nucleus" ellipse
+17 "Fastigial nucleus" ellipse
+18 "Gracile nucleus" ellipse
+19 "Infracerebellar nucleus" ellipse
+20 "Interstitial nucleus of the vestibular nerve" ellipse
+21 "Inferior olivary complex" ellipse
+22 "Interposed nucleus" ellipse
+23 "Intermediate reticular nucleus" ellipse
+24 "Inferior salivatory nucleus" ellipse
+25 "Locus ceruleus" ellipse
+26 "Laterodorsal tegmental nucleus" ellipse
+27 "Linear nucleus of the medulla" ellipse
+28 "Lateral tegmental nucleus" ellipse
+29 "Magnocellular reticular nucleus" ellipse
+30 "Medullary reticular nucleus" ellipse
+31 "Medullary reticular nucleus, dorsal part" ellipse
+32 "Medullary reticular nucleus, ventral part" ellipse
+33 "Medulla" ellipse
+34 "Medulla, motor related" ellipse
+35 "Medulla, behavioral state related" ellipse
+36 "Medulla, sensory related" ellipse
+37 "Nucleus incertus" ellipse
+38 "Nucleus of the trapezoid body" ellipse
+39 "Pons" ellipse
+40 "Pons, motor related" ellipse
+41 "Pons, behavioral state related" ellipse
+42 "Pons, sensory related" ellipse
+43 "Parvicellular reticular nucleus" ellipse
+44 "Parasolitary nucleus" ellipse
+45 "Pontine central gray" ellipse
+46 "Pontine gray" ellipse
+47 "Paramedian reticular nucleus" ellipse
+48 "Superior olivary complex, periolivary region" ellipse
+49 "Pontine reticular nucleus, caudal part" ellipse
+50 "Pontine reticular nucleus" ellipse
+51 "Pontine reticular nucleus, ventral part" ellipse
+52 "Principal sensory nucleus of the trigeminal" ellipse
+53 "Nucleus raphe magnus" ellipse
+54 "Nucleus raphe obscurus" ellipse
+55 "Nucleus raphe pallidus" ellipse
+56 "Nucleus raphe pontis" ellipse
+57 "Supragenual nucleus" ellipse
+58 "Subceruleus nucleus" ellipse
+59 "Sublaterodorsal nucleus" ellipse
+60 "Superior olivary complex" ellipse
+61 "Superior olivary complex, lateral part" ellipse
+62 "Superior olivary complex, medial part" ellipse
+63 "Spinal nucleus of the trigeminal, caudal part" ellipse
+64 "Spinal nucleus of the trigeminal, interpolar part" ellipse
+65 "Superior salivatory nucleus" ellipse
+66 "Supratrigeminal nucleus" ellipse
+67 "Tegmental reticular nucleus" ellipse
+68 "Motor nucleus of trigeminal" ellipse
+69 "Abducens nucleus" ellipse
+70 "Facial motor nucleus" ellipse
+71 "Hypoglossal nucleus" ellipse
+72 "Nucleus x" ellipse
+73 "Nucleus y" ellipse
+74 "Nucleus z" ellipse
+*Arcs
+1 34 0.5000000 l "isa"
+34 1 0.0333333 l "isa"
+2 34 0.5000000 l "isa"
+34 2 0.0333333 l "isa"
+3 36 1.0000000 l "isa"
+36 3 0.0833333 l "isa"
+4 40 1.0000000 l "isa"
+40 4 0.0714286 l "isa"
+6 41 0.3333333 l "isa"
+41 6 0.1000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.3333333 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.3333333 l "isa"
+9 10 0.3333333 l "isa"
+10 9 0.3333333 l "isa"
+10 36 0.3333333 l "isa"
+36 10 0.0833333 l "isa"
+11 34 1.0000000 l "isa"
+34 11 0.0333333 l "isa"
+12 5 0.5000000 l "isa"
+5 12 0.2500000 l "isa"
+13 40 0.5000000 l "isa"
+40 13 0.0714286 l "isa"
+14 34 0.3333333 l "isa"
+34 14 0.0333333 l "isa"
+15 36 0.5000000 l "isa"
+36 15 0.0833333 l "isa"
+16 34 0.3333333 l "isa"
+34 16 0.0333333 l "isa"
+17 5 1.0000000 l "isa"
+5 17 0.2500000 l "isa"
+18 10 1.0000000 l "isa"
+10 18 0.3333333 l "isa"
+19 34 1.0000000 l "isa"
+34 19 0.0333333 l "isa"
+20 34 1.0000000 l "isa"
+34 20 0.0333333 l "isa"
+21 34 0.5000000 l "isa"
+34 21 0.0333333 l "isa"
+22 5 1.0000000 l "isa"
+5 22 0.2500000 l "isa"
+23 34 1.0000000 l "isa"
+34 23 0.0333333 l "isa"
+24 34 0.5000000 l "isa"
+34 24 0.0333333 l "isa"
+25 41 1.0000000 l "isa"
+41 25 0.1000000 l "isa"
+26 41 0.5000000 l "isa"
+41 26 0.1000000 l "isa"
+27 34 0.5000000 l "isa"
+34 27 0.0333333 l "isa"
+28 40 1.0000000 l "isa"
+40 28 0.0714286 l "isa"
+29 34 1.0000000 l "isa"
+34 29 0.0333333 l "isa"
+30 34 0.1666667 l "isa"
+34 30 0.0333333 l "isa"
+31 30 0.6666667 l "isa"
+30 31 0.3333333 l "isa"
+32 30 0.6666667 l "isa"
+30 32 0.3333333 l "isa"
+34 33 0.0666667 l "isa"
+33 34 0.1818182 l "isa"
+35 33 0.4000000 l "isa"
+33 35 0.1818182 l "isa"
+36 33 0.1666667 l "isa"
+33 36 0.1818182 l "isa"
+37 41 1.0000000 l "isa"
+41 37 0.1000000 l "isa"
+38 36 1.0000000 l "isa"
+36 38 0.0833333 l "isa"
+40 39 0.1428571 l "isa"
+39 40 0.2857143 l "isa"
+41 39 0.2000000 l "isa"
+39 41 0.2857143 l "isa"
+42 39 0.3333333 l "isa"
+39 42 0.2857143 l "isa"
+43 34 1.0000000 l "isa"
+34 43 0.0333333 l "isa"
+44 34 1.0000000 l "isa"
+34 44 0.0333333 l "isa"
+45 40 1.0000000 l "isa"
+40 45 0.0714286 l "isa"
+46 40 1.0000000 l "isa"
+40 46 0.0714286 l "isa"
+47 34 1.0000000 l "isa"
+34 47 0.0333333 l "isa"
+48 60 1.0000000 l "isa"
+60 48 0.2500000 l "isa"
+49 40 0.5000000 l "isa"
+40 49 0.0714286 l "isa"
+50 41 0.3333333 l "isa"
+41 50 0.1000000 l "isa"
+51 40 0.5000000 l "isa"
+40 51 0.0714286 l "isa"
+52 42 1.0000000 l "isa"
+42 52 0.1666667 l "isa"
+53 35 1.0000000 l "isa"
+35 53 0.2000000 l "isa"
+54 35 1.0000000 l "isa"
+35 54 0.2000000 l "isa"
+55 35 1.0000000 l "isa"
+35 55 0.2000000 l "isa"
+56 41 1.0000000 l "isa"
+41 56 0.1000000 l "isa"
+57 40 1.0000000 l "isa"
+40 57 0.0714286 l "isa"
+58 41 1.0000000 l "isa"
+41 58 0.1000000 l "isa"
+59 41 1.0000000 l "isa"
+41 59 0.1000000 l "isa"
+60 42 0.1250000 l "isa"
+42 60 0.1666667 l "isa"
+61 60 1.0000000 l "isa"
+60 61 0.2500000 l "isa"
+62 60 1.0000000 l "isa"
+60 62 0.2500000 l "isa"
+63 36 1.0000000 l "isa"
+36 63 0.0833333 l "isa"
+64 36 1.0000000 l "isa"
+36 64 0.0833333 l "isa"
+65 40 0.5000000 l "isa"
+40 65 0.0714286 l "isa"
+66 40 1.0000000 l "isa"
+40 66 0.0714286 l "isa"
+67 40 1.0000000 l "isa"
+40 67 0.0714286 l "isa"
+68 40 1.0000000 l "isa"
+40 68 0.0714286 l "isa"
+69 34 0.5000000 l "isa"
+34 69 0.0333333 l "isa"
+70 34 0.5000000 l "isa"
+34 70 0.0333333 l "isa"
+71 34 1.0000000 l "isa"
+34 71 0.0333333 l "isa"
+72 34 0.3333333 l "isa"
+34 72 0.0333333 l "isa"
+73 34 0.3333333 l "isa"
+34 73 0.0333333 l "isa"
+74 36 0.3333333 l "isa"
+36 74 0.0833333 l "isa"
+1 69 0.5000000 l "substring"
+69 1 0.5000000 l "substring"
+2 70 0.5000000 l "substring"
+70 2 0.5000000 l "substring"
+9 15 0.3333333 l "substring"
+15 9 0.5000000 l "substring"
+13 26 0.5000000 l "substring"
+26 13 0.5000000 l "substring"
+14 16 0.6666667 l "substring"
+16 14 0.6666667 l "substring"
+27 33 0.5000000 l "substring"
+33 27 0.0909091 l "substring"
+30 31 0.3333333 l "substring"
+31 30 0.6666667 l "substring"
+30 32 0.3333333 l "substring"
+32 30 0.6666667 l "substring"
+30 33 0.1666667 l "substring"
+33 30 0.0909091 l "substring"
+31 33 0.3333333 l "substring"
+33 31 0.0909091 l "substring"
+32 33 0.3333333 l "substring"
+33 32 0.0909091 l "substring"
+33 34 0.1818182 l "substring"
+34 33 0.0666667 l "substring"
+33 35 0.1818182 l "substring"
+35 33 0.4000000 l "substring"
+33 36 0.1818182 l "substring"
+36 33 0.1666667 l "substring"
+39 40 0.2857143 l "substring"
+40 39 0.1428571 l "substring"
+39 41 0.2857143 l "substring"
+41 39 0.2000000 l "substring"
+39 42 0.2857143 l "substring"
+42 39 0.3333333 l "substring"
+48 60 1.0000000 l "substring"
+60 48 0.2500000 l "substring"
+49 50 0.5000000 l "substring"
+50 49 0.3333333 l "substring"
+50 51 0.3333333 l "substring"
+51 50 0.5000000 l "substring"
+60 61 0.2500000 l "substring"
+61 60 1.0000000 l "substring"
+60 62 0.2500000 l "substring"
+62 60 1.0000000 l "substring"
+9 12 0.3333333 l "distance"
+12 9 0.5000000 l "distance"
+14 16 0.6666667 l "distance"
+16 14 0.6666667 l "distance"
+21 60 0.5000000 l "distance"
+60 21 0.1250000 l "distance"
+24 65 0.5000000 l "distance"
+65 24 0.5000000 l "distance"
+72 73 0.3333333 l "distance"
+73 72 0.3333333 l "distance"
+72 74 0.3333333 l "distance"
+74 72 0.3333333 l "distance"
+73 74 0.3333333 l "distance"
+74 73 0.3333333 l "distance"
+*Edges

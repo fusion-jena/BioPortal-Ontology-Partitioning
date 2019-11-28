@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Vyatka" ellipse
+2 "Verata" ellipse
+*Arcs
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+1 2 0.2699893 l "distance"
+2 1 0.2650768 l "distance"
+*Edges

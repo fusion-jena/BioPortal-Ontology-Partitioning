@@ -1,0 +1,18 @@
+*Vertices 3
+1 "fingerprinting" ellipse
+2 "comparing" ellipse
+3 "fingerprint" ellipse
+*Arcs
+1 2 0.2810811 l "isa"
+2 1 0.1556718 l "isa"
+1 3 0.7189189 l "substring"
+3 1 0.5800564 l "substring"
+1 3 0.7189189 l "distance"
+3 1 0.5800564 l "distance"
+1 2 0.2810811 l "isa"
+2 1 0.1556718 l "isa"
+1 3 0.7189189 l "substring"
+3 1 0.5800564 l "substring"
+1 3 0.7189189 l "distance"
+3 1 0.5800564 l "distance"
+*Edges

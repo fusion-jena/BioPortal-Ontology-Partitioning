@@ -1,0 +1,13 @@
+*Vertices 4
+1 "First_Degree_Relation" ellipse
+2 "Natural_Child" ellipse
+3 "Natural_Daughter" ellipse
+4 "Natural_Son" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2500000 l "isa"
+3 2 0.2500000 l "definition"
+2 3 0.3333333 l "definition"
+4 2 0.2500000 l "definition"
+2 4 0.3333333 l "definition"
+*Edges

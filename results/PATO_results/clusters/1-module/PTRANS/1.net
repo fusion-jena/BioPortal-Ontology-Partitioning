@@ -1,0 +1,44 @@
+*Vertices 13
+1 "mechanical" ellipse
+2 "vector-borne" ellipse
+3 "vector-borne bite" ellipse
+4 "vector-borne gastro-intestinal" ellipse
+5 "arthropod borne" ellipse
+6 "insect borne" ellipse
+7 "mosquito borne" ellipse
+8 "Anopheles gambiae borne" ellipse
+9 "flea borne" ellipse
+10 "tick borne" ellipse
+11 "copepod borne" ellipse
+12 "Dracunculus medinensis borne" ellipse
+13 "arachnid borne" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2857143 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.2857143 l "isa"
+5 2 0.3333333 l "isa"
+2 5 0.1428571 l "isa"
+6 5 0.3333333 l "isa"
+5 6 0.3333333 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.3333333 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.5000000 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.3333333 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.5000000 l "isa"
+11 4 0.5000000 l "isa"
+4 11 0.3333333 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.5000000 l "isa"
+13 5 0.5000000 l "isa"
+5 13 0.3333333 l "isa"
+2 3 0.2857143 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2857143 l "substring"
+4 2 0.6666667 l "substring"
+*Edges

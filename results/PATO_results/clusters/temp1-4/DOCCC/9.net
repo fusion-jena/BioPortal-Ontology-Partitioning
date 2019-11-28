@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Physical_Regulation" ellipse
+2 "Physical_Regulation_Alteration" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.1333333 l "isa"
+1 2 0.1333333 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Ion channel" ellipse
+2 "Ligand gated" ellipse
+3 "Ion channel" ellipse
+4 "Ligand gated" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2000000 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.2000000 l "isa"
+1 3 0.4000000 l "substring"
+3 1 0.4000000 l "substring"
+2 4 0.6666667 l "substring"
+4 2 0.6666667 l "substring"
+1 3 0.4000000 l "distance"
+3 1 0.4000000 l "distance"
+2 4 0.6666667 l "distance"
+4 2 0.6666667 l "distance"
+*Edges

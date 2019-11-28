@@ -1,0 +1,13 @@
+*Vertices 2
+1 "improper diet / 饮食失宜" ellipse
+2 "improper diet / 饮食不洁" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "linkage"
+2 "linkage"
+*Arcs
+1 2 0.2295846 l "substring"
+2 1 0.2500000 l "substring"
+1 2 0.2295846 l "distance"
+2 1 0.2500000 l "distance"
+*Edges

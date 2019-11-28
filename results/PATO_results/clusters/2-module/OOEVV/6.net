@@ -1,0 +1,17 @@
+*Vertices 4
+1 "DecimalScale" ellipse
+2 "DecimalValue" ellipse
+3 "NumericValue" ellipse
+4 "double"
+*Arcs
+2 3 0.3333333 l "isa"
+3 2 0.2500000 l "isa"
+2 4 0.3333333 l "doubleValue"
+4 2 0.3333333 l "doubleValue"
+1 4 0.4000000 l "maximumDoubleValue"
+4 1 0.6666667 l "maximumDoubleValue"
+1 4 0.4000000 l "minimumDoubleValue"
+4 1 0.6666667 l "minimumDoubleValue"
+1 2 0.2000000 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

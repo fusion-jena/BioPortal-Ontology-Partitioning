@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Solid" ellipse
+2 "_Solid" ellipse
+3 "interior_Surface"
+4 "solid"
+*Arcs
+1 2 0.1304348 l "isa"
+2 1 0.3000000 l "isa"
+3 1 0.2000000 l "definition"
+1 3 0.0869565 l "definition"
+1 3 0.0869565 l "definition"
+3 1 0.2000000 l "definition"
+1 2 0.1304348 l "substring"
+2 1 0.3000000 l "substring"
+1 4 0.0869565 l "substring"
+4 1 0.1111111 l "substring"
+2 4 0.2000000 l "substring"
+4 2 0.1111111 l "substring"
+1 2 0.1304348 l "distance"
+2 1 0.3000000 l "distance"
+1 4 0.0869565 l "distance"
+4 1 0.1111111 l "distance"
+2 4 0.2000000 l "distance"
+4 2 0.1111111 l "distance"
+*Edges

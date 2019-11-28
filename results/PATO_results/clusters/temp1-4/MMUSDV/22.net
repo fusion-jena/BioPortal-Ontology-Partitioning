@@ -1,0 +1,14 @@
+*Vertices 3
+1 "IHMC Ethnicities" ellipse
+2 "01=Hispanic or Latino or Spanish" ellipse
+3 "02=Non-Hispanic or Non-Latino or Non- Spanish" ellipse
+*Arcs
+2 1 0.2615522 l "isa"
+1 2 0.1539332 l "isa"
+3 1 0.2615522 l "isa"
+1 3 0.1539332 l "isa"
+2 1 0.2615522 l "isa"
+1 2 0.1539332 l "isa"
+3 1 0.2615522 l "isa"
+1 3 0.1539332 l "isa"
+*Edges

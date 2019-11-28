@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Very_rare_or_no_spontaneous_imitation" ellipse
+2 "imit_Very_rare_or_no_spontaneous_imitation"
+*Arcs
+1 2 0.3555556 l "substring"
+2 1 0.3591160 l "substring"
+1 2 0.3555556 l "substring"
+2 1 0.3591160 l "substring"
+*Edges

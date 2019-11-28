@@ -1,0 +1,39 @@
+*Vertices 4
+1 "LeftKidneyPosteriorRenalSegment" ellipse
+2 "PosteriorRenalSegment" ellipse
+3 "RenalSegment" ellipse
+4 "RightKidneyPosteriorRenalSegment" ellipse
+*Arcs
+1 2 0.3734984 l "isa"
+2 1 0.3016264 l "isa"
+2 3 0.2732520 l "isa"
+3 2 0.0922294 l "isa"
+4 2 0.3724863 l "isa"
+2 4 0.3016264 l "isa"
+1 2 0.3734984 l "substring"
+2 1 0.3016264 l "substring"
+1 3 0.1575927 l "substring"
+3 1 0.0429559 l "substring"
+2 3 0.2732520 l "substring"
+3 2 0.0922294 l "substring"
+2 4 0.3016264 l "substring"
+4 2 0.3724863 l "substring"
+3 4 0.0429559 l "substring"
+4 3 0.1571656 l "substring"
+1 2 0.3734984 l "isa"
+2 1 0.3016264 l "isa"
+2 3 0.2732520 l "isa"
+3 2 0.0922294 l "isa"
+4 2 0.3724863 l "isa"
+2 4 0.3016264 l "isa"
+1 2 0.3734984 l "substring"
+2 1 0.3016264 l "substring"
+1 3 0.1575927 l "substring"
+3 1 0.0429559 l "substring"
+2 3 0.2732520 l "substring"
+3 2 0.0922294 l "substring"
+2 4 0.3016264 l "substring"
+4 2 0.3724863 l "substring"
+3 4 0.0429559 l "substring"
+4 3 0.1571656 l "substring"
+*Edges

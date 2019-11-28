@@ -1,0 +1,10 @@
+*Vertices 3
+1 "main_complaint" ellipse
+2 "modalities" ellipse
+3 "taste" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1428571 l "isa"
+*Edges

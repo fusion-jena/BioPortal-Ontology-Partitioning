@@ -1,0 +1,27 @@
+*Vertices 8
+1 "abnormal fertility/fecundity" ellipse
+2 "decreased litter size" ellipse
+3 "delayed fertility" ellipse
+4 "female infertility" ellipse
+5 "infertility" ellipse
+6 "pseudopregnancy" ellipse
+7 "reduced female fertility" ellipse
+8 "reduced fertility" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1666667 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.6666667 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.1666667 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1666667 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.5000000 l "isa"
+8 1 0.5000000 l "isa"
+1 8 0.1666667 l "isa"
+4 5 1.0000000 l "substring"
+5 4 0.6666667 l "substring"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Medical_Monitor" ellipse
+2 "Role_In_Study" ellipse
+3 "Site_Manager" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2357983 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2357983 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2357983 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2357983 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2357983 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2357983 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2357983 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2357983 l "isa"
+*Edges

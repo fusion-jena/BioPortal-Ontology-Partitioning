@@ -1,0 +1,35 @@
+*Vertices 4
+1 "InorganicSubstance" ellipse
+2 "Substance" ellipse
+3 "OrganicSubstance" ellipse
+4 "hasSubstance"
+*Arcs
+3 2 0.2141440 l "isa"
+2 3 0.3321462 l "isa"
+1 2 0.1990970 l "substring"
+2 1 0.1570474 l "substring"
+1 3 0.4485404 l "substring"
+3 1 0.2281100 l "substring"
+2 3 0.3321462 l "substring"
+3 2 0.2141440 l "substring"
+2 4 0.3682490 l "substring"
+4 2 0.5491652 l "substring"
+1 3 0.4485404 l "distance"
+3 1 0.2281100 l "distance"
+2 4 0.3682490 l "distance"
+4 2 0.5491652 l "distance"
+3 2 0.2141440 l "isa"
+2 3 0.3321462 l "isa"
+1 2 0.1990970 l "substring"
+2 1 0.1570474 l "substring"
+1 3 0.4485404 l "substring"
+3 1 0.2281100 l "substring"
+2 3 0.3321462 l "substring"
+3 2 0.2141440 l "substring"
+2 4 0.3682490 l "substring"
+4 2 0.5491652 l "substring"
+1 3 0.4485404 l "distance"
+3 1 0.2281100 l "distance"
+2 4 0.3682490 l "distance"
+4 2 0.5491652 l "distance"
+*Edges

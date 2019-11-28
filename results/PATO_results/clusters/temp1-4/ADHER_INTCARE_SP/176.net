@@ -1,0 +1,11 @@
+*Vertices 2
+1 "An_interest_in_infant_toys" ellipse
+2 "useobj_An_interest_in_infant_toys"
+*Arcs
+1 2 0.2881901 l "substring"
+2 1 0.2901821 l "substring"
+1 2 0.2881901 l "substring"
+2 1 0.2901821 l "substring"
+1 2 0.2881901 l "substring"
+2 1 0.2901821 l "substring"
+*Edges

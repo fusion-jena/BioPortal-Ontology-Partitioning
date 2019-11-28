@@ -1,0 +1,16 @@
+*Vertices 5
+1 "DQ_ConceptualConsistency" ellipse
+2 "DQ_DomainConsistency" ellipse
+3 "DQ_FormatConsistency" ellipse
+4 "DQ_LogicalConsistency" ellipse
+5 "DQ_TopologicalConsistency" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2000000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2000000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2000000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2000000 l "isa"
+*Edges

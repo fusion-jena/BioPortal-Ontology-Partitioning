@@ -1,0 +1,60 @@
+*Vertices 13
+1 "add-on treatment context" ellipse
+2 "cellular context" ellipse
+3 "clinical trial context" ellipse
+4 "context" ellipse
+5 "in silico context" ellipse
+6 "in vitro context" ellipse
+7 "molecular context" ellipse
+8 "pharmacotherapy clinical treatment context" ellipse
+9 "pre clinical context" ellipse
+10 "primary measure context" ellipse
+11 "secondary measure context" ellipse
+12 "surgical context" ellipse
+13 "syndrome context" ellipse
+*Arcs
+1 8 0.5000000 l "isa"
+8 1 0.0555556 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0303030 l "isa"
+5 4 0.6666667 l "isa"
+4 5 0.0303030 l "isa"
+6 4 0.4000000 l "isa"
+4 6 0.0303030 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0303030 l "isa"
+9 4 0.5000000 l "isa"
+4 9 0.0303030 l "isa"
+10 3 0.5000000 l "isa"
+3 10 0.0357143 l "isa"
+11 3 0.5000000 l "isa"
+3 11 0.0357143 l "isa"
+12 4 1.0000000 l "isa"
+4 12 0.0303030 l "isa"
+13 4 0.6666667 l "isa"
+4 13 0.0303030 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.0151515 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.0303030 l "substring"
+3 4 0.0357143 l "substring"
+4 3 0.0151515 l "substring"
+4 5 0.0303030 l "substring"
+5 4 0.6666667 l "substring"
+4 6 0.0303030 l "substring"
+6 4 0.4000000 l "substring"
+4 7 0.0303030 l "substring"
+7 4 1.0000000 l "substring"
+4 8 0.0151515 l "substring"
+8 4 0.0555556 l "substring"
+4 9 0.0303030 l "substring"
+9 4 0.5000000 l "substring"
+4 10 0.0151515 l "substring"
+10 4 0.5000000 l "substring"
+4 11 0.0151515 l "substring"
+11 4 0.5000000 l "substring"
+4 12 0.0303030 l "substring"
+12 4 1.0000000 l "substring"
+4 13 0.0303030 l "substring"
+13 4 0.6666667 l "substring"
+*Edges

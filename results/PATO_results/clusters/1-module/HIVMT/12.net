@@ -1,0 +1,7 @@
+*Vertices 2
+1 "FWTGHIV1RTInTreatedPatientGroup-FGTPG" ellipse
+2 "T69T-RIAnd-InPatientGroupTreatedWithNRTIs" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 1.0000000 l "isa"
+*Edges

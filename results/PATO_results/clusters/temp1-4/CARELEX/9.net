@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Bioanalytical Reports" ellipse
+2 "Bioanalytical Validation Methods" ellipse
+3 "Facility Documentation" ellipse
+4 "Interfacility Standardization Methods" ellipse
+5 "Lab Manual" ellipse
+6 "Laboratory Director Curriculum Vitae" ellipse
+7 "Supply Import Documentation" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1111111 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1111111 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1111111 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1111111 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.1111111 l "isa"
+*Edges

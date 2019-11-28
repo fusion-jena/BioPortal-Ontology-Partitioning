@@ -1,0 +1,22 @@
+*Vertices 3
+1 "AdministrativeRole" ellipse
+2 "Nurse" ellipse
+3 "StudyNurse" ellipse
+*Arcs
+3 1 0.2098197 l "isa"
+1 3 0.0961648 l "isa"
+2 3 0.1087430 l "substring"
+3 2 0.2147387 l "substring"
+3 1 0.2098197 l "isa"
+1 3 0.0961648 l "isa"
+2 3 0.1087430 l "substring"
+3 2 0.2147387 l "substring"
+3 1 0.2098197 l "isa"
+1 3 0.0961648 l "isa"
+2 3 0.1087430 l "substring"
+3 2 0.2147387 l "substring"
+3 1 0.2098197 l "isa"
+1 3 0.0961648 l "isa"
+2 3 0.1087430 l "substring"
+3 2 0.2147387 l "substring"
+*Edges

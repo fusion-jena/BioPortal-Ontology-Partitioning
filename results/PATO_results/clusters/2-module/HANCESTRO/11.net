@@ -1,0 +1,651 @@
+*Vertices 174
+1 "Republic of the Congo" ellipse
+2 "Afghanistan" ellipse
+3 "Antigua and Barbuda" ellipse
+4 "Argentina" ellipse
+5 "Barbados" ellipse
+6 "Bermuda" ellipse
+7 "Bosnia and Herzegovina" ellipse
+8 "Botswana" ellipse
+9 "Burkina Faso" ellipse
+10 "Cayman Islands" ellipse
+11 "Channel Islands" ellipse
+12 "Comoros" ellipse
+13 "Cook Islands" ellipse
+14 "Cyprus" ellipse
+15 "Czech Republic" ellipse
+16 "Democratic Republic of the Congo" ellipse
+17 "Denmark" ellipse
+18 "East Timor" ellipse
+19 "El Salvador" ellipse
+20 "Faeroe Islands" ellipse
+21 "Falkland Islands" ellipse
+22 "Micronesia (Federated States of)" ellipse
+23 "Greece" ellipse
+24 "Guadeloupe" ellipse
+25 "Guinea" ellipse
+26 "Guinea-Bissau" ellipse
+27 "Holy See" ellipse
+28 "Honduras" ellipse
+29 "Hong Kong" ellipse
+30 "Hungary" ellipse
+31 "Isle of Man" ellipse
+32 "Côte d'Ivoire" ellipse
+33 "Kosovo" ellipse
+34 "Lebanon" ellipse
+35 "Lesotho" ellipse
+36 "Madagascar" ellipse
+37 "Maldives" ellipse
+38 "Marshall Islands" ellipse
+39 "Martinique" ellipse
+40 "Mauritius" ellipse
+41 "Mayotte" ellipse
+42 "Montenegro" ellipse
+43 "Morocco" ellipse
+44 "Mozambique" ellipse
+45 "Myanmar" ellipse
+46 "Netherlands" ellipse
+47 "Netherlands Antilles" ellipse
+48 "North Korea" ellipse
+49 "Northern Mariana Islands" ellipse
+50 "Palestinian Territories" ellipse
+51 "Philippines" ellipse
+52 "Pitcairn Islands" ellipse
+53 "Portugal" ellipse
+54 "Puerto Rico" ellipse
+55 "Republic of Ireland" ellipse
+56 "Republic of Macedonia" ellipse
+57 "Réunion" ellipse
+58 "Saint Helena" ellipse
+59 "Saint Kitts and Nevis" ellipse
+60 "Saint Martin" ellipse
+61 "Saint Pierre and Miquelon" ellipse
+62 "Saint Vincent and the Grenadines" ellipse
+63 "San Marino" ellipse
+64 "Saudi Arabia" ellipse
+65 "Seychelles" ellipse
+66 "Singapore" ellipse
+67 "Sint Maarten" ellipse
+68 "Solomon Islands" ellipse
+69 "South Korea" ellipse
+70 "Suriname" ellipse
+71 "Switzerland" ellipse
+72 "São Tomé and Príncipe" ellipse
+73 "The Bahamas" ellipse
+74 "The Gambia" ellipse
+75 "Trinidad and Tobago" ellipse
+76 "Turkmenistan" ellipse
+77 "Turks and Caicos Islands" ellipse
+78 "Ukraine" ellipse
+79 "United Arab Emirates" ellipse
+80 "United Kingdom" ellipse
+81 "United States" ellipse
+82 "United States Virgin Islands" ellipse
+83 "Vanuatu" ellipse
+84 "Wallis and Futuna" ellipse
+85 "Western Sahara" ellipse
+86 "Cocos (Keeling) Islands" ellipse
+87 "region" ellipse
+88 "country" ellipse
+89 "Hispanic or Latin American" ellipse
+90 "Greater Middle Eastern  (Middle Eastern, North African or Persian)" ellipse
+91 "Oceanian" ellipse
+92 "Chinese" ellipse
+93 "Singaporean Chinese" ellipse
+94 "Hong Kong Chinese" ellipse
+95 "Han Chinese" ellipse
+96 "Africa" ellipse
+97 "Asia" ellipse
+98 "Middle Africa" ellipse
+99 "South-Central Asia" ellipse
+100 "Central America" ellipse
+101 "Micronesia" ellipse
+102 "Scandinavia" ellipse
+103 "Barbadian" ellipse
+104 "Turkmen" ellipse
+105 "Afghan" ellipse
+106 "Bermudian" ellipse
+107 "Bosnian or Herzegovinian" ellipse
+108 "Channel Islander" ellipse
+109 "Czech" ellipse
+110 "Faroese" ellipse
+111 "Falkland Islander" ellipse
+112 "Greek" ellipse
+113 "Monegasque" ellipse
+114 "Montenegrin" ellipse
+115 "Norwegian" ellipse
+116 "Portugese" ellipse
+117 "Saint-Pierrais or Miquelonnais" ellipse
+118 "Sammarinese" ellipse
+119 "Macedonian" ellipse
+120 "Ukrainian" ellipse
+121 "Argentine" ellipse
+122 "British Virgin Islander" ellipse
+123 "Salvadoran" ellipse
+124 "Honduran" ellipse
+125 "Martinican" ellipse
+126 "Puerto Rican" ellipse
+127 "Kittitian or Nevisian" ellipse
+128 "Saint Vincentian" ellipse
+129 "Surinamese" ellipse
+130 "Trinidadian or Tobagonian" ellipse
+131 "Turks and Caicos Islander" ellipse
+132 "Virgin Islander" ellipse
+133 "Cypriote" ellipse
+134 "Iraqi" ellipse
+135 "Lebanese" ellipse
+136 "Moroccan" ellipse
+137 "Palestinian" ellipse
+138 "Saudi" ellipse
+139 "Emirati" ellipse
+140 "Cocos Islander" ellipse
+141 "Kosovar" ellipse
+142 "Northern Mariana Islander" ellipse
+143 "Cook Islander" ellipse
+144 "Marshallese" ellipse
+145 "Micronesian" ellipse
+146 "Pitcairn Islander" ellipse
+147 "Solomon Islander" ellipse
+148 "Ni-Vanuato" ellipse
+149 "Wallis and Futuna Islander" ellipse
+150 "Maldivian" ellipse
+151 "Burmese" ellipse
+152 "Timorese" ellipse
+153 "Malagasy" ellipse
+154 "Mauritian" ellipse
+155 "Sao Tomean" ellipse
+156 "Seychellois" ellipse
+157 "St. Helenian" ellipse
+158 "Motswana" ellipse
+159 "Burkinabe" ellipse
+160 "Central African" ellipse
+161 "Comoran" ellipse
+162 "Congolese" ellipse
+163 "Ivoirian" ellipse
+164 "Mosotho" ellipse
+165 "Mozambican" ellipse
+166 "Togolese" ellipse
+167 "undefined ancestry population" ellipse
+168 "Native Hawaiian" ellipse
+169 "Pacific Islander" ellipse
+170 "Dai Chinese" ellipse
+171 "Hui Chinese" ellipse
+172 "Jingpo Chinese" ellipse
+173 "Malaysian Chinese" ellipse
+174 "Uygur Chinese" ellipse
+*Arcs
+1 88 0.5000000 l "isa"
+88 1 0.0041494 l "isa"
+2 88 0.5000000 l "isa"
+88 2 0.0041494 l "isa"
+3 88 1.0000000 l "isa"
+88 3 0.0041494 l "isa"
+4 88 0.3333333 l "isa"
+88 4 0.0041494 l "isa"
+5 88 0.5000000 l "isa"
+88 5 0.0041494 l "isa"
+6 88 0.5000000 l "isa"
+88 6 0.0041494 l "isa"
+7 88 1.0000000 l "isa"
+88 7 0.0041494 l "isa"
+8 88 0.5000000 l "isa"
+88 8 0.0041494 l "isa"
+9 88 1.0000000 l "isa"
+88 9 0.0041494 l "isa"
+10 88 1.0000000 l "isa"
+88 10 0.0041494 l "isa"
+11 88 0.5000000 l "isa"
+88 11 0.0041494 l "isa"
+12 88 0.5000000 l "isa"
+88 12 0.0041494 l "isa"
+13 88 0.5000000 l "isa"
+88 13 0.0041494 l "isa"
+14 88 1.0000000 l "isa"
+88 14 0.0041494 l "isa"
+15 88 0.5000000 l "isa"
+88 15 0.0041494 l "isa"
+16 88 0.5000000 l "isa"
+88 16 0.0041494 l "isa"
+17 88 1.0000000 l "isa"
+88 17 0.0041494 l "isa"
+18 88 1.0000000 l "isa"
+88 18 0.0041494 l "isa"
+19 88 1.0000000 l "isa"
+88 19 0.0041494 l "isa"
+20 88 1.0000000 l "isa"
+88 20 0.0041494 l "isa"
+21 88 0.5000000 l "isa"
+88 21 0.0041494 l "isa"
+22 88 0.5000000 l "isa"
+88 22 0.0041494 l "isa"
+23 88 0.2500000 l "isa"
+88 23 0.0041494 l "isa"
+24 88 1.0000000 l "isa"
+88 24 0.0041494 l "isa"
+25 88 0.0833333 l "isa"
+88 25 0.0041494 l "isa"
+26 88 0.5000000 l "isa"
+88 26 0.0041494 l "isa"
+27 88 1.0000000 l "isa"
+88 27 0.0041494 l "isa"
+28 88 0.5000000 l "isa"
+88 28 0.0041494 l "isa"
+29 88 0.5000000 l "isa"
+88 29 0.0041494 l "isa"
+30 88 1.0000000 l "isa"
+88 30 0.0041494 l "isa"
+31 88 1.0000000 l "isa"
+88 31 0.0041494 l "isa"
+32 88 1.0000000 l "isa"
+88 32 0.0041494 l "isa"
+33 88 0.3333333 l "isa"
+88 33 0.0041494 l "isa"
+34 88 0.5000000 l "isa"
+88 34 0.0041494 l "isa"
+35 88 0.5000000 l "isa"
+88 35 0.0041494 l "isa"
+36 88 1.0000000 l "isa"
+88 36 0.0041494 l "isa"
+37 88 0.5000000 l "isa"
+88 37 0.0041494 l "isa"
+38 88 1.0000000 l "isa"
+88 38 0.0041494 l "isa"
+39 88 0.5000000 l "isa"
+88 39 0.0041494 l "isa"
+40 88 0.5000000 l "isa"
+88 40 0.0041494 l "isa"
+41 88 1.0000000 l "isa"
+88 41 0.0041494 l "isa"
+42 88 0.5000000 l "isa"
+88 42 0.0041494 l "isa"
+43 88 0.2500000 l "isa"
+88 43 0.0041494 l "isa"
+44 88 0.5000000 l "isa"
+88 44 0.0041494 l "isa"
+45 88 1.0000000 l "isa"
+88 45 0.0041494 l "isa"
+46 88 0.5000000 l "isa"
+88 46 0.0041494 l "isa"
+47 88 0.5000000 l "isa"
+88 47 0.0041494 l "isa"
+48 88 0.5000000 l "isa"
+88 48 0.0041494 l "isa"
+49 88 0.5000000 l "isa"
+88 49 0.0041494 l "isa"
+50 88 0.5000000 l "isa"
+88 50 0.0041494 l "isa"
+51 88 1.0000000 l "isa"
+88 51 0.0041494 l "isa"
+52 88 0.5000000 l "isa"
+88 52 0.0041494 l "isa"
+53 88 0.5000000 l "isa"
+88 53 0.0041494 l "isa"
+54 88 0.5000000 l "isa"
+88 54 0.0041494 l "isa"
+55 88 1.0000000 l "isa"
+88 55 0.0041494 l "isa"
+56 88 1.0000000 l "isa"
+88 56 0.0041494 l "isa"
+57 88 0.5000000 l "isa"
+88 57 0.0041494 l "isa"
+58 88 1.0000000 l "isa"
+88 58 0.0041494 l "isa"
+59 88 1.0000000 l "isa"
+88 59 0.0041494 l "isa"
+60 88 0.5000000 l "isa"
+88 60 0.0041494 l "isa"
+61 88 1.0000000 l "isa"
+88 61 0.0041494 l "isa"
+62 88 1.0000000 l "isa"
+88 62 0.0041494 l "isa"
+63 88 1.0000000 l "isa"
+88 63 0.0041494 l "isa"
+64 88 0.5000000 l "isa"
+88 64 0.0041494 l "isa"
+65 88 0.5000000 l "isa"
+88 65 0.0041494 l "isa"
+66 88 0.5000000 l "isa"
+88 66 0.0041494 l "isa"
+67 88 0.5000000 l "isa"
+88 67 0.0041494 l "isa"
+68 88 0.5000000 l "isa"
+88 68 0.0041494 l "isa"
+69 88 0.5000000 l "isa"
+88 69 0.0041494 l "isa"
+70 88 0.2500000 l "isa"
+88 70 0.0041494 l "isa"
+71 88 1.0000000 l "isa"
+88 71 0.0041494 l "isa"
+72 88 1.0000000 l "isa"
+88 72 0.0041494 l "isa"
+73 88 1.0000000 l "isa"
+88 73 0.0041494 l "isa"
+74 88 1.0000000 l "isa"
+88 74 0.0041494 l "isa"
+75 88 1.0000000 l "isa"
+88 75 0.0041494 l "isa"
+76 88 0.5000000 l "isa"
+88 76 0.0041494 l "isa"
+77 88 0.5000000 l "isa"
+88 77 0.0041494 l "isa"
+78 88 0.5000000 l "isa"
+88 78 0.0041494 l "isa"
+79 88 1.0000000 l "isa"
+88 79 0.0041494 l "isa"
+80 88 1.0000000 l "isa"
+88 80 0.0041494 l "isa"
+81 88 0.5000000 l "isa"
+88 81 0.0041494 l "isa"
+82 88 0.5000000 l "isa"
+88 82 0.0041494 l "isa"
+83 88 1.0000000 l "isa"
+88 83 0.0041494 l "isa"
+84 88 0.5000000 l "isa"
+88 84 0.0041494 l "isa"
+85 88 1.0000000 l "isa"
+88 85 0.0041494 l "isa"
+86 88 1.0000000 l "isa"
+88 86 0.0041494 l "isa"
+93 92 0.6666667 l "isa"
+92 93 0.0909091 l "isa"
+94 92 0.6666667 l "isa"
+92 94 0.0909091 l "isa"
+95 92 0.5000000 l "isa"
+92 95 0.0909091 l "isa"
+98 87 0.5000000 l "isa"
+87 98 0.0384615 l "isa"
+99 87 0.5000000 l "isa"
+87 99 0.0384615 l "isa"
+100 87 0.5000000 l "isa"
+87 100 0.0384615 l "isa"
+101 87 0.2000000 l "isa"
+87 101 0.0384615 l "isa"
+102 87 1.0000000 l "isa"
+87 102 0.0384615 l "isa"
+104 167 0.2500000 l "isa"
+167 104 0.0064516 l "isa"
+106 167 0.2000000 l "isa"
+167 106 0.0064516 l "isa"
+107 167 1.0000000 l "isa"
+167 107 0.0064516 l "isa"
+108 167 0.5000000 l "isa"
+167 108 0.0064516 l "isa"
+109 167 0.2500000 l "isa"
+167 109 0.0064516 l "isa"
+110 167 0.2500000 l "isa"
+167 110 0.0064516 l "isa"
+111 167 0.5000000 l "isa"
+167 111 0.0064516 l "isa"
+112 167 0.5000000 l "isa"
+167 112 0.0064516 l "isa"
+113 167 1.0000000 l "isa"
+167 113 0.0064516 l "isa"
+114 167 0.5000000 l "isa"
+167 114 0.0064516 l "isa"
+115 167 1.0000000 l "isa"
+167 115 0.0064516 l "isa"
+116 167 0.5000000 l "isa"
+167 116 0.0064516 l "isa"
+117 167 1.0000000 l "isa"
+167 117 0.0064516 l "isa"
+118 167 1.0000000 l "isa"
+167 118 0.0064516 l "isa"
+119 167 1.0000000 l "isa"
+167 119 0.0064516 l "isa"
+120 167 0.2500000 l "isa"
+167 120 0.0064516 l "isa"
+121 167 0.5000000 l "isa"
+167 121 0.0064516 l "isa"
+122 167 0.2500000 l "isa"
+167 122 0.0064516 l "isa"
+123 167 1.0000000 l "isa"
+167 123 0.0064516 l "isa"
+124 167 0.5000000 l "isa"
+167 124 0.0064516 l "isa"
+125 167 0.3333333 l "isa"
+167 125 0.0064516 l "isa"
+126 89 0.5000000 l "isa"
+89 126 0.1250000 l "isa"
+127 167 1.0000000 l "isa"
+167 127 0.0064516 l "isa"
+128 167 1.0000000 l "isa"
+167 128 0.0064516 l "isa"
+130 167 1.0000000 l "isa"
+167 130 0.0064516 l "isa"
+131 167 0.5000000 l "isa"
+167 131 0.0064516 l "isa"
+132 167 0.5000000 l "isa"
+167 132 0.0064516 l "isa"
+133 90 1.0000000 l "isa"
+90 133 0.0344828 l "isa"
+134 90 0.0666667 l "isa"
+90 134 0.0344828 l "isa"
+135 90 0.1111111 l "isa"
+90 135 0.0344828 l "isa"
+136 90 0.5000000 l "isa"
+90 136 0.0344828 l "isa"
+137 90 0.5000000 l "isa"
+90 137 0.0344828 l "isa"
+138 90 0.1250000 l "isa"
+90 138 0.0344828 l "isa"
+139 90 0.5000000 l "isa"
+90 139 0.0344828 l "isa"
+140 167 0.5000000 l "isa"
+167 140 0.0064516 l "isa"
+141 167 0.5000000 l "isa"
+167 141 0.0064516 l "isa"
+142 167 0.5000000 l "isa"
+167 142 0.0064516 l "isa"
+143 167 0.3333333 l "isa"
+167 143 0.0064516 l "isa"
+144 167 1.0000000 l "isa"
+167 144 0.0064516 l "isa"
+145 91 0.2500000 l "isa"
+91 145 0.0666667 l "isa"
+146 167 0.5000000 l "isa"
+167 146 0.0064516 l "isa"
+147 91 0.5000000 l "isa"
+91 147 0.0666667 l "isa"
+148 167 1.0000000 l "isa"
+167 148 0.0064516 l "isa"
+149 167 0.5000000 l "isa"
+167 149 0.0064516 l "isa"
+150 167 0.1111111 l "isa"
+167 150 0.0064516 l "isa"
+151 167 0.5000000 l "isa"
+167 151 0.0064516 l "isa"
+152 167 0.5000000 l "isa"
+167 152 0.0064516 l "isa"
+153 167 1.0000000 l "isa"
+167 153 0.0064516 l "isa"
+154 167 0.1666667 l "isa"
+167 154 0.0064516 l "isa"
+155 167 1.0000000 l "isa"
+167 155 0.0064516 l "isa"
+156 167 0.5000000 l "isa"
+167 156 0.0064516 l "isa"
+157 167 1.0000000 l "isa"
+167 157 0.0064516 l "isa"
+158 167 0.5000000 l "isa"
+167 158 0.0064516 l "isa"
+159 167 0.5000000 l "isa"
+167 159 0.0064516 l "isa"
+160 167 0.1666667 l "isa"
+167 160 0.0064516 l "isa"
+161 167 0.2000000 l "isa"
+167 161 0.0064516 l "isa"
+162 167 0.5000000 l "isa"
+167 162 0.0064516 l "isa"
+163 167 1.0000000 l "isa"
+167 163 0.0064516 l "isa"
+164 167 0.2500000 l "isa"
+167 164 0.0064516 l "isa"
+165 167 0.3333333 l "isa"
+167 165 0.0064516 l "isa"
+166 167 0.2500000 l "isa"
+167 166 0.0064516 l "isa"
+168 91 1.0000000 l "isa"
+91 168 0.0666667 l "isa"
+169 91 1.0000000 l "isa"
+91 169 0.0666667 l "isa"
+170 92 0.5000000 l "isa"
+92 170 0.0909091 l "isa"
+171 92 0.5000000 l "isa"
+92 171 0.0909091 l "isa"
+172 92 1.0000000 l "isa"
+92 172 0.0909091 l "isa"
+173 92 0.5000000 l "isa"
+92 173 0.0909091 l "isa"
+174 92 1.0000000 l "isa"
+92 174 0.0909091 l "isa"
+1 16 0.5000000 l "substring"
+16 1 0.5000000 l "substring"
+2 105 0.5000000 l "substring"
+105 2 0.1428571 l "substring"
+15 109 0.5000000 l "substring"
+109 15 0.2500000 l "substring"
+22 101 0.5000000 l "substring"
+101 22 0.2000000 l "substring"
+25 26 0.0833333 l "substring"
+26 25 0.5000000 l "substring"
+29 94 0.5000000 l "substring"
+94 29 0.3333333 l "substring"
+46 47 0.5000000 l "substring"
+47 46 0.5000000 l "substring"
+50 137 0.5000000 l "substring"
+137 50 0.5000000 l "substring"
+64 138 0.5000000 l "substring"
+138 64 0.1250000 l "substring"
+66 93 0.5000000 l "substring"
+93 66 0.3333333 l "substring"
+70 129 0.5000000 l "substring"
+129 70 0.6666667 l "substring"
+76 104 0.5000000 l "substring"
+104 76 0.2500000 l "substring"
+81 82 0.5000000 l "substring"
+82 81 0.5000000 l "substring"
+84 149 0.5000000 l "substring"
+149 84 0.5000000 l "substring"
+90 96 0.0344828 l "substring"
+96 90 0.0454545 l "substring"
+92 93 0.0909091 l "substring"
+93 92 0.6666667 l "substring"
+92 94 0.0909091 l "substring"
+94 92 0.6666667 l "substring"
+92 95 0.0909091 l "substring"
+95 92 0.5000000 l "substring"
+92 170 0.0909091 l "substring"
+170 92 0.5000000 l "substring"
+92 171 0.0909091 l "substring"
+171 92 0.5000000 l "substring"
+92 172 0.0909091 l "substring"
+172 92 1.0000000 l "substring"
+92 173 0.0909091 l "substring"
+173 92 0.5000000 l "substring"
+92 174 0.0909091 l "substring"
+174 92 1.0000000 l "substring"
+96 98 0.0454545 l "substring"
+98 96 0.5000000 l "substring"
+96 160 0.0454545 l "substring"
+160 96 0.1666667 l "substring"
+97 99 0.0370370 l "substring"
+99 97 0.5000000 l "substring"
+101 145 0.4000000 l "substring"
+145 101 0.5000000 l "substring"
+122 132 0.2500000 l "substring"
+132 122 0.5000000 l "substring"
+4 121 0.3333333 l "distance"
+121 4 0.5000000 l "distance"
+5 103 0.5000000 l "distance"
+103 5 0.1111111 l "distance"
+6 106 0.5000000 l "distance"
+106 6 0.2000000 l "distance"
+8 158 0.5000000 l "distance"
+158 8 0.5000000 l "distance"
+11 108 0.5000000 l "distance"
+108 11 0.5000000 l "distance"
+12 161 0.5000000 l "distance"
+161 12 0.2000000 l "distance"
+13 143 0.5000000 l "distance"
+143 13 0.3333333 l "distance"
+21 111 0.5000000 l "distance"
+111 21 0.5000000 l "distance"
+23 112 0.2500000 l "distance"
+112 23 0.5000000 l "distance"
+28 124 0.5000000 l "distance"
+124 28 0.5000000 l "distance"
+33 141 0.3333333 l "distance"
+141 33 0.5000000 l "distance"
+33 164 0.3333333 l "distance"
+164 33 0.2500000 l "distance"
+34 135 0.5000000 l "distance"
+135 34 0.1111111 l "distance"
+35 164 0.5000000 l "distance"
+164 35 0.2500000 l "distance"
+37 150 0.5000000 l "distance"
+150 37 0.1111111 l "distance"
+39 125 0.5000000 l "distance"
+125 39 0.3333333 l "distance"
+40 154 0.5000000 l "distance"
+154 40 0.1666667 l "distance"
+42 114 0.5000000 l "distance"
+114 42 0.5000000 l "distance"
+43 136 0.2500000 l "distance"
+136 43 0.5000000 l "distance"
+43 164 0.2500000 l "distance"
+164 43 0.2500000 l "distance"
+44 165 0.5000000 l "distance"
+165 44 0.3333333 l "distance"
+48 69 0.5000000 l "distance"
+69 48 0.5000000 l "distance"
+49 142 0.5000000 l "distance"
+142 49 0.5000000 l "distance"
+52 146 0.5000000 l "distance"
+146 52 0.5000000 l "distance"
+53 116 0.5000000 l "distance"
+116 53 0.5000000 l "distance"
+54 126 0.5000000 l "distance"
+126 54 0.5000000 l "distance"
+57 87 0.5000000 l "distance"
+87 57 0.0384615 l "distance"
+60 67 0.5000000 l "distance"
+67 60 0.5000000 l "distance"
+65 156 0.5000000 l "distance"
+156 65 0.5000000 l "distance"
+68 147 0.5000000 l "distance"
+147 68 0.5000000 l "distance"
+70 129 0.5000000 l "distance"
+129 70 0.6666667 l "distance"
+70 159 0.2500000 l "distance"
+159 70 0.5000000 l "distance"
+77 131 0.5000000 l "distance"
+131 77 0.5000000 l "distance"
+78 120 0.5000000 l "distance"
+120 78 0.2500000 l "distance"
+95 170 0.2500000 l "distance"
+170 95 0.2500000 l "distance"
+95 171 0.2500000 l "distance"
+171 95 0.2500000 l "distance"
+96 97 0.0454545 l "distance"
+97 96 0.0370370 l "distance"
+100 160 0.5000000 l "distance"
+160 100 0.1666667 l "distance"
+101 145 0.4000000 l "distance"
+145 101 0.5000000 l "distance"
+103 106 0.1111111 l "distance"
+106 103 0.2000000 l "distance"
+110 151 0.2500000 l "distance"
+151 110 0.5000000 l "distance"
+134 139 0.0666667 l "distance"
+139 134 0.5000000 l "distance"
+140 143 0.5000000 l "distance"
+143 140 0.3333333 l "distance"
+150 154 0.1111111 l "distance"
+154 150 0.1666667 l "distance"
+152 166 0.5000000 l "distance"
+166 152 0.2500000 l "distance"
+162 166 0.5000000 l "distance"
+166 162 0.2500000 l "distance"
+170 171 0.2500000 l "distance"
+171 170 0.2500000 l "distance"
+*Edges

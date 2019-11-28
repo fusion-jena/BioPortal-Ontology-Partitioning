@@ -1,0 +1,13 @@
+*Vertices 2
+1 "TelephoneNumber" ellipse
+2 "hasStringValue"
+*Arcs
+1 2 0.2339739 l "definition"
+2 1 0.1937336 l "definition"
+1 2 0.2339739 l "definition"
+2 1 0.1937336 l "definition"
+1 2 0.2339739 l "definition"
+2 1 0.1937336 l "definition"
+1 2 0.2339739 l "definition"
+2 1 0.1937336 l "definition"
+*Edges

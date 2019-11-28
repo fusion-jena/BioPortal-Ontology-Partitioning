@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Infarction" ellipse
+2 "IntestinalInfarction" ellipse
+*Arcs
+2 1 0.7242070 l "isa"
+1 2 0.6101055 l "isa"
+1 2 0.6101055 l "substring"
+2 1 0.7242070 l "substring"
+2 1 0.7242070 l "isa"
+1 2 0.6101055 l "isa"
+1 2 0.6101055 l "substring"
+2 1 0.7242070 l "substring"
+2 1 0.7242070 l "isa"
+1 2 0.6101055 l "isa"
+1 2 0.6101055 l "substring"
+2 1 0.7242070 l "substring"
+2 1 0.7242070 l "isa"
+1 2 0.6101055 l "isa"
+1 2 0.6101055 l "substring"
+2 1 0.7242070 l "substring"
+2 1 0.7242070 l "isa"
+1 2 0.6101055 l "isa"
+1 2 0.6101055 l "substring"
+2 1 0.7242070 l "substring"
+*Edges

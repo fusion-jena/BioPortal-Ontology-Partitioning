@@ -1,0 +1,2215 @@
+*Vertices 512
+1 "slit" ellipse
+2 "liquid-solid chromatography" ellipse
+3 "liquid chromatograph" ellipse
+4 "title" ellipse
+5 "pump mobile phase ratio setting (chromatography)" ellipse
+6 "site" ellipse
+7 "gel" ellipse
+8 "hydrophilic interaction chromatography" ellipse
+9 "priming" ellipse
+10 "hydrophobic interaction chromatography" ellipse
+11 "gel" ellipse
+12 "viable cell density (cell counter)" ellipse
+13 "valve" ellipse
+14 "jar" ellipse
+15 "rinsing" ellipse
+16 "chromatography data processing" ellipse
+17 "marking" ellipse
+18 "chromatography result" ellipse
+19 "total cell density (cell counter)" ellipse
+20 "capacity factor (chromatography)" ellipse
+21 "peak selectivity (chromatography)" ellipse
+22 "electronic absorbance reference wavelength setting" ellipse
+23 "electronic absorbance wavelength setting" ellipse
+24 "pump flow rate setting (chromatography)" ellipse
+25 "Thing"
+26 "high-performance liquid chromatography column" ellipse
+27 "foam" ellipse
+28 "solid foam" ellipse
+29 "solid sol" ellipse
+30 "injection (chromatography)" ellipse
+31 "inverting" ellipse
+32 "exporting" ellipse
+33 "connecting" ellipse
+34 "coupling" ellipse
+35 "sending" ellipse
+36 "degradation" ellipse
+37 "injecting" ellipse
+38 "cell counter configuration" ellipse
+39 "blood gas analysis result" ellipse
+40 "gas-phase electrophoretic mobility molecular analysis spectrum" ellipse
+41 "cell counter result" ellipse
+42 "cell counter result datum" ellipse
+43 "cell type (cell counter)" ellipse
+44 "viability (cell counter)" ellipse
+45 "peak point" ellipse
+46 "peak end point" ellipse
+47 "statistical skew (chromatography)" ellipse
+48 "detector sampling rate setting" ellipse
+49 "baseline point" ellipse
+50 "head" ellipse
+51 "signer" ellipse
+52 "alive" ellipse
+53 "chromatography system setting" ellipse
+54 "gas chromatograph" ellipse
+55 "open chromatographic bed" ellipse
+56 "thermal conductivity detector" ellipse
+57 "gel filtration chromatograph" ellipse
+58 "cell counter" ellipse
+59 "to localize" ellipse
+60 "to export" ellipse
+61 "gas chromatography" ellipse
+62 "loading" ellipse
+63 "filtration" ellipse
+64 "stirring" ellipse
+65 "thermal conductivity measurement" ellipse
+66 "packing" ellipse
+67 "recording" ellipse
+68 "selecting" ellipse
+69 "branching" ellipse
+70 "shaping" ellipse
+71 "mereotopological process" ellipse
+72 "blocking" ellipse
+73 "temperature measurement" ellipse
+74 "pumping" ellipse
+75 "deflecting" ellipse
+76 "thermal conductivity" ellipse
+77 "state of matter" ellipse
+78 "dilution factor" ellipse
+79 "signal offset configuration" ellipse
+80 "temperature configuration" ellipse
+81 "chemical reaction disposition" ellipse
+82 "temperature measurement result" ellipse
+83 "calibration curve" ellipse
+84 "radix" ellipse
+85 "process property" ellipse
+86 "slope" ellipse
+87 "cell density dilution factor" ellipse
+88 "pCO2 (bga)" ellipse
+89 "pO2 (bga)" ellipse
+90 "peak start" ellipse
+91 "peak baseline start code" ellipse
+92 "peak baseline end code" ellipse
+93 "baseline value at start of peak" ellipse
+94 "baseline value at end of peak" ellipse
+95 "peak start point" ellipse
+96 "pump setting (chromatography)" ellipse
+97 "blood gas analysis result datum" ellipse
+98 "OpenID" ellipse
+99 "baseline start point" ellipse
+100 "baseline end point" ellipse
+101 "baseline start" ellipse
+102 "baseline end" ellipse
+103 "baseline value at start" ellipse
+104 "baseline value at end" ellipse
+105 "detector scan range setting" ellipse
+106 "flow rate setting" ellipse
+107 "resolution" ellipse
+108 "delay" ellipse
+109 "detection duration setting" ellipse
+110 "processing role" ellipse
+111 "post condition" ellipse
+112 "index role" ellipse
+113 "realizable entity" ellipse
+114 "process boundary" ellipse
+115 "speed" ellipse
+116 "dead" ellipse
+117 "depth" ellipse
+118 "has condition"
+119 "control setting" ellipse
+120 "fraction collector" ellipse
+121 "temperature controlled chamber" ellipse
+122 "electrolytic conductivity detector" ellipse
+123 "damper" ellipse
+124 "blood gas analyser" ellipse
+125 "diode" ellipse
+126 "to secure" ellipse
+127 "to couple" ellipse
+128 "to link" ellipse
+129 "to join" ellipse
+130 "to position" ellipse
+131 "fluid" ellipse
+132 "liquid" ellipse
+133 "liquid aerosol" ellipse
+134 "gas in solid solution" ellipse
+135 "liquid in solid solution" ellipse
+136 "solid aerosol" ellipse
+137 "organizational entity" ellipse
+138 "cell counter assay" ellipse
+139 "fraction collection" ellipse
+140 "cellular assay" ellipse
+141 "planning" ellipse
+142 "differential optical absorption spectrophotometry" ellipse
+143 "ultraviolet spectrophotometry" ellipse
+144 "peak separation" ellipse
+145 "biological measurement method" ellipse
+146 "physical blending" ellipse
+147 "cooling" ellipse
+148 "aspirating" ellipse
+149 "pH measurement" ellipse
+150 "washing" ellipse
+151 "coulometry" ellipse
+152 "chiral stationary phase high-performance liquid chromatography" ellipse
+153 "calibration" ellipse
+154 "velocimetry" ellipse
+155 "concentration measurement" ellipse
+156 "material process" ellipse
+157 "mobile phase delivery" ellipse
+158 "temperature profile" ellipse
+159 "observing" ellipse
+160 "storing material" ellipse
+161 "dividing" ellipse
+162 "extracting" ellipse
+163 "localizing" ellipse
+164 "guiding" ellipse
+165 "inserting material" ellipse
+166 "solidifying" ellipse
+167 "tracking" ellipse
+168 "removing material" ellipse
+169 "delivering material" ellipse
+170 "cell density measurement" ellipse
+171 "signing" ellipse
+172 "running state" ellipse
+173 "relative retention time (quality)" ellipse
+174 "solid" ellipse
+175 "liquid" ellipse
+176 "pO2" ellipse
+177 "pCO2" ellipse
+178 "signal configuration" ellipse
+179 "signal gain configuration" ellipse
+180 "controller configuration" ellipse
+181 "reaction selectivity" ellipse
+182 "reaction selectivity disposition" ellipse
+183 "chromatography peak" ellipse
+184 "photoelectron spectrum" ellipse
+185 "alpha-particle spectrum" ellipse
+186 "gas chromatogram" ellipse
+187 "electropherogram" ellipse
+188 "photoacoustic spectrum" ellipse
+189 "incident photon conversion efficiency spectrum" ellipse
+190 "gel filtration chromatogram" ellipse
+191 "capillary electrophoresis result" ellipse
+192 "cubic interpolation algorithm" ellipse
+193 "linear interpolation algorithm" ellipse
+194 "counts" ellipse
+195 "quadratic interpolation algorithm" ellipse
+196 "quality specification" ellipse
+197 "telephone number" ellipse
+198 "postal code" ellipse
+199 "retention time" ellipse
+200 "cell counter setting" ellipse
+201 "peak analyte amount" ellipse
+202 "relative peak analyte amount" ellipse
+203 "chromatography peak facet" ellipse
+204 "peak value at start" ellipse
+205 "peak end" ellipse
+206 "peak value at end" ellipse
+207 "peak maximum point" ellipse
+208 "peak minimum point" ellipse
+209 "peak extremum point" ellipse
+210 "calibration point" ellipse
+211 "number of theoretical plates by peak width at half height" ellipse
+212 "autosampler setting (chromatography)" ellipse
+213 "detector setting" ellipse
+214 "electronic absorbance detector setting" ellipse
+215 "detector offset setting" ellipse
+216 "electronic absorbance reference bandwidth setting" ellipse
+217 "electronic absorbance bandwidth setting" ellipse
+218 "temperature" ellipse
+219 "material input role" ellipse
+220 "snapshot" ellipse
+221 "stationary phase" ellipse
+222 "cause" ellipse
+223 "sender role" ellipse
+224 "at end" ellipse
+225 "at start" ellipse
+226 "material output role" ellipse
+227 "chromatographic phase" ellipse
+228 "physical input role" ellipse
+229 "physical output role" ellipse
+230 "supercritical mobile phase" ellipse
+231 "standard material role" ellipse
+232 "cleaning agent role" ellipse
+233 "ingredient role" ellipse
+234 "continuous phase role" ellipse
+235 "active pharmaceutical ingredient role" ellipse
+236 "rinse solution role" ellipse
+237 "population role" ellipse
+238 "starting material role" ellipse
+239 "object aggregate" ellipse
+240 "immaterial entity" ellipse
+241 "material anatomical entity" ellipse
+242 "information content entity" ellipse
+243 "plan" ellipse
+244 "morphology" ellipse
+245 "shape" ellipse
+246 "to shape" ellipse
+247 "gas in liquid solution" ellipse
+248 "solid in liquid solution" ellipse
+249 "duration" ellipse
+250 "baseline facet" ellipse
+251 "output role" ellipse
+252 "general role" ellipse
+253 "identified impurity role" ellipse
+254 "specified impurity role" ellipse
+255 "unidentified impurity role" ellipse
+256 "unspecified impurity role" ellipse
+257 "portion of material" ellipse
+258 "chromatographic detector" ellipse
+259 "refractive index detector" ellipse
+260 "temperature controller" ellipse
+261 "capillary electrophoresis column" ellipse
+262 "degasser" ellipse
+263 "electronic absorbance detector" ellipse
+264 "oven" ellipse
+265 "measuring system" ellipse
+266 "measurement component" ellipse
+267 "pump system" ellipse
+268 "to deliver material" ellipse
+269 "to deliver mobile phase" ellipse
+270 "to collect" ellipse
+271 "to connect" ellipse
+272 "to indicate" ellipse
+273 "to clean" ellipse
+274 "to separate material by chromatography" ellipse
+275 "to heat" ellipse
+276 "to convert a signal" ellipse
+277 "to store" ellipse
+278 "to cool" ellipse
+279 "to plan" ellipse
+280 "to separate" ellipse
+281 "to divide" ellipse
+282 "to extract" ellipse
+283 "to import" ellipse
+284 "to change" ellipse
+285 "to increment" ellipse
+286 "to decrement" ellipse
+287 "to convert" ellipse
+288 "to signal" ellipse
+289 "to track" ellipse
+290 "to produce" ellipse
+291 "gas" ellipse
+292 "homogeneous mixture" ellipse
+293 "portion of mixed material" ellipse
+294 "gas mixture" ellipse
+295 "solid in solid solution" ellipse
+296 "person" ellipse
+297 "group" ellipse
+298 "porosimetry" ellipse
+299 "diffuse reflectance ultraviolet-visible spectrophotometry" ellipse
+300 "weighing" ellipse
+301 "peak picking" ellipse
+302 "removing data" ellipse
+303 "blood gas analysis" ellipse
+304 "reflectance ultraviolet-visible spectrophotometry" ellipse
+305 "blood measurement method" ellipse
+306 "polarimetry" ellipse
+307 "sample processing" ellipse
+308 "charge transport measurement" ellipse
+309 "equilibration" ellipse
+310 "concentrating" ellipse
+311 "clinical measurement method" ellipse
+312 "oximetry" ellipse
+313 "refractive index measurement" ellipse
+314 "colorimetry" ellipse
+315 "pipeting" ellipse
+316 "signal averaging" ellipse
+317 "pressure measurement" ellipse
+318 "assay" ellipse
+319 "dedusting" ellipse
+320 "particle sizing" ellipse
+321 "fluorimetry" ellipse
+322 "temperature control" ellipse
+323 "quantification" ellipse
+324 "structure determination" ellipse
+325 "quality process profile" ellipse
+326 "peak analysis" ellipse
+327 "pressure profile" ellipse
+328 "specifying" ellipse
+329 "containing state" ellipse
+330 "storing energy" ellipse
+331 "linking" ellipse
+332 "incrementing" ellipse
+333 "collecting" ellipse
+334 "sensing state" ellipse
+335 "reception" ellipse
+336 "transporting material" ellipse
+337 "sorting material" ellipse
+338 "removing" ellipse
+339 "changing" ellipse
+340 "storing state" ellipse
+341 "signaling" ellipse
+342 "physical characterization assay" ellipse
+343 "collecting state" ellipse
+344 "interpolation" ellipse
+345 "peak height analysis" ellipse
+346 "peak width analysis" ellipse
+347 "describing" ellipse
+348 "indexing" ellipse
+349 "number density measurement" ellipse
+350 "approving" ellipse
+351 "deciding" ellipse
+352 "averaging" ellipse
+353 "detecting state" ellipse
+354 "idle state" ellipse
+355 "held state" ellipse
+356 "chromatography column length" ellipse
+357 "device configuration" ellipse
+358 "absorbance (quality)" ellipse
+359 "reflectance" ellipse
+360 "gas" ellipse
+361 "audible device noise" ellipse
+362 "number density" ellipse
+363 "viable cell count (quality)" ellipse
+364 "trigger configuration" ellipse
+365 "notification configuration" ellipse
+366 "stereochemical composition" ellipse
+367 "reaction composition" ellipse
+368 "conversion (quality)" ellipse
+369 "yield (quality)" ellipse
+370 "plumbing configuration" ellipse
+371 "injection device configuration" ellipse
+372 "melting point" ellipse
+373 "action" ellipse
+374 "procedure" ellipse
+375 "configuration" ellipse
+376 "peak assignment target" ellipse
+377 "weighing result" ellipse
+378 "ultraviolet-visible-near infrared spectrum" ellipse
+379 "chemical map" ellipse
+380 "isothermal titration calorimetry curve" ellipse
+381 "electron energy-loss spectrum" ellipse
+382 "peak group" ellipse
+383 "ultraviolet spectrum" ellipse
+384 "infrared spectrum" ellipse
+385 "visible spectrum" ellipse
+386 "action spectrum" ellipse
+387 "oximetry spectrum" ellipse
+388 "acoustic emission spectrum" ellipse
+389 "ultraviolet-visible spectrum" ellipse
+390 "excitation-emission spectrum" ellipse
+391 "peak list" ellipse
+392 "mass spectrum" ellipse
+393 "titration result" ellipse
+394 "total ion current profile" ellipse
+395 "microplate reader measurement result" ellipse
+396 "file" ellipse
+397 "distribution" ellipse
+398 "particle sizing result" ellipse
+399 "spectroscopy result" ellipse
+400 "quality profile control command" ellipse
+401 "interval scale" ellipse
+402 "log-interval scale" ellipse
+403 "peak height" ellipse
+404 "relative peak height" ellipse
+405 "step size" ellipse
+406 "parameter specification" ellipse
+407 "role specification" ellipse
+408 "situation specification" ellipse
+409 "representation form" ellipse
+410 "physical domain" ellipse
+411 "mathematical object" ellipse
+412 "configuration specification" ellipse
+413 "personal name" ellipse
+414 "locality" ellipse
+415 "peak position" ellipse
+416 "assignment" ellipse
+417 "average live cell diameter (cell counter)" ellipse
+418 "analyst" ellipse
+419 "measurement metadata" ellipse
+420 "sampling specification" ellipse
+421 "pH" ellipse
+422 "absorbance" ellipse
+423 "relative peak area" ellipse
+424 "peak name" ellipse
+425 "noise" ellipse
+426 "statistical population" ellipse
+427 "summary datum" ellipse
+428 "asymmetry factor measured at 5 percent height" ellipse
+429 "function (math)" ellipse
+430 "queue" ellipse
+431 "standard" ellipse
+432 "decision" ellipse
+433 "pressure limit" ellipse
+434 "nick name" ellipse
+435 "three-dimensional ultraviolet spectrum" ellipse
+436 "wavenumber" ellipse
+437 "analysis assay result facet" ellipse
+438 "reset command" ellipse
+439 "resume command" ellipse
+440 "analyst role" ellipse
+441 "identifier role" ellipse
+442 "input role" ellipse
+443 "interpolation role" ellipse
+444 "name role" ellipse
+445 "objective role" ellipse
+446 "setting datum" ellipse
+447 "specification target role" ellipse
+448 "member role" ellipse
+449 "specified action" ellipse
+450 "specified quality" ellipse
+451 "specified situation" ellipse
+452 "specified procedure" ellipse
+453 "specified profile" ellipse
+454 "support role" ellipse
+455 "selection target role" ellipse
+456 "linking medium role" ellipse
+457 "indexed member" ellipse
+458 "additive role" ellipse
+459 "catalyst role" ellipse
+460 "diluent role" ellipse
+461 "reaction intermediate role" ellipse
+462 "calibration sample role" ellipse
+463 "blank role" ellipse
+464 "solvent role" ellipse
+465 "solute role" ellipse
+466 "dispersed phase role" ellipse
+467 "dissolution role" ellipse
+468 "temporal reference role" ellipse
+469 "selection role" ellipse
+470 "detection target role" ellipse
+471 "controlled object role" ellipse
+472 "dilution role" ellipse
+473 "relation role" ellipse
+474 "statistical sample role" ellipse
+475 "statistical population role" ellipse
+476 "synthesis role" ellipse
+477 "particulate phase" ellipse
+478 "sampling role" ellipse
+479 "sample set role" ellipse
+480 "approver" ellipse
+481 "internal standard role" ellipse
+482 "signing role" ellipse
+483 "signed object" ellipse
+484 "software agent role" ellipse
+485 "transferred object" ellipse
+486 "received object role" ellipse
+487 "sent object role" ellipse
+488 "direction role" ellipse
+489 "to role" ellipse
+490 "from role" ellipse
+491 "ordering role" ellipse
+492 "entity" ellipse
+493 "fiat object part" ellipse
+494 "site" ellipse
+495 "object" ellipse
+496 "material entity" ellipse
+497 "process profile" ellipse
+498 "algorithm" ellipse
+499 "textual entity" ellipse
+500 "caption" ellipse
+501 "table" ellipse
+502 "human" ellipse
+503 "planned process" ellipse
+504 "processed material" ellipse
+505 "organism" ellipse
+506 "size" ellipse
+507 "temperature" ellipse
+508 "3-D extent" ellipse
+509 "pH" ellipse
+510 "interval" ellipse
+511 "has identifier"
+512 "has specification"
+*Arcs
+56 266 0.2000000 l "isa"
+266 56 0.1428571 l "isa"
+259 266 0.3333333 l "isa"
+266 259 0.1428571 l "isa"
+122 266 0.2500000 l "isa"
+266 122 0.1428571 l "isa"
+263 266 0.1428571 l "isa"
+266 263 0.1428571 l "isa"
+268 283 0.3333333 l "isa"
+283 268 0.1428571 l "isa"
+269 268 0.2500000 l "isa"
+268 269 0.3333333 l "isa"
+270 277 0.3333333 l "isa"
+277 270 0.1111111 l "isa"
+272 288 0.3333333 l "isa"
+288 272 0.1666667 l "isa"
+273 282 0.3333333 l "isa"
+282 273 0.3333333 l "isa"
+274 280 0.1666667 l "isa"
+280 274 0.2222222 l "isa"
+274 281 0.0833333 l "isa"
+281 274 0.3333333 l "isa"
+275 285 0.2500000 l "isa"
+285 275 0.3333333 l "isa"
+278 286 0.1250000 l "isa"
+286 278 0.3333333 l "isa"
+279 290 0.1111111 l "isa"
+290 279 0.3333333 l "isa"
+281 280 0.3333333 l "isa"
+280 281 0.1111111 l "isa"
+282 280 0.3333333 l "isa"
+280 282 0.1111111 l "isa"
+60 59 0.2000000 l "isa"
+59 60 0.1666667 l "isa"
+283 59 0.1428571 l "isa"
+59 283 0.1666667 l "isa"
+127 271 0.1428571 l "isa"
+271 127 0.1428571 l "isa"
+128 127 0.1666667 l "isa"
+127 128 0.1428571 l "isa"
+129 127 0.1250000 l "isa"
+127 129 0.1428571 l "isa"
+284 59 0.1428571 l "isa"
+59 284 0.1666667 l "isa"
+285 284 0.3333333 l "isa"
+284 285 0.1428571 l "isa"
+286 284 0.3333333 l "isa"
+284 286 0.1428571 l "isa"
+246 284 0.2500000 l "isa"
+284 246 0.2857143 l "isa"
+288 290 0.1666667 l "isa"
+290 288 0.3333333 l "isa"
+289 272 0.3333333 l "isa"
+272 289 0.3333333 l "isa"
+291 131 0.0238095 l "isa"
+131 291 0.0714286 l "isa"
+131 257 0.0714286 l "isa"
+257 131 0.1428571 l "isa"
+132 131 0.0689655 l "isa"
+131 132 0.1428571 l "isa"
+292 293 0.3333333 l "isa"
+293 292 0.2000000 l "isa"
+293 257 0.2000000 l "isa"
+257 293 0.1428571 l "isa"
+296 137 0.1666667 l "isa"
+137 296 0.1250000 l "isa"
+296 495 0.1666667 l "isa"
+495 296 0.0769231 l "isa"
+296 502 0.1666667 l "isa"
+502 296 0.1666667 l "isa"
+297 137 0.2000000 l "isa"
+137 297 0.1250000 l "isa"
+297 239 0.2000000 l "isa"
+239 297 0.2500000 l "isa"
+137 496 0.1250000 l "isa"
+496 137 0.0769231 l "isa"
+138 140 0.2000000 l "isa"
+140 138 0.2500000 l "isa"
+139 333 0.2000000 l "isa"
+333 139 0.1111111 l "isa"
+140 145 0.2500000 l "isa"
+145 140 0.2500000 l "isa"
+141 328 0.1428571 l "isa"
+328 141 0.2500000 l "isa"
+141 503 0.1428571 l "isa"
+503 141 0.0909091 l "isa"
+62 156 0.0588235 l "isa"
+156 62 0.0714286 l "isa"
+303 305 0.1666667 l "isa"
+305 303 0.3333333 l "isa"
+305 311 0.3333333 l "isa"
+311 305 0.3333333 l "isa"
+145 318 0.2500000 l "isa"
+318 145 0.0625000 l "isa"
+307 156 0.2000000 l "isa"
+156 307 0.0714286 l "isa"
+63 162 0.1666667 l "isa"
+162 63 0.2000000 l "isa"
+309 339 0.3333333 l "isa"
+339 309 0.1000000 l "isa"
+309 503 0.3333333 l "isa"
+503 309 0.0909091 l "isa"
+30 37 0.1666667 l "isa"
+37 30 0.1111111 l "isa"
+15 150 0.1250000 l "isa"
+150 15 0.1428571 l "isa"
+148 307 0.2500000 l "isa"
+307 148 0.2000000 l "isa"
+148 336 0.2500000 l "isa"
+336 148 0.1250000 l "isa"
+310 332 0.3333333 l "isa"
+332 310 0.2500000 l "isa"
+311 342 0.3333333 l "isa"
+342 311 0.1666667 l "isa"
+153 503 0.1428571 l "isa"
+503 153 0.0909091 l "isa"
+315 307 0.3333333 l "isa"
+307 315 0.2000000 l "isa"
+315 336 0.3333333 l "isa"
+336 315 0.1250000 l "isa"
+318 503 0.0625000 l "isa"
+503 318 0.0909091 l "isa"
+323 503 0.2500000 l "isa"
+503 323 0.0909091 l "isa"
+324 328 0.3333333 l "isa"
+328 324 0.2500000 l "isa"
+325 497 0.2857143 l "isa"
+497 325 0.3333333 l "isa"
+327 325 0.3333333 l "isa"
+325 327 0.1428571 l "isa"
+158 325 0.2500000 l "isa"
+325 158 0.1428571 l "isa"
+329 340 0.3333333 l "isa"
+340 329 0.1428571 l "isa"
+160 156 0.2500000 l "isa"
+156 160 0.0714286 l "isa"
+160 340 0.2500000 l "isa"
+340 160 0.1428571 l "isa"
+330 340 0.3333333 l "isa"
+340 330 0.1428571 l "isa"
+69 71 0.2000000 l "isa"
+71 69 0.2000000 l "isa"
+32 163 0.1666667 l "isa"
+163 32 0.1666667 l "isa"
+164 163 0.1000000 l "isa"
+163 164 0.1666667 l "isa"
+34 156 0.1000000 l "isa"
+156 34 0.0714286 l "isa"
+34 33 0.1000000 l "isa"
+33 34 0.1666667 l "isa"
+331 34 0.0714286 l "isa"
+34 331 0.1000000 l "isa"
+70 339 0.1250000 l "isa"
+339 70 0.2000000 l "isa"
+332 339 0.2500000 l "isa"
+339 332 0.1000000 l "isa"
+165 169 0.2500000 l "isa"
+169 165 0.2500000 l "isa"
+35 32 0.0714286 l "isa"
+32 35 0.1666667 l "isa"
+336 156 0.1250000 l "isa"
+156 336 0.0714286 l "isa"
+337 156 0.1666667 l "isa"
+156 337 0.0714286 l "isa"
+342 318 0.3333333 l "isa"
+318 342 0.1250000 l "isa"
+343 340 0.3333333 l "isa"
+340 343 0.1428571 l "isa"
+345 326 0.3333333 l "isa"
+326 345 0.2500000 l "isa"
+346 326 0.3333333 l "isa"
+326 346 0.2500000 l "isa"
+169 156 0.2500000 l "isa"
+156 169 0.0714286 l "isa"
+74 336 0.1000000 l "isa"
+336 74 0.1250000 l "isa"
+170 349 0.2500000 l "isa"
+349 170 0.2500000 l "isa"
+350 351 0.3333333 l "isa"
+351 350 0.0909091 l "isa"
+353 334 0.3333333 l "isa"
+334 353 0.1666667 l "isa"
+37 62 0.1111111 l "isa"
+62 37 0.0588235 l "isa"
+77 244 0.1666667 l "isa"
+244 77 0.1250000 l "isa"
+174 77 0.0476190 l "isa"
+77 174 0.1666667 l "isa"
+175 77 0.0344828 l "isa"
+77 175 0.1666667 l "isa"
+360 77 0.0238095 l "isa"
+77 360 0.1666667 l "isa"
+11 174 0.0357143 l "isa"
+174 11 0.0476190 l "isa"
+38 357 0.1666667 l "isa"
+357 38 0.0769231 l "isa"
+178 357 0.1666667 l "isa"
+357 178 0.0769231 l "isa"
+179 178 0.2500000 l "isa"
+178 179 0.1666667 l "isa"
+79 178 0.2000000 l "isa"
+178 79 0.1666667 l "isa"
+80 357 0.2000000 l "isa"
+357 80 0.0769231 l "isa"
+180 357 0.2500000 l "isa"
+357 180 0.0769231 l "isa"
+364 357 0.2000000 l "isa"
+357 364 0.0769231 l "isa"
+365 364 0.3333333 l "isa"
+364 365 0.2000000 l "isa"
+368 367 0.3333333 l "isa"
+367 368 0.1428571 l "isa"
+369 367 0.3333333 l "isa"
+367 369 0.1428571 l "isa"
+181 367 0.2500000 l "isa"
+367 181 0.1428571 l "isa"
+370 357 0.3333333 l "isa"
+357 370 0.0769231 l "isa"
+371 357 0.3333333 l "isa"
+357 371 0.1538462 l "isa"
+372 507 0.3333333 l "isa"
+507 372 0.0833333 l "isa"
+373 243 0.0434783 l "isa"
+243 373 0.0303030 l "isa"
+374 243 0.2500000 l "isa"
+243 374 0.0303030 l "isa"
+182 81 0.2000000 l "isa"
+81 182 0.2000000 l "isa"
+382 391 0.3333333 l "isa"
+391 382 0.1428571 l "isa"
+396 409 0.0263158 l "isa"
+409 396 0.2000000 l "isa"
+249 85 0.1428571 l "isa"
+85 249 0.2000000 l "isa"
+196 412 0.2500000 l "isa"
+412 196 0.1666667 l "isa"
+406 407 0.3333333 l "isa"
+407 406 0.2500000 l "isa"
+409 242 0.2000000 l "isa"
+242 409 0.1000000 l "isa"
+411 242 0.1666667 l "isa"
+242 411 0.1000000 l "isa"
+412 408 0.1666667 l "isa"
+408 412 0.1250000 l "isa"
+199 203 0.2500000 l "isa"
+203 199 0.0588235 l "isa"
+12 42 0.1250000 l "isa"
+42 12 0.0909091 l "isa"
+87 200 0.1250000 l "isa"
+200 87 0.1250000 l "isa"
+87 119 0.1250000 l "isa"
+119 87 0.1111111 l "isa"
+43 200 0.1666667 l "isa"
+200 43 0.1250000 l "isa"
+43 119 0.1666667 l "isa"
+119 43 0.1111111 l "isa"
+44 42 0.1428571 l "isa"
+42 44 0.0909091 l "isa"
+19 42 0.1428571 l "isa"
+42 19 0.0909091 l "isa"
+417 42 0.1250000 l "isa"
+42 417 0.0909091 l "isa"
+417 427 0.1250000 l "isa"
+427 417 0.3333333 l "isa"
+418 419 0.3333333 l "isa"
+419 418 0.1428571 l "isa"
+88 97 0.2000000 l "isa"
+97 88 0.1428571 l "isa"
+89 97 0.2000000 l "isa"
+97 89 0.1428571 l "isa"
+425 242 0.0500000 l "isa"
+242 425 0.1000000 l "isa"
+95 45 0.1666667 l "isa"
+45 95 0.1111111 l "isa"
+95 49 0.1666667 l "isa"
+49 95 0.1250000 l "isa"
+46 45 0.1666667 l "isa"
+45 46 0.1111111 l "isa"
+46 49 0.1666667 l "isa"
+49 46 0.1250000 l "isa"
+207 209 0.2500000 l "isa"
+209 207 0.1666667 l "isa"
+208 209 0.2500000 l "isa"
+209 208 0.1666667 l "isa"
+209 45 0.1666667 l "isa"
+45 209 0.1111111 l "isa"
+209 49 0.1666667 l "isa"
+49 209 0.1250000 l "isa"
+20 203 0.1428571 l "isa"
+203 20 0.0588235 l "isa"
+21 203 0.1428571 l "isa"
+203 21 0.0588235 l "isa"
+212 53 0.0909091 l "isa"
+53 212 0.0909091 l "isa"
+214 213 0.1818182 l "isa"
+213 214 0.2000000 l "isa"
+215 213 0.2500000 l "isa"
+213 215 0.1000000 l "isa"
+48 213 0.1666667 l "isa"
+213 48 0.1000000 l "isa"
+216 214 0.2500000 l "isa"
+214 216 0.0909091 l "isa"
+22 214 0.1428571 l "isa"
+214 22 0.0909091 l "isa"
+217 214 0.2500000 l "isa"
+214 217 0.0909091 l "isa"
+23 214 0.1428571 l "isa"
+214 23 0.0909091 l "isa"
+429 411 0.3333333 l "isa"
+411 429 0.1666667 l "isa"
+429 498 0.3333333 l "isa"
+498 429 0.1250000 l "isa"
+96 53 0.0833333 l "isa"
+53 96 0.0909091 l "isa"
+5 119 0.0833333 l "isa"
+119 5 0.1111111 l "isa"
+5 96 0.0833333 l "isa"
+96 5 0.0833333 l "isa"
+24 119 0.0769231 l "isa"
+119 24 0.1111111 l "isa"
+24 96 0.0769231 l "isa"
+96 24 0.0833333 l "isa"
+99 45 0.1666667 l "isa"
+45 99 0.1111111 l "isa"
+99 49 0.1666667 l "isa"
+49 99 0.1250000 l "isa"
+100 45 0.1666667 l "isa"
+45 100 0.1111111 l "isa"
+100 49 0.1666667 l "isa"
+49 100 0.1250000 l "isa"
+101 250 0.2000000 l "isa"
+250 101 0.1428571 l "isa"
+102 250 0.2000000 l "isa"
+250 102 0.1428571 l "isa"
+103 250 0.2000000 l "isa"
+250 103 0.1428571 l "isa"
+104 250 0.2000000 l "isa"
+250 104 0.1428571 l "isa"
+105 213 0.2000000 l "isa"
+213 105 0.1000000 l "isa"
+106 119 0.1428571 l "isa"
+119 106 0.1111111 l "isa"
+108 85 0.0833333 l "isa"
+85 108 0.2000000 l "isa"
+109 213 0.2000000 l "isa"
+213 109 0.1000000 l "isa"
+442 252 0.1000000 l "isa"
+252 442 0.1428571 l "isa"
+219 228 0.1666667 l "isa"
+228 219 0.1250000 l "isa"
+251 252 0.1111111 l "isa"
+252 251 0.1428571 l "isa"
+221 227 0.2500000 l "isa"
+227 221 0.1428571 l "isa"
+111 224 0.1428571 l "isa"
+224 111 0.1111111 l "isa"
+451 408 0.3333333 l "isa"
+408 451 0.1250000 l "isa"
+224 220 0.1111111 l "isa"
+220 224 0.2500000 l "isa"
+225 220 0.1250000 l "isa"
+220 225 0.2500000 l "isa"
+226 229 0.1428571 l "isa"
+229 226 0.1250000 l "isa"
+455 469 0.3333333 l "isa"
+469 455 0.1428571 l "isa"
+228 442 0.2500000 l "isa"
+442 228 0.2000000 l "isa"
+229 251 0.2500000 l "isa"
+251 229 0.2222222 l "isa"
+457 448 0.3333333 l "isa"
+448 457 0.1666667 l "isa"
+458 454 0.3333333 l "isa"
+454 458 0.1250000 l "isa"
+458 476 0.3333333 l "isa"
+476 458 0.1111111 l "isa"
+460 472 0.3333333 l "isa"
+472 460 0.1428571 l "isa"
+233 476 0.2500000 l "isa"
+476 233 0.1111111 l "isa"
+464 467 0.2500000 l "isa"
+467 464 0.1428571 l "isa"
+465 467 0.3333333 l "isa"
+467 465 0.1428571 l "isa"
+477 466 0.3333333 l "isa"
+466 477 0.2000000 l "isa"
+236 232 0.2500000 l "isa"
+232 236 0.2000000 l "isa"
+237 478 0.2500000 l "isa"
+478 237 0.1428571 l "isa"
+479 478 0.3333333 l "isa"
+478 479 0.1428571 l "isa"
+51 482 0.1111111 l "isa"
+482 51 0.1666667 l "isa"
+483 482 0.3333333 l "isa"
+482 483 0.1666667 l "isa"
+484 110 0.2000000 l "isa"
+110 484 0.1666667 l "isa"
+486 485 0.3333333 l "isa"
+485 486 0.2000000 l "isa"
+487 485 0.3333333 l "isa"
+485 487 0.2000000 l "isa"
+489 488 0.0769231 l "isa"
+488 489 0.1428571 l "isa"
+490 488 0.3333333 l "isa"
+488 490 0.1428571 l "isa"
+6 494 0.1111111 l "isa"
+494 6 0.1034483 l "isa"
+492 25 0.0833333 l "isa"
+25 492 0.0909091 l "isa"
+493 496 0.3333333 l "isa"
+496 493 0.0769231 l "isa"
+239 496 0.2500000 l "isa"
+496 239 0.0769231 l "isa"
+494 240 0.0344828 l "isa"
+240 494 0.1250000 l "isa"
+495 496 0.0769231 l "isa"
+496 495 0.0769231 l "isa"
+499 409 0.3333333 l "isa"
+409 499 0.2000000 l "isa"
+501 499 0.0769231 l "isa"
+499 501 0.3333333 l "isa"
+502 505 0.1666667 l "isa"
+505 502 0.3333333 l "isa"
+504 496 0.3333333 l "isa"
+496 504 0.0769231 l "isa"
+243 113 0.0303030 l "isa"
+113 243 0.1666667 l "isa"
+245 244 0.0714286 l "isa"
+244 245 0.1250000 l "isa"
+506 244 0.0303030 l "isa"
+244 506 0.1250000 l "isa"
+508 506 0.3333333 l "isa"
+506 508 0.0303030 l "isa"
+54 291 0.1000000 l "substring"
+291 54 0.0238095 l "substring"
+54 61 0.2000000 l "substring"
+61 54 0.1818182 l "substring"
+54 360 0.1000000 l "substring"
+360 54 0.0238095 l "substring"
+54 421 0.1000000 l "substring"
+421 54 0.0076923 l "substring"
+54 509 0.1000000 l "substring"
+509 54 0.0076923 l "substring"
+120 373 0.2500000 l "substring"
+373 120 0.0434783 l "substring"
+55 421 0.2000000 l "substring"
+421 55 0.0076923 l "substring"
+55 509 0.2000000 l "substring"
+509 55 0.0076923 l "substring"
+26 3 0.0769231 l "substring"
+3 26 0.0384615 l "substring"
+26 132 0.0769231 l "substring"
+132 26 0.0344828 l "substring"
+26 175 0.0769231 l "substring"
+175 26 0.0344828 l "substring"
+26 421 0.0769231 l "substring"
+421 26 0.0076923 l "substring"
+26 509 0.0769231 l "substring"
+509 26 0.0076923 l "substring"
+258 421 0.1666667 l "substring"
+421 258 0.0076923 l "substring"
+258 509 0.1666667 l "substring"
+509 258 0.0076923 l "substring"
+56 76 0.2000000 l "substring"
+76 56 0.2000000 l "substring"
+121 322 0.2500000 l "substring"
+322 121 0.1666667 l "substring"
+121 218 0.2500000 l "substring"
+218 121 0.0909091 l "substring"
+121 507 0.2500000 l "substring"
+507 121 0.0833333 l "substring"
+57 7 0.1000000 l "substring"
+7 57 0.0357143 l "substring"
+57 63 0.1000000 l "substring"
+63 57 0.1666667 l "substring"
+57 11 0.1000000 l "substring"
+11 57 0.0357143 l "substring"
+57 421 0.1000000 l "substring"
+421 57 0.0076923 l "substring"
+57 509 0.1000000 l "substring"
+509 57 0.0076923 l "substring"
+58 138 0.0666667 l "substring"
+138 58 0.2000000 l "substring"
+58 38 0.0666667 l "substring"
+38 58 0.1666667 l "substring"
+58 41 0.0666667 l "substring"
+41 58 0.1666667 l "substring"
+58 42 0.0666667 l "substring"
+42 58 0.0909091 l "substring"
+58 200 0.0666667 l "substring"
+200 58 0.1250000 l "substring"
+58 12 0.0666667 l "substring"
+12 58 0.1250000 l "substring"
+58 43 0.0666667 l "substring"
+43 58 0.1666667 l "substring"
+58 44 0.0666667 l "substring"
+44 58 0.1428571 l "substring"
+58 19 0.0666667 l "substring"
+19 58 0.1428571 l "substring"
+58 417 0.0666667 l "substring"
+417 58 0.1250000 l "substring"
+260 322 0.3333333 l "substring"
+322 260 0.3333333 l "substring"
+260 218 0.1666667 l "substring"
+218 260 0.0909091 l "substring"
+260 507 0.1666667 l "substring"
+507 260 0.0833333 l "substring"
+124 291 0.2500000 l "substring"
+291 124 0.0238095 l "substring"
+124 360 0.2500000 l "substring"
+360 124 0.0238095 l "substring"
+261 421 0.3333333 l "substring"
+421 261 0.0076923 l "substring"
+261 509 0.3333333 l "substring"
+509 261 0.0076923 l "substring"
+262 291 0.3333333 l "substring"
+291 262 0.0238095 l "substring"
+262 360 0.3333333 l "substring"
+360 262 0.0238095 l "substring"
+263 422 0.1428571 l "substring"
+422 263 0.1000000 l "substring"
+263 214 0.1428571 l "substring"
+214 263 0.0909091 l "substring"
+3 132 0.0384615 l "substring"
+132 3 0.0344828 l "substring"
+3 152 0.0384615 l "substring"
+152 3 0.0769231 l "substring"
+3 175 0.0384615 l "substring"
+175 3 0.0344828 l "substring"
+3 421 0.0384615 l "substring"
+421 3 0.0076923 l "substring"
+3 509 0.0384615 l "substring"
+509 3 0.0076923 l "substring"
+269 421 0.2500000 l "substring"
+421 269 0.0076923 l "substring"
+269 509 0.2500000 l "substring"
+509 269 0.0076923 l "substring"
+274 280 0.1666667 l "substring"
+280 274 0.2222222 l "substring"
+274 421 0.0833333 l "substring"
+421 274 0.0076923 l "substring"
+274 509 0.0833333 l "substring"
+509 274 0.0076923 l "substring"
+276 287 0.3333333 l "substring"
+287 276 0.2000000 l "substring"
+279 243 0.2222222 l "substring"
+243 279 0.0606061 l "substring"
+246 245 0.2500000 l "substring"
+245 246 0.1428571 l "substring"
+291 294 0.0238095 l "substring"
+294 291 0.3333333 l "substring"
+291 134 0.0238095 l "substring"
+134 291 0.1250000 l "substring"
+291 247 0.0238095 l "substring"
+247 291 0.1428571 l "substring"
+291 61 0.0238095 l "substring"
+61 291 0.0909091 l "substring"
+291 303 0.0238095 l "substring"
+303 291 0.1666667 l "substring"
+291 360 0.0476190 l "substring"
+360 291 0.0476190 l "substring"
+291 186 0.0238095 l "substring"
+186 291 0.1250000 l "substring"
+291 39 0.0238095 l "substring"
+39 291 0.1666667 l "substring"
+291 40 0.0238095 l "substring"
+40 291 0.1666667 l "substring"
+291 97 0.0238095 l "substring"
+97 291 0.1428571 l "substring"
+132 133 0.0344828 l "substring"
+133 132 0.2500000 l "substring"
+132 247 0.0344828 l "substring"
+247 132 0.1428571 l "substring"
+132 248 0.0344828 l "substring"
+248 132 0.1428571 l "substring"
+132 135 0.0344828 l "substring"
+135 132 0.1250000 l "substring"
+132 2 0.0344828 l "substring"
+2 132 0.0833333 l "substring"
+132 152 0.0344828 l "substring"
+152 132 0.0769231 l "substring"
+132 175 0.0689655 l "substring"
+175 132 0.0689655 l "substring"
+27 28 0.0476190 l "substring"
+28 27 0.1666667 l "substring"
+7 11 0.0714286 l "substring"
+11 7 0.0714286 l "substring"
+7 190 0.0357143 l "substring"
+190 7 0.1250000 l "substring"
+133 175 0.2500000 l "substring"
+175 133 0.0344828 l "substring"
+294 360 0.3333333 l "substring"
+360 294 0.0238095 l "substring"
+134 29 0.1250000 l "substring"
+29 134 0.1250000 l "substring"
+134 174 0.1250000 l "substring"
+174 134 0.0476190 l "substring"
+134 360 0.1250000 l "substring"
+360 134 0.0238095 l "substring"
+247 175 0.1428571 l "substring"
+175 247 0.0344828 l "substring"
+247 360 0.1428571 l "substring"
+360 247 0.0238095 l "substring"
+248 174 0.1428571 l "substring"
+174 248 0.0476190 l "substring"
+248 175 0.1428571 l "substring"
+175 248 0.0344828 l "substring"
+135 29 0.1250000 l "substring"
+29 135 0.1250000 l "substring"
+135 174 0.1250000 l "substring"
+174 135 0.0476190 l "substring"
+135 175 0.1250000 l "substring"
+175 135 0.0344828 l "substring"
+295 29 0.1666667 l "substring"
+29 295 0.1250000 l "substring"
+295 174 0.1666667 l "substring"
+174 295 0.0476190 l "substring"
+136 174 0.2500000 l "substring"
+174 136 0.0476190 l "substring"
+28 174 0.1666667 l "substring"
+174 28 0.0476190 l "substring"
+29 174 0.1250000 l "substring"
+174 29 0.0476190 l "substring"
+296 413 0.1666667 l "substring"
+413 296 0.3333333 l "substring"
+297 382 0.2000000 l "substring"
+382 297 0.3333333 l "substring"
+137 492 0.1250000 l "substring"
+492 137 0.0833333 l "substring"
+8 373 0.1250000 l "substring"
+373 8 0.0434783 l "substring"
+8 421 0.1250000 l "substring"
+421 8 0.0076923 l "substring"
+8 509 0.1250000 l "substring"
+509 8 0.0076923 l "substring"
+138 318 0.2000000 l "substring"
+318 138 0.0625000 l "substring"
+139 373 0.2000000 l "substring"
+373 139 0.0434783 l "substring"
+61 360 0.0909091 l "substring"
+360 61 0.0238095 l "substring"
+61 421 0.0909091 l "substring"
+421 61 0.0076923 l "substring"
+61 509 0.0909091 l "substring"
+509 61 0.0076923 l "substring"
+140 318 0.2500000 l "substring"
+318 140 0.0625000 l "substring"
+299 304 0.1250000 l "substring"
+304 299 0.1250000 l "substring"
+299 359 0.1250000 l "substring"
+359 299 0.3333333 l "substring"
+299 421 0.1250000 l "substring"
+421 299 0.0076923 l "substring"
+299 509 0.1250000 l "substring"
+509 299 0.0076923 l "substring"
+141 243 0.1428571 l "substring"
+243 141 0.0303030 l "substring"
+300 377 0.2500000 l "substring"
+377 300 0.3333333 l "substring"
+142 421 0.2500000 l "substring"
+421 142 0.0076923 l "substring"
+142 509 0.2500000 l "substring"
+509 142 0.0076923 l "substring"
+143 421 0.2500000 l "substring"
+421 143 0.0076923 l "substring"
+143 509 0.2500000 l "substring"
+509 143 0.0076923 l "substring"
+302 338 0.3333333 l "substring"
+338 302 0.1250000 l "substring"
+303 360 0.1666667 l "substring"
+360 303 0.0238095 l "substring"
+303 39 0.1666667 l "substring"
+39 303 0.1666667 l "substring"
+303 97 0.1666667 l "substring"
+97 303 0.1428571 l "substring"
+304 359 0.1250000 l "substring"
+359 304 0.3333333 l "substring"
+304 421 0.1250000 l "substring"
+421 304 0.0076923 l "substring"
+304 509 0.1250000 l "substring"
+509 304 0.0076923 l "substring"
+2 174 0.0833333 l "substring"
+174 2 0.0476190 l "substring"
+2 175 0.0833333 l "substring"
+175 2 0.0344828 l "substring"
+2 421 0.0833333 l "substring"
+421 2 0.0076923 l "substring"
+2 509 0.0833333 l "substring"
+509 2 0.0076923 l "substring"
+146 421 0.2500000 l "substring"
+421 146 0.0076923 l "substring"
+146 509 0.2500000 l "substring"
+509 146 0.0076923 l "substring"
+63 190 0.1666667 l "substring"
+190 63 0.1250000 l "substring"
+30 421 0.1666667 l "substring"
+421 30 0.0076923 l "substring"
+30 509 0.1666667 l "substring"
+509 30 0.0076923 l "substring"
+149 421 0.2500000 l "substring"
+421 149 0.0076923 l "substring"
+149 509 0.2500000 l "substring"
+509 149 0.0076923 l "substring"
+16 421 0.1428571 l "substring"
+421 16 0.0076923 l "substring"
+16 509 0.1428571 l "substring"
+509 16 0.0076923 l "substring"
+10 373 0.1250000 l "substring"
+373 10 0.0434783 l "substring"
+10 421 0.1250000 l "substring"
+421 10 0.0076923 l "substring"
+10 509 0.1250000 l "substring"
+509 10 0.0076923 l "substring"
+65 76 0.2000000 l "substring"
+76 65 0.2000000 l "substring"
+312 387 0.2500000 l "substring"
+387 312 0.3333333 l "substring"
+152 175 0.0769231 l "substring"
+175 152 0.0344828 l "substring"
+152 421 0.0769231 l "substring"
+421 152 0.0076923 l "substring"
+152 221 0.0769231 l "substring"
+221 152 0.2500000 l "substring"
+152 509 0.0769231 l "substring"
+509 152 0.0076923 l "substring"
+153 83 0.1428571 l "substring"
+83 153 0.2000000 l "substring"
+153 210 0.1428571 l "substring"
+210 153 0.2500000 l "substring"
+153 462 0.1428571 l "substring"
+462 153 0.1666667 l "substring"
+316 352 0.3333333 l "substring"
+352 316 0.3333333 l "substring"
+318 342 0.1250000 l "substring"
+342 318 0.3333333 l "substring"
+318 437 0.0625000 l "substring"
+437 318 0.1666667 l "substring"
+320 398 0.3333333 l "substring"
+398 320 0.3333333 l "substring"
+322 218 0.1666667 l "substring"
+218 322 0.0909091 l "substring"
+322 507 0.1666667 l "substring"
+507 322 0.0833333 l "substring"
+325 396 0.1428571 l "substring"
+396 325 0.0263158 l "substring"
+325 497 0.2857143 l "substring"
+497 325 0.3333333 l "substring"
+157 421 0.2500000 l "substring"
+421 157 0.0076923 l "substring"
+157 509 0.2500000 l "substring"
+509 157 0.0076923 l "substring"
+327 396 0.3333333 l "substring"
+396 327 0.0263158 l "substring"
+158 396 0.2500000 l "substring"
+396 158 0.0263158 l "substring"
+158 218 0.2500000 l "substring"
+218 158 0.0909091 l "substring"
+158 507 0.2500000 l "substring"
+507 158 0.0833333 l "substring"
+331 456 0.0714286 l "substring"
+456 331 0.3333333 l "substring"
+333 343 0.1111111 l "substring"
+343 333 0.3333333 l "substring"
+166 174 0.2500000 l "substring"
+174 166 0.0476190 l "substring"
+338 168 0.1250000 l "substring"
+168 338 0.2500000 l "substring"
+73 82 0.2000000 l "substring"
+82 73 0.1666667 l "substring"
+73 218 0.2000000 l "substring"
+218 73 0.0909091 l "substring"
+73 507 0.2000000 l "substring"
+507 73 0.0833333 l "substring"
+342 421 0.1666667 l "substring"
+421 342 0.0076923 l "substring"
+342 509 0.1666667 l "substring"
+509 342 0.0076923 l "substring"
+344 192 0.1428571 l "substring"
+192 344 0.2500000 l "substring"
+344 193 0.1428571 l "substring"
+193 344 0.2500000 l "substring"
+344 195 0.1428571 l "substring"
+195 344 0.2500000 l "substring"
+344 443 0.1428571 l "substring"
+443 344 0.3333333 l "substring"
+345 403 0.3333333 l "substring"
+403 345 0.2500000 l "substring"
+349 362 0.2500000 l "substring"
+362 349 0.3333333 l "substring"
+171 482 0.0555556 l "substring"
+482 171 0.1666667 l "substring"
+356 421 0.1250000 l "substring"
+421 356 0.0076923 l "substring"
+356 509 0.1250000 l "substring"
+509 356 0.0076923 l "substring"
+173 199 0.2000000 l "substring"
+199 173 0.2500000 l "substring"
+357 371 0.1538462 l "substring"
+371 357 0.3333333 l "substring"
+357 375 0.0769231 l "substring"
+375 357 0.0666667 l "substring"
+358 422 0.3333333 l "substring"
+422 358 0.1000000 l "substring"
+360 186 0.0238095 l "substring"
+186 360 0.1250000 l "substring"
+360 39 0.0238095 l "substring"
+39 360 0.1666667 l "substring"
+360 40 0.0238095 l "substring"
+40 360 0.1666667 l "substring"
+360 97 0.0238095 l "substring"
+97 360 0.1428571 l "substring"
+11 190 0.0357143 l "substring"
+190 11 0.1250000 l "substring"
+361 425 0.3333333 l "substring"
+425 361 0.0500000 l "substring"
+78 87 0.2000000 l "substring"
+87 78 0.1250000 l "substring"
+38 375 0.1666667 l "substring"
+375 38 0.0666667 l "substring"
+176 89 0.0400000 l "substring"
+89 176 0.2000000 l "substring"
+177 88 0.0769231 l "substring"
+88 177 0.2000000 l "substring"
+178 375 0.1666667 l "substring"
+375 178 0.0666667 l "substring"
+179 375 0.2500000 l "substring"
+375 179 0.0666667 l "substring"
+79 375 0.2000000 l "substring"
+375 79 0.0666667 l "substring"
+80 375 0.2000000 l "substring"
+375 80 0.0666667 l "substring"
+80 218 0.2000000 l "substring"
+218 80 0.0909091 l "substring"
+80 507 0.2000000 l "substring"
+507 80 0.0833333 l "substring"
+180 375 0.2500000 l "substring"
+375 180 0.0666667 l "substring"
+364 375 0.2000000 l "substring"
+375 364 0.0666667 l "substring"
+365 375 0.3333333 l "substring"
+375 365 0.0666667 l "substring"
+367 373 0.1428571 l "substring"
+373 367 0.0434783 l "substring"
+181 373 0.2500000 l "substring"
+373 181 0.0434783 l "substring"
+181 182 0.2500000 l "substring"
+182 181 0.2000000 l "substring"
+370 375 0.3333333 l "substring"
+375 370 0.0666667 l "substring"
+371 375 0.1666667 l "substring"
+375 371 0.0666667 l "substring"
+373 81 0.0434783 l "substring"
+81 373 0.2000000 l "substring"
+373 182 0.0434783 l "substring"
+182 373 0.2000000 l "substring"
+373 386 0.0434783 l "substring"
+386 373 0.3333333 l "substring"
+373 449 0.0434783 l "substring"
+449 373 0.3333333 l "substring"
+373 461 0.0434783 l "substring"
+461 373 0.3333333 l "substring"
+374 452 0.2500000 l "substring"
+452 374 0.3333333 l "substring"
+375 412 0.0666667 l "substring"
+412 375 0.1666667 l "substring"
+183 421 0.1250000 l "substring"
+421 183 0.0076923 l "substring"
+183 203 0.1250000 l "substring"
+203 183 0.0588235 l "substring"
+183 509 0.1250000 l "substring"
+509 183 0.0076923 l "substring"
+376 416 0.2500000 l "substring"
+416 376 0.3333333 l "substring"
+184 421 0.2500000 l "substring"
+421 184 0.0076923 l "substring"
+184 509 0.2500000 l "substring"
+509 184 0.0076923 l "substring"
+185 421 0.2500000 l "substring"
+421 185 0.0076923 l "substring"
+185 509 0.2500000 l "substring"
+509 185 0.0076923 l "substring"
+378 384 0.3333333 l "substring"
+384 378 0.3333333 l "substring"
+82 218 0.1666667 l "substring"
+218 82 0.0909091 l "substring"
+82 507 0.1666667 l "substring"
+507 82 0.0833333 l "substring"
+187 421 0.2500000 l "substring"
+421 187 0.0076923 l "substring"
+187 509 0.2500000 l "substring"
+509 187 0.0076923 l "substring"
+39 97 0.1666667 l "substring"
+97 39 0.1428571 l "substring"
+188 421 0.2500000 l "substring"
+421 188 0.0076923 l "substring"
+188 509 0.2500000 l "substring"
+509 188 0.0076923 l "substring"
+383 435 0.3333333 l "substring"
+435 383 0.3333333 l "substring"
+40 421 0.1666667 l "substring"
+421 40 0.0076923 l "substring"
+40 509 0.1666667 l "substring"
+509 40 0.0076923 l "substring"
+385 389 0.3333333 l "substring"
+389 385 0.3333333 l "substring"
+189 421 0.2500000 l "substring"
+421 189 0.0076923 l "substring"
+189 509 0.2500000 l "substring"
+509 189 0.0076923 l "substring"
+41 42 0.1666667 l "substring"
+42 41 0.0909091 l "substring"
+18 421 0.1428571 l "substring"
+421 18 0.0076923 l "substring"
+18 509 0.1428571 l "substring"
+509 18 0.0076923 l "substring"
+191 421 0.2500000 l "substring"
+421 191 0.0076923 l "substring"
+191 509 0.2500000 l "substring"
+509 191 0.0076923 l "substring"
+394 396 0.3333333 l "substring"
+396 394 0.0263158 l "substring"
+396 400 0.0263158 l "substring"
+400 396 0.3333333 l "substring"
+396 453 0.0263158 l "substring"
+453 396 0.3333333 l "substring"
+396 497 0.0263158 l "substring"
+497 396 0.1666667 l "substring"
+192 498 0.2500000 l "substring"
+498 192 0.1250000 l "substring"
+193 498 0.2500000 l "substring"
+498 193 0.1250000 l "substring"
+401 402 0.3333333 l "substring"
+402 401 0.2500000 l "substring"
+401 510 0.3333333 l "substring"
+510 401 0.2500000 l "substring"
+402 510 0.2500000 l "substring"
+510 402 0.2500000 l "substring"
+195 498 0.2500000 l "substring"
+498 195 0.1250000 l "substring"
+403 404 0.2500000 l "substring"
+404 403 0.3333333 l "substring"
+405 506 0.3333333 l "substring"
+506 405 0.0303030 l "substring"
+249 109 0.1428571 l "substring"
+109 249 0.2000000 l "substring"
+410 421 0.3333333 l "substring"
+421 410 0.0076923 l "substring"
+410 509 0.3333333 l "substring"
+509 410 0.0076923 l "substring"
+411 495 0.1666667 l "substring"
+495 411 0.0769231 l "substring"
+197 421 0.2500000 l "substring"
+421 197 0.0076923 l "substring"
+197 509 0.2500000 l "substring"
+509 197 0.0076923 l "substring"
+418 440 0.3333333 l "substring"
+440 418 0.1428571 l "substring"
+421 203 0.0076923 l "substring"
+203 421 0.0588235 l "substring"
+421 20 0.0076923 l "substring"
+20 421 0.1428571 l "substring"
+421 21 0.0076923 l "substring"
+21 421 0.1428571 l "substring"
+421 47 0.0076923 l "substring"
+47 421 0.1666667 l "substring"
+421 212 0.0076923 l "substring"
+212 421 0.0909091 l "substring"
+421 96 0.0076923 l "substring"
+96 421 0.0833333 l "substring"
+421 5 0.0076923 l "substring"
+5 421 0.0833333 l "substring"
+421 24 0.0076923 l "substring"
+24 421 0.0769231 l "substring"
+421 53 0.0076923 l "substring"
+53 421 0.0909091 l "substring"
+421 221 0.0076923 l "substring"
+221 421 0.2500000 l "substring"
+421 227 0.0076923 l "substring"
+227 421 0.1428571 l "substring"
+421 228 0.0076923 l "substring"
+228 421 0.1250000 l "substring"
+421 229 0.0076923 l "substring"
+229 421 0.1250000 l "substring"
+421 230 0.0076923 l "substring"
+230 421 0.2500000 l "substring"
+421 466 0.0076923 l "substring"
+466 421 0.2000000 l "substring"
+421 234 0.0076923 l "substring"
+234 421 0.2500000 l "substring"
+421 477 0.0076923 l "substring"
+477 421 0.3333333 l "substring"
+421 235 0.0076923 l "substring"
+235 421 0.2000000 l "substring"
+421 244 0.0076923 l "substring"
+244 421 0.1250000 l "substring"
+421 509 0.0153846 l "substring"
+509 421 0.0153846 l "substring"
+422 214 0.1000000 l "substring"
+214 422 0.0909091 l "substring"
+422 216 0.1000000 l "substring"
+216 422 0.2500000 l "substring"
+422 22 0.1000000 l "substring"
+22 422 0.1428571 l "substring"
+422 217 0.1000000 l "substring"
+217 422 0.2500000 l "substring"
+422 23 0.1000000 l "substring"
+23 422 0.1428571 l "substring"
+201 202 0.2500000 l "substring"
+202 201 0.2500000 l "substring"
+203 509 0.0588235 l "substring"
+509 203 0.0076923 l "substring"
+90 95 0.2000000 l "substring"
+95 90 0.1666667 l "substring"
+204 225 0.2500000 l "substring"
+225 204 0.1250000 l "substring"
+205 46 0.1666667 l "substring"
+46 205 0.1666667 l "substring"
+206 224 0.2500000 l "substring"
+224 206 0.1111111 l "substring"
+91 101 0.1666667 l "substring"
+101 91 0.2000000 l "substring"
+92 102 0.1666667 l "substring"
+102 92 0.2000000 l "substring"
+93 103 0.1666667 l "substring"
+103 93 0.2000000 l "substring"
+93 225 0.1666667 l "substring"
+225 93 0.1250000 l "substring"
+94 104 0.1666667 l "substring"
+104 94 0.2000000 l "substring"
+94 224 0.1666667 l "substring"
+224 94 0.1111111 l "substring"
+426 475 0.3333333 l "substring"
+475 426 0.2500000 l "substring"
+20 509 0.1428571 l "substring"
+509 20 0.0076923 l "substring"
+21 509 0.1428571 l "substring"
+509 21 0.0076923 l "substring"
+47 509 0.1666667 l "substring"
+509 47 0.0076923 l "substring"
+212 509 0.0909091 l "substring"
+509 212 0.0076923 l "substring"
+213 214 0.2000000 l "substring"
+214 213 0.1818182 l "substring"
+96 509 0.0833333 l "substring"
+509 96 0.0076923 l "substring"
+5 509 0.0833333 l "substring"
+509 5 0.0076923 l "substring"
+24 106 0.0769231 l "substring"
+106 24 0.1428571 l "substring"
+24 509 0.0769231 l "substring"
+509 24 0.0076923 l "substring"
+431 231 0.2500000 l "substring"
+231 431 0.2500000 l "substring"
+431 481 0.2500000 l "substring"
+481 431 0.3333333 l "substring"
+99 101 0.1666667 l "substring"
+101 99 0.2000000 l "substring"
+100 102 0.1666667 l "substring"
+102 100 0.2000000 l "substring"
+103 225 0.2000000 l "substring"
+225 103 0.1250000 l "substring"
+104 224 0.2000000 l "substring"
+224 104 0.1111111 l "substring"
+53 509 0.0909091 l "substring"
+509 53 0.0076923 l "substring"
+218 507 0.1818182 l "substring"
+507 218 0.1666667 l "substring"
+442 219 0.1000000 l "substring"
+219 442 0.1666667 l "substring"
+442 228 0.2000000 l "substring"
+228 442 0.2500000 l "substring"
+445 495 0.3333333 l "substring"
+495 445 0.0769231 l "substring"
+251 226 0.1111111 l "substring"
+226 251 0.1428571 l "substring"
+251 229 0.2222222 l "substring"
+229 251 0.2500000 l "substring"
+221 509 0.2500000 l "substring"
+509 221 0.0076923 l "substring"
+227 509 0.1428571 l "substring"
+509 227 0.0076923 l "substring"
+228 509 0.1250000 l "substring"
+509 228 0.0076923 l "substring"
+229 509 0.1250000 l "substring"
+509 229 0.0076923 l "substring"
+230 509 0.2500000 l "substring"
+509 230 0.0076923 l "substring"
+233 235 0.2500000 l "substring"
+235 233 0.2000000 l "substring"
+466 509 0.2000000 l "substring"
+509 466 0.0076923 l "substring"
+234 509 0.2500000 l "substring"
+509 234 0.0076923 l "substring"
+471 495 0.3333333 l "substring"
+495 471 0.0769231 l "substring"
+475 237 0.2500000 l "substring"
+237 475 0.2500000 l "substring"
+477 509 0.3333333 l "substring"
+509 477 0.0076923 l "substring"
+235 509 0.2000000 l "substring"
+509 235 0.0076923 l "substring"
+253 255 0.2857143 l "substring"
+255 253 0.2500000 l "substring"
+254 256 0.2857143 l "substring"
+256 254 0.2500000 l "substring"
+483 495 0.3333333 l "substring"
+495 483 0.0769231 l "substring"
+485 495 0.2000000 l "substring"
+495 485 0.0769231 l "substring"
+486 495 0.3333333 l "substring"
+495 486 0.0769231 l "substring"
+487 495 0.3333333 l "substring"
+495 487 0.0769231 l "substring"
+6 494 0.1111111 l "substring"
+494 6 0.1034483 l "substring"
+492 113 0.0833333 l "substring"
+113 492 0.1666667 l "substring"
+492 496 0.0833333 l "substring"
+496 492 0.0769231 l "substring"
+492 240 0.0833333 l "substring"
+240 492 0.1250000 l "substring"
+492 241 0.0833333 l "substring"
+241 492 0.2500000 l "substring"
+492 242 0.0833333 l "substring"
+242 492 0.1000000 l "substring"
+492 499 0.0833333 l "substring"
+499 492 0.3333333 l "substring"
+493 495 0.3333333 l "substring"
+495 493 0.0769231 l "substring"
+239 495 0.2500000 l "substring"
+495 239 0.0769231 l "substring"
+496 240 0.1538462 l "substring"
+240 496 0.2500000 l "substring"
+503 243 0.0909091 l "substring"
+243 503 0.0303030 l "substring"
+244 509 0.1250000 l "substring"
+509 244 0.0076923 l "substring"
+54 61 0.2000000 l "distance"
+61 54 0.1818182 l "distance"
+54 186 0.1000000 l "distance"
+186 54 0.1250000 l "distance"
+120 139 0.2500000 l "distance"
+139 120 0.2000000 l "distance"
+57 190 0.1000000 l "distance"
+190 57 0.1250000 l "distance"
+260 322 0.3333333 l "distance"
+322 260 0.3333333 l "distance"
+124 303 0.2500000 l "distance"
+303 124 0.1666667 l "distance"
+13 396 0.1000000 l "distance"
+396 13 0.0263158 l "distance"
+13 222 0.1000000 l "distance"
+222 13 0.0909091 l "distance"
+13 501 0.1000000 l "distance"
+501 13 0.0769231 l "distance"
+13 52 0.1000000 l "distance"
+52 13 0.0833333 l "distance"
+264 7 0.0714286 l "distance"
+7 264 0.0357143 l "distance"
+264 11 0.0714286 l "distance"
+11 264 0.0357143 l "distance"
+264 98 0.0714286 l "distance"
+98 264 0.2000000 l "distance"
+264 243 0.0714286 l "distance"
+243 264 0.0303030 l "distance"
+1 131 0.0454545 l "distance"
+131 1 0.0714286 l "distance"
+1 174 0.0454545 l "distance"
+174 1 0.0476190 l "distance"
+1 86 0.0454545 l "distance"
+86 1 0.0714286 l "distance"
+1 6 0.0454545 l "distance"
+6 1 0.0370370 l "distance"
+1 494 0.0454545 l "distance"
+494 1 0.0344828 l "distance"
+1 243 0.0454545 l "distance"
+243 1 0.0303030 l "distance"
+1 506 0.0454545 l "distance"
+506 1 0.0303030 l "distance"
+1 52 0.0454545 l "distance"
+52 1 0.0833333 l "distance"
+14 291 0.0416667 l "distance"
+291 14 0.0238095 l "distance"
+14 27 0.0416667 l "distance"
+27 14 0.0476190 l "distance"
+14 7 0.0416667 l "distance"
+7 14 0.0357143 l "distance"
+14 360 0.0416667 l "distance"
+360 14 0.0238095 l "distance"
+14 11 0.0416667 l "distance"
+11 14 0.0357143 l "distance"
+14 176 0.0416667 l "distance"
+176 14 0.0400000 l "distance"
+14 421 0.0416667 l "distance"
+421 14 0.0076923 l "distance"
+14 50 0.0416667 l "distance"
+50 14 0.0526316 l "distance"
+14 243 0.0416667 l "distance"
+243 14 0.0303030 l "distance"
+14 116 0.0416667 l "distance"
+116 14 0.0500000 l "distance"
+14 509 0.0416667 l "distance"
+509 14 0.0076923 l "distance"
+125 396 0.0666667 l "distance"
+396 125 0.0263158 l "distance"
+125 4 0.0666667 l "distance"
+4 125 0.0625000 l "distance"
+125 86 0.0666667 l "distance"
+86 125 0.0714286 l "distance"
+125 6 0.0666667 l "distance"
+6 125 0.0370370 l "distance"
+125 494 0.0666667 l "distance"
+494 125 0.0344828 l "distance"
+125 506 0.0666667 l "distance"
+506 125 0.0303030 l "distance"
+125 116 0.0666667 l "distance"
+116 125 0.0500000 l "distance"
+270 271 0.3333333 l "distance"
+271 270 0.1428571 l "distance"
+270 287 0.3333333 l "distance"
+287 270 0.2000000 l "distance"
+271 287 0.1428571 l "distance"
+287 271 0.2000000 l "distance"
+126 277 0.2500000 l "distance"
+277 126 0.1111111 l "distance"
+273 275 0.3333333 l "distance"
+275 273 0.2500000 l "distance"
+273 279 0.3333333 l "distance"
+279 273 0.1111111 l "distance"
+275 279 0.2500000 l "distance"
+279 275 0.1111111 l "distance"
+277 246 0.1111111 l "distance"
+246 277 0.1250000 l "distance"
+277 489 0.1111111 l "distance"
+489 277 0.0769231 l "distance"
+278 127 0.1250000 l "distance"
+127 278 0.1428571 l "distance"
+278 129 0.1250000 l "distance"
+129 278 0.1250000 l "distance"
+278 489 0.1250000 l "distance"
+489 278 0.0769231 l "distance"
+279 128 0.1111111 l "distance"
+128 279 0.1666667 l "distance"
+279 129 0.1111111 l "distance"
+129 279 0.1250000 l "distance"
+279 243 0.2222222 l "distance"
+243 279 0.0606061 l "distance"
+282 289 0.3333333 l "distance"
+289 282 0.3333333 l "distance"
+60 283 0.2000000 l "distance"
+283 60 0.1428571 l "distance"
+127 489 0.1428571 l "distance"
+489 127 0.0769231 l "distance"
+128 129 0.1666667 l "distance"
+129 128 0.1250000 l "distance"
+128 147 0.1666667 l "distance"
+147 128 0.1000000 l "distance"
+129 489 0.1250000 l "distance"
+489 129 0.0769231 l "distance"
+284 246 0.2857143 l "distance"
+246 284 0.2500000 l "distance"
+285 286 0.3333333 l "distance"
+286 285 0.3333333 l "distance"
+246 245 0.2500000 l "distance"
+245 246 0.1428571 l "distance"
+291 27 0.0238095 l "distance"
+27 291 0.0476190 l "distance"
+291 7 0.0238095 l "distance"
+7 291 0.0357143 l "distance"
+291 360 0.0476190 l "distance"
+360 291 0.0476190 l "distance"
+291 11 0.0238095 l "distance"
+11 291 0.0357143 l "distance"
+291 176 0.0238095 l "distance"
+176 291 0.0400000 l "distance"
+291 421 0.0238095 l "distance"
+421 291 0.0076923 l "distance"
+291 222 0.0238095 l "distance"
+222 291 0.0909091 l "distance"
+291 50 0.0238095 l "distance"
+50 291 0.0526316 l "distance"
+291 243 0.0238095 l "distance"
+243 291 0.0303030 l "distance"
+291 116 0.0238095 l "distance"
+116 291 0.0500000 l "distance"
+291 509 0.0238095 l "distance"
+509 291 0.0076923 l "distance"
+131 132 0.1428571 l "distance"
+132 131 0.0689655 l "distance"
+131 174 0.0714286 l "distance"
+174 131 0.0476190 l "distance"
+131 175 0.0714286 l "distance"
+175 131 0.0344828 l "distance"
+132 175 0.0689655 l "distance"
+175 132 0.0689655 l "distance"
+27 360 0.0476190 l "distance"
+360 27 0.0238095 l "distance"
+27 176 0.0476190 l "distance"
+176 27 0.0400000 l "distance"
+27 396 0.0476190 l "distance"
+396 27 0.0263158 l "distance"
+27 50 0.0476190 l "distance"
+50 27 0.0526316 l "distance"
+27 243 0.0476190 l "distance"
+243 27 0.0303030 l "distance"
+27 116 0.0476190 l "distance"
+116 27 0.0500000 l "distance"
+7 360 0.0357143 l "distance"
+360 7 0.0238095 l "distance"
+7 11 0.0714286 l "distance"
+11 7 0.0714286 l "distance"
+7 176 0.0357143 l "distance"
+176 7 0.0400000 l "distance"
+7 396 0.0357143 l "distance"
+396 7 0.0263158 l "distance"
+7 421 0.0357143 l "distance"
+421 7 0.0076923 l "distance"
+7 108 0.0357143 l "distance"
+108 7 0.0833333 l "distance"
+7 50 0.0357143 l "distance"
+50 7 0.0526316 l "distance"
+7 116 0.0357143 l "distance"
+116 7 0.0500000 l "distance"
+7 509 0.0357143 l "distance"
+509 7 0.0076923 l "distance"
+28 29 0.1666667 l "distance"
+29 28 0.1250000 l "distance"
+8 10 0.1250000 l "distance"
+10 8 0.1250000 l "distance"
+298 306 0.3333333 l "distance"
+306 298 0.2500000 l "distance"
+298 314 0.3333333 l "distance"
+314 298 0.1428571 l "distance"
+61 186 0.0909091 l "distance"
+186 61 0.1250000 l "distance"
+141 66 0.1428571 l "distance"
+66 141 0.1000000 l "distance"
+141 331 0.1428571 l "distance"
+331 141 0.0714286 l "distance"
+141 339 0.1428571 l "distance"
+339 141 0.1000000 l "distance"
+300 150 0.2500000 l "distance"
+150 300 0.1428571 l "distance"
+300 171 0.2500000 l "distance"
+171 300 0.0555556 l "distance"
+62 147 0.0588235 l "distance"
+147 62 0.1000000 l "distance"
+62 164 0.0588235 l "distance"
+164 62 0.1000000 l "distance"
+62 331 0.0588235 l "distance"
+331 62 0.0714286 l "distance"
+62 70 0.0588235 l "distance"
+70 62 0.0625000 l "distance"
+62 72 0.0588235 l "distance"
+72 62 0.2000000 l "distance"
+62 35 0.0588235 l "distance"
+35 62 0.0714286 l "distance"
+306 314 0.2500000 l "distance"
+314 306 0.1428571 l "distance"
+147 34 0.1000000 l "distance"
+34 147 0.1000000 l "distance"
+64 171 0.2000000 l "distance"
+171 64 0.0555556 l "distance"
+15 9 0.1250000 l "distance"
+9 15 0.1250000 l "distance"
+15 331 0.1250000 l "distance"
+331 15 0.0714286 l "distance"
+15 35 0.1250000 l "distance"
+35 15 0.0714286 l "distance"
+15 171 0.1250000 l "distance"
+171 15 0.0555556 l "distance"
+150 66 0.1428571 l "distance"
+66 150 0.1000000 l "distance"
+150 17 0.1428571 l "distance"
+17 150 0.0833333 l "distance"
+150 25 0.1428571 l "distance"
+25 150 0.0909091 l "distance"
+9 66 0.1250000 l "distance"
+66 9 0.1000000 l "distance"
+9 164 0.1250000 l "distance"
+164 9 0.1000000 l "distance"
+9 74 0.1250000 l "distance"
+74 9 0.1000000 l "distance"
+31 348 0.1666667 l "distance"
+348 31 0.1666667 l "distance"
+31 37 0.1666667 l "distance"
+37 31 0.1111111 l "distance"
+151 314 0.2500000 l "distance"
+314 151 0.1428571 l "distance"
+314 154 0.1428571 l "distance"
+154 314 0.2500000 l "distance"
+314 321 0.1428571 l "distance"
+321 314 0.3333333 l "distance"
+318 108 0.0625000 l "distance"
+108 318 0.0833333 l "distance"
+66 331 0.1000000 l "distance"
+331 66 0.0714286 l "distance"
+66 72 0.1000000 l "distance"
+72 66 0.2000000 l "distance"
+66 167 0.1000000 l "distance"
+167 66 0.1000000 l "distance"
+66 74 0.1000000 l "distance"
+74 66 0.1000000 l "distance"
+66 17 0.1000000 l "distance"
+17 66 0.0833333 l "distance"
+160 337 0.2500000 l "distance"
+337 160 0.1666667 l "distance"
+67 338 0.2000000 l "distance"
+338 67 0.1250000 l "distance"
+67 351 0.2000000 l "distance"
+351 67 0.0909091 l "distance"
+68 333 0.1428571 l "distance"
+333 68 0.1111111 l "distance"
+68 75 0.1428571 l "distance"
+75 68 0.2000000 l "distance"
+68 37 0.1428571 l "distance"
+37 68 0.1111111 l "distance"
+69 167 0.2000000 l "distance"
+167 69 0.1000000 l "distance"
+161 164 0.2500000 l "distance"
+164 161 0.1000000 l "distance"
+161 351 0.2500000 l "distance"
+351 161 0.0909091 l "distance"
+162 167 0.2000000 l "distance"
+167 162 0.1000000 l "distance"
+164 35 0.1000000 l "distance"
+35 164 0.0714286 l "distance"
+164 74 0.1000000 l "distance"
+74 164 0.1000000 l "distance"
+164 351 0.1000000 l "distance"
+351 164 0.0909091 l "distance"
+33 333 0.1666667 l "distance"
+333 33 0.1111111 l "distance"
+33 37 0.1666667 l "distance"
+37 33 0.1111111 l "distance"
+331 72 0.0714286 l "distance"
+72 331 0.2000000 l "distance"
+331 35 0.0714286 l "distance"
+35 331 0.0714286 l "distance"
+331 17 0.0714286 l "distance"
+17 331 0.0833333 l "distance"
+331 171 0.0714286 l "distance"
+171 331 0.0555556 l "distance"
+70 35 0.0625000 l "distance"
+35 70 0.0714286 l "distance"
+70 339 0.1250000 l "distance"
+339 70 0.2000000 l "distance"
+70 74 0.0625000 l "distance"
+74 70 0.1000000 l "distance"
+70 171 0.0625000 l "distance"
+171 70 0.0555556 l "distance"
+70 245 0.0625000 l "distance"
+245 70 0.0714286 l "distance"
+70 25 0.0625000 l "distance"
+25 70 0.0909091 l "distance"
+333 75 0.1111111 l "distance"
+75 333 0.2000000 l "distance"
+165 337 0.2500000 l "distance"
+337 165 0.1666667 l "distance"
+72 167 0.2000000 l "distance"
+167 72 0.1000000 l "distance"
+35 351 0.0714286 l "distance"
+351 35 0.0909091 l "distance"
+35 171 0.0714286 l "distance"
+171 35 0.0555556 l "distance"
+334 340 0.1666667 l "distance"
+340 334 0.1428571 l "distance"
+334 172 0.1666667 l "distance"
+172 334 0.2500000 l "distance"
+335 500 0.3333333 l "distance"
+500 335 0.2000000 l "distance"
+167 17 0.1000000 l "distance"
+17 167 0.0833333 l "distance"
+341 171 0.1666667 l "distance"
+171 341 0.0555556 l "distance"
+347 351 0.2500000 l "distance"
+351 347 0.0909091 l "distance"
+348 37 0.1666667 l "distance"
+37 348 0.1111111 l "distance"
+350 480 0.3333333 l "distance"
+480 350 0.3333333 l "distance"
+351 432 0.0909091 l "distance"
+432 351 0.3333333 l "distance"
+171 51 0.0555556 l "distance"
+51 171 0.1111111 l "distance"
+354 355 0.3333333 l "distance"
+355 354 0.3333333 l "distance"
+174 115 0.0476190 l "distance"
+115 174 0.0666667 l "distance"
+360 11 0.0238095 l "distance"
+11 360 0.0357143 l "distance"
+360 176 0.0238095 l "distance"
+176 360 0.0400000 l "distance"
+360 421 0.0238095 l "distance"
+421 360 0.0076923 l "distance"
+360 222 0.0238095 l "distance"
+222 360 0.0909091 l "distance"
+360 50 0.0238095 l "distance"
+50 360 0.0526316 l "distance"
+360 243 0.0238095 l "distance"
+243 360 0.0303030 l "distance"
+360 116 0.0238095 l "distance"
+116 360 0.0500000 l "distance"
+360 509 0.0238095 l "distance"
+509 360 0.0076923 l "distance"
+11 176 0.0357143 l "distance"
+176 11 0.0400000 l "distance"
+11 396 0.0357143 l "distance"
+396 11 0.0263158 l "distance"
+11 421 0.0357143 l "distance"
+421 11 0.0076923 l "distance"
+11 108 0.0357143 l "distance"
+108 11 0.0833333 l "distance"
+11 50 0.0357143 l "distance"
+50 11 0.0526316 l "distance"
+11 116 0.0357143 l "distance"
+116 11 0.0500000 l "distance"
+11 509 0.0357143 l "distance"
+509 11 0.0076923 l "distance"
+176 177 0.0400000 l "distance"
+177 176 0.0769231 l "distance"
+176 421 0.0400000 l "distance"
+421 176 0.0076923 l "distance"
+176 243 0.0400000 l "distance"
+243 176 0.0303030 l "distance"
+176 509 0.0400000 l "distance"
+509 176 0.0076923 l "distance"
+177 421 0.0769231 l "distance"
+421 177 0.0076923 l "distance"
+177 243 0.0769231 l "distance"
+243 177 0.0303030 l "distance"
+177 509 0.0769231 l "distance"
+509 177 0.0076923 l "distance"
+373 500 0.0434783 l "distance"
+500 373 0.2000000 l "distance"
+391 45 0.1428571 l "distance"
+45 391 0.1111111 l "distance"
+396 4 0.0263158 l "distance"
+4 396 0.0625000 l "distance"
+396 425 0.0263158 l "distance"
+425 396 0.0500000 l "distance"
+396 6 0.0263158 l "distance"
+6 396 0.0370370 l "distance"
+396 494 0.0263158 l "distance"
+494 396 0.0344828 l "distance"
+396 501 0.0263158 l "distance"
+501 396 0.0769231 l "distance"
+396 506 0.0263158 l "distance"
+506 396 0.0303030 l "distance"
+396 52 0.0263158 l "distance"
+52 396 0.0833333 l "distance"
+4 6 0.0625000 l "distance"
+6 4 0.0370370 l "distance"
+4 494 0.0625000 l "distance"
+494 4 0.0344828 l "distance"
+4 501 0.0625000 l "distance"
+501 4 0.0769231 l "distance"
+4 506 0.0625000 l "distance"
+506 4 0.0303030 l "distance"
+86 6 0.0714286 l "distance"
+6 86 0.0370370 l "distance"
+86 494 0.0714286 l "distance"
+494 86 0.0344828 l "distance"
+86 245 0.0714286 l "distance"
+245 86 0.0714286 l "distance"
+86 506 0.0714286 l "distance"
+506 86 0.0303030 l "distance"
+86 52 0.0714286 l "distance"
+52 86 0.0833333 l "distance"
+88 89 0.2000000 l "distance"
+89 88 0.2000000 l "distance"
+421 243 0.0076923 l "distance"
+243 421 0.0303030 l "distance"
+421 117 0.0076923 l "distance"
+117 421 0.1250000 l "distance"
+421 509 0.0153846 l "distance"
+509 421 0.0153846 l "distance"
+424 434 0.1666667 l "distance"
+434 424 0.3333333 l "distance"
+425 222 0.0500000 l "distance"
+222 425 0.0909091 l "distance"
+425 6 0.0500000 l "distance"
+6 425 0.0370370 l "distance"
+425 494 0.0500000 l "distance"
+494 425 0.0344828 l "distance"
+425 506 0.0500000 l "distance"
+506 425 0.0303030 l "distance"
+425 52 0.0500000 l "distance"
+52 425 0.0833333 l "distance"
+90 225 0.2000000 l "distance"
+225 90 0.1250000 l "distance"
+205 224 0.1666667 l "distance"
+224 205 0.1111111 l "distance"
+207 208 0.2500000 l "distance"
+208 207 0.2500000 l "distance"
+98 115 0.2000000 l "distance"
+115 98 0.0666667 l "distance"
+218 507 0.1818182 l "distance"
+507 218 0.1666667 l "distance"
+108 50 0.0833333 l "distance"
+50 108 0.0526316 l "distance"
+108 243 0.0833333 l "distance"
+243 108 0.0303030 l "distance"
+108 116 0.0833333 l "distance"
+116 108 0.0500000 l "distance"
+108 117 0.0833333 l "distance"
+117 108 0.1250000 l "distance"
+438 439 0.2500000 l "distance"
+439 438 0.3333333 l "distance"
+440 459 0.1428571 l "distance"
+459 440 0.3333333 l "distance"
+442 251 0.1000000 l "distance"
+251 442 0.1111111 l "distance"
+442 112 0.1000000 l "distance"
+112 442 0.2000000 l "distance"
+219 226 0.1666667 l "distance"
+226 219 0.1428571 l "distance"
+448 223 0.1666667 l "distance"
+223 448 0.1428571 l "distance"
+222 501 0.0909091 l "distance"
+501 222 0.0769231 l "distance"
+111 118 0.1428571 l "distance"
+118 111 0.1666667 l "distance"
+112 223 0.2000000 l "distance"
+223 112 0.1428571 l "distance"
+455 470 0.3333333 l "distance"
+470 455 0.3333333 l "distance"
+228 229 0.1250000 l "distance"
+229 228 0.1250000 l "distance"
+460 464 0.3333333 l "distance"
+464 460 0.2500000 l "distance"
+467 472 0.1428571 l "distance"
+472 467 0.1428571 l "distance"
+469 473 0.1428571 l "distance"
+473 469 0.1666667 l "distance"
+469 488 0.1428571 l "distance"
+488 469 0.1428571 l "distance"
+472 473 0.1428571 l "distance"
+473 472 0.1666667 l "distance"
+472 488 0.1428571 l "distance"
+488 472 0.1428571 l "distance"
+50 502 0.0526316 l "distance"
+502 50 0.1666667 l "distance"
+50 243 0.0526316 l "distance"
+243 50 0.0303030 l "distance"
+50 115 0.0526316 l "distance"
+115 50 0.0666667 l "distance"
+50 116 0.0526316 l "distance"
+116 50 0.0500000 l "distance"
+51 6 0.1111111 l "distance"
+6 51 0.0370370 l "distance"
+51 494 0.1111111 l "distance"
+494 51 0.0344828 l "distance"
+51 506 0.1111111 l "distance"
+506 51 0.0303030 l "distance"
+253 255 0.2857143 l "distance"
+255 253 0.2500000 l "distance"
+254 256 0.2857143 l "distance"
+256 254 0.2500000 l "distance"
+489 490 0.0769231 l "distance"
+490 489 0.3333333 l "distance"
+6 494 0.1111111 l "distance"
+494 6 0.1034483 l "distance"
+6 115 0.0370370 l "distance"
+115 6 0.0666667 l "distance"
+6 245 0.0370370 l "distance"
+245 6 0.0714286 l "distance"
+6 506 0.0370370 l "distance"
+506 6 0.0303030 l "distance"
+6 52 0.0370370 l "distance"
+52 6 0.0833333 l "distance"
+494 115 0.0344828 l "distance"
+115 494 0.0666667 l "distance"
+494 245 0.0344828 l "distance"
+245 494 0.0714286 l "distance"
+494 506 0.0344828 l "distance"
+506 494 0.0303030 l "distance"
+494 52 0.0344828 l "distance"
+52 494 0.0833333 l "distance"
+496 240 0.1538462 l "distance"
+240 496 0.2500000 l "distance"
+502 243 0.1666667 l "distance"
+243 502 0.0303030 l "distance"
+243 116 0.0303030 l "distance"
+116 243 0.0500000 l "distance"
+243 509 0.0303030 l "distance"
+509 243 0.0076923 l "distance"
+115 506 0.0666667 l "distance"
+506 115 0.0303030 l "distance"
+115 116 0.0666667 l "distance"
+116 115 0.0500000 l "distance"
+245 506 0.0714286 l "distance"
+506 245 0.0303030 l "distance"
+506 52 0.0303030 l "distance"
+52 506 0.0833333 l "distance"
+116 117 0.0500000 l "distance"
+117 116 0.1250000 l "distance"
+117 509 0.1250000 l "distance"
+509 117 0.0076923 l "distance"
+*Edges

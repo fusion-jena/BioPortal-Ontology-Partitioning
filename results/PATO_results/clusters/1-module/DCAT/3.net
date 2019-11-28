@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Dataset" ellipse
+2 "Dataset" ellipse
+*Arcs
+2 1 0.2307692 l "isa"
+1 2 0.4285714 l "isa"
+1 2 0.4285714 l "substring"
+2 1 0.2307692 l "substring"
+1 2 0.4285714 l "distance"
+2 1 0.2307692 l "distance"
+*Edges

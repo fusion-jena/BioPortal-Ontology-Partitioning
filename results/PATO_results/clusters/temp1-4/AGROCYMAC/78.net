@@ -1,0 +1,11 @@
+*Vertices 2
+1 "porosimetry" ellipse
+2 "polarimetry" ellipse
+*Arcs
+1 2 0.2862856 l "distance"
+2 1 0.2771213 l "distance"
+1 2 0.2862856 l "distance"
+2 1 0.2771213 l "distance"
+1 2 0.2862856 l "distance"
+2 1 0.2771213 l "distance"
+*Edges

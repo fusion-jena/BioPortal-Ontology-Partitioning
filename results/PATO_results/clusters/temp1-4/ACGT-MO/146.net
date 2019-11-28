@@ -1,0 +1,9 @@
+*Vertices 2
+1 "ChronicViralInfection" ellipse
+2 "ViralInfection" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.3333333 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 4
+1 "control conditions" ellipse
+2 "generic control" ellipse
+3 "standard conditions" ellipse
+4 "conditions" ellipse
+*Arcs
+1 4 0.6666667 l "isa"
+4 1 0.2500000 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3333333 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2500000 l "isa"
+1 4 0.6666667 l "substring"
+4 1 0.2500000 l "substring"
+3 4 1.0000000 l "substring"
+4 3 0.2500000 l "substring"
+*Edges

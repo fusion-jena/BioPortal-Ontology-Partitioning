@@ -1,0 +1,18 @@
+*Vertices 3
+1 "NE" ellipse
+2 "Montenegro" ellipse
+3 "Venezuela" ellipse
+*Arcs
+1 2 0.0113976 l "substring"
+2 1 0.2013409 l "substring"
+1 3 0.0113976 l "substring"
+3 1 0.2013409 l "substring"
+1 2 0.0113976 l "substring"
+2 1 0.2013409 l "substring"
+1 3 0.0113976 l "substring"
+3 1 0.2013409 l "substring"
+1 2 0.0113976 l "substring"
+2 1 0.2013409 l "substring"
+1 3 0.0113976 l "substring"
+3 1 0.2013409 l "substring"
+*Edges

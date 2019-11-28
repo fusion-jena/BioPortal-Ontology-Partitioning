@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Disease" ellipse
+2 "MedicalEntity" ellipse
+3 "Disease" ellipse
+4 "dateTime"
+*Arcs
+3 2 0.0774730 l "isa"
+2 3 0.1283586 l "isa"
+3 4 0.1632910 l "Enddatum"
+4 3 0.1804229 l "Enddatum"
+3 4 0.1632910 l "Startdatum"
+4 3 0.1804229 l "Startdatum"
+1 3 0.2730821 l "substring"
+3 1 0.1691551 l "substring"
+1 3 0.2730821 l "distance"
+3 1 0.1691551 l "distance"
+3 2 0.0774730 l "isa"
+2 3 0.1283586 l "isa"
+3 4 0.1632910 l "Enddatum"
+4 3 0.1804229 l "Enddatum"
+3 4 0.1632910 l "Startdatum"
+4 3 0.1804229 l "Startdatum"
+1 3 0.2730821 l "substring"
+3 1 0.1691551 l "substring"
+1 3 0.2730821 l "distance"
+3 1 0.1691551 l "distance"
+*Edges

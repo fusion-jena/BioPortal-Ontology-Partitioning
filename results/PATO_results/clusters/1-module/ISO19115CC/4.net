@@ -1,0 +1,29 @@
+*Vertices 8
+1 "MD_ScopeDescription" ellipse
+2 "URI" ellipse
+3 "Collection" ellipse
+4 "Concept" ellipse
+5 "ConceptScheme" ellipse
+6 "Thing"
+7 "nil"
+8 "Class"
+*Arcs
+1 6 0.0769231 l "isa"
+6 1 0.0500000 l "isa"
+2 6 0.5000000 l "isa"
+6 2 0.0500000 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0500000 l "isa"
+4 6 0.3333333 l "isa"
+6 4 0.0500000 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.0500000 l "isa"
+1 7 0.0769231 l "definition"
+7 1 0.5000000 l "definition"
+1 8 0.0769231 l "definition"
+8 1 1.0000000 l "definition"
+4 5 0.3333333 l "substring"
+5 4 0.5000000 l "substring"
+2 7 0.5000000 l "distance"
+7 2 0.5000000 l "distance"
+*Edges

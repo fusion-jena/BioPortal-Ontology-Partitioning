@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Iran" ellipse
+2 "Iraq" ellipse
+3 "Israel" ellipse
+*Arcs
+1 2 0.0418062 l "distance"
+2 1 0.0763051 l "distance"
+1 3 0.0435771 l "distance"
+3 1 0.1682171 l "distance"
+2 3 0.0808072 l "distance"
+3 2 0.1709027 l "distance"
+1 2 0.0418062 l "distance"
+2 1 0.0763051 l "distance"
+1 3 0.0435771 l "distance"
+3 1 0.1682171 l "distance"
+2 3 0.0808072 l "distance"
+3 2 0.1709027 l "distance"
+*Edges

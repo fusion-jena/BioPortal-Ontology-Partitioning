@@ -1,0 +1,9 @@
+*Vertices 2
+1 "KnowledgeRepresentationParadigm" ellipse
+2 "conformsToKnowledgeRepresentationParadigm"
+*Arcs
+1 2 0.0498289 l "substring"
+2 1 0.3370102 l "substring"
+1 2 0.0498289 l "substring"
+2 1 0.3370102 l "substring"
+*Edges

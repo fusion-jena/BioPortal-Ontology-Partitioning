@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Africander" ellipse
+2 "Africana" ellipse
+*Arcs
+1 2 0.5715559 l "distance"
+2 1 0.2316292 l "distance"
+1 2 0.5715559 l "distance"
+2 1 0.2316292 l "distance"
+1 2 0.5715559 l "distance"
+2 1 0.2316292 l "distance"
+1 2 0.5715559 l "distance"
+2 1 0.2316292 l "distance"
+1 2 0.5715559 l "distance"
+2 1 0.2316292 l "distance"
+*Edges

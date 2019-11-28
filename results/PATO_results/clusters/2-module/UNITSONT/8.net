@@ -1,0 +1,16 @@
+*Vertices 5
+1 "US length unit" ellipse
+2 "foot (ft)" ellipse
+3 "inch (in)" ellipse
+4 "mile (mi)" ellipse
+5 "yard (yd)" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1428571 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1428571 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1428571 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1428571 l "isa"
+*Edges

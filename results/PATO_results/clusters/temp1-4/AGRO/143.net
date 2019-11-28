@@ -1,0 +1,14 @@
+*Vertices 3
+1 "land levelling process" ellipse
+2 "laser land levelling process" ellipse
+3 "traditional land levelling process" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1111111 l "isa"
+3 1 0.4000000 l "isa"
+1 3 0.1111111 l "isa"
+1 2 0.1111111 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.1111111 l "substring"
+3 1 0.4000000 l "substring"
+*Edges

@@ -1,0 +1,51 @@
+*Vertices 8
+1 "Agranulocyte" ellipse
+2 "Basophil" ellipse
+3 "Eosinophil" ellipse
+4 "Granulocyte" ellipse
+5 "Leucocyte" ellipse
+6 "Neutrophil" ellipse
+7 "fosinopril" ellipse
+8 "lisinopril" ellipse
+*Arcs
+1 5 0.1712538 l "isa"
+5 1 0.3409983 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1684397 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.1329787 l "isa"
+4 5 0.1329787 l "isa"
+5 4 0.3365115 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1684397 l "isa"
+1 4 0.3695477 l "substring"
+4 1 0.2907801 l "substring"
+1 4 0.3695477 l "distance"
+4 1 0.2907801 l "distance"
+3 7 0.3333333 l "distance"
+7 3 0.1842574 l "distance"
+3 8 0.3333333 l "distance"
+8 3 0.1842574 l "distance"
+7 8 0.1719736 l "distance"
+8 7 0.1719736 l "distance"
+1 5 0.1712538 l "isa"
+5 1 0.3409983 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1684397 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.1329787 l "isa"
+4 5 0.1329787 l "isa"
+5 4 0.3365115 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1684397 l "isa"
+1 4 0.3695477 l "substring"
+4 1 0.2907801 l "substring"
+1 4 0.3695477 l "distance"
+4 1 0.2907801 l "distance"
+3 7 0.3333333 l "distance"
+7 3 0.1842574 l "distance"
+3 8 0.3333333 l "distance"
+8 3 0.1842574 l "distance"
+7 8 0.1719736 l "distance"
+8 7 0.1719736 l "distance"
+*Edges

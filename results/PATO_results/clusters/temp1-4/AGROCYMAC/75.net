@@ -1,0 +1,13 @@
+*Vertices 2
+1 "row length mesurement protocol" ellipse
+2 "row length" ellipse
+*Arcs
+1 2 0.2685851 l "definition"
+2 1 0.1806861 l "definition"
+1 2 0.2685851 l "substring"
+2 1 0.1806861 l "substring"
+1 2 0.2685851 l "definition"
+2 1 0.1806861 l "definition"
+1 2 0.2685851 l "substring"
+2 1 0.1806861 l "substring"
+*Edges

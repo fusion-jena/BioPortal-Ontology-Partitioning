@@ -1,0 +1,36 @@
+*Vertices 11
+1 "complex partial seizure" ellipse
+2 "Difficulty swallowing" ellipse
+3 "Groaning, moaning or grunting" ellipse
+4 "Inability to communicate" ellipse
+5 "Inability to recognize oneself or family" ellipse
+6 "Increased sleeping" ellipse
+7 "Lack of control of bowel and bladder" ellipse
+8 "Seizure" ellipse
+9 "Skin infection" ellipse
+10 "Symptom of severe AD" ellipse
+11 "Weight loss" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.6666667 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.1000000 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.1000000 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.1000000 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.1000000 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.1000000 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.1000000 l "isa"
+8 10 0.3333333 l "isa"
+10 8 0.1000000 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.1000000 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.1000000 l "isa"
+1 8 1.0000000 l "substring"
+8 1 0.6666667 l "substring"
+*Edges

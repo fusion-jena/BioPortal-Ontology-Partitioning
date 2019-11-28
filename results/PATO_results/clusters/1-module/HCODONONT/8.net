@@ -1,0 +1,10 @@
+*Vertices 3
+1 "OWLClass_0fda3ad7_c8b3_49ce_84b9_7b1c18c187a3" ellipse
+2 "OWLClass_443cba8b_88a7_48fb_8b21_5b447b732c79" ellipse
+3 "OWLClass_d2daa074_3bfd_4051_88c9_1fd607bf0270" ellipse
+*Arcs
+2 1 0.1111111 l "definition"
+1 2 1.0000000 l "definition"
+2 3 0.1111111 l "definition"
+3 2 1.0000000 l "definition"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Human_With_DSM-IV_Diagnostic_Criterion" ellipse
+2 "Human_with_DSM-IV_definition_C" ellipse
+*Arcs
+2 1 0.1476278 l "isa"
+1 2 0.0763422 l "isa"
+2 1 0.1476278 l "isa"
+1 2 0.0763422 l "isa"
+2 1 0.1476278 l "isa"
+1 2 0.0763422 l "isa"
+*Edges

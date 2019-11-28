@@ -1,0 +1,12 @@
+*Vertices 3
+1 "CoordinatePoint" ellipse
+2 "CoordinateRange" ellipse
+3 "integer"
+*Arcs
+1 3 0.2500000 l "has_Point_Coordinate_Value"
+3 1 0.3333333 l "has_Point_Coordinate_Value"
+2 3 0.5000000 l "has_Range_End_Value"
+3 2 0.6666667 l "has_Range_End_Value"
+2 3 0.5000000 l "has_Range_Start_Value"
+3 2 0.6666667 l "has_Range_Start_Value"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "graphic"
+2 "graphic"
+*Arcs
+1 2 0.5190902 l "substring"
+2 1 0.5584494 l "substring"
+1 2 0.5190902 l "distance"
+2 1 0.5584494 l "distance"
+1 2 0.5190902 l "substring"
+2 1 0.5584494 l "substring"
+1 2 0.5190902 l "distance"
+2 1 0.5584494 l "distance"
+*Edges

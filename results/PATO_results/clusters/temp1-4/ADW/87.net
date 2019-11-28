@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Mass" ellipse
+2 "Mass unit" ellipse
+*Arcs
+1 2 0.0357143 l "definition"
+2 1 0.2857143 l "definition"
+1 2 0.0357143 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

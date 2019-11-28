@@ -1,0 +1,24 @@
+*Vertices 9
+1 "SBOL:Core Term" ellipse
+2 "Collection" ellipse
+3 "DNASequence" ellipse
+4 "SequenceAnnotation" ellipse
+5 "ribosome entry site symbol" ellipse
+6 "5' overhang symbol" ellipse
+7 "3' overhang symbol" ellipse
+8 "restriction_enzyme_single_strand_overhang" ellipse
+9 "represents"
+*Arcs
+5 9 0.2500000 l "definition"
+9 5 0.1000000 l "definition"
+6 8 0.2000000 l "definition"
+8 6 0.2500000 l "definition"
+6 9 0.2000000 l "definition"
+9 6 0.1000000 l "definition"
+7 8 0.2000000 l "definition"
+8 7 0.2500000 l "definition"
+7 9 0.2000000 l "definition"
+9 7 0.1000000 l "definition"
+6 7 0.2000000 l "distance"
+7 6 0.2000000 l "distance"
+*Edges

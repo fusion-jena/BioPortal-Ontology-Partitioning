@@ -1,0 +1,49 @@
+*Vertices 6
+1 "carboxylic acid anion" ellipse
+2 "monocarboxylic acid amide" ellipse
+3 "amide" ellipse
+4 "primary amide" ellipse
+5 "carboxylic acid" ellipse
+6 "carboxamide" ellipse
+*Arcs
+2 6 0.2067251 l "isa"
+6 2 0.1295279 l "isa"
+4 3 0.6888097 l "isa"
+3 4 0.0700143 l "isa"
+6 4 0.1369561 l "isa"
+4 6 0.3111903 l "isa"
+1 5 0.3035592 l "definition"
+5 1 0.2223058 l "definition"
+5 1 0.2223058 l "definition"
+1 5 0.3035592 l "definition"
+1 5 0.3035592 l "substring"
+5 1 0.2223058 l "substring"
+2 3 0.1980139 l "substring"
+3 2 0.0286549 l "substring"
+2 5 0.2015385 l "substring"
+5 2 0.0679268 l "substring"
+3 4 0.0700143 l "substring"
+4 3 0.6888097 l "substring"
+3 6 0.0276898 l "substring"
+6 3 0.1198914 l "substring"
+2 6 0.2067251 l "isa"
+6 2 0.1295279 l "isa"
+4 3 0.6888097 l "isa"
+3 4 0.0700143 l "isa"
+6 4 0.1369561 l "isa"
+4 6 0.3111903 l "isa"
+1 5 0.3035592 l "definition"
+5 1 0.2223058 l "definition"
+5 1 0.2223058 l "definition"
+1 5 0.3035592 l "definition"
+1 5 0.3035592 l "substring"
+5 1 0.2223058 l "substring"
+2 3 0.1980139 l "substring"
+3 2 0.0286549 l "substring"
+2 5 0.2015385 l "substring"
+5 2 0.0679268 l "substring"
+3 4 0.0700143 l "substring"
+4 3 0.6888097 l "substring"
+3 6 0.0276898 l "substring"
+6 3 0.1198914 l "substring"
+*Edges

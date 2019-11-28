@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Biological event" ellipse
+2 "CardiovascularEventRecord" ellipse
+3 "HematologicalEventRecord" ellipse
+4 "NeurologicalEventRecord" ellipse
+5 "RespiratoryEventRecord" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2000000 l "isa"
+*Edges

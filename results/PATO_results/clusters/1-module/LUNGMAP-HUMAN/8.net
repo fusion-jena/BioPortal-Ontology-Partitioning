@@ -1,0 +1,24 @@
+*Vertices 5
+1 "macrophage" ellipse
+2 "interstitial macrophage" ellipse
+3 "alveolar macrophage" ellipse
+4 "tingible body macrophage" ellipse
+5 "lymph node macrophage" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2222222 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.2222222 l "isa"
+4 1 0.4000000 l "isa"
+1 4 0.2222222 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.2222222 l "isa"
+1 2 0.2222222 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2222222 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.2222222 l "substring"
+4 1 0.4000000 l "substring"
+1 5 0.2222222 l "substring"
+5 1 0.3333333 l "substring"
+*Edges

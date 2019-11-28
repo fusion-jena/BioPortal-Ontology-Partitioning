@@ -1,0 +1,48 @@
+*Vertices 5
+1 "CTS" ellipse
+2 "genetic" ellipse
+3 "gene-gene interactions" ellipse
+4 "gender effects" ellipse
+5 "epigenetics" ellipse
+*Arcs
+3 2 0.5214518 l "isa"
+2 3 0.0804904 l "isa"
+4 2 0.5198581 l "isa"
+2 4 0.0804433 l "isa"
+5 2 0.8227682 l "isa"
+2 5 0.2166537 l "isa"
+1 4 0.0115501 l "substring"
+4 1 0.4801419 l "substring"
+2 5 0.2166537 l "substring"
+5 2 0.8227682 l "substring"
+3 2 0.5214518 l "isa"
+2 3 0.0804904 l "isa"
+4 2 0.5198581 l "isa"
+2 4 0.0804433 l "isa"
+5 2 0.8227682 l "isa"
+2 5 0.2166537 l "isa"
+1 4 0.0115501 l "substring"
+4 1 0.4801419 l "substring"
+2 5 0.2166537 l "substring"
+5 2 0.8227682 l "substring"
+3 2 0.5214518 l "isa"
+2 3 0.0804904 l "isa"
+4 2 0.5198581 l "isa"
+2 4 0.0804433 l "isa"
+5 2 0.8227682 l "isa"
+2 5 0.2166537 l "isa"
+1 4 0.0115501 l "substring"
+4 1 0.4801419 l "substring"
+2 5 0.2166537 l "substring"
+5 2 0.8227682 l "substring"
+3 2 0.5214518 l "isa"
+2 3 0.0804904 l "isa"
+4 2 0.5198581 l "isa"
+2 4 0.0804433 l "isa"
+5 2 0.8227682 l "isa"
+2 5 0.2166537 l "isa"
+1 4 0.0115501 l "substring"
+4 1 0.4801419 l "substring"
+2 5 0.2166537 l "substring"
+5 2 0.8227682 l "substring"
+*Edges

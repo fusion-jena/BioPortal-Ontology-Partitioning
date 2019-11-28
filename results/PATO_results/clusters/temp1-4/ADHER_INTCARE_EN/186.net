@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Glomerulopathy" ellipse
+2 "UrinarySystemSymptom" ellipse
+*Arcs
+1 2 0.2726542 l "definition"
+2 1 0.3114528 l "definition"
+1 2 0.2726542 l "definition"
+2 1 0.3114528 l "definition"
+1 2 0.2726542 l "definition"
+2 1 0.3114528 l "definition"
+1 2 0.2726542 l "definition"
+2 1 0.3114528 l "definition"
+1 2 0.2726542 l "definition"
+2 1 0.3114528 l "definition"
+*Edges

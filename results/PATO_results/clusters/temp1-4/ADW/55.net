@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Neuro2A" ellipse
+2 "Neuroblastoma cell line" ellipse
+3 "SHSY5Y" ellipse
+*Arcs
+1 2 0.3473962 l "isa"
+2 1 0.2030568 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2554585 l "isa"
+1 2 0.3473962 l "isa"
+2 1 0.2030568 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2554585 l "isa"
+*Edges

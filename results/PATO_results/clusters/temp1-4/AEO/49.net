@@ -1,0 +1,58 @@
+*Vertices 7
+1 "Expected captive lifespan" ellipse
+2 "Expected wild lifespan" ellipse
+3 "Lifespan" ellipse
+4 "Lifespan range" ellipse
+5 "Lifespan text" ellipse
+6 "Longest captive lifespan" ellipse
+7 "Longest wild lifespan" ellipse
+*Arcs
+1 4 0.4983923 l "isa"
+4 1 0.0942420 l "isa"
+2 4 0.4983923 l "isa"
+4 2 0.0942420 l "isa"
+6 4 0.3363516 l "isa"
+4 6 0.0881619 l "isa"
+7 4 0.3363516 l "isa"
+4 7 0.0881619 l "isa"
+4 3 0.1726757 l "definition"
+3 4 0.1940885 l "definition"
+5 3 0.4377932 l "definition"
+3 5 0.2132240 l "definition"
+1 3 0.5016077 l "substring"
+3 1 0.1066120 l "substring"
+2 3 0.5016077 l "substring"
+3 2 0.1066120 l "substring"
+3 4 0.1940885 l "substring"
+4 3 0.1726757 l "substring"
+3 5 0.2132240 l "substring"
+5 3 0.4377932 l "substring"
+3 6 0.0997779 l "substring"
+6 3 0.3386713 l "substring"
+3 7 0.0997779 l "substring"
+7 3 0.3386713 l "substring"
+1 4 0.4983923 l "isa"
+4 1 0.0942420 l "isa"
+2 4 0.4983923 l "isa"
+4 2 0.0942420 l "isa"
+6 4 0.3363516 l "isa"
+4 6 0.0881619 l "isa"
+7 4 0.3363516 l "isa"
+4 7 0.0881619 l "isa"
+4 3 0.1726757 l "definition"
+3 4 0.1940885 l "definition"
+5 3 0.4377932 l "definition"
+3 5 0.2132240 l "definition"
+1 3 0.5016077 l "substring"
+3 1 0.1066120 l "substring"
+2 3 0.5016077 l "substring"
+3 2 0.1066120 l "substring"
+3 4 0.1940885 l "substring"
+4 3 0.1726757 l "substring"
+3 5 0.2132240 l "substring"
+5 3 0.4377932 l "substring"
+3 6 0.0997779 l "substring"
+6 3 0.3386713 l "substring"
+3 7 0.0997779 l "substring"
+7 3 0.3386713 l "substring"
+*Edges

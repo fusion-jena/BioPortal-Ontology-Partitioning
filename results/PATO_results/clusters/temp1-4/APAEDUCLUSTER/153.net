@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ALOPE" ellipse
+2 "Alopecia" ellipse
+*Arcs
+1 2 0.0727929 l "substring"
+2 1 0.5269362 l "substring"
+1 2 0.0727929 l "distance"
+2 1 0.5269362 l "distance"
+1 2 0.0727929 l "substring"
+2 1 0.5269362 l "substring"
+1 2 0.0727929 l "distance"
+2 1 0.5269362 l "distance"
+*Edges

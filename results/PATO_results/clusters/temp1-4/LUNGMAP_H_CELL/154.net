@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Philippine Native" ellipse
+2 "Philippine Native" ellipse
+3 "Philippine" ellipse
+*Arcs
+1 2 0.6416258 l "substring"
+2 1 0.6408008 l "substring"
+1 3 0.2137601 l "substring"
+3 1 0.3596950 l "substring"
+2 3 0.2134286 l "substring"
+3 2 0.3595996 l "substring"
+1 2 0.6416258 l "distance"
+2 1 0.6408008 l "distance"
+1 2 0.6416258 l "substring"
+2 1 0.6408008 l "substring"
+1 3 0.2137601 l "substring"
+3 1 0.3596950 l "substring"
+2 3 0.2134286 l "substring"
+3 2 0.3595996 l "substring"
+1 2 0.6416258 l "distance"
+2 1 0.6408008 l "distance"
+1 2 0.6416258 l "substring"
+2 1 0.6408008 l "substring"
+1 3 0.2137601 l "substring"
+3 1 0.3596950 l "substring"
+2 3 0.2134286 l "substring"
+3 2 0.3595996 l "substring"
+1 2 0.6416258 l "distance"
+2 1 0.6408008 l "distance"
+1 2 0.6416258 l "substring"
+2 1 0.6408008 l "substring"
+1 3 0.2137601 l "substring"
+3 1 0.3596950 l "substring"
+2 3 0.2134286 l "substring"
+3 2 0.3595996 l "substring"
+1 2 0.6416258 l "distance"
+2 1 0.6408008 l "distance"
+*Edges

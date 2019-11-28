@@ -1,0 +1,9 @@
+*Vertices 2
+1 "reaction selectivity" ellipse
+2 "reaction selectivity disposition" ellipse
+*Arcs
+1 2 0.2149080 l "substring"
+2 1 0.1568473 l "substring"
+1 2 0.2149080 l "substring"
+2 1 0.1568473 l "substring"
+*Edges

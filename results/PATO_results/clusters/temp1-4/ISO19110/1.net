@@ -1,0 +1,13 @@
+*Vertices 2
+1 "GPR160" ellipse
+2 "GPR89A" ellipse
+*Arcs
+1 2 0.0145318 l "distance"
+2 1 0.0145318 l "distance"
+1 2 0.0145318 l "distance"
+2 1 0.0145318 l "distance"
+1 2 0.0145318 l "distance"
+2 1 0.0145318 l "distance"
+1 2 0.0145318 l "distance"
+2 1 0.0145318 l "distance"
+*Edges

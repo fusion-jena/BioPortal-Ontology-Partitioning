@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Education_Students" ellipse
+2 "Special_Education_Students" ellipse
+*Arcs
+1 2 0.2106006 l "substring"
+2 1 0.1756856 l "substring"
+1 2 0.2106006 l "substring"
+2 1 0.1756856 l "substring"
+*Edges

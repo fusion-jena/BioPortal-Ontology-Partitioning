@@ -1,0 +1,9 @@
+*Vertices 2
+1 "neuroendocrine cell" ellipse
+2 "neuroepithelial body" ellipse
+*Arcs
+1 2 0.1508848 l "isa"
+2 1 0.1743401 l "isa"
+1 2 0.1508848 l "isa"
+2 1 0.1743401 l "isa"
+*Edges

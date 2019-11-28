@@ -1,0 +1,18 @@
+*Vertices 3
+1 "antidementia agent" ellipse
+2 "deprenyl" ellipse
+3 "isoxsuprine" ellipse
+*Arcs
+2 1 0.2717393 l "definition"
+1 2 0.1448215 l "definition"
+3 1 0.2717393 l "definition"
+1 3 0.1448215 l "definition"
+2 1 0.2717393 l "definition"
+1 2 0.1448215 l "definition"
+3 1 0.2717393 l "definition"
+1 3 0.1448215 l "definition"
+2 1 0.2717393 l "definition"
+1 2 0.1448215 l "definition"
+3 1 0.2717393 l "definition"
+1 3 0.1448215 l "definition"
+*Edges

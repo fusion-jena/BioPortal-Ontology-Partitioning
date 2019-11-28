@@ -1,0 +1,9 @@
+*Vertices 2
+1 "ProcessStart" ellipse
+2 "processStartOf"
+*Arcs
+1 2 0.1428571 l "substring"
+2 1 0.2857143 l "substring"
+1 2 0.1428571 l "distance"
+2 1 0.2857143 l "distance"
+*Edges

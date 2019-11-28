@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Fluvisol" ellipse
+2 "Luvisol" ellipse
+*Arcs
+1 2 0.2500000 l "substring"
+2 1 0.1818182 l "substring"
+1 2 0.2500000 l "distance"
+2 1 0.1818182 l "distance"
+*Edges

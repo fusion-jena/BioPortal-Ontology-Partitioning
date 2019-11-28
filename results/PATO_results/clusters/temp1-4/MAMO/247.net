@@ -1,0 +1,13 @@
+*Vertices 2
+1 "unclassified epithelial cell" ellipse
+2 "unclassified epithelial cell" ellipse
+*Arcs
+1 2 0.1714173 l "substring"
+2 1 0.2745449 l "substring"
+1 2 0.1714173 l "distance"
+2 1 0.2745449 l "distance"
+1 2 0.1714173 l "substring"
+2 1 0.2745449 l "substring"
+1 2 0.1714173 l "distance"
+2 1 0.2745449 l "distance"
+*Edges

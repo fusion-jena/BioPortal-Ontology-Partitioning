@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Allen Brain Atlas Adult Mouse Ontology" ellipse
+2 "Basic cell groups and regions" ellipse
+3 "structure_graphs" ellipse
+4 "structures" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3333333 l "isa"
+2 4 0.2500000 l "isa"
+4 2 0.3333333 l "isa"
+4 3 0.6666667 l "belongsTo"
+3 4 0.6666667 l "belongsTo"
+3 4 0.6666667 l "hasMany"
+4 3 0.6666667 l "hasMany"
+*Edges

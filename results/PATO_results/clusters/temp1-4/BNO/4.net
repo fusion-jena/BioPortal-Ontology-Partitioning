@@ -1,0 +1,28 @@
+*Vertices 9
+1 "Activity Factor or Equation" ellipse
+2 "Activity Physical Assessment" ellipse
+3 "Activity Questionnaire" ellipse
+4 "Bike" ellipse
+5 "Fiber" ellipse
+6 "Grip Strength" ellipse
+7 "6 Minute Walk" ellipse
+8 "Treadmill" ellipse
+9 "nil"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1428571 l "isa"
+4 2 0.3333333 l "isa"
+2 4 0.1428571 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1428571 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1428571 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.1428571 l "isa"
+4 5 0.3333333 l "distance"
+5 4 0.2500000 l "distance"
+4 9 0.3333333 l "distance"
+9 4 0.1111111 l "distance"
+*Edges

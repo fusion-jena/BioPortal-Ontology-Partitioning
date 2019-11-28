@@ -1,0 +1,34 @@
+*Vertices 3
+1 "B-Lymphocyte" ellipse
+2 "Lymphocyte" ellipse
+3 "T-Lymphocyte" ellipse
+*Arcs
+1 2 0.6793893 l "isa"
+2 1 0.4072605 l "isa"
+3 2 0.6793893 l "isa"
+2 3 0.4072605 l "isa"
+1 2 0.6793893 l "substring"
+2 1 0.4072605 l "substring"
+2 3 0.4072605 l "substring"
+3 2 0.6793893 l "substring"
+1 2 0.6793893 l "distance"
+2 1 0.4072605 l "distance"
+1 3 0.1781171 l "distance"
+3 1 0.1781171 l "distance"
+2 3 0.4072605 l "distance"
+3 2 0.6793893 l "distance"
+1 2 0.6793893 l "isa"
+2 1 0.4072605 l "isa"
+3 2 0.6793893 l "isa"
+2 3 0.4072605 l "isa"
+1 2 0.6793893 l "substring"
+2 1 0.4072605 l "substring"
+2 3 0.4072605 l "substring"
+3 2 0.6793893 l "substring"
+1 2 0.6793893 l "distance"
+2 1 0.4072605 l "distance"
+1 3 0.1781171 l "distance"
+3 1 0.1781171 l "distance"
+2 3 0.4072605 l "distance"
+3 2 0.6793893 l "distance"
+*Edges

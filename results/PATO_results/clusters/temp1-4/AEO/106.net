@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Leaves" ellipse
+2 "Years" ellipse
+*Arcs
+1 2 0.2651443 l "distance"
+2 1 0.1118657 l "distance"
+1 2 0.2651443 l "distance"
+2 1 0.1118657 l "distance"
+*Edges

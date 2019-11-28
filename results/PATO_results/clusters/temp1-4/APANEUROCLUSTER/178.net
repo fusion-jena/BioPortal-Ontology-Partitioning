@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Sleep_Disorders" ellipse
+2 "Speech_Disorders" ellipse
+*Arcs
+1 2 0.2378274 l "distance"
+2 1 0.2896815 l "distance"
+1 2 0.2378274 l "distance"
+2 1 0.2896815 l "distance"
+1 2 0.2378274 l "distance"
+2 1 0.2896815 l "distance"
+*Edges

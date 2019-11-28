@@ -1,0 +1,9 @@
+*Vertices 2
+1 "endorsedBy"
+2 "endorses"
+*Arcs
+1 2 0.3629904 l "distance"
+2 1 0.3623348 l "distance"
+1 2 0.3629904 l "distance"
+2 1 0.3623348 l "distance"
+*Edges

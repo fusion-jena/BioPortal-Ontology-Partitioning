@@ -1,0 +1,69 @@
+*Vertices 20
+1 "Acute Respiratory Distress Syndrome" ellipse
+2 "Apnea or Hypoxia" ellipse
+3 "Aspiration" ellipse
+4 "Atelectasis" ellipse
+5 "Broncho-pleural Fistula" ellipse
+6 "Chylothorax" ellipse
+7 "Empyema" ellipse
+8 "Hemoptysis" ellipse
+9 "Hemothorax" ellipse
+10 "Hoarseness, Stridor" ellipse
+11 "Interstitial Pneumonitis and Fibrosis" ellipse
+12 "Phrenic Nerve Palsy" ellipse
+13 "Pleural Effusion" ellipse
+14 "Pneumonia" ellipse
+15 "Pneumonitis" ellipse
+16 "Pneumothorax" ellipse
+17 "Prolonged Air Leak" ellipse
+18 "Prolonged Intubation" ellipse
+19 "Pulmonary System" ellipse
+20 "Tracheoesophageal Fistula" ellipse
+*Arcs
+1 19 1.0000000 l "isa"
+19 1 0.0500000 l "isa"
+2 19 1.0000000 l "isa"
+19 2 0.0500000 l "isa"
+3 19 1.0000000 l "isa"
+19 3 0.0500000 l "isa"
+4 19 1.0000000 l "isa"
+19 4 0.0500000 l "isa"
+5 19 1.0000000 l "isa"
+19 5 0.0500000 l "isa"
+6 19 0.5000000 l "isa"
+19 6 0.0500000 l "isa"
+7 19 1.0000000 l "isa"
+19 7 0.0500000 l "isa"
+8 19 1.0000000 l "isa"
+19 8 0.0500000 l "isa"
+9 19 0.3333333 l "isa"
+19 9 0.0500000 l "isa"
+10 19 1.0000000 l "isa"
+19 10 0.0500000 l "isa"
+11 19 0.5000000 l "isa"
+19 11 0.0500000 l "isa"
+12 19 1.0000000 l "isa"
+19 12 0.0500000 l "isa"
+13 19 1.0000000 l "isa"
+19 13 0.0500000 l "isa"
+14 19 0.5000000 l "isa"
+19 14 0.0500000 l "isa"
+15 19 0.3333333 l "isa"
+19 15 0.0500000 l "isa"
+16 19 0.5000000 l "isa"
+19 16 0.0500000 l "isa"
+17 19 1.0000000 l "isa"
+19 17 0.0500000 l "isa"
+18 19 1.0000000 l "isa"
+19 18 0.0500000 l "isa"
+20 19 1.0000000 l "isa"
+19 20 0.0500000 l "isa"
+11 15 0.5000000 l "substring"
+15 11 0.3333333 l "substring"
+6 9 0.5000000 l "distance"
+9 6 0.3333333 l "distance"
+9 16 0.3333333 l "distance"
+16 9 0.5000000 l "distance"
+14 15 0.5000000 l "distance"
+15 14 0.3333333 l "distance"
+*Edges

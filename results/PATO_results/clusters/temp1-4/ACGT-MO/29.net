@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Abdomen" ellipse
+2 "SubdivisionOfAbdomen" ellipse
+3 "WallOfAbdomen" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.2500000 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.3333333 l "substring"
+3 1 0.5000000 l "substring"
+*Edges

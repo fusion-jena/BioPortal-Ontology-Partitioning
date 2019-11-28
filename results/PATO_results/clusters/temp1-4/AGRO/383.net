@@ -1,0 +1,10 @@
+*Vertices 3
+1 "band application" ellipse
+2 "side dressing" ellipse
+3 "seed dressing" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.0714286 l "isa"
+2 3 0.5000000 l "distance"
+3 2 0.1000000 l "distance"
+*Edges

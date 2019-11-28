@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Finland" ellipse
+2 "Iceland" ellipse
+3 "Poland" ellipse
+*Arcs
+1 2 0.1725340 l "distance"
+2 1 0.1498559 l "distance"
+1 3 0.1712000 l "distance"
+3 1 0.1307754 l "distance"
+2 3 0.1471523 l "distance"
+3 2 0.1294167 l "distance"
+1 2 0.1725340 l "distance"
+2 1 0.1498559 l "distance"
+1 3 0.1712000 l "distance"
+3 1 0.1307754 l "distance"
+2 3 0.1471523 l "distance"
+3 2 0.1294167 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Glycolipid" ellipse
+2 "glycolipid" ellipse
+*Arcs
+1 2 0.5000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "historical homology" ellipse
+2 "apomorphy" ellipse
+3 "plesiomorphy" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0666667 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0666667 l "isa"
+*Edges

@@ -1,0 +1,20 @@
+*Vertices 5
+1 "situation" ellipse
+2 "environmental situation" ellipse
+3 "operational situation" ellipse
+4 "transition" ellipse
+5 "transition specification" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1538462 l "isa"
+3 1 0.6666667 l "isa"
+1 3 0.1538462 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.0769231 l "isa"
+1 2 0.1538462 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1538462 l "substring"
+3 1 0.6666667 l "substring"
+4 5 0.5000000 l "substring"
+5 4 0.3333333 l "substring"
+*Edges

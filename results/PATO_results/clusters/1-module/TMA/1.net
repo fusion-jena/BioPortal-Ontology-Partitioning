@@ -1,0 +1,11 @@
+*Vertices 2
+1 "coreInBlock" ellipse
+2 "string"
+*Arcs
+1 2 0.2307692 l "drillSite"
+2 1 0.4285714 l "drillSite"
+1 2 0.2307692 l "location"
+2 1 0.4285714 l "location"
+1 2 0.2307692 l "diameter"
+2 1 0.4285714 l "diameter"
+*Edges

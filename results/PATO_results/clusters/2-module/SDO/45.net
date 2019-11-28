@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Blood pressure - diastolic" ellipse
+2 "Blood pressure - diastolic - sitting body position" ellipse
+3 "blood pressure measure" ellipse
+4 "Blood pressure - systolic" ellipse
+5 "hasDiastolicBPValue"
+6 "hasSystolicBPValue"
+*Arcs
+2 1 0.1333333 l "isa"
+1 2 0.2222222 l "isa"
+1 3 0.2222222 l "hasDiastolicBPValue"
+3 1 0.1333333 l "hasDiastolicBPValue"
+4 3 0.1538462 l "hasSystolicBPValue"
+3 4 0.1333333 l "hasSystolicBPValue"
+1 5 0.1111111 l "definition"
+5 1 0.5000000 l "definition"
+1 3 0.2222222 l "definition"
+3 1 0.1333333 l "definition"
+4 3 0.1538462 l "definition"
+3 4 0.1333333 l "definition"
+4 6 0.0769231 l "definition"
+6 4 0.5000000 l "definition"
+1 2 0.2222222 l "substring"
+2 1 0.1333333 l "substring"
+1 4 0.1111111 l "distance"
+4 1 0.0769231 l "distance"
+5 6 0.5000000 l "distance"
+6 5 0.5000000 l "distance"
+*Edges

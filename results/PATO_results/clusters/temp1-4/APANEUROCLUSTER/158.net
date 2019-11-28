@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Asthenia" ellipse
+2 "Cerebral_Ischemia" ellipse
+3 "Ischemia" ellipse
+4 "Myasthenia" ellipse
+*Arcs
+1 4 0.2836556 l "substring"
+4 1 0.4712760 l "substring"
+2 3 0.3209524 l "substring"
+3 2 0.3839146 l "substring"
+1 3 0.1215248 l "distance"
+3 1 0.3224451 l "distance"
+1 4 0.2836556 l "distance"
+4 1 0.4712760 l "distance"
+1 4 0.2836556 l "substring"
+4 1 0.4712760 l "substring"
+2 3 0.3209524 l "substring"
+3 2 0.3839146 l "substring"
+1 3 0.1215248 l "distance"
+3 1 0.3224451 l "distance"
+1 4 0.2836556 l "distance"
+4 1 0.4712760 l "distance"
+1 4 0.2836556 l "substring"
+4 1 0.4712760 l "substring"
+2 3 0.3209524 l "substring"
+3 2 0.3839146 l "substring"
+1 3 0.1215248 l "distance"
+3 1 0.3224451 l "distance"
+1 4 0.2836556 l "distance"
+4 1 0.4712760 l "distance"
+*Edges

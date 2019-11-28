@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Abeta 42" ellipse
+2 "Ratio phospho tau / abeta 42 test" ellipse
+*Arcs
+1 2 0.1063952 l "substring"
+2 1 0.2547285 l "substring"
+1 2 0.1063952 l "substring"
+2 1 0.2547285 l "substring"
+*Edges

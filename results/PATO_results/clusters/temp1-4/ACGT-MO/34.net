@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Vertebra" ellipse
+2 "partOf"
+3 "placeOf"
+*Arcs
+1 3 0.0185185 l "definition"
+3 1 0.5000000 l "definition"
+2 3 0.0416667 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "sulfide(2-)" ellipse
+2 "hydrosulfide" ellipse
+*Arcs
+1 2 0.4340677 l "definition"
+2 1 0.2080808 l "definition"
+2 1 0.2080808 l "definition"
+1 2 0.4340677 l "definition"
+1 2 0.4340677 l "definition"
+2 1 0.2080808 l "definition"
+2 1 0.2080808 l "definition"
+1 2 0.4340677 l "definition"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 3
+1 "ProspectiveStudy" ellipse
+2 "RetrospectiveStudy" ellipse
+3 "TypeOfStudy" ellipse
+*Arcs
+1 3 0.1213865 l "isa"
+3 1 0.1203777 l "isa"
+2 3 0.1213865 l "isa"
+3 2 0.1203777 l "isa"
+1 2 0.1229059 l "distance"
+2 1 0.1229059 l "distance"
+1 3 0.1213865 l "isa"
+3 1 0.1203777 l "isa"
+2 3 0.1213865 l "isa"
+3 2 0.1203777 l "isa"
+1 2 0.1229059 l "distance"
+2 1 0.1229059 l "distance"
+1 3 0.1213865 l "isa"
+3 1 0.1203777 l "isa"
+2 3 0.1213865 l "isa"
+3 2 0.1203777 l "isa"
+1 2 0.1229059 l "distance"
+2 1 0.1229059 l "distance"
+*Edges

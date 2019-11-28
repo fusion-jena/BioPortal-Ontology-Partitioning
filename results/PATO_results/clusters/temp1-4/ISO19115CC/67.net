@@ -1,0 +1,23 @@
+*Vertices 4
+1 "MD_FeatureCatalogueDescription" ellipse
+2 "includeWithDataset"
+3 "dataSetURI"
+4 "dataset"
+*Arcs
+1 2 0.0541587 l "definition"
+2 1 0.2777417 l "definition"
+2 4 0.2861778 l "substring"
+4 2 0.0963783 l "substring"
+3 4 0.3207171 l "substring"
+4 3 0.2141741 l "substring"
+3 4 0.3207171 l "distance"
+4 3 0.2141741 l "distance"
+1 2 0.0541587 l "definition"
+2 1 0.2777417 l "definition"
+2 4 0.2861778 l "substring"
+4 2 0.0963783 l "substring"
+3 4 0.3207171 l "substring"
+4 3 0.2141741 l "substring"
+3 4 0.3207171 l "distance"
+4 3 0.2141741 l "distance"
+*Edges

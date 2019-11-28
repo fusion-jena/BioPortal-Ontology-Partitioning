@@ -1,0 +1,36 @@
+*Vertices 9
+1 "Little_or_no_smiling_at_people" ellipse
+2 "Regularly_predictable_reciprocal_social_smiling" ellipse
+3 "Social_smiling" ellipse
+4 "Social_smiling_NotAvailable" ellipse
+5 "Social_smiling_UnknownOrNotAsked" ellipse
+6 "Some_evidence_of_reciprocal_social_smiling" ellipse
+7 "Some_evidence_of_smiling_while_looking_at_people" ellipse
+8 "ssmile_Little_or_no_smiling_at_people"
+9 "ssmile_Some_evidence_of_smiling_while_looking_at_people"
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.0833333 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1666667 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1666667 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1666667 l "isa"
+6 3 0.6666667 l "isa"
+3 6 0.1666667 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.0833333 l "isa"
+1 8 0.5000000 l "substring"
+8 1 0.3333333 l "substring"
+2 3 1.0000000 l "substring"
+3 2 0.1666667 l "substring"
+3 4 0.1666667 l "substring"
+4 3 1.0000000 l "substring"
+3 5 0.1666667 l "substring"
+5 3 1.0000000 l "substring"
+3 6 0.1666667 l "substring"
+6 3 0.6666667 l "substring"
+7 9 0.5000000 l "substring"
+9 7 0.3333333 l "substring"
+*Edges

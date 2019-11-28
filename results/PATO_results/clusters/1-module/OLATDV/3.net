@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Medaka stage 0" ellipse
+2 "Medaka stage 1" ellipse
+*Arcs
+2 1 0.0338983 l "definition"
+1 2 0.0425532 l "definition"
+1 2 0.0425532 l "distance"
+2 1 0.0338983 l "distance"
+*Edges

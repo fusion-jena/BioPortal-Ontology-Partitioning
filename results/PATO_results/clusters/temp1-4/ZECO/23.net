@@ -1,0 +1,40 @@
+*Vertices 5
+1 "lemma of lower floret of pedicellate spikelet of ear" ellipse
+2 "lower floret of pedicellate spikelet of ear" ellipse
+3 "palea of lower floret of pedicellate spikelet of ear" ellipse
+4 "stylar ridge (abortive) of lower floret of pedicellate spikelet of ear" ellipse
+5 "stamens (abortive) of lower floret of pedicellate spikelet of ear" ellipse
+*Arcs
+1 2 0.2380193 l "definition"
+2 1 0.1387010 l "definition"
+3 2 0.2691566 l "definition"
+2 3 0.1403366 l "definition"
+4 2 0.3089062 l "definition"
+2 4 0.1424396 l "definition"
+5 2 0.2380193 l "definition"
+2 5 0.1387010 l "definition"
+1 2 0.2380193 l "substring"
+2 1 0.1387010 l "substring"
+2 3 0.1403366 l "substring"
+3 2 0.2691566 l "substring"
+2 4 0.1424396 l "substring"
+4 2 0.3089062 l "substring"
+2 5 0.1387010 l "substring"
+5 2 0.2380193 l "substring"
+1 2 0.2380193 l "definition"
+2 1 0.1387010 l "definition"
+3 2 0.2691566 l "definition"
+2 3 0.1403366 l "definition"
+4 2 0.3089062 l "definition"
+2 4 0.1424396 l "definition"
+5 2 0.2380193 l "definition"
+2 5 0.1387010 l "definition"
+1 2 0.2380193 l "substring"
+2 1 0.1387010 l "substring"
+2 3 0.1403366 l "substring"
+3 2 0.2691566 l "substring"
+2 4 0.1424396 l "substring"
+4 2 0.3089062 l "substring"
+2 5 0.1387010 l "substring"
+5 2 0.2380193 l "substring"
+*Edges

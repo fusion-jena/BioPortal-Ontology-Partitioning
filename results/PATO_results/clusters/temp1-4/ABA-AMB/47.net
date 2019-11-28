@@ -1,0 +1,24 @@
+*Vertices 7
+1 "Anterior pretectal nucleus" ellipse
+2 "Medial pretectal area" ellipse
+3 "Nucleus of the optic tract" ellipse
+4 "Nucleus of the posterior commissure" ellipse
+5 "Olivary pretectal nucleus" ellipse
+6 "Posterior pretectal nucleus" ellipse
+7 "Pretectal region" ellipse
+*Arcs
+1 7 0.5000000 l "isa"
+7 1 0.1428571 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1428571 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1428571 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1428571 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1428571 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.1428571 l "isa"
+1 6 0.5000000 l "distance"
+6 1 0.5000000 l "distance"
+*Edges

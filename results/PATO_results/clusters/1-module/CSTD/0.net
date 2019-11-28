@@ -1,0 +1,9 @@
+*Vertices 4
+1 "Eyes" ellipse
+2 "dusts" ellipse
+3 "mites" ellipse
+4 "race" ellipse
+*Arcs
+1 3 0.3333333 l "distance"
+3 1 0.3333333 l "distance"
+*Edges

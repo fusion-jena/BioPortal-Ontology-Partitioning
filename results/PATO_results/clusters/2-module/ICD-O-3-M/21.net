@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Eccrine spiradenoma (C44._)" ellipse
+2 "Malignant eccrine spiradenoma (C44._)" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 4
+1 "SetOfBasalGanglia" ellipse
+2 "SetOfCellParts" ellipse
+3 "SetOfNeuraxisStructures" ellipse
+4 "SetOfNucleiOfNeuraxis" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.3601954 l "isa"
+3 2 0.2615196 l "isa"
+2 3 0.2249180 l "isa"
+4 3 0.2337518 l "isa"
+3 4 0.2673773 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.3601954 l "isa"
+3 2 0.2615196 l "isa"
+2 3 0.2249180 l "isa"
+4 3 0.2337518 l "isa"
+3 4 0.2673773 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.3601954 l "isa"
+3 2 0.2615196 l "isa"
+2 3 0.2249180 l "isa"
+4 3 0.2337518 l "isa"
+3 4 0.2673773 l "isa"
+*Edges

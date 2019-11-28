@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Epidemics" ellipse
+2 "Pandemics" ellipse
+*Arcs
+1 2 0.5287714 l "distance"
+2 1 0.3762461 l "distance"
+1 2 0.5287714 l "distance"
+2 1 0.3762461 l "distance"
+*Edges

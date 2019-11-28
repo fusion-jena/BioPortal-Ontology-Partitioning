@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Appaloosa" ellipse
+2 "Araappaloosa" ellipse
+*Arcs
+1 2 0.7970268 l "substring"
+2 1 0.7970268 l "substring"
+1 2 0.7970268 l "distance"
+2 1 0.7970268 l "distance"
+1 2 0.7970268 l "substring"
+2 1 0.7970268 l "substring"
+1 2 0.7970268 l "distance"
+2 1 0.7970268 l "distance"
+1 2 0.7970268 l "substring"
+2 1 0.7970268 l "substring"
+1 2 0.7970268 l "distance"
+2 1 0.7970268 l "distance"
+*Edges

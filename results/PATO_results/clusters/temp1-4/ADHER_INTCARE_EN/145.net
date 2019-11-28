@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Rarely_Shows_Social_Intentionality_Involving_Eye_Gaze_or_Vocalization" ellipse
+2 "qualov_Rarely_Shows_Social_Intentionality_Involving_Eye_Gaze_or_Vocalization"
+*Arcs
+1 2 0.2640315 l "substring"
+2 1 0.2168560 l "substring"
+1 2 0.2640315 l "substring"
+2 1 0.2168560 l "substring"
+*Edges

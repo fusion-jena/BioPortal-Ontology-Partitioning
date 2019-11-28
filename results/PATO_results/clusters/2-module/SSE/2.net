@@ -1,0 +1,43 @@
+*Vertices 14
+1 "Aortoenteric Fistula" ellipse
+2 "Deep Venous Thrombosis" ellipse
+3 "Disseminated Intravascular Coagulation" ellipse
+4 "Hematologic or Vascular System" ellipse
+5 "Hemorrhage" ellipse
+6 "Neutropenia" ellipse
+7 "Operative Injury of Vein or Artery" ellipse
+8 "Peripheral Arterial Ischemia" ellipse
+9 "Phlebitis, Superficial Venous" ellipse
+10 "Pulmonary Embolus" ellipse
+11 "Thrombocytopenia" ellipse
+12 "Transfusion Reaction" ellipse
+13 "Vascular Thrombosis" ellipse
+14 "Venous Access Device Dysfunction" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0526316 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0526316 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0526316 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0526316 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0526316 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0526316 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.0526316 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.0526316 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.0526316 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.0526316 l "isa"
+12 4 1.0000000 l "isa"
+4 12 0.0526316 l "isa"
+13 4 1.0000000 l "isa"
+4 13 0.0526316 l "isa"
+14 4 1.0000000 l "isa"
+4 14 0.0526316 l "isa"
+*Edges

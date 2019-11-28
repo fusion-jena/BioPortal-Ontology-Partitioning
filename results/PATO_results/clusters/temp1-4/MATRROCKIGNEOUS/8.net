@@ -1,0 +1,27 @@
+*Vertices 4
+1 "MetamorphicRock" ellipse
+2 "Serpentinite" ellipse
+3 "Serpentinization" ellipse
+4 "Metamorphic" ellipse
+*Arcs
+2 1 0.2339930 l "isa"
+1 2 0.1324111 l "isa"
+3 4 0.5074627 l "isa"
+4 3 0.3242507 l "isa"
+1 4 0.3267457 l "definition"
+4 1 0.6757494 l "definition"
+2 3 0.2689174 l "definition"
+3 2 0.4925373 l "definition"
+1 4 0.3267457 l "substring"
+4 1 0.6757494 l "substring"
+2 1 0.2339930 l "isa"
+1 2 0.1324111 l "isa"
+3 4 0.5074627 l "isa"
+4 3 0.3242507 l "isa"
+1 4 0.3267457 l "definition"
+4 1 0.6757494 l "definition"
+2 3 0.2689174 l "definition"
+3 2 0.4925373 l "definition"
+1 4 0.3267457 l "substring"
+4 1 0.6757494 l "substring"
+*Edges

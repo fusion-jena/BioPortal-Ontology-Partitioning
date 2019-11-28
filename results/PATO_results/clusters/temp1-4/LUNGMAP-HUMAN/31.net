@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Ovambo" ellipse
+2 "Oh-Shamo" ellipse
+3 "Shamo" ellipse
+*Arcs
+2 3 0.7455366 l "substring"
+3 2 0.2427278 l "substring"
+1 3 0.5170546 l "distance"
+3 1 0.1016335 l "distance"
+2 3 0.7455366 l "distance"
+3 2 0.2427278 l "distance"
+2 3 0.7455366 l "substring"
+3 2 0.2427278 l "substring"
+1 3 0.5170546 l "distance"
+3 1 0.1016335 l "distance"
+2 3 0.7455366 l "distance"
+3 2 0.2427278 l "distance"
+2 3 0.7455366 l "substring"
+3 2 0.2427278 l "substring"
+1 3 0.5170546 l "distance"
+3 1 0.1016335 l "distance"
+2 3 0.7455366 l "distance"
+3 2 0.2427278 l "distance"
+*Edges

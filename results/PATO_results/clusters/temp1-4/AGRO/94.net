@@ -1,0 +1,25 @@
+*Vertices 4
+1 "saline lake" ellipse
+2 "lake" ellipse
+3 "natural lake" ellipse
+4 "crater lake" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.0280374 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.0280374 l "isa"
+4 2 0.2727273 l "isa"
+2 4 0.0280374 l "isa"
+1 2 0.3333333 l "definition"
+2 1 0.0280374 l "definition"
+3 2 0.3333333 l "definition"
+2 3 0.0280374 l "definition"
+4 2 0.2727273 l "definition"
+2 4 0.0280374 l "definition"
+1 2 0.3333333 l "substring"
+2 1 0.0280374 l "substring"
+2 3 0.0280374 l "substring"
+3 2 0.3333333 l "substring"
+2 4 0.0280374 l "substring"
+4 2 0.2727273 l "substring"
+*Edges

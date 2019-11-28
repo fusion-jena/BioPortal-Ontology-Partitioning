@@ -1,0 +1,11 @@
+*Vertices 2
+1 "PRTUR" ellipse
+2 "Torture" ellipse
+*Arcs
+1 2 0.0377675 l "distance"
+2 1 0.3384714 l "distance"
+1 2 0.0377675 l "distance"
+2 1 0.3384714 l "distance"
+1 2 0.0377675 l "distance"
+2 1 0.3384714 l "distance"
+*Edges

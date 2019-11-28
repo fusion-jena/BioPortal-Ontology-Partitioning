@@ -1,0 +1,15 @@
+*Vertices 2
+1 "feverfew" ellipse
+2 "reverse"
+*Arcs
+1 2 0.5151606 l "distance"
+2 1 0.5837373 l "distance"
+1 2 0.5151606 l "distance"
+2 1 0.5837373 l "distance"
+1 2 0.5151606 l "distance"
+2 1 0.5837373 l "distance"
+1 2 0.5151606 l "distance"
+2 1 0.5837373 l "distance"
+1 2 0.5151606 l "distance"
+2 1 0.5837373 l "distance"
+*Edges

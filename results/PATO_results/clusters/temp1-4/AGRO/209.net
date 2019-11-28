@@ -1,0 +1,16 @@
+*Vertices 3
+1 "assay" ellipse
+2 "assay objective" ellipse
+3 "handedness assay" ellipse
+*Arcs
+3 1 0.2500000 l "isa"
+1 3 0.0769231 l "isa"
+1 2 0.0512821 l "definition"
+2 1 0.4000000 l "definition"
+3 1 0.2500000 l "definition"
+1 3 0.0769231 l "definition"
+1 2 0.0512821 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.0769231 l "substring"
+3 1 0.2500000 l "substring"
+*Edges

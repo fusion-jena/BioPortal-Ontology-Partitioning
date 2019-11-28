@@ -1,0 +1,18 @@
+*Vertices 3
+1 "lower respiratory tract" ellipse
+2 "respiratory tract" ellipse
+3 "Thing"
+*Arcs
+2 3 0.2365634 l "isa"
+3 2 0.1201156 l "isa"
+1 2 0.2165181 l "definition"
+2 1 0.5373911 l "definition"
+1 2 0.2165181 l "substring"
+2 1 0.5373911 l "substring"
+2 3 0.2365634 l "isa"
+3 2 0.1201156 l "isa"
+1 2 0.2165181 l "definition"
+2 1 0.5373911 l "definition"
+1 2 0.2165181 l "substring"
+2 1 0.5373911 l "substring"
+*Edges

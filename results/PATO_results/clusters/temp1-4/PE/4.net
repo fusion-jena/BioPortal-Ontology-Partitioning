@@ -1,0 +1,9 @@
+*Vertices 2
+1 "cephalic metamorphosis stage" ellipse
+2 "small atokous worm stage" ellipse
+*Arcs
+2 1 0.1483728 l "definition"
+1 2 0.1485450 l "definition"
+2 1 0.1483728 l "definition"
+1 2 0.1485450 l "definition"
+*Edges

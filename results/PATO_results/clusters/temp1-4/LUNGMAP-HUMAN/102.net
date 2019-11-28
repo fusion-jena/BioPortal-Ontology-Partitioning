@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Corriente" ellipse
+2 "Corriedale" ellipse
+*Arcs
+1 2 0.5890134 l "distance"
+2 1 0.5889886 l "distance"
+1 2 0.5890134 l "distance"
+2 1 0.5889886 l "distance"
+1 2 0.5890134 l "distance"
+2 1 0.5889886 l "distance"
+*Edges

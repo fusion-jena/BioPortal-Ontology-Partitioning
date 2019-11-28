@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Hardware" ellipse
+2 "Material" ellipse
+3 "Producto" ellipse
+4 "Software" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.0625000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.0625000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.0625000 l "isa"
+*Edges

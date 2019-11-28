@@ -1,0 +1,30 @@
+*Vertices 9
+1 "esquizofrenia" ellipse
+2 "esquizofrenia_transtornos_esquizotipicos_e_transtornos_delirantes" ellipse
+3 "outros_transtorno_psicoticos_nao_organicos" ellipse
+4 "psicose_nao_organica_nao_especificada" ellipse
+5 "transtorno_delirante_induzido" ellipse
+6 "transtorno_delirante_persistente" ellipse
+7 "transtorno_esquizoafetivo" ellipse
+8 "transtorno_esquizotipico" ellipse
+9 "transtorno_psicotico_agudo" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1000000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1000000 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1000000 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.1000000 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.1000000 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

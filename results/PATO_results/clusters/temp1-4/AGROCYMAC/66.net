@@ -1,0 +1,17 @@
+*Vertices 2
+1 "charging" ellipse
+2 "discharging" ellipse
+*Arcs
+1 2 0.3982384 l "substring"
+2 1 0.7352741 l "substring"
+1 2 0.3982384 l "distance"
+2 1 0.7352741 l "distance"
+1 2 0.3982384 l "substring"
+2 1 0.7352741 l "substring"
+1 2 0.3982384 l "distance"
+2 1 0.7352741 l "distance"
+1 2 0.3982384 l "substring"
+2 1 0.7352741 l "substring"
+1 2 0.3982384 l "distance"
+2 1 0.7352741 l "distance"
+*Edges

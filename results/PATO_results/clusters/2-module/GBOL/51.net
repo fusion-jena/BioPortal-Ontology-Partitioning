@@ -1,0 +1,18 @@
+*Vertices 3
+1 "bitscore"
+2 "maxbitscore"
+3 "bitScore"
+*Arcs
+1 2 0.1333333 l "substring"
+2 1 0.2857143 l "substring"
+1 3 0.1333333 l "substring"
+3 1 0.1333333 l "substring"
+2 3 0.2857143 l "substring"
+3 2 0.1333333 l "substring"
+1 2 0.1333333 l "distance"
+2 1 0.2857143 l "distance"
+1 3 0.1333333 l "distance"
+3 1 0.1333333 l "distance"
+2 3 0.2857143 l "distance"
+3 2 0.1333333 l "distance"
+*Edges

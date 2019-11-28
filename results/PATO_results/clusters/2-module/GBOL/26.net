@@ -1,0 +1,9 @@
+*Vertices 2
+1 "StrandType" ellipse
+2 "strandType"
+*Arcs
+1 2 0.2222222 l "substring"
+2 1 0.1666667 l "substring"
+1 2 0.2222222 l "distance"
+2 1 0.1666667 l "distance"
+*Edges

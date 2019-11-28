@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Attachment_to_an_unusual_object_causes_significant_distress_on_separation" ellipse
+2 "uatt_Attachment_to_an_unusual_object_causes_significant_distress_on_separation"
+*Arcs
+1 2 0.1478849 l "substring"
+2 1 0.1309074 l "substring"
+1 2 0.1478849 l "substring"
+2 1 0.1309074 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "hemolymphoid system" ellipse
+2 "lymphoid system" ellipse
+*Arcs
+2 1 0.2774461 l "definition"
+1 2 0.3411882 l "definition"
+1 2 0.3411882 l "substring"
+2 1 0.2774461 l "substring"
+2 1 0.2774461 l "definition"
+1 2 0.3411882 l "definition"
+1 2 0.3411882 l "substring"
+2 1 0.2774461 l "substring"
+2 1 0.2774461 l "definition"
+1 2 0.3411882 l "definition"
+1 2 0.3411882 l "substring"
+2 1 0.2774461 l "substring"
+*Edges

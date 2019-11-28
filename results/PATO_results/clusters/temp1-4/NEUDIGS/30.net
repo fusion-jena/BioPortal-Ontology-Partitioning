@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasNo2"
+2 "hasNo20"
+*Arcs
+1 2 0.0903448 l "substring"
+2 1 0.0943990 l "substring"
+1 2 0.0903448 l "distance"
+2 1 0.0943990 l "distance"
+1 2 0.0903448 l "substring"
+2 1 0.0943990 l "substring"
+1 2 0.0903448 l "distance"
+2 1 0.0943990 l "distance"
+*Edges

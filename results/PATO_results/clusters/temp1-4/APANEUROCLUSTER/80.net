@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Agnosia" ellipse
+2 "Prosopagnosia" ellipse
+*Arcs
+1 2 0.1046509 l "substring"
+2 1 0.3874876 l "substring"
+1 2 0.1046509 l "substring"
+2 1 0.3874876 l "substring"
+1 2 0.1046509 l "substring"
+2 1 0.3874876 l "substring"
+*Edges

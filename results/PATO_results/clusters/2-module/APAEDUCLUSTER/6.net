@@ -1,0 +1,49 @@
+*Vertices 16
+1 "Achievement_Measures" ellipse
+2 "Aptitude_Measures" ellipse
+3 "College_Entrance_Examination_Board_Scholastic_Aptitude_Test" ellipse
+4 "Course_Evaluation" ellipse
+5 "Criterion_Referenced_Tests" ellipse
+6 "Cultural_Test_Bias" ellipse
+7 "Entrance_Examinations" ellipse
+8 "Graduate_Record_Examination" ellipse
+9 "Minimum_Competency_Tests" ellipse
+10 "School_Psychology" ellipse
+11 "Student_Admission_Criteria" ellipse
+12 "Student_Personnel_Services" ellipse
+13 "Test_Coaching" ellipse
+14 "Test_Taking" ellipse
+15 "Testwiseness" ellipse
+16 "EducationalTestingCounseling" ellipse
+*Arcs
+1 16 1.0000000 l "isa"
+16 1 0.0285714 l "isa"
+2 16 1.0000000 l "isa"
+16 2 0.0285714 l "isa"
+3 16 1.0000000 l "isa"
+16 3 0.0285714 l "isa"
+4 16 1.0000000 l "isa"
+16 4 0.0285714 l "isa"
+5 16 1.0000000 l "isa"
+16 5 0.0285714 l "isa"
+6 16 1.0000000 l "isa"
+16 6 0.0285714 l "isa"
+7 16 1.0000000 l "isa"
+16 7 0.0285714 l "isa"
+8 16 1.0000000 l "isa"
+16 8 0.0285714 l "isa"
+9 16 1.0000000 l "isa"
+16 9 0.0285714 l "isa"
+10 16 1.0000000 l "isa"
+16 10 0.0285714 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.0285714 l "isa"
+12 16 1.0000000 l "isa"
+16 12 0.0285714 l "isa"
+13 16 1.0000000 l "isa"
+16 13 0.0285714 l "isa"
+14 16 1.0000000 l "isa"
+16 14 0.0285714 l "isa"
+15 16 1.0000000 l "isa"
+16 15 0.0285714 l "isa"
+*Edges

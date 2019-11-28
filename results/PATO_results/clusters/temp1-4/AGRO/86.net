@@ -1,0 +1,9 @@
+*Vertices 2
+1 "inserting material" ellipse
+2 "delivering material" ellipse
+*Arcs
+1 2 0.2606929 l "isa"
+2 1 0.2641912 l "isa"
+1 2 0.2606929 l "isa"
+2 1 0.2641912 l "isa"
+*Edges

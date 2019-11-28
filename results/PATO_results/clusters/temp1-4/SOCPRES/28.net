@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ribonuclease site symbol" ellipse
+2 "origin_of_replication" ellipse
+*Arcs
+1 2 0.2922163 l "definition"
+2 1 0.3671731 l "definition"
+1 2 0.2922163 l "definition"
+2 1 0.3671731 l "definition"
+1 2 0.2922163 l "definition"
+2 1 0.3671731 l "definition"
+*Edges

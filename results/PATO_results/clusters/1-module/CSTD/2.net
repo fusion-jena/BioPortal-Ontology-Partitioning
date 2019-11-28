@@ -1,0 +1,107 @@
+*Vertices 30
+1 "Antiparkinsonian" ellipse
+2 "Antipsychotics" ellipse
+3 "Antithyroid_agents" ellipse
+4 "Cardiovascular" ellipse
+5 "Cytostatics" ellipse
+6 "Demographic_characteristics" ellipse
+7 "Gastrointestinal" ellipse
+8 "General" ellipse
+9 "Integumentary" ellipse
+10 "Muscle_relaxants" ellipse
+11 "Musculoskeletal" ellipse
+12 "Neurological" ellipse
+13 "Respiratory" ellipse
+14 "Review_of_systems" ellipse
+15 "Topical_intranasal_drugs" ellipse
+16 "age" ellipse
+17 "allergic_immunologic" ellipse
+18 "anti-infectious_drugs" ellipse
+19 "anti-inflammatory_drugs" ellipse
+20 "antiepileptic_drugs" ellipse
+21 "antimigraine_drugs" ellipse
+22 "cardiovascular_drugs" ellipse
+23 "drugs" ellipse
+24 "endocrine" ellipse
+25 "ethnicity" ellipse
+26 "gender" ellipse
+27 "hematologic_lymphatic" ellipse
+28 "medication" ellipse
+29 "psychiatric" ellipse
+30 "psychiatric_medication" ellipse
+*Arcs
+1 28 1.0000000 l "isa"
+28 1 0.0714286 l "isa"
+2 28 1.0000000 l "isa"
+28 2 0.0714286 l "isa"
+3 28 0.5000000 l "isa"
+28 3 0.0714286 l "isa"
+4 14 0.5000000 l "isa"
+14 4 0.0714286 l "isa"
+5 28 1.0000000 l "isa"
+28 5 0.0714286 l "isa"
+7 14 1.0000000 l "isa"
+14 7 0.0714286 l "isa"
+8 14 0.5000000 l "isa"
+14 8 0.0714286 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.0714286 l "isa"
+10 28 1.0000000 l "isa"
+28 10 0.0714286 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.0714286 l "isa"
+12 14 1.0000000 l "isa"
+14 12 0.0714286 l "isa"
+13 14 1.0000000 l "isa"
+14 13 0.0714286 l "isa"
+15 28 0.5000000 l "isa"
+28 15 0.0714286 l "isa"
+16 6 0.2000000 l "isa"
+6 16 0.1666667 l "isa"
+17 14 1.0000000 l "isa"
+14 17 0.0714286 l "isa"
+18 28 0.5000000 l "isa"
+28 18 0.0714286 l "isa"
+19 28 0.5000000 l "isa"
+28 19 0.0714286 l "isa"
+20 28 0.5000000 l "isa"
+28 20 0.0714286 l "isa"
+21 28 0.5000000 l "isa"
+28 21 0.0714286 l "isa"
+22 28 0.3333333 l "isa"
+28 22 0.0714286 l "isa"
+24 14 1.0000000 l "isa"
+14 24 0.0714286 l "isa"
+25 6 1.0000000 l "isa"
+6 25 0.1666667 l "isa"
+26 6 0.5000000 l "isa"
+6 26 0.1666667 l "isa"
+27 14 1.0000000 l "isa"
+14 27 0.0714286 l "isa"
+29 14 0.5000000 l "isa"
+14 29 0.0714286 l "isa"
+30 28 0.6666667 l "isa"
+28 30 0.1428571 l "isa"
+3 16 0.5000000 l "substring"
+16 3 0.2000000 l "substring"
+4 22 0.5000000 l "substring"
+22 4 0.3333333 l "substring"
+15 23 0.5000000 l "substring"
+23 15 0.1250000 l "substring"
+18 23 0.5000000 l "substring"
+23 18 0.1250000 l "substring"
+19 23 0.5000000 l "substring"
+23 19 0.1250000 l "substring"
+20 23 0.5000000 l "substring"
+23 20 0.1250000 l "substring"
+21 23 0.5000000 l "substring"
+23 21 0.1250000 l "substring"
+22 23 0.3333333 l "substring"
+23 22 0.1250000 l "substring"
+28 30 0.1428571 l "substring"
+30 28 0.6666667 l "substring"
+29 30 0.5000000 l "substring"
+30 29 0.3333333 l "substring"
+8 26 0.5000000 l "distance"
+26 8 0.5000000 l "distance"
+*Edges

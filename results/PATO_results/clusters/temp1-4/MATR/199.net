@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Ongole" ellipse
+2 "Dongola" ellipse
+*Arcs
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+1 2 0.1903641 l "distance"
+2 1 0.1792878 l "distance"
+*Edges

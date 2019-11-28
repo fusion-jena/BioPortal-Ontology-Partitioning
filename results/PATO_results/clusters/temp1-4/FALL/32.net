@@ -1,0 +1,36 @@
+*Vertices 3
+1 "ClassOfShapeDimension" ellipse
+2 "IndividualDimension" ellipse
+3 "ShapeDimension" ellipse
+*Arcs
+1 3 0.5044596 l "definition"
+3 1 0.4235342 l "definition"
+3 2 0.2736203 l "definition"
+2 3 1.0000000 l "definition"
+1 3 0.5044596 l "substring"
+3 1 0.4235342 l "substring"
+1 3 0.5044596 l "definition"
+3 1 0.4235342 l "definition"
+3 2 0.2736203 l "definition"
+2 3 1.0000000 l "definition"
+1 3 0.5044596 l "substring"
+3 1 0.4235342 l "substring"
+1 3 0.5044596 l "definition"
+3 1 0.4235342 l "definition"
+3 2 0.2736203 l "definition"
+2 3 1.0000000 l "definition"
+1 3 0.5044596 l "substring"
+3 1 0.4235342 l "substring"
+1 3 0.5044596 l "definition"
+3 1 0.4235342 l "definition"
+3 2 0.2736203 l "definition"
+2 3 1.0000000 l "definition"
+1 3 0.5044596 l "substring"
+3 1 0.4235342 l "substring"
+1 3 0.5044596 l "definition"
+3 1 0.4235342 l "definition"
+3 2 0.2736203 l "definition"
+2 3 1.0000000 l "definition"
+1 3 0.5044596 l "substring"
+3 1 0.4235342 l "substring"
+*Edges

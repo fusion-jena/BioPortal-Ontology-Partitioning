@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Environmental cause" ellipse
+2 "Glutamate toxicity" ellipse
+3 "Toxic cause" ellipse
+4 "glutamate" ellipse
+5 "iron" ellipse
+*Arcs
+1 3 0.3672496 l "isa"
+3 1 0.1410349 l "isa"
+2 3 0.2815014 l "isa"
+3 2 0.1410349 l "isa"
+1 5 0.3529412 l "substring"
+5 1 0.0254783 l "substring"
+2 4 0.2895443 l "substring"
+4 2 0.1662886 l "substring"
+1 3 0.3672496 l "isa"
+3 1 0.1410349 l "isa"
+2 3 0.2815014 l "isa"
+3 2 0.1410349 l "isa"
+1 5 0.3529412 l "substring"
+5 1 0.0254783 l "substring"
+2 4 0.2895443 l "substring"
+4 2 0.1662886 l "substring"
+*Edges

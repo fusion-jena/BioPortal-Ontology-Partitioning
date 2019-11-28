@@ -1,0 +1,17 @@
+*Vertices 2
+1 "_Vomiting" ellipse
+2 "Vomiting" ellipse
+*Arcs
+1 2 0.5111923 l "substring"
+2 1 0.3101620 l "substring"
+1 2 0.5111923 l "distance"
+2 1 0.3101620 l "distance"
+1 2 0.5111923 l "substring"
+2 1 0.3101620 l "substring"
+1 2 0.5111923 l "distance"
+2 1 0.3101620 l "distance"
+1 2 0.5111923 l "substring"
+2 1 0.3101620 l "substring"
+1 2 0.5111923 l "distance"
+2 1 0.3101620 l "distance"
+*Edges

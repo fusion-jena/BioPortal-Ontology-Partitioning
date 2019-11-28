@@ -1,0 +1,44 @@
+*Vertices 13
+1 "Alpha wave" ellipse
+2 "Brain wave pattern" ellipse
+3 "Consciousness finding" ellipse
+4 "Electroencephalography (EEG) finding" ellipse
+5 "Gamma wave" ellipse
+6 "K complex" ellipse
+7 "Non-rapid eye movement (NREM) sleep - stage N1" ellipse
+8 "Non-rapid eye movement (NREM) sleep - stage N2" ellipse
+9 "Rapid eye movement (REM) sleep" ellipse
+10 "Sleep finding" ellipse
+11 "Sleep spindle" ellipse
+12 "Vertex sharp wave (V wave) pattern" ellipse
+13 "Wakefulness finding" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.1000000 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.0909091 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1000000 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.1000000 l "isa"
+10 3 0.2000000 l "isa"
+3 10 0.3333333 l "isa"
+11 2 0.5000000 l "isa"
+2 11 0.1000000 l "isa"
+12 2 0.5000000 l "isa"
+2 12 0.1000000 l "isa"
+13 3 0.1666667 l "isa"
+3 13 0.3333333 l "isa"
+7 12 0.0714286 l "definition"
+12 7 0.5000000 l "definition"
+8 6 0.0588235 l "definition"
+6 8 0.5000000 l "definition"
+8 11 0.0588235 l "definition"
+11 8 0.5000000 l "definition"
+9 1 0.0625000 l "definition"
+1 9 0.3333333 l "definition"
+13 1 0.1666667 l "definition"
+1 13 0.3333333 l "definition"
+7 8 0.0714286 l "distance"
+8 7 0.0588235 l "distance"
+*Edges

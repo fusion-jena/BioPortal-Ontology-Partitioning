@@ -1,0 +1,671 @@
+*Vertices 276
+1 "Ataxia" ellipse
+2 "Education_Students" ellipse
+3 "Overlearning" ellipse
+4 "Rote_Learning" ellipse
+5 "Skill_Learning" ellipse
+6 "Spatial_Learning" ellipse
+7 "Special_Education_Students" ellipse
+8 "Special_Education_Teachers" ellipse
+9 "Adult_Education" ellipse
+10 "Art_Education" ellipse
+11 "College_Students" ellipse
+12 "Community_College_Students" ellipse
+13 "Death_Education" ellipse
+14 "Dental_Education" ellipse
+15 "Drug_Education" ellipse
+16 "Equal_Education" ellipse
+17 "Graduate_Education" ellipse
+18 "Graduate_Psychology_Education" ellipse
+19 "Graduate_Students" ellipse
+20 "Health_Education" ellipse
+21 "High_School_Students" ellipse
+22 "High_School_Teachers" ellipse
+23 "High_Schools" ellipse
+24 "Inservice_Teacher_Education" ellipse
+25 "Junior_College_Students" ellipse
+26 "Junior_High_School_Students" ellipse
+27 "Junior_High_School_Teachers" ellipse
+28 "Junior_High_Schools" ellipse
+29 "Mathematics_Education" ellipse
+30 "Medical_Education" ellipse
+31 "Postgraduate_Students" ellipse
+32 "Psychoeducation" ellipse
+33 "Psychology_Education" ellipse
+34 "Remedial_Education" ellipse
+35 "Same_Sex_Education" ellipse
+36 "Serial_Learning" ellipse
+37 "Service_Learning" ellipse
+38 "Sex_Education" ellipse
+39 "Student_Teachers" ellipse
+40 "Student_Teaching" ellipse
+41 "Teacher_Education" ellipse
+42 "Teaching_Methods" ellipse
+43 "Testing_Methods" ellipse
+44 "Undergraduate_Education" ellipse
+45 "Vocational_Education" ellipse
+46 "Vocational_Education_Teachers" ellipse
+47 "Woodcock_Johnson_Psychoeducational_Battery" ellipse
+48 "Learning_Centers_(Educational)" ellipse
+49 "Relearning" ellipse
+50 "Special_Education" ellipse
+51 "Academic_Achievement" ellipse
+52 "Academic_Achievement_Motivation" ellipse
+53 "Academic_Achievement_Prediction" ellipse
+54 "Academic_Overachievement" ellipse
+55 "Academic_Underachievement" ellipse
+56 "Acalculia" ellipse
+57 "Adaptive_Testing" ellipse
+58 "Adult_Learning" ellipse
+59 "Affective_Education" ellipse
+60 "Agnosia" ellipse
+61 "Agraphia" ellipse
+62 "Alexia" ellipse
+63 "Algebra" ellipse
+64 "Aphasia" ellipse
+65 "Apraxia" ellipse
+66 "Attention_Deficit_Disorder" ellipse
+67 "Attention_Deficit_Disorder_with_Hyperactivity" ellipse
+68 "Autism" ellipse
+69 "Behavior_Modification" ellipse
+70 "Bilingual_Education" ellipse
+71 "Blind" ellipse
+72 "Boarding_Schools" ellipse
+73 "Boards_of_Education" ellipse
+74 "Business_Education" ellipse
+75 "Business_Students" ellipse
+76 "Calculus" ellipse
+77 "Career_Education" ellipse
+78 "Charter_Schools" ellipse
+79 "Classroom_Behavior" ellipse
+80 "Classroom_Behavior_Modification" ellipse
+81 "Classrooms" ellipse
+82 "Collaborative_Learning" ellipse
+83 "College_Academic_Achievement" ellipse
+84 "College_Dropouts" ellipse
+85 "College_Teachers" ellipse
+86 "Colleges" ellipse
+87 "Community_Colleges" ellipse
+88 "Compensatory_Education" ellipse
+89 "Computer_Assisted_Language_Learning" ellipse
+90 "Computer_Assisted_Testing" ellipse
+91 "Computer_Literacy" ellipse
+92 "Consumer_Education" ellipse
+93 "Continuing_Education" ellipse
+94 "Cooperating_Teachers" ellipse
+95 "Cooperative_Education" ellipse
+96 "Cooperative_Learning" ellipse
+97 "Counselor_Education" ellipse
+98 "Curricular_Field_Experience" ellipse
+99 "Curriculum" ellipse
+100 "Curriculum_Based_Assessment" ellipse
+101 "Curriculum_Development" ellipse
+102 "Deaf" ellipse
+103 "Deaf_Blind" ellipse
+104 "Dental_Students" ellipse
+105 "Discovery_Teaching_Method" ellipse
+106 "Discrimination_Learning" ellipse
+107 "Distance_Education" ellipse
+108 "Driver_Education" ellipse
+109 "Dropouts" ellipse
+110 "Dyslexia" ellipse
+111 "Dysphasia" ellipse
+112 "Dysphonia" ellipse
+113 "Educational_Administration" ellipse
+114 "Educational_Aspirations" ellipse
+115 "Educational_Attainment_Level" ellipse
+116 "Educational_Audiovisual_Aids" ellipse
+117 "Educational_Background" ellipse
+118 "Educational_Counseling" ellipse
+119 "Educational_Degrees" ellipse
+120 "Educational_Diagnosis" ellipse
+121 "Educational_Field_Trips" ellipse
+122 "Educational_Financial_Assistance" ellipse
+123 "Educational_Incentives" ellipse
+124 "Educational_Laboratories" ellipse
+125 "Educational_Measurement" ellipse
+126 "Educational_Objectives" ellipse
+127 "Educational_Personnel" ellipse
+128 "Educational_Placement" ellipse
+129 "Educational_Program_Accreditation" ellipse
+130 "Educational_Program_Evaluation" ellipse
+131 "Educational_Program_Planning" ellipse
+132 "Educational_Programs" ellipse
+133 "Educational_Psychologists" ellipse
+134 "Educational_Psychology" ellipse
+135 "Educational_Quality" ellipse
+136 "Educational_Reform" ellipse
+137 "Educational_Standards" ellipse
+138 "Educational_Television" ellipse
+139 "Educational_Therapy" ellipse
+140 "Educational_Toys" ellipse
+141 "Elementary_Education" ellipse
+142 "Elementary_School_Students" ellipse
+143 "Elementary_School_Teachers" ellipse
+144 "Elementary_Schools" ellipse
+145 "Environmental_Education" ellipse
+146 "Essay_Testing" ellipse
+147 "Experiential_Learning" ellipse
+148 "Family_Life_Education" ellipse
+149 "Foreign_Language_Education" ellipse
+150 "Foreign_Language_Learning" ellipse
+151 "Graduate_Schools" ellipse
+152 "Group_Testing" ellipse
+153 "Hearing_Disorders" ellipse
+154 "High_School_Education" ellipse
+155 "Higher_Education" ellipse
+156 "Incidental_Learning" ellipse
+157 "Individual_Education_Programs" ellipse
+158 "Initial_Teaching_Alphabet" ellipse
+159 "Inservice_Training" ellipse
+160 "Institutional_Schools" ellipse
+161 "Intentional_Learning" ellipse
+162 "Intermediate_School_Students" ellipse
+163 "International_Students" ellipse
+164 "Kindergarten_Students" ellipse
+165 "Language_Arts_Education" ellipse
+166 "Latent_Learning" ellipse
+167 "Law_Students" ellipse
+168 "Learning" ellipse
+169 "Learning_Ability" ellipse
+170 "Learning_Disabilities" ellipse
+171 "Learning_Disorders" ellipse
+172 "Learning_Environment" ellipse
+173 "Learning_Management_Systems" ellipse
+174 "Learning_Rate" ellipse
+175 "Learning_Schedules" ellipse
+176 "Learning_Strategies" ellipse
+177 "Learning_Theory" ellipse
+178 "Literacy" ellipse
+179 "Literacy_Programs" ellipse
+180 "Mainstreaming" ellipse
+181 "Mastery_Learning" ellipse
+182 "Mathematics" ellipse
+183 "Mathematics_Achievement" ellipse
+184 "Mathematics_Anxiety" ellipse
+185 "Medical_Students" ellipse
+186 "Mental_Health_Inservice_Training" ellipse
+187 "Middle_School_Education" ellipse
+188 "Middle_School_Students" ellipse
+189 "Middle_School_Teachers" ellipse
+190 "Middle_Schools" ellipse
+191 "Military_Schools" ellipse
+192 "Mnemonic_Learning" ellipse
+193 "Multicultural_Education" ellipse
+194 "Music_Education" ellipse
+195 "Mutism" ellipse
+196 "Nongraded_Schools" ellipse
+197 "Nonsense_Syllable_Learning" ellipse
+198 "Nontraditional_Education" ellipse
+199 "Nursery_School_Students" ellipse
+200 "Nursery_Schools" ellipse
+201 "Nursing_Education" ellipse
+202 "Nursing_Students" ellipse
+203 "Observational_Learning" ellipse
+204 "Paired_Associate_Learning" ellipse
+205 "Paraprofessional_Education" ellipse
+206 "Peer_Tutoring" ellipse
+207 "Perceptual_Learning" ellipse
+208 "Perceptual_Motor_Learning" ellipse
+209 "Physical_Education" ellipse
+210 "Posttesting" ellipse
+211 "Potential_Dropouts" ellipse
+212 "Preschool_Education" ellipse
+213 "Preschool_Students" ellipse
+214 "Preschool_Teachers" ellipse
+215 "Preservice_Teachers" ellipse
+216 "Primary_School_Students" ellipse
+217 "Private_School_Education" ellipse
+218 "Probability_Learning" ellipse
+219 "Problem_Based_Learning" ellipse
+220 "Programmed_Textbooks" ellipse
+221 "Public_School_Education" ellipse
+222 "ROTC_Students" ellipse
+223 "Reading_Ability" ellipse
+224 "Reading_Disabilities" ellipse
+225 "Reading_Education" ellipse
+226 "Reentry_Students" ellipse
+227 "Rehabilitation_Education" ellipse
+228 "Religious_Education" ellipse
+229 "Resource_Teachers" ellipse
+230 "Retention" ellipse
+231 "School_Counseling" ellipse
+232 "School_Counselors" ellipse
+233 "School_Dropouts" ellipse
+234 "School_Learning" ellipse
+235 "School_Retention" ellipse
+236 "School_Truancy" ellipse
+237 "Schools" ellipse
+238 "Science_Education" ellipse
+239 "Secondary_Education" ellipse
+240 "Self_Regulated_Learning" ellipse
+241 "Seminarians" ellipse
+242 "Seminaries" ellipse
+243 "Sequential_Learning" ellipse
+244 "Social_Learning" ellipse
+245 "Social_Loafing" ellipse
+246 "Social_Studies_Education" ellipse
+247 "Social_Work_Education" ellipse
+248 "State_Dependent_Learning" ellipse
+249 "Students" ellipse
+250 "Stuttering" ellipse
+251 "Teacher_Effectiveness" ellipse
+252 "Teacher_Effectiveness_Evaluation" ellipse
+253 "Teachers" ellipse
+254 "Teaching" ellipse
+255 "Teaching_Machines" ellipse
+256 "Team_Teaching_Method" ellipse
+257 "Technical_Schools" ellipse
+258 "Testing" ellipse
+259 "Textbooks" ellipse
+260 "Theories_of_Education" ellipse
+261 "Transfer_Students" ellipse
+262 "Trial_and_Error_Learning" ellipse
+263 "Truancy" ellipse
+264 "Tutoring" ellipse
+265 "Virtual_Classrooms" ellipse
+266 "Vocational_School_Students" ellipse
+267 "Accreditation_(Education_Personnel)" ellipse
+268 "Generalization_(Learning)" ellipse
+269 "Grading_(Educational)" ellipse
+270 "Interference_(Learning)" ellipse
+271 "Mainstreaming_(Educational)" ellipse
+272 "Recall_(Learning)" ellipse
+273 "Recognition_(Learning)" ellipse
+274 "Reconstruction_(Learning)" ellipse
+275 "Serial_Anticipation_(Learning)" ellipse
+276 "Transfer_(Learning)" ellipse
+*Arcs
+51 52 0.2500000 l "substring"
+52 51 0.5000000 l "substring"
+51 53 0.2500000 l "substring"
+53 51 0.5000000 l "substring"
+51 83 0.2500000 l "substring"
+83 51 0.5000000 l "substring"
+57 258 0.5000000 l "substring"
+258 57 0.1111111 l "substring"
+58 168 0.5000000 l "substring"
+168 58 0.0181818 l "substring"
+66 67 0.5000000 l "substring"
+67 66 0.5000000 l "substring"
+69 80 0.5000000 l "substring"
+80 69 0.3333333 l "substring"
+71 103 0.5000000 l "substring"
+103 71 0.3333333 l "substring"
+72 237 0.5000000 l "substring"
+237 72 0.0714286 l "substring"
+75 249 0.5000000 l "substring"
+249 75 0.0370370 l "substring"
+78 237 0.5000000 l "substring"
+237 78 0.0714286 l "substring"
+79 80 0.5000000 l "substring"
+80 79 0.3333333 l "substring"
+81 265 0.5000000 l "substring"
+265 81 0.5000000 l "substring"
+82 168 0.5000000 l "substring"
+168 82 0.0181818 l "substring"
+84 109 0.5000000 l "substring"
+109 84 0.2500000 l "substring"
+11 12 0.2500000 l "substring"
+12 11 0.3333333 l "substring"
+11 25 0.2500000 l "substring"
+25 11 0.3333333 l "substring"
+11 249 0.2500000 l "substring"
+249 11 0.0370370 l "substring"
+85 253 0.5000000 l "substring"
+253 85 0.0714286 l "substring"
+86 87 0.5000000 l "substring"
+87 86 0.5000000 l "substring"
+12 249 0.3333333 l "substring"
+249 12 0.0370370 l "substring"
+89 168 0.5000000 l "substring"
+168 89 0.0181818 l "substring"
+90 258 0.5000000 l "substring"
+258 90 0.1111111 l "substring"
+91 178 0.5000000 l "substring"
+178 91 0.3333333 l "substring"
+94 253 0.5000000 l "substring"
+253 94 0.0714286 l "substring"
+96 168 0.5000000 l "substring"
+168 96 0.0181818 l "substring"
+99 100 0.2500000 l "substring"
+100 99 0.5000000 l "substring"
+99 101 0.2500000 l "substring"
+101 99 0.5000000 l "substring"
+102 103 0.5000000 l "substring"
+103 102 0.3333333 l "substring"
+104 249 0.5000000 l "substring"
+249 104 0.0370370 l "substring"
+105 254 0.5000000 l "substring"
+254 105 0.0909091 l "substring"
+106 168 0.5000000 l "substring"
+168 106 0.0181818 l "substring"
+109 211 0.2500000 l "substring"
+211 109 0.5000000 l "substring"
+109 233 0.2500000 l "substring"
+233 109 0.5000000 l "substring"
+2 7 0.2500000 l "substring"
+7 2 0.2000000 l "substring"
+2 249 0.2500000 l "substring"
+249 2 0.0370370 l "substring"
+142 249 0.5000000 l "substring"
+249 142 0.0370370 l "substring"
+143 253 0.5000000 l "substring"
+253 143 0.0714286 l "substring"
+144 237 0.5000000 l "substring"
+237 144 0.0714286 l "substring"
+146 258 0.5000000 l "substring"
+258 146 0.1111111 l "substring"
+147 168 0.5000000 l "substring"
+168 147 0.0181818 l "substring"
+150 168 0.5000000 l "substring"
+168 150 0.0181818 l "substring"
+17 44 0.3333333 l "substring"
+44 17 0.3333333 l "substring"
+18 33 0.3333333 l "substring"
+33 18 0.3333333 l "substring"
+151 237 0.5000000 l "substring"
+237 151 0.0714286 l "substring"
+19 31 0.3333333 l "substring"
+31 19 0.3333333 l "substring"
+19 249 0.3333333 l "substring"
+249 19 0.0370370 l "substring"
+152 258 0.5000000 l "substring"
+258 152 0.1111111 l "substring"
+21 26 0.3333333 l "substring"
+26 21 0.3333333 l "substring"
+21 249 0.3333333 l "substring"
+249 21 0.0370370 l "substring"
+22 27 0.3333333 l "substring"
+27 22 0.3333333 l "substring"
+22 253 0.3333333 l "substring"
+253 22 0.0714286 l "substring"
+23 28 0.3333333 l "substring"
+28 23 0.3333333 l "substring"
+23 237 0.3333333 l "substring"
+237 23 0.0714286 l "substring"
+156 168 0.5000000 l "substring"
+168 156 0.0181818 l "substring"
+158 254 0.5000000 l "substring"
+254 158 0.0909091 l "substring"
+24 41 0.3333333 l "substring"
+41 24 0.3333333 l "substring"
+159 186 0.5000000 l "substring"
+186 159 0.5000000 l "substring"
+160 237 0.5000000 l "substring"
+237 160 0.0714286 l "substring"
+161 168 0.5000000 l "substring"
+168 161 0.0181818 l "substring"
+162 249 0.5000000 l "substring"
+249 162 0.0370370 l "substring"
+163 249 0.5000000 l "substring"
+249 163 0.0370370 l "substring"
+25 249 0.3333333 l "substring"
+249 25 0.0370370 l "substring"
+26 249 0.3333333 l "substring"
+249 26 0.0370370 l "substring"
+27 253 0.3333333 l "substring"
+253 27 0.0714286 l "substring"
+28 237 0.3333333 l "substring"
+237 28 0.0714286 l "substring"
+164 249 0.5000000 l "substring"
+249 164 0.0370370 l "substring"
+166 168 0.5000000 l "substring"
+168 166 0.0181818 l "substring"
+167 249 0.5000000 l "substring"
+249 167 0.0370370 l "substring"
+168 169 0.0181818 l "substring"
+169 168 0.3333333 l "substring"
+168 170 0.0181818 l "substring"
+170 168 0.3333333 l "substring"
+168 171 0.0181818 l "substring"
+171 168 0.3333333 l "substring"
+168 172 0.0181818 l "substring"
+172 168 0.5000000 l "substring"
+168 173 0.0181818 l "substring"
+173 168 0.5000000 l "substring"
+168 174 0.0181818 l "substring"
+174 168 0.5000000 l "substring"
+168 175 0.0181818 l "substring"
+175 168 0.5000000 l "substring"
+168 176 0.0181818 l "substring"
+176 168 0.5000000 l "substring"
+168 177 0.0181818 l "substring"
+177 168 0.5000000 l "substring"
+168 181 0.0181818 l "substring"
+181 168 0.5000000 l "substring"
+168 192 0.0181818 l "substring"
+192 168 0.5000000 l "substring"
+168 197 0.0181818 l "substring"
+197 168 0.5000000 l "substring"
+168 203 0.0181818 l "substring"
+203 168 0.5000000 l "substring"
+168 3 0.0181818 l "substring"
+3 168 0.2500000 l "substring"
+168 204 0.0181818 l "substring"
+204 168 0.5000000 l "substring"
+168 207 0.0181818 l "substring"
+207 168 0.5000000 l "substring"
+168 208 0.0181818 l "substring"
+208 168 0.5000000 l "substring"
+168 218 0.0181818 l "substring"
+218 168 0.5000000 l "substring"
+168 219 0.0181818 l "substring"
+219 168 0.5000000 l "substring"
+168 49 0.0363636 l "substring"
+49 168 0.4000000 l "substring"
+168 4 0.0181818 l "substring"
+4 168 0.2500000 l "substring"
+168 234 0.0181818 l "substring"
+234 168 0.5000000 l "substring"
+168 240 0.0181818 l "substring"
+240 168 0.5000000 l "substring"
+168 243 0.0181818 l "substring"
+243 168 0.5000000 l "substring"
+168 36 0.0181818 l "substring"
+36 168 0.1428571 l "substring"
+168 37 0.0181818 l "substring"
+37 168 0.3333333 l "substring"
+168 5 0.0181818 l "substring"
+5 168 0.2500000 l "substring"
+168 244 0.0181818 l "substring"
+244 168 0.1666667 l "substring"
+168 6 0.0181818 l "substring"
+6 168 0.2500000 l "substring"
+168 248 0.0181818 l "substring"
+248 168 0.5000000 l "substring"
+168 262 0.0181818 l "substring"
+262 168 0.5000000 l "substring"
+168 268 0.0181818 l "substring"
+268 168 0.5000000 l "substring"
+168 270 0.0181818 l "substring"
+270 168 0.5000000 l "substring"
+168 48 0.0181818 l "substring"
+48 168 0.3333333 l "substring"
+168 272 0.0181818 l "substring"
+272 168 0.5000000 l "substring"
+168 273 0.0181818 l "substring"
+273 168 0.5000000 l "substring"
+168 274 0.0181818 l "substring"
+274 168 0.5000000 l "substring"
+168 275 0.0181818 l "substring"
+275 168 0.5000000 l "substring"
+168 276 0.0181818 l "substring"
+276 168 0.5000000 l "substring"
+178 179 0.3333333 l "substring"
+179 178 0.5000000 l "substring"
+180 271 0.5000000 l "substring"
+271 180 0.3333333 l "substring"
+182 183 0.2500000 l "substring"
+183 182 0.5000000 l "substring"
+182 184 0.2500000 l "substring"
+184 182 0.5000000 l "substring"
+182 29 0.2500000 l "substring"
+29 182 0.3333333 l "substring"
+185 249 0.5000000 l "substring"
+249 185 0.0370370 l "substring"
+188 249 0.5000000 l "substring"
+249 188 0.0370370 l "substring"
+189 253 0.5000000 l "substring"
+253 189 0.0714286 l "substring"
+190 237 0.5000000 l "substring"
+237 190 0.0714286 l "substring"
+191 237 0.5000000 l "substring"
+237 191 0.0714286 l "substring"
+196 237 0.5000000 l "substring"
+237 196 0.0714286 l "substring"
+199 249 0.5000000 l "substring"
+249 199 0.0370370 l "substring"
+200 237 0.5000000 l "substring"
+237 200 0.0714286 l "substring"
+202 249 0.5000000 l "substring"
+249 202 0.0370370 l "substring"
+206 264 0.5000000 l "substring"
+264 206 0.3333333 l "substring"
+31 249 0.3333333 l "substring"
+249 31 0.0370370 l "substring"
+210 258 0.5000000 l "substring"
+258 210 0.1111111 l "substring"
+213 249 0.5000000 l "substring"
+249 213 0.0370370 l "substring"
+214 253 0.5000000 l "substring"
+253 214 0.0714286 l "substring"
+215 253 0.5000000 l "substring"
+253 215 0.0714286 l "substring"
+216 249 0.5000000 l "substring"
+249 216 0.0370370 l "substring"
+220 259 0.5000000 l "substring"
+259 220 0.5000000 l "substring"
+32 47 0.3333333 l "substring"
+47 32 0.3333333 l "substring"
+222 249 0.5000000 l "substring"
+249 222 0.0370370 l "substring"
+226 249 0.5000000 l "substring"
+249 226 0.0370370 l "substring"
+229 253 0.5000000 l "substring"
+253 229 0.0714286 l "substring"
+230 235 0.5000000 l "substring"
+235 230 0.5000000 l "substring"
+35 38 0.3333333 l "substring"
+38 35 0.2500000 l "substring"
+236 263 0.5000000 l "substring"
+263 236 0.5000000 l "substring"
+237 257 0.0714286 l "substring"
+257 237 0.5000000 l "substring"
+50 7 0.2000000 l "substring"
+7 50 0.2000000 l "substring"
+50 8 0.2000000 l "substring"
+8 50 0.2500000 l "substring"
+7 249 0.2000000 l "substring"
+249 7 0.0370370 l "substring"
+8 253 0.2500000 l "substring"
+253 8 0.0714286 l "substring"
+39 253 0.3333333 l "substring"
+253 39 0.0714286 l "substring"
+40 254 0.3333333 l "substring"
+254 40 0.0909091 l "substring"
+249 261 0.0370370 l "substring"
+261 249 0.5000000 l "substring"
+249 266 0.0370370 l "substring"
+266 249 0.5000000 l "substring"
+251 252 0.5000000 l "substring"
+252 251 0.5000000 l "substring"
+253 46 0.0714286 l "substring"
+46 253 0.2500000 l "substring"
+254 255 0.0909091 l "substring"
+255 254 0.5000000 l "substring"
+254 42 0.0909091 l "substring"
+42 254 0.3333333 l "substring"
+254 256 0.0909091 l "substring"
+256 254 0.5000000 l "substring"
+258 43 0.1111111 l "substring"
+43 258 0.3333333 l "substring"
+45 46 0.3333333 l "substring"
+46 45 0.2500000 l "substring"
+54 55 0.5000000 l "distance"
+55 54 0.5000000 l "distance"
+56 76 0.5000000 l "distance"
+76 56 0.5000000 l "distance"
+9 10 0.3333333 l "distance"
+10 9 0.2000000 l "distance"
+60 64 0.5000000 l "distance"
+64 60 0.2000000 l "distance"
+61 65 0.5000000 l "distance"
+65 61 0.2000000 l "distance"
+62 63 0.2000000 l "distance"
+63 62 0.5000000 l "distance"
+62 65 0.2000000 l "distance"
+65 62 0.2000000 l "distance"
+62 1 0.2000000 l "distance"
+1 62 0.2500000 l "distance"
+62 110 0.2000000 l "distance"
+110 62 0.5000000 l "distance"
+64 65 0.2000000 l "distance"
+65 64 0.2000000 l "distance"
+64 1 0.2000000 l "distance"
+1 64 0.2500000 l "distance"
+64 111 0.2000000 l "distance"
+111 64 0.3333333 l "distance"
+65 1 0.2000000 l "distance"
+1 65 0.2500000 l "distance"
+10 15 0.2000000 l "distance"
+15 10 0.3333333 l "distance"
+10 38 0.2000000 l "distance"
+38 10 0.2500000 l "distance"
+68 195 0.5000000 l "distance"
+195 68 0.5000000 l "distance"
+13 14 0.2500000 l "distance"
+14 13 0.2500000 l "distance"
+13 20 0.2500000 l "distance"
+20 13 0.3333333 l "distance"
+14 16 0.2500000 l "distance"
+16 14 0.3333333 l "distance"
+111 112 0.3333333 l "distance"
+112 111 0.5000000 l "distance"
+153 171 0.5000000 l "distance"
+171 153 0.3333333 l "distance"
+168 49 0.0363636 l "distance"
+49 168 0.4000000 l "distance"
+168 254 0.0181818 l "distance"
+254 168 0.0909091 l "distance"
+169 223 0.3333333 l "distance"
+223 169 0.5000000 l "distance"
+170 224 0.3333333 l "distance"
+224 170 0.5000000 l "distance"
+30 34 0.3333333 l "distance"
+34 30 0.3333333 l "distance"
+3 49 0.2500000 l "distance"
+49 3 0.2000000 l "distance"
+3 4 0.2500000 l "distance"
+4 3 0.2500000 l "distance"
+49 4 0.2000000 l "distance"
+4 49 0.2500000 l "distance"
+231 232 0.5000000 l "distance"
+232 231 0.5000000 l "distance"
+241 242 0.5000000 l "distance"
+242 241 0.5000000 l "distance"
+36 37 0.1428571 l "distance"
+37 36 0.3333333 l "distance"
+36 5 0.1428571 l "distance"
+5 36 0.2500000 l "distance"
+36 244 0.1428571 l "distance"
+244 36 0.1666667 l "distance"
+36 6 0.1428571 l "distance"
+6 36 0.2500000 l "distance"
+5 244 0.2500000 l "distance"
+244 5 0.1666667 l "distance"
+244 245 0.1666667 l "distance"
+245 244 0.5000000 l "distance"
+244 6 0.1666667 l "distance"
+6 244 0.2500000 l "distance"
+39 40 0.3333333 l "distance"
+40 39 0.3333333 l "distance"
+250 264 0.5000000 l "distance"
+264 250 0.3333333 l "distance"
+253 254 0.0714286 l "distance"
+254 253 0.0909091 l "distance"
+254 258 0.0909091 l "distance"
+258 254 0.1111111 l "distance"
+42 43 0.3333333 l "distance"
+43 42 0.3333333 l "distance"
+*Edges

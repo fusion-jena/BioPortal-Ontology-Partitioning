@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Digital_Divide" ellipse
+2 "Digital_Video" ellipse
+*Arcs
+1 2 0.5365854 l "distance"
+2 1 0.5365854 l "distance"
+1 2 0.5365854 l "distance"
+2 1 0.5365854 l "distance"
+*Edges

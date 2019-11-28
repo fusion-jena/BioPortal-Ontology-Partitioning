@@ -1,0 +1,28 @@
+*Vertices 9
+1 "death rate" ellipse
+2 "Effect on plant" ellipse
+3 "Establishment" ellipse
+4 "Flowering" ellipse
+5 "Fruit and Seed Production" ellipse
+6 "Germination" ellipse
+7 "Plant Mortality" ellipse
+8 "Plant resprout" ellipse
+9 "Top kill" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1000000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1000000 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1000000 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.1000000 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.1000000 l "isa"
+*Edges

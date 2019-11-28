@@ -1,0 +1,26 @@
+*Vertices 7
+1 "Annotated Case Report Form" ellipse
+2 "CRF Completion Requirements" ellipse
+3 "Case Report Form" ellipse
+4 "Completed Case Report Forms" ellipse
+5 "Data Capture" ellipse
+6 "Data Clarification Forms" ellipse
+7 "Electronic Data Capture Final Data" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.1428571 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1428571 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.1428571 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1428571 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2857143 l "isa"
+1 3 0.5000000 l "substring"
+3 1 0.3333333 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.5000000 l "substring"
+5 7 0.2857143 l "substring"
+7 5 1.0000000 l "substring"
+*Edges

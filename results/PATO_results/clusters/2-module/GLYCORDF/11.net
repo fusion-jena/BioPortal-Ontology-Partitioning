@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Linkage Type" ellipse
+2 "Substituent Type" ellipse
+3 "float"
+*Arcs
+2 1 0.2222222 l "has_default_linkage_type"
+1 2 0.5000000 l "has_default_linkage_type"
+2 1 0.2222222 l "has_default_linkage_type2"
+1 2 0.5000000 l "has_default_linkage_type2"
+2 3 0.2222222 l "has_default_linkage_bondorder"
+3 2 1.0000000 l "has_default_linkage_bondorder"
+2 3 0.2222222 l "has_default_linkage_bondorder2"
+3 2 1.0000000 l "has_default_linkage_bondorder2"
+*Edges

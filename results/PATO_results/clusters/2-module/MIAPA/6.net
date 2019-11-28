@@ -1,0 +1,28 @@
+*Vertices 7
+1 "Operation" ellipse
+2 "Phylogenetic tree construction" ellipse
+3 "Phylogenetic tree construction (method centric)" ellipse
+4 "Alignment construction" ellipse
+5 "Phylogenetic tree construction (pruning and grafting)" ellipse
+6 "Activity" ellipse
+7 "CDAO_0000032"
+*Arcs
+1 6 0.3333333 l "isa"
+6 1 0.2000000 l "isa"
+2 1 0.2000000 l "isa"
+1 2 0.3333333 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.4000000 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.3333333 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.1000000 l "isa"
+7 6 0.1000000 l "isa"
+6 7 0.2000000 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.3333333 l "isa"
+2 3 0.4000000 l "substring"
+3 2 0.6666667 l "substring"
+2 5 0.2000000 l "substring"
+5 2 0.5000000 l "substring"
+*Edges

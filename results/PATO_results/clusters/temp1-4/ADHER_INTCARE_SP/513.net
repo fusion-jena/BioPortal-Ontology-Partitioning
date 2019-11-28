@@ -1,0 +1,9 @@
+*Vertices 2
+1 "SDSCA" ellipse
+2 "SDSCA" ellipse
+*Arcs
+1 2 0.1471952 l "substring"
+2 1 0.1538462 l "substring"
+1 2 0.1471952 l "distance"
+2 1 0.1538462 l "distance"
+*Edges

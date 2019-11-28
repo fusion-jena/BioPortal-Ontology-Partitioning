@@ -1,0 +1,18 @@
+*Vertices 5
+1 "Age Gender Rule" ellipse
+2 "Clinical Rule" ellipse
+3 "Exclusion Rule" ellipse
+4 "Inclusion Rule" ellipse
+5 "Rule Concept" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.2500000 l "isa"
+2 5 0.3333333 l "isa"
+5 2 0.2500000 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.3333333 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.3333333 l "isa"
+3 4 0.5000000 l "distance"
+4 3 0.5000000 l "distance"
+*Edges

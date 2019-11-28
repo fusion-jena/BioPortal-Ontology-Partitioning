@@ -1,0 +1,13 @@
+*Vertices 2
+1 "irrigation water quantity" ellipse
+2 "irrigation water quantity recording protocol" ellipse
+*Arcs
+2 1 0.2179078 l "definition"
+1 2 0.2186952 l "definition"
+1 2 0.2186952 l "substring"
+2 1 0.2179078 l "substring"
+2 1 0.2179078 l "definition"
+1 2 0.2186952 l "definition"
+1 2 0.2186952 l "substring"
+2 1 0.2179078 l "substring"
+*Edges

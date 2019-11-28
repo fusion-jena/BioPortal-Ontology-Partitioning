@@ -1,0 +1,18 @@
+*Vertices 3
+1 "desipramine" ellipse
+2 "imipramine" ellipse
+3 "trimipramine" ellipse
+*Arcs
+2 3 0.2506784 l "substring"
+3 2 0.2818227 l "substring"
+1 2 0.1765682 l "distance"
+2 1 0.1149237 l "distance"
+2 3 0.2506784 l "distance"
+3 2 0.2818227 l "distance"
+2 3 0.2506784 l "substring"
+3 2 0.2818227 l "substring"
+1 2 0.1765682 l "distance"
+2 1 0.1149237 l "distance"
+2 3 0.2506784 l "distance"
+3 2 0.2818227 l "distance"
+*Edges

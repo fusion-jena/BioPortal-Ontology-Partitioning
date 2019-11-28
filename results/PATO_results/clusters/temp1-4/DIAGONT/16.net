@@ -1,0 +1,13 @@
+*Vertices 2
+1 "prestalk cell" ellipse
+2 "stalk cell" ellipse
+*Arcs
+1 2 0.1397076 l "substring"
+2 1 0.1007722 l "substring"
+1 2 0.1397076 l "distance"
+2 1 0.1007722 l "distance"
+1 2 0.1397076 l "substring"
+2 1 0.1007722 l "substring"
+1 2 0.1397076 l "distance"
+2 1 0.1007722 l "distance"
+*Edges

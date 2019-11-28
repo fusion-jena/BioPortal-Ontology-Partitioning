@@ -1,0 +1,37 @@
+*Vertices 6
+1 "collection" ellipse
+2 "periodical" ellipse
+3 "website" ellipse
+4 "anyURI"
+5 "nil"
+6 "uri"
+*Arcs
+2 1 0.2561983 l "isa"
+1 2 0.3084577 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3980100 l "isa"
+6 1 0.1208309 l "definition"
+1 6 0.2935324 l "definition"
+6 5 0.2605032 l "definition"
+5 6 0.4234354 l "definition"
+4 6 0.7111756 l "substring"
+6 4 0.2867174 l "substring"
+4 6 0.7111756 l "distance"
+6 4 0.2867174 l "distance"
+5 6 0.4234354 l "distance"
+6 5 0.2605032 l "distance"
+2 1 0.2561983 l "isa"
+1 2 0.3084577 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3980100 l "isa"
+6 1 0.1208309 l "definition"
+1 6 0.2935324 l "definition"
+6 5 0.2605032 l "definition"
+5 6 0.4234354 l "definition"
+4 6 0.7111756 l "substring"
+6 4 0.2867174 l "substring"
+4 6 0.7111756 l "distance"
+6 4 0.2867174 l "distance"
+5 6 0.4234354 l "distance"
+6 5 0.2605032 l "distance"
+*Edges

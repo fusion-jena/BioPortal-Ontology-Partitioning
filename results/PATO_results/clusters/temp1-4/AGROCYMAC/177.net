@@ -1,0 +1,13 @@
+*Vertices 2
+1 "chloride" ellipse
+2 "chloride salt" ellipse
+*Arcs
+2 1 0.2650159 l "definition"
+1 2 0.1326922 l "definition"
+1 2 0.1326922 l "substring"
+2 1 0.2650159 l "substring"
+2 1 0.2650159 l "definition"
+1 2 0.1326922 l "definition"
+1 2 0.1326922 l "substring"
+2 1 0.2650159 l "substring"
+*Edges

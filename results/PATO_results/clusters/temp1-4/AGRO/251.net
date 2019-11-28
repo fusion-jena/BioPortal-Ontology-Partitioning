@@ -1,0 +1,9 @@
+*Vertices 2
+1 "neuron" ellipse
+2 "has fasciculating neuron projection"
+*Arcs
+2 1 0.2500000 l "definition"
+1 2 0.1428571 l "definition"
+1 2 0.1428571 l "substring"
+2 1 0.2500000 l "substring"
+*Edges

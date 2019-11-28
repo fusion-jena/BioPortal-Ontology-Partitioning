@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Duration" ellipse
+2 "Location" ellipse
+3 "Population Concept" ellipse
+4 "SampleSizeCalculation" ellipse
+*Arcs
+2 3 0.5000000 l "isa"
+3 2 0.1111111 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1111111 l "isa"
+1 2 0.2000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

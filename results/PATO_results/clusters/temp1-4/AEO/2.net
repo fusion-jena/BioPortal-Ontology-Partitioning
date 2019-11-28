@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Moderate cognitive Decline" ellipse
+2 "thing related to moderate stage" ellipse
+*Arcs
+1 2 0.1197657 l "isa"
+2 1 0.1366167 l "isa"
+1 2 0.1197657 l "isa"
+2 1 0.1366167 l "isa"
+1 2 0.1197657 l "isa"
+2 1 0.1366167 l "isa"
+*Edges

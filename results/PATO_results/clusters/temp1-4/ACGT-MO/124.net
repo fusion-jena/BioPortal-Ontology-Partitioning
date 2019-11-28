@@ -1,0 +1,44 @@
+*Vertices 11
+1 "BiogenicAmine" ellipse
+2 "BiologicalMacromolecule" ellipse
+3 "Catecholamine" ellipse
+4 "DNA" ellipse
+5 "FunctionalOrStructural" ellipse
+6 "NucleicAcid" ellipse
+7 "RNA" ellipse
+8 "Structural" ellipse
+9 "StructuralGene" ellipse
+10 "TumorMarker" ellipse
+11 "INI1" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1428571 l "isa"
+3 1 0.1666667 l "isa"
+1 3 0.5000000 l "isa"
+4 6 0.0086207 l "isa"
+6 4 0.3333333 l "isa"
+6 2 0.3333333 l "isa"
+2 6 0.1428571 l "isa"
+7 6 0.0086957 l "isa"
+6 7 0.3333333 l "isa"
+8 5 0.5000000 l "isa"
+5 8 0.2500000 l "isa"
+9 2 0.3333333 l "isa"
+2 9 0.1428571 l "isa"
+11 9 0.0181818 l "isa"
+9 11 0.3333333 l "isa"
+3 10 0.3333333 l "definition"
+10 3 0.2000000 l "definition"
+10 3 0.2000000 l "definition"
+3 10 0.3333333 l "definition"
+5 8 0.2500000 l "substring"
+8 5 0.5000000 l "substring"
+8 9 0.2500000 l "substring"
+9 8 0.3333333 l "substring"
+4 7 0.0086207 l "distance"
+7 4 0.0086957 l "distance"
+4 11 0.0086207 l "distance"
+11 4 0.0181818 l "distance"
+7 11 0.0086957 l "distance"
+11 7 0.0181818 l "distance"
+*Edges

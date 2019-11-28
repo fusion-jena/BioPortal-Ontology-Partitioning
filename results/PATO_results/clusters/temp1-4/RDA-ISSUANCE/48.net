@@ -1,0 +1,46 @@
+*Vertices 7
+1 "amitriptyline" ellipse
+2 "antidepressants" ellipse
+3 "tricyclic antidepressants" ellipse
+4 "dothiepin" ellipse
+5 "trimipramine" ellipse
+6 "paroxetine" ellipse
+7 "selective serotonin reuptake inhibitor" ellipse
+*Arcs
+1 2 0.4968944 l "isa"
+2 1 0.1705222 l "isa"
+1 3 0.5031056 l "isa"
+3 1 0.1853547 l "isa"
+3 2 0.3752860 l "isa"
+2 3 0.3495706 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2196796 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2196796 l "isa"
+6 2 0.4705882 l "isa"
+2 6 0.1705222 l "isa"
+6 7 0.5294117 l "isa"
+7 6 0.5294117 l "isa"
+7 2 0.4705882 l "isa"
+2 7 0.1705222 l "isa"
+2 3 0.3495706 l "substring"
+3 2 0.3752860 l "substring"
+1 2 0.4968944 l "isa"
+2 1 0.1705222 l "isa"
+1 3 0.5031056 l "isa"
+3 1 0.1853547 l "isa"
+3 2 0.3752860 l "isa"
+2 3 0.3495706 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2196796 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2196796 l "isa"
+6 2 0.4705882 l "isa"
+2 6 0.1705222 l "isa"
+6 7 0.5294117 l "isa"
+7 6 0.5294117 l "isa"
+7 2 0.4705882 l "isa"
+2 7 0.1705222 l "isa"
+2 3 0.3495706 l "substring"
+3 2 0.3752860 l "substring"
+*Edges

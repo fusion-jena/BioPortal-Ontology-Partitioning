@@ -1,0 +1,13 @@
+*Vertices 2
+1 "to remove" ellipse
+2 "to remove material" ellipse
+*Arcs
+2 1 0.5638348 l "isa"
+1 2 0.5613754 l "isa"
+1 2 0.5613754 l "substring"
+2 1 0.5638348 l "substring"
+2 1 0.5638348 l "isa"
+1 2 0.5613754 l "isa"
+1 2 0.5613754 l "substring"
+2 1 0.5638348 l "substring"
+*Edges

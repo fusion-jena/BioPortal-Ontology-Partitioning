@@ -1,0 +1,45 @@
+*Vertices 10
+1 "Concurrent Situations" ellipse
+2 "Date" ellipse
+3 "Event Entity" ellipse
+4 "Non Concurrent Situations" ellipse
+5 "Regularly Recurring Event" ellipse
+6 "Single or Irregular Event" ellipse
+7 "Situation" ellipse
+8 "State" ellipse
+9 "Trial" ellipse
+10 "date"
+*Arcs
+1 7 0.6666667 l "isa"
+7 1 0.2500000 l "isa"
+3 7 0.3333333 l "isa"
+7 3 0.1250000 l "isa"
+4 7 0.3333333 l "isa"
+7 4 0.2500000 l "isa"
+5 3 0.1666667 l "isa"
+3 5 0.3333333 l "isa"
+6 3 0.2500000 l "isa"
+3 6 0.3333333 l "isa"
+8 7 0.3333333 l "isa"
+7 8 0.1250000 l "isa"
+9 10 0.3750000 l "hasCheckpointDate"
+10 9 0.4285714 l "hasCheckpointDate"
+9 10 0.3750000 l "hasEndDate"
+10 9 0.4285714 l "hasEndDate"
+9 10 0.3750000 l "hasStartDate"
+10 9 0.4285714 l "hasStartDate"
+1 4 0.3333333 l "substring"
+4 1 0.1666667 l "substring"
+1 7 0.6666667 l "substring"
+7 1 0.2500000 l "substring"
+2 10 0.1818182 l "substring"
+10 2 0.2857143 l "substring"
+4 7 0.3333333 l "substring"
+7 4 0.2500000 l "substring"
+2 8 0.0909091 l "distance"
+8 2 0.3333333 l "distance"
+2 10 0.1818182 l "distance"
+10 2 0.2857143 l "distance"
+8 10 0.3333333 l "distance"
+10 8 0.1428571 l "distance"
+*Edges

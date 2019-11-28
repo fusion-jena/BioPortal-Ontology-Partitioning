@@ -1,0 +1,34 @@
+*Vertices 7
+1 "homology" ellipse
+2 "structural homology" ellipse
+3 "biological homology" ellipse
+4 "protein structural homology" ellipse
+5 "non functional homology" ellipse
+6 "homotopy" ellipse
+7 "homeosis" ellipse
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 0.0769231 l "isa"
+3 1 0.4000000 l "isa"
+1 3 0.0769231 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.2500000 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.1250000 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.1250000 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.2000000 l "isa"
+1 2 0.0769231 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.0769231 l "substring"
+3 1 0.4000000 l "substring"
+1 4 0.0384615 l "substring"
+4 1 0.3333333 l "substring"
+1 5 0.0384615 l "substring"
+5 1 0.5000000 l "substring"
+2 4 0.2500000 l "substring"
+4 2 0.6666667 l "substring"
+1 6 0.0384615 l "distance"
+6 1 0.5000000 l "distance"
+*Edges

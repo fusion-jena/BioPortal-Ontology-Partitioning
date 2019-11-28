@@ -1,0 +1,7 @@
+*Vertices 2
+1 "number of theoretical plates (chromatography)" ellipse
+2 "number of theoretical plates by tangent method" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+*Edges

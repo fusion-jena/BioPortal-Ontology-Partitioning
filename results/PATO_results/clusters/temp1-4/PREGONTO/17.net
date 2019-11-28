@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Ensemble type" ellipse
+2 "Individual medium of performance" ellipse
+3 "Medium of performance" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.2825715 l "isa"
+2 3 0.7708914 l "isa"
+3 2 0.5609708 l "isa"
+2 3 0.7708914 l "substring"
+3 2 0.5609708 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.2825715 l "isa"
+2 3 0.7708914 l "isa"
+3 2 0.5609708 l "isa"
+2 3 0.7708914 l "substring"
+3 2 0.5609708 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.2825715 l "isa"
+2 3 0.7708914 l "isa"
+3 2 0.5609708 l "isa"
+2 3 0.7708914 l "substring"
+3 2 0.5609708 l "substring"
+*Edges

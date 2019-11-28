@@ -1,0 +1,39 @@
+*Vertices 4
+1 "Aubrac" ellipse
+2 "Duroc" ellipse
+3 "Quarab" ellipse
+4 "Murrah" ellipse
+*Arcs
+1 2 0.1743377 l "distance"
+2 1 0.1249795 l "distance"
+1 3 0.1773645 l "distance"
+3 1 0.1397889 l "distance"
+1 4 0.1862025 l "distance"
+4 1 0.1831852 l "distance"
+3 4 0.1394420 l "distance"
+4 3 0.1740574 l "distance"
+1 2 0.1743377 l "distance"
+2 1 0.1249795 l "distance"
+1 3 0.1773645 l "distance"
+3 1 0.1397889 l "distance"
+1 4 0.1862025 l "distance"
+4 1 0.1831852 l "distance"
+3 4 0.1394420 l "distance"
+4 3 0.1740574 l "distance"
+1 2 0.1743377 l "distance"
+2 1 0.1249795 l "distance"
+1 3 0.1773645 l "distance"
+3 1 0.1397889 l "distance"
+1 4 0.1862025 l "distance"
+4 1 0.1831852 l "distance"
+3 4 0.1394420 l "distance"
+4 3 0.1740574 l "distance"
+1 2 0.1743377 l "distance"
+2 1 0.1249795 l "distance"
+1 3 0.1773645 l "distance"
+3 1 0.1397889 l "distance"
+1 4 0.1862025 l "distance"
+4 1 0.1831852 l "distance"
+3 4 0.1394420 l "distance"
+4 3 0.1740574 l "distance"
+*Edges

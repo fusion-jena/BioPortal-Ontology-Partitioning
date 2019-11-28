@@ -1,0 +1,26 @@
+*Vertices 3
+1 "m2 micromere" ellipse
+2 "m21 micromere" ellipse
+3 "m22 micromere" ellipse
+*Arcs
+2 1 0.0937019 l "definition"
+1 2 0.0686655 l "definition"
+3 1 0.0937019 l "definition"
+1 3 0.0686655 l "definition"
+1 2 0.0686655 l "distance"
+2 1 0.0937019 l "distance"
+1 3 0.0686655 l "distance"
+3 1 0.0937019 l "distance"
+2 3 0.0454033 l "distance"
+3 2 0.0454033 l "distance"
+2 1 0.0937019 l "definition"
+1 2 0.0686655 l "definition"
+3 1 0.0937019 l "definition"
+1 3 0.0686655 l "definition"
+1 2 0.0686655 l "distance"
+2 1 0.0937019 l "distance"
+1 3 0.0686655 l "distance"
+3 1 0.0937019 l "distance"
+2 3 0.0454033 l "distance"
+3 2 0.0454033 l "distance"
+*Edges

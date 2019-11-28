@@ -1,0 +1,53 @@
+*Vertices 12
+1 "Cyclin dependent kinase 5 phosphorylation" ellipse
+2 "DYRK1A phosphorylation" ellipse
+3 "De-phosphorylation" ellipse
+4 "Dimerization" ellipse
+5 "Dyrk1a" ellipse
+6 "Glycosylation" ellipse
+7 "Nitrosylation" ellipse
+8 "Phosphorylation" ellipse
+9 "Post translational modification" ellipse
+10 "Reduced tau phosphorylation" ellipse
+11 "glycogen synthase kinase 3 beta phosphorylation" ellipse
+12 "tau phosphorylation" ellipse
+*Arcs
+1 10 0.5000000 l "isa"
+10 1 0.1428571 l "isa"
+2 12 0.3333333 l "isa"
+12 2 0.2500000 l "isa"
+3 9 0.3333333 l "isa"
+9 3 0.1666667 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.1666667 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.1666667 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.1666667 l "isa"
+8 9 0.0909091 l "isa"
+9 8 0.1666667 l "isa"
+10 8 0.2857143 l "isa"
+8 10 0.1818182 l "isa"
+11 10 0.5000000 l "isa"
+10 11 0.1428571 l "isa"
+12 8 0.5000000 l "isa"
+8 12 0.1818182 l "isa"
+1 8 0.5000000 l "substring"
+8 1 0.0909091 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.1666667 l "substring"
+2 8 0.3333333 l "substring"
+8 2 0.0909091 l "substring"
+3 8 0.6666667 l "substring"
+8 3 0.1818182 l "substring"
+8 10 0.1818182 l "substring"
+10 8 0.2857143 l "substring"
+8 11 0.0909091 l "substring"
+11 8 0.5000000 l "substring"
+8 12 0.1818182 l "substring"
+12 8 0.5000000 l "substring"
+10 12 0.1428571 l "substring"
+12 10 0.2500000 l "substring"
+3 8 0.6666667 l "distance"
+8 3 0.1818182 l "distance"
+*Edges

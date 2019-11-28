@@ -1,0 +1,13 @@
+*Vertices 2
+1 "specimen role" ellipse
+2 "specimen role" ellipse
+*Arcs
+1 2 0.3471287 l "substring"
+2 1 0.1612913 l "substring"
+1 2 0.3471287 l "distance"
+2 1 0.1612913 l "distance"
+1 2 0.3471287 l "substring"
+2 1 0.1612913 l "substring"
+1 2 0.3471287 l "distance"
+2 1 0.1612913 l "distance"
+*Edges

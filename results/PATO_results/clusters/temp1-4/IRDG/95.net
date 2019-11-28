@@ -1,0 +1,22 @@
+*Vertices 3
+1 "ICW-1:01.01.04 Physical Wellness - NOS" ellipse
+2 "ICW-1:01.01 Physical Wellness" ellipse
+3 "ICW-1:01.01.01 Diet" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2532003 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2532003 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2532003 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2532003 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2532003 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2532003 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2532003 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2532003 l "isa"
+*Edges

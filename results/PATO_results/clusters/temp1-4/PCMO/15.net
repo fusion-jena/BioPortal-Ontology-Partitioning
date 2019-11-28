@@ -1,0 +1,13 @@
+*Vertices 2
+1 "name"
+2 "notes"
+*Arcs
+1 2 0.0324417 l "distance"
+2 1 0.3412712 l "distance"
+1 2 0.0324417 l "distance"
+2 1 0.3412712 l "distance"
+1 2 0.0324417 l "distance"
+2 1 0.3412712 l "distance"
+1 2 0.0324417 l "distance"
+2 1 0.3412712 l "distance"
+*Edges

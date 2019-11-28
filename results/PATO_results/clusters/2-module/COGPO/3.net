@@ -1,0 +1,121 @@
+*Vertices 40
+1 "Cued Explicit Recognition Paradigm" ellipse
+2 "Deductive Reasoning Paradigm" ellipse
+3 "Deception Task Paradigm" ellipse
+4 "Divided Auditory Attention Paradigm" ellipse
+5 "Action Observation Paradigm" ellipse
+6 "Behavioral Experimental Paradigm" ellipse
+7 "Delayed Non Match To Sample Paradigm" ellipse
+8 "Encoding Paradigm" ellipse
+9 "Fixation Paradigm" ellipse
+10 "Go/No-Go Paradigm" ellipse
+11 "Face Monitor or Discrimination Paradigm" ellipse
+12 "Flanker Task Paradigm" ellipse
+13 "Film Viewing Paradigm" ellipse
+14 "Orthographic Discrimination Paradigm" ellipse
+15 "Isometric Force Paradigm" ellipse
+16 "Micturition Task Paradigm" ellipse
+17 "Olfactory Monitor/Discrimination Paradigm" ellipse
+18 "Mental Rotation Paradigm" ellipse
+19 "Phonological Discrimination Paradigm" ellipse
+20 "Reward Task Paradigm" ellipse
+21 "Pitch Monitor/Discrimination Paradigm" ellipse
+22 "Posner Task Paradigm" ellipse
+23 "Passive Viewing Paradigm" ellipse
+24 "Passive Listening Paradigm" ellipse
+25 "Semantic Monitor/Discrimination Paradigm" ellipse
+26 "Tone Monitor/Discrimination Paradigm" ellipse
+27 "Transcranial Magnetic Stimulation Paradigm" ellipse
+28 "Stroop Task Paradigm" ellipse
+29 "n-back Paradigm" ellipse
+30 "Video Games Paradigm" ellipse
+31 "Simon Task Paradigm" ellipse
+32 "Wisconsin Card Sorting Test Paradigm" ellipse
+33 "Visual Distractor/Visual Attention Paradigm" ellipse
+34 "Sternberg Task Paradigm" ellipse
+35 "Subjective Emotional Picture Discrimination Paradigm" ellipse
+36 "Theory of Mind Task Paradigm" ellipse
+37 "Syntactic Discrimination Paradigm" ellipse
+38 "Task Switching Paradigm" ellipse
+39 "Spatial/Location Discrimination Paradigm" ellipse
+40 "has_part"
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.0114943 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0114943 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0114943 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0114943 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.0114943 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0114943 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.0114943 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.0114943 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.0114943 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.0114943 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.0114943 l "isa"
+13 6 1.0000000 l "isa"
+6 13 0.0114943 l "isa"
+14 6 1.0000000 l "isa"
+6 14 0.0114943 l "isa"
+15 6 1.0000000 l "isa"
+6 15 0.0114943 l "isa"
+16 6 1.0000000 l "isa"
+6 16 0.0114943 l "isa"
+17 6 1.0000000 l "isa"
+6 17 0.0114943 l "isa"
+18 6 1.0000000 l "isa"
+6 18 0.0114943 l "isa"
+19 6 1.0000000 l "isa"
+6 19 0.0114943 l "isa"
+20 6 1.0000000 l "isa"
+6 20 0.0114943 l "isa"
+21 6 1.0000000 l "isa"
+6 21 0.0114943 l "isa"
+22 6 1.0000000 l "isa"
+6 22 0.0114943 l "isa"
+23 6 1.0000000 l "isa"
+6 23 0.0114943 l "isa"
+24 6 1.0000000 l "isa"
+6 24 0.0114943 l "isa"
+25 6 1.0000000 l "isa"
+6 25 0.0114943 l "isa"
+26 6 1.0000000 l "isa"
+6 26 0.0114943 l "isa"
+27 6 1.0000000 l "isa"
+6 27 0.0114943 l "isa"
+28 6 1.0000000 l "isa"
+6 28 0.0114943 l "isa"
+29 6 1.0000000 l "isa"
+6 29 0.0114943 l "isa"
+30 6 1.0000000 l "isa"
+6 30 0.0114943 l "isa"
+31 6 1.0000000 l "isa"
+6 31 0.0114943 l "isa"
+32 6 1.0000000 l "isa"
+6 32 0.0114943 l "isa"
+33 6 1.0000000 l "isa"
+6 33 0.0114943 l "isa"
+34 6 1.0000000 l "isa"
+6 34 0.0114943 l "isa"
+35 6 1.0000000 l "isa"
+6 35 0.0114943 l "isa"
+36 6 1.0000000 l "isa"
+6 36 0.0114943 l "isa"
+37 6 1.0000000 l "isa"
+6 37 0.0114943 l "isa"
+38 6 1.0000000 l "isa"
+6 38 0.0114943 l "isa"
+39 6 1.0000000 l "isa"
+6 39 0.0114943 l "isa"
+6 40 0.0114943 l "definition"
+40 6 1.0000000 l "definition"
+*Edges

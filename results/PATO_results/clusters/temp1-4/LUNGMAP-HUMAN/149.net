@@ -1,0 +1,30 @@
+*Vertices 3
+1 "glycation" ellipse
+2 "acylation" ellipse
+3 "alkylation" ellipse
+*Arcs
+1 2 0.3408393 l "distance"
+2 1 0.1555145 l "distance"
+1 3 0.3591706 l "distance"
+3 1 0.2105727 l "distance"
+2 3 0.1301523 l "distance"
+3 2 0.1672369 l "distance"
+1 2 0.3408393 l "distance"
+2 1 0.1555145 l "distance"
+1 3 0.3591706 l "distance"
+3 1 0.2105727 l "distance"
+2 3 0.1301523 l "distance"
+3 2 0.1672369 l "distance"
+1 2 0.3408393 l "distance"
+2 1 0.1555145 l "distance"
+1 3 0.3591706 l "distance"
+3 1 0.2105727 l "distance"
+2 3 0.1301523 l "distance"
+3 2 0.1672369 l "distance"
+1 2 0.3408393 l "distance"
+2 1 0.1555145 l "distance"
+1 3 0.3591706 l "distance"
+3 1 0.2105727 l "distance"
+2 3 0.1301523 l "distance"
+3 2 0.1672369 l "distance"
+*Edges

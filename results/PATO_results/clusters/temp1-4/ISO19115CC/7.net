@@ -1,0 +1,9 @@
+*Vertices 2
+1 "source"
+2 "resourceFormat"
+*Arcs
+1 2 0.0372051 l "substring"
+2 1 0.2001579 l "substring"
+1 2 0.0372051 l "substring"
+2 1 0.2001579 l "substring"
+*Edges

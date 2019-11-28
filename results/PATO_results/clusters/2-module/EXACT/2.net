@@ -1,0 +1,54 @@
+*Vertices 15
+1 "IAO_0000300" ellipse
+2 "author identification" ellipse
+3 "alert message" ellipse
+4 "caution" ellipse
+5 "warning" ellipse
+6 "join" ellipse
+7 "boil" ellipse
+8 "critical step" ellipse
+9 "neurotoxic" ellipse
+10 "highly flammable" ellipse
+11 "flammable" ellipse
+12 "toxic" ellipse
+13 "pyrophoric" ellipse
+14 "volatile" ellipse
+15 "citation" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.2000000 l "isa"
+4 3 0.1250000 l "isa"
+3 4 0.2500000 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2500000 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.2500000 l "isa"
+9 4 0.5000000 l "isa"
+4 9 0.1250000 l "isa"
+10 4 0.5000000 l "isa"
+4 10 0.1250000 l "isa"
+11 4 0.5000000 l "isa"
+4 11 0.1250000 l "isa"
+12 4 0.2500000 l "isa"
+4 12 0.1250000 l "isa"
+13 4 1.0000000 l "isa"
+4 13 0.1250000 l "isa"
+14 4 1.0000000 l "isa"
+4 14 0.1250000 l "isa"
+15 1 0.5000000 l "isa"
+1 15 0.2000000 l "isa"
+9 12 0.5000000 l "substring"
+12 9 0.2500000 l "substring"
+10 11 0.5000000 l "substring"
+11 10 0.5000000 l "substring"
+4 15 0.1250000 l "distance"
+15 4 0.5000000 l "distance"
+6 7 0.0500000 l "distance"
+7 6 0.0434783 l "distance"
+6 12 0.0500000 l "distance"
+12 6 0.2500000 l "distance"
+7 12 0.0434783 l "distance"
+12 7 0.2500000 l "distance"
+*Edges

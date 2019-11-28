@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Red Angus" ellipse
+2 "Red Brangus" ellipse
+*Arcs
+1 2 0.4365340 l "distance"
+2 1 0.3521749 l "distance"
+1 2 0.4365340 l "distance"
+2 1 0.3521749 l "distance"
+1 2 0.4365340 l "distance"
+2 1 0.3521749 l "distance"
+1 2 0.4365340 l "distance"
+2 1 0.3521749 l "distance"
+1 2 0.4365340 l "distance"
+2 1 0.3521749 l "distance"
+1 2 0.4365340 l "distance"
+2 1 0.3521749 l "distance"
+*Edges

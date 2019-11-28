@@ -1,0 +1,44 @@
+*Vertices 9
+1 "Acoustic" ellipse
+2 "Acoustic signals" ellipse
+3 "Echolocation" ellipse
+4 "Perception channel" ellipse
+5 "Polar" ellipse
+6 "Polarized light" ellipse
+7 "Ultrasound" ellipse
+8 "Ultraviolet" ellipse
+9 "Vibrations" ellipse
+*Arcs
+1 4 0.4757709 l "isa"
+4 1 0.0734710 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0877570 l "isa"
+6 4 0.3368154 l "isa"
+4 6 0.0687089 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0877570 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.0877570 l "isa"
+9 4 0.3383576 l "isa"
+4 9 0.0687089 l "isa"
+1 2 0.5242291 l "substring"
+2 1 0.3738632 l "substring"
+5 6 0.0734425 l "substring"
+6 5 0.3361485 l "substring"
+1 4 0.4757709 l "isa"
+4 1 0.0734710 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0877570 l "isa"
+6 4 0.3368154 l "isa"
+4 6 0.0687089 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0877570 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.0877570 l "isa"
+9 4 0.3383576 l "isa"
+4 9 0.0687089 l "isa"
+1 2 0.5242291 l "substring"
+2 1 0.3738632 l "substring"
+5 6 0.0734425 l "substring"
+6 5 0.3361485 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 4
+1 "bund" ellipse
+2 "tundra" ellipse
+3 "tephra" ellipse
+4 "vegetated area" ellipse
+*Arcs
+2 4 0.3333333 l "isa"
+4 2 0.0909091 l "isa"
+1 2 0.0250000 l "distance"
+2 1 0.3333333 l "distance"
+2 3 0.3333333 l "distance"
+3 2 0.0769231 l "distance"
+*Edges

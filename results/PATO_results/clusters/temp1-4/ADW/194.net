@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Tangle" ellipse
+2 "neurofibrillary tangle" ellipse
+*Arcs
+2 1 0.2236614 l "isa"
+1 2 0.1768298 l "isa"
+1 2 0.1768298 l "substring"
+2 1 0.2236614 l "substring"
+2 1 0.2236614 l "isa"
+1 2 0.1768298 l "isa"
+1 2 0.1768298 l "substring"
+2 1 0.2236614 l "substring"
+*Edges

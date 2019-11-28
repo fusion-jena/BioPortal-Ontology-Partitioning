@@ -1,0 +1,9 @@
+*Vertices 2
+1 "IntentionalProcess" ellipse
+2 "Suicide" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1355907 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.1355907 l "isa"
+*Edges

@@ -1,0 +1,29 @@
+*Vertices 2
+1 "Egyptian" ellipse
+2 "Egyptian" ellipse
+*Arcs
+1 2 0.8878413 l "substring"
+2 1 0.8760571 l "substring"
+1 2 0.8878413 l "distance"
+2 1 0.8760571 l "distance"
+1 2 0.8878413 l "substring"
+2 1 0.8760571 l "substring"
+1 2 0.8878413 l "distance"
+2 1 0.8760571 l "distance"
+1 2 0.8878413 l "substring"
+2 1 0.8760571 l "substring"
+1 2 0.8878413 l "distance"
+2 1 0.8760571 l "distance"
+1 2 0.8878413 l "substring"
+2 1 0.8760571 l "substring"
+1 2 0.8878413 l "distance"
+2 1 0.8760571 l "distance"
+1 2 0.8878413 l "substring"
+2 1 0.8760571 l "substring"
+1 2 0.8878413 l "distance"
+2 1 0.8760571 l "distance"
+1 2 0.8878413 l "substring"
+2 1 0.8760571 l "substring"
+1 2 0.8878413 l "distance"
+2 1 0.8760571 l "distance"
+*Edges

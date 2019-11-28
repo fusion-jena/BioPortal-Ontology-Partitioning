@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Bassas da India" ellipse
+2 "India" ellipse
+3 "Indian Ocean" ellipse
+*Arcs
+1 2 0.2209671 l "substring"
+2 1 0.1595145 l "substring"
+2 3 0.1595160 l "substring"
+3 2 0.2209852 l "substring"
+1 2 0.2209671 l "substring"
+2 1 0.1595145 l "substring"
+2 3 0.1595160 l "substring"
+3 2 0.2209852 l "substring"
+1 2 0.2209671 l "substring"
+2 1 0.1595145 l "substring"
+2 3 0.1595160 l "substring"
+3 2 0.2209852 l "substring"
+*Edges

@@ -1,0 +1,14 @@
+*Vertices 3
+1 "gender eligibility" ellipse
+2 "lavender" ellipse
+3 "Gender" ellipse
+*Arcs
+1 3 0.3607322 l "substring"
+3 1 0.0776692 l "substring"
+2 3 0.3618066 l "distance"
+3 2 0.0776692 l "distance"
+1 3 0.3607322 l "substring"
+3 1 0.0776692 l "substring"
+2 3 0.3618066 l "distance"
+3 2 0.0776692 l "distance"
+*Edges

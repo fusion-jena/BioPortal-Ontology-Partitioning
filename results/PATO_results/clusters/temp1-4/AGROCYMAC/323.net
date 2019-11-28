@@ -1,0 +1,13 @@
+*Vertices 2
+1 "no-till" ellipse
+2 "tillage" ellipse
+*Arcs
+1 2 0.4304036 l "isa"
+2 1 0.1204718 l "isa"
+2 1 0.1204718 l "definition"
+1 2 0.4304036 l "definition"
+1 2 0.4304036 l "isa"
+2 1 0.1204718 l "isa"
+2 1 0.1204718 l "definition"
+1 2 0.4304036 l "definition"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "codelist" ellipse
+2 "registry" ellipse
+3 "centrally registered identifier registry" ellipse
+*Arcs
+1 2 0.3530427 l "isa"
+2 1 0.2362805 l "isa"
+3 2 0.5562232 l "isa"
+2 3 0.5487805 l "isa"
+2 3 0.5487805 l "substring"
+3 2 0.5562232 l "substring"
+1 2 0.3530427 l "isa"
+2 1 0.2362805 l "isa"
+3 2 0.5562232 l "isa"
+2 3 0.5487805 l "isa"
+2 3 0.5487805 l "substring"
+3 2 0.5562232 l "substring"
+*Edges

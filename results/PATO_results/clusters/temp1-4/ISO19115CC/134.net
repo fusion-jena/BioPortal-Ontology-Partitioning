@@ -1,0 +1,13 @@
+*Vertices 2
+1 "specification"
+2 "specification"
+*Arcs
+1 2 0.4490402 l "substring"
+2 1 0.4507973 l "substring"
+1 2 0.4490402 l "distance"
+2 1 0.4507973 l "distance"
+1 2 0.4490402 l "substring"
+2 1 0.4507973 l "substring"
+1 2 0.4490402 l "distance"
+2 1 0.4507973 l "distance"
+*Edges

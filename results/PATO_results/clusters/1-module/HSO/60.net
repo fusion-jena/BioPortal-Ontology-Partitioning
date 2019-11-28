@@ -1,0 +1,9 @@
+*Vertices 2
+1 "data item" ellipse
+2 "data set" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.4000000 l "isa"
+1 2 0.4000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

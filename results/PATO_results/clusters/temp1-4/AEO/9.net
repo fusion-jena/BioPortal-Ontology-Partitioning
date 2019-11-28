@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Alpha secretase" ellipse
+2 "secretase" ellipse
+3 "stimulation of alpha-secretase" ellipse
+*Arcs
+1 2 0.3702868 l "isa"
+2 1 0.1332090 l "isa"
+1 2 0.3702868 l "substring"
+2 1 0.1332090 l "substring"
+2 3 0.0642295 l "substring"
+3 2 0.3605824 l "substring"
+1 2 0.3702868 l "isa"
+2 1 0.1332090 l "isa"
+1 2 0.3702868 l "substring"
+2 1 0.1332090 l "substring"
+2 3 0.0642295 l "substring"
+3 2 0.3605824 l "substring"
+1 2 0.3702868 l "isa"
+2 1 0.1332090 l "isa"
+1 2 0.3702868 l "substring"
+2 1 0.1332090 l "substring"
+2 3 0.0642295 l "substring"
+3 2 0.3605824 l "substring"
+*Edges

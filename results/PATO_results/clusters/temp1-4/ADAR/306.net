@@ -1,0 +1,33 @@
+*Vertices 2
+1 "IndependentContinuant" ellipse
+2 "ObjectAggregate" ellipse
+*Arcs
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "subsystemOf"
+1 1 0.1104215 l "subsystemOf"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "subsystemOf"
+1 1 0.1104215 l "subsystemOf"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "subsystemOf"
+1 1 0.1104215 l "subsystemOf"
+2 1 0.2258684 l "isa"
+1 2 0.0264644 l "isa"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "hasSubsystem"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "stores"
+1 1 0.1104215 l "subsystemOf"
+1 1 0.1104215 l "subsystemOf"
+1 2 0.0264644 l "definition"
+2 1 0.2258684 l "definition"
+*Edges

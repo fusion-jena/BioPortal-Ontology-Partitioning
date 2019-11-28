@@ -1,0 +1,13 @@
+*Vertices 4
+1 "BiZygotic" ellipse
+2 "MonoZygotic" ellipse
+3 "TwinGeneticType" ellipse
+4 "TwinType" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3333333 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.3333333 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.2500000 l "isa"
+*Edges

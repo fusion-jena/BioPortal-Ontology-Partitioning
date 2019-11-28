@@ -1,0 +1,36 @@
+*Vertices 3
+1 "MAS1" ellipse
+2 "MAS1L" ellipse
+3 "RNASEL" ellipse
+*Arcs
+1 2 0.0606463 l "substring"
+2 1 0.1541891 l "substring"
+1 2 0.0606463 l "distance"
+2 1 0.1541891 l "distance"
+2 3 0.1002313 l "distance"
+3 2 0.1621218 l "distance"
+1 2 0.0606463 l "substring"
+2 1 0.1541891 l "substring"
+1 2 0.0606463 l "distance"
+2 1 0.1541891 l "distance"
+2 3 0.1002313 l "distance"
+3 2 0.1621218 l "distance"
+1 2 0.0606463 l "substring"
+2 1 0.1541891 l "substring"
+1 2 0.0606463 l "distance"
+2 1 0.1541891 l "distance"
+2 3 0.1002313 l "distance"
+3 2 0.1621218 l "distance"
+1 2 0.0606463 l "substring"
+2 1 0.1541891 l "substring"
+1 2 0.0606463 l "distance"
+2 1 0.1541891 l "distance"
+2 3 0.1002313 l "distance"
+3 2 0.1621218 l "distance"
+1 2 0.0606463 l "substring"
+2 1 0.1541891 l "substring"
+1 2 0.0606463 l "distance"
+2 1 0.1541891 l "distance"
+2 3 0.1002313 l "distance"
+3 2 0.1621218 l "distance"
+*Edges

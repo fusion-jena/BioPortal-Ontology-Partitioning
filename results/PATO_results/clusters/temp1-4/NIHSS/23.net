@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasDoseForN"
+2 "hasDoseForT"
+*Arcs
+1 2 0.3144135 l "distance"
+2 1 0.3144135 l "distance"
+1 2 0.3144135 l "distance"
+2 1 0.3144135 l "distance"
+1 2 0.3144135 l "distance"
+2 1 0.3144135 l "distance"
+1 2 0.3144135 l "distance"
+2 1 0.3144135 l "distance"
+*Edges

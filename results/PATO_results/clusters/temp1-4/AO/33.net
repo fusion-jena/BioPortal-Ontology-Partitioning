@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ATTHM" ellipse
+2 "WKTHN" ellipse
+*Arcs
+1 2 0.0640224 l "distance"
+2 1 0.0960167 l "distance"
+1 2 0.0640224 l "distance"
+2 1 0.0960167 l "distance"
+1 2 0.0640224 l "distance"
+2 1 0.0960167 l "distance"
+1 2 0.0640224 l "distance"
+2 1 0.0960167 l "distance"
+*Edges

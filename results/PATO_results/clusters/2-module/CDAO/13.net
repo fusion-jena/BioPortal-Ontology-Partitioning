@@ -1,0 +1,13 @@
+*Vertices 4
+1 "TimeCalibratedLengthType" ellipse
+2 "EdgeLengthType" ellipse
+3 "TimeProportionalLengthType" ellipse
+4 "GrafenLengthType" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1111111 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1111111 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1111111 l "isa"
+*Edges

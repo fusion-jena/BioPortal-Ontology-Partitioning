@@ -1,0 +1,22 @@
+*Vertices 3
+1 "seeding process" ellipse
+2 "sowing implement" ellipse
+3 "drum seeder" ellipse
+*Arcs
+3 2 0.2036861 l "isa"
+2 3 0.0807620 l "isa"
+1 2 0.1507919 l "definition"
+2 1 0.1629272 l "definition"
+2 1 0.1629272 l "definition"
+1 2 0.1507919 l "definition"
+3 1 0.2031946 l "definition"
+1 3 0.0745662 l "definition"
+3 2 0.2036861 l "isa"
+2 3 0.0807620 l "isa"
+1 2 0.1507919 l "definition"
+2 1 0.1629272 l "definition"
+2 1 0.1629272 l "definition"
+1 2 0.1507919 l "definition"
+3 1 0.2031946 l "definition"
+1 3 0.0745662 l "definition"
+*Edges

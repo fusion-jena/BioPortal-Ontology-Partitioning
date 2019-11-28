@@ -1,0 +1,18 @@
+*Vertices 3
+1 "level"
+2 "hierarchyLevel"
+3 "hierarchyLevelName"
+*Arcs
+1 2 0.0700677 l "substring"
+2 1 0.2620225 l "substring"
+1 3 0.0632845 l "substring"
+3 1 0.0925593 l "substring"
+2 3 0.2645312 l "substring"
+3 2 0.1034614 l "substring"
+1 2 0.0700677 l "substring"
+2 1 0.2620225 l "substring"
+1 3 0.0632845 l "substring"
+3 1 0.0925593 l "substring"
+2 3 0.2645312 l "substring"
+3 2 0.1034614 l "substring"
+*Edges

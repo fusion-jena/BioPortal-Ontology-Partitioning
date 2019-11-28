@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Karan Fries" ellipse
+2 "Karan Swiss" ellipse
+*Arcs
+1 2 0.5450994 l "distance"
+2 1 0.5450994 l "distance"
+1 2 0.5450994 l "distance"
+2 1 0.5450994 l "distance"
+*Edges

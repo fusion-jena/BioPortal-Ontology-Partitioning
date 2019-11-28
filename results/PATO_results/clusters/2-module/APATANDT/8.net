@@ -1,0 +1,40 @@
+*Vertices 13
+1 "Bender_Gestalt_Test" ellipse
+2 "Childrens_Apperception_Test" ellipse
+3 "Holtzman_Inkblot_Technique" ellipse
+4 "Human_Figures_Drawing" ellipse
+5 "Projective_Techniques" ellipse
+6 "Rorschach_Test" ellipse
+7 "Rosenzweig_Picture_Frustration_Study" ellipse
+8 "Rotter_Incomplete_Sentences_Blank" ellipse
+9 "Sentence_Completion_Tests" ellipse
+10 "Szondi_Test" ellipse
+11 "Thematic_Apperception_Test" ellipse
+12 "Zulliger_Z_Test" ellipse
+13 "ProjectivePersonalityMeasures" ellipse
+*Arcs
+1 13 1.0000000 l "isa"
+13 1 0.0555556 l "isa"
+2 13 1.0000000 l "isa"
+13 2 0.0555556 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.0555556 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.0555556 l "isa"
+5 13 1.0000000 l "isa"
+13 5 0.0555556 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.0555556 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.0555556 l "isa"
+8 13 1.0000000 l "isa"
+13 8 0.0555556 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.0555556 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.0555556 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.0555556 l "isa"
+12 13 1.0000000 l "isa"
+13 12 0.0555556 l "isa"
+*Edges

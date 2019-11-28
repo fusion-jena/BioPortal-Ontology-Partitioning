@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Red Poll" ellipse
+2 "Red Polled Ostland" ellipse
+3 "Swedish Red Polled" ellipse
+4 "Vestland Red Polled" ellipse
+*Arcs
+1 2 0.2919445 l "substring"
+2 1 0.6112114 l "substring"
+1 3 0.2919445 l "substring"
+3 1 0.6112114 l "substring"
+1 4 0.2919445 l "substring"
+4 1 0.6112114 l "substring"
+1 2 0.2919445 l "substring"
+2 1 0.6112114 l "substring"
+1 3 0.2919445 l "substring"
+3 1 0.6112114 l "substring"
+1 4 0.2919445 l "substring"
+4 1 0.6112114 l "substring"
+1 2 0.2919445 l "substring"
+2 1 0.6112114 l "substring"
+1 3 0.2919445 l "substring"
+3 1 0.6112114 l "substring"
+1 4 0.2919445 l "substring"
+4 1 0.6112114 l "substring"
+1 2 0.2919445 l "substring"
+2 1 0.6112114 l "substring"
+1 3 0.2919445 l "substring"
+3 1 0.6112114 l "substring"
+1 4 0.2919445 l "substring"
+4 1 0.6112114 l "substring"
+1 2 0.2919445 l "substring"
+2 1 0.6112114 l "substring"
+1 3 0.2919445 l "substring"
+3 1 0.6112114 l "substring"
+1 4 0.2919445 l "substring"
+4 1 0.6112114 l "substring"
+1 2 0.2919445 l "substring"
+2 1 0.6112114 l "substring"
+1 3 0.2919445 l "substring"
+3 1 0.6112114 l "substring"
+1 4 0.2919445 l "substring"
+4 1 0.6112114 l "substring"
+*Edges

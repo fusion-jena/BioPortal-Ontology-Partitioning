@@ -1,0 +1,13 @@
+*Vertices 2
+1 "T4" ellipse
+2 "T4" ellipse
+*Arcs
+1 2 0.0753959 l "substring"
+2 1 0.0767583 l "substring"
+1 2 0.0753959 l "distance"
+2 1 0.0767583 l "distance"
+1 2 0.0753959 l "substring"
+2 1 0.0767583 l "substring"
+1 2 0.0753959 l "distance"
+2 1 0.0767583 l "distance"
+*Edges

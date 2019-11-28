@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Masochistic_Personality" ellipse
+2 "Sadomasochistic_Personality" ellipse
+*Arcs
+1 2 0.3946063 l "substring"
+2 1 0.3946063 l "substring"
+1 2 0.3946063 l "substring"
+2 1 0.3946063 l "substring"
+1 2 0.3946063 l "substring"
+2 1 0.3946063 l "substring"
+*Edges

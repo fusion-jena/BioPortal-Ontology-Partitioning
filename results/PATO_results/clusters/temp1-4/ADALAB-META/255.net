@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Height" ellipse
+2 "hasHeight"
+3 "heightOf"
+*Arcs
+1 2 0.1776574 l "substring"
+2 1 0.2411901 l "substring"
+1 3 0.1823792 l "substring"
+3 1 0.3112437 l "substring"
+1 2 0.1776574 l "distance"
+2 1 0.2411901 l "distance"
+1 3 0.1823792 l "distance"
+3 1 0.3112437 l "distance"
+1 2 0.1776574 l "substring"
+2 1 0.2411901 l "substring"
+1 3 0.1823792 l "substring"
+3 1 0.3112437 l "substring"
+1 2 0.1776574 l "distance"
+2 1 0.2411901 l "distance"
+1 3 0.1823792 l "distance"
+3 1 0.3112437 l "distance"
+*Edges

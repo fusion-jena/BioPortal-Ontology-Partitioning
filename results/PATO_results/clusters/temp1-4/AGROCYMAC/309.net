@@ -1,0 +1,33 @@
+*Vertices 6
+1 "morphology" ellipse
+2 "smoke" ellipse
+3 "combustion process" ellipse
+4 "thermolysis" ellipse
+5 "material transformation process" ellipse
+6 "amorphous" ellipse
+*Arcs
+3 4 0.1463362 l "isa"
+4 3 0.4983051 l "isa"
+4 5 0.5016949 l "isa"
+5 4 0.1681637 l "isa"
+6 1 0.2053829 l "isa"
+1 6 0.0929041 l "isa"
+2 6 0.0282878 l "definition"
+6 2 0.2001266 l "definition"
+2 3 0.0585149 l "definition"
+3 2 0.2567302 l "definition"
+3 2 0.2567302 l "definition"
+2 3 0.0585149 l "definition"
+3 4 0.1463362 l "isa"
+4 3 0.4983051 l "isa"
+4 5 0.5016949 l "isa"
+5 4 0.1681637 l "isa"
+6 1 0.2053829 l "isa"
+1 6 0.0929041 l "isa"
+2 6 0.0282878 l "definition"
+6 2 0.2001266 l "definition"
+2 3 0.0585149 l "definition"
+3 2 0.2567302 l "definition"
+3 2 0.2567302 l "definition"
+2 3 0.0585149 l "definition"
+*Edges

@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Foetal death rate" ellipse
+2 "Mortility rate" ellipse
+3 "rate" ellipse
+*Arcs
+1 2 0.3435628 l "isa"
+2 1 0.0707677 l "isa"
+2 3 0.1146726 l "isa"
+3 2 0.0204763 l "isa"
+1 3 0.3288063 l "substring"
+3 1 0.0120937 l "substring"
+2 3 0.1146726 l "substring"
+3 2 0.0204763 l "substring"
+1 2 0.3435628 l "isa"
+2 1 0.0707677 l "isa"
+2 3 0.1146726 l "isa"
+3 2 0.0204763 l "isa"
+1 3 0.3288063 l "substring"
+3 1 0.0120937 l "substring"
+2 3 0.1146726 l "substring"
+3 2 0.0204763 l "substring"
+1 2 0.3435628 l "isa"
+2 1 0.0707677 l "isa"
+2 3 0.1146726 l "isa"
+3 2 0.0204763 l "isa"
+1 3 0.3288063 l "substring"
+3 1 0.0120937 l "substring"
+2 3 0.1146726 l "substring"
+3 2 0.0204763 l "substring"
+*Edges

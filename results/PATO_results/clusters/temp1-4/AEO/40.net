@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Cooperative breeding" ellipse
+2 "Mating system keyword" ellipse
+3 "Monogamous" ellipse
+*Arcs
+1 2 0.3415084 l "isa"
+2 1 0.0952085 l "isa"
+3 2 0.3417426 l "isa"
+2 3 0.0952085 l "isa"
+1 2 0.3415084 l "isa"
+2 1 0.0952085 l "isa"
+3 2 0.3417426 l "isa"
+2 3 0.0952085 l "isa"
+*Edges

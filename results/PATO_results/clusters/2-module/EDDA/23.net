@@ -1,0 +1,9 @@
+*Vertices 2
+1 "diagnostic test accuracy study" ellipse
+2 "test accuracy study" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.6666667 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.6666667 l "substring"
+*Edges

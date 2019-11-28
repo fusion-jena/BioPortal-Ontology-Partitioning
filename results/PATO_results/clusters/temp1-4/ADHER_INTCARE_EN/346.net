@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Occasional_placement_of_others_hand_on_objects" ellipse
+2 "useofotherbodytocomm_Occasional_placement_of_others_hand_on_objects"
+*Arcs
+1 2 0.1729315 l "substring"
+2 1 0.1326927 l "substring"
+1 2 0.1729315 l "substring"
+2 1 0.1326927 l "substring"
+*Edges

@@ -1,0 +1,35 @@
+*Vertices 4
+1 "Vitamin B12 test" ellipse
+2 "vitamin B" ellipse
+3 "vitamin B12" ellipse
+4 "vitamin B6" ellipse
+*Arcs
+1 2 0.2057085 l "substring"
+2 1 0.0692658 l "substring"
+1 3 0.2092249 l "substring"
+3 1 0.1062897 l "substring"
+2 3 0.1411365 l "substring"
+3 2 0.2129368 l "substring"
+2 4 0.1411365 l "substring"
+4 2 0.2120564 l "substring"
+2 3 0.1411365 l "distance"
+3 2 0.2129368 l "distance"
+2 4 0.1411365 l "distance"
+4 2 0.2120564 l "distance"
+3 4 0.1000374 l "distance"
+4 3 0.0996238 l "distance"
+1 2 0.2057085 l "substring"
+2 1 0.0692658 l "substring"
+1 3 0.2092249 l "substring"
+3 1 0.1062897 l "substring"
+2 3 0.1411365 l "substring"
+3 2 0.2129368 l "substring"
+2 4 0.1411365 l "substring"
+4 2 0.2120564 l "substring"
+2 3 0.1411365 l "distance"
+3 2 0.2129368 l "distance"
+2 4 0.1411365 l "distance"
+4 2 0.2120564 l "distance"
+3 4 0.1000374 l "distance"
+4 3 0.0996238 l "distance"
+*Edges

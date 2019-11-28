@@ -1,0 +1,175 @@
+*Vertices 34
+1 "Alcohol withdrawal seizures" ellipse
+2 "Atonic seizure" ellipse
+3 "Atypical absence seizure" ellipse
+4 "Benign neonatal seizures" ellipse
+5 "Clonic Seizure" ellipse
+6 "Clonic seizure without tonic features" ellipse
+7 "Clonic seizure with tonic features" ellipse
+8 "Crises induzidas por fármacos ou outros químicos" ellipse
+9 "Crises febris" ellipse
+10 "Crise focal motora" ellipse
+11 "Crise focal motora com crises motoras tónicas assimétricas" ellipse
+12 "Crise focal motora com sinais motores clónicos elementares" ellipse
+13 "Crise focal motora com mioclonia negativa focal" ellipse
+14 "Crise focal motora com automatismos hipercinéticos" ellipse
+15 "Crise focal motora com crises motoras inibitórias" ellipse
+16 "Crise focal" ellipse
+17 "Crise gelástica" ellipse
+18 "Crise Generalizada" ellipse
+19 "Crise hemiclónicas" ellipse
+20 "Crises pós-traumáticas imediatas ou precoces" ellipse
+21 "Massive bilateral myoclonus" ellipse
+22 "Crise de ausência mioclónica" ellipse
+23 "Crise atónico-mioclónica" ellipse
+24 "Crise mioclónica" ellipse
+25 "Mioclonia negativa" ellipse
+26 "Crise secundariamente generalizadas" ellipse
+27 "Crise" ellipse
+28 "Crises que não obrigam necessariamente ao diagnóstico de Epilepsia" ellipse
+29 "Crises isoladas ou grupos isolados de crises" ellipse
+30 "Espasmos" ellipse
+31 "Crise tónico-clónicas" ellipse
+32 "Crise tónica" ellipse
+33 "Crise de ausência típica" ellipse
+34 "Crise reflexa em síndromos epilépticos focais" ellipse
+*Arcs
+1 28 1.0000000 l "isa"
+28 1 0.0909091 l "isa"
+2 18 0.5000000 l "isa"
+18 2 0.0625000 l "isa"
+3 18 1.0000000 l "isa"
+18 3 0.0625000 l "isa"
+4 28 1.0000000 l "isa"
+28 4 0.0909091 l "isa"
+5 18 0.1666667 l "isa"
+18 5 0.0625000 l "isa"
+6 5 0.6666667 l "isa"
+5 6 0.3333333 l "isa"
+7 5 0.6666667 l "isa"
+5 7 0.3333333 l "isa"
+8 28 0.5000000 l "isa"
+28 8 0.0909091 l "isa"
+9 28 0.5000000 l "isa"
+28 9 0.0909091 l "isa"
+10 16 0.1333333 l "isa"
+16 10 0.1111111 l "isa"
+11 10 0.5000000 l "isa"
+10 11 0.1333333 l "isa"
+12 10 0.5000000 l "isa"
+10 12 0.1333333 l "isa"
+13 10 0.4000000 l "isa"
+10 13 0.1333333 l "isa"
+14 10 0.4000000 l "isa"
+10 14 0.1333333 l "isa"
+15 10 0.5000000 l "isa"
+10 15 0.1333333 l "isa"
+17 16 0.5000000 l "isa"
+16 17 0.0555556 l "isa"
+19 16 0.5000000 l "isa"
+16 19 0.0555556 l "isa"
+20 28 0.5000000 l "isa"
+28 20 0.0909091 l "isa"
+21 18 1.0000000 l "isa"
+18 21 0.0625000 l "isa"
+22 18 0.5000000 l "isa"
+18 22 0.0625000 l "isa"
+23 18 0.5000000 l "isa"
+18 23 0.0625000 l "isa"
+24 18 0.5000000 l "isa"
+18 24 0.0625000 l "isa"
+25 18 0.5000000 l "isa"
+18 25 0.0625000 l "isa"
+26 16 0.5000000 l "isa"
+16 26 0.0555556 l "isa"
+29 28 0.5000000 l "isa"
+28 29 0.0909091 l "isa"
+30 18 1.0000000 l "isa"
+18 30 0.0625000 l "isa"
+31 18 0.5000000 l "isa"
+18 31 0.0625000 l "isa"
+32 18 0.5000000 l "isa"
+18 32 0.0625000 l "isa"
+33 18 0.5000000 l "isa"
+18 33 0.0625000 l "isa"
+34 16 0.5000000 l "isa"
+16 34 0.0555556 l "isa"
+5 6 0.3333333 l "substring"
+6 5 0.6666667 l "substring"
+5 7 0.3333333 l "substring"
+7 5 0.6666667 l "substring"
+8 27 0.5000000 l "substring"
+27 8 0.0294118 l "substring"
+9 27 0.5000000 l "substring"
+27 9 0.0294118 l "substring"
+10 11 0.1333333 l "substring"
+11 10 0.5000000 l "substring"
+10 12 0.1333333 l "substring"
+12 10 0.5000000 l "substring"
+10 13 0.1333333 l "substring"
+13 10 0.4000000 l "substring"
+10 14 0.1333333 l "substring"
+14 10 0.4000000 l "substring"
+10 15 0.1333333 l "substring"
+15 10 0.5000000 l "substring"
+10 16 0.1333333 l "substring"
+16 10 0.1111111 l "substring"
+10 27 0.0666667 l "substring"
+27 10 0.0294118 l "substring"
+11 16 0.2500000 l "substring"
+16 11 0.0555556 l "substring"
+11 27 0.2500000 l "substring"
+27 11 0.0294118 l "substring"
+12 16 0.2500000 l "substring"
+16 12 0.0555556 l "substring"
+12 27 0.2500000 l "substring"
+27 12 0.0294118 l "substring"
+13 16 0.2000000 l "substring"
+16 13 0.0555556 l "substring"
+13 25 0.2000000 l "substring"
+25 13 0.5000000 l "substring"
+13 27 0.2000000 l "substring"
+27 13 0.0294118 l "substring"
+14 16 0.2000000 l "substring"
+16 14 0.0555556 l "substring"
+14 27 0.2000000 l "substring"
+27 14 0.0294118 l "substring"
+15 16 0.2500000 l "substring"
+16 15 0.0555556 l "substring"
+15 27 0.2500000 l "substring"
+27 15 0.0294118 l "substring"
+16 27 0.0555556 l "substring"
+27 16 0.0294118 l "substring"
+17 27 0.5000000 l "substring"
+27 17 0.0294118 l "substring"
+18 27 0.0625000 l "substring"
+27 18 0.0294118 l "substring"
+19 27 0.5000000 l "substring"
+27 19 0.0294118 l "substring"
+20 27 0.5000000 l "substring"
+27 20 0.0294118 l "substring"
+22 27 0.5000000 l "substring"
+27 22 0.0294118 l "substring"
+23 27 0.5000000 l "substring"
+27 23 0.0294118 l "substring"
+24 27 0.5000000 l "substring"
+27 24 0.0294118 l "substring"
+26 27 0.5000000 l "substring"
+27 26 0.0294118 l "substring"
+27 28 0.0294118 l "substring"
+28 27 0.0909091 l "substring"
+27 29 0.0294118 l "substring"
+29 27 0.5000000 l "substring"
+27 31 0.0294118 l "substring"
+31 27 0.5000000 l "substring"
+27 32 0.0294118 l "substring"
+32 27 0.5000000 l "substring"
+27 33 0.0294118 l "substring"
+33 27 0.5000000 l "substring"
+27 34 0.0294118 l "substring"
+34 27 0.5000000 l "substring"
+2 5 0.5000000 l "distance"
+5 2 0.1666667 l "distance"
+6 7 0.3333333 l "distance"
+7 6 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Active Learning" ellipse
+2 "Machine Learning" ellipse
+*Arcs
+1 2 0.3095582 l "isa"
+2 1 0.1309775 l "isa"
+1 2 0.3095582 l "distance"
+2 1 0.1309775 l "distance"
+1 2 0.3095582 l "isa"
+2 1 0.1309775 l "isa"
+1 2 0.3095582 l "distance"
+2 1 0.1309775 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "procedure specification" ellipse
+2 "sequential procedure specification" ellipse
+*Arcs
+2 1 0.3062259 l "isa"
+1 2 0.3427483 l "isa"
+1 2 0.3427483 l "substring"
+2 1 0.3062259 l "substring"
+2 1 0.3062259 l "isa"
+1 2 0.3427483 l "isa"
+1 2 0.3427483 l "substring"
+2 1 0.3062259 l "substring"
+2 1 0.3062259 l "isa"
+1 2 0.3427483 l "isa"
+1 2 0.3427483 l "substring"
+2 1 0.3062259 l "substring"
+*Edges

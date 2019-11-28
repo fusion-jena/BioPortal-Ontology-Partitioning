@@ -1,0 +1,18 @@
+*Vertices 3
+1 "thermal conductivity detector" ellipse
+2 "thermal conductivity measurement" ellipse
+3 "thermal conductivity" ellipse
+*Arcs
+1 3 0.2134288 l "substring"
+3 1 0.2093915 l "substring"
+2 3 0.2189683 l "substring"
+3 2 0.2097683 l "substring"
+1 3 0.2134288 l "substring"
+3 1 0.2093915 l "substring"
+2 3 0.2189683 l "substring"
+3 2 0.2097683 l "substring"
+1 3 0.2134288 l "substring"
+3 1 0.2093915 l "substring"
+2 3 0.2189683 l "substring"
+3 2 0.2097683 l "substring"
+*Edges

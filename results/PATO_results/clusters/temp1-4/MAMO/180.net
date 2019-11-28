@@ -1,0 +1,30 @@
+*Vertices 3
+1 "respiratory immune system" ellipse
+2 "lymphoid tissue" ellipse
+3 "bronchus-associated lymphoid tissue" ellipse
+*Arcs
+2 1 0.1643101 l "definition"
+1 2 0.2215060 l "definition"
+3 2 0.3649176 l "definition"
+2 3 0.4359343 l "definition"
+2 3 0.4359343 l "substring"
+3 2 0.3649176 l "substring"
+2 1 0.1643101 l "definition"
+1 2 0.2215060 l "definition"
+3 2 0.3649176 l "definition"
+2 3 0.4359343 l "definition"
+2 3 0.4359343 l "substring"
+3 2 0.3649176 l "substring"
+2 1 0.1643101 l "definition"
+1 2 0.2215060 l "definition"
+3 2 0.3649176 l "definition"
+2 3 0.4359343 l "definition"
+2 3 0.4359343 l "substring"
+3 2 0.3649176 l "substring"
+2 1 0.1643101 l "definition"
+1 2 0.2215060 l "definition"
+3 2 0.3649176 l "definition"
+2 3 0.4359343 l "definition"
+2 3 0.4359343 l "substring"
+3 2 0.3649176 l "substring"
+*Edges

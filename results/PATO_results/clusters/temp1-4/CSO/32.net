@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Co-Principal_Investigator" ellipse
+2 "Principal_Investigator" ellipse
+*Arcs
+1 2 0.8110359 l "substring"
+2 1 0.8110359 l "substring"
+1 2 0.8110359 l "distance"
+2 1 0.8110359 l "distance"
+1 2 0.8110359 l "substring"
+2 1 0.8110359 l "substring"
+1 2 0.8110359 l "distance"
+2 1 0.8110359 l "distance"
+1 2 0.8110359 l "substring"
+2 1 0.8110359 l "substring"
+1 2 0.8110359 l "distance"
+2 1 0.8110359 l "distance"
+1 2 0.8110359 l "substring"
+2 1 0.8110359 l "substring"
+1 2 0.8110359 l "distance"
+2 1 0.8110359 l "distance"
+*Edges

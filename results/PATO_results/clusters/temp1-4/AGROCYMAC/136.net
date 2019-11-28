@@ -1,0 +1,59 @@
+*Vertices 8
+1 "irrigation process" ellipse
+2 "localized irrigation process" ellipse
+3 "pitcher irrigation process" ellipse
+4 "sprinkler irrigation process" ellipse
+5 "sub-irrigation process" ellipse
+6 "surface irrigation process" ellipse
+7 "uncontrolled flooding process" ellipse
+8 "flooding" ellipse
+*Arcs
+2 1 0.2544703 l "isa"
+1 2 0.0697640 l "isa"
+3 2 0.2591072 l "isa"
+2 3 0.1304389 l "isa"
+4 1 0.4228781 l "isa"
+1 4 0.0742811 l "isa"
+5 1 0.3467935 l "isa"
+1 5 0.0722735 l "isa"
+6 1 0.2565052 l "isa"
+1 6 0.0697640 l "isa"
+7 6 0.2574003 l "isa"
+6 7 0.1314820 l "isa"
+1 2 0.0697640 l "substring"
+2 1 0.2544703 l "substring"
+1 3 0.0343801 l "substring"
+3 1 0.2491066 l "substring"
+1 4 0.0742811 l "substring"
+4 1 0.4228781 l "substring"
+1 5 0.0722735 l "substring"
+5 1 0.3467935 l "substring"
+1 6 0.0697640 l "substring"
+6 1 0.2565052 l "substring"
+7 8 0.2498740 l "substring"
+8 7 0.0598284 l "substring"
+2 1 0.2544703 l "isa"
+1 2 0.0697640 l "isa"
+3 2 0.2591072 l "isa"
+2 3 0.1304389 l "isa"
+4 1 0.4228781 l "isa"
+1 4 0.0742811 l "isa"
+5 1 0.3467935 l "isa"
+1 5 0.0722735 l "isa"
+6 1 0.2565052 l "isa"
+1 6 0.0697640 l "isa"
+7 6 0.2574003 l "isa"
+6 7 0.1314820 l "isa"
+1 2 0.0697640 l "substring"
+2 1 0.2544703 l "substring"
+1 3 0.0343801 l "substring"
+3 1 0.2491066 l "substring"
+1 4 0.0742811 l "substring"
+4 1 0.4228781 l "substring"
+1 5 0.0722735 l "substring"
+5 1 0.3467935 l "substring"
+1 6 0.0697640 l "substring"
+6 1 0.2565052 l "substring"
+7 8 0.2498740 l "substring"
+8 7 0.0598284 l "substring"
+*Edges

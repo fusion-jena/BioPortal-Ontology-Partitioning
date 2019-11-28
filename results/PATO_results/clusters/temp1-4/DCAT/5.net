@@ -1,0 +1,14 @@
+*Vertices 3
+1 "averageHeartRate" ellipse
+2 "heartRateMonitor" ellipse
+3 "maximunHeartRate" ellipse
+*Arcs
+1 2 0.3043478 l "isa"
+2 1 0.2333333 l "isa"
+3 2 0.3043478 l "isa"
+2 3 0.2333333 l "isa"
+1 2 0.3043478 l "isa"
+2 1 0.2333333 l "isa"
+3 2 0.3043478 l "isa"
+2 3 0.2333333 l "isa"
+*Edges

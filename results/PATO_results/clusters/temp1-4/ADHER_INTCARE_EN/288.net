@@ -1,0 +1,15 @@
+*Vertices 2
+1 "BodyMassIndex" ellipse
+2 "hasFloatValue"
+*Arcs
+1 2 0.2200623 l "definition"
+2 1 0.0920129 l "definition"
+1 2 0.2200623 l "definition"
+2 1 0.0920129 l "definition"
+1 2 0.2200623 l "definition"
+2 1 0.0920129 l "definition"
+1 2 0.2200623 l "definition"
+2 1 0.0920129 l "definition"
+1 2 0.2200623 l "definition"
+2 1 0.0920129 l "definition"
+*Edges

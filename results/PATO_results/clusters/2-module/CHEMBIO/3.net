@@ -1,0 +1,27 @@
+*Vertices 6
+1 "Complex" ellipse
+2 "Dna" ellipse
+3 "DnaRegion" ellipse
+4 "PhysicalEntity" ellipse
+5 "Rna" ellipse
+6 "RnaRegion" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1111111 l "isa"
+2 4 0.1250000 l "isa"
+4 2 0.1111111 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.1111111 l "isa"
+5 4 0.1000000 l "isa"
+4 5 0.1111111 l "isa"
+6 4 0.3333333 l "isa"
+4 6 0.1111111 l "isa"
+2 3 0.1250000 l "substring"
+3 2 0.3333333 l "substring"
+5 6 0.1000000 l "substring"
+6 5 0.3333333 l "substring"
+2 5 0.1250000 l "distance"
+5 2 0.1000000 l "distance"
+3 6 0.3333333 l "distance"
+6 3 0.3333333 l "distance"
+*Edges

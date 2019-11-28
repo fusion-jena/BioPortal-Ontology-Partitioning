@@ -1,0 +1,52 @@
+*Vertices 15
+1 "ACAS" ellipse
+2 "A Doctor of medicine" ellipse
+3 "External_Agencies" ellipse
+4 "IIMS_Reporting" ellipse
+5 "Patient" ellipse
+6 "Policies_and_Procedures" ellipse
+7 "WH&S" ellipse
+8 "Audit" ellipse
+9 "Commonwealth_Health" ellipse
+10 "Health_District" ellipse
+11 "Medicare" ellipse
+12 "Models_of_Care" ellipse
+13 "NSW_Health" ellipse
+14 "Thing" ellipse
+15 "string"
+*Arcs
+2 3 0.5000000 l "isa"
+3 2 0.1250000 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.1000000 l "isa"
+9 3 0.5000000 l "isa"
+3 9 0.1250000 l "isa"
+10 3 0.5000000 l "isa"
+3 10 0.1250000 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.1250000 l "isa"
+13 3 0.5000000 l "isa"
+3 13 0.1250000 l "isa"
+2 5 0.5000000 l "communicateWith"
+5 2 0.1428571 l "communicateWith"
+5 4 0.1428571 l "isSubjectOf"
+4 5 0.5000000 l "isSubjectOf"
+8 4 0.1250000 l "measures"
+4 8 0.5000000 l "measures"
+10 6 0.5000000 l "shapes"
+6 10 0.1000000 l "shapes"
+13 6 0.5000000 l "shapes"
+6 13 0.1000000 l "shapes"
+9 12 0.5000000 l "templates"
+12 9 0.3333333 l "templates"
+6 5 0.1000000 l "ultimatelyAffects"
+5 6 0.1428571 l "ultimatelyAffects"
+6 12 0.1000000 l "ultimatelyAffects"
+12 6 0.3333333 l "ultimatelyAffects"
+5 15 0.1428571 l "patient_name"
+15 5 0.5000000 l "patient_name"
+1 7 0.2000000 l "distance"
+7 1 0.5000000 l "distance"
+14 15 0.2500000 l "distance"
+15 14 0.5000000 l "distance"
+*Edges

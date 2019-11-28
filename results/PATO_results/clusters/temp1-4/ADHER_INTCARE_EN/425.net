@@ -1,0 +1,15 @@
+*Vertices 2
+1 "StartOfPressureRecordingProcess" ellipse
+2 "StartOfTirePressureRecordingProcess" ellipse
+*Arcs
+2 1 0.1429155 l "isa"
+1 2 0.1055020 l "isa"
+2 1 0.1429155 l "isa"
+1 2 0.1055020 l "isa"
+2 1 0.1429155 l "isa"
+1 2 0.1055020 l "isa"
+2 1 0.1429155 l "isa"
+1 2 0.1055020 l "isa"
+2 1 0.1429155 l "isa"
+1 2 0.1055020 l "isa"
+*Edges

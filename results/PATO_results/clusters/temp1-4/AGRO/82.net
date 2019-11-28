@@ -1,0 +1,9 @@
+*Vertices 2
+1 "statistical population" ellipse
+2 "statistical population role" ellipse
+*Arcs
+1 2 0.2777716 l "substring"
+2 1 0.1878207 l "substring"
+1 2 0.2777716 l "substring"
+2 1 0.1878207 l "substring"
+*Edges

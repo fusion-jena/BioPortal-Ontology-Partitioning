@@ -1,0 +1,13 @@
+*Vertices 2
+1 "disease" ellipse
+2 "disease course" ellipse
+*Arcs
+2 1 0.3601592 l "definition"
+1 2 0.1835574 l "definition"
+1 2 0.1835574 l "substring"
+2 1 0.3601592 l "substring"
+2 1 0.3601592 l "definition"
+1 2 0.1835574 l "definition"
+1 2 0.1835574 l "substring"
+2 1 0.3601592 l "substring"
+*Edges

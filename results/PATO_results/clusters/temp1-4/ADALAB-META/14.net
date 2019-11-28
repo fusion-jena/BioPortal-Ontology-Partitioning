@@ -1,0 +1,14 @@
+*Vertices 3
+1 "BodySurfaceArea" ellipse
+2 "PhysicalMagnitude" ellipse
+3 "SurfaceSize" ellipse
+*Arcs
+1 3 0.2221351 l "isa"
+3 1 0.3466059 l "isa"
+3 2 0.3306438 l "isa"
+2 3 0.0916297 l "isa"
+1 3 0.2221351 l "isa"
+3 1 0.3466059 l "isa"
+3 2 0.3306438 l "isa"
+2 3 0.0916297 l "isa"
+*Edges

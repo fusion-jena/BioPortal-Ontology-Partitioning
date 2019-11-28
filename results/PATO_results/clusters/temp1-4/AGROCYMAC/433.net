@@ -1,0 +1,17 @@
+*Vertices 2
+1 "wavelength" ellipse
+2 "wavelength" ellipse
+*Arcs
+1 2 0.2959758 l "substring"
+2 1 0.2970770 l "substring"
+1 2 0.2959758 l "distance"
+2 1 0.2970770 l "distance"
+1 2 0.2959758 l "substring"
+2 1 0.2970770 l "substring"
+1 2 0.2959758 l "distance"
+2 1 0.2970770 l "distance"
+1 2 0.2959758 l "substring"
+2 1 0.2970770 l "substring"
+1 2 0.2959758 l "distance"
+2 1 0.2970770 l "distance"
+*Edges

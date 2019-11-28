@@ -1,0 +1,11 @@
+*Vertices 2
+1 "control" ellipse
+2 "Impulse_Control_Disorders" ellipse
+*Arcs
+1 2 0.0482607 l "substring"
+2 1 0.3405295 l "substring"
+1 2 0.0482607 l "substring"
+2 1 0.3405295 l "substring"
+1 2 0.0482607 l "substring"
+2 1 0.3405295 l "substring"
+*Edges

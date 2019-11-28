@@ -1,0 +1,53 @@
+*Vertices 10
+1 "Text" ellipse
+2 "Audio Data" ellipse
+3 "Big Data" ellipse
+4 "Datatype" ellipse
+5 "Electronic Health Record" ellipse
+6 "Genomic Proteomic Data" ellipse
+7 "Resource Format" ellipse
+8 "Text Data" ellipse
+9 "Video" ellipse
+10 "Video Data" ellipse
+*Arcs
+2 4 0.1442991 l "isa"
+4 2 0.0489289 l "isa"
+3 4 0.1454417 l "isa"
+4 3 0.0489289 l "isa"
+5 4 0.1454781 l "isa"
+4 5 0.0489289 l "isa"
+6 4 0.1454781 l "isa"
+4 6 0.0489289 l "isa"
+8 4 0.1450626 l "isa"
+4 8 0.0489289 l "isa"
+9 7 0.1478633 l "isa"
+7 9 0.1058546 l "isa"
+10 4 0.1252893 l "isa"
+4 10 0.0485300 l "isa"
+1 8 0.0440993 l "substring"
+8 1 0.1448963 l "substring"
+9 10 0.1487744 l "substring"
+10 9 0.1307814 l "substring"
+2 10 0.1493966 l "distance"
+10 2 0.1307814 l "distance"
+2 4 0.1442991 l "isa"
+4 2 0.0489289 l "isa"
+3 4 0.1454417 l "isa"
+4 3 0.0489289 l "isa"
+5 4 0.1454781 l "isa"
+4 5 0.0489289 l "isa"
+6 4 0.1454781 l "isa"
+4 6 0.0489289 l "isa"
+8 4 0.1450626 l "isa"
+4 8 0.0489289 l "isa"
+9 7 0.1478633 l "isa"
+7 9 0.1058546 l "isa"
+10 4 0.1252893 l "isa"
+4 10 0.0485300 l "isa"
+1 8 0.0440993 l "substring"
+8 1 0.1448963 l "substring"
+9 10 0.1487744 l "substring"
+10 9 0.1307814 l "substring"
+2 10 0.1493966 l "distance"
+10 2 0.1307814 l "distance"
+*Edges

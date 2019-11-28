@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Brunei" ellipse
+2 "Burundi" ellipse
+*Arcs
+1 2 0.1555619 l "distance"
+2 1 0.2615204 l "distance"
+1 2 0.1555619 l "distance"
+2 1 0.2615204 l "distance"
+*Edges

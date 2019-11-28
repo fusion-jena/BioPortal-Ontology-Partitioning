@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Grade 1 Pruritus" ellipse
+2 "Grade 2 Pruritus" ellipse
+3 "Grade 3 Pruritus" ellipse
+4 "Pruritus" ellipse
+*Arcs
+1 4 0.5270270 l "isa"
+4 1 0.2951143 l "isa"
+2 4 0.5270270 l "isa"
+4 2 0.2951143 l "isa"
+3 4 0.5270270 l "isa"
+4 3 0.2951143 l "isa"
+1 4 0.5270270 l "substring"
+4 1 0.2951143 l "substring"
+2 4 0.5270270 l "substring"
+4 2 0.2951143 l "substring"
+3 4 0.5270270 l "substring"
+4 3 0.2951143 l "substring"
+1 2 0.2364865 l "distance"
+2 1 0.2364865 l "distance"
+1 3 0.2364865 l "distance"
+3 1 0.2364865 l "distance"
+2 3 0.2364865 l "distance"
+3 2 0.2364865 l "distance"
+1 4 0.5270270 l "isa"
+4 1 0.2951143 l "isa"
+2 4 0.5270270 l "isa"
+4 2 0.2951143 l "isa"
+3 4 0.5270270 l "isa"
+4 3 0.2951143 l "isa"
+1 4 0.5270270 l "substring"
+4 1 0.2951143 l "substring"
+2 4 0.5270270 l "substring"
+4 2 0.2951143 l "substring"
+3 4 0.5270270 l "substring"
+4 3 0.2951143 l "substring"
+1 2 0.2364865 l "distance"
+2 1 0.2364865 l "distance"
+1 3 0.2364865 l "distance"
+3 1 0.2364865 l "distance"
+2 3 0.2364865 l "distance"
+3 2 0.2364865 l "distance"
+*Edges

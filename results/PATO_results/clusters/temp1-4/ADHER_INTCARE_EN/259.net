@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Usually_watches_Other_children_or_indicates_interest_in_them_to_caregiver" ellipse
+2 "intch_Usually_watches_Other_children_or_indicates_interest_in_them_to_caregiver"
+*Arcs
+1 2 0.2101680 l "substring"
+2 1 0.1786633 l "substring"
+1 2 0.2101680 l "substring"
+2 1 0.1786633 l "substring"
+*Edges

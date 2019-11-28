@@ -1,0 +1,11 @@
+*Vertices 2
+1 "solid foam" ellipse
+2 "solid sol" ellipse
+*Arcs
+1 2 0.1782607 l "distance"
+2 1 0.1342137 l "distance"
+1 2 0.1782607 l "distance"
+2 1 0.1342137 l "distance"
+1 2 0.1782607 l "distance"
+2 1 0.1342137 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Australian Friesian Sahiwal" ellipse
+2 "Sahiwal" ellipse
+*Arcs
+1 2 0.5094647 l "substring"
+2 1 0.6605374 l "substring"
+1 2 0.5094647 l "substring"
+2 1 0.6605374 l "substring"
+1 2 0.5094647 l "substring"
+2 1 0.6605374 l "substring"
+1 2 0.5094647 l "substring"
+2 1 0.6605374 l "substring"
+1 2 0.5094647 l "substring"
+2 1 0.6605374 l "substring"
+1 2 0.5094647 l "substring"
+2 1 0.6605374 l "substring"
+*Edges

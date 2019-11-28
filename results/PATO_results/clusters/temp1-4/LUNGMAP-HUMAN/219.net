@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Dajal" ellipse
+2 "Fjall" ellipse
+3 "Thalli" ellipse
+*Arcs
+1 2 0.0744368 l "distance"
+2 1 0.1701002 l "distance"
+2 3 0.1769389 l "distance"
+3 2 0.1230544 l "distance"
+1 2 0.0744368 l "distance"
+2 1 0.1701002 l "distance"
+2 3 0.1769389 l "distance"
+3 2 0.1230544 l "distance"
+1 2 0.0744368 l "distance"
+2 1 0.1701002 l "distance"
+2 3 0.1769389 l "distance"
+3 2 0.1230544 l "distance"
+*Edges

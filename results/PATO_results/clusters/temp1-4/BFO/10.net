@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Herd" ellipse
+2 "hasSubjectHerd"
+*Arcs
+2 2 0.3519015 l "definition"
+2 2 0.3519015 l "definition"
+1 2 0.1580488 l "substring"
+2 1 0.1186322 l "substring"
+2 2 0.3519015 l "definition"
+2 2 0.3519015 l "definition"
+1 2 0.1580488 l "substring"
+2 1 0.1186322 l "substring"
+2 2 0.3519015 l "definition"
+2 2 0.3519015 l "definition"
+1 2 0.1580488 l "substring"
+2 1 0.1186322 l "substring"
+2 2 0.3519015 l "definition"
+2 2 0.3519015 l "definition"
+1 2 0.1580488 l "substring"
+2 1 0.1186322 l "substring"
+2 2 0.3519015 l "definition"
+2 2 0.3519015 l "definition"
+1 2 0.1580488 l "substring"
+2 1 0.1186322 l "substring"
+*Edges

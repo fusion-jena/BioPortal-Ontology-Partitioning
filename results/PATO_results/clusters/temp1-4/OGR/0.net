@@ -1,0 +1,88 @@
+*Vertices 29
+1 "Commonwealth_of_Independent_States" ellipse
+2 "East_Germany" ellipse
+3 "Europe" ellipse
+4 "European_Union" ellipse
+5 "North_America" ellipse
+6 "South_America" ellipse
+7 "USSR" ellipse
+8 "West_Germany" ellipse
+9 "Americas" ellipse
+10 "Ancient_Lands" ellipse
+11 "Asia_Central" ellipse
+12 "Asia_Western" ellipse
+13 "Atlantic_Islands" ellipse
+14 "Australia" ellipse
+15 "Caribbean_Region" ellipse
+16 "Central_America" ellipse
+17 "Czechoslovakia" ellipse
+18 "Far_East" ellipse
+19 "Geographical_Regions" ellipse
+20 "Historical_Geographic_Locations" ellipse
+21 "Indian_Ocean_Islands" ellipse
+22 "Latin_America" ellipse
+23 "Middle_East" ellipse
+24 "New_Guinea" ellipse
+25 "Oceania" ellipse
+26 "Oceans_and_Seas" ellipse
+27 "Other_regions" ellipse
+28 "Pacific_Islands" ellipse
+29 "Yugoslavia" ellipse
+*Arcs
+9 19 0.1250000 l "isa"
+19 9 0.0666667 l "isa"
+10 20 0.5000000 l "isa"
+20 10 0.0833333 l "isa"
+13 19 0.5000000 l "isa"
+19 13 0.0666667 l "isa"
+14 19 0.5000000 l "isa"
+19 14 0.0666667 l "isa"
+15 9 0.5000000 l "isa"
+9 15 0.1250000 l "isa"
+16 9 0.5000000 l "isa"
+9 16 0.1250000 l "isa"
+1 20 0.3333333 l "isa"
+20 1 0.0833333 l "isa"
+17 20 0.5000000 l "isa"
+20 17 0.0833333 l "isa"
+2 20 0.3333333 l "isa"
+20 2 0.0833333 l "isa"
+3 19 0.3333333 l "isa"
+19 3 0.0666667 l "isa"
+4 20 0.3333333 l "isa"
+20 4 0.0833333 l "isa"
+20 19 0.0833333 l "isa"
+19 20 0.0666667 l "isa"
+21 19 0.5000000 l "isa"
+19 21 0.0666667 l "isa"
+22 9 0.5000000 l "isa"
+9 22 0.1250000 l "isa"
+23 20 0.5000000 l "isa"
+20 23 0.0833333 l "isa"
+24 20 0.5000000 l "isa"
+20 24 0.0833333 l "isa"
+5 9 0.3333333 l "isa"
+9 5 0.1250000 l "isa"
+25 19 0.5000000 l "isa"
+19 25 0.0666667 l "isa"
+26 19 0.5000000 l "isa"
+19 26 0.0666667 l "isa"
+27 19 0.5000000 l "isa"
+19 27 0.0666667 l "isa"
+28 19 0.5000000 l "isa"
+19 28 0.0666667 l "isa"
+6 9 0.3333333 l "isa"
+9 6 0.1250000 l "isa"
+7 20 0.3333333 l "isa"
+20 7 0.0833333 l "isa"
+8 20 0.3333333 l "isa"
+20 8 0.0833333 l "isa"
+29 20 0.5000000 l "isa"
+20 29 0.0833333 l "isa"
+3 4 0.3333333 l "substring"
+4 3 0.3333333 l "substring"
+2 8 0.3333333 l "distance"
+8 2 0.3333333 l "distance"
+5 6 0.3333333 l "distance"
+6 5 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Lesion model" ellipse
+2 "ischemic lesion" ellipse
+3 "lesion" ellipse
+*Arcs
+2 3 0.7631579 l "isa"
+3 2 0.2962543 l "isa"
+1 3 0.2647944 l "substring"
+3 1 0.1123723 l "substring"
+2 3 0.7631579 l "substring"
+3 2 0.2962543 l "substring"
+2 3 0.7631579 l "isa"
+3 2 0.2962543 l "isa"
+1 3 0.2647944 l "substring"
+3 1 0.1123723 l "substring"
+2 3 0.7631579 l "substring"
+3 2 0.2962543 l "substring"
+*Edges

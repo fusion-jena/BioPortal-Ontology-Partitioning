@@ -1,0 +1,73 @@
+*Vertices 16
+1 "Adenosinergic neuron" ellipse
+2 "Adrenergic neuron" ellipse
+3 "Basket cells" ellipse
+4 "Cholinergic neuron" ellipse
+5 "Dopaminergic neuron" ellipse
+6 "GABAergic neuron" ellipse
+7 "Granule cell" ellipse
+8 "Interneuron" ellipse
+9 "Opioidergic neuron" ellipse
+10 "Purkinje cell" ellipse
+11 "Pyramidal neuron" ellipse
+12 "Serotonergic neuron" ellipse
+13 "aplysia neuron" ellipse
+14 "cortical neuron" ellipse
+15 "hippocampal neuron" ellipse
+16 "Neuron" ellipse
+*Arcs
+1 16 1.0000000 l "isa"
+16 1 0.0392157 l "isa"
+2 16 1.0000000 l "isa"
+16 2 0.0392157 l "isa"
+3 16 1.0000000 l "isa"
+16 3 0.0196078 l "isa"
+4 16 0.6666667 l "isa"
+16 4 0.0392157 l "isa"
+5 16 0.6666667 l "isa"
+16 5 0.0392157 l "isa"
+6 16 0.6666667 l "isa"
+16 6 0.0392157 l "isa"
+7 16 1.0000000 l "isa"
+16 7 0.0196078 l "isa"
+8 16 1.0000000 l "isa"
+16 8 0.0392157 l "isa"
+9 16 0.6666667 l "isa"
+16 9 0.0392157 l "isa"
+10 16 1.0000000 l "isa"
+16 10 0.0196078 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.0392157 l "isa"
+12 16 0.6666667 l "isa"
+16 12 0.0392157 l "isa"
+13 16 1.0000000 l "isa"
+16 13 0.0392157 l "isa"
+14 16 0.6666667 l "isa"
+16 14 0.0392157 l "isa"
+15 16 0.6666667 l "isa"
+16 15 0.0392157 l "isa"
+1 16 1.0000000 l "substring"
+16 1 0.0392157 l "substring"
+2 16 1.0000000 l "substring"
+16 2 0.0392157 l "substring"
+4 16 0.6666667 l "substring"
+16 4 0.0392157 l "substring"
+5 16 0.6666667 l "substring"
+16 5 0.0392157 l "substring"
+6 16 0.6666667 l "substring"
+16 6 0.0392157 l "substring"
+8 16 1.0000000 l "substring"
+16 8 0.0392157 l "substring"
+9 16 0.6666667 l "substring"
+16 9 0.0392157 l "substring"
+11 16 1.0000000 l "substring"
+16 11 0.0392157 l "substring"
+12 16 0.6666667 l "substring"
+16 12 0.0392157 l "substring"
+13 16 1.0000000 l "substring"
+16 13 0.0392157 l "substring"
+14 16 0.6666667 l "substring"
+16 14 0.0392157 l "substring"
+15 16 0.6666667 l "substring"
+16 15 0.0392157 l "substring"
+*Edges

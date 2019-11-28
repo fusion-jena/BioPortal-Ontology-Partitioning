@@ -1,0 +1,31 @@
+*Vertices 10
+1 "ion composition" ellipse
+2 "modified calcium composition" ellipse
+3 "high calcium" ellipse
+4 "low calcium" ellipse
+5 "modified potassium composition" ellipse
+6 "high potassium" ellipse
+7 "low potassium" ellipse
+8 "modified sodium composition" ellipse
+9 "high sodium" ellipse
+10 "low sodium" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1666667 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3333333 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.1666667 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.3333333 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.3333333 l "isa"
+8 1 0.3333333 l "isa"
+1 8 0.1666667 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.3333333 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.3333333 l "isa"
+*Edges

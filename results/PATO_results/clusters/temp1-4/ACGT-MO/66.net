@@ -1,0 +1,9 @@
+*Vertices 2
+1 "AmbiguousGender" ellipse
+2 "Gender" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.2000000 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

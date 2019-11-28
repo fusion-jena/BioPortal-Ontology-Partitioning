@@ -1,0 +1,55 @@
+*Vertices 18
+1 "ICW-1:01.05.04.01 Group Study - NOS" ellipse
+2 "ICW-1:01.05.02 Intellectual Wellness - NOS" ellipse
+3 "ICW-1:01.05.03 Individual Study" ellipse
+4 "ICW-1:01.05.05.03 Mahjong" ellipse
+5 "ICW-1:01.05.05 Group Game" ellipse
+6 "ICW-1:01.05.01 Performing Arts" ellipse
+7 "ICW-1:01.05.05.01 Group Game - NOS" ellipse
+8 "ICW-1:01.05 Intellectual Wellness" ellipse
+9 "ICW-1:01.05.03.02 Read Book" ellipse
+10 "ICW-1:01.05.01.04 Theater Performance" ellipse
+11 "ICW-1:01.05.03.01 Individual Study - NOS" ellipse
+12 "ICW-1:01.05.04 Group Study" ellipse
+13 "ICW-1:01.05.01.01 Dance Performance" ellipse
+14 "ICW-1:01.05.05.02 Bingo" ellipse
+15 "ICW-1:01.05.01.03 Performing Arts - NOS" ellipse
+16 "ICW-1:01.05.01.02 Musical Performance" ellipse
+17 "ICW-1:01.05.06 Individual Game" ellipse
+18 "ICW-1:01.05.04.02 Book Study" ellipse
+*Arcs
+1 12 1.0000000 l "isa"
+12 1 0.3333333 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.1428571 l "isa"
+3 8 0.3333333 l "isa"
+8 3 0.1428571 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.2500000 l "isa"
+5 8 0.2500000 l "isa"
+8 5 0.1428571 l "isa"
+6 8 0.2000000 l "isa"
+8 6 0.1428571 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2500000 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.3333333 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.2000000 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.3333333 l "isa"
+12 8 0.3333333 l "isa"
+8 12 0.1428571 l "isa"
+13 6 1.0000000 l "isa"
+6 13 0.2000000 l "isa"
+14 5 1.0000000 l "isa"
+5 14 0.2500000 l "isa"
+15 6 1.0000000 l "isa"
+6 15 0.2000000 l "isa"
+16 6 1.0000000 l "isa"
+6 16 0.2000000 l "isa"
+17 8 1.0000000 l "isa"
+8 17 0.1428571 l "isa"
+18 12 1.0000000 l "isa"
+12 18 0.3333333 l "isa"
+*Edges

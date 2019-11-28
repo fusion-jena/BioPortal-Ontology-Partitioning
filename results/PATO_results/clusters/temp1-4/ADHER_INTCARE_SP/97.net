@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Impairment of sharing good thing" ellipse
+2 "Sharing good thing" ellipse
+*Arcs
+1 2 0.2763379 l "substring"
+2 1 0.2776004 l "substring"
+1 2 0.2763379 l "substring"
+2 1 0.2776004 l "substring"
+1 2 0.2763379 l "substring"
+2 1 0.2776004 l "substring"
+*Edges

@@ -1,0 +1,99 @@
+*Vertices 32
+1 "After_School_Programs" ellipse
+2 "Astronomy" ellipse
+3 "Clinical_Methods_Training" ellipse
+4 "Clinical_Psychology_Graduate_Training" ellipse
+5 "Clinical_Psychology_Internship" ellipse
+6 "Community_Mental_Health_Training" ellipse
+7 "Computer_Training" ellipse
+8 "English_as_Second_Language" ellipse
+9 "Extracurricular_Activities" ellipse
+10 "Geometry" ellipse
+11 "Home_Economics" ellipse
+12 "Humanities" ellipse
+13 "Information_Science" ellipse
+14 "Internship_Programs" ellipse
+15 "Management_Training" ellipse
+16 "Medical_Internship" ellipse
+17 "Medical_Residency" ellipse
+18 "Military_Training" ellipse
+19 "Parent_Training" ellipse
+20 "Personnel_Training" ellipse
+21 "Phonics" ellipse
+22 "Postgraduate_Training" ellipse
+23 "Project_Follow_Through" ellipse
+24 "Project_Head_Start" ellipse
+25 "Psychiatric_Training" ellipse
+26 "Psychoanalytic_Training" ellipse
+27 "Psychotherapy_Training" ellipse
+28 "Spelling" ellipse
+29 "Sports" ellipse
+30 "Study_Abroad" ellipse
+31 "Upward_Bound" ellipse
+32 "Curricula" ellipse
+*Arcs
+1 32 1.0000000 l "isa"
+32 1 0.0109890 l "isa"
+2 32 1.0000000 l "isa"
+32 2 0.0109890 l "isa"
+3 32 1.0000000 l "isa"
+32 3 0.0109890 l "isa"
+4 32 1.0000000 l "isa"
+32 4 0.0109890 l "isa"
+5 32 1.0000000 l "isa"
+32 5 0.0109890 l "isa"
+6 32 1.0000000 l "isa"
+32 6 0.0109890 l "isa"
+7 32 1.0000000 l "isa"
+32 7 0.0109890 l "isa"
+8 32 1.0000000 l "isa"
+32 8 0.0109890 l "isa"
+9 32 1.0000000 l "isa"
+32 9 0.0219780 l "isa"
+10 32 1.0000000 l "isa"
+32 10 0.0109890 l "isa"
+11 32 1.0000000 l "isa"
+32 11 0.0109890 l "isa"
+12 32 1.0000000 l "isa"
+32 12 0.0109890 l "isa"
+13 32 1.0000000 l "isa"
+32 13 0.0109890 l "isa"
+14 32 1.0000000 l "isa"
+32 14 0.0109890 l "isa"
+15 32 1.0000000 l "isa"
+32 15 0.0109890 l "isa"
+16 32 1.0000000 l "isa"
+32 16 0.0109890 l "isa"
+17 32 1.0000000 l "isa"
+32 17 0.0109890 l "isa"
+18 32 1.0000000 l "isa"
+32 18 0.0109890 l "isa"
+19 32 1.0000000 l "isa"
+32 19 0.0109890 l "isa"
+20 32 1.0000000 l "isa"
+32 20 0.0109890 l "isa"
+21 32 1.0000000 l "isa"
+32 21 0.0109890 l "isa"
+22 32 1.0000000 l "isa"
+32 22 0.0109890 l "isa"
+23 32 1.0000000 l "isa"
+32 23 0.0109890 l "isa"
+24 32 1.0000000 l "isa"
+32 24 0.0109890 l "isa"
+25 32 1.0000000 l "isa"
+32 25 0.0109890 l "isa"
+26 32 1.0000000 l "isa"
+32 26 0.0109890 l "isa"
+27 32 1.0000000 l "isa"
+32 27 0.0109890 l "isa"
+28 32 1.0000000 l "isa"
+32 28 0.0109890 l "isa"
+29 32 1.0000000 l "isa"
+32 29 0.0109890 l "isa"
+30 32 1.0000000 l "isa"
+32 30 0.0109890 l "isa"
+31 32 1.0000000 l "isa"
+32 31 0.0109890 l "isa"
+9 32 1.0000000 l "substring"
+32 9 0.0219780 l "substring"
+*Edges

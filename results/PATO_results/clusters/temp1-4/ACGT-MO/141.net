@@ -1,0 +1,10 @@
+*Vertices 3
+1 "HematologicalMalignancy" ellipse
+2 "Leukemia" ellipse
+3 "LeukemiaProcess" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2000000 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.2500000 l "substring"
+*Edges

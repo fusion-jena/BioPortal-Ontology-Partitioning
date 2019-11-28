@@ -1,0 +1,11 @@
+*Vertices 2
+1 "No_Peer_Relationships_That_Involve_Selectivity_and_Sharing" ellipse
+2 "friend_No_Peer_Relationships_That_Involve_Selectivity_and_Sharing"
+*Arcs
+1 2 0.1840288 l "substring"
+2 1 0.1857173 l "substring"
+1 2 0.1840288 l "substring"
+2 1 0.1857173 l "substring"
+1 2 0.1840288 l "substring"
+2 1 0.1857173 l "substring"
+*Edges

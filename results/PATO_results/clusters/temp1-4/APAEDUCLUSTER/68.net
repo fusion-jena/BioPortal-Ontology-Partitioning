@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Anxiety" ellipse
+2 "Social_Anxiety" ellipse
+*Arcs
+1 2 0.0782517 l "substring"
+2 1 0.3409957 l "substring"
+1 2 0.0782517 l "substring"
+2 1 0.3409957 l "substring"
+*Edges

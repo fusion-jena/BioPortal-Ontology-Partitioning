@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Oxford Sandy and Black" ellipse
+2 "Oxford" ellipse
+*Arcs
+1 2 0.4022579 l "substring"
+2 1 0.3022258 l "substring"
+1 2 0.4022579 l "substring"
+2 1 0.3022258 l "substring"
+1 2 0.4022579 l "substring"
+2 1 0.3022258 l "substring"
+1 2 0.4022579 l "substring"
+2 1 0.3022258 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "kjeldahl method" ellipse
+2 "organic fertilizer carbon to nitrogen ratio" ellipse
+*Arcs
+1 2 0.2575764 l "definition"
+2 1 0.1792388 l "definition"
+1 2 0.2575764 l "definition"
+2 1 0.1792388 l "definition"
+*Edges

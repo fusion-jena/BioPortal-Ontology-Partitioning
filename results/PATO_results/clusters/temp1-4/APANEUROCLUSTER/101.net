@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Adaptive_Testing" ellipse
+2 "Group_Testing" ellipse
+3 "Posttesting" ellipse
+4 "Testing" ellipse
+*Arcs
+1 4 0.3385083 l "substring"
+4 1 0.0677019 l "substring"
+2 4 0.3385083 l "substring"
+4 2 0.0677019 l "substring"
+3 4 0.3385083 l "substring"
+4 3 0.0677019 l "substring"
+1 4 0.3385083 l "substring"
+4 1 0.0677019 l "substring"
+2 4 0.3385083 l "substring"
+4 2 0.0677019 l "substring"
+3 4 0.3385083 l "substring"
+4 3 0.0677019 l "substring"
+*Edges

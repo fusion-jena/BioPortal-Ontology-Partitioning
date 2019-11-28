@@ -1,0 +1,38 @@
+*Vertices 7
+1 "tRNA aminoacylation reaction" ellipse
+2 "tRRNA transfer reaction" ellipse
+3 "Chemical reaction" ellipse
+4 "Ion transport reaction" ellipse
+5 "Modified base transport reaction" ellipse
+6 "reaction" ellipse
+7 "Transport reaction" ellipse
+*Arcs
+1 6 0.5000000 l "isa"
+6 1 0.0833333 l "isa"
+2 6 0.5000000 l "isa"
+6 2 0.0833333 l "isa"
+3 6 0.6666667 l "isa"
+6 3 0.0833333 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.0833333 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.0833333 l "isa"
+7 6 0.4000000 l "isa"
+6 7 0.0833333 l "isa"
+1 6 0.5000000 l "substring"
+6 1 0.0833333 l "substring"
+2 6 0.5000000 l "substring"
+6 2 0.0833333 l "substring"
+3 6 0.6666667 l "substring"
+6 3 0.0833333 l "substring"
+4 6 0.5000000 l "substring"
+6 4 0.0833333 l "substring"
+4 7 0.2500000 l "substring"
+7 4 0.2000000 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.0833333 l "substring"
+5 7 0.2500000 l "substring"
+7 5 0.2000000 l "substring"
+6 7 0.0833333 l "substring"
+7 6 0.4000000 l "substring"
+*Edges

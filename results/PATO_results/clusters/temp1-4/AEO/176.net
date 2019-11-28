@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Microvascular Marker" ellipse
+2 "Sphingomyelin" ellipse
+3 "intercellular adhesion molecule-1" ellipse
+*Arcs
+2 1 0.1476330 l "definition"
+1 2 0.2112339 l "definition"
+3 1 0.1342217 l "definition"
+1 3 0.2140932 l "definition"
+2 1 0.1476330 l "definition"
+1 2 0.2112339 l "definition"
+3 1 0.1342217 l "definition"
+1 3 0.2140932 l "definition"
+2 1 0.1476330 l "definition"
+1 2 0.2112339 l "definition"
+3 1 0.1342217 l "definition"
+1 3 0.2140932 l "definition"
+*Edges

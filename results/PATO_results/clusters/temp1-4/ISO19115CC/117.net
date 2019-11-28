@@ -1,0 +1,33 @@
+*Vertices 6
+1 "LI_Source" ellipse
+2 "MD_RepresentativeFraction" ellipse
+3 "scaleDenominator"
+4 "sourceReferenceSystem"
+5 "sourceStep"
+6 "denominator"
+*Arcs
+1 2 0.0491264 l "scaleDenominator"
+2 1 0.1923010 l "scaleDenominator"
+1 3 0.0556836 l "definition"
+3 1 0.4592275 l "definition"
+1 4 0.0491264 l "definition"
+4 1 0.2008907 l "definition"
+1 5 0.0491264 l "definition"
+5 1 0.2008907 l "definition"
+2 6 0.2310056 l "definition"
+6 2 0.4736842 l "definition"
+3 6 0.5407726 l "substring"
+6 3 0.5263158 l "substring"
+1 2 0.0491264 l "scaleDenominator"
+2 1 0.1923010 l "scaleDenominator"
+1 3 0.0556836 l "definition"
+3 1 0.4592275 l "definition"
+1 4 0.0491264 l "definition"
+4 1 0.2008907 l "definition"
+1 5 0.0491264 l "definition"
+5 1 0.2008907 l "definition"
+2 6 0.2310056 l "definition"
+6 2 0.4736842 l "definition"
+3 6 0.5407726 l "substring"
+6 3 0.5263158 l "substring"
+*Edges

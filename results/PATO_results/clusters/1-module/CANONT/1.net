@@ -1,0 +1,85 @@
+*Vertices 24
+1 "Real Mode of Existing" ellipse
+2 "Substance" ellipse
+3 "Living" ellipse
+4 "Accident" ellipse
+5 "Non-living" ellipse
+6 "Animal" ellipse
+7 "Human" ellipse
+8 "Vegetal" ellipse
+9 "Property vs Common" ellipse
+10 "Proper" ellipse
+11 "Common" ellipse
+12 "Tumor" ellipse
+13 "Operative" ellipse
+14 "Power" ellipse
+15 "Function" ellipse
+16 "Faculty" ellipse
+17 "Force" ellipse
+18 "Discrete" ellipse
+19 "Number" ellipse
+20 "Multitude" ellipse
+21 "Part" ellipse
+22 "Action" ellipse
+23 "Motion" ellipse
+24 "Rest" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.1666667 l "isa"
+2 3 0.3333333 l "isa"
+4 1 0.3333333 l "isa"
+1 4 0.5000000 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.3333333 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1666667 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.1666667 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.1666667 l "isa"
+9 4 0.2000000 l "isa"
+4 9 0.3333333 l "isa"
+10 9 0.6666667 l "isa"
+9 10 0.4000000 l "isa"
+11 9 0.4000000 l "isa"
+9 11 0.4000000 l "isa"
+14 13 0.5000000 l "isa"
+13 14 0.2000000 l "isa"
+15 13 0.5000000 l "isa"
+13 15 0.2000000 l "isa"
+16 13 1.0000000 l "isa"
+13 16 0.2000000 l "isa"
+17 13 1.0000000 l "isa"
+13 17 0.2000000 l "isa"
+19 18 0.5000000 l "isa"
+18 19 0.3333333 l "isa"
+20 18 0.5000000 l "isa"
+18 20 0.3333333 l "isa"
+21 20 0.5000000 l "isa"
+20 21 0.5000000 l "isa"
+23 22 0.5000000 l "isa"
+22 23 0.3333333 l "isa"
+24 22 0.5000000 l "isa"
+22 24 0.1666667 l "isa"
+3 5 0.1666667 l "substring"
+5 3 0.5000000 l "substring"
+9 10 0.4000000 l "substring"
+10 9 0.6666667 l "substring"
+9 11 0.4000000 l "substring"
+11 9 0.4000000 l "substring"
+7 12 0.5000000 l "distance"
+12 7 0.3333333 l "distance"
+10 14 0.3333333 l "distance"
+14 10 0.5000000 l "distance"
+11 23 0.2000000 l "distance"
+23 11 0.2500000 l "distance"
+12 19 0.3333333 l "distance"
+19 12 0.5000000 l "distance"
+15 22 0.5000000 l "distance"
+22 15 0.1666667 l "distance"
+21 24 0.5000000 l "distance"
+24 21 0.5000000 l "distance"
+22 23 0.3333333 l "distance"
+23 22 0.5000000 l "distance"
+*Edges

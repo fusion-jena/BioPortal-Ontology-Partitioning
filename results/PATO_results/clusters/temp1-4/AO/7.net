@@ -1,0 +1,39 @@
+*Vertices 4
+1 "RBXVS" ellipse
+2 "RETVA" ellipse
+3 "RUBVC" ellipse
+4 "URGC" ellipse
+*Arcs
+1 2 0.0778899 l "distance"
+2 1 0.0511415 l "distance"
+1 3 0.0836744 l "distance"
+3 1 0.1079056 l "distance"
+2 3 0.0528132 l "distance"
+3 2 0.1037293 l "distance"
+3 4 0.0992923 l "distance"
+4 3 0.0195685 l "distance"
+1 2 0.0778899 l "distance"
+2 1 0.0511415 l "distance"
+1 3 0.0836744 l "distance"
+3 1 0.1079056 l "distance"
+2 3 0.0528132 l "distance"
+3 2 0.1037293 l "distance"
+3 4 0.0992923 l "distance"
+4 3 0.0195685 l "distance"
+1 2 0.0778899 l "distance"
+2 1 0.0511415 l "distance"
+1 3 0.0836744 l "distance"
+3 1 0.1079056 l "distance"
+2 3 0.0528132 l "distance"
+3 2 0.1037293 l "distance"
+3 4 0.0992923 l "distance"
+4 3 0.0195685 l "distance"
+1 2 0.0778899 l "distance"
+2 1 0.0511415 l "distance"
+1 3 0.0836744 l "distance"
+3 1 0.1079056 l "distance"
+2 3 0.0528132 l "distance"
+3 2 0.1037293 l "distance"
+3 4 0.0992923 l "distance"
+4 3 0.0195685 l "distance"
+*Edges

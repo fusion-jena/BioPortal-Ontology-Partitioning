@@ -1,0 +1,13 @@
+*Vertices 2
+1 "amino acid" ellipse
+2 "amino-acid anion" ellipse
+*Arcs
+1 2 0.2716176 l "definition"
+2 1 0.2212144 l "definition"
+2 1 0.2212144 l "definition"
+1 2 0.2716176 l "definition"
+1 2 0.2716176 l "definition"
+2 1 0.2212144 l "definition"
+2 1 0.2212144 l "definition"
+1 2 0.2716176 l "definition"
+*Edges

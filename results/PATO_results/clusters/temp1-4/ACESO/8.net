@@ -1,0 +1,31 @@
+*Vertices 8
+1 "Psychoactive substance use disorder" ellipse
+2 "Drug dependence" ellipse
+3 "Psychoactive substance dependence" ellipse
+4 "Mental disorder due to drug" ellipse
+5 "Disorder caused by alcohol" ellipse
+6 "Alcoholism" ellipse
+7 "Mental disorder" ellipse
+8 "Drug-related disorder" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.2500000 l "isa"
+2 8 0.5000000 l "isa"
+8 2 0.2000000 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.5000000 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.5000000 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.5000000 l "isa"
+4 8 0.2500000 l "isa"
+8 4 0.2000000 l "isa"
+5 8 0.5000000 l "isa"
+8 5 0.2000000 l "isa"
+6 3 0.3333333 l "isa"
+3 6 0.3333333 l "isa"
+6 5 0.3333333 l "isa"
+5 6 0.5000000 l "isa"
+4 7 0.5000000 l "substring"
+7 4 0.5000000 l "substring"
+*Edges

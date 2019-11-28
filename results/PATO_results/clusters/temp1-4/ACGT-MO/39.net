@@ -1,0 +1,16 @@
+*Vertices 5
+1 "ALPLevel" ellipse
+2 "AlkalinePhosphataseTest" ellipse
+3 "CountingRedBloodCells" ellipse
+4 "Density" ellipse
+5 "TotalRBC" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.0526316 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0526316 l "isa"
+2 1 0.2500000 l "definition"
+1 2 0.5000000 l "definition"
+3 5 0.1666667 l "definition"
+5 3 0.5000000 l "definition"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "autosampler injection volume setting (chromatography)" ellipse
+2 "injection volume setting" ellipse
+*Arcs
+1 2 0.1538462 l "isa"
+2 1 0.2857143 l "isa"
+1 2 0.1538462 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

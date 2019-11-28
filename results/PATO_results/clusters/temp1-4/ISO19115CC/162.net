@@ -1,0 +1,26 @@
+*Vertices 3
+1 "DQ_Completeness" ellipse
+2 "DQ_CompletenessCommission" ellipse
+3 "DQ_CompletenessOmission" ellipse
+*Arcs
+2 1 0.6969697 l "isa"
+1 2 0.4226927 l "isa"
+3 1 0.6969697 l "isa"
+1 3 0.4226927 l "isa"
+1 2 0.4226927 l "substring"
+2 1 0.6969697 l "substring"
+1 3 0.4226927 l "substring"
+3 1 0.6969697 l "substring"
+2 3 0.3030303 l "distance"
+3 2 0.3030303 l "distance"
+2 1 0.6969697 l "isa"
+1 2 0.4226927 l "isa"
+3 1 0.6969697 l "isa"
+1 3 0.4226927 l "isa"
+1 2 0.4226927 l "substring"
+2 1 0.6969697 l "substring"
+1 3 0.4226927 l "substring"
+3 1 0.6969697 l "substring"
+2 3 0.3030303 l "distance"
+3 2 0.3030303 l "distance"
+*Edges

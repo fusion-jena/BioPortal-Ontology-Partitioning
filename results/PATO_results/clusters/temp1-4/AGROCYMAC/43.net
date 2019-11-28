@@ -1,0 +1,93 @@
+*Vertices 16
+1 "ammonia" ellipse
+2 "enzyme inhibitor" ellipse
+3 "pesticide" ellipse
+4 "application" ellipse
+5 "agrochemical" ellipse
+6 "fertilizer" ellipse
+7 "inhibitor" ellipse
+8 "EC 3.* (hydrolase) inhibitor" ellipse
+9 "EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor" ellipse
+10 "EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor" ellipse
+11 "EC 3.5.1.4 (amidase) inhibitor" ellipse
+12 "refrigerant" ellipse
+13 "Fungicidas" ellipse
+14 "Herbicidas" ellipse
+15 "Pesticidas" ellipse
+16 "Plaguicidas" ellipse
+*Arcs
+2 7 0.5250000 l "isa"
+7 2 0.2774469 l "isa"
+3 4 0.6039603 l "isa"
+4 3 0.0652222 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0545301 l "isa"
+6 5 0.0584191 l "isa"
+5 6 0.5000000 l "isa"
+8 2 0.3351352 l "isa"
+2 8 0.2465909 l "isa"
+9 8 0.3482046 l "isa"
+8 9 0.3459460 l "isa"
+10 9 0.2131474 l "isa"
+9 10 0.3307943 l "isa"
+11 10 0.3436137 l "isa"
+10 11 0.2131474 l "isa"
+12 4 0.5002335 l "isa"
+4 12 0.0545301 l "isa"
+1 11 0.0515675 l "definition"
+11 1 0.3229453 l "definition"
+1 12 0.0551773 l "definition"
+12 1 0.4997665 l "definition"
+2 7 0.5250000 l "substring"
+7 2 0.2774469 l "substring"
+7 8 0.1240103 l "substring"
+8 7 0.3189189 l "substring"
+7 9 0.1240103 l "substring"
+9 7 0.3210011 l "substring"
+7 10 0.1172844 l "substring"
+10 7 0.1956188 l "substring"
+7 11 0.1240103 l "substring"
+11 7 0.3334410 l "substring"
+2 7 0.5250000 l "isa"
+7 2 0.2774469 l "isa"
+3 4 0.6039603 l "isa"
+4 3 0.0652222 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0545301 l "isa"
+6 5 0.0584191 l "isa"
+5 6 0.5000000 l "isa"
+8 2 0.3351352 l "isa"
+2 8 0.2465909 l "isa"
+9 8 0.3482046 l "isa"
+8 9 0.3459460 l "isa"
+10 9 0.2131474 l "isa"
+9 10 0.3307943 l "isa"
+11 10 0.3436137 l "isa"
+10 11 0.2131474 l "isa"
+12 4 0.5002335 l "isa"
+4 12 0.0545301 l "isa"
+13 16 0.1111111 l "isa"
+16 13 0.3333333 l "isa"
+14 16 0.1000000 l "isa"
+16 14 0.3333333 l "isa"
+15 16 0.0909091 l "isa"
+16 15 0.3333333 l "isa"
+1 11 0.0515675 l "definition"
+11 1 0.3229453 l "definition"
+1 12 0.0551773 l "definition"
+12 1 0.4997665 l "definition"
+2 7 0.5250000 l "substring"
+7 2 0.2774469 l "substring"
+7 8 0.1240103 l "substring"
+8 7 0.3189189 l "substring"
+7 9 0.1240103 l "substring"
+9 7 0.3210011 l "substring"
+7 10 0.1172844 l "substring"
+10 7 0.1956188 l "substring"
+7 11 0.1240103 l "substring"
+11 7 0.3334410 l "substring"
+3 15 0.3960396 l "distance"
+15 3 0.0909091 l "distance"
+14 15 0.1000000 l "distance"
+15 14 0.0909091 l "distance"
+*Edges

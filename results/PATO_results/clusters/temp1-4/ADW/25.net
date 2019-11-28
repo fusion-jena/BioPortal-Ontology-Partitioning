@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Allergies" ellipse
+2 "Experienced side effects from past medications" ellipse
+3 "Studying medication history" ellipse
+*Arcs
+1 3 0.6250000 l "isa"
+3 1 0.2636535 l "isa"
+2 3 0.3858853 l "isa"
+3 2 0.2241055 l "isa"
+1 3 0.6250000 l "isa"
+3 1 0.2636535 l "isa"
+2 3 0.3858853 l "isa"
+3 2 0.2241055 l "isa"
+*Edges

@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Mali" ellipse
+2 "Slovakia" ellipse
+3 "Slovenia" ellipse
+4 "Somalia" ellipse
+*Arcs
+1 4 0.0768058 l "substring"
+4 1 0.2425226 l "substring"
+1 4 0.0768058 l "distance"
+4 1 0.2425226 l "distance"
+2 3 0.2203536 l "distance"
+3 2 0.1923601 l "distance"
+2 4 0.2096977 l "distance"
+4 2 0.1223704 l "distance"
+1 4 0.0768058 l "substring"
+4 1 0.2425226 l "substring"
+1 4 0.0768058 l "distance"
+4 1 0.2425226 l "distance"
+2 3 0.2203536 l "distance"
+3 2 0.1923601 l "distance"
+2 4 0.2096977 l "distance"
+4 2 0.1223704 l "distance"
+1 4 0.0768058 l "substring"
+4 1 0.2425226 l "substring"
+1 4 0.0768058 l "distance"
+4 1 0.2425226 l "distance"
+2 3 0.2203536 l "distance"
+3 2 0.1923601 l "distance"
+2 4 0.2096977 l "distance"
+4 2 0.1223704 l "distance"
+*Edges

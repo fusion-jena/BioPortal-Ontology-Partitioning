@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Data Analysis" ellipse
+2 "Data Cleaning" ellipse
+3 "Data Collection" ellipse
+4 "Data Science Process" ellipse
+5 "Data Visualization" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1250000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1250000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1250000 l "isa"
+*Edges

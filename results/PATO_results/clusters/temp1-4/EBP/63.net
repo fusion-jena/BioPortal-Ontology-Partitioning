@@ -1,0 +1,9 @@
+*Vertices 2
+1 "TestReproducibility" ellipse
+2 "Reproducibility" ellipse
+*Arcs
+1 2 0.0952705 l "substring"
+2 1 0.1147792 l "substring"
+1 2 0.0952705 l "substring"
+2 1 0.1147792 l "substring"
+*Edges

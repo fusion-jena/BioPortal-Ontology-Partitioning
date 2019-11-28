@@ -1,0 +1,28 @@
+*Vertices 5
+1 "antero-medial region" ellipse
+2 "postero-medial region" ellipse
+3 "dorso-medial region" ellipse
+4 "medial region" ellipse
+5 "ventro-medial region" ellipse
+*Arcs
+1 4 0.1538462 l "isa"
+4 1 0.1176471 l "isa"
+2 4 0.1666667 l "isa"
+4 2 0.1176471 l "isa"
+3 4 0.1818182 l "isa"
+4 3 0.1176471 l "isa"
+5 4 0.1666667 l "isa"
+4 5 0.1176471 l "isa"
+1 4 0.1538462 l "substring"
+4 1 0.1176471 l "substring"
+2 4 0.1666667 l "substring"
+4 2 0.1176471 l "substring"
+3 4 0.1818182 l "substring"
+4 3 0.1176471 l "substring"
+4 5 0.1176471 l "substring"
+5 4 0.1666667 l "substring"
+1 2 0.0769231 l "distance"
+2 1 0.0833333 l "distance"
+1 5 0.0769231 l "distance"
+5 1 0.0833333 l "distance"
+*Edges

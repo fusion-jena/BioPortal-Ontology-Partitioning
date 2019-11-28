@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Area unit" ellipse
+2 "Eats sap or other plant foods" ellipse
+3 "Nectar" ellipse
+4 "Nectarivore" ellipse
+5 "Primary: Herbivore" ellipse
+6 "Territory size" ellipse
+7 "hectares" ellipse
+*Arcs
+2 5 0.2549006 l "isa"
+5 2 0.1023770 l "isa"
+4 5 0.4785276 l "isa"
+5 4 0.1132682 l "isa"
+7 1 0.4848485 l "isa"
+1 7 0.1906605 l "isa"
+6 1 0.2613837 l "definition"
+1 6 0.1727861 l "definition"
+3 4 0.2817680 l "substring"
+4 3 0.5214724 l "substring"
+3 7 0.2817680 l "distance"
+7 3 0.5151516 l "distance"
+2 5 0.2549006 l "isa"
+5 2 0.1023770 l "isa"
+4 5 0.4785276 l "isa"
+5 4 0.1132682 l "isa"
+7 1 0.4848485 l "isa"
+1 7 0.1906605 l "isa"
+6 1 0.2613837 l "definition"
+1 6 0.1727861 l "definition"
+3 4 0.2817680 l "substring"
+4 3 0.5214724 l "substring"
+3 7 0.2817680 l "distance"
+7 3 0.5151516 l "distance"
+*Edges

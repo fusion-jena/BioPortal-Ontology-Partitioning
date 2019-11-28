@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Bilateral upper limb movement finding" ellipse
+2 "Left upper limb movement finding" ellipse
+3 "Right upper limb movement finding" ellipse
+4 "Upper limb movement finding" ellipse
+*Arcs
+1 4 0.2222222 l "isa"
+4 1 0.2000000 l "isa"
+2 4 0.3333333 l "isa"
+4 2 0.2000000 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.2000000 l "isa"
+1 2 0.1111111 l "definition"
+2 1 0.1666667 l "definition"
+1 3 0.1111111 l "definition"
+3 1 0.1666667 l "definition"
+1 4 0.2222222 l "substring"
+4 1 0.2000000 l "substring"
+2 4 0.3333333 l "substring"
+4 2 0.2000000 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.2000000 l "substring"
+*Edges

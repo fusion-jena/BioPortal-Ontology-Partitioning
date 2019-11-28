@@ -1,0 +1,28 @@
+*Vertices 3
+1 "ec" ellipse
+2 "iubmb" ellipse
+3 "Declared medium" ellipse
+*Arcs
+1 2 0.0988549 l "hasIubmb"
+2 1 0.5677317 l "hasIubmb"
+2 1 0.5677317 l "inEc"
+1 2 0.0988549 l "inEc"
+1 2 0.0988549 l "hasIubmb"
+2 1 0.5677317 l "hasIubmb"
+2 1 0.5677317 l "inEc"
+1 2 0.0988549 l "inEc"
+1 3 0.0512226 l "substring"
+3 1 1.0000000 l "substring"
+1 2 0.0988549 l "hasIubmb"
+2 1 0.5677317 l "hasIubmb"
+2 1 0.5677317 l "inEc"
+1 2 0.0988549 l "inEc"
+1 3 0.0512226 l "substring"
+3 1 1.0000000 l "substring"
+1 2 0.0988549 l "hasIubmb"
+2 1 0.5677317 l "hasIubmb"
+2 1 0.5677317 l "inEc"
+1 2 0.0988549 l "inEc"
+1 3 0.0512226 l "substring"
+3 1 1.0000000 l "substring"
+*Edges

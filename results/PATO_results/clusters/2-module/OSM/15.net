@@ -1,0 +1,22 @@
+*Vertices 7
+1 "outros_transtornos_desenvolvimento" ellipse
+2 "transtorno_do_desenvolvimento_nao_especificado" ellipse
+3 "transtorno_especifico_de_habilidades_escolares" ellipse
+4 "transtorno_especifico_do_desenvolvimento_motor" ellipse
+5 "transtorno_especifico_fala_e_linguagem" ellipse
+6 "transtornos_do_desenvolvimento_psicologico" ellipse
+7 "transtornos_globais_de_desenvolvimento" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.1428571 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1428571 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1428571 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1428571 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1428571 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.1428571 l "isa"
+*Edges

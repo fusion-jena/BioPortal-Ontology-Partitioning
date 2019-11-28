@@ -1,0 +1,24 @@
+*Vertices 3
+1 "DifferentiatedHemalCell" ellipse
+2 "HemalCell" ellipse
+3 "SomaticCell" ellipse
+*Arcs
+1 2 0.5274596 l "isa"
+2 1 0.6012020 l "isa"
+2 3 0.2152411 l "isa"
+3 2 0.2189897 l "isa"
+1 2 0.5274596 l "substring"
+2 1 0.6012020 l "substring"
+1 2 0.5274596 l "isa"
+2 1 0.6012020 l "isa"
+2 3 0.2152411 l "isa"
+3 2 0.2189897 l "isa"
+1 2 0.5274596 l "substring"
+2 1 0.6012020 l "substring"
+1 2 0.5274596 l "isa"
+2 1 0.6012020 l "isa"
+2 3 0.2152411 l "isa"
+3 2 0.2189897 l "isa"
+1 2 0.5274596 l "substring"
+2 1 0.6012020 l "substring"
+*Edges

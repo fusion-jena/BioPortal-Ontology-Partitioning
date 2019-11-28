@@ -1,0 +1,10 @@
+*Vertices 3
+1 "emulsion" ellipse
+2 "dispersion colloid" ellipse
+3 "emission" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.0909091 l "isa"
+1 3 0.5000000 l "distance"
+3 1 0.2000000 l "distance"
+*Edges

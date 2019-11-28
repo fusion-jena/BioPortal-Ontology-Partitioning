@@ -1,0 +1,9 @@
+*Vertices 2
+1 "independent_continuant" ellipse
+2 "object_boundary" ellipse
+*Arcs
+2 1 0.6666667 l "isa"
+1 2 0.1538462 l "isa"
+1 2 0.1538462 l "definition"
+2 1 0.6666667 l "definition"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Meeting" ellipse
+2 "Kept_from_Non_Medical_Meeting_by_Lack_of_Transportation" ellipse
+*Arcs
+2 1 0.1872553 l "definition"
+1 2 0.4822300 l "definition"
+1 2 0.4822300 l "substring"
+2 1 0.1872553 l "substring"
+2 1 0.1872553 l "definition"
+1 2 0.4822300 l "definition"
+1 2 0.4822300 l "substring"
+2 1 0.1872553 l "substring"
+2 1 0.1872553 l "definition"
+1 2 0.4822300 l "definition"
+1 2 0.4822300 l "substring"
+2 1 0.1872553 l "substring"
+2 1 0.1872553 l "definition"
+1 2 0.4822300 l "definition"
+1 2 0.4822300 l "substring"
+2 1 0.1872553 l "substring"
+*Edges

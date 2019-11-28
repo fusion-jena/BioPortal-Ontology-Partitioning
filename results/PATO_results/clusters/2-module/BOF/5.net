@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Clayly" ellipse
+2 "Cloudy" ellipse
+3 "Hydromorphic" ellipse
+4 "Litolitic" ellipse
+5 "Rainy" ellipse
+6 "Rocky" ellipse
+7 "TypedeSoil" ellipse
+*Arcs
+1 7 0.5000000 l "isa"
+7 1 0.1111111 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1111111 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1111111 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.1111111 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.3333333 l "distance"
+5 6 0.1428571 l "distance"
+6 5 0.5000000 l "distance"
+*Edges

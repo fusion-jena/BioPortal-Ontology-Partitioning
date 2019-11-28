@@ -1,0 +1,14 @@
+*Vertices 3
+1 "sampling material" ellipse
+2 "sampling" ellipse
+3 "sampling data" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1428571 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1428571 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.1428571 l "substring"
+2 3 0.1428571 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

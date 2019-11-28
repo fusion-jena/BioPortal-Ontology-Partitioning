@@ -1,0 +1,47 @@
+*Vertices 14
+1 "Empathy" ellipse
+2 "Flexibly_and_spontaneously_offers_comfort" ellipse
+3 "Has_partial_response_or_indirect_physical_approach" ellipse
+4 "Interpersonal_Awareness" ellipse
+5 "Never_offers_comfort_to_others" ellipse
+6 "Offering_Comfort" ellipse
+7 "Offering_comfort_NotAvailable" ellipse
+8 "Offering_comfort_NotKnownOrNotAsked" ellipse
+9 "Rarely_offers_comfort_or_only_in_odd_ways" ellipse
+10 "Understanding_Others_Expectations" ellipse
+11 "Understanding_the_Effect_of_Ones_Actions" ellipse
+12 "cocomf_Rarely_offers_comfort_or_only_in_odd_ways"
+13 "cocomf_Has_partial_response_or_indirect_physical_approach"
+14 "cocomf_Never_offers_comfort_to_others"
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.2000000 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1111111 l "isa"
+3 6 0.5000000 l "isa"
+6 3 0.1111111 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.1111111 l "isa"
+6 1 0.1111111 l "isa"
+1 6 0.5000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.2222222 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.2222222 l "isa"
+9 6 0.5000000 l "isa"
+6 9 0.1111111 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.2000000 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.2000000 l "isa"
+3 13 0.5000000 l "substring"
+13 3 0.3333333 l "substring"
+5 14 0.5000000 l "substring"
+14 5 0.3333333 l "substring"
+6 7 0.2222222 l "substring"
+7 6 1.0000000 l "substring"
+6 8 0.2222222 l "substring"
+8 6 1.0000000 l "substring"
+9 12 0.5000000 l "substring"
+12 9 0.3333333 l "substring"
+*Edges

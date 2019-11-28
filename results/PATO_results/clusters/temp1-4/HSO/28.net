@@ -1,0 +1,10 @@
+*Vertices 3
+1 "subdivision of digestive tract" ellipse
+2 "pharynx" ellipse
+3 "reticulorumen" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0714286 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0714286 l "isa"
+*Edges

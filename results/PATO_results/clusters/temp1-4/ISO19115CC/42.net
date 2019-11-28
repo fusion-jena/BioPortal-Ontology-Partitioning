@@ -1,0 +1,34 @@
+*Vertices 3
+1 "ICW-1:01.08 Vocational Wellness" ellipse
+2 "ICW-1:01.08.03 Individual Volunteering" ellipse
+3 "ICW-1:01.08.01 Vocational Wellness - NOS" ellipse
+*Arcs
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+2 1 0.7425865 l "isa"
+1 2 0.2880785 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3582637 l "isa"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Property" ellipse
+2 "PropertySpace" ellipse
+*Arcs
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+2 1 0.7059118 l "definition"
+1 2 0.7556992 l "definition"
+1 2 0.7556992 l "substring"
+2 1 0.7059118 l "substring"
+*Edges

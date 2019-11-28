@@ -1,0 +1,35 @@
+*Vertices 4
+1 "lattice design" ellipse
+2 "square lattice design" ellipse
+3 "alpha lattice design" ellipse
+4 "ice" ellipse
+*Arcs
+2 1 0.7193149 l "isa"
+1 2 0.3803582 l "isa"
+3 1 0.3803718 l "isa"
+1 3 0.3380962 l "isa"
+1 2 0.3803582 l "substring"
+2 1 0.7193149 l "substring"
+1 3 0.3380962 l "substring"
+3 1 0.3803718 l "substring"
+1 4 0.1378547 l "substring"
+4 1 0.0083768 l "substring"
+2 4 0.2806851 l "substring"
+4 2 0.0090188 l "substring"
+3 4 0.1550921 l "substring"
+4 3 0.0083768 l "substring"
+2 1 0.7193149 l "isa"
+1 2 0.3803582 l "isa"
+3 1 0.3803718 l "isa"
+1 3 0.3380962 l "isa"
+1 2 0.3803582 l "substring"
+2 1 0.7193149 l "substring"
+1 3 0.3380962 l "substring"
+3 1 0.3803718 l "substring"
+1 4 0.1378547 l "substring"
+4 1 0.0083768 l "substring"
+2 4 0.2806851 l "substring"
+4 2 0.0090188 l "substring"
+3 4 0.1550921 l "substring"
+4 3 0.0083768 l "substring"
+*Edges

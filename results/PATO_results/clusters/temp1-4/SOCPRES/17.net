@@ -1,0 +1,108 @@
+*Vertices 17
+1 "physical activity" ellipse
+2 "physical" ellipse
+3 "Physical training teacher" ellipse
+4 "Displayed vital signs deviation-during scenario" ellipse
+5 "Fidelity environment deviation" ellipse
+6 "Set-up clinical equipment deviation" ellipse
+7 "Set-up images deviation" ellipse
+8 "Set-up lab values deviation" ellipse
+9 "Set-up mannequin or patient physical signs or findings deviation" ellipse
+10 "Set-up medications deviation" ellipse
+11 "Set-up patient monitor information deviation" ellipse
+12 "Set-up resources deviation" ellipse
+13 "Set-up written records deviation" ellipse
+14 "Simulated patient deviation-during scenario" ellipse
+15 "Simulated patient physical signs or findings deviation-during scenario" ellipse
+16 "Simulated physical environment deviation" ellipse
+17 "Simulation environment deviation" ellipse
+*Arcs
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+4 14 1.0000000 l "isa"
+14 4 0.2965779 l "isa"
+5 17 1.0000000 l "isa"
+17 5 0.3773585 l "isa"
+6 12 1.0000000 l "isa"
+12 6 0.1311189 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.1311189 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.1311189 l "isa"
+9 12 0.5048745 l "isa"
+12 9 0.1101399 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.1311189 l "isa"
+11 12 1.0000000 l "isa"
+12 11 0.1311189 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.1311189 l "isa"
+15 14 0.5164987 l "isa"
+14 15 0.2509505 l "isa"
+16 17 0.5239496 l "isa"
+17 16 0.3207547 l "isa"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+2 9 0.0818185 l "substring"
+9 2 0.4951255 l "substring"
+2 15 0.0818185 l "substring"
+15 2 0.4835013 l "substring"
+2 16 0.0818185 l "substring"
+16 2 0.4760504 l "substring"
+4 14 1.0000000 l "isa"
+14 4 0.2965779 l "isa"
+5 17 1.0000000 l "isa"
+17 5 0.3773585 l "isa"
+6 12 1.0000000 l "isa"
+12 6 0.1311189 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.1311189 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.1311189 l "isa"
+9 12 0.5048745 l "isa"
+12 9 0.1101399 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.1311189 l "isa"
+11 12 1.0000000 l "isa"
+12 11 0.1311189 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.1311189 l "isa"
+15 14 0.5164987 l "isa"
+14 15 0.2509505 l "isa"
+16 17 0.5239496 l "isa"
+17 16 0.3207547 l "isa"
+1 2 0.4304727 l "substring"
+2 1 0.2110848 l "substring"
+2 3 0.2735509 l "substring"
+3 2 0.6578932 l "substring"
+2 9 0.0818185 l "substring"
+9 2 0.4951255 l "substring"
+2 15 0.0818185 l "substring"
+15 2 0.4835013 l "substring"
+2 16 0.0818185 l "substring"
+16 2 0.4760504 l "substring"
+*Edges

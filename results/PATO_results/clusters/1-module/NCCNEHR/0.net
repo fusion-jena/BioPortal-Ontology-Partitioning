@@ -1,0 +1,17 @@
+*Vertices 14
+1 "CancerStaged" ellipse
+2 "DiagnosticImaging" ellipse
+3 "DiagnosticProcedure" ellipse
+4 "DiseaseMilestoneEvent" ellipse
+5 "HereditaryCounselingTesting" ellipse
+6 "HospiceEnrollment" ellipse
+7 "InitialPresentation" ellipse
+8 "PalliativeCareEnrollment" ellipse
+9 "PathologyTumorProfile" ellipse
+10 "RadiationTherapy" ellipse
+11 "Surgery" ellipse
+12 "SurvivorshipCarePlanning" ellipse
+13 "SystemicTherapy" ellipse
+14 "TransplantCellularTherapy" ellipse
+*Arcs
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Sequence Quality Check" ellipse
+2 "Software" ellipse
+*Arcs
+2 1 0.2076035 l "isa"
+1 2 0.1190555 l "isa"
+2 1 0.2076035 l "isa"
+1 2 0.1190555 l "isa"
+*Edges

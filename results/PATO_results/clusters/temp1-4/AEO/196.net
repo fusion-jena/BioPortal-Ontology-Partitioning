@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Time to independence" ellipse
+2 "Time unit" ellipse
+*Arcs
+1 2 0.2040771 l "definition"
+2 1 0.0799923 l "definition"
+1 2 0.2040771 l "definition"
+2 1 0.0799923 l "definition"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 7
+1 "Attention_Deficit_Disorder" ellipse
+2 "Attention_Deficit_Disorder_with_Hyperactivity" ellipse
+3 "Intellectual_Development_Disorder" ellipse
+4 "Savants" ellipse
+5 "Trisomy" ellipse
+6 "Intellectual_Development_Disorder_(Attitudes_Toward)" ellipse
+7 "LearningDisordersMentalRetardation" ellipse
+*Arcs
+1 7 0.5000000 l "isa"
+7 1 0.1111111 l "isa"
+2 7 0.5000000 l "isa"
+7 2 0.1111111 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.1111111 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1111111 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1111111 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.1111111 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+3 6 0.5000000 l "substring"
+6 3 0.5000000 l "substring"
+*Edges

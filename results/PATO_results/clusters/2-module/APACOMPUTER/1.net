@@ -1,0 +1,237 @@
+*Vertices 56
+1 "Audiovisual_Communications_Media" ellipse
+2 "Automated_Information_Coding" ellipse
+3 "Automated_Information_Processing" ellipse
+4 "Automated_Information_Retrieval" ellipse
+5 "Automated_Information_Storage" ellipse
+6 "Bioinformatics" ellipse
+7 "Communication_Systems" ellipse
+8 "Communication_Theory" ellipse
+9 "Communications_Media" ellipse
+10 "Computer_Mediated_Communication" ellipse
+11 "Computer_Science" ellipse
+12 "Computer_Searching" ellipse
+13 "Computer_Software" ellipse
+14 "Computer_Usage" ellipse
+15 "Data_Collection" ellipse
+16 "Data_Mining" ellipse
+17 "Data_Processing" ellipse
+18 "Databases" ellipse
+19 "Electronic_Commerce" ellipse
+20 "Electronic_Communication" ellipse
+21 "Electronic_Retailing" ellipse
+22 "Expert_Systems" ellipse
+23 "Groupware" ellipse
+24 "Hot_Line_Services" ellipse
+25 "Hypermedia" ellipse
+26 "Hypertext" ellipse
+27 "Information" ellipse
+28 "Information_Dissemination" ellipse
+29 "Information_Literacy" ellipse
+30 "Information_Processing_Model" ellipse
+31 "Information_Science" ellipse
+32 "Information_Seeking" ellipse
+33 "Information_Services" ellipse
+34 "Information_Specialists" ellipse
+35 "Information_Systems" ellipse
+36 "Information_Technology" ellipse
+37 "Information_Theory" ellipse
+38 "Internet" ellipse
+39 "Internet_Addiction" ellipse
+40 "Internet_Usage" ellipse
+41 "Interpreters" ellipse
+42 "Knowledge_Management" ellipse
+43 "Knowledge_Representation" ellipse
+44 "Mass_Media" ellipse
+45 "News_Media" ellipse
+46 "Online_Social_Networks" ellipse
+47 "Ontologies" ellipse
+48 "Scientific_Communication" ellipse
+49 "Technology_Transfer" ellipse
+50 "Telecommunications_Media" ellipse
+51 "Television_Advertising" ellipse
+52 "Websites" ellipse
+53 "Pattern_Recognition_(Computer_Science)" ellipse
+54 "ComputersCommunication" ellipse
+55 "ComputersMedia" ellipse
+56 "Information" ellipse
+*Arcs
+1 55 0.5000000 l "isa"
+55 1 0.1666667 l "isa"
+2 56 0.6666667 l "isa"
+56 2 0.0384615 l "isa"
+3 56 0.6666667 l "isa"
+56 3 0.0384615 l "isa"
+4 56 0.6666667 l "isa"
+56 4 0.0384615 l "isa"
+5 56 0.6666667 l "isa"
+56 5 0.0384615 l "isa"
+6 56 1.0000000 l "isa"
+56 6 0.0192308 l "isa"
+7 54 1.0000000 l "isa"
+54 7 0.0909091 l "isa"
+8 56 1.0000000 l "isa"
+56 8 0.0192308 l "isa"
+9 56 0.3333333 l "isa"
+56 9 0.0192308 l "isa"
+10 54 1.0000000 l "isa"
+54 10 0.0909091 l "isa"
+11 56 0.5000000 l "isa"
+56 11 0.0192308 l "isa"
+12 56 1.0000000 l "isa"
+56 12 0.0192308 l "isa"
+13 55 1.0000000 l "isa"
+55 13 0.1666667 l "isa"
+14 54 1.0000000 l "isa"
+54 14 0.0909091 l "isa"
+15 56 1.0000000 l "isa"
+56 15 0.0192308 l "isa"
+16 56 1.0000000 l "isa"
+56 16 0.0192308 l "isa"
+17 56 1.0000000 l "isa"
+56 17 0.0192308 l "isa"
+18 56 1.0000000 l "isa"
+56 18 0.0192308 l "isa"
+19 55 1.0000000 l "isa"
+55 19 0.1666667 l "isa"
+20 55 1.0000000 l "isa"
+55 20 0.1666667 l "isa"
+21 55 1.0000000 l "isa"
+55 21 0.1666667 l "isa"
+22 56 1.0000000 l "isa"
+56 22 0.0192308 l "isa"
+23 54 1.0000000 l "isa"
+54 23 0.0909091 l "isa"
+24 56 1.0000000 l "isa"
+56 24 0.0192308 l "isa"
+25 56 1.0000000 l "isa"
+56 25 0.0192308 l "isa"
+26 56 1.0000000 l "isa"
+56 26 0.0192308 l "isa"
+27 56 0.1764706 l "isa"
+56 27 0.0576923 l "isa"
+28 56 0.6666667 l "isa"
+56 28 0.0384615 l "isa"
+29 56 0.6666667 l "isa"
+56 29 0.0384615 l "isa"
+30 56 0.6666667 l "isa"
+56 30 0.0384615 l "isa"
+31 56 0.6666667 l "isa"
+56 31 0.0384615 l "isa"
+32 56 0.6666667 l "isa"
+56 32 0.0384615 l "isa"
+33 56 0.6666667 l "isa"
+56 33 0.0384615 l "isa"
+34 56 0.6666667 l "isa"
+56 34 0.0384615 l "isa"
+35 56 0.6666667 l "isa"
+56 35 0.0384615 l "isa"
+36 56 0.6666667 l "isa"
+56 36 0.0384615 l "isa"
+37 56 0.6666667 l "isa"
+56 37 0.0384615 l "isa"
+38 56 0.3333333 l "isa"
+56 38 0.0192308 l "isa"
+39 54 0.5000000 l "isa"
+54 39 0.0909091 l "isa"
+40 54 0.5000000 l "isa"
+54 40 0.0909091 l "isa"
+41 54 1.0000000 l "isa"
+54 41 0.0909091 l "isa"
+42 56 1.0000000 l "isa"
+56 42 0.0192308 l "isa"
+43 56 1.0000000 l "isa"
+56 43 0.0192308 l "isa"
+44 56 0.5000000 l "isa"
+56 44 0.0192308 l "isa"
+45 55 0.5000000 l "isa"
+55 45 0.1666667 l "isa"
+46 54 1.0000000 l "isa"
+54 46 0.0909091 l "isa"
+47 56 1.0000000 l "isa"
+56 47 0.0192308 l "isa"
+48 54 1.0000000 l "isa"
+54 48 0.0909091 l "isa"
+49 54 1.0000000 l "isa"
+54 49 0.0909091 l "isa"
+50 56 0.5000000 l "isa"
+56 50 0.0192308 l "isa"
+51 54 1.0000000 l "isa"
+54 51 0.0909091 l "isa"
+52 56 1.0000000 l "isa"
+56 52 0.0192308 l "isa"
+53 56 0.5000000 l "isa"
+56 53 0.0192308 l "isa"
+1 9 0.5000000 l "substring"
+9 1 0.3333333 l "substring"
+2 27 0.3333333 l "substring"
+27 2 0.0588235 l "substring"
+2 56 0.6666667 l "substring"
+56 2 0.0384615 l "substring"
+3 27 0.3333333 l "substring"
+27 3 0.0588235 l "substring"
+3 56 0.6666667 l "substring"
+56 3 0.0384615 l "substring"
+4 27 0.3333333 l "substring"
+27 4 0.0588235 l "substring"
+4 56 0.6666667 l "substring"
+56 4 0.0384615 l "substring"
+5 27 0.3333333 l "substring"
+27 5 0.0588235 l "substring"
+5 56 0.6666667 l "substring"
+56 5 0.0384615 l "substring"
+9 50 0.3333333 l "substring"
+50 9 0.5000000 l "substring"
+11 53 0.5000000 l "substring"
+53 11 0.5000000 l "substring"
+27 28 0.0588235 l "substring"
+28 27 0.3333333 l "substring"
+27 29 0.0588235 l "substring"
+29 27 0.3333333 l "substring"
+27 30 0.0588235 l "substring"
+30 27 0.3333333 l "substring"
+27 31 0.0588235 l "substring"
+31 27 0.3333333 l "substring"
+27 32 0.0588235 l "substring"
+32 27 0.3333333 l "substring"
+27 33 0.0588235 l "substring"
+33 27 0.3333333 l "substring"
+27 34 0.0588235 l "substring"
+34 27 0.3333333 l "substring"
+27 35 0.0588235 l "substring"
+35 27 0.3333333 l "substring"
+27 36 0.0588235 l "substring"
+36 27 0.3333333 l "substring"
+27 37 0.0588235 l "substring"
+37 27 0.3333333 l "substring"
+27 56 0.1764706 l "substring"
+56 27 0.0576923 l "substring"
+28 56 0.6666667 l "substring"
+56 28 0.0384615 l "substring"
+29 56 0.6666667 l "substring"
+56 29 0.0384615 l "substring"
+30 56 0.6666667 l "substring"
+56 30 0.0384615 l "substring"
+31 56 0.6666667 l "substring"
+56 31 0.0384615 l "substring"
+32 56 0.6666667 l "substring"
+56 32 0.0384615 l "substring"
+33 56 0.6666667 l "substring"
+56 33 0.0384615 l "substring"
+34 56 0.6666667 l "substring"
+56 34 0.0384615 l "substring"
+35 56 0.6666667 l "substring"
+56 35 0.0384615 l "substring"
+36 56 0.6666667 l "substring"
+56 36 0.0384615 l "substring"
+37 56 0.6666667 l "substring"
+56 37 0.0384615 l "substring"
+38 39 0.3333333 l "substring"
+39 38 0.5000000 l "substring"
+38 40 0.3333333 l "substring"
+40 38 0.5000000 l "substring"
+27 56 0.1764706 l "distance"
+56 27 0.0576923 l "distance"
+44 45 0.5000000 l "distance"
+45 44 0.5000000 l "distance"
+*Edges

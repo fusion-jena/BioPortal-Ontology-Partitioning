@@ -1,0 +1,10 @@
+*Vertices 3
+1 "energetic process" ellipse
+2 "energizing" ellipse
+3 "supplying" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1428571 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.3333333 l "isa"
+*Edges

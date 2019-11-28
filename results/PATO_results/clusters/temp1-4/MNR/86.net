@@ -1,0 +1,11 @@
+*Vertices 2
+1 "SW" ellipse
+2 "Botswana" ellipse
+*Arcs
+1 2 0.0413192 l "substring"
+2 1 0.1714906 l "substring"
+1 2 0.0413192 l "substring"
+2 1 0.1714906 l "substring"
+1 2 0.0413192 l "substring"
+2 1 0.1714906 l "substring"
+*Edges

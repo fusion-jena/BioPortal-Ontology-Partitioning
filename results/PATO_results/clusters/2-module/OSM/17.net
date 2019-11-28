@@ -1,0 +1,27 @@
+*Vertices 8
+1 "episodio_depressivo" ellipse
+2 "episodio_maniaco" ellipse
+3 "outros_transtornos_do_humor" ellipse
+4 "transtorno_afetivo_bipolar" ellipse
+5 "transtorno_depressivo_recorrente" ellipse
+6 "transtorno_do_humor_afetivo_nao_especificado" ellipse
+7 "transtorno_do_humor_persistente" ellipse
+8 "transtornos_do_humor" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.1111111 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.1111111 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.2222222 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1111111 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.1111111 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.1111111 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1111111 l "isa"
+3 8 1.0000000 l "substring"
+8 3 0.2222222 l "substring"
+*Edges

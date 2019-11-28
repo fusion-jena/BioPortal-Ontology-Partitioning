@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Sex cord-gonadal stromal tumor, NOS" ellipse
+2 "Stromal tumor, NOS" ellipse
+3 "Gastrointestinal stromal tumor, NOS" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.5000000 l "substring"
+2 3 0.5000000 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

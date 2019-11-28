@@ -1,0 +1,34 @@
+*Vertices 9
+1 "Definite_frequent_other_mannerisms_or_stereotypies" ellipse
+2 "Human_with_DSM-IV_definition_A_3_c" ellipse
+3 "No_complex_mannerisms_or_stereotyped_body_movements" ellipse
+4 "Only_occasional_complex_mannerisms_or_stereotyped_body_movement" ellipse
+5 "Other_complex_mannerisms_or_stereotyped_body_movements" ellipse
+6 "Other_complex_mannerisms_or_stereotyped_body_movements_NotAvailable" ellipse
+7 "Other_complex_mannerisms_or_stereotyped_body_movements_UnknownOrNotAsked" ellipse
+8 "othman_Definite_frequent_other_mannerisms_or_stereotypies"
+9 "othman_No_complex_mannerisms_or_stereotyped_body_movements"
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.1111111 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.1111111 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1111111 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2222222 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2222222 l "isa"
+2 9 0.0312500 l "definition"
+9 2 0.5000000 l "definition"
+2 8 0.0312500 l "definition"
+8 2 0.3333333 l "definition"
+1 8 0.5000000 l "substring"
+8 1 0.3333333 l "substring"
+3 9 0.5000000 l "substring"
+9 3 0.5000000 l "substring"
+5 6 0.2222222 l "substring"
+6 5 1.0000000 l "substring"
+5 7 0.2222222 l "substring"
+7 5 1.0000000 l "substring"
+*Edges

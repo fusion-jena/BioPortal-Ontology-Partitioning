@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Some_Speech_to_Alert_Caregiver" ellipse
+2 "Social_Verbalization_Some_Speech_to_Alert_Caregiver"
+*Arcs
+1 2 0.1805010 l "substring"
+2 1 0.1281690 l "substring"
+1 2 0.1805010 l "substring"
+2 1 0.1281690 l "substring"
+1 2 0.1805010 l "substring"
+2 1 0.1281690 l "substring"
+*Edges

@@ -1,0 +1,170 @@
+*Vertices 37
+1 "deep-superficial gradient (obsolete)" ellipse
+2 "anatomical axis" ellipse
+3 "deep-superficial gradient" ellipse
+4 "superior side" ellipse
+5 "inferior side" ellipse
+6 "deep region" ellipse
+7 "superficial region" ellipse
+8 "anatomical side" ellipse
+9 "anterior side" ellipse
+10 "posterior side" ellipse
+11 "central side" ellipse
+12 "ventral side" ellipse
+13 "anatomical region" ellipse
+14 "central region" ellipse
+15 "anatomical compartment" ellipse
+16 "anterior compartment" ellipse
+17 "compartment boundary" ellipse
+18 "dorsal compartment" ellipse
+19 "posterior compartment" ellipse
+20 "ventral compartment" ellipse
+21 "anatomical compartment boundary" ellipse
+22 "anterior/posterior compartment boundary" ellipse
+23 "dorsal/ventral compartment boundary" ellipse
+24 "peripheral region" ellipse
+25 "peripheral side" ellipse
+26 "adaxial-abaxial axis" ellipse
+27 "oral-aboral axis" ellipse
+28 "animal-vegetal axis" ellipse
+29 "apical-basal axis relative to direction of growth" ellipse
+30 "anatomical entity" ellipse
+31 "anatomical structure" ellipse
+32 "material anatomical entity" ellipse
+33 "immaterial anatomical entity" ellipse
+34 "Thing"
+35 "passes through"
+36 "anterior to"
+37 "posterior to"
+*Arcs
+1 34 0.5000000 l "isa"
+34 1 0.5000000 l "isa"
+4 8 0.3333333 l "isa"
+8 4 0.0370370 l "isa"
+5 8 0.3333333 l "isa"
+8 5 0.0370370 l "isa"
+6 13 0.2857143 l "isa"
+13 6 0.0377358 l "isa"
+7 13 0.2857143 l "isa"
+13 7 0.0377358 l "isa"
+8 13 0.0370370 l "isa"
+13 8 0.0188679 l "isa"
+9 8 0.0454545 l "isa"
+8 9 0.0370370 l "isa"
+10 8 0.0526316 l "isa"
+8 10 0.0370370 l "isa"
+11 8 0.3333333 l "isa"
+8 11 0.0370370 l "isa"
+12 8 0.0588235 l "isa"
+8 12 0.0370370 l "isa"
+13 31 0.0188679 l "isa"
+31 13 0.3333333 l "isa"
+14 13 0.2500000 l "isa"
+13 14 0.0377358 l "isa"
+15 31 0.1428571 l "isa"
+31 15 0.3333333 l "isa"
+16 15 0.5000000 l "isa"
+15 16 0.1428571 l "isa"
+17 15 0.1250000 l "isa"
+15 17 0.1428571 l "isa"
+18 15 1.0000000 l "isa"
+15 18 0.1428571 l "isa"
+19 15 0.3333333 l "isa"
+15 19 0.1428571 l "isa"
+20 15 0.5000000 l "isa"
+15 20 0.1428571 l "isa"
+22 21 0.3333333 l "isa"
+21 22 0.0769231 l "isa"
+23 21 0.3333333 l "isa"
+21 23 0.0769231 l "isa"
+24 13 0.2857143 l "isa"
+13 24 0.0377358 l "isa"
+25 8 0.5000000 l "isa"
+8 25 0.0370370 l "isa"
+26 2 1.0000000 l "isa"
+2 26 0.0370370 l "isa"
+27 2 1.0000000 l "isa"
+2 27 0.0370370 l "isa"
+28 2 1.0000000 l "isa"
+2 28 0.0370370 l "isa"
+29 2 1.0000000 l "isa"
+2 29 0.0370370 l "isa"
+30 34 0.1250000 l "isa"
+34 30 0.5000000 l "isa"
+31 32 0.3333333 l "isa"
+32 31 0.1666667 l "isa"
+32 30 0.3333333 l "isa"
+30 32 0.2500000 l "isa"
+33 30 0.3333333 l "isa"
+30 33 0.2500000 l "isa"
+2 2 0.0740741 l "approximately perpendicular to"
+2 2 0.0740741 l "approximately perpendicular to"
+8 2 0.0740741 l "finishes axis"
+2 8 0.0740741 l "finishes axis"
+2 30 0.1111111 l "has end point"
+30 2 0.3750000 l "has end point"
+8 2 0.0740741 l "starts axis"
+2 8 0.0740741 l "starts axis"
+2 30 0.1111111 l "has start point"
+30 2 0.3750000 l "has start point"
+2 35 0.0370370 l "definition"
+35 2 1.0000000 l "definition"
+2 30 0.1111111 l "definition"
+30 2 0.3750000 l "definition"
+6 13 0.2857143 l "definition"
+13 6 0.0377358 l "definition"
+7 13 0.2857143 l "definition"
+13 7 0.0377358 l "definition"
+9 10 0.1363636 l "definition"
+10 9 0.1578947 l "definition"
+9 36 0.0454545 l "definition"
+36 9 0.5000000 l "definition"
+10 37 0.0526316 l "definition"
+37 10 0.5000000 l "definition"
+10 9 0.1578947 l "definition"
+9 10 0.1363636 l "definition"
+14 11 0.1250000 l "definition"
+11 14 0.3333333 l "definition"
+14 13 0.2500000 l "definition"
+13 14 0.0377358 l "definition"
+24 25 0.1428571 l "definition"
+25 24 0.5000000 l "definition"
+24 13 0.2857143 l "definition"
+13 24 0.0377358 l "definition"
+1 3 0.5000000 l "substring"
+3 1 0.1250000 l "substring"
+15 21 0.1428571 l "substring"
+21 15 0.0769231 l "substring"
+17 21 0.1250000 l "substring"
+21 17 0.0769231 l "substring"
+17 22 0.1250000 l "substring"
+22 17 0.3333333 l "substring"
+17 23 0.1250000 l "substring"
+23 17 0.3333333 l "substring"
+19 22 0.3333333 l "substring"
+22 19 0.3333333 l "substring"
+20 23 0.5000000 l "substring"
+23 20 0.3333333 l "substring"
+30 32 0.2500000 l "substring"
+32 30 0.3333333 l "substring"
+30 33 0.2500000 l "substring"
+33 30 0.3333333 l "substring"
+32 33 0.3333333 l "substring"
+33 32 0.3333333 l "substring"
+4 5 0.3333333 l "distance"
+5 4 0.3333333 l "distance"
+4 9 0.3333333 l "distance"
+9 4 0.0454545 l "distance"
+5 9 0.3333333 l "distance"
+9 5 0.0454545 l "distance"
+9 10 0.1363636 l "distance"
+10 9 0.1578947 l "distance"
+11 12 0.3333333 l "distance"
+12 11 0.0588235 l "distance"
+16 19 0.5000000 l "distance"
+19 16 0.3333333 l "distance"
+32 33 0.3333333 l "distance"
+33 32 0.3333333 l "distance"
+36 37 0.5000000 l "distance"
+37 36 0.5000000 l "distance"
+*Edges

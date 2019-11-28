@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Dominica" ellipse
+2 "Dominican Republic" ellipse
+*Arcs
+1 2 0.2259032 l "substring"
+2 1 0.2293166 l "substring"
+1 2 0.2259032 l "substring"
+2 1 0.2293166 l "substring"
+1 2 0.2259032 l "substring"
+2 1 0.2293166 l "substring"
+*Edges

@@ -1,0 +1,52 @@
+*Vertices 9
+1 "tensor datum" ellipse
+2 "higher-order tensor datum" ellipse
+3 "matrix datum" ellipse
+4 "relative datum" ellipse
+5 "reference datum" ellipse
+6 "temporal reference role" ellipse
+7 "ratio datum" ellipse
+8 "difference datum" ellipse
+9 "relation role" ellipse
+*Arcs
+2 1 0.7101322 l "isa"
+1 2 0.3247491 l "isa"
+3 1 0.4826087 l "isa"
+1 3 0.1453514 l "isa"
+4 9 0.3125000 l "isa"
+9 4 0.1389267 l "isa"
+5 9 0.3157895 l "isa"
+9 5 0.1389267 l "isa"
+6 5 0.2205604 l "isa"
+5 6 0.3263158 l "isa"
+7 4 0.2708040 l "isa"
+4 7 0.3333333 l "isa"
+8 4 0.5000000 l "isa"
+4 8 0.3541667 l "isa"
+1 2 0.3247491 l "substring"
+2 1 0.7101322 l "substring"
+3 7 0.5173913 l "distance"
+7 3 0.2877292 l "distance"
+5 8 0.3578947 l "distance"
+8 5 0.5000000 l "distance"
+2 1 0.7101322 l "isa"
+1 2 0.3247491 l "isa"
+3 1 0.4826087 l "isa"
+1 3 0.1453514 l "isa"
+4 9 0.3125000 l "isa"
+9 4 0.1389267 l "isa"
+5 9 0.3157895 l "isa"
+9 5 0.1389267 l "isa"
+6 5 0.2205604 l "isa"
+5 6 0.3263158 l "isa"
+7 4 0.2708040 l "isa"
+4 7 0.3333333 l "isa"
+8 4 0.5000000 l "isa"
+4 8 0.3541667 l "isa"
+1 2 0.3247491 l "substring"
+2 1 0.7101322 l "substring"
+3 7 0.5173913 l "distance"
+7 3 0.2877292 l "distance"
+5 8 0.3578947 l "distance"
+8 5 0.5000000 l "distance"
+*Edges

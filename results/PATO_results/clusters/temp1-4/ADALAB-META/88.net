@@ -1,0 +1,19 @@
+*Vertices 4
+1 "OrganSystem" ellipse
+2 "OrganSystemSubdivision" ellipse
+3 "Skull" ellipse
+4 "SubdivisionOfSkeletalSystem" ellipse
+*Arcs
+3 4 0.2830368 l "isa"
+4 3 0.5045872 l "isa"
+4 2 0.4954129 l "isa"
+2 4 0.2254597 l "isa"
+1 2 0.2599322 l "substring"
+2 1 0.2045838 l "substring"
+3 4 0.2830368 l "isa"
+4 3 0.5045872 l "isa"
+4 2 0.4954129 l "isa"
+2 4 0.2254597 l "isa"
+1 2 0.2599322 l "substring"
+2 1 0.2045838 l "substring"
+*Edges

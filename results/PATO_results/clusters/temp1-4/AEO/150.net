@@ -1,0 +1,18 @@
+*Vertices 3
+1 "baseline state" ellipse
+2 "clinical treatment context" ellipse
+3 "quality" ellipse
+*Arcs
+1 3 0.2522070 l "isa"
+3 1 0.0505370 l "isa"
+1 2 0.2626195 l "definition"
+2 1 0.1004295 l "definition"
+1 3 0.2522070 l "isa"
+3 1 0.0505370 l "isa"
+1 2 0.2626195 l "definition"
+2 1 0.1004295 l "definition"
+1 3 0.2522070 l "isa"
+3 1 0.0505370 l "isa"
+1 2 0.2626195 l "definition"
+2 1 0.1004295 l "definition"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Diuretic" ellipse
+2 "HighCeilingLoopDiuretic" ellipse
+3 "OsmoticDiuretic" ellipse
+4 "PotassiumSparingDiuretic" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2857143 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2857143 l "isa"
+4 1 0.6666667 l "isa"
+1 4 0.2857143 l "isa"
+1 2 0.2857143 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2857143 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2857143 l "substring"
+4 1 0.6666667 l "substring"
+*Edges

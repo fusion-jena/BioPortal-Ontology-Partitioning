@@ -1,0 +1,26 @@
+*Vertices 7
+1 "A_Anticipar_y_delinear_problemas" ellipse
+2 "Aleatoria" ellipse
+3 "Consecuencial" ellipse
+4 "Consecuencias" ellipse
+5 "Consecuencias_economicas" ellipse
+6 "Consecuencias_psicosociales" ellipse
+7 "Por_agrupacion" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.2500000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2222222 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.2222222 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.2500000 l "isa"
+4 5 0.2222222 l "substring"
+5 4 1.0000000 l "substring"
+4 6 0.2222222 l "substring"
+6 4 1.0000000 l "substring"
+3 4 0.5000000 l "distance"
+4 3 0.1111111 l "distance"
+*Edges

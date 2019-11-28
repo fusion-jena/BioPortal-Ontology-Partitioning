@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Etiological thing" ellipse
+2 "thing related to pathogenesis" ellipse
+*Arcs
+2 1 0.1195983 l "isa"
+1 2 0.1761349 l "isa"
+2 1 0.1195983 l "isa"
+1 2 0.1761349 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "PeripheralBloodStemCellSample" ellipse
+2 "StemCellSample" ellipse
+*Arcs
+1 2 0.4000000 l "isa"
+2 1 0.2857143 l "isa"
+1 2 0.4000000 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

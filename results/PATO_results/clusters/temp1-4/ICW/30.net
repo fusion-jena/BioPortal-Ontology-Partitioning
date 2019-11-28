@@ -1,0 +1,46 @@
+*Vertices 9
+1 "sensory system" ellipse
+2 "vestibulo-auditory system" ellipse
+3 "Auditory System" ellipse
+4 "Body System" ellipse
+5 "Metabolic System" ellipse
+6 "Nutritional System" ellipse
+7 "Skin System (Integumentary System)" ellipse
+8 "Vestibular System" ellipse
+9 "Visual System" ellipse
+*Arcs
+2 1 0.5515857 l "isa"
+1 2 0.1757551 l "isa"
+2 1 0.5515857 l "isa"
+1 2 0.1757551 l "isa"
+3 4 0.4703516 l "isa"
+4 3 0.0672141 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0803077 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0803077 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0803077 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.0803077 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.0803077 l "isa"
+2 3 0.4484143 l "substring"
+3 2 0.5296484 l "substring"
+2 1 0.5515857 l "isa"
+1 2 0.1757551 l "isa"
+3 4 0.4703516 l "isa"
+4 3 0.0672141 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0803077 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0803077 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0803077 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.0803077 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.0803077 l "isa"
+2 3 0.4484143 l "substring"
+3 2 0.5296484 l "substring"
+*Edges

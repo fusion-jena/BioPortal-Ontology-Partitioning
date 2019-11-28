@@ -1,0 +1,9 @@
+*Vertices 2
+1 "levelDescription"
+2 "levelDescription"
+*Arcs
+1 2 0.1459568 l "substring"
+2 1 0.1538462 l "substring"
+1 2 0.1459568 l "distance"
+2 1 0.1538462 l "distance"
+*Edges

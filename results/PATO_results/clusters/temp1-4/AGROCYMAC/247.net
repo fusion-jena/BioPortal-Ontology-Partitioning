@@ -1,0 +1,17 @@
+*Vertices 2
+1 "domain (math)" ellipse
+2 "codomain (math)" ellipse
+*Arcs
+1 2 0.7817852 l "substring"
+2 1 0.7817852 l "substring"
+1 2 0.7817852 l "distance"
+2 1 0.7817852 l "distance"
+1 2 0.7817852 l "substring"
+2 1 0.7817852 l "substring"
+1 2 0.7817852 l "distance"
+2 1 0.7817852 l "distance"
+1 2 0.7817852 l "substring"
+2 1 0.7817852 l "substring"
+1 2 0.7817852 l "distance"
+2 1 0.7817852 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "dispersed phase role" ellipse
+2 "particulate phase" ellipse
+*Arcs
+2 1 0.2838381 l "isa"
+1 2 0.1739032 l "isa"
+2 1 0.2838381 l "isa"
+1 2 0.1739032 l "isa"
+2 1 0.2838381 l "isa"
+1 2 0.1739032 l "isa"
+*Edges

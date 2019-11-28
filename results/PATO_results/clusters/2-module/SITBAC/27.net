@@ -1,0 +1,9 @@
+*Vertices 2
+1 "AbstractSituation_Atypical" ellipse
+2 "Situation" ellipse
+*Arcs
+1 2 0.2222222 l "isa"
+2 1 0.1176471 l "isa"
+1 2 0.2222222 l "substring"
+2 1 0.1176471 l "substring"
+*Edges

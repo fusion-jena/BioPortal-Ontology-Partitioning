@@ -1,0 +1,38 @@
+*Vertices 11
+1 "Area Type" ellipse
+2 "City Section Type" ellipse
+3 "Continent Type" ellipse
+4 "Country Type" ellipse
+5 "County Type" ellipse
+6 "Extraterrestrial Area Type" ellipse
+7 "Geographic Authority" ellipse
+8 "Island Type" ellipse
+9 "Province Type" ellipse
+10 "Region Type" ellipse
+11 "Territory Type" ellipse
+*Arcs
+1 7 0.3333333 l "isa"
+7 1 0.0588235 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.0588235 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.0588235 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.0588235 l "isa"
+5 7 0.3333333 l "isa"
+7 5 0.0588235 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.0588235 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.0588235 l "isa"
+9 7 1.0000000 l "isa"
+7 9 0.0588235 l "isa"
+10 7 1.0000000 l "isa"
+7 10 0.0588235 l "isa"
+11 7 1.0000000 l "isa"
+7 11 0.0588235 l "isa"
+1 6 0.3333333 l "substring"
+6 1 0.5000000 l "substring"
+4 5 0.5000000 l "distance"
+5 4 0.3333333 l "distance"
+*Edges

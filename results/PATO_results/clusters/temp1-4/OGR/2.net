@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Direction" ellipse
+2 "TextualBody" ellipse
+3 "Person" ellipse
+4 ""
+*Arcs
+4 3 0.0421052 l "definition"
+3 4 1.0000000 l "definition"
+1 4 1.0000000 l "substring"
+4 1 0.0208078 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.0208078 l "substring"
+3 4 1.0000000 l "substring"
+4 3 0.0421052 l "substring"
+4 3 0.0421052 l "definition"
+3 4 1.0000000 l "definition"
+1 4 1.0000000 l "substring"
+4 1 0.0208078 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.0208078 l "substring"
+3 4 1.0000000 l "substring"
+4 3 0.0421052 l "substring"
+*Edges

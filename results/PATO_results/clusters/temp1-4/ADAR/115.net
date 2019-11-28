@@ -1,0 +1,22 @@
+*Vertices 3
+1 "CareProcess" ellipse
+2 "NursingCare" ellipse
+3 "ParenteralFeeding" ellipse
+*Arcs
+2 1 0.3265191 l "isa"
+1 2 0.1793377 l "isa"
+3 2 0.4258014 l "isa"
+2 3 0.4042182 l "isa"
+2 1 0.3265191 l "isa"
+1 2 0.1793377 l "isa"
+3 2 0.4258014 l "isa"
+2 3 0.4042182 l "isa"
+2 1 0.3265191 l "isa"
+1 2 0.1793377 l "isa"
+3 2 0.4258014 l "isa"
+2 3 0.4042182 l "isa"
+2 1 0.3265191 l "isa"
+1 2 0.1793377 l "isa"
+3 2 0.4258014 l "isa"
+2 3 0.4042182 l "isa"
+*Edges

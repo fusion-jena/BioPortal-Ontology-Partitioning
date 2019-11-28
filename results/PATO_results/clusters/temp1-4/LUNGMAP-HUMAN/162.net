@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Finnish" ellipse
+2 "Cornish" ellipse
+*Arcs
+1 2 0.2233532 l "distance"
+2 1 0.2689669 l "distance"
+1 2 0.2233532 l "distance"
+2 1 0.2689669 l "distance"
+1 2 0.2233532 l "distance"
+2 1 0.2689669 l "distance"
+*Edges

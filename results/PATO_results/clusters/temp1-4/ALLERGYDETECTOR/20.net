@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CH50L" ellipse
+2 "CH50P" ellipse
+*Arcs
+1 2 0.0465262 l "distance"
+2 1 0.0675031 l "distance"
+1 2 0.0465262 l "distance"
+2 1 0.0675031 l "distance"
+*Edges

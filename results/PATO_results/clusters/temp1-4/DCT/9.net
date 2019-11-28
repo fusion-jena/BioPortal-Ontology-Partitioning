@@ -1,0 +1,48 @@
+*Vertices 5
+1 "minutesFairlyActive" ellipse
+2 "minutesLightlyActive" ellipse
+3 "minutesVeryActive" ellipse
+4 "steps" ellipse
+5 "3axisGyroscope" ellipse
+*Arcs
+1 4 0.1660865 l "isa"
+4 1 0.0716636 l "isa"
+2 4 0.1660865 l "isa"
+4 2 0.0716636 l "isa"
+3 4 0.1660865 l "isa"
+4 3 0.0716636 l "isa"
+4 5 0.0757967 l "isa"
+5 4 0.2030188 l "isa"
+1 4 0.1660865 l "isa"
+4 1 0.0716636 l "isa"
+2 4 0.1660865 l "isa"
+4 2 0.0716636 l "isa"
+3 4 0.1660865 l "isa"
+4 3 0.0716636 l "isa"
+4 5 0.0757967 l "isa"
+5 4 0.2030188 l "isa"
+1 4 0.1660865 l "isa"
+4 1 0.0716636 l "isa"
+2 4 0.1660865 l "isa"
+4 2 0.0716636 l "isa"
+3 4 0.1660865 l "isa"
+4 3 0.0716636 l "isa"
+4 5 0.0757967 l "isa"
+5 4 0.2030188 l "isa"
+1 4 0.1660865 l "isa"
+4 1 0.0716636 l "isa"
+2 4 0.1660865 l "isa"
+4 2 0.0716636 l "isa"
+3 4 0.1660865 l "isa"
+4 3 0.0716636 l "isa"
+4 5 0.0757967 l "isa"
+5 4 0.2030188 l "isa"
+1 4 0.1660865 l "isa"
+4 1 0.0716636 l "isa"
+2 4 0.1660865 l "isa"
+4 2 0.0716636 l "isa"
+3 4 0.1660865 l "isa"
+4 3 0.0716636 l "isa"
+4 5 0.0757967 l "isa"
+5 4 0.2030188 l "isa"
+*Edges

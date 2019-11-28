@@ -1,0 +1,23 @@
+*Vertices 2
+1 "reduction" ellipse
+2 "reaction" ellipse
+*Arcs
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+1 2 0.7697126 l "distance"
+2 1 0.7986289 l "distance"
+*Edges

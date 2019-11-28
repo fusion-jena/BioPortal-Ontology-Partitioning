@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Notification" ellipse
+2 "Notification" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.8011795 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.8011795 l "distance"
+1 2 1.0000000 l "substring"
+2 1 0.8011795 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.8011795 l "distance"
+1 2 1.0000000 l "substring"
+2 1 0.8011795 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.8011795 l "distance"
+*Edges

@@ -1,0 +1,20 @@
+*Vertices 3
+1 "Derivados_Dos_Oito_Principais_Alergenicos" ellipse
+2 "DerivaDe"
+3 "Deriva"
+*Arcs
+2 1 0.1000000 l "definition"
+1 2 0.1428571 l "definition"
+2 2 0.2000000 l "definition"
+2 2 0.2000000 l "definition"
+3 3 0.1818182 l "definition"
+3 3 0.1818182 l "definition"
+3 1 0.1818182 l "definition"
+1 3 0.2857143 l "definition"
+1 3 0.2857143 l "substring"
+3 1 0.1818182 l "substring"
+2 3 0.2000000 l "substring"
+3 2 0.1818182 l "substring"
+2 3 0.2000000 l "distance"
+3 2 0.1818182 l "distance"
+*Edges

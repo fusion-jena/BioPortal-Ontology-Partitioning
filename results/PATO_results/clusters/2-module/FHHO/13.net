@@ -1,0 +1,51 @@
+*Vertices 8
+1 "Aunt" ellipse
+2 "Grand_Aunt" ellipse
+3 "Maternal_Aunt" ellipse
+4 "Maternal_maternal_grandaunt" ellipse
+5 "Maternal_paternal_grandaunt" ellipse
+6 "Paternal_Aunt" ellipse
+7 "Paternal_maternal_grandaunt" ellipse
+8 "Paternal_paternal_grandaunt" ellipse
+*Arcs
+3 1 0.6666667 l "isa"
+1 3 0.1666667 l "isa"
+4 2 0.2000000 l "isa"
+2 4 0.1250000 l "isa"
+5 2 0.2000000 l "isa"
+2 5 0.1250000 l "isa"
+6 1 0.6666667 l "isa"
+1 6 0.1666667 l "isa"
+7 2 0.2000000 l "isa"
+2 7 0.1250000 l "isa"
+8 2 0.2000000 l "isa"
+2 8 0.1250000 l "isa"
+1 2 0.0833333 l "substring"
+2 1 0.1250000 l "substring"
+1 3 0.1666667 l "substring"
+3 1 0.6666667 l "substring"
+1 4 0.0833333 l "substring"
+4 1 0.2000000 l "substring"
+1 5 0.0833333 l "substring"
+5 1 0.2000000 l "substring"
+1 6 0.1666667 l "substring"
+6 1 0.6666667 l "substring"
+1 7 0.0833333 l "substring"
+7 1 0.2000000 l "substring"
+1 8 0.0833333 l "substring"
+8 1 0.2000000 l "substring"
+3 6 0.3333333 l "distance"
+6 3 0.3333333 l "distance"
+4 5 0.2000000 l "distance"
+5 4 0.2000000 l "distance"
+4 7 0.2000000 l "distance"
+7 4 0.2000000 l "distance"
+4 8 0.2000000 l "distance"
+8 4 0.2000000 l "distance"
+5 7 0.2000000 l "distance"
+7 5 0.2000000 l "distance"
+5 8 0.2000000 l "distance"
+8 5 0.2000000 l "distance"
+7 8 0.2000000 l "distance"
+8 7 0.2000000 l "distance"
+*Edges

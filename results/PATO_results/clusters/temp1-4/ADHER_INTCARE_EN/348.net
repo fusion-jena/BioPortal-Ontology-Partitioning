@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Definite_unusual_and_marked_resistance_to_minor_changes_in_subjects_own_routines" ellipse
+2 "change_Definite_unusual_and_marked_resistance_to_minor_changes_in_subjects_own_routines"
+*Arcs
+1 2 0.1733461 l "substring"
+2 1 0.1508002 l "substring"
+1 2 0.1733461 l "substring"
+2 1 0.1508002 l "substring"
+*Edges

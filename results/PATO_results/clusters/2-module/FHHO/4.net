@@ -1,0 +1,216 @@
+*Vertices 69
+1 "Allergic_Disorder" ellipse
+2 "Alzheimers_Disease" ellipse
+3 "Anxiety" ellipse
+4 "Arthritis" ellipse
+5 "Arthropathy" ellipse
+6 "Aspergers_Disorder" ellipse
+7 "Asthma" ellipse
+8 "Autistic_Disorder" ellipse
+9 "Benign_Neoplasm_of_Brain" ellipse
+10 "Bipolar_Disorder" ellipse
+11 "Blood_Clot" ellipse
+12 "Cardiac_Dysrhythmia" ellipse
+13 "Carpal_Tunnel_Syndrome" ellipse
+14 "Cerebrovascular_Accident" ellipse
+15 "Cholecystitis" ellipse
+16 "Classical_Phenylketonuria" ellipse
+17 "Coronary_Artery_Disease" ellipse
+18 "Cyst_of_Breast" ellipse
+19 "Degeneration_of_Intervertebral_Disc" ellipse
+20 "Depressive_Disorder" ellipse
+21 "Developmental_Disorder" ellipse
+22 "Diabetes_Mellitus" ellipse
+23 "Diagnosis" ellipse
+24 "Disorder_of_Thyroid_Gland" ellipse
+25 "Eating_Disorder" ellipse
+26 "Endometriosis" ellipse
+27 "Female_Infertility" ellipse
+28 "Heart_Failure" ellipse
+29 "Heart_Valve_Disorder" ellipse
+30 "Hepatic_failure" ellipse
+31 "Hypercholesterolemia" ellipse
+32 "Hypertensive_Disorder" ellipse
+33 "Kidney_Disease" ellipse
+34 "Lactose_Intolerance" ellipse
+35 "Leukemia" ellipse
+36 "Lupus_erythematosus" ellipse
+37 "Malignant_Melanoma" ellipse
+38 "Malignant_Neoplasm_of_Breast" ellipse
+39 "Malignant_Neoplasm_of_Breast_Bilateral" ellipse
+40 "Malignant_Neoplasm_of_Liver" ellipse
+41 "Malignant_Neoplasm_of_Ovary" ellipse
+42 "Malignant_Neoplasm_of_Skin" ellipse
+43 "Malignant_Neoplasm_of_Thyroid" ellipse
+44 "Malignant_Neoplastic_Disease" ellipse
+45 "Malignant_Tumor_of_Colon" ellipse
+46 "Malignant_Tumor_of_Lung" ellipse
+47 "Malignant_Tumor_of_Prostate" ellipse
+48 "Malignant_Tumor_of_Stomach" ellipse
+49 "Malignant_tumor_of_intestine" ellipse
+50 "Meningitis" ellipse
+51 "Mental_Disorder" ellipse
+52 "Migraine" ellipse
+53 "Multiple_Sclerosis" ellipse
+54 "Myocardial_Infarction" ellipse
+55 "Neoplasm_of_Ear" ellipse
+56 "Neoplasm_of_Uterus" ellipse
+57 "Non_Hodgkins_Lymphoma" ellipse
+58 "Overweight_Or_Obesity" ellipse
+59 "Parkinsonism" ellipse
+60 "Polyp_of_Colon" ellipse
+61 "Prematurity_of_fetus" ellipse
+62 "Primary_Malignant_Neoplasm_of_Bone" ellipse
+63 "Renal_Failure_Syndrome" ellipse
+64 "Secondary_Malignant_Neoplasm_of_Bone" ellipse
+65 "Substance_Abuse" ellipse
+66 "Torsion_of_Spermatic_Cord" ellipse
+67 "Transplant_of_Kidney" ellipse
+68 "int"
+69 "Class"
+*Arcs
+1 23 1.0000000 l "isa"
+23 1 0.0156250 l "isa"
+2 23 1.0000000 l "isa"
+23 2 0.0156250 l "isa"
+3 23 1.0000000 l "isa"
+23 3 0.0156250 l "isa"
+4 23 1.0000000 l "isa"
+23 4 0.0156250 l "isa"
+5 23 1.0000000 l "isa"
+23 5 0.0156250 l "isa"
+6 23 1.0000000 l "isa"
+23 6 0.0156250 l "isa"
+7 23 1.0000000 l "isa"
+23 7 0.0156250 l "isa"
+8 23 1.0000000 l "isa"
+23 8 0.0156250 l "isa"
+9 23 1.0000000 l "isa"
+23 9 0.0156250 l "isa"
+10 51 1.0000000 l "isa"
+51 10 0.2500000 l "isa"
+11 23 1.0000000 l "isa"
+23 11 0.0156250 l "isa"
+12 23 1.0000000 l "isa"
+23 12 0.0156250 l "isa"
+13 23 1.0000000 l "isa"
+23 13 0.0156250 l "isa"
+14 23 1.0000000 l "isa"
+23 14 0.0156250 l "isa"
+15 23 1.0000000 l "isa"
+23 15 0.0156250 l "isa"
+16 23 0.5000000 l "isa"
+23 16 0.0156250 l "isa"
+17 23 1.0000000 l "isa"
+23 17 0.0156250 l "isa"
+18 23 1.0000000 l "isa"
+23 18 0.0156250 l "isa"
+19 23 0.5000000 l "isa"
+23 19 0.0156250 l "isa"
+20 23 1.0000000 l "isa"
+23 20 0.0156250 l "isa"
+21 23 0.5000000 l "isa"
+23 21 0.0156250 l "isa"
+22 23 1.0000000 l "isa"
+23 22 0.0156250 l "isa"
+24 23 1.0000000 l "isa"
+23 24 0.0156250 l "isa"
+25 51 1.0000000 l "isa"
+51 25 0.2500000 l "isa"
+26 23 1.0000000 l "isa"
+23 26 0.0156250 l "isa"
+27 23 1.0000000 l "isa"
+23 27 0.0156250 l "isa"
+28 23 1.0000000 l "isa"
+23 28 0.0156250 l "isa"
+29 23 1.0000000 l "isa"
+23 29 0.0156250 l "isa"
+30 23 1.0000000 l "isa"
+23 30 0.0156250 l "isa"
+31 23 1.0000000 l "isa"
+23 31 0.0156250 l "isa"
+32 23 1.0000000 l "isa"
+23 32 0.0156250 l "isa"
+33 23 1.0000000 l "isa"
+23 33 0.0156250 l "isa"
+34 23 0.5000000 l "isa"
+23 34 0.0156250 l "isa"
+35 23 1.0000000 l "isa"
+23 35 0.0156250 l "isa"
+36 23 1.0000000 l "isa"
+23 36 0.0156250 l "isa"
+37 23 1.0000000 l "isa"
+23 37 0.0156250 l "isa"
+38 23 0.3333333 l "isa"
+23 38 0.0156250 l "isa"
+39 38 1.0000000 l "isa"
+38 39 0.6666667 l "isa"
+40 23 1.0000000 l "isa"
+23 40 0.0156250 l "isa"
+41 23 1.0000000 l "isa"
+23 41 0.0156250 l "isa"
+42 23 1.0000000 l "isa"
+23 42 0.0156250 l "isa"
+43 23 1.0000000 l "isa"
+23 43 0.0156250 l "isa"
+44 23 1.0000000 l "isa"
+23 44 0.0156250 l "isa"
+45 23 1.0000000 l "isa"
+23 45 0.0156250 l "isa"
+46 23 1.0000000 l "isa"
+23 46 0.0156250 l "isa"
+47 23 1.0000000 l "isa"
+23 47 0.0156250 l "isa"
+48 23 1.0000000 l "isa"
+23 48 0.0156250 l "isa"
+49 23 0.5000000 l "isa"
+23 49 0.0156250 l "isa"
+50 23 1.0000000 l "isa"
+23 50 0.0156250 l "isa"
+51 23 0.2500000 l "isa"
+23 51 0.0156250 l "isa"
+52 23 1.0000000 l "isa"
+23 52 0.0156250 l "isa"
+53 23 1.0000000 l "isa"
+23 53 0.0156250 l "isa"
+54 23 1.0000000 l "isa"
+23 54 0.0156250 l "isa"
+55 23 1.0000000 l "isa"
+23 55 0.0156250 l "isa"
+56 23 1.0000000 l "isa"
+23 56 0.0156250 l "isa"
+57 23 1.0000000 l "isa"
+23 57 0.0156250 l "isa"
+58 23 1.0000000 l "isa"
+23 58 0.0156250 l "isa"
+59 23 1.0000000 l "isa"
+23 59 0.0156250 l "isa"
+60 23 1.0000000 l "isa"
+23 60 0.0156250 l "isa"
+61 23 1.0000000 l "isa"
+23 61 0.0156250 l "isa"
+62 23 1.0000000 l "isa"
+23 62 0.0156250 l "isa"
+63 23 1.0000000 l "isa"
+23 63 0.0156250 l "isa"
+64 23 1.0000000 l "isa"
+23 64 0.0156250 l "isa"
+65 23 1.0000000 l "isa"
+23 65 0.0156250 l "isa"
+66 23 1.0000000 l "isa"
+23 66 0.0156250 l "isa"
+67 23 1.0000000 l "isa"
+23 67 0.0156250 l "isa"
+16 69 0.5000000 l "substring"
+69 16 0.0136986 l "substring"
+19 68 0.5000000 l "substring"
+68 19 0.1666667 l "substring"
+21 51 0.5000000 l "substring"
+51 21 0.2500000 l "substring"
+34 68 0.5000000 l "substring"
+68 34 0.1666667 l "substring"
+38 39 0.6666667 l "substring"
+39 38 1.0000000 l "substring"
+49 68 0.5000000 l "substring"
+68 49 0.1666667 l "substring"
+*Edges

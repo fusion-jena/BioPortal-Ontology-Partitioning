@@ -1,0 +1,941 @@
+*Vertices 242
+1 "observable" ellipse
+2 "protein activity" ellipse
+3 "development" ellipse
+4 "budding" ellipse
+5 "axial budding pattern" ellipse
+6 "bipolar budding pattern" ellipse
+7 "filamentous growth" ellipse
+8 "invasive growth" ellipse
+9 "pseudohyphal growth" ellipse
+10 "lifespan" ellipse
+11 "sexual cycle" ellipse
+12 "mating response" ellipse
+13 "cell fusion" ellipse
+14 "mating efficiency" ellipse
+15 "nuclear fusion during mating" ellipse
+16 "pheromone production" ellipse
+17 "pheromone sensitivity" ellipse
+18 "shmoo formation" ellipse
+19 "meiosis" ellipse
+20 "meiotic recombination" ellipse
+21 "sporulation" ellipse
+22 "spore germination" ellipse
+23 "spore wall formation" ellipse
+24 "sporulation efficiency" ellipse
+25 "sterile" ellipse
+26 "silencing" ellipse
+27 "transposable element transposition" ellipse
+28 "virulence" ellipse
+29 "morphology" ellipse
+30 "cellular morphology" ellipse
+31 "cell shape" ellipse
+32 "cell size" ellipse
+33 "cell wall morphology" ellipse
+34 "cytoskeleton morphology" ellipse
+35 "mitochondrial morphology" ellipse
+36 "bud neck morphology" ellipse
+37 "nuclear morphology" ellipse
+38 "peroxisomal morphology" ellipse
+39 "vacuolar morphology" ellipse
+40 "colony appearance" ellipse
+41 "colony color" ellipse
+42 "colony shape" ellipse
+43 "colony size" ellipse
+44 "liquid culture appearance" ellipse
+45 "flocculation" ellipse
+46 "cellular processes" ellipse
+47 "cell cycle arrest in G1 phase" ellipse
+48 "cell cycle arrest at G2 phase" ellipse
+49 "cell cycle arrest at START" ellipse
+50 "cell cycle arrest" ellipse
+51 "cytokinesis" ellipse
+52 "mitotic cell cycle" ellipse
+53 "intracellular transport" ellipse
+54 "autophagy" ellipse
+55 "endocytosis" ellipse
+56 "mitochondrial transport" ellipse
+57 "nuclear transport" ellipse
+58 "protein secretion" ellipse
+59 "vacuolar transport" ellipse
+60 "stress resistance" ellipse
+61 "killer toxin resistance" ellipse
+62 "osmotic stress resistance" ellipse
+63 "oxidative stress resistance" ellipse
+64 "radiation resistance" ellipse
+65 "UV resistance" ellipse
+66 "X ray resistance" ellipse
+67 "resistance to chemicals" ellipse
+68 "drug resistance" ellipse
+69 "budding index" ellipse
+70 "metal resistance" ellipse
+71 "starvation resistance" ellipse
+72 "temperature sensitive growth" ellipse
+73 "thermotolerance" ellipse
+74 "metabolism and growth" ellipse
+75 "chemical compound accumulation" ellipse
+76 "nutrient utilization" ellipse
+77 "auxotrophy" ellipse
+78 "utilization of carbon source" ellipse
+79 "utilization of nitrogen source" ellipse
+80 "nutrient uptake" ellipse
+81 "fermentative metabolism" ellipse
+82 "respiratory metabolism" ellipse
+83 "respiratory growth rate" ellipse
+84 "mitochondrial rho- mutation frequency" ellipse
+85 "mitochondrial genome maintenance" ellipse
+86 "vegetative growth" ellipse
+87 "survival rate in stationary phase" ellipse
+88 "competitive fitness" ellipse
+89 "viability" ellipse
+90 "inviable" ellipse
+91 "viable" ellipse
+92 "nuclear position" ellipse
+93 "size of nucleus" ellipse
+94 "actin cytoskeleton morphology" ellipse
+95 "cell cycle arrest in M phase" ellipse
+96 "recovery from pheromone-induced cell cycle arrest" ellipse
+97 "pheromone-induced cell cycle arrest" ellipse
+98 "utilization of phosphorus source" ellipse
+99 "nuclear import" ellipse
+100 "nuclear export" ellipse
+101 "peroxisomal transport" ellipse
+102 "protein transport" ellipse
+103 "small molecule transport" ellipse
+104 "protein/peptide modification" ellipse
+105 "RNA localization" ellipse
+106 "cell cycle arrest in metaphase" ellipse
+107 "cell cycle arrest at the metaphase - anaphase transition" ellipse
+108 "cell cycle arrest in anaphase" ellipse
+109 "cell cycle arrest in early anaphase" ellipse
+110 "cell cycle arrest in mid anaphase" ellipse
+111 "cell cycle arrest in late anaphase" ellipse
+112 "cell cycle arrest in telophase" ellipse
+113 "cell cycle arrest in G0 (stationary phase)" ellipse
+114 "critical cell size at START (G1 cell-size checkpoint)" ellipse
+115 "critical cell size at G2/M (cryptic G2/M cell size checkpoint)" ellipse
+116 "chromosome/plasmid maintenance" ellipse
+117 "telomere length" ellipse
+118 "oxidative phosphorylation" ellipse
+119 "heat sensitivity" ellipse
+120 "cold sensitivity" ellipse
+121 "protein/peptide accumulation" ellipse
+122 "haploinsufficient" ellipse
+123 "petite" ellipse
+124 "petite-negative" ellipse
+125 "apoptosis" ellipse
+126 "fermentative growth rate" ellipse
+127 "utilization of iron source" ellipse
+128 "culture appearance" ellipse
+129 "biofilm formation" ellipse
+130 "hyphal growth" ellipse
+131 "resistance to enzymatic treatment" ellipse
+132 "ionizing radiation resistance" ellipse
+133 "gamma ray resistance" ellipse
+134 "mating type switching" ellipse
+135 "colony sectoring" ellipse
+136 "mutation frequency" ellipse
+137 "chitin deposition" ellipse
+138 "budding pattern" ellipse
+139 "acid pH resistance" ellipse
+140 "alkaline pH resistance" ellipse
+141 "hypoosmotic stress resistance" ellipse
+142 "hyperosmotic stress resistance" ellipse
+143 "ionic stress resistance" ellipse
+144 "chromosome segregation" ellipse
+145 "protein/peptide distribution" ellipse
+146 "anaerobic metabolism" ellipse
+147 "anaerobic growth rate" ellipse
+148 "bud morphology" ellipse
+149 "spindle morphology" ellipse
+150 "position of spindle pole body" ellipse
+151 "toxin resistance" ellipse
+152 "fitness" ellipse
+153 "essentiality" ellipse
+154 "redox state" ellipse
+155 "utilization of sulfur source" ellipse
+156 "necrotic cell death" ellipse
+157 "septum formation" ellipse
+158 "chemical compound excretion" ellipse
+159 "mating projection morphology" ellipse
+160 "RNA accumulation" ellipse
+161 "mitotic recombination" ellipse
+162 "subcellular morphology" ellipse
+163 "cell cycle arrest in S phase" ellipse
+164 "cell cycle arrest at the G2/M phase transition" ellipse
+165 "pexophagy" ellipse
+166 "mitophagy" ellipse
+167 "freeze-thaw resistance" ellipse
+168 "lipid particle morphology" ellipse
+169 "Golgi morphology" ellipse
+170 "cell cycle progression" ellipse
+171 "cell cycle progression in G2 phase" ellipse
+172 "cell cycle progression in G1 phase" ellipse
+173 "cell cycle passage through START" ellipse
+174 "cell cycle progression through the G2/M phase transition" ellipse
+175 "cell cycle progression in M phase" ellipse
+176 "cell cycle passage through the metaphase-anaphase transition" ellipse
+177 "cell cycle progression in anaphase" ellipse
+178 "cell cycle progression in early anaphase" ellipse
+179 "cell cycle progression in mid anaphase" ellipse
+180 "cell cycle progression in late anaphase" ellipse
+181 "cell cycle progression in metaphase" ellipse
+182 "cell cycle progression in telophase" ellipse
+183 "cell cycle progression in S phase" ellipse
+184 "entry into G0 (stationary phase)" ellipse
+185 "exit from G0 (stationary phase)" ellipse
+186 "cell cycle progression through the G1/S phase transition" ellipse
+187 "endoplasmic reticulum morphology" ellipse
+188 "RNA modification" ellipse
+189 "nucleolar morphology" ellipse
+190 "prion state" ellipse
+191 "prion inheritance" ellipse
+192 "prion formation" ellipse
+193 "prion loss" ellipse
+194 "interaction with host/environment" ellipse
+195 "adhesion" ellipse
+196 "response to light" ellipse
+197 "formation of anatomical structure" ellipse
+198 "secondary metabolite production" ellipse
+199 "utilization of zinc source" ellipse
+200 "utilization of magnesium source" ellipse
+201 "conidiation" ellipse
+202 "organelle distribution" ellipse
+203 "mitochondrial distribution" ellipse
+204 "peroxisomal distribution" ellipse
+205 "vacuolar distribution" ellipse
+206 "endoplasmic reticulum distribution" ellipse
+207 "Golgi distribution" ellipse
+208 "vesicle distribution" ellipse
+209 "endomembrane system morphology" ellipse
+210 "conidial germination" ellipse
+211 "anaerobic growth" ellipse
+212 "fermentative growth" ellipse
+213 "respiratory growth" ellipse
+214 "growth in exponential phase" ellipse
+215 "growth in post-diauxic phase" ellipse
+216 "cell death" ellipse
+217 "autolysis" ellipse
+218 "cell lysis" ellipse
+219 "plasma membrane morphology" ellipse
+220 "chronological lifespan" ellipse
+221 "replicative lifespan" ellipse
+222 "chlamydospore formation" ellipse
+223 "germ tube formation" ellipse
+224 "phenotypic switching" ellipse
+225 "resistance to killing by host cells" ellipse
+226 "resistance to phagocytosis" ellipse
+227 "desiccation resistance" ellipse
+228 "hydrostatic pressure resistance" ellipse
+229 "induction of host response" ellipse
+230 "haploproficient" ellipse
+231 "capsule formation" ellipse
+232 "peg formation" ellipse
+233 "acquired thermotolerance" ellipse
+234 "innate thermotolerance" ellipse
+235 "size of nucleolus" ellipse
+236 "aneuploidy" ellipse
+237 "polyploidy" ellipse
+238 "micronucleophagy" ellipse
+239 "ribophagy" ellipse
+240 "reticulophagy" ellipse
+241 "nucleophagy" ellipse
+242 "late nucleophagy" ellipse
+*Arcs
+2 74 1.0000000 l "isa"
+74 2 0.0714286 l "isa"
+3 1 0.1111111 l "isa"
+1 3 0.1428571 l "isa"
+4 3 0.1428571 l "isa"
+3 4 0.1111111 l "isa"
+5 138 0.6666667 l "isa"
+138 5 0.3333333 l "isa"
+6 138 0.6666667 l "isa"
+138 6 0.3333333 l "isa"
+7 3 0.2000000 l "isa"
+3 7 0.1111111 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2000000 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.2000000 l "isa"
+10 3 0.2000000 l "isa"
+3 10 0.1111111 l "isa"
+11 3 0.1666667 l "isa"
+3 11 0.1111111 l "isa"
+12 11 0.1428571 l "isa"
+11 12 0.1666667 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.1428571 l "isa"
+14 12 1.0000000 l "isa"
+12 14 0.1428571 l "isa"
+15 12 1.0000000 l "isa"
+12 15 0.1428571 l "isa"
+16 12 1.0000000 l "isa"
+12 16 0.1428571 l "isa"
+17 12 0.3333333 l "isa"
+12 17 0.1428571 l "isa"
+18 12 1.0000000 l "isa"
+12 18 0.1428571 l "isa"
+19 11 0.5000000 l "isa"
+11 19 0.1666667 l "isa"
+20 19 0.5000000 l "isa"
+19 20 0.5000000 l "isa"
+21 11 0.2000000 l "isa"
+11 21 0.1666667 l "isa"
+22 21 1.0000000 l "isa"
+21 22 0.2000000 l "isa"
+23 21 1.0000000 l "isa"
+21 23 0.2000000 l "isa"
+24 21 1.0000000 l "isa"
+21 24 0.4000000 l "isa"
+25 11 1.0000000 l "isa"
+11 25 0.1666667 l "isa"
+26 116 1.0000000 l "isa"
+116 26 0.1111111 l "isa"
+27 116 1.0000000 l "isa"
+116 27 0.1111111 l "isa"
+28 194 1.0000000 l "isa"
+194 28 0.1428571 l "isa"
+29 1 0.0454545 l "isa"
+1 29 0.1428571 l "isa"
+30 29 0.2000000 l "isa"
+29 30 0.0909091 l "isa"
+31 30 0.5000000 l "isa"
+30 31 0.1000000 l "isa"
+32 30 0.1666667 l "isa"
+30 32 0.1000000 l "isa"
+33 162 0.2500000 l "isa"
+162 33 0.1000000 l "isa"
+34 162 0.2000000 l "isa"
+162 34 0.1000000 l "isa"
+35 162 0.5000000 l "isa"
+162 35 0.1000000 l "isa"
+36 30 0.5000000 l "isa"
+30 36 0.1000000 l "isa"
+37 209 0.2000000 l "isa"
+209 37 0.1428571 l "isa"
+38 209 0.5000000 l "isa"
+209 38 0.1428571 l "isa"
+39 209 0.5000000 l "isa"
+209 39 0.1428571 l "isa"
+40 128 0.2000000 l "isa"
+128 40 0.2000000 l "isa"
+41 40 1.0000000 l "isa"
+40 41 0.2000000 l "isa"
+42 40 0.5000000 l "isa"
+40 42 0.2000000 l "isa"
+43 40 0.5000000 l "isa"
+40 43 0.2000000 l "isa"
+44 128 0.6666667 l "isa"
+128 44 0.4000000 l "isa"
+45 44 1.0000000 l "isa"
+44 45 0.3333333 l "isa"
+46 1 0.1428571 l "isa"
+1 46 0.1428571 l "isa"
+51 52 1.0000000 l "isa"
+52 51 0.1666667 l "isa"
+52 46 0.1666667 l "isa"
+46 52 0.1428571 l "isa"
+53 46 0.1428571 l "isa"
+46 53 0.1428571 l "isa"
+54 53 0.0909091 l "isa"
+53 54 0.1428571 l "isa"
+55 53 1.0000000 l "isa"
+53 55 0.1428571 l "isa"
+56 102 1.0000000 l "isa"
+102 56 0.1666667 l "isa"
+57 102 0.3333333 l "isa"
+102 57 0.1666667 l "isa"
+58 102 1.0000000 l "isa"
+102 58 0.1666667 l "isa"
+59 102 1.0000000 l "isa"
+102 59 0.1666667 l "isa"
+60 46 0.0625000 l "isa"
+46 60 0.1428571 l "isa"
+61 151 1.0000000 l "isa"
+151 61 0.6666667 l "isa"
+62 67 0.1666667 l "isa"
+67 62 0.1428571 l "isa"
+63 67 0.5000000 l "isa"
+67 63 0.1428571 l "isa"
+64 60 0.2500000 l "isa"
+60 64 0.0625000 l "isa"
+65 64 0.5000000 l "isa"
+64 65 0.2500000 l "isa"
+66 132 1.0000000 l "isa"
+132 66 0.2500000 l "isa"
+67 60 0.1428571 l "isa"
+60 67 0.0625000 l "isa"
+69 4 1.0000000 l "isa"
+4 69 0.2857143 l "isa"
+70 67 1.0000000 l "isa"
+67 70 0.1428571 l "isa"
+71 60 1.0000000 l "isa"
+60 71 0.0625000 l "isa"
+72 60 0.3333333 l "isa"
+60 72 0.0625000 l "isa"
+73 60 0.2000000 l "isa"
+60 73 0.0625000 l "isa"
+74 1 0.0714286 l "isa"
+1 74 0.1428571 l "isa"
+75 74 1.0000000 l "isa"
+74 75 0.0714286 l "isa"
+76 74 0.1000000 l "isa"
+74 76 0.0714286 l "isa"
+77 76 1.0000000 l "isa"
+76 77 0.1000000 l "isa"
+78 76 0.2500000 l "isa"
+76 78 0.1000000 l "isa"
+79 76 1.0000000 l "isa"
+76 79 0.1000000 l "isa"
+80 76 1.0000000 l "isa"
+76 80 0.1000000 l "isa"
+81 78 0.5000000 l "isa"
+78 81 0.2500000 l "isa"
+82 78 0.1666667 l "isa"
+78 82 0.2500000 l "isa"
+84 85 0.5000000 l "isa"
+85 84 0.5000000 l "isa"
+85 82 0.5000000 l "isa"
+82 85 0.1666667 l "isa"
+86 74 0.2500000 l "isa"
+74 86 0.0714286 l "isa"
+87 86 1.0000000 l "isa"
+86 87 0.2500000 l "isa"
+88 152 1.0000000 l "isa"
+152 88 0.3333333 l "isa"
+89 152 1.0000000 l "isa"
+152 89 0.1666667 l "isa"
+90 153 0.3333333 l "isa"
+153 90 0.3333333 l "isa"
+91 153 0.3333333 l "isa"
+153 91 0.3333333 l "isa"
+92 202 1.0000000 l "isa"
+202 92 0.1250000 l "isa"
+93 37 0.5000000 l "isa"
+37 93 0.2000000 l "isa"
+94 34 0.6666667 l "isa"
+34 94 0.4000000 l "isa"
+96 17 0.3333333 l "isa"
+17 96 0.3333333 l "isa"
+97 17 0.3333333 l "isa"
+17 97 0.3333333 l "isa"
+98 76 1.0000000 l "isa"
+76 98 0.1000000 l "isa"
+99 57 0.5000000 l "isa"
+57 99 0.3333333 l "isa"
+100 57 0.5000000 l "isa"
+57 100 0.3333333 l "isa"
+101 102 1.0000000 l "isa"
+102 101 0.1666667 l "isa"
+102 53 0.1666667 l "isa"
+53 102 0.1428571 l "isa"
+103 53 1.0000000 l "isa"
+53 103 0.1428571 l "isa"
+104 74 1.0000000 l "isa"
+74 104 0.0714286 l "isa"
+105 53 1.0000000 l "isa"
+53 105 0.1428571 l "isa"
+114 32 1.0000000 l "isa"
+32 114 0.3333333 l "isa"
+115 32 1.0000000 l "isa"
+32 115 0.3333333 l "isa"
+116 46 0.1111111 l "isa"
+46 116 0.1428571 l "isa"
+117 116 1.0000000 l "isa"
+116 117 0.1111111 l "isa"
+118 82 1.0000000 l "isa"
+82 118 0.1666667 l "isa"
+119 72 1.0000000 l "isa"
+72 119 0.3333333 l "isa"
+120 72 1.0000000 l "isa"
+72 120 0.3333333 l "isa"
+121 74 1.0000000 l "isa"
+74 121 0.0714286 l "isa"
+122 152 1.0000000 l "isa"
+152 122 0.1666667 l "isa"
+123 82 0.5000000 l "isa"
+82 123 0.1666667 l "isa"
+124 82 0.5000000 l "isa"
+82 124 0.1666667 l "isa"
+125 216 1.0000000 l "isa"
+216 125 0.1666667 l "isa"
+127 76 0.5000000 l "isa"
+76 127 0.1000000 l "isa"
+128 29 0.2000000 l "isa"
+29 128 0.0454545 l "isa"
+129 128 1.0000000 l "isa"
+128 129 0.2000000 l "isa"
+130 7 0.5000000 l "isa"
+7 130 0.2000000 l "isa"
+131 60 1.0000000 l "isa"
+60 131 0.0625000 l "isa"
+132 64 0.5000000 l "isa"
+64 132 0.5000000 l "isa"
+133 132 1.0000000 l "isa"
+132 133 0.2500000 l "isa"
+134 11 1.0000000 l "isa"
+11 134 0.1666667 l "isa"
+135 40 1.0000000 l "isa"
+40 135 0.2000000 l "isa"
+136 116 0.5000000 l "isa"
+116 136 0.1111111 l "isa"
+137 33 1.0000000 l "isa"
+33 137 0.2500000 l "isa"
+138 4 0.3333333 l "isa"
+4 138 0.2857143 l "isa"
+139 67 1.0000000 l "isa"
+67 139 0.1428571 l "isa"
+140 67 1.0000000 l "isa"
+67 140 0.1428571 l "isa"
+141 62 0.5000000 l "isa"
+62 141 0.3333333 l "isa"
+142 62 0.5000000 l "isa"
+62 142 0.3333333 l "isa"
+143 67 0.5000000 l "isa"
+67 143 0.1428571 l "isa"
+144 116 1.0000000 l "isa"
+116 144 0.1111111 l "isa"
+145 74 1.0000000 l "isa"
+74 145 0.0714286 l "isa"
+146 74 0.5000000 l "isa"
+74 146 0.0714286 l "isa"
+148 30 0.5000000 l "isa"
+30 148 0.1000000 l "isa"
+149 34 0.3333333 l "isa"
+34 149 0.2000000 l "isa"
+150 149 1.0000000 l "isa"
+149 150 0.3333333 l "isa"
+151 60 0.3333333 l "isa"
+60 151 0.0625000 l "isa"
+152 1 0.1666667 l "isa"
+1 152 0.1428571 l "isa"
+153 1 0.3333333 l "isa"
+1 153 0.1428571 l "isa"
+154 74 1.0000000 l "isa"
+74 154 0.0714286 l "isa"
+155 76 1.0000000 l "isa"
+76 155 0.1000000 l "isa"
+156 216 1.0000000 l "isa"
+216 156 0.3333333 l "isa"
+157 33 1.0000000 l "isa"
+33 157 0.2500000 l "isa"
+158 74 1.0000000 l "isa"
+74 158 0.0714286 l "isa"
+159 30 0.5000000 l "isa"
+30 159 0.1000000 l "isa"
+160 74 1.0000000 l "isa"
+74 160 0.0714286 l "isa"
+161 52 0.3333333 l "isa"
+52 161 0.1666667 l "isa"
+161 116 0.3333333 l "isa"
+116 161 0.1111111 l "isa"
+162 30 0.3000000 l "isa"
+30 162 0.3000000 l "isa"
+165 54 0.5000000 l "isa"
+54 165 0.1818182 l "isa"
+166 54 0.5000000 l "isa"
+54 166 0.1818182 l "isa"
+167 60 1.0000000 l "isa"
+60 167 0.0625000 l "isa"
+168 162 0.5000000 l "isa"
+162 168 0.1000000 l "isa"
+169 209 0.5000000 l "isa"
+209 169 0.1428571 l "isa"
+170 52 0.0526316 l "isa"
+52 170 0.1666667 l "isa"
+171 170 0.3333333 l "isa"
+170 171 0.1052632 l "isa"
+172 170 0.2857143 l "isa"
+170 172 0.1052632 l "isa"
+173 172 1.0000000 l "isa"
+172 173 0.1428571 l "isa"
+174 170 0.6666667 l "isa"
+170 174 0.1052632 l "isa"
+175 170 0.1818182 l "isa"
+170 175 0.1052632 l "isa"
+176 175 1.0000000 l "isa"
+175 176 0.0909091 l "isa"
+177 175 0.2000000 l "isa"
+175 177 0.1818182 l "isa"
+178 177 0.5000000 l "isa"
+177 178 0.1000000 l "isa"
+179 177 0.5000000 l "isa"
+177 179 0.1000000 l "isa"
+180 177 0.5000000 l "isa"
+177 180 0.1000000 l "isa"
+181 175 0.4000000 l "isa"
+175 181 0.1818182 l "isa"
+182 175 0.3333333 l "isa"
+175 182 0.0909091 l "isa"
+183 170 0.3333333 l "isa"
+170 183 0.1052632 l "isa"
+184 52 1.0000000 l "isa"
+52 184 0.1666667 l "isa"
+185 52 1.0000000 l "isa"
+52 185 0.1666667 l "isa"
+186 170 0.6666667 l "isa"
+170 186 0.1052632 l "isa"
+187 209 0.5000000 l "isa"
+209 187 0.1428571 l "isa"
+188 74 1.0000000 l "isa"
+74 188 0.0714286 l "isa"
+189 37 0.5000000 l "isa"
+37 189 0.4000000 l "isa"
+190 46 0.2500000 l "isa"
+46 190 0.1428571 l "isa"
+191 190 1.0000000 l "isa"
+190 191 0.2500000 l "isa"
+192 190 1.0000000 l "isa"
+190 192 0.2500000 l "isa"
+193 190 1.0000000 l "isa"
+190 193 0.2500000 l "isa"
+194 1 0.1428571 l "isa"
+1 194 0.1428571 l "isa"
+195 194 1.0000000 l "isa"
+194 195 0.1428571 l "isa"
+196 194 1.0000000 l "isa"
+194 196 0.1428571 l "isa"
+197 3 0.3333333 l "isa"
+3 197 0.1111111 l "isa"
+198 74 1.0000000 l "isa"
+74 198 0.0714286 l "isa"
+199 76 1.0000000 l "isa"
+76 199 0.1000000 l "isa"
+200 76 1.0000000 l "isa"
+76 200 0.1000000 l "isa"
+201 3 0.5000000 l "isa"
+3 201 0.1111111 l "isa"
+202 53 0.1250000 l "isa"
+53 202 0.1428571 l "isa"
+203 202 1.0000000 l "isa"
+202 203 0.1250000 l "isa"
+204 202 1.0000000 l "isa"
+202 204 0.1250000 l "isa"
+205 202 1.0000000 l "isa"
+202 205 0.1250000 l "isa"
+206 202 1.0000000 l "isa"
+202 206 0.1250000 l "isa"
+207 202 1.0000000 l "isa"
+202 207 0.1250000 l "isa"
+208 202 1.0000000 l "isa"
+202 208 0.1250000 l "isa"
+209 162 0.1428571 l "isa"
+162 209 0.1000000 l "isa"
+210 201 1.0000000 l "isa"
+201 210 0.5000000 l "isa"
+211 146 0.5000000 l "isa"
+146 211 0.5000000 l "isa"
+212 81 0.5000000 l "isa"
+81 212 0.5000000 l "isa"
+213 82 0.5000000 l "isa"
+82 213 0.1666667 l "isa"
+214 86 1.0000000 l "isa"
+86 214 0.2500000 l "isa"
+215 86 1.0000000 l "isa"
+86 215 0.2500000 l "isa"
+216 46 0.1666667 l "isa"
+46 216 0.1428571 l "isa"
+217 216 1.0000000 l "isa"
+216 217 0.1666667 l "isa"
+218 216 1.0000000 l "isa"
+216 218 0.1666667 l "isa"
+219 162 0.5000000 l "isa"
+162 219 0.1000000 l "isa"
+220 10 1.0000000 l "isa"
+10 220 0.4000000 l "isa"
+221 10 1.0000000 l "isa"
+10 221 0.4000000 l "isa"
+222 3 1.0000000 l "isa"
+3 222 0.1111111 l "isa"
+223 7 1.0000000 l "isa"
+7 223 0.2000000 l "isa"
+224 3 1.0000000 l "isa"
+3 224 0.1111111 l "isa"
+225 194 1.0000000 l "isa"
+194 225 0.1428571 l "isa"
+226 194 1.0000000 l "isa"
+194 226 0.1428571 l "isa"
+227 60 1.0000000 l "isa"
+60 227 0.0625000 l "isa"
+228 60 1.0000000 l "isa"
+60 228 0.0625000 l "isa"
+229 194 1.0000000 l "isa"
+194 229 0.1428571 l "isa"
+230 152 1.0000000 l "isa"
+152 230 0.1666667 l "isa"
+231 197 1.0000000 l "isa"
+197 231 0.3333333 l "isa"
+232 197 1.0000000 l "isa"
+197 232 0.3333333 l "isa"
+233 73 1.0000000 l "isa"
+73 233 0.4000000 l "isa"
+234 73 1.0000000 l "isa"
+73 234 0.4000000 l "isa"
+235 189 0.5000000 l "isa"
+189 235 0.2500000 l "isa"
+236 116 1.0000000 l "isa"
+116 236 0.1111111 l "isa"
+237 116 1.0000000 l "isa"
+116 237 0.1111111 l "isa"
+238 54 0.5000000 l "isa"
+54 238 0.0909091 l "isa"
+239 54 0.5000000 l "isa"
+54 239 0.1818182 l "isa"
+240 54 1.0000000 l "isa"
+54 240 0.0909091 l "isa"
+241 54 0.3333333 l "isa"
+54 241 0.0909091 l "isa"
+242 54 0.5000000 l "isa"
+54 242 0.0909091 l "isa"
+4 5 0.1428571 l "substring"
+5 4 0.3333333 l "substring"
+4 6 0.1428571 l "substring"
+6 4 0.3333333 l "substring"
+4 69 0.2857143 l "substring"
+69 4 1.0000000 l "substring"
+4 138 0.2857143 l "substring"
+138 4 0.3333333 l "substring"
+5 138 0.6666667 l "substring"
+138 5 0.3333333 l "substring"
+6 138 0.6666667 l "substring"
+138 6 0.3333333 l "substring"
+9 130 0.5000000 l "substring"
+130 9 0.5000000 l "substring"
+10 220 0.4000000 l "substring"
+220 10 1.0000000 l "substring"
+10 221 0.4000000 l "substring"
+221 10 1.0000000 l "substring"
+21 24 0.4000000 l "substring"
+24 21 1.0000000 l "substring"
+29 30 0.0909091 l "substring"
+30 29 0.2000000 l "substring"
+29 33 0.0454545 l "substring"
+33 29 0.2500000 l "substring"
+29 34 0.0454545 l "substring"
+34 29 0.2000000 l "substring"
+29 35 0.0454545 l "substring"
+35 29 0.5000000 l "substring"
+29 36 0.0454545 l "substring"
+36 29 0.5000000 l "substring"
+29 37 0.0454545 l "substring"
+37 29 0.2000000 l "substring"
+29 38 0.0454545 l "substring"
+38 29 0.5000000 l "substring"
+29 39 0.0454545 l "substring"
+39 29 0.5000000 l "substring"
+29 94 0.0454545 l "substring"
+94 29 0.3333333 l "substring"
+29 148 0.0454545 l "substring"
+148 29 0.5000000 l "substring"
+29 149 0.0454545 l "substring"
+149 29 0.3333333 l "substring"
+29 159 0.0454545 l "substring"
+159 29 0.5000000 l "substring"
+29 162 0.0454545 l "substring"
+162 29 0.1000000 l "substring"
+29 168 0.0454545 l "substring"
+168 29 0.5000000 l "substring"
+29 169 0.0454545 l "substring"
+169 29 0.5000000 l "substring"
+29 187 0.0454545 l "substring"
+187 29 0.5000000 l "substring"
+29 189 0.0454545 l "substring"
+189 29 0.2500000 l "substring"
+29 209 0.0454545 l "substring"
+209 29 0.1428571 l "substring"
+29 219 0.0454545 l "substring"
+219 29 0.5000000 l "substring"
+30 162 0.3000000 l "substring"
+162 30 0.3000000 l "substring"
+32 114 0.3333333 l "substring"
+114 32 1.0000000 l "substring"
+32 115 0.3333333 l "substring"
+115 32 1.0000000 l "substring"
+34 94 0.4000000 l "substring"
+94 34 0.6666667 l "substring"
+44 128 0.6666667 l "substring"
+128 44 0.4000000 l "substring"
+47 50 0.2000000 l "substring"
+50 47 0.0625000 l "substring"
+48 50 0.5000000 l "substring"
+50 48 0.0625000 l "substring"
+49 50 1.0000000 l "substring"
+50 49 0.0625000 l "substring"
+50 95 0.0625000 l "substring"
+95 50 0.2000000 l "substring"
+50 96 0.0625000 l "substring"
+96 50 0.3333333 l "substring"
+50 97 0.0625000 l "substring"
+97 50 0.3333333 l "substring"
+50 106 0.0625000 l "substring"
+106 50 0.2500000 l "substring"
+50 107 0.0625000 l "substring"
+107 50 1.0000000 l "substring"
+50 108 0.0625000 l "substring"
+108 50 0.2000000 l "substring"
+50 109 0.0625000 l "substring"
+109 50 1.0000000 l "substring"
+50 110 0.0625000 l "substring"
+110 50 1.0000000 l "substring"
+50 111 0.0625000 l "substring"
+111 50 1.0000000 l "substring"
+50 112 0.0625000 l "substring"
+112 50 0.5000000 l "substring"
+50 113 0.0625000 l "substring"
+113 50 1.0000000 l "substring"
+50 163 0.0625000 l "substring"
+163 50 0.2500000 l "substring"
+50 164 0.0625000 l "substring"
+164 50 1.0000000 l "substring"
+60 62 0.0625000 l "substring"
+62 60 0.1666667 l "substring"
+60 63 0.0625000 l "substring"
+63 60 0.5000000 l "substring"
+60 141 0.0625000 l "substring"
+141 60 0.2500000 l "substring"
+60 142 0.0625000 l "substring"
+142 60 0.2500000 l "substring"
+60 143 0.0625000 l "substring"
+143 60 0.5000000 l "substring"
+61 151 1.0000000 l "substring"
+151 61 0.6666667 l "substring"
+62 141 0.3333333 l "substring"
+141 62 0.5000000 l "substring"
+62 142 0.3333333 l "substring"
+142 62 0.5000000 l "substring"
+64 132 0.5000000 l "substring"
+132 64 0.5000000 l "substring"
+73 233 0.4000000 l "substring"
+233 73 1.0000000 l "substring"
+73 234 0.4000000 l "substring"
+234 73 1.0000000 l "substring"
+83 213 1.0000000 l "substring"
+213 83 0.5000000 l "substring"
+84 136 0.5000000 l "substring"
+136 84 0.5000000 l "substring"
+88 152 1.0000000 l "substring"
+152 88 0.3333333 l "substring"
+90 91 0.6666667 l "substring"
+91 90 0.6666667 l "substring"
+96 97 0.3333333 l "substring"
+97 96 0.3333333 l "substring"
+123 124 0.5000000 l "substring"
+124 123 0.5000000 l "substring"
+126 212 1.0000000 l "substring"
+212 126 0.5000000 l "substring"
+147 211 1.0000000 l "substring"
+211 147 0.5000000 l "substring"
+156 216 1.0000000 l "substring"
+216 156 0.3333333 l "substring"
+170 171 0.1052632 l "substring"
+171 170 0.3333333 l "substring"
+170 172 0.1052632 l "substring"
+172 170 0.2857143 l "substring"
+170 174 0.1052632 l "substring"
+174 170 0.6666667 l "substring"
+170 175 0.1052632 l "substring"
+175 170 0.1818182 l "substring"
+170 177 0.0526316 l "substring"
+177 170 0.1000000 l "substring"
+170 178 0.0526316 l "substring"
+178 170 0.5000000 l "substring"
+170 179 0.0526316 l "substring"
+179 170 0.5000000 l "substring"
+170 180 0.0526316 l "substring"
+180 170 0.5000000 l "substring"
+170 181 0.0526316 l "substring"
+181 170 0.2000000 l "substring"
+170 182 0.0526316 l "substring"
+182 170 0.3333333 l "substring"
+170 183 0.1052632 l "substring"
+183 170 0.3333333 l "substring"
+170 186 0.1052632 l "substring"
+186 170 0.6666667 l "substring"
+238 241 0.5000000 l "substring"
+241 238 0.3333333 l "substring"
+241 242 0.3333333 l "substring"
+242 241 0.5000000 l "substring"
+20 161 0.5000000 l "distance"
+161 20 0.3333333 l "distance"
+30 162 0.3000000 l "distance"
+162 30 0.3000000 l "distance"
+31 32 0.5000000 l "distance"
+32 31 0.1666667 l "distance"
+37 189 0.4000000 l "distance"
+189 37 0.5000000 l "distance"
+42 43 0.5000000 l "distance"
+43 42 0.5000000 l "distance"
+47 48 0.2000000 l "distance"
+48 47 0.5000000 l "distance"
+47 95 0.2000000 l "distance"
+95 47 0.2000000 l "distance"
+47 108 0.2000000 l "distance"
+108 47 0.2000000 l "distance"
+47 163 0.2000000 l "distance"
+163 47 0.2500000 l "distance"
+54 165 0.1818182 l "distance"
+165 54 0.5000000 l "distance"
+54 166 0.1818182 l "distance"
+166 54 0.5000000 l "distance"
+54 239 0.1818182 l "distance"
+239 54 0.5000000 l "distance"
+65 68 0.5000000 l "distance"
+68 65 1.0000000 l "distance"
+78 127 0.2500000 l "distance"
+127 78 0.5000000 l "distance"
+90 91 0.6666667 l "distance"
+91 90 0.6666667 l "distance"
+93 235 0.5000000 l "distance"
+235 93 0.5000000 l "distance"
+95 106 0.2000000 l "distance"
+106 95 0.2500000 l "distance"
+95 108 0.2000000 l "distance"
+108 95 0.2000000 l "distance"
+95 163 0.2000000 l "distance"
+163 95 0.2500000 l "distance"
+99 100 0.5000000 l "distance"
+100 99 0.5000000 l "distance"
+106 108 0.2500000 l "distance"
+108 106 0.2000000 l "distance"
+106 112 0.2500000 l "distance"
+112 106 0.5000000 l "distance"
+108 163 0.2000000 l "distance"
+163 108 0.2500000 l "distance"
+141 142 0.2500000 l "distance"
+142 141 0.2500000 l "distance"
+165 166 0.2500000 l "distance"
+166 165 0.2500000 l "distance"
+165 239 0.2500000 l "distance"
+239 165 0.2500000 l "distance"
+166 239 0.2500000 l "distance"
+239 166 0.2500000 l "distance"
+171 172 0.1666667 l "distance"
+172 171 0.1428571 l "distance"
+171 175 0.1666667 l "distance"
+175 171 0.0909091 l "distance"
+171 177 0.1666667 l "distance"
+177 171 0.1000000 l "distance"
+171 183 0.1666667 l "distance"
+183 171 0.1666667 l "distance"
+172 175 0.1428571 l "distance"
+175 172 0.0909091 l "distance"
+172 177 0.1428571 l "distance"
+177 172 0.1000000 l "distance"
+172 183 0.1428571 l "distance"
+183 172 0.1666667 l "distance"
+174 186 0.3333333 l "distance"
+186 174 0.3333333 l "distance"
+175 177 0.1818182 l "distance"
+177 175 0.2000000 l "distance"
+175 181 0.1818182 l "distance"
+181 175 0.4000000 l "distance"
+175 183 0.0909091 l "distance"
+183 175 0.1666667 l "distance"
+177 181 0.1000000 l "distance"
+181 177 0.2000000 l "distance"
+177 183 0.1000000 l "distance"
+183 177 0.1666667 l "distance"
+181 182 0.2000000 l "distance"
+182 181 0.3333333 l "distance"
+*Edges

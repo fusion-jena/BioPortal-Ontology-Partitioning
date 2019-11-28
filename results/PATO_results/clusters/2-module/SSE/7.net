@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Auditory Loss" ellipse
+2 "Carotid Artery Bleed or Rupture" ellipse
+3 "Chyle Leak" ellipse
+4 "Epistaxis" ellipse
+5 "Facial Edema" ellipse
+6 "Head and Neck" ellipse
+7 "Major Venous Bleed or Rupture" ellipse
+8 "Orbital Complication" ellipse
+9 "Swallowing Dysfunction" ellipse
+10 "Visual Loss" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.0909091 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0909091 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0909091 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0909091 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.0909091 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0909091 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.0909091 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.0909091 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.0909091 l "isa"
+*Edges

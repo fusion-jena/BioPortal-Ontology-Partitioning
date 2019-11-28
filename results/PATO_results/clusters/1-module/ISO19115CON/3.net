@@ -1,0 +1,18 @@
+*Vertices 5
+1 "MD_Releasability" ellipse
+2 "releasability"
+3 "addressee"
+4 "disseminationConstraints"
+5 "statement"
+*Arcs
+1 3 0.0714286 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.0714286 l "definition"
+4 1 1.0000000 l "definition"
+1 5 0.0714286 l "definition"
+5 1 1.0000000 l "definition"
+1 2 0.1428571 l "substring"
+2 1 0.6666667 l "substring"
+1 2 0.1428571 l "distance"
+2 1 0.6666667 l "distance"
+*Edges

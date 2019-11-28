@@ -1,0 +1,31 @@
+*Vertices 4
+1 "manure spreader" ellipse
+2 "slurry injector" ellipse
+3 "fertilization implement" ellipse
+4 "agronomic fertilization process" ellipse
+*Arcs
+1 3 0.2538887 l "isa"
+3 1 0.0665224 l "isa"
+2 3 0.2538887 l "isa"
+3 2 0.0665224 l "isa"
+1 4 0.2501637 l "definition"
+4 1 0.0305513 l "definition"
+2 4 0.2501637 l "definition"
+4 2 0.0305513 l "definition"
+3 4 0.1255450 l "definition"
+4 3 0.0585168 l "definition"
+4 3 0.0585168 l "definition"
+3 4 0.1255450 l "definition"
+1 3 0.2538887 l "isa"
+3 1 0.0665224 l "isa"
+2 3 0.2538887 l "isa"
+3 2 0.0665224 l "isa"
+1 4 0.2501637 l "definition"
+4 1 0.0305513 l "definition"
+2 4 0.2501637 l "definition"
+4 2 0.0305513 l "definition"
+3 4 0.1255450 l "definition"
+4 3 0.0585168 l "definition"
+4 3 0.0585168 l "definition"
+3 4 0.1255450 l "definition"
+*Edges

@@ -1,0 +1,34 @@
+*Vertices 9
+1 "N-acetylgalactosaminyltransferase" ellipse
+2 "UDP-GalNAc_polypeptide_N-acetylgalactosaminyltransferase" ellipse
+3 "alpha1_4-N-acetylgalactosaminyltransferase" ellipse
+4 "beta1_4-N-acetylgalactosaminyltransferase" ellipse
+5 "chitin" ellipse
+6 "chitin_synthase" ellipse
+7 "chondroitin_N-acetylgalactosaminyltransferase" ellipse
+8 "chondroitin_polymerization_factor" ellipse
+9 "chondroitin_synthase" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+6 9 0.5000000 l "isa"
+9 6 0.2500000 l "isa"
+7 9 0.5000000 l "isa"
+9 7 0.2500000 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.2500000 l "isa"
+1 2 0.2000000 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2000000 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2000000 l "substring"
+4 1 1.0000000 l "substring"
+1 7 0.1000000 l "substring"
+7 1 0.5000000 l "substring"
+5 6 0.3333333 l "substring"
+6 5 0.5000000 l "substring"
+*Edges

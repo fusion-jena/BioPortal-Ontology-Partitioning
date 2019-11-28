@@ -1,0 +1,47 @@
+*Vertices 8
+1 "Ability to initiate speech" ellipse
+2 "Ability to sustain speech" ellipse
+3 "Play behavior" ellipse
+4 "Communication capability" ellipse
+5 "Development of spoken speech" ellipse
+6 "Impairment of communication capability" ellipse
+7 "Impairment of play behavior" ellipse
+8 "has_impairment_of"
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1821668 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1821668 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1821668 l "isa"
+6 8 0.2013054 l "definition"
+8 6 0.3366556 l "definition"
+6 4 0.4343960 l "definition"
+4 6 0.3144775 l "definition"
+7 8 0.1911778 l "definition"
+8 7 0.3366556 l "definition"
+7 3 0.4628515 l "definition"
+3 7 0.7036328 l "definition"
+3 7 0.7036328 l "substring"
+7 3 0.4628515 l "substring"
+4 6 0.3144775 l "substring"
+6 4 0.4343960 l "substring"
+1 4 1.0000000 l "isa"
+4 1 0.1821668 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1821668 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1821668 l "isa"
+6 8 0.2013054 l "definition"
+8 6 0.3366556 l "definition"
+6 4 0.4343960 l "definition"
+4 6 0.3144775 l "definition"
+7 8 0.1911778 l "definition"
+8 7 0.3366556 l "definition"
+7 3 0.4628515 l "definition"
+3 7 0.7036328 l "definition"
+3 7 0.7036328 l "substring"
+7 3 0.4628515 l "substring"
+4 6 0.3144775 l "substring"
+6 4 0.4343960 l "substring"
+*Edges

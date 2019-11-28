@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Coding" ellipse
+2 "ICD_9" ellipse
+3 "SNOMED" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1250000 l "isa"
+*Edges

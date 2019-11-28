@@ -1,0 +1,49 @@
+*Vertices 6
+1 "nerve fiber" ellipse
+2 "non-adrenergic and non-cholinergic nerve" ellipse
+3 "glial cell" ellipse
+4 "postganglionic sympathetic nerve" ellipse
+5 "pulmonary autonomic nerve" ellipse
+6 "glial cell" ellipse
+*Arcs
+1 2 0.1515493 l "definition"
+2 1 0.2111490 l "definition"
+1 4 0.1515493 l "definition"
+4 1 0.2111490 l "definition"
+2 5 0.2111834 l "definition"
+5 2 0.1519497 l "definition"
+3 2 0.0853343 l "definition"
+2 3 0.2038969 l "definition"
+3 4 0.0853343 l "definition"
+4 3 0.2038969 l "definition"
+4 5 0.2111834 l "definition"
+5 4 0.1519497 l "definition"
+1 2 0.1515493 l "definition"
+2 1 0.2111490 l "definition"
+1 4 0.1515493 l "definition"
+4 1 0.2111490 l "definition"
+2 5 0.2111834 l "definition"
+5 2 0.1519497 l "definition"
+3 2 0.0853343 l "definition"
+2 3 0.2038969 l "definition"
+3 4 0.0853343 l "definition"
+4 3 0.2038969 l "definition"
+4 5 0.2111834 l "definition"
+5 4 0.1519497 l "definition"
+1 2 0.1515493 l "definition"
+2 1 0.2111490 l "definition"
+1 4 0.1515493 l "definition"
+4 1 0.2111490 l "definition"
+2 5 0.2111834 l "definition"
+5 2 0.1519497 l "definition"
+3 2 0.0853343 l "definition"
+2 3 0.2038969 l "definition"
+3 4 0.0853343 l "definition"
+4 3 0.2038969 l "definition"
+4 5 0.2111834 l "definition"
+5 4 0.1519497 l "definition"
+3 6 0.1306558 l "substring"
+6 3 0.4000000 l "substring"
+3 6 0.1306558 l "distance"
+6 3 0.4000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "PICALM" ellipse
+2 "PiCALm" ellipse
+*Arcs
+1 2 0.2577811 l "substring"
+2 1 0.3258730 l "substring"
+1 2 0.2577811 l "distance"
+2 1 0.3258730 l "distance"
+1 2 0.2577811 l "substring"
+2 1 0.3258730 l "substring"
+1 2 0.2577811 l "distance"
+2 1 0.3258730 l "distance"
+*Edges

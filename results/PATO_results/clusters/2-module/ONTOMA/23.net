@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Alcoolisme" ellipse
+2 "Hygiène_de_vie" ellipse
+3 "Usage_de_cigarettes" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.5000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.5000000 l "isa"
+*Edges

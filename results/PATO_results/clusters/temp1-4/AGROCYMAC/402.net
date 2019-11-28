@@ -1,0 +1,30 @@
+*Vertices 3
+1 "phosphate(3-)" ellipse
+2 "dihydrogenphosphate" ellipse
+3 "hydrogenphosphate" ellipse
+*Arcs
+1 3 0.2127945 l "definition"
+3 1 0.1232495 l "definition"
+2 3 0.2631001 l "definition"
+3 2 0.2627653 l "definition"
+3 1 0.1232495 l "definition"
+1 3 0.2127945 l "definition"
+3 2 0.2627653 l "definition"
+2 3 0.2631001 l "definition"
+2 3 0.2631001 l "substring"
+3 2 0.2627653 l "substring"
+2 3 0.2631001 l "distance"
+3 2 0.2627653 l "distance"
+1 3 0.2127945 l "definition"
+3 1 0.1232495 l "definition"
+2 3 0.2631001 l "definition"
+3 2 0.2627653 l "definition"
+3 1 0.1232495 l "definition"
+1 3 0.2127945 l "definition"
+3 2 0.2627653 l "definition"
+2 3 0.2631001 l "definition"
+2 3 0.2631001 l "substring"
+3 2 0.2627653 l "substring"
+2 3 0.2631001 l "distance"
+3 2 0.2627653 l "distance"
+*Edges

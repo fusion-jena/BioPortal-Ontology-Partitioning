@@ -1,0 +1,9 @@
+*Vertices 2
+1 "reaction composition" ellipse
+2 "yield (quality)" ellipse
+*Arcs
+2 1 0.2697821 l "isa"
+1 2 0.1204607 l "isa"
+2 1 0.2697821 l "isa"
+1 2 0.1204607 l "isa"
+*Edges

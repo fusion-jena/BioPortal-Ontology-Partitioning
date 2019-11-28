@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Image Data" ellipse
+2 "Neuroimaging" ellipse
+*Arcs
+2 1 0.1494688 l "isa"
+1 2 0.1315961 l "isa"
+2 1 0.1494688 l "isa"
+1 2 0.1315961 l "isa"
+*Edges

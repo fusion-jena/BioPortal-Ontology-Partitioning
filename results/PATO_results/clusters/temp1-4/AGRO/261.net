@@ -1,0 +1,14 @@
+*Vertices 3
+1 "amide" ellipse
+2 "primary amide" ellipse
+3 "carboxamide" ellipse
+*Arcs
+2 1 0.6666667 l "isa"
+1 2 0.0540541 l "isa"
+3 2 0.1250000 l "isa"
+2 3 0.3333333 l "isa"
+1 2 0.0540541 l "substring"
+2 1 0.6666667 l "substring"
+1 3 0.0270270 l "substring"
+3 1 0.1250000 l "substring"
+*Edges

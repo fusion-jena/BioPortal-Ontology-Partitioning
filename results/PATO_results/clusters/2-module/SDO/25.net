@@ -1,0 +1,25 @@
+*Vertices 6
+1 "Exhaled minute volume" ellipse
+2 "Inhaled minute volume" ellipse
+3 "Respiratory lab test finding" ellipse
+4 "Respiratory minute volume" ellipse
+5 "RespiratoryVolumeFinding" ellipse
+6 "minute" ellipse
+*Arcs
+1 4 0.3333333 l "isa"
+4 1 0.2500000 l "isa"
+2 4 0.3333333 l "isa"
+4 2 0.2500000 l "isa"
+4 5 0.2500000 l "isa"
+5 4 0.5000000 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.1250000 l "isa"
+1 6 0.3333333 l "substring"
+6 1 0.0909091 l "substring"
+2 6 0.3333333 l "substring"
+6 2 0.0909091 l "substring"
+4 6 0.2500000 l "substring"
+6 4 0.0909091 l "substring"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

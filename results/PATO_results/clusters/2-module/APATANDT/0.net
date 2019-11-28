@@ -1,0 +1,154 @@
+*Vertices 53
+1 "Posttesting" ellipse
+2 "Scaling_(Testing)" ellipse
+3 "Adaptive_Testing" ellipse
+4 "Body_Sway_Testing" ellipse
+5 "Cloze_Testing" ellipse
+6 "Computer_Assisted_Testing" ellipse
+7 "Digit_Span_Testing" ellipse
+8 "Embedded_Figures_Testing" ellipse
+9 "Essay_Testing" ellipse
+10 "Group_Testing" ellipse
+11 "Individual_Testing" ellipse
+12 "Personality_Measures" ellipse
+13 "Pretesting" ellipse
+14 "Projective_Testing_Technique" ellipse
+15 "Q_Sort_Testing_Technique" ellipse
+16 "Test_Forms" ellipse
+17 "Test_Items" ellipse
+18 "Test_Norms" ellipse
+19 "Test_Scores" ellipse
+20 "Testing" ellipse
+21 "Forced_Choice_(Testing_Method)" ellipse
+22 "Multiple_Choice_(Testing_Method)" ellipse
+23 "Nonprojective_Personality_Measures" ellipse
+24 "Projective_Personality_Measures" ellipse
+25 "Aptitude_Measures" ellipse
+26 "Attitude_Measurement" ellipse
+27 "Attitude_Measures" ellipse
+28 "Audiometry" ellipse
+29 "Biographical_Inventories" ellipse
+30 "Bone_Conduction_Audiometry" ellipse
+31 "Consumer_Surveys" ellipse
+32 "Creativity_Measurement" ellipse
+33 "Cultural_Test_Bias" ellipse
+34 "Educational_Measurement" ellipse
+35 "Interest_Inventories" ellipse
+36 "Inventories" ellipse
+37 "Mail_Surveys" ellipse
+38 "Measurement" ellipse
+39 "Neuropsychological_Assessment" ellipse
+40 "Pain_Measurement" ellipse
+41 "Psychological_Assessment" ellipse
+42 "Psychological_Screening_Inventory" ellipse
+43 "Psychophysical_Measurement" ellipse
+44 "Screening" ellipse
+45 "Screening_Tests" ellipse
+46 "Sociometry" ellipse
+47 "Surveys" ellipse
+48 "Telephone_Surveys" ellipse
+49 "Test_Bias" ellipse
+50 "Testing_Methods" ellipse
+51 "Consistency_(Measurement)" ellipse
+52 "Profiles_(Measurement)" ellipse
+53 "Scoring_(Testing)" ellipse
+*Arcs
+3 20 0.3333333 l "substring"
+20 3 0.0434783 l "substring"
+26 38 0.5000000 l "substring"
+38 26 0.1250000 l "substring"
+28 30 0.3333333 l "substring"
+30 28 0.5000000 l "substring"
+29 36 0.5000000 l "substring"
+36 29 0.3333333 l "substring"
+4 20 0.3333333 l "substring"
+20 4 0.0434783 l "substring"
+5 20 0.3333333 l "substring"
+20 5 0.0434783 l "substring"
+6 20 0.3333333 l "substring"
+20 6 0.0434783 l "substring"
+31 47 0.5000000 l "substring"
+47 31 0.2500000 l "substring"
+32 38 0.5000000 l "substring"
+38 32 0.1250000 l "substring"
+33 49 0.5000000 l "substring"
+49 33 0.5000000 l "substring"
+7 20 0.3333333 l "substring"
+20 7 0.0434783 l "substring"
+34 38 0.5000000 l "substring"
+38 34 0.1250000 l "substring"
+8 20 0.3333333 l "substring"
+20 8 0.0434783 l "substring"
+9 20 0.3333333 l "substring"
+20 9 0.0434783 l "substring"
+10 20 0.3333333 l "substring"
+20 10 0.0434783 l "substring"
+11 20 0.3333333 l "substring"
+20 11 0.0434783 l "substring"
+35 36 0.5000000 l "substring"
+36 35 0.3333333 l "substring"
+37 47 0.5000000 l "substring"
+47 37 0.2500000 l "substring"
+38 40 0.1250000 l "substring"
+40 38 0.5000000 l "substring"
+38 43 0.1250000 l "substring"
+43 38 0.5000000 l "substring"
+38 51 0.1250000 l "substring"
+51 38 0.5000000 l "substring"
+38 52 0.1250000 l "substring"
+52 38 0.5000000 l "substring"
+39 41 0.5000000 l "substring"
+41 39 0.5000000 l "substring"
+23 12 0.2000000 l "substring"
+12 23 0.3333333 l "substring"
+23 24 0.4000000 l "substring"
+24 23 0.4000000 l "substring"
+12 24 0.3333333 l "substring"
+24 12 0.2000000 l "substring"
+1 20 0.2500000 l "substring"
+20 1 0.0434783 l "substring"
+13 20 0.3333333 l "substring"
+20 13 0.0869565 l "substring"
+14 20 0.3333333 l "substring"
+20 14 0.0434783 l "substring"
+42 44 0.5000000 l "substring"
+44 42 0.3333333 l "substring"
+15 20 0.3333333 l "substring"
+20 15 0.0434783 l "substring"
+44 45 0.3333333 l "substring"
+45 44 0.5000000 l "substring"
+47 48 0.2500000 l "substring"
+48 47 0.5000000 l "substring"
+20 50 0.0434783 l "substring"
+50 20 0.2500000 l "substring"
+20 21 0.0434783 l "substring"
+21 20 0.3333333 l "substring"
+20 22 0.0434783 l "substring"
+22 20 0.3333333 l "substring"
+20 2 0.0434783 l "substring"
+2 20 0.2500000 l "substring"
+20 53 0.0434783 l "substring"
+53 20 0.2500000 l "substring"
+25 27 0.5000000 l "distance"
+27 25 0.5000000 l "distance"
+28 46 0.3333333 l "distance"
+46 28 0.5000000 l "distance"
+23 24 0.4000000 l "distance"
+24 23 0.4000000 l "distance"
+1 13 0.2500000 l "distance"
+13 1 0.1666667 l "distance"
+13 20 0.3333333 l "distance"
+20 13 0.0869565 l "distance"
+16 17 0.2500000 l "distance"
+17 16 0.3333333 l "distance"
+16 18 0.2500000 l "distance"
+18 16 0.2500000 l "distance"
+16 19 0.2500000 l "distance"
+19 16 0.3333333 l "distance"
+17 18 0.3333333 l "distance"
+18 17 0.2500000 l "distance"
+18 19 0.2500000 l "distance"
+19 18 0.3333333 l "distance"
+2 53 0.2500000 l "distance"
+53 2 0.2500000 l "distance"
+*Edges

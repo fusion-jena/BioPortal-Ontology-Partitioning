@@ -1,0 +1,13 @@
+*Vertices 4
+1 "FivePrimeUTR" ellipse
+2 "PolyASite" ellipse
+3 "ThreePrimeUTR" ellipse
+4 "TranscriptFeature" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0769231 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0769231 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0769231 l "isa"
+*Edges

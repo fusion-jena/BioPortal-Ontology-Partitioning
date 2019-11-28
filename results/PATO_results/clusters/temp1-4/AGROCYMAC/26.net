@@ -1,0 +1,13 @@
+*Vertices 2
+1 "environmental material" ellipse
+2 "anthropogenic environmental material" ellipse
+*Arcs
+2 1 0.3452408 l "isa"
+1 2 0.0337380 l "isa"
+1 2 0.0337380 l "substring"
+2 1 0.3452408 l "substring"
+2 1 0.3452408 l "isa"
+1 2 0.0337380 l "isa"
+1 2 0.0337380 l "substring"
+2 1 0.3452408 l "substring"
+*Edges

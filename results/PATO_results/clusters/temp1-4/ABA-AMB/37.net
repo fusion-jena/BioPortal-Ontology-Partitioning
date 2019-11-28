@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Nucleus of the lateral lemniscus" ellipse
+2 "Nucleus of the lateral lemniscus, dorsal part" ellipse
+3 "Nucleus of the lateral lemniscus, horizontal part" ellipse
+4 "Nucleus of the lateral lemniscus, ventral part" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2857143 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2857143 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2857143 l "isa"
+1 2 0.2857143 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2857143 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2857143 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

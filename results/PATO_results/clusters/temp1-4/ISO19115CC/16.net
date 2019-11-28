@@ -1,0 +1,13 @@
+*Vertices 2
+1 "from_UTM22N_to_WGS84" ellipse
+2 "spatial_conversion" ellipse
+*Arcs
+1 2 0.3345281 l "isa"
+2 1 0.3447644 l "isa"
+1 2 0.3345281 l "isa"
+2 1 0.3447644 l "isa"
+1 2 0.3345281 l "isa"
+2 1 0.3447644 l "isa"
+1 2 0.3345281 l "isa"
+2 1 0.3447644 l "isa"
+*Edges

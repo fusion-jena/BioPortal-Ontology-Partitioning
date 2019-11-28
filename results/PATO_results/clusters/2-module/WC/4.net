@@ -1,0 +1,28 @@
+*Vertices 9
+1 "change" ellipse
+2 "Distal" ellipse
+3 "Proximal" ellipse
+4 "regulationType" ellipse
+5 "revert" ellipse
+6 "update" ellipse
+7 "Whole-cell modeling entities" ellipse
+8 "data set" ellipse
+9 "data" ellipse
+*Arcs
+2 4 0.5000000 l "isa"
+4 2 0.2500000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2500000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1250000 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.1250000 l "isa"
+8 7 0.5000000 l "isa"
+7 8 0.1428571 l "isa"
+8 9 0.5000000 l "substring"
+9 8 0.0909091 l "substring"
+2 9 0.5000000 l "distance"
+9 2 0.0909091 l "distance"
+6 9 0.5000000 l "distance"
+9 6 0.0909091 l "distance"
+*Edges

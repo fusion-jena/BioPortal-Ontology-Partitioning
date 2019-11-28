@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Mating system" ellipse
+2 "Mating system text" ellipse
+*Arcs
+2 1 0.3267072 l "definition"
+1 2 0.3697863 l "definition"
+1 2 0.3697863 l "substring"
+2 1 0.3267072 l "substring"
+2 1 0.3267072 l "definition"
+1 2 0.3697863 l "definition"
+1 2 0.3697863 l "substring"
+2 1 0.3267072 l "substring"
+*Edges

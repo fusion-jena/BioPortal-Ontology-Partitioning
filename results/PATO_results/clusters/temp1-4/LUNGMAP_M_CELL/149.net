@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Swabian-Hall" ellipse
+2 "Swabian Hall" ellipse
+*Arcs
+1 2 0.7276818 l "distance"
+2 1 1.0000000 l "distance"
+1 2 0.7276818 l "distance"
+2 1 1.0000000 l "distance"
+1 2 0.7276818 l "distance"
+2 1 1.0000000 l "distance"
+1 2 0.7276818 l "distance"
+2 1 1.0000000 l "distance"
+1 2 0.7276818 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

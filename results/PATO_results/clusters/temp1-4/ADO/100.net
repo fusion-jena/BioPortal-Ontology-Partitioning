@@ -1,0 +1,22 @@
+*Vertices 7
+1 "primary purpose design" ellipse
+2 "Purpose" ellipse
+3 "Study design" ellipse
+4 "allocation design" ellipse
+5 "endpoint classification design" ellipse
+6 "masking design" ellipse
+7 "Class"
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.1111111 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1111111 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1111111 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.2000000 l "substring"
+5 7 0.5000000 l "substring"
+7 5 0.0204082 l "substring"
+*Edges

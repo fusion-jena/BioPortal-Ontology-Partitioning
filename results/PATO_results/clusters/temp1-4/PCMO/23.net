@@ -1,0 +1,22 @@
+*Vertices 3
+1 "OntologyType" ellipse
+2 "definedBy"
+3 "defines"
+*Arcs
+1 2 0.0578205 l "definition"
+2 1 0.2992401 l "definition"
+2 3 0.4198545 l "distance"
+3 2 0.4239510 l "distance"
+1 2 0.0578205 l "definition"
+2 1 0.2992401 l "definition"
+2 3 0.4198545 l "distance"
+3 2 0.4239510 l "distance"
+1 2 0.0578205 l "definition"
+2 1 0.2992401 l "definition"
+2 3 0.4198545 l "distance"
+3 2 0.4239510 l "distance"
+1 2 0.0578205 l "definition"
+2 1 0.2992401 l "definition"
+2 3 0.4198545 l "distance"
+3 2 0.4239510 l "distance"
+*Edges

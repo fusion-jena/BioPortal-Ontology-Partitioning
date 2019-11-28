@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Dimerization" ellipse
+2 "Glycosylation" ellipse
+3 "Nitrosylation" ellipse
+4 "Post translational modification" ellipse
+*Arcs
+1 4 0.6129032 l "isa"
+4 1 0.1715539 l "isa"
+2 4 0.6129032 l "isa"
+4 2 0.1715539 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1715539 l "isa"
+1 4 0.6129032 l "isa"
+4 1 0.1715539 l "isa"
+2 4 0.6129032 l "isa"
+4 2 0.1715539 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1715539 l "isa"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "pstB cell" ellipse
+2 "pstU cell" ellipse
+*Arcs
+1 2 0.0702991 l "distance"
+2 1 0.0974490 l "distance"
+1 2 0.0702991 l "distance"
+2 1 0.0974490 l "distance"
+1 2 0.0702991 l "distance"
+2 1 0.0974490 l "distance"
+1 2 0.0702991 l "distance"
+2 1 0.0974490 l "distance"
+1 2 0.0702991 l "distance"
+2 1 0.0974490 l "distance"
+*Edges

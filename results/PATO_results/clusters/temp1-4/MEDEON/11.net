@@ -1,0 +1,52 @@
+*Vertices 7
+1 "Anorthosite" ellipse
+2 "Aphanite" ellipse
+3 "Hypabyssal" ellipse
+4 "IgneousRock" ellipse
+5 "Kimberlite" ellipse
+6 "Peridotite" ellipse
+7 "Igneous" ellipse
+*Arcs
+1 4 0.4321494 l "isa"
+4 1 0.0700397 l "isa"
+2 4 0.5823972 l "isa"
+4 2 0.0700397 l "isa"
+3 4 0.5823972 l "isa"
+4 3 0.0700397 l "isa"
+5 4 0.5823972 l "isa"
+4 5 0.0700397 l "isa"
+6 4 0.5823972 l "isa"
+4 6 0.0700397 l "isa"
+4 7 0.1402474 l "definition"
+7 4 0.5654252 l "definition"
+4 7 0.1402474 l "substring"
+7 4 0.5654252 l "substring"
+1 4 0.4321494 l "isa"
+4 1 0.0700397 l "isa"
+2 4 0.5823972 l "isa"
+4 2 0.0700397 l "isa"
+3 4 0.5823972 l "isa"
+4 3 0.0700397 l "isa"
+5 4 0.5823972 l "isa"
+4 5 0.0700397 l "isa"
+6 4 0.5823972 l "isa"
+4 6 0.0700397 l "isa"
+4 7 0.1402474 l "definition"
+7 4 0.5654252 l "definition"
+4 7 0.1402474 l "substring"
+7 4 0.5654252 l "substring"
+1 4 0.4321494 l "isa"
+4 1 0.0700397 l "isa"
+2 4 0.5823972 l "isa"
+4 2 0.0700397 l "isa"
+3 4 0.5823972 l "isa"
+4 3 0.0700397 l "isa"
+5 4 0.5823972 l "isa"
+4 5 0.0700397 l "isa"
+6 4 0.5823972 l "isa"
+4 6 0.0700397 l "isa"
+4 7 0.1402474 l "definition"
+7 4 0.5654252 l "definition"
+4 7 0.1402474 l "substring"
+7 4 0.5654252 l "substring"
+*Edges

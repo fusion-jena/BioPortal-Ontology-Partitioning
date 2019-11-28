@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Tswana" ellipse
+2 "Tsurcana" ellipse
+*Arcs
+1 2 0.3112614 l "distance"
+2 1 0.5494656 l "distance"
+1 2 0.3112614 l "distance"
+2 1 0.5494656 l "distance"
+1 2 0.3112614 l "distance"
+2 1 0.5494656 l "distance"
+*Edges

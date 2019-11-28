@@ -1,0 +1,27 @@
+*Vertices 4
+1 "adult stage" ellipse
+2 "early adult stage" ellipse
+3 "aged adult stage" ellipse
+4 "late adult stage" ellipse
+*Arcs
+3 4 0.1276626 l "definition"
+4 3 0.1937286 l "definition"
+1 2 0.1689268 l "substring"
+2 1 0.0710006 l "substring"
+1 3 0.1683335 l "substring"
+3 1 0.0617778 l "substring"
+1 4 0.1707604 l "substring"
+4 1 0.0950997 l "substring"
+3 4 0.1276626 l "distance"
+4 3 0.1937286 l "distance"
+3 4 0.1276626 l "definition"
+4 3 0.1937286 l "definition"
+1 2 0.1689268 l "substring"
+2 1 0.0710006 l "substring"
+1 3 0.1683335 l "substring"
+3 1 0.0617778 l "substring"
+1 4 0.1707604 l "substring"
+4 1 0.0950997 l "substring"
+3 4 0.1276626 l "distance"
+4 3 0.1937286 l "distance"
+*Edges

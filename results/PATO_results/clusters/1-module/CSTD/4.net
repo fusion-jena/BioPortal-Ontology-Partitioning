@@ -1,0 +1,33 @@
+*Vertices 10
+1 "alternative_medicine" ellipse
+2 "behavioral" ellipse
+3 "medical_condition" ellipse
+4 "other" ellipse
+5 "other_procedures" ellipse
+6 "past_history_and_chronic_diseases" ellipse
+7 "received_intervention_for_the_current_problem" ellipse
+8 "rehabilitation" ellipse
+9 "surgical" ellipse
+10 "surgical_procedures" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1428571 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1428571 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1666667 l "isa"
+4 7 0.3333333 l "isa"
+7 4 0.1428571 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.1666667 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.1428571 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.1428571 l "isa"
+10 6 0.5000000 l "isa"
+6 10 0.1666667 l "isa"
+4 5 0.3333333 l "substring"
+5 4 0.5000000 l "substring"
+9 10 0.5000000 l "substring"
+10 9 0.5000000 l "substring"
+*Edges

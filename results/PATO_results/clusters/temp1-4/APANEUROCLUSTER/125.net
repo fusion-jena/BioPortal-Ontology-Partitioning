@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Inservice_Training" ellipse
+2 "Mental_Health_Inservice_Training" ellipse
+*Arcs
+1 2 0.3556850 l "substring"
+2 1 0.2763290 l "substring"
+1 2 0.3556850 l "substring"
+2 1 0.2763290 l "substring"
+*Edges

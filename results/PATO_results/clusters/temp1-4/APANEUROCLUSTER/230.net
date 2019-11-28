@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Harassment" ellipse
+2 "Sexual_Harassment" ellipse
+*Arcs
+1 2 0.2243584 l "substring"
+2 1 0.1921459 l "substring"
+1 2 0.2243584 l "substring"
+2 1 0.1921459 l "substring"
+1 2 0.2243584 l "substring"
+2 1 0.1921459 l "substring"
+*Edges

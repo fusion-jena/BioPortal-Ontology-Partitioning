@@ -1,0 +1,13 @@
+*Vertices 4
+1 "AcquisitionGoal" ellipse
+2 "CessationGoal" ellipse
+3 "InterventionGoal" ellipse
+4 "ShapeableGoal" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1428571 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1428571 l "isa"
+*Edges

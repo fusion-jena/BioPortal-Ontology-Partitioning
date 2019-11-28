@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Occasionally_watches_other_children_but_almost_never_tries_to_approach" ellipse
+2 "intch_Occasionally_watches_other_children_but_almost_never_tries_to_approach"
+*Arcs
+1 2 0.2609670 l "substring"
+2 1 0.1817472 l "substring"
+1 2 0.2609670 l "substring"
+2 1 0.1817472 l "substring"
+*Edges

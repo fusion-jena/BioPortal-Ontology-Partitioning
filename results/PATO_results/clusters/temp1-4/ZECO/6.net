@@ -1,0 +1,13 @@
+*Vertices 2
+1 "adaxial indumentum" ellipse
+2 "adaxial indumentum" ellipse
+*Arcs
+1 2 0.2420339 l "substring"
+2 1 0.3055421 l "substring"
+1 2 0.2420339 l "distance"
+2 1 0.3055421 l "distance"
+1 2 0.2420339 l "substring"
+2 1 0.3055421 l "substring"
+1 2 0.2420339 l "distance"
+2 1 0.3055421 l "distance"
+*Edges

@@ -1,0 +1,51 @@
+*Vertices 6
+1 "Sign or Symptom" ellipse
+2 "Finding" ellipse
+3 "Finding by cause" ellipse
+4 "Injury" ellipse
+5 "Mental and Behavioral Signs and Symptoms" ellipse
+6 "Disease, Disorder or Finding" ellipse
+*Arcs
+1 2 0.3309783 l "isa"
+2 1 0.0311799 l "isa"
+2 6 0.0621490 l "isa"
+6 2 0.3205285 l "isa"
+3 2 0.5865999 l "isa"
+2 3 0.0765652 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.4134001 l "isa"
+5 1 0.2518454 l "isa"
+1 5 0.3915854 l "isa"
+2 3 0.0765652 l "substring"
+3 2 0.5865999 l "substring"
+2 6 0.0621490 l "substring"
+6 2 0.3205285 l "substring"
+1 2 0.3309783 l "isa"
+2 1 0.0311799 l "isa"
+2 6 0.0621490 l "isa"
+6 2 0.3205285 l "isa"
+3 2 0.5865999 l "isa"
+2 3 0.0765652 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.4134001 l "isa"
+5 1 0.2518454 l "isa"
+1 5 0.3915854 l "isa"
+2 3 0.0765652 l "substring"
+3 2 0.5865999 l "substring"
+2 6 0.0621490 l "substring"
+6 2 0.3205285 l "substring"
+1 2 0.3309783 l "isa"
+2 1 0.0311799 l "isa"
+2 6 0.0621490 l "isa"
+6 2 0.3205285 l "isa"
+3 2 0.5865999 l "isa"
+2 3 0.0765652 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.4134001 l "isa"
+5 1 0.2518454 l "isa"
+1 5 0.3915854 l "isa"
+2 3 0.0765652 l "substring"
+3 2 0.5865999 l "substring"
+2 6 0.0621490 l "substring"
+6 2 0.3205285 l "substring"
+*Edges

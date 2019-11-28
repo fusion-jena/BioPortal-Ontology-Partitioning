@@ -1,0 +1,19 @@
+*Vertices 2
+1 "right lower lobe hilum" ellipse
+2 "right upper lobe hilum" ellipse
+*Arcs
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+1 2 0.2857374 l "distance"
+2 1 0.2856796 l "distance"
+*Edges

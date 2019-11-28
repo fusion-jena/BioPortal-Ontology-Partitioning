@@ -1,0 +1,29 @@
+*Vertices 8
+1 "Expressive_Phonology" ellipse
+2 "Intonation_Volume_Rhythm_Rate" ellipse
+3 "Intonation_Volume_Rhythm_Rate_NotAvailable" ellipse
+4 "Intonation_Volume_Rhythm_Rate_UnknownOrNotAsked" ellipse
+5 "Prosody" ellipse
+6 "Speech_peculiar_or_difficult_to_understand" ellipse
+7 "Speech_with_abnormality" ellipse
+8 "Vocalizations" ellipse
+*Arcs
+2 5 0.0909091 l "isa"
+5 2 0.5000000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.1818182 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.1818182 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.3333333 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.0909091 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.0909091 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.3333333 l "isa"
+2 3 0.1818182 l "substring"
+3 2 0.6666667 l "substring"
+2 4 0.1818182 l "substring"
+4 2 0.6666667 l "substring"
+*Edges

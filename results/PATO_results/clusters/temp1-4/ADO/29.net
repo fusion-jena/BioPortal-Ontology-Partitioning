@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Boston naming test" ellipse
+2 "Cognitive Test" ellipse
+3 "Folstein minimental test" ellipse
+4 "Short portable mental status questionarie" ellipse
+5 "cognitive reserve questionnaire" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0769231 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0769231 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0769231 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0769231 l "isa"
+*Edges

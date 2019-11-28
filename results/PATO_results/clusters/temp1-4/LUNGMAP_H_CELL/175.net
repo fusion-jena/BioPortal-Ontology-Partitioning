@@ -1,0 +1,25 @@
+*Vertices 6
+1 "lymphatic smooth muscle" ellipse
+2 "lymphatic vessel tunica media" ellipse
+3 "mucus cell" ellipse
+4 "smooth muscle cell" ellipse
+5 "muscle cell" ellipse
+6 "mesenchymal derived cell" ellipse
+*Arcs
+1 2 0.2625125 l "definition"
+2 1 0.2139302 l "definition"
+4 1 0.1080327 l "definition"
+1 4 0.2544764 l "definition"
+4 5 0.1819498 l "isa"
+5 4 0.5000000 l "isa"
+5 6 0.2500000 l "isa"
+6 5 0.1428571 l "isa"
+1 2 0.2625125 l "definition"
+2 1 0.2139302 l "definition"
+4 1 0.1080327 l "definition"
+1 4 0.2544764 l "definition"
+4 5 0.1819498 l "substring"
+5 4 0.5000000 l "substring"
+3 5 0.1483101 l "distance"
+5 3 0.2500000 l "distance"
+*Edges

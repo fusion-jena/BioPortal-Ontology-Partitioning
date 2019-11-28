@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Population unit" ellipse
+2 "Animal owner" ellipse
+*Arcs
+1 1 0.2501670 l "hasMember"
+1 1 0.2501670 l "hasMember"
+1 1 0.2501670 l "isMemberOf"
+1 1 0.2501670 l "isMemberOf"
+1 2 0.1409671 l "isOwnedBy"
+2 1 0.6901579 l "isOwnedBy"
+2 1 0.6901579 l "isOwnerOf"
+1 2 0.1409671 l "isOwnerOf"
+1 1 0.2501670 l "hasMember"
+1 1 0.2501670 l "hasMember"
+1 1 0.2501670 l "isMemberOf"
+1 1 0.2501670 l "isMemberOf"
+1 2 0.1409671 l "isOwnedBy"
+2 1 0.6901579 l "isOwnedBy"
+2 1 0.6901579 l "isOwnerOf"
+1 2 0.1409671 l "isOwnerOf"
+*Edges

@@ -1,0 +1,98 @@
+*Vertices 25
+1 "AmazonRegion" ellipse
+2 "Amazonia" ellipse
+3 "AraucariasRegion" ellipse
+4 "Biome" ellipse
+5 "Caatinga" ellipse
+6 "CaatingaRegion" ellipse
+7 "Cerrado" ellipse
+8 "CocaisRegion" ellipse
+9 "Ecosystem" ellipse
+10 "FieldRegion" ellipse
+11 "LitoralRegion" ellipse
+12 "MacroEcosystem" ellipse
+13 "MataAtlantica" ellipse
+14 "MataAtlanticaRegion" ellipse
+15 "MesoEcosystem" ellipse
+16 "MicroEcosystem" ellipse
+17 "Pantanal" ellipse
+18 "PantanalRegion" ellipse
+19 "PhitophysiognomicRegion" ellipse
+20 "SavannahRegion" ellipse
+21 "TypeBiome" ellipse
+22 "TypeEcosystem" ellipse
+23 "ZonasCosteiras" ellipse
+24 "isClassifiedAsBiomaTipoBioma"
+25 "isClassifiedAsEcosTipoEcos"
+*Arcs
+1 19 1.0000000 l "isa"
+19 1 0.1000000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 19 1.0000000 l "isa"
+19 3 0.1000000 l "isa"
+4 12 0.1250000 l "isa"
+12 4 0.1428571 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1250000 l "isa"
+6 19 0.5000000 l "isa"
+19 6 0.1000000 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.1250000 l "isa"
+8 19 1.0000000 l "isa"
+19 8 0.1000000 l "isa"
+10 19 1.0000000 l "isa"
+19 10 0.1000000 l "isa"
+11 19 1.0000000 l "isa"
+19 11 0.1000000 l "isa"
+12 9 0.2857143 l "isa"
+9 12 0.1818182 l "isa"
+13 4 0.5000000 l "isa"
+4 13 0.1250000 l "isa"
+14 19 0.5000000 l "isa"
+19 14 0.1000000 l "isa"
+15 9 0.4000000 l "isa"
+9 15 0.1818182 l "isa"
+16 9 0.5000000 l "isa"
+9 16 0.1818182 l "isa"
+17 4 0.5000000 l "isa"
+4 17 0.1250000 l "isa"
+18 19 0.5000000 l "isa"
+19 18 0.1000000 l "isa"
+20 19 1.0000000 l "isa"
+19 20 0.1000000 l "isa"
+21 12 0.3333333 l "isa"
+12 21 0.1428571 l "isa"
+23 4 1.0000000 l "isa"
+4 23 0.1250000 l "isa"
+24 24 0.5000000 l "definition"
+24 24 0.5000000 l "definition"
+24 21 0.2500000 l "definition"
+21 24 0.3333333 l "definition"
+25 25 0.5000000 l "definition"
+25 25 0.5000000 l "definition"
+25 22 0.2500000 l "definition"
+22 25 0.5000000 l "definition"
+4 21 0.1250000 l "substring"
+21 4 0.3333333 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.5000000 l "substring"
+9 12 0.1818182 l "substring"
+12 9 0.2857143 l "substring"
+9 15 0.1818182 l "substring"
+15 9 0.4000000 l "substring"
+9 16 0.1818182 l "substring"
+16 9 0.5000000 l "substring"
+9 22 0.0909091 l "substring"
+22 9 0.5000000 l "substring"
+13 14 0.5000000 l "substring"
+14 13 0.5000000 l "substring"
+17 18 0.5000000 l "substring"
+18 17 0.5000000 l "substring"
+12 15 0.1428571 l "distance"
+15 12 0.2000000 l "distance"
+12 16 0.1428571 l "distance"
+16 12 0.2500000 l "distance"
+15 16 0.2000000 l "distance"
+16 15 0.2500000 l "distance"
+*Edges

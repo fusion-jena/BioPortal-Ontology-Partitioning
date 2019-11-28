@@ -1,0 +1,24 @@
+*Vertices 5
+1 "part cleaned" ellipse
+2 "operand role" ellipse
+3 "cleaning role" ellipse
+4 "signing role" ellipse
+5 "signed object" ellipse
+*Arcs
+1 2 0.4977579 l "isa"
+2 1 0.1403083 l "isa"
+1 3 0.5022421 l "isa"
+3 1 0.1619398 l "isa"
+5 2 0.3352343 l "isa"
+2 5 0.1314601 l "isa"
+5 4 0.3384577 l "isa"
+4 5 0.1385014 l "isa"
+1 2 0.4977579 l "isa"
+2 1 0.1403083 l "isa"
+1 3 0.5022421 l "isa"
+3 1 0.1619398 l "isa"
+5 2 0.3352343 l "isa"
+2 5 0.1314601 l "isa"
+5 4 0.3384577 l "isa"
+4 5 0.1385014 l "isa"
+*Edges

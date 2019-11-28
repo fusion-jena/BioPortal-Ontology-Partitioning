@@ -1,0 +1,43 @@
+*Vertices 4
+1 "meteor" ellipse
+2 "hydrometeor" ellipse
+3 "lithometeor" ellipse
+4 "meteoroid" ellipse
+*Arcs
+2 1 0.4128352 l "isa"
+1 2 0.1424475 l "isa"
+3 1 0.3272561 l "isa"
+1 3 0.1381740 l "isa"
+2 1 0.4128352 l "definition"
+1 2 0.1424475 l "definition"
+3 1 0.3272561 l "definition"
+1 3 0.1381740 l "definition"
+3 4 0.0982143 l "definition"
+4 3 0.0843046 l "definition"
+1 2 0.1424475 l "substring"
+2 1 0.4128352 l "substring"
+1 3 0.1381740 l "substring"
+3 1 0.3272561 l "substring"
+1 4 0.0854685 l "substring"
+4 1 0.1737576 l "substring"
+1 4 0.0854685 l "distance"
+4 1 0.1737576 l "distance"
+2 1 0.4128352 l "isa"
+1 2 0.1424475 l "isa"
+3 1 0.3272561 l "isa"
+1 3 0.1381740 l "isa"
+2 1 0.4128352 l "definition"
+1 2 0.1424475 l "definition"
+3 1 0.3272561 l "definition"
+1 3 0.1381740 l "definition"
+3 4 0.0982143 l "definition"
+4 3 0.0843046 l "definition"
+1 2 0.1424475 l "substring"
+2 1 0.4128352 l "substring"
+1 3 0.1381740 l "substring"
+3 1 0.3272561 l "substring"
+1 4 0.0854685 l "substring"
+4 1 0.1737576 l "substring"
+1 4 0.0854685 l "distance"
+4 1 0.1737576 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "E1F2B4" ellipse
+2 "ZNF224" ellipse
+*Arcs
+1 2 0.1115638 l "distance"
+2 1 0.2141808 l "distance"
+1 2 0.1115638 l "distance"
+2 1 0.2141808 l "distance"
+1 2 0.1115638 l "distance"
+2 1 0.2141808 l "distance"
+*Edges

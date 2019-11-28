@@ -1,0 +1,45 @@
+*Vertices 6
+1 "Current Land Use" ellipse
+2 "crop cover" ellipse
+3 "grass/herbaceous cover" ellipse
+4 "shrub cover" ellipse
+5 "tree cover" ellipse
+6 "urban (artificial cover)" ellipse
+*Arcs
+2 1 0.2496609 l "isa"
+1 2 0.0858409 l "isa"
+3 1 0.2640194 l "isa"
+1 3 0.0862774 l "isa"
+4 1 0.2640194 l "isa"
+1 4 0.0862774 l "isa"
+5 1 0.2496609 l "isa"
+1 5 0.0858409 l "isa"
+6 1 0.2640221 l "isa"
+1 6 0.0862782 l "isa"
+2 5 0.2865692 l "distance"
+5 2 0.2865692 l "distance"
+2 1 0.2496609 l "isa"
+1 2 0.0858409 l "isa"
+3 1 0.2640194 l "isa"
+1 3 0.0862774 l "isa"
+4 1 0.2640194 l "isa"
+1 4 0.0862774 l "isa"
+5 1 0.2496609 l "isa"
+1 5 0.0858409 l "isa"
+6 1 0.2640221 l "isa"
+1 6 0.0862782 l "isa"
+2 5 0.2865692 l "distance"
+5 2 0.2865692 l "distance"
+2 1 0.2496609 l "isa"
+1 2 0.0858409 l "isa"
+3 1 0.2640194 l "isa"
+1 3 0.0862774 l "isa"
+4 1 0.2640194 l "isa"
+1 4 0.0862774 l "isa"
+5 1 0.2496609 l "isa"
+1 5 0.0858409 l "isa"
+6 1 0.2640221 l "isa"
+1 6 0.0862782 l "isa"
+2 5 0.2865692 l "distance"
+5 2 0.2865692 l "distance"
+*Edges

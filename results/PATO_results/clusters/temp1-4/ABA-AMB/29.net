@@ -1,0 +1,30 @@
+*Vertices 7
+1 "Olfactory tubercle" ellipse
+2 "Olfactory tubercle, molecular layer" ellipse
+3 "Olfactory tubercle, layers 1-3" ellipse
+4 "Olfactory tubercle, pyramidal layer" ellipse
+5 "Olfactory tubercle, polymorph layer" ellipse
+6 "Islands of Calleja" ellipse
+7 "Major island of Calleja" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1818182 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1818182 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1818182 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1818182 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0909091 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0909091 l "isa"
+1 2 0.1818182 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1818182 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.1818182 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.1818182 l "substring"
+5 1 1.0000000 l "substring"
+*Edges

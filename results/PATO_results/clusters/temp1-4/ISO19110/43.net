@@ -1,0 +1,22 @@
+*Vertices 3
+1 "PIK3C2B" ellipse
+2 "PIK3C2G" ellipse
+3 "PRKACG" ellipse
+*Arcs
+1 2 0.2542583 l "distance"
+2 1 0.3017683 l "distance"
+2 3 0.2888834 l "distance"
+3 2 0.2119999 l "distance"
+1 2 0.2542583 l "distance"
+2 1 0.3017683 l "distance"
+2 3 0.2888834 l "distance"
+3 2 0.2119999 l "distance"
+1 2 0.2542583 l "distance"
+2 1 0.3017683 l "distance"
+2 3 0.2888834 l "distance"
+3 2 0.2119999 l "distance"
+1 2 0.2542583 l "distance"
+2 1 0.3017683 l "distance"
+2 3 0.2888834 l "distance"
+3 2 0.2119999 l "distance"
+*Edges

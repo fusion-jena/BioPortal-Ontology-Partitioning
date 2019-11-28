@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Australian Braford" ellipse
+2 "Braford" ellipse
+3 "American Braford" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3025097 l "isa"
+3 2 0.7076205 l "isa"
+2 3 0.2714830 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.3025097 l "substring"
+2 3 0.2714830 l "substring"
+3 2 0.7076205 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.3025097 l "isa"
+3 2 0.7076205 l "isa"
+2 3 0.2714830 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.3025097 l "substring"
+2 3 0.2714830 l "substring"
+3 2 0.7076205 l "substring"
+*Edges

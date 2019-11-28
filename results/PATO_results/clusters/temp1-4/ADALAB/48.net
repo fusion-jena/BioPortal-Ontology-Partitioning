@@ -1,0 +1,49 @@
+*Vertices 6
+1 "Household device" ellipse
+2 "Physical object" ellipse
+3 "Domestic, office and garden artefact" ellipse
+4 "Domestic artefact" ellipse
+5 "Household accessory" ellipse
+6 "Household appliance" ellipse
+*Arcs
+1 4 0.3535809 l "isa"
+4 1 0.3170295 l "isa"
+3 2 0.3439971 l "isa"
+2 3 0.4754740 l "isa"
+4 3 0.2967538 l "isa"
+3 4 0.2866556 l "isa"
+5 1 0.3803221 l "isa"
+1 5 0.3726819 l "isa"
+6 5 0.2474746 l "isa"
+5 6 0.3381931 l "isa"
+1 4 0.3535809 l "isa"
+4 1 0.3170295 l "isa"
+3 2 0.3439971 l "isa"
+2 3 0.4754740 l "isa"
+4 3 0.2967538 l "isa"
+3 4 0.2866556 l "isa"
+5 1 0.3803221 l "isa"
+1 5 0.3726819 l "isa"
+6 5 0.2474746 l "isa"
+5 6 0.3381931 l "isa"
+1 4 0.3535809 l "isa"
+4 1 0.3170295 l "isa"
+3 2 0.3439971 l "isa"
+2 3 0.4754740 l "isa"
+4 3 0.2967538 l "isa"
+3 4 0.2866556 l "isa"
+5 1 0.3803221 l "isa"
+1 5 0.3726819 l "isa"
+6 5 0.2474746 l "isa"
+5 6 0.3381931 l "isa"
+1 4 0.3535809 l "isa"
+4 1 0.3170295 l "isa"
+3 2 0.3439971 l "isa"
+2 3 0.4754740 l "isa"
+4 3 0.2967538 l "isa"
+3 4 0.2866556 l "isa"
+5 1 0.3803221 l "isa"
+1 5 0.3726819 l "isa"
+6 5 0.2474746 l "isa"
+5 6 0.3381931 l "isa"
+*Edges

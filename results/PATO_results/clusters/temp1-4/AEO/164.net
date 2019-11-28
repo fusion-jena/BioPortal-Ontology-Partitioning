@@ -1,0 +1,17 @@
+*Vertices 2
+1 "inflammatory marker cytokine" ellipse
+2 "entity used as an inflammatory marker" ellipse
+*Arcs
+1 2 0.2271541 l "isa"
+2 1 0.1514190 l "isa"
+1 2 0.2271541 l "definition"
+2 1 0.1514190 l "definition"
+1 2 0.2271541 l "isa"
+2 1 0.1514190 l "isa"
+1 2 0.2271541 l "definition"
+2 1 0.1514190 l "definition"
+1 2 0.2271541 l "isa"
+2 1 0.1514190 l "isa"
+1 2 0.2271541 l "definition"
+2 1 0.1514190 l "definition"
+*Edges

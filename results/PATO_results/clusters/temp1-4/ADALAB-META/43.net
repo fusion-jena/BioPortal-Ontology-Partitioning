@@ -1,0 +1,58 @@
+*Vertices 7
+1 "AddressPart" ellipse
+2 "BirthCountryName" ellipse
+3 "CountryName" ellipse
+4 "HouseNumber" ellipse
+5 "PlaceName" ellipse
+6 "PostalCode" ellipse
+7 "StreetName" ellipse
+*Arcs
+2 3 0.3259204 l "isa"
+3 2 0.3610134 l "isa"
+3 1 0.3354143 l "isa"
+1 3 0.1040890 l "isa"
+4 1 0.5327539 l "isa"
+1 4 0.1112184 l "isa"
+5 1 0.3484711 l "isa"
+1 5 0.1040890 l "isa"
+6 1 0.6981693 l "isa"
+1 6 0.1183478 l "isa"
+7 1 0.5321694 l "isa"
+1 7 0.1112184 l "isa"
+1 6 0.1183478 l "definition"
+6 1 0.6981693 l "definition"
+1 3 0.1040890 l "definition"
+3 1 0.3354143 l "definition"
+1 4 0.1112184 l "definition"
+4 1 0.5327539 l "definition"
+1 5 0.1040890 l "definition"
+5 1 0.3484711 l "definition"
+1 7 0.1112184 l "definition"
+7 1 0.5321694 l "definition"
+2 3 0.3259204 l "substring"
+3 2 0.3610134 l "substring"
+2 3 0.3259204 l "isa"
+3 2 0.3610134 l "isa"
+3 1 0.3354143 l "isa"
+1 3 0.1040890 l "isa"
+4 1 0.5327539 l "isa"
+1 4 0.1112184 l "isa"
+5 1 0.3484711 l "isa"
+1 5 0.1040890 l "isa"
+6 1 0.6981693 l "isa"
+1 6 0.1183478 l "isa"
+7 1 0.5321694 l "isa"
+1 7 0.1112184 l "isa"
+1 6 0.1183478 l "definition"
+6 1 0.6981693 l "definition"
+1 3 0.1040890 l "definition"
+3 1 0.3354143 l "definition"
+1 4 0.1112184 l "definition"
+4 1 0.5327539 l "definition"
+1 5 0.1040890 l "definition"
+5 1 0.3484711 l "definition"
+1 7 0.1112184 l "definition"
+7 1 0.5321694 l "definition"
+2 3 0.3259204 l "substring"
+3 2 0.3610134 l "substring"
+*Edges

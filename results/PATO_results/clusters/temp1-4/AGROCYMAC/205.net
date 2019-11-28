@@ -1,0 +1,23 @@
+*Vertices 4
+1 "manufactured product" ellipse
+2 "anthropogenic abiotic mesoscopic feature" ellipse
+3 "abiotic mesoscopic physical object" ellipse
+4 "manufacturing process" ellipse
+*Arcs
+1 2 0.1282670 l "isa"
+2 1 0.5010661 l "isa"
+2 3 0.4989339 l "isa"
+3 2 0.1134189 l "isa"
+1 4 0.2379763 l "definition"
+4 1 0.2178723 l "definition"
+4 1 0.2178723 l "definition"
+1 4 0.2379763 l "definition"
+1 2 0.1282670 l "isa"
+2 1 0.5010661 l "isa"
+2 3 0.4989339 l "isa"
+3 2 0.1134189 l "isa"
+1 4 0.2379763 l "definition"
+4 1 0.2178723 l "definition"
+4 1 0.2178723 l "definition"
+1 4 0.2379763 l "definition"
+*Edges

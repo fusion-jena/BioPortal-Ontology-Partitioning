@@ -1,0 +1,19 @@
+*Vertices 4
+1 "HYPOT" ellipse
+2 "Essential_Hypertension" ellipse
+3 "Hypertension" ellipse
+4 "Hypotension" ellipse
+*Arcs
+1 4 0.0401667 l "substring"
+4 1 0.2458353 l "substring"
+2 3 0.2699896 l "substring"
+3 2 0.2627904 l "substring"
+3 4 0.2627904 l "distance"
+4 3 0.2688343 l "distance"
+1 4 0.0401667 l "substring"
+4 1 0.2458353 l "substring"
+2 3 0.2699896 l "substring"
+3 2 0.2627904 l "substring"
+3 4 0.2627904 l "distance"
+4 3 0.2688343 l "distance"
+*Edges

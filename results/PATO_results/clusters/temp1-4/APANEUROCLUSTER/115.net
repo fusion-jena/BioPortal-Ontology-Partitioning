@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Virtual_Classrooms" ellipse
+2 "Classrooms" ellipse
+*Arcs
+1 2 0.2318536 l "substring"
+2 1 0.3499323 l "substring"
+1 2 0.2318536 l "substring"
+2 1 0.3499323 l "substring"
+*Edges

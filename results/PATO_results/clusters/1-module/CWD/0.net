@@ -1,0 +1,7 @@
+*Vertices 2
+1 "bmi" ellipse
+2 "nil"
+*Arcs
+1 2 0.2500000 l "distance"
+2 1 0.2500000 l "distance"
+*Edges

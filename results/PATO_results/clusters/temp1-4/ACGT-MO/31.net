@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Infection" ellipse
+2 "Infusion" ellipse
+3 "TherapeuticProcess" ellipse
+4 "WoundInfection" ellipse
+*Arcs
+2 3 0.5000000 l "isa"
+3 2 0.0217391 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1000000 l "isa"
+1 4 0.1000000 l "substring"
+4 1 1.0000000 l "substring"
+1 2 0.0500000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "improper_part_of"
+2 "proper_part_of"
+*Arcs
+1 2 0.4000000 l "substring"
+2 1 0.4000000 l "substring"
+1 2 0.4000000 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Birth" ellipse
+2 "family size/birth order/number of siblings" ellipse
+3 "geography/place of birth" ellipse
+*Arcs
+1 2 0.0472694 l "substring"
+2 1 0.3422377 l "substring"
+1 3 0.0471732 l "substring"
+3 1 0.3407773 l "substring"
+1 2 0.0472694 l "substring"
+2 1 0.3422377 l "substring"
+1 3 0.0471732 l "substring"
+3 1 0.3407773 l "substring"
+1 2 0.0472694 l "substring"
+2 1 0.3422377 l "substring"
+1 3 0.0471732 l "substring"
+3 1 0.3407773 l "substring"
+1 2 0.0472694 l "substring"
+2 1 0.3422377 l "substring"
+1 3 0.0471732 l "substring"
+3 1 0.3407773 l "substring"
+1 2 0.0472694 l "substring"
+2 1 0.3422377 l "substring"
+1 3 0.0471732 l "substring"
+3 1 0.3407773 l "substring"
+*Edges

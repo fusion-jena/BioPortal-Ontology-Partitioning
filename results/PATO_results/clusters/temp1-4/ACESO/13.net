@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Observable entity" ellipse
+2 "Clinical history/examination observable" ellipse
+3 "Mental state, behavior / psychosocial function observable" ellipse
+4 "entity" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.5000000 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.1666667 l "substring"
+*Edges

@@ -1,0 +1,46 @@
+*Vertices 7
+1 "Achieved_therapy" ellipse
+2 "Face-to-face" ellipse
+3 "Indicators" ellipse
+4 "Non_Face-to-face" ellipse
+5 "STOPPFrail_criteria" ellipse
+6 "STOPP_START_criteria" ellipse
+7 "Has_Type_Style"
+*Arcs
+1 3 0.2517275 l "isa"
+3 1 0.0449505 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.0596234 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.0596234 l "isa"
+3 2 0.0976333 l "Has_Presence_of_Type"
+2 3 0.4166191 l "Has_Presence_of_Type"
+3 4 0.0976333 l "Has_Presence_of_Type"
+4 3 0.4166191 l "Has_Presence_of_Type"
+2 3 0.4166191 l "It_is_Type_Presence_of"
+3 2 0.0976333 l "It_is_Type_Presence_of"
+4 3 0.4166191 l "It_is_Type_Presence_of"
+3 4 0.0976333 l "It_is_Type_Presence_of"
+1 7 0.2505681 l "definition"
+7 1 0.0391498 l "definition"
+2 4 0.2003588 l "substring"
+4 2 0.2003588 l "substring"
+1 3 0.2517275 l "isa"
+3 1 0.0449505 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.0596234 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.0596234 l "isa"
+3 2 0.0976333 l "Has_Presence_of_Type"
+2 3 0.4166191 l "Has_Presence_of_Type"
+3 4 0.0976333 l "Has_Presence_of_Type"
+4 3 0.4166191 l "Has_Presence_of_Type"
+2 3 0.4166191 l "It_is_Type_Presence_of"
+3 2 0.0976333 l "It_is_Type_Presence_of"
+4 3 0.4166191 l "It_is_Type_Presence_of"
+3 4 0.0976333 l "It_is_Type_Presence_of"
+1 7 0.2505681 l "definition"
+7 1 0.0391498 l "definition"
+2 4 0.2003588 l "substring"
+4 2 0.2003588 l "substring"
+*Edges

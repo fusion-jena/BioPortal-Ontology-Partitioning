@@ -1,0 +1,7 @@
+*Vertices 2
+1 "_Physiological symptoms of moderate cognitive decline" ellipse
+2 "_Spatial Disorientation" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0909091 l "isa"
+*Edges

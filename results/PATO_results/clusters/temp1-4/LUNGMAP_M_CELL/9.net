@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Campanian Barbary" ellipse
+2 "Sicilian Barbary" ellipse
+3 "Barb" ellipse
+*Arcs
+1 3 0.5122866 l "substring"
+3 1 0.0408950 l "substring"
+2 3 0.5122866 l "substring"
+3 2 0.0408950 l "substring"
+1 3 0.5122866 l "substring"
+3 1 0.0408950 l "substring"
+2 3 0.5122866 l "substring"
+3 2 0.0408950 l "substring"
+1 3 0.5122866 l "substring"
+3 1 0.0408950 l "substring"
+2 3 0.5122866 l "substring"
+3 2 0.0408950 l "substring"
+1 3 0.5122866 l "substring"
+3 1 0.0408950 l "substring"
+2 3 0.5122866 l "substring"
+3 2 0.0408950 l "substring"
+1 3 0.5122866 l "substring"
+3 1 0.0408950 l "substring"
+2 3 0.5122866 l "substring"
+3 2 0.0408950 l "substring"
+*Edges

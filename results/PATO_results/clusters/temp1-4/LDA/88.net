@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Belted Galloway" ellipse
+2 "Galloway" ellipse
+*Arcs
+1 2 0.5308932 l "substring"
+2 1 0.3734499 l "substring"
+1 2 0.5308932 l "substring"
+2 1 0.3734499 l "substring"
+*Edges

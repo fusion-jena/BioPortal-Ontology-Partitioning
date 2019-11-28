@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Nursing" ellipse
+2 "Patient_Status" ellipse
+3 "nursingStatus"
+*Arcs
+2 3 0.1000000 l "definition"
+3 2 0.5000000 l "definition"
+1 3 0.1250000 l "substring"
+3 1 0.5000000 l "substring"
+*Edges

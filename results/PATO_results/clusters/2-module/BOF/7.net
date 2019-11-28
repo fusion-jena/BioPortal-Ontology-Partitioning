@@ -1,0 +1,21 @@
+*Vertices 6
+1 "County" ellipse
+2 "CountyLand" ellipse
+3 "IndianLand" ellipse
+4 "State" ellipse
+5 "StateLand" ellipse
+6 "UnionArea" ellipse
+*Arcs
+2 6 0.5000000 l "isa"
+6 2 0.2000000 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.2000000 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.2000000 l "isa"
+1 4 0.1000000 l "spatiallyConteinedInMunEst"
+4 1 0.2000000 l "spatiallyConteinedInMunEst"
+1 2 0.1000000 l "substring"
+2 1 0.5000000 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.5000000 l "substring"
+*Edges

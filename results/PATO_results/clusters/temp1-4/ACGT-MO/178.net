@@ -1,0 +1,16 @@
+*Vertices 3
+1 "AntiarrhythmicPharmacotherapy" ellipse
+2 "Pharmacotherapy" ellipse
+3 "PharmacotherapyRegime" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.0909091 l "isa"
+2 3 0.1363636 l "definition"
+3 2 0.2727273 l "definition"
+3 2 0.2727273 l "definition"
+2 3 0.1363636 l "definition"
+1 2 0.3333333 l "substring"
+2 1 0.0909091 l "substring"
+2 3 0.1363636 l "substring"
+3 2 0.2727273 l "substring"
+*Edges

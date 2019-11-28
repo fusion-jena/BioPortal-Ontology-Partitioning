@@ -1,0 +1,79 @@
+*Vertices 18
+1 "Data" ellipse
+2 "Identifier" ellipse
+3 "Job ID" ellipse
+4 "Status" ellipse
+5 "Result" ellipse
+6 "Job in progress" ellipse
+7 "Job completed" ellipse
+8 "Job aborted" ellipse
+9 "Job progress (in percent)" ellipse
+10 "Operation" ellipse
+11 "Job submission" ellipse
+12 "Status retrieval" ellipse
+13 "Result retrieval" ellipse
+14 "Init session" ellipse
+15 "Send data" ellipse
+16 "Set parameters" ellipse
+17 "has output"
+18 "Restriction"
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2000000 l "isa"
+3 2 0.2500000 l "isa"
+2 3 0.5000000 l "isa"
+4 1 0.1428571 l "isa"
+1 4 0.2000000 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.2000000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1428571 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.1428571 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.1428571 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.1428571 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.1666667 l "isa"
+12 10 0.1428571 l "isa"
+10 12 0.1666667 l "isa"
+13 10 0.1428571 l "isa"
+10 13 0.1666667 l "isa"
+14 10 0.2500000 l "isa"
+10 14 0.1666667 l "isa"
+15 10 0.5000000 l "isa"
+10 15 0.1666667 l "isa"
+16 10 1.0000000 l "isa"
+10 16 0.1666667 l "isa"
+17 17 0.2500000 l "definition"
+17 17 0.2500000 l "definition"
+12 18 0.1428571 l "definition"
+18 12 0.3333333 l "definition"
+12 3 0.1428571 l "definition"
+3 12 0.2500000 l "definition"
+12 17 0.1428571 l "definition"
+17 12 0.1250000 l "definition"
+12 4 0.2857143 l "definition"
+4 12 0.2857143 l "definition"
+13 18 0.1428571 l "definition"
+18 13 0.3333333 l "definition"
+13 3 0.1428571 l "definition"
+3 13 0.2500000 l "definition"
+13 5 0.2857143 l "definition"
+5 13 0.6666667 l "definition"
+13 17 0.1428571 l "definition"
+17 13 0.1250000 l "definition"
+14 18 0.2500000 l "definition"
+18 14 0.3333333 l "definition"
+14 17 0.2500000 l "definition"
+17 14 0.1250000 l "definition"
+14 3 0.2500000 l "definition"
+3 14 0.2500000 l "definition"
+1 15 0.2000000 l "substring"
+15 1 0.5000000 l "substring"
+4 12 0.2857143 l "substring"
+12 4 0.2857143 l "substring"
+5 13 0.6666667 l "substring"
+13 5 0.2857143 l "substring"
+*Edges

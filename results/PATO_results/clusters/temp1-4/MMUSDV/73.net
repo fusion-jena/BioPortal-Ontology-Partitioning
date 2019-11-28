@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Swaziland" ellipse
+2 "Taiwan" ellipse
+3 "Thailand" ellipse
+*Arcs
+1 3 0.1534777 l "distance"
+3 1 0.2074675 l "distance"
+2 3 0.1528976 l "distance"
+3 2 0.2074675 l "distance"
+1 3 0.1534777 l "distance"
+3 1 0.2074675 l "distance"
+2 3 0.1528976 l "distance"
+3 2 0.2074675 l "distance"
+*Edges

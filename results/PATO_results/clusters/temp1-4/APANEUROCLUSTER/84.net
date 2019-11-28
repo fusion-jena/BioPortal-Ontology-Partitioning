@@ -1,0 +1,15 @@
+*Vertices 2
+1 "beta agonist" ellipse
+2 "short and long acting beta agonists" ellipse
+*Arcs
+1 2 0.6472777 l "substring"
+2 1 0.6472777 l "substring"
+1 2 0.6472777 l "substring"
+2 1 0.6472777 l "substring"
+1 2 0.6472777 l "substring"
+2 1 0.6472777 l "substring"
+1 2 0.6472777 l "substring"
+2 1 0.6472777 l "substring"
+1 2 0.6472777 l "substring"
+2 1 0.6472777 l "substring"
+*Edges

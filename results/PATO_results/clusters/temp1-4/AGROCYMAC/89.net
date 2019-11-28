@@ -1,0 +1,36 @@
+*Vertices 3
+1 "conductivity" ellipse
+2 "conductivity" ellipse
+3 "electrical conductivity" ellipse
+*Arcs
+3 2 0.7308579 l "isa"
+2 3 0.2708153 l "isa"
+1 2 0.2694995 l "substring"
+2 1 0.2045367 l "substring"
+1 3 0.1314040 l "substring"
+3 1 0.2691421 l "substring"
+2 3 0.2708153 l "substring"
+3 2 0.7308579 l "substring"
+1 2 0.2694995 l "distance"
+2 1 0.2045367 l "distance"
+3 2 0.7308579 l "isa"
+2 3 0.2708153 l "isa"
+1 2 0.2694995 l "substring"
+2 1 0.2045367 l "substring"
+1 3 0.1314040 l "substring"
+3 1 0.2691421 l "substring"
+2 3 0.2708153 l "substring"
+3 2 0.7308579 l "substring"
+1 2 0.2694995 l "distance"
+2 1 0.2045367 l "distance"
+3 2 0.7308579 l "isa"
+2 3 0.2708153 l "isa"
+1 2 0.2694995 l "substring"
+2 1 0.2045367 l "substring"
+1 3 0.1314040 l "substring"
+3 1 0.2691421 l "substring"
+2 3 0.2708153 l "substring"
+3 2 0.7308579 l "substring"
+1 2 0.2694995 l "distance"
+2 1 0.2045367 l "distance"
+*Edges

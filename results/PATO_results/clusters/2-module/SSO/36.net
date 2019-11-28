@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Nausea" ellipse
+2 "nausea" ellipse
+*Arcs
+1 2 0.3333333 l "substring"
+2 1 0.3333333 l "substring"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

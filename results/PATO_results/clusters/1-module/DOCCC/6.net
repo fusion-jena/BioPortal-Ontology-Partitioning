@@ -1,0 +1,46 @@
+*Vertices 13
+1 "Acute_Pain" ellipse
+2 "Auditory_Alteration" ellipse
+3 "Chronic_Pain" ellipse
+4 "Comfort_Alteration" ellipse
+5 "Gustatory_Alteration" ellipse
+6 "Kinesthetic_Alteration" ellipse
+7 "Olfactory_Alteration" ellipse
+8 "Pain" ellipse
+9 "Sensory" ellipse
+10 "Sensory_Perceptual_Alteration" ellipse
+11 "Tactile_Alteration" ellipse
+12 "Unilateral_Neglect" ellipse
+13 "Visual_Alteration" ellipse
+*Arcs
+1 9 0.5000000 l "isa"
+9 1 0.0714286 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.0714286 l "isa"
+3 9 0.5000000 l "isa"
+9 3 0.0714286 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.0714286 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.0714286 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0714286 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0714286 l "isa"
+8 9 0.3333333 l "isa"
+9 8 0.0714286 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.1428571 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.0714286 l "isa"
+12 9 1.0000000 l "isa"
+9 12 0.0714286 l "isa"
+13 9 1.0000000 l "isa"
+9 13 0.0714286 l "isa"
+1 8 0.5000000 l "substring"
+8 1 0.3333333 l "substring"
+3 8 0.5000000 l "substring"
+8 3 0.3333333 l "substring"
+9 10 0.1428571 l "substring"
+10 9 1.0000000 l "substring"
+*Edges

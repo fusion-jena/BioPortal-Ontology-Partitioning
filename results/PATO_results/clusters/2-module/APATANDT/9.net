@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Benton_Revised_Visual_Retention_Test" ellipse
+2 "Halstead_Reitan_Neuropsychological_Battery" ellipse
+3 "Luria_Nebraska_Neuropsychological_Battery" ellipse
+4 "Mini_Mental_State_Examination" ellipse
+5 "Wechsler_Memory_Scale" ellipse
+6 "Wisconsin_Card_Sorting_Test" ellipse
+7 "NeuropsychologicalMeasures" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1666667 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1666667 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1666667 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1666667 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1666667 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1666667 l "isa"
+*Edges

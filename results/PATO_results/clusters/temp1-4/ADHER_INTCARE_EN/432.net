@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Has_partial_response_or_indirect_physical_approach" ellipse
+2 "cocomf_Has_partial_response_or_indirect_physical_approach"
+*Arcs
+1 2 0.1199808 l "substring"
+2 1 0.1088225 l "substring"
+1 2 0.1199808 l "substring"
+2 1 0.1088225 l "substring"
+*Edges

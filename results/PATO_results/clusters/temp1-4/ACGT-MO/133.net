@@ -1,0 +1,20 @@
+*Vertices 3
+1 "BilateralOvariectomy" ellipse
+2 "Ovariectomy" ellipse
+3 "UnilateralOvariectomy" ellipse
+*Arcs
+1 2 0.4285714 l "isa"
+2 1 0.3000000 l "isa"
+3 2 0.3750000 l "isa"
+2 3 0.3000000 l "isa"
+2 1 0.3000000 l "definition"
+1 2 0.4285714 l "definition"
+2 3 0.3000000 l "definition"
+3 2 0.3750000 l "definition"
+1 2 0.4285714 l "substring"
+2 1 0.3000000 l "substring"
+2 3 0.3000000 l "substring"
+3 2 0.3750000 l "substring"
+1 3 0.1428571 l "distance"
+3 1 0.1250000 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Medication" ellipse
+2 "Medication-IVFluid" ellipse
+*Arcs
+1 2 0.3243791 l "substring"
+2 1 0.3499587 l "substring"
+1 2 0.3243791 l "substring"
+2 1 0.3499587 l "substring"
+1 2 0.3243791 l "substring"
+2 1 0.3499587 l "substring"
+1 2 0.3243791 l "substring"
+2 1 0.3499587 l "substring"
+1 2 0.3243791 l "substring"
+2 1 0.3499587 l "substring"
+1 2 0.3243791 l "substring"
+2 1 0.3499587 l "substring"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Santa Cruz" ellipse
+2 "Santa Cruz" ellipse
+*Arcs
+1 2 0.8675833 l "substring"
+2 1 0.8675678 l "substring"
+1 2 0.8675833 l "distance"
+2 1 0.8675678 l "distance"
+1 2 0.8675833 l "substring"
+2 1 0.8675678 l "substring"
+1 2 0.8675833 l "distance"
+2 1 0.8675678 l "distance"
+1 2 0.8675833 l "substring"
+2 1 0.8675678 l "substring"
+1 2 0.8675833 l "distance"
+2 1 0.8675678 l "distance"
+1 2 0.8675833 l "substring"
+2 1 0.8675678 l "substring"
+1 2 0.8675833 l "distance"
+2 1 0.8675678 l "distance"
+1 2 0.8675833 l "substring"
+2 1 0.8675678 l "substring"
+1 2 0.8675833 l "distance"
+2 1 0.8675678 l "distance"
+*Edges

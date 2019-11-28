@@ -1,0 +1,18 @@
+*Vertices 3
+1 "analysis sequence" ellipse
+2 "queue" ellipse
+3 "request queue" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.4546221 l "isa"
+2 3 0.1542078 l "substring"
+3 2 0.2741722 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.4546221 l "isa"
+2 3 0.1542078 l "substring"
+3 2 0.2741722 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.4546221 l "isa"
+2 3 0.1542078 l "substring"
+3 2 0.2741722 l "substring"
+*Edges

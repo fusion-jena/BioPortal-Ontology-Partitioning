@@ -1,0 +1,31 @@
+*Vertices 4
+1 "DysontogeneticTumor" ellipse
+2 "RhabdoidTumor" ellipse
+3 "RhabdoidTumorPredispositionSyndrom" ellipse
+4 "RhabdoidTumorPredispositionSyndromProcess" ellipse
+*Arcs
+2 1 0.1762874 l "isa"
+1 2 0.1573591 l "isa"
+2 3 0.1794386 l "substring"
+3 2 0.1772359 l "substring"
+2 4 0.1760189 l "substring"
+4 2 0.1531467 l "substring"
+3 4 0.1736820 l "substring"
+4 3 0.1529915 l "substring"
+2 1 0.1762874 l "isa"
+1 2 0.1573591 l "isa"
+2 3 0.1794386 l "substring"
+3 2 0.1772359 l "substring"
+2 4 0.1760189 l "substring"
+4 2 0.1531467 l "substring"
+3 4 0.1736820 l "substring"
+4 3 0.1529915 l "substring"
+2 1 0.1762874 l "isa"
+1 2 0.1573591 l "isa"
+2 3 0.1794386 l "substring"
+3 2 0.1772359 l "substring"
+2 4 0.1760189 l "substring"
+4 2 0.1531467 l "substring"
+3 4 0.1736820 l "substring"
+4 3 0.1529915 l "substring"
+*Edges

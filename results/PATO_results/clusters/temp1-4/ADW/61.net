@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Acoustic" ellipse
+2 "Acoustic signals" ellipse
+3 "Echolocation" ellipse
+4 "Electric" ellipse
+5 "Electric signals" ellipse
+6 "Perception channel" ellipse
+7 "Ultrasound" ellipse
+8 "Ultraviolet" ellipse
+*Arcs
+1 6 0.5000000 l "isa"
+6 1 0.0714286 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0714286 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.0714286 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0714286 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.0714286 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.3333333 l "substring"
+4 5 0.5000000 l "substring"
+5 4 0.3333333 l "substring"
+*Edges

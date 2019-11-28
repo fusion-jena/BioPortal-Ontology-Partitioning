@@ -1,0 +1,140 @@
+*Vertices 45
+1 "OWLClass_00000002810983140594" ellipse
+2 "OWLClass_00000002947544878399" ellipse
+3 "OWLClass_00000002989923319514" ellipse
+4 "OWLClass_00000003019770365297" ellipse
+5 "OWLClass_00000010686302773187" ellipse
+6 "OWLClass_00000011667033120550" ellipse
+7 "OWLClass_00000012105948160590" ellipse
+8 "OWLClass_00000012169468636027" ellipse
+9 "OWLClass_00000014520555095270" ellipse
+10 "OWLClass_00000017974604189673" ellipse
+11 "OWLClass_031330c9_dd0f_4db7_a859_d7071eeaabfe" ellipse
+12 "OWLClass_0adb9696_6d6a_4d6d_97c7_9ff7b8b2e41d" ellipse
+13 "OWLClass_1b6c09b4_7d3a_4a84_951e_e2d82abcfdcc" ellipse
+14 "OWLClass_2bff05d8_012f_4ae1_86a0_867b81d4171d" ellipse
+15 "OWLClass_2de0d31a_427e_49d2_ab02_b131475f3fd6" ellipse
+16 "OWLClass_33337344_d220_451d_8672_f86828eb5665" ellipse
+17 "OWLClass_3867b48e_b7b8_4d7f_82d4_8ba95841709e" ellipse
+18 "OWLClass_3fb740cd_b7d5_401e_a88f_d141b711ebd8" ellipse
+19 "OWLClass_48f7ab9c_35ec_4b7d_b3e9_8cc124df6406" ellipse
+20 "OWLClass_4d52eeeb_9aad_4251_9a86_491c3d708fbd" ellipse
+21 "OWLClass_4ffb28ca_28a6_4f63_add4_a1ca6566e211" ellipse
+22 "OWLClass_51f939b8_da3f_46dc_a361_73913fbb7de5" ellipse
+23 "OWLClass_5acec3d5_5899_40fa_bff2_3f66c38107b3" ellipse
+24 "OWLClass_5fdb796f_3d55_4737_9264_8c9ab39184e4" ellipse
+25 "OWLClass_6327e4d1_38e6_4e55_a31e_fa0b7005eb70" ellipse
+26 "OWLClass_727b8093_89c9_4fee_a104_2cf25e56ae92" ellipse
+27 "OWLClass_7f4d148a_9163_4896_a4c1_abbfce67be31" ellipse
+28 "OWLClass_964ee5d3_8bff_462c_a384_714614f7eb8c" ellipse
+29 "OWLClass_9dea247d_b1c7_46e4_b96e_eeea7ae758f3" ellipse
+30 "OWLClass_abca7b92_ff11_4d24_81d9_f213076391cb" ellipse
+31 "OWLClass_b3c8c39a_2052_4656_a11f_a84b4c3257d3" ellipse
+32 "OWLClass_b618efcd_255b_4c05_8a87_3514dc253b96" ellipse
+33 "OWLClass_b6327a8d_0f6e_477e_9261_b9faf0adb871" ellipse
+34 "OWLClass_b9ebb90a_2461_4fd6_8983_80d4de12c4f2" ellipse
+35 "OWLClass_ba131072_c102_45ec_946e_4ea73ba96066" ellipse
+36 "OWLClass_c3e0ffb7_cd8f_49f9_9f9a_53b7cd3da08e" ellipse
+37 "OWLClass_d51a1a91_4663_4ad8_ae17_506e16b9c316" ellipse
+38 "OWLClass_dfed1977_347d_4fd3_98d6_6ca0c3e2310d" ellipse
+39 "OWLClass_e86a3742_c855_4e22_af4d_5a76cf9177b2" ellipse
+40 "OWLClass_f25f57d4_046f_4caa_9768_b9b2482b4ac7" ellipse
+41 "OWLClass_f6c311ae_903c_4624_92ca_e3a1b9620cd1" ellipse
+42 "OWLClass_fa6cbc69_b380_40ee_9e99_d00697984e11" ellipse
+43 "OWLClass_fc899510_6b59_4ab1_888a_3bcb5bc7ee8e" ellipse
+44 "OWLClass_fffaf049_1efd_4c8b_b52a_315155a056dd" ellipse
+45 "OWLObjectProperty_00000014158303678609"
+*Arcs
+1 45 0.0909091 l "definition"
+45 1 0.5000000 l "definition"
+1 19 0.0909091 l "definition"
+19 1 1.0000000 l "definition"
+1 26 0.0909091 l "definition"
+26 1 1.0000000 l "definition"
+1 32 0.0909091 l "definition"
+32 1 0.5000000 l "definition"
+1 34 0.0909091 l "definition"
+34 1 1.0000000 l "definition"
+1 35 0.0909091 l "definition"
+35 1 0.3333333 l "definition"
+1 37 0.0909091 l "definition"
+37 1 1.0000000 l "definition"
+1 43 0.0909091 l "definition"
+43 1 1.0000000 l "definition"
+2 23 0.1000000 l "definition"
+23 2 1.0000000 l "definition"
+2 30 0.1000000 l "definition"
+30 2 1.0000000 l "definition"
+2 35 0.1000000 l "definition"
+35 2 0.3333333 l "definition"
+3 45 0.2500000 l "definition"
+45 3 0.5000000 l "definition"
+4 11 0.1666667 l "definition"
+11 4 1.0000000 l "definition"
+4 29 0.1666667 l "definition"
+29 4 1.0000000 l "definition"
+4 32 0.1666667 l "definition"
+32 4 0.5000000 l "definition"
+5 20 0.1000000 l "definition"
+20 5 0.5000000 l "definition"
+5 22 0.1000000 l "definition"
+22 5 1.0000000 l "definition"
+5 27 0.1000000 l "definition"
+27 5 1.0000000 l "definition"
+5 31 0.1000000 l "definition"
+31 5 1.0000000 l "definition"
+5 39 0.1000000 l "definition"
+39 5 1.0000000 l "definition"
+5 44 0.1000000 l "definition"
+44 5 1.0000000 l "definition"
+6 14 0.0769231 l "definition"
+14 6 1.0000000 l "definition"
+6 16 0.0769231 l "definition"
+16 6 0.3333333 l "definition"
+6 21 0.0769231 l "definition"
+21 6 1.0000000 l "definition"
+6 24 0.0769231 l "definition"
+24 6 1.0000000 l "definition"
+6 33 0.0769231 l "definition"
+33 6 0.5000000 l "definition"
+6 40 0.0769231 l "definition"
+40 6 0.3333333 l "definition"
+7 12 0.2000000 l "definition"
+12 7 1.0000000 l "definition"
+7 40 0.2000000 l "definition"
+40 7 0.3333333 l "definition"
+8 13 0.1111111 l "definition"
+13 8 0.3333333 l "definition"
+8 16 0.1111111 l "definition"
+16 8 0.3333333 l "definition"
+8 17 0.1111111 l "definition"
+17 8 1.0000000 l "definition"
+8 25 0.1111111 l "definition"
+25 8 1.0000000 l "definition"
+8 36 0.1111111 l "definition"
+36 8 1.0000000 l "definition"
+8 41 0.1111111 l "definition"
+41 8 0.3333333 l "definition"
+9 13 0.0714286 l "definition"
+13 9 0.3333333 l "definition"
+9 16 0.0714286 l "definition"
+16 9 0.3333333 l "definition"
+9 18 0.0714286 l "definition"
+18 9 1.0000000 l "definition"
+9 20 0.0714286 l "definition"
+20 9 0.5000000 l "definition"
+9 28 0.0714286 l "definition"
+28 9 1.0000000 l "definition"
+9 33 0.0714286 l "definition"
+33 9 0.5000000 l "definition"
+10 40 0.1428571 l "definition"
+40 10 0.3333333 l "definition"
+15 13 0.2000000 l "definition"
+13 15 0.3333333 l "definition"
+38 35 0.1250000 l "definition"
+35 38 0.3333333 l "definition"
+38 41 0.1250000 l "definition"
+41 38 0.3333333 l "definition"
+42 41 0.1250000 l "definition"
+41 42 0.3333333 l "definition"
+*Edges

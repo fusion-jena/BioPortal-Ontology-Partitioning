@@ -1,0 +1,61 @@
+*Vertices 20
+1 "Additional Monitoring Activity" ellipse
+2 "Clinical Trial Agreement" ellipse
+3 "Data Privacy Agreement" ellipse
+4 "Final Trial Close Out Monitoring Report" ellipse
+5 "Financial Disclosure Form" ellipse
+6 "Financial Documentation" ellipse
+7 "Form FDA 1572" ellipse
+8 "IP Site Release Documentation" ellipse
+9 "Indemnity" ellipse
+10 "Investigator Documents" ellipse
+11 "Monitoring Visit Report" ellipse
+12 "Notification to Investigators of Safety Information" ellipse
+13 "Other Financial Agreement" ellipse
+14 "Principal Investigator Curriculum Vitae" ellipse
+15 "Site Personnel Supporting Information" ellipse
+16 "Site Signature Sheet" ellipse
+17 "Sub-Investigator Curriculum Vitae" ellipse
+18 "Subject Enrollment Log" ellipse
+19 "Subject Screen Log" ellipse
+20 "Visit Log" ellipse
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.0333333 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.0333333 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.0333333 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0333333 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0333333 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0333333 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.0333333 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0333333 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0333333 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.0333333 l "isa"
+12 10 1.0000000 l "isa"
+10 12 0.0333333 l "isa"
+13 10 1.0000000 l "isa"
+10 13 0.0333333 l "isa"
+14 10 1.0000000 l "isa"
+10 14 0.0333333 l "isa"
+15 10 1.0000000 l "isa"
+10 15 0.0333333 l "isa"
+16 10 1.0000000 l "isa"
+10 16 0.0333333 l "isa"
+17 10 1.0000000 l "isa"
+10 17 0.0333333 l "isa"
+18 10 1.0000000 l "isa"
+10 18 0.0333333 l "isa"
+19 10 1.0000000 l "isa"
+10 19 0.0333333 l "isa"
+20 10 1.0000000 l "isa"
+10 20 0.0333333 l "isa"
+*Edges

@@ -1,0 +1,58 @@
+*Vertices 7
+1 "BoneMarrow" ellipse
+2 "BoneMarrowProgenitorCellSample" ellipse
+3 "OrganRegion" ellipse
+4 "OrganZone" ellipse
+5 "PerpheralProgenitorCellSample" ellipse
+6 "ProgenitorCellSample" ellipse
+7 "ZoneOfBoneOrgan" ellipse
+*Arcs
+1 7 0.3645424 l "isa"
+7 1 0.2695590 l "isa"
+2 6 0.3379335 l "isa"
+6 2 0.2844687 l "isa"
+4 3 0.3461163 l "isa"
+3 4 0.2333466 l "isa"
+5 6 0.4064015 l "isa"
+6 5 0.2957650 l "isa"
+7 4 0.2689821 l "isa"
+4 7 0.3570856 l "isa"
+1 2 0.3368117 l "substring"
+2 1 0.1590912 l "substring"
+2 6 0.3379335 l "substring"
+6 2 0.2844687 l "substring"
+5 6 0.4064015 l "substring"
+6 5 0.2957650 l "substring"
+1 7 0.3645424 l "isa"
+7 1 0.2695590 l "isa"
+2 6 0.3379335 l "isa"
+6 2 0.2844687 l "isa"
+4 3 0.3461163 l "isa"
+3 4 0.2333466 l "isa"
+5 6 0.4064015 l "isa"
+6 5 0.2957650 l "isa"
+7 4 0.2689821 l "isa"
+4 7 0.3570856 l "isa"
+1 2 0.3368117 l "substring"
+2 1 0.1590912 l "substring"
+2 6 0.3379335 l "substring"
+6 2 0.2844687 l "substring"
+5 6 0.4064015 l "substring"
+6 5 0.2957650 l "substring"
+1 7 0.3645424 l "isa"
+7 1 0.2695590 l "isa"
+2 6 0.3379335 l "isa"
+6 2 0.2844687 l "isa"
+4 3 0.3461163 l "isa"
+3 4 0.2333466 l "isa"
+5 6 0.4064015 l "isa"
+6 5 0.2957650 l "isa"
+7 4 0.2689821 l "isa"
+4 7 0.3570856 l "isa"
+1 2 0.3368117 l "substring"
+2 1 0.1590912 l "substring"
+2 6 0.3379335 l "substring"
+6 2 0.2844687 l "substring"
+5 6 0.4064015 l "substring"
+6 5 0.2957650 l "substring"
+*Edges

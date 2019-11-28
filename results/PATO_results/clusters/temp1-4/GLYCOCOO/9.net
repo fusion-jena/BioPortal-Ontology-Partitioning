@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Event" ellipse
+2 "conference" ellipse
+3 "workshop" ellipse
+4 "reference" ellipse
+*Arcs
+2 1 0.4053759 l "isa"
+1 2 0.1056299 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1579466 l "isa"
+2 4 0.5946240 l "distance"
+4 2 0.2502603 l "distance"
+2 1 0.4053759 l "isa"
+1 2 0.1056299 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1579466 l "isa"
+2 4 0.5946240 l "distance"
+4 2 0.2502603 l "distance"
+2 1 0.4053759 l "isa"
+1 2 0.1056299 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1579466 l "isa"
+2 4 0.5946240 l "distance"
+4 2 0.2502603 l "distance"
+2 1 0.4053759 l "isa"
+1 2 0.1056299 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1579466 l "isa"
+2 4 0.5946240 l "distance"
+4 2 0.2502603 l "distance"
+*Edges

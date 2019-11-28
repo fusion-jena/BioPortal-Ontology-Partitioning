@@ -1,0 +1,9 @@
+*Vertices 2
+1 "adaxial" ellipse
+2 "adaxial" ellipse
+*Arcs
+1 2 0.2857143 l "substring"
+2 1 0.1818182 l "substring"
+1 2 0.2857143 l "distance"
+2 1 0.1818182 l "distance"
+*Edges

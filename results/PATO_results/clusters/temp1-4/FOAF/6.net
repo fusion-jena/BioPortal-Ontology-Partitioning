@@ -1,0 +1,29 @@
+*Vertices 4
+1 "Concept" ellipse
+2 "Document" ellipse
+3 "PersonalProfileDocument" ellipse
+4 "Thing"
+*Arcs
+3 2 0.4000000 l "isa"
+2 3 0.1176471 l "isa"
+1 4 1.0000000 l "focus"
+4 1 0.0434783 l "focus"
+4 4 0.2608696 l "funded by"
+4 4 0.2608696 l "funded by"
+4 2 0.2173913 l "homepage"
+2 4 0.2941177 l "homepage"
+4 2 0.2173913 l "is primary topic of"
+2 4 0.2941177 l "is primary topic of"
+4 4 0.2608696 l "logo"
+4 4 0.2608696 l "logo"
+4 2 0.2173913 l "page"
+2 4 0.2941177 l "page"
+2 4 0.2941177 l "primary topic"
+4 2 0.2173913 l "primary topic"
+4 4 0.2608696 l "theme"
+4 4 0.2608696 l "theme"
+2 4 0.2941177 l "topic"
+4 2 0.2173913 l "topic"
+2 3 0.1176471 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

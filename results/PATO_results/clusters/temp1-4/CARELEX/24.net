@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Chemotaxoid" ellipse
+2 "Change" ellipse
+3 "Cancer" ellipse
+4 "Shape" ellipse
+*Arcs
+3 1 0.4857143 l "isa"
+1 3 0.3541667 l "isa"
+2 3 0.5142857 l "distance"
+3 2 0.5142857 l "distance"
+2 4 0.4857143 l "distance"
+4 2 0.3578947 l "distance"
+3 1 0.4857143 l "isa"
+1 3 0.3541667 l "isa"
+2 3 0.5142857 l "distance"
+3 2 0.5142857 l "distance"
+2 4 0.4857143 l "distance"
+4 2 0.3578947 l "distance"
+*Edges

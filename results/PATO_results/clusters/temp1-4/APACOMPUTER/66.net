@@ -1,0 +1,15 @@
+*Vertices 2
+1 "ERYMG" ellipse
+2 "MRMMI" ellipse
+*Arcs
+1 2 0.0746080 l "distance"
+2 1 0.0563964 l "distance"
+1 2 0.0746080 l "distance"
+2 1 0.0563964 l "distance"
+1 2 0.0746080 l "distance"
+2 1 0.0563964 l "distance"
+1 2 0.0746080 l "distance"
+2 1 0.0563964 l "distance"
+1 2 0.0746080 l "distance"
+2 1 0.0563964 l "distance"
+*Edges

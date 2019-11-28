@@ -1,0 +1,23 @@
+*Vertices 2
+1 "ISO/TS 10272-2:2006  Campylobacter" ellipse
+2 "ISO/TS 10272-3:2010  Campylobacter" ellipse
+*Arcs
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+1 2 0.4442704 l "distance"
+2 1 0.4442704 l "distance"
+*Edges

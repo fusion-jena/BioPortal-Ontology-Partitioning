@@ -1,0 +1,40 @@
+*Vertices 13
+1 "angiodysplasia" ellipse
+2 "cirrhosis" ellipse
+3 "colon_polyp" ellipse
+4 "diverticular_disease" ellipse
+5 "esophageal_varix" ellipse
+6 "gastritis" ellipse
+7 "gastrointestinal_disorder" ellipse
+8 "gastrointestinal_malignancy" ellipse
+9 "gastrointestinal_neoplasm" ellipse
+10 "hemorrhoids" ellipse
+11 "inflammatory_bowel_disease" ellipse
+12 "liver_disease" ellipse
+13 "has_prerequisite"
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1000000 l "isa"
+2 12 1.0000000 l "isa"
+12 2 0.3333333 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.3333333 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1000000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1000000 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.3333333 l "isa"
+9 7 0.3333333 l "isa"
+7 9 0.1000000 l "isa"
+10 7 1.0000000 l "isa"
+7 10 0.1000000 l "isa"
+11 7 1.0000000 l "isa"
+7 11 0.1000000 l "isa"
+12 7 0.3333333 l "isa"
+7 12 0.1000000 l "isa"
+5 13 0.2000000 l "definition"
+13 5 1.0000000 l "definition"
+5 12 0.2000000 l "definition"
+12 5 0.3333333 l "definition"
+*Edges

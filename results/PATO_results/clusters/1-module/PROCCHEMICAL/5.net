@@ -1,0 +1,44 @@
+*Vertices 11
+1 "Property" ellipse
+2 "ReactionProperty" ellipse
+3 "Constituent" ellipse
+4 "Reactivity" ellipse
+5 "SaturationPoint" ellipse
+6 "SaturationProperty" ellipse
+7 "Solubility" ellipse
+8 "ConsistenceProperty" ellipse
+9 "Component" ellipse
+10 "hasProperty"
+11 "Saturation"
+*Arcs
+3 8 0.5000000 l "isa"
+8 3 0.5000000 l "isa"
+3 9 0.5000000 l "isa"
+9 3 1.0000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3333333 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.1428571 l "isa"
+6 1 0.2857143 l "isa"
+1 6 0.2857143 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.3333333 l "isa"
+6 10 0.1428571 l "definition"
+10 6 0.3333333 l "definition"
+6 11 0.2857143 l "definition"
+11 6 0.6666667 l "definition"
+1 2 0.1428571 l "substring"
+2 1 0.3333333 l "substring"
+1 6 0.2857143 l "substring"
+6 1 0.2857143 l "substring"
+1 8 0.1428571 l "substring"
+8 1 0.5000000 l "substring"
+1 10 0.2857143 l "substring"
+10 1 0.6666667 l "substring"
+5 11 0.5000000 l "substring"
+11 5 0.3333333 l "substring"
+6 11 0.2857143 l "substring"
+11 6 0.6666667 l "substring"
+1 10 0.2857143 l "distance"
+10 1 0.6666667 l "distance"
+*Edges

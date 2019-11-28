@@ -1,0 +1,35 @@
+*Vertices 4
+1 "ChronicViralInfection" ellipse
+2 "ChronicViralInfectionProcess" ellipse
+3 "ViralInfection" ellipse
+4 "ViralInfectionProcess" ellipse
+*Arcs
+1 3 0.5470007 l "isa"
+3 1 0.3841188 l "isa"
+2 4 0.3148672 l "isa"
+4 2 0.3182395 l "isa"
+1 2 0.2309814 l "substring"
+2 1 0.1465007 l "substring"
+1 3 0.5470007 l "substring"
+3 1 0.3841188 l "substring"
+2 3 0.1413987 l "substring"
+3 2 0.1565526 l "substring"
+2 4 0.3148672 l "substring"
+4 2 0.3182395 l "substring"
+3 4 0.1565526 l "substring"
+4 3 0.1429131 l "substring"
+1 3 0.5470007 l "isa"
+3 1 0.3841188 l "isa"
+2 4 0.3148672 l "isa"
+4 2 0.3182395 l "isa"
+1 2 0.2309814 l "substring"
+2 1 0.1465007 l "substring"
+1 3 0.5470007 l "substring"
+3 1 0.3841188 l "substring"
+2 3 0.1413987 l "substring"
+3 2 0.1565526 l "substring"
+2 4 0.3148672 l "substring"
+4 2 0.3182395 l "substring"
+3 4 0.1565526 l "substring"
+4 3 0.1429131 l "substring"
+*Edges

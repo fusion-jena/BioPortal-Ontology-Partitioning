@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Basalt" ellipse
+2 "Trachybasalt" ellipse
+*Arcs
+1 2 0.4929280 l "substring"
+2 1 0.5014453 l "substring"
+1 2 0.4929280 l "substring"
+2 1 0.5014453 l "substring"
+1 2 0.4929280 l "substring"
+2 1 0.5014453 l "substring"
+1 2 0.4929280 l "substring"
+2 1 0.5014453 l "substring"
+1 2 0.4929280 l "substring"
+2 1 0.5014453 l "substring"
+1 2 0.4929280 l "substring"
+2 1 0.5014453 l "substring"
+*Edges

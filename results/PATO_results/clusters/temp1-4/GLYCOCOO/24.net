@@ -1,0 +1,13 @@
+*Vertices 2
+1 "disease or condition" ellipse
+2 "used"
+*Arcs
+2 1 0.3080317 l "definition"
+1 2 1.0000000 l "definition"
+2 1 0.3080317 l "definition"
+1 2 1.0000000 l "definition"
+2 1 0.3080317 l "definition"
+1 2 1.0000000 l "definition"
+2 1 0.3080317 l "definition"
+1 2 1.0000000 l "definition"
+*Edges

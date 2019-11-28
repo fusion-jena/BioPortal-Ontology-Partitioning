@@ -1,0 +1,13 @@
+*Vertices 2
+1 "dateTime"
+2 "dateTime"
+*Arcs
+1 2 0.1500354 l "substring"
+2 1 0.1498979 l "substring"
+1 2 0.1500354 l "distance"
+2 1 0.1498979 l "distance"
+1 2 0.1500354 l "substring"
+2 1 0.1498979 l "substring"
+1 2 0.1500354 l "distance"
+2 1 0.1498979 l "distance"
+*Edges

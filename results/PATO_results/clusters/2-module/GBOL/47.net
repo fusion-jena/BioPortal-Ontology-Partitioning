@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Plasmid" ellipse
+2 "plasmidName"
+3 "plasmid"
+*Arcs
+1 2 0.1538462 l "definition"
+2 1 0.2857143 l "definition"
+1 2 0.1538462 l "substring"
+2 1 0.2857143 l "substring"
+1 3 0.1538462 l "substring"
+3 1 0.2857143 l "substring"
+2 3 0.1428571 l "substring"
+3 2 0.1428571 l "substring"
+1 3 0.1538462 l "distance"
+3 1 0.2857143 l "distance"
+*Edges

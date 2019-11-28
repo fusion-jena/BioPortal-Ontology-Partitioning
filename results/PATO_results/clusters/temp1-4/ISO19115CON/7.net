@@ -1,0 +1,18 @@
+*Vertices 3
+1 "CI_Series" ellipse
+2 "series"
+3 "issueIdentification"
+*Arcs
+1 3 0.0989401 l "definition"
+3 1 1.0000000 l "definition"
+1 2 0.1706718 l "substring"
+2 1 0.5382859 l "substring"
+1 2 0.1706718 l "distance"
+2 1 0.5382859 l "distance"
+1 3 0.0989401 l "definition"
+3 1 1.0000000 l "definition"
+1 2 0.1706718 l "substring"
+2 1 0.5382859 l "substring"
+1 2 0.1706718 l "distance"
+2 1 0.5382859 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Anaphylactic_Shock" ellipse
+2 "Shock" ellipse
+*Arcs
+1 2 0.5083372 l "substring"
+2 1 0.0552674 l "substring"
+1 2 0.5083372 l "substring"
+2 1 0.0552674 l "substring"
+1 2 0.5083372 l "substring"
+2 1 0.0552674 l "substring"
+*Edges

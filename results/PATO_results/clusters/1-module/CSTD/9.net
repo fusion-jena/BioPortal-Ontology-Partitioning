@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Allievating_factors" ellipse
+2 "Associated_ENT_symptoms_or_signs" ellipse
+3 "Characteristic_event" ellipse
+4 "Evolution" ellipse
+5 "Exacerbating_factors" ellipse
+6 "effect_on_quality_of_life" ellipse
+7 "frequency" ellipse
+8 "history_of_illness" ellipse
+9 "laterality" ellipse
+10 "symptoms_pattern" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.0769231 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0769231 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0769231 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.0769231 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0769231 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0769231 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.0769231 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0769231 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.0769231 l "isa"
+*Edges

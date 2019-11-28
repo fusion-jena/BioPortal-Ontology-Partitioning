@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Microscopical and histometrical tests" ellipse
+2 "Trichinoscopic examination" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7273238 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7273238 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7273238 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7273238 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7273238 l "isa"
+*Edges

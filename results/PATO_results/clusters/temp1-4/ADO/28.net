@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Neuropsychiatric symptom" ellipse
+2 "Orientation loss" ellipse
+3 "presence of neuritic plaque" ellipse
+4 "Symptom or sign" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0227273 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0227273 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0227273 l "isa"
+*Edges

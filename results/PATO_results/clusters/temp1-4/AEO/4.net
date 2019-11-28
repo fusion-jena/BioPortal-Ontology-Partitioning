@@ -1,0 +1,11 @@
+*Vertices 2
+1 "CHARNB2" ellipse
+2 "CHRNB4" ellipse
+*Arcs
+1 2 0.1776550 l "distance"
+2 1 0.1229106 l "distance"
+1 2 0.1776550 l "distance"
+2 1 0.1229106 l "distance"
+1 2 0.1776550 l "distance"
+2 1 0.1229106 l "distance"
+*Edges

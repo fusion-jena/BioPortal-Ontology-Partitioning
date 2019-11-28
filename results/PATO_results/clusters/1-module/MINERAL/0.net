@@ -1,0 +1,51 @@
+*Vertices 14
+1 "Pyrolite" ellipse
+2 "Pyroxine" ellipse
+3 "SolidSubstance" ellipse
+4 "Calcite" ellipse
+5 "Evaporite" ellipse
+6 "Feldspar" ellipse
+7 "Hematite" ellipse
+8 "Magnetite" ellipse
+9 "Malic" ellipse
+10 "Mineral" ellipse
+11 "Mineraloid" ellipse
+12 "NonmetallicMineral" ellipse
+13 "Olvine" ellipse
+14 "Quartz" ellipse
+*Arcs
+4 10 1.0000000 l "isa"
+10 4 0.0625000 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0625000 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0625000 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.0625000 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0625000 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0625000 l "isa"
+10 3 0.0625000 l "isa"
+3 10 1.0000000 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.1875000 l "isa"
+12 10 1.0000000 l "isa"
+10 12 0.1250000 l "isa"
+13 10 1.0000000 l "isa"
+10 13 0.0625000 l "isa"
+1 10 0.5000000 l "isa"
+10 1 0.0625000 l "isa"
+2 10 0.5000000 l "isa"
+10 2 0.0625000 l "isa"
+14 10 1.0000000 l "isa"
+10 14 0.0625000 l "isa"
+10 11 0.1875000 l "substring"
+11 10 1.0000000 l "substring"
+10 12 0.1250000 l "substring"
+12 10 1.0000000 l "substring"
+10 11 0.1875000 l "distance"
+11 10 1.0000000 l "distance"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

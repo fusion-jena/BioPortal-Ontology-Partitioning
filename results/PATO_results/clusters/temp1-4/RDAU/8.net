@@ -1,0 +1,11 @@
+*Vertices 2
+1 "infliximab" ellipse
+2 "Remicade" ellipse
+*Arcs
+2 1 0.5399259 l "isa"
+1 2 0.2480527 l "isa"
+2 1 0.5399259 l "isa"
+1 2 0.2480527 l "isa"
+2 1 0.5399259 l "isa"
+1 2 0.2480527 l "isa"
+*Edges

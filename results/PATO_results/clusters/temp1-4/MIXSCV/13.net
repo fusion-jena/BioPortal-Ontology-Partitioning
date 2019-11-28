@@ -1,0 +1,15 @@
+*Vertices 2
+1 "SkinTear" ellipse
+2 "TypeOfHarm" ellipse
+*Arcs
+1 2 0.3683598 l "isa"
+2 1 0.3249325 l "isa"
+1 2 0.3683598 l "isa"
+2 1 0.3249325 l "isa"
+1 2 0.3683598 l "isa"
+2 1 0.3249325 l "isa"
+1 2 0.3683598 l "isa"
+2 1 0.3249325 l "isa"
+1 2 0.3683598 l "isa"
+2 1 0.3249325 l "isa"
+*Edges

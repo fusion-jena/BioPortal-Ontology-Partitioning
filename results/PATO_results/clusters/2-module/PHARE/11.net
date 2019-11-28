@@ -1,0 +1,9 @@
+*Vertices 2
+1 "observation" ellipse
+2 "level" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.0500000 l "isa"
+2 1 0.3333333 l "definition"
+1 2 0.0500000 l "definition"
+*Edges

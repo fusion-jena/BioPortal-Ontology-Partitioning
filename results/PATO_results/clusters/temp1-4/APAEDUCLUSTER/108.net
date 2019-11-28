@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Catalepsy" ellipse
+2 "Cataplexy" ellipse
+*Arcs
+1 2 0.3629779 l "distance"
+2 1 0.3633271 l "distance"
+1 2 0.3629779 l "distance"
+2 1 0.3633271 l "distance"
+*Edges

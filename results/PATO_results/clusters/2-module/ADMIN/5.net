@@ -1,0 +1,20 @@
+*Vertices 5
+1 "Clinical_Hand_Over" ellipse
+2 "Clinical_Risk" ellipse
+3 "Drug_Theraputics" ellipse
+4 "Manual_handeling" ellipse
+5 "Nutrition" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0833333 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1666667 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.1666667 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0833333 l "isa"
+2 3 0.1666667 l "advises"
+3 2 1.0000000 l "advises"
+2 4 0.1666667 l "advises"
+4 2 0.6666667 l "advises"
+*Edges

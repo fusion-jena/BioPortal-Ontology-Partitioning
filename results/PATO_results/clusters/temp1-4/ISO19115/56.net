@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Laboratorio" ellipse
+2 "Laboratory" ellipse
+*Arcs
+1 2 0.2402651 l "isa"
+2 1 0.7466611 l "isa"
+1 1 0.1678368 l "cd_labor"
+1 1 0.1678368 l "cd_labor"
+1 2 0.2402651 l "distance"
+2 1 0.7466611 l "distance"
+1 2 0.2402651 l "isa"
+2 1 0.7466611 l "isa"
+1 1 0.1678368 l "cd_labor"
+1 1 0.1678368 l "cd_labor"
+1 2 0.2402651 l "distance"
+2 1 0.7466611 l "distance"
+1 2 0.2402651 l "isa"
+2 1 0.7466611 l "isa"
+1 1 0.1678368 l "cd_labor"
+1 1 0.1678368 l "cd_labor"
+1 2 0.2402651 l "distance"
+2 1 0.7466611 l "distance"
+*Edges

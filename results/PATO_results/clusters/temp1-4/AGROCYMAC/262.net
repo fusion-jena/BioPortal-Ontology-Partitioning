@@ -1,0 +1,44 @@
+*Vertices 5
+1 "reaction intermediate role" ellipse
+2 "reactant role" ellipse
+3 "starting material role" ellipse
+4 "limiting reagent role" ellipse
+5 "reagent role" ellipse
+*Arcs
+1 5 0.2186868 l "isa"
+5 1 0.0770325 l "isa"
+2 5 0.4669078 l "isa"
+5 2 0.1923614 l "isa"
+3 2 0.2316065 l "isa"
+2 3 0.2055598 l "isa"
+4 5 0.3521035 l "isa"
+5 4 0.1797815 l "isa"
+4 5 0.3521035 l "substring"
+5 4 0.1797815 l "substring"
+2 5 0.4669078 l "distance"
+5 2 0.1923614 l "distance"
+1 5 0.2186868 l "isa"
+5 1 0.0770325 l "isa"
+2 5 0.4669078 l "isa"
+5 2 0.1923614 l "isa"
+3 2 0.2316065 l "isa"
+2 3 0.2055598 l "isa"
+4 5 0.3521035 l "isa"
+5 4 0.1797815 l "isa"
+4 5 0.3521035 l "substring"
+5 4 0.1797815 l "substring"
+2 5 0.4669078 l "distance"
+5 2 0.1923614 l "distance"
+1 5 0.2186868 l "isa"
+5 1 0.0770325 l "isa"
+2 5 0.4669078 l "isa"
+5 2 0.1923614 l "isa"
+3 2 0.2316065 l "isa"
+2 3 0.2055598 l "isa"
+4 5 0.3521035 l "isa"
+5 4 0.1797815 l "isa"
+4 5 0.3521035 l "substring"
+5 4 0.1797815 l "substring"
+2 5 0.4669078 l "distance"
+5 2 0.1923614 l "distance"
+*Edges

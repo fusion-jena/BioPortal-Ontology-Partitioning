@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Malignant peripheral nerve sheath tumor" ellipse
+2 "Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentation" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

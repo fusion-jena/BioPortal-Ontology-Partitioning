@@ -1,0 +1,57 @@
+*Vertices 10
+1 "display" ellipse
+2 "to indicate" ellipse
+3 "to clean" ellipse
+4 "to display" ellipse
+5 "to branch" ellipse
+6 "to distribute" ellipse
+7 "to extract" ellipse
+8 "to sort" ellipse
+9 "to track" ellipse
+10 "displaying" ellipse
+*Arcs
+3 7 0.2750716 l "isa"
+7 3 0.3428572 l "isa"
+4 2 0.3111111 l "isa"
+2 4 0.3404255 l "isa"
+6 5 0.5103093 l "isa"
+5 6 0.2205901 l "isa"
+8 6 0.1041906 l "isa"
+6 8 0.4896907 l "isa"
+9 2 0.3389831 l "isa"
+2 9 0.3404255 l "isa"
+1 4 0.3197495 l "substring"
+4 1 0.6888890 l "substring"
+1 10 0.3197495 l "substring"
+10 1 0.7025496 l "substring"
+1 4 0.3197495 l "distance"
+4 1 0.6888890 l "distance"
+1 10 0.3197495 l "distance"
+10 1 0.7025496 l "distance"
+5 9 0.2069734 l "distance"
+9 5 0.3220339 l "distance"
+7 9 0.3428572 l "distance"
+9 7 0.3389831 l "distance"
+3 7 0.2750716 l "isa"
+7 3 0.3428572 l "isa"
+4 2 0.3111111 l "isa"
+2 4 0.3404255 l "isa"
+6 5 0.5103093 l "isa"
+5 6 0.2205901 l "isa"
+8 6 0.1041906 l "isa"
+6 8 0.4896907 l "isa"
+9 2 0.3389831 l "isa"
+2 9 0.3404255 l "isa"
+1 4 0.3197495 l "substring"
+4 1 0.6888890 l "substring"
+1 10 0.3197495 l "substring"
+10 1 0.7025496 l "substring"
+1 4 0.3197495 l "distance"
+4 1 0.6888890 l "distance"
+1 10 0.3197495 l "distance"
+10 1 0.7025496 l "distance"
+5 9 0.2069734 l "distance"
+9 5 0.3220339 l "distance"
+7 9 0.3428572 l "distance"
+9 7 0.3389831 l "distance"
+*Edges

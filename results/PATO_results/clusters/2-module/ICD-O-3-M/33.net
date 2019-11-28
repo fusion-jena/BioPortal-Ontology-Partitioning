@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Stromal tumor, benign" ellipse
+2 "Gastrointestinal stromal tumor, benign" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

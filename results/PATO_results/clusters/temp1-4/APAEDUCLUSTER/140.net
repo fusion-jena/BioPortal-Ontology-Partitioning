@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Muscle_Spasms" ellipse
+2 "Spasms" ellipse
+*Arcs
+1 2 0.2577278 l "substring"
+2 1 0.1004238 l "substring"
+1 2 0.2577278 l "substring"
+2 1 0.1004238 l "substring"
+*Edges

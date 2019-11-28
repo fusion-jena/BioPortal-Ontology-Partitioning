@@ -1,0 +1,37 @@
+*Vertices 6
+1 "ColonyStimulatingFactor" ellipse
+2 "Cytokine" ellipse
+3 "Erythropoietin" ellipse
+4 "ErythropoietinLevel" ellipse
+5 "HematologicalGrowthFactor" ellipse
+6 "MacrophageGranulocyteColonyStimulatingFactor" ellipse
+*Arcs
+1 2 0.0925597 l "isa"
+2 1 0.3241054 l "isa"
+3 2 0.3477454 l "isa"
+2 3 0.3565159 l "isa"
+6 1 0.4298146 l "isa"
+1 6 0.1971522 l "isa"
+1 5 0.1971522 l "definition"
+5 1 0.4333128 l "definition"
+5 1 0.4333128 l "definition"
+1 5 0.1971522 l "definition"
+1 6 0.1971522 l "substring"
+6 1 0.4298146 l "substring"
+3 4 0.3477454 l "substring"
+4 3 0.3622136 l "substring"
+1 2 0.0925597 l "isa"
+2 1 0.3241054 l "isa"
+3 2 0.3477454 l "isa"
+2 3 0.3565159 l "isa"
+6 1 0.4298146 l "isa"
+1 6 0.1971522 l "isa"
+1 5 0.1971522 l "definition"
+5 1 0.4333128 l "definition"
+5 1 0.4333128 l "definition"
+1 5 0.1971522 l "definition"
+1 6 0.1971522 l "substring"
+6 1 0.4298146 l "substring"
+3 4 0.3477454 l "substring"
+4 3 0.3622136 l "substring"
+*Edges

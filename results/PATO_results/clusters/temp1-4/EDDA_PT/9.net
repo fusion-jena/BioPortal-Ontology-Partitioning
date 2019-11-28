@@ -1,0 +1,9 @@
+*Vertices 2
+1 "classification" ellipse
+2 "Class"
+*Arcs
+1 2 0.2225466 l "substring"
+2 1 0.5152672 l "substring"
+1 2 0.2225466 l "substring"
+2 1 0.5152672 l "substring"
+*Edges

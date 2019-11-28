@@ -1,0 +1,32 @@
+*Vertices 11
+1 "undivided" ellipse
+2 "Restriction"
+3 "has_part"
+4 "part_of"
+5 "phyllome" ellipse
+6 "stipe" ellipse
+7 "costa" ellipse
+8 "stipule" ellipse
+9 "root" ellipse
+10 "spore capsule annulus" ellipse
+11 "spore" ellipse
+*Arcs
+8 5 0.1666667 l "isa"
+5 8 0.2500000 l "isa"
+7 2 0.1250000 l "definition"
+2 7 0.0833333 l "definition"
+7 4 0.1250000 l "definition"
+4 7 0.1111111 l "definition"
+8 2 0.1666667 l "definition"
+2 8 0.0833333 l "definition"
+8 4 0.1666667 l "definition"
+4 8 0.1111111 l "definition"
+10 11 0.5000000 l "substring"
+11 10 0.2500000 l "substring"
+6 8 0.3333333 l "distance"
+8 6 0.1666667 l "distance"
+6 11 0.3333333 l "distance"
+11 6 0.2500000 l "distance"
+7 9 0.1250000 l "distance"
+9 7 0.3333333 l "distance"
+*Edges

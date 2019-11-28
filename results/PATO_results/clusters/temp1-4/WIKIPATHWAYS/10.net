@@ -1,0 +1,19 @@
+*Vertices 2
+1 "yin deficiency diathesis  / 阴虚质" ellipse
+2 "yang deficiency diathesis  / 阳虚质" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

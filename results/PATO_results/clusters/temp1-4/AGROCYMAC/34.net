@@ -1,0 +1,13 @@
+*Vertices 2
+1 "dimensionality reduction" ellipse
+2 "principal components analysis dimensionality reduction" ellipse
+*Arcs
+2 1 0.7093069 l "isa"
+1 2 0.2294730 l "isa"
+1 2 0.2294730 l "substring"
+2 1 0.7093069 l "substring"
+2 1 0.7093069 l "isa"
+1 2 0.2294730 l "isa"
+1 2 0.2294730 l "substring"
+2 1 0.7093069 l "substring"
+*Edges

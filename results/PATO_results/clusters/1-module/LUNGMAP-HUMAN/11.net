@@ -1,0 +1,9 @@
+*Vertices 2
+1 "alveolar sac" ellipse
+2 "alveolar sac lumen" ellipse
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.2222222 l "definition"
+1 2 0.2222222 l "substring"
+2 1 0.4000000 l "substring"
+*Edges

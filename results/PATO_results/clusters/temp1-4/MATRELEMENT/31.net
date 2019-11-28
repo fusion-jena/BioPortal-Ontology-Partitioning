@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Kankrej" ellipse
+2 "Banker" ellipse
+*Arcs
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+1 2 0.5905356 l "distance"
+2 1 0.1615412 l "distance"
+*Edges

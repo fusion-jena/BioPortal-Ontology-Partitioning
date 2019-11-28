@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Dermatitis" ellipse
+2 "Neurodermatitis" ellipse
+*Arcs
+1 2 0.3476883 l "substring"
+2 1 0.3632890 l "substring"
+1 2 0.3476883 l "substring"
+2 1 0.3632890 l "substring"
+*Edges

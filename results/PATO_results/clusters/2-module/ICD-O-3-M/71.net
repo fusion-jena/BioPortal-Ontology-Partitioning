@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Carcinoma in situ, NOS" ellipse
+2 "Squamous cell carcinoma in situ, NOS" ellipse
+3 "Adenocarcinoma in situ, NOS" ellipse
+4 "Lobular carcinoma in situ, NOS (C50._)" ellipse
+*Arcs
+1 2 0.3333333 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.3333333 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.3333333 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

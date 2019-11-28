@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Nonparametric_Statistical_Tests" ellipse
+2 "Parametric_Statistical_Tests" ellipse
+*Arcs
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

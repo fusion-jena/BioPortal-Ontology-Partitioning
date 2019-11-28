@@ -1,0 +1,11 @@
+*Vertices 2
+1 "First_and_second_person_confusion_after_phrase_speech_established" ellipse
+2 "pronominalReversal_First_and_second_person_confusion_after_phrase_speech_established"
+*Arcs
+1 2 0.2159901 l "substring"
+2 1 0.1632253 l "substring"
+1 2 0.2159901 l "substring"
+2 1 0.1632253 l "substring"
+1 2 0.2159901 l "substring"
+2 1 0.1632253 l "substring"
+*Edges

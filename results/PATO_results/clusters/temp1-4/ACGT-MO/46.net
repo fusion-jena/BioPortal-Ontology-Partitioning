@@ -1,0 +1,9 @@
+*Vertices 2
+1 "SubdivisionOfTrunk" ellipse
+2 "SubdivisionOfTrunkProper" ellipse
+*Arcs
+2 1 0.2000000 l "isa"
+1 2 0.5000000 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

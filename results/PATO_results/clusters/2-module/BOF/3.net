@@ -1,0 +1,36 @@
+*Vertices 11
+1 "AmbientedeAreiaFina" ellipse
+2 "AmbientedeAreiaGrossa" ellipse
+3 "AmbientedeArgila" ellipse
+4 "AmbientedeCascalho" ellipse
+5 "AmbientedeFolha" ellipse
+6 "AmbientedeHumus" ellipse
+7 "AmbientedeRocha" ellipse
+8 "AmbientedeSeixo" ellipse
+9 "AmbientedeTerraPreta" ellipse
+10 "Humus" ellipse
+11 "TypeMicroEnvironment" ellipse
+*Arcs
+1 11 1.0000000 l "isa"
+11 1 0.0714286 l "isa"
+2 11 1.0000000 l "isa"
+11 2 0.0714286 l "isa"
+3 11 1.0000000 l "isa"
+11 3 0.0714286 l "isa"
+4 11 1.0000000 l "isa"
+11 4 0.0714286 l "isa"
+5 11 0.5000000 l "isa"
+11 5 0.0714286 l "isa"
+6 11 0.5000000 l "isa"
+11 6 0.0714286 l "isa"
+7 11 0.5000000 l "isa"
+11 7 0.0714286 l "isa"
+8 11 1.0000000 l "isa"
+11 8 0.0714286 l "isa"
+9 11 1.0000000 l "isa"
+11 9 0.0714286 l "isa"
+6 10 0.5000000 l "substring"
+10 6 0.2500000 l "substring"
+5 7 0.5000000 l "distance"
+7 5 0.5000000 l "distance"
+*Edges

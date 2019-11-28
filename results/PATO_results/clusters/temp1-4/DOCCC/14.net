@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Software" ellipse
+2 "Thing"
+*Arcs
+1 2 0.1839403 l "isa"
+2 1 0.0486961 l "isa"
+1 2 0.1839403 l "isa"
+2 1 0.0486961 l "isa"
+1 2 0.1839403 l "isa"
+2 1 0.0486961 l "isa"
+1 2 0.1839403 l "isa"
+2 1 0.0486961 l "isa"
+1 2 0.1839403 l "isa"
+2 1 0.0486961 l "isa"
+1 2 0.1839403 l "isa"
+2 1 0.0486961 l "isa"
+*Edges

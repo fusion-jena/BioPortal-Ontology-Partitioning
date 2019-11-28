@@ -1,0 +1,77 @@
+*Vertices 20
+1 "Ability_to_Converse_in_Social_Settings" ellipse
+2 "Ability_to_Engage_in_Casual_Conversation" ellipse
+3 "Definite_lack_of_appreciation_of_social_cues_contexts_or_requirements" ellipse
+4 "Frequent_use_of_inappropriate_questions_or_statements" ellipse
+5 "Human_With_DSM-5_Diagnosis_definition_A_3" ellipse
+6 "Inappropriate_questions_or_statements" ellipse
+7 "Inappropriate_questions_or_statements_NotAvailable" ellipse
+8 "Inappropriate_questions_or_statements_UnknownOrNotAsked" ellipse
+9 "Marked_social_disinhibition_appears_unaware_of_social_cues_and_social_requirements" ellipse
+10 "No_or_rare_use_of_inappropriate_questions_or_statements" ellipse
+11 "Normal_social_inhibition" ellipse
+12 "Occasional_cheekiness_or_dishibition_more_than_others" ellipse
+13 "Social_disinhibition" ellipse
+14 "Social_disinhibition_NotAvailable" ellipse
+15 "Social_disinhibition_UnknownOrNotAsked" ellipse
+16 "Use_of_some_questions_or_statements_regardless_of_situation" ellipse
+17 "Using_Language_Appropriately" ellipse
+18 "socdis_Definite_lack_of_appreciation_of_social_cues_contexts_or_requirements"
+19 "socdis_Occasional_cheekiness_or_dishibition_more_than_others"
+20 "inappquesorstate_Use_of_some_questions_or_statements_regardless_of_situation"
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3333333 l "isa"
+3 13 0.5000000 l "isa"
+13 3 0.0909091 l "isa"
+4 6 0.6666667 l "isa"
+6 4 0.1818182 l "isa"
+6 17 0.0909091 l "isa"
+17 6 0.5000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.1818182 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.1818182 l "isa"
+9 13 0.5000000 l "isa"
+13 9 0.1818182 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.1818182 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.0909091 l "isa"
+12 13 0.5000000 l "isa"
+13 12 0.0909091 l "isa"
+14 13 1.0000000 l "isa"
+13 14 0.1818182 l "isa"
+15 13 1.0000000 l "isa"
+13 15 0.1818182 l "isa"
+16 6 0.5000000 l "isa"
+6 16 0.0909091 l "isa"
+17 1 0.5000000 l "isa"
+1 17 0.3333333 l "isa"
+5 18 0.0192308 l "definition"
+18 5 0.5000000 l "definition"
+5 19 0.0192308 l "definition"
+19 5 0.5000000 l "definition"
+5 20 0.0192308 l "definition"
+20 5 0.5000000 l "definition"
+3 18 0.5000000 l "substring"
+18 3 0.5000000 l "substring"
+4 6 0.6666667 l "substring"
+6 4 0.1818182 l "substring"
+6 7 0.1818182 l "substring"
+7 6 1.0000000 l "substring"
+6 8 0.1818182 l "substring"
+8 6 1.0000000 l "substring"
+6 10 0.1818182 l "substring"
+10 6 1.0000000 l "substring"
+9 13 0.5000000 l "substring"
+13 9 0.1818182 l "substring"
+12 19 0.5000000 l "substring"
+19 12 0.5000000 l "substring"
+13 14 0.1818182 l "substring"
+14 13 1.0000000 l "substring"
+13 15 0.1818182 l "substring"
+15 13 1.0000000 l "substring"
+16 20 0.5000000 l "substring"
+20 16 0.5000000 l "substring"
+*Edges

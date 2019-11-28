@@ -1,0 +1,30 @@
+*Vertices 3
+1 "No_Sharing" ellipse
+2 "Sharing" ellipse
+3 "oshare_No_Sharing"
+*Arcs
+1 2 0.4430078 l "substring"
+2 1 0.1600481 l "substring"
+1 3 0.2080323 l "substring"
+3 1 0.2775053 l "substring"
+2 3 0.0672744 l "substring"
+3 2 0.2483999 l "substring"
+1 2 0.4430078 l "distance"
+2 1 0.1600481 l "distance"
+1 2 0.4430078 l "substring"
+2 1 0.1600481 l "substring"
+1 3 0.2080323 l "substring"
+3 1 0.2775053 l "substring"
+2 3 0.0672744 l "substring"
+3 2 0.2483999 l "substring"
+1 2 0.4430078 l "distance"
+2 1 0.1600481 l "distance"
+1 2 0.4430078 l "substring"
+2 1 0.1600481 l "substring"
+1 3 0.2080323 l "substring"
+3 1 0.2775053 l "substring"
+2 3 0.0672744 l "substring"
+3 2 0.2483999 l "substring"
+1 2 0.4430078 l "distance"
+2 1 0.1600481 l "distance"
+*Edges

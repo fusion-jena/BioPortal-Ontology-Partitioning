@@ -1,0 +1,12 @@
+*Vertices 3
+1 "electromagnetic field" ellipse
+2 "electric field" ellipse
+3 "magnetic field" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.5000000 l "isa"
+1 3 0.5000000 l "substring"
+3 1 1.0000000 l "substring"
+*Edges

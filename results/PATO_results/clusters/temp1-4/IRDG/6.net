@@ -1,0 +1,43 @@
+*Vertices 4
+1 "TMC3" ellipse
+2 "TMC4" ellipse
+3 "TMC5" ellipse
+4 "TMC7" ellipse
+*Arcs
+1 2 0.0394249 l "distance"
+2 1 0.0530614 l "distance"
+1 3 0.0399410 l "distance"
+3 1 0.0670925 l "distance"
+1 4 0.0405621 l "distance"
+4 1 0.0842145 l "distance"
+2 3 0.0544753 l "distance"
+3 2 0.0679902 l "distance"
+2 4 0.0553219 l "distance"
+4 2 0.0853406 l "distance"
+3 4 0.0699493 l "distance"
+4 3 0.0864560 l "distance"
+1 2 0.0394249 l "distance"
+2 1 0.0530614 l "distance"
+1 3 0.0399410 l "distance"
+3 1 0.0670925 l "distance"
+1 4 0.0405621 l "distance"
+4 1 0.0842145 l "distance"
+2 3 0.0544753 l "distance"
+3 2 0.0679902 l "distance"
+2 4 0.0553219 l "distance"
+4 2 0.0853406 l "distance"
+3 4 0.0699493 l "distance"
+4 3 0.0864560 l "distance"
+1 2 0.0394249 l "distance"
+2 1 0.0530614 l "distance"
+1 3 0.0399410 l "distance"
+3 1 0.0670925 l "distance"
+1 4 0.0405621 l "distance"
+4 1 0.0842145 l "distance"
+2 3 0.0544753 l "distance"
+3 2 0.0679902 l "distance"
+2 4 0.0553219 l "distance"
+4 2 0.0853406 l "distance"
+3 4 0.0699493 l "distance"
+4 3 0.0864560 l "distance"
+*Edges

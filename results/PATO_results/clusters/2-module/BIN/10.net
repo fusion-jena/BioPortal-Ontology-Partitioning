@@ -1,0 +1,41 @@
+*Vertices 12
+1 "eeg devices" ellipse
+2 "wired eeg devices" ellipse
+3 "wireless eeg devices" ellipse
+4 "acticap xpress" ellipse
+5 "large sized eeg cap" ellipse
+6 "medium sized eeg cap" ellipse
+7 "small sized eeg cap" ellipse
+8 "emotive epoc+" ellipse
+9 "neurosky mindwave" ellipse
+10 "muse headband" ellipse
+11 "mbraintrain smarting" ellipse
+12 "easycap" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.3333333 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.3333333 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1428571 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1428571 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1428571 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1428571 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.1250000 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.1250000 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.1250000 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.1250000 l "isa"
+12 3 1.0000000 l "isa"
+3 12 0.1250000 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.2857143 l "substring"
+1 3 0.3333333 l "substring"
+3 1 0.2500000 l "substring"
+*Edges

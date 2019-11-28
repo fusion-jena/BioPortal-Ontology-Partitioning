@@ -1,0 +1,17 @@
+*Vertices 2
+1 "ClassOfResponsibilityForRepresentation" ellipse
+2 "ResponsibilityForRepresentation" ellipse
+*Arcs
+1 2 0.5077443 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5077443 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.5077443 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5077443 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.5077443 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5077443 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

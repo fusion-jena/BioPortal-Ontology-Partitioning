@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Correction Details" ellipse
+2 "Fraud Details" ellipse
+3 "Retraction Details" ellipse
+4 "isTypeOf"
+*Arcs
+1 4 0.0979749 l "definition"
+4 1 0.0950075 l "definition"
+2 4 0.0979749 l "definition"
+4 2 0.0950075 l "definition"
+3 4 0.0979749 l "definition"
+4 3 0.0950075 l "definition"
+1 4 0.0979749 l "definition"
+4 1 0.0950075 l "definition"
+2 4 0.0979749 l "definition"
+4 2 0.0950075 l "definition"
+3 4 0.0979749 l "definition"
+4 3 0.0950075 l "definition"
+1 4 0.0979749 l "definition"
+4 1 0.0950075 l "definition"
+2 4 0.0979749 l "definition"
+4 2 0.0950075 l "definition"
+3 4 0.0979749 l "definition"
+4 3 0.0950075 l "definition"
+*Edges

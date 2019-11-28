@@ -1,0 +1,13 @@
+*Vertices 4
+1 "ICW-1:01.01.02.06.02 Yoga" ellipse
+2 "ICW-1:01.01.02.06.03 Balance Training - NOS" ellipse
+3 "ICW-1:01.01.02.06 Balance Training" ellipse
+4 "ICW-1:01.01.02.06.01 Tai Chi" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.2500000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2500000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2500000 l "isa"
+*Edges

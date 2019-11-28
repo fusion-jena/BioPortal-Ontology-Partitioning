@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Attention_Deficit_Disorder" ellipse
+2 "Attention_Deficit_Disorder_with_Hyperactivity" ellipse
+*Arcs
+1 2 0.2170079 l "substring"
+2 1 0.1836219 l "substring"
+1 2 0.2170079 l "substring"
+2 1 0.1836219 l "substring"
+*Edges

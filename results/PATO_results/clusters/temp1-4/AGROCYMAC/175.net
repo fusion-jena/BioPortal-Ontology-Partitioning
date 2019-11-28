@@ -1,0 +1,14 @@
+*Vertices 3
+1 "biological role" ellipse
+2 "molecular messenger" ellipse
+3 "signalling molecule" ellipse
+*Arcs
+2 1 0.4859813 l "isa"
+1 2 0.1160601 l "isa"
+3 2 0.2836231 l "isa"
+2 3 0.5140187 l "isa"
+2 1 0.4859813 l "isa"
+1 2 0.1160601 l "isa"
+3 2 0.2836231 l "isa"
+2 3 0.5140187 l "isa"
+*Edges

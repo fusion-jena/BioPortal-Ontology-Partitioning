@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Mutualist" ellipse
+2 "Mutualist species" ellipse
+*Arcs
+1 2 0.3455623 l "substring"
+2 1 0.1842585 l "substring"
+1 2 0.3455623 l "substring"
+2 1 0.1842585 l "substring"
+*Edges

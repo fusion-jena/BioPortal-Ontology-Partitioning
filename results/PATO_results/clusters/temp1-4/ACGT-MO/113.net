@@ -1,0 +1,9 @@
+*Vertices 2
+1 "BuddChiariSyndromeProcess" ellipse
+2 "SyndromeProcess" ellipse
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.1333333 l "isa"
+1 2 0.2857143 l "substring"
+2 1 0.1333333 l "substring"
+*Edges

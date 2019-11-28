@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Amnesia" ellipse
+2 "Global_Amnesia" ellipse
+*Arcs
+1 2 0.1081517 l "substring"
+2 1 0.3909500 l "substring"
+1 2 0.1081517 l "substring"
+2 1 0.3909500 l "substring"
+1 2 0.1081517 l "substring"
+2 1 0.3909500 l "substring"
+*Edges

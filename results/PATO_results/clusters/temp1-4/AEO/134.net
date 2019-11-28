@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Data range" ellipse
+2 "Number of offspring" ellipse
+*Arcs
+2 1 0.3065705 l "isa"
+1 2 0.1136270 l "isa"
+2 1 0.3065705 l "hasDataRange"
+1 2 0.1136270 l "hasDataRange"
+2 1 0.3065705 l "isa"
+1 2 0.1136270 l "isa"
+2 1 0.3065705 l "hasDataRange"
+1 2 0.1136270 l "hasDataRange"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Netherlands" ellipse
+2 "Netherlands Antilles" ellipse
+*Arcs
+1 2 0.1507191 l "substring"
+2 1 0.1507191 l "substring"
+1 2 0.1507191 l "substring"
+2 1 0.1507191 l "substring"
+*Edges

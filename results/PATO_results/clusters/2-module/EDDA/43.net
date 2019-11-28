@@ -1,0 +1,7 @@
+*Vertices 2
+1 "phase I and II vaccine trials" ellipse
+2 "phase I/II trial" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0909091 l "isa"
+*Edges

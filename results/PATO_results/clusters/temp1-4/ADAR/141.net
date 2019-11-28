@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Breast" ellipse
+2 "ReconstructiveBreastSurgery" ellipse
+*Arcs
+1 2 0.1004772 l "substring"
+2 1 0.2654411 l "substring"
+1 2 0.1004772 l "substring"
+2 1 0.2654411 l "substring"
+1 2 0.1004772 l "substring"
+2 1 0.2654411 l "substring"
+1 2 0.1004772 l "substring"
+2 1 0.2654411 l "substring"
+*Edges

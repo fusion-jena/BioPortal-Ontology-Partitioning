@@ -1,0 +1,23 @@
+*Vertices 6
+1 "stress" ellipse
+2 "mechanical stress" ellipse
+3 "water flow" ellipse
+4 "circular flow" ellipse
+5 "through flow" ellipse
+6 "stress by handling" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.4000000 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.2500000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.3333333 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.3333333 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.4000000 l "isa"
+1 2 0.4000000 l "substring"
+2 1 0.5000000 l "substring"
+1 6 0.4000000 l "substring"
+6 1 1.0000000 l "substring"
+*Edges

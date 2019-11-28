@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Finnish Landrace" ellipse
+2 "Finnish Landrace" ellipse
+*Arcs
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+1 2 0.3412425 l "substring"
+2 1 0.3598298 l "substring"
+1 2 0.3412425 l "distance"
+2 1 0.3598298 l "distance"
+*Edges

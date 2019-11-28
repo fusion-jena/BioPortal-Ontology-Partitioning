@@ -1,0 +1,18 @@
+*Vertices 3
+1 "NervousSystemSymptom" ellipse
+2 "Nystagmus" ellipse
+3 "Papilledema" ellipse
+*Arcs
+2 1 0.2594752 l "definition"
+1 2 0.0733678 l "definition"
+3 1 0.2589307 l "definition"
+1 3 0.0733546 l "definition"
+2 1 0.2594752 l "definition"
+1 2 0.0733678 l "definition"
+3 1 0.2589307 l "definition"
+1 3 0.0733546 l "definition"
+2 1 0.2594752 l "definition"
+1 2 0.0733678 l "definition"
+3 1 0.2589307 l "definition"
+1 3 0.0733546 l "definition"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Chromosome" ellipse
+2 "chromosome"
+*Arcs
+2 1 0.5000000 l "definition"
+1 2 0.4444444 l "definition"
+1 2 0.4444444 l "definition"
+2 1 0.5000000 l "definition"
+1 2 0.4444444 l "substring"
+2 1 0.5000000 l "substring"
+1 2 0.4444444 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

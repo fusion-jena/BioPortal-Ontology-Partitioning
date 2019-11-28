@@ -1,0 +1,9 @@
+*Vertices 2
+1 "UBERON_0003929"
+2 "UBERON_0003353"
+*Arcs
+2 1 0.0526316 l "isa"
+1 2 0.0400000 l "isa"
+1 2 0.0400000 l "distance"
+2 1 0.0526316 l "distance"
+*Edges

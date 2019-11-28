@@ -1,0 +1,20 @@
+*Vertices 5
+1 "inserm_mut" ellipse
+2 "inserm_snp" ellipse
+3 "locus_specific_variant_db" ellipse
+4 "ucl_ldlr" ellipse
+5 "umd_ldlr" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.1666667 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.1666667 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.1666667 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.1666667 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+4 5 0.5000000 l "distance"
+5 4 0.5000000 l "distance"
+*Edges

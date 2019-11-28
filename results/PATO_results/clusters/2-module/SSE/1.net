@@ -1,0 +1,70 @@
+*Vertices 23
+1 "Anastomotic Leak, Bladder" ellipse
+2 "Anastomotic Leak, Urinary" ellipse
+3 "Bladder Injury" ellipse
+4 "Erectile Dysfunction" ellipse
+5 "Fistula, Vesicovaginal" ellipse
+6 "Genitourinary System" ellipse
+7 "Hematuria, Bladder" ellipse
+8 "Hematuria, Renal" ellipse
+9 "Hydrocele" ellipse
+10 "Hydronephrosis" ellipse
+11 "Neurogenic Bladder" ellipse
+12 "Renal Arteriovenous Fistula (AV)" ellipse
+13 "Renal Failure" ellipse
+14 "Ureteral Injury, Intraoperative" ellipse
+15 "Urinary Calculi" ellipse
+16 "Urinary Incontinence" ellipse
+17 "Urinary Retention" ellipse
+18 "Urinary Stricture" ellipse
+19 "Urinary fistula / leak, Kidney" ellipse
+20 "Urinary fistula / leak, Pouch" ellipse
+21 "Urinary fistula / leak, Ureter" ellipse
+22 "Uterine Perforation" ellipse
+23 "Vaginal Bleeding" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.0400000 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0400000 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0400000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0400000 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.0400000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0400000 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.0400000 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.0400000 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.0400000 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.0400000 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.0400000 l "isa"
+13 6 1.0000000 l "isa"
+6 13 0.0400000 l "isa"
+14 6 1.0000000 l "isa"
+6 14 0.0400000 l "isa"
+15 6 1.0000000 l "isa"
+6 15 0.0400000 l "isa"
+16 6 1.0000000 l "isa"
+6 16 0.0400000 l "isa"
+17 6 1.0000000 l "isa"
+6 17 0.0400000 l "isa"
+18 6 1.0000000 l "isa"
+6 18 0.0400000 l "isa"
+19 6 1.0000000 l "isa"
+6 19 0.0400000 l "isa"
+20 6 1.0000000 l "isa"
+6 20 0.0400000 l "isa"
+21 6 1.0000000 l "isa"
+6 21 0.0400000 l "isa"
+22 6 1.0000000 l "isa"
+6 22 0.0400000 l "isa"
+23 6 1.0000000 l "isa"
+6 23 0.0400000 l "isa"
+*Edges

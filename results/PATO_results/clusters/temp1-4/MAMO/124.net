@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Greek Steppe" ellipse
+2 "Red Steppe" ellipse
+*Arcs
+1 2 0.7028505 l "distance"
+2 1 0.7028505 l "distance"
+1 2 0.7028505 l "distance"
+2 1 0.7028505 l "distance"
+1 2 0.7028505 l "distance"
+2 1 0.7028505 l "distance"
+1 2 0.7028505 l "distance"
+2 1 0.7028505 l "distance"
+1 2 0.7028505 l "distance"
+2 1 0.7028505 l "distance"
+1 2 0.7028505 l "distance"
+2 1 0.7028505 l "distance"
+*Edges

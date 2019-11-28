@@ -1,0 +1,40 @@
+*Vertices 5
+1 "Congenital_Disorders" ellipse
+2 "Drug_Induced_Congenital_Disorders" ellipse
+3 "Genetic_Disorders" ellipse
+4 "Genital_Disorders" ellipse
+5 "Urogenital_Disorders" ellipse
+*Arcs
+1 2 0.1710811 l "substring"
+2 1 0.2607035 l "substring"
+1 4 0.3561062 l "substring"
+4 1 0.1953451 l "substring"
+2 4 0.2525310 l "substring"
+4 2 0.0909061 l "substring"
+4 5 0.1953451 l "substring"
+5 4 0.3624184 l "substring"
+1 4 0.3561062 l "distance"
+4 1 0.1953451 l "distance"
+1 5 0.1651818 l "distance"
+5 1 0.1681097 l "distance"
+3 4 0.2558110 l "distance"
+4 3 0.0909061 l "distance"
+4 5 0.1953451 l "distance"
+5 4 0.3624184 l "distance"
+1 2 0.1710811 l "substring"
+2 1 0.2607035 l "substring"
+1 4 0.3561062 l "substring"
+4 1 0.1953451 l "substring"
+2 4 0.2525310 l "substring"
+4 2 0.0909061 l "substring"
+4 5 0.1953451 l "substring"
+5 4 0.3624184 l "substring"
+1 4 0.3561062 l "distance"
+4 1 0.1953451 l "distance"
+1 5 0.1651818 l "distance"
+5 1 0.1681097 l "distance"
+3 4 0.2558110 l "distance"
+4 3 0.0909061 l "distance"
+4 5 0.1953451 l "distance"
+5 4 0.3624184 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Teacher_Effectiveness" ellipse
+2 "Teacher_Effectiveness_Evaluation" ellipse
+*Arcs
+1 2 0.5431579 l "substring"
+2 1 0.5427136 l "substring"
+1 2 0.5431579 l "substring"
+2 1 0.5427136 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "interpolation algorithm" ellipse
+2 "polynomial interpolation algorithm" ellipse
+*Arcs
+2 1 0.2867550 l "isa"
+1 2 0.2488010 l "isa"
+1 2 0.2488010 l "substring"
+2 1 0.2867550 l "substring"
+2 1 0.2867550 l "isa"
+1 2 0.2488010 l "isa"
+1 2 0.2488010 l "substring"
+2 1 0.2867550 l "substring"
+2 1 0.2867550 l "isa"
+1 2 0.2488010 l "isa"
+1 2 0.2488010 l "substring"
+2 1 0.2867550 l "substring"
+*Edges

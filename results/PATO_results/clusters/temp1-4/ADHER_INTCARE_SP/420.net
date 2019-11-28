@@ -1,0 +1,30 @@
+*Vertices 3
+1 "StartOfRoomTemperatureRecordingProcess" ellipse
+2 "StartOfSampleTemperatureRecordingProcess" ellipse
+3 "StartOfTemperatureRecordingProcess" ellipse
+*Arcs
+1 3 0.1722481 l "isa"
+3 1 0.1219504 l "isa"
+2 3 0.1722481 l "isa"
+3 2 0.1219504 l "isa"
+1 3 0.1722481 l "isa"
+3 1 0.1219504 l "isa"
+2 3 0.1722481 l "isa"
+3 2 0.1219504 l "isa"
+1 3 0.1722481 l "isa"
+3 1 0.1219504 l "isa"
+2 3 0.1722481 l "isa"
+3 2 0.1219504 l "isa"
+1 3 0.1722481 l "isa"
+3 1 0.1219504 l "isa"
+2 3 0.1722481 l "isa"
+3 2 0.1219504 l "isa"
+1 3 0.1722481 l "isa"
+3 1 0.1219504 l "isa"
+2 3 0.1722481 l "isa"
+3 2 0.1219504 l "isa"
+1 3 0.1722481 l "isa"
+3 1 0.1219504 l "isa"
+2 3 0.1722481 l "isa"
+3 2 0.1219504 l "isa"
+*Edges

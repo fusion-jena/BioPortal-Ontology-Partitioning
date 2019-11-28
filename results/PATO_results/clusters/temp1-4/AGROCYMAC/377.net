@@ -1,0 +1,13 @@
+*Vertices 2
+1 "yellow" ellipse
+2 "light yellow" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3323122 l "isa"
+1 2 0.3323122 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.3323122 l "isa"
+1 2 0.3323122 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

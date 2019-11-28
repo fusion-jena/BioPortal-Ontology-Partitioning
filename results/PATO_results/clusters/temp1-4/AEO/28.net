@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Filament" ellipse
+2 "neurofilament test" ellipse
+*Arcs
+1 2 0.2830087 l "substring"
+2 1 0.4120325 l "substring"
+1 2 0.2830087 l "substring"
+2 1 0.4120325 l "substring"
+1 2 0.2830087 l "substring"
+2 1 0.4120325 l "substring"
+*Edges

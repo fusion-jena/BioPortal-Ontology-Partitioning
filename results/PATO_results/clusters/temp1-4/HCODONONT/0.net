@@ -1,0 +1,224 @@
+*Vertices 55
+1 "undivided" ellipse
+2 "CreativeWork" ellipse
+3 "disease management" ellipse
+4 "formal rule" ellipse
+5 "unit of measurement" ellipse
+6 "Attribute" ellipse
+7 "Biopax" ellipse
+8 "InfoBox" ellipse
+9 "Interaction" ellipse
+10 "Pathway" ellipse
+11 "Spatial Thing" ellipse
+12 "OWLClass_361594d5_4ce0_4b4e_acd0_79e1a28c6db0" ellipse
+13 "OWLClass_00000002845655527518" ellipse
+14 "OWLClass_aa5e68dc_6c7c_4cd7_86e1_609eb9f8e16b" ellipse
+15 "OWLClass_61875009_e9eb_42d6_b362_32f282fdfd64" ellipse
+16 "OWLClass_f44fdaeb_7c80_4a05_b61c_9e1c3f50b70e" ellipse
+17 "Legend" ellipse
+18 "Referenced Protein" ellipse
+19 "purity percentage" ellipse
+20 "OWLClass_578d227e_044c_4184_b5da_0edd67661097" ellipse
+21 "OWLClass_998c598c_7752_42ce_9929_c915bee59e64" ellipse
+22 "OWLClass_b7e088c3_190f_48fc_bf00_3944c8149856" ellipse
+23 "Shape" ellipse
+24 "has_part"
+25 "Event" ellipse
+26 "Restriction"
+27 "OWLClass_00000012296616137386" ellipse
+28 "OWLClass_00000017974604189673" ellipse
+29 "OWLClass_1b6c09b4_7d3a_4a84_951e_e2d82abcfdcc" ellipse
+30 "OWLClass_2de0d31a_427e_49d2_ab02_b131475f3fd6" ellipse
+31 "OWLClass_33337344_d220_451d_8672_f86828eb5665" ellipse
+32 "OWLClass_a4e8540e_649f_477f_8115_1b0bad4b8c73" ellipse
+33 "OWLClass_ba131072_c102_45ec_946e_4ea73ba96066" ellipse
+34 "OWLClass_dfed1977_347d_4fd3_98d6_6ca0c3e2310d" ellipse
+35 "OWLClass_f25f57d4_046f_4caa_9768_b9b2482b4ac7" ellipse
+36 "OWLClass_f6c311ae_903c_4624_92ca_e3a1b9620cd1" ellipse
+37 "OWLClass_fa6cbc69_b380_40ee_9e99_d00697984e11" ellipse
+38 "OWLObjectProperty_2ac5572d_278b_414c_b969_7c5aea56b6d8"
+39 "part_of"
+40 "part of"
+41 "stipe" ellipse
+42 "Event"
+43 "nil"
+44 "OWLClass_00000017727981930315" ellipse
+45 "OWLClass_12a47173_16f7_45b4_a361_128738d2a003" ellipse
+46 "OWLClass_30a861ec_f105_479f_a969_3b79ed2121f7" ellipse
+47 "OWLClass_33522a90_6faa_4fb7_ba26_d81c959b24bd" ellipse
+48 "OWLClass_4d52eeeb_9aad_4251_9a86_491c3d708fbd" ellipse
+49 "OWLClass_5b09bc6d_29a1_44b4_b8e4_407b15dd7f37" ellipse
+50 "OWLClass_69bd2819_a7c4_4a5d_9df9_8ab2b5b4f215" ellipse
+51 "OWLClass_b618efcd_255b_4c05_8a87_3514dc253b96" ellipse
+52 "OWLClass_b6327a8d_0f6e_477e_9261_b9faf0adb871" ellipse
+53 "OWLClass_fc376ed6_b483_401a_856b_01efdb9f1b8f" ellipse
+54 "temporal part-of"
+55 "phyllome" ellipse
+*Arcs
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+40 43 0.1926323 l "definition"
+43 40 0.0469509 l "definition"
+54 43 0.2433590 l "definition"
+43 54 0.0496590 l "definition"
+42 25 0.1671126 l "substring"
+25 42 0.1815801 l "substring"
+39 40 0.0859214 l "distance"
+40 39 0.2013004 l "distance"
+42 25 0.1671126 l "distance"
+25 42 0.1815801 l "distance"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+40 43 0.1926323 l "definition"
+43 40 0.0469509 l "definition"
+54 43 0.2433590 l "definition"
+43 54 0.0496590 l "definition"
+19 43 0.1630147 l "definition"
+43 19 0.0421837 l "definition"
+19 19 0.5086888 l "definition"
+19 19 0.5086888 l "definition"
+42 25 0.1671126 l "substring"
+25 42 0.1815801 l "substring"
+39 40 0.0859214 l "distance"
+40 39 0.2013004 l "distance"
+42 25 0.1671126 l "distance"
+25 42 0.1815801 l "distance"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+40 43 0.1926323 l "definition"
+43 40 0.0469509 l "definition"
+54 43 0.2433590 l "definition"
+43 54 0.0496590 l "definition"
+19 43 0.1630147 l "definition"
+43 19 0.0421837 l "definition"
+19 19 0.5086888 l "definition"
+19 19 0.5086888 l "definition"
+42 25 0.1671126 l "substring"
+25 42 0.1815801 l "substring"
+41 23 0.0875915 l "distance"
+23 41 0.1112203 l "distance"
+39 40 0.0859214 l "distance"
+40 39 0.2013004 l "distance"
+42 25 0.1671126 l "distance"
+25 42 0.1815801 l "distance"
+42 17 0.0612015 l "distance"
+17 42 0.1436433 l "distance"
+25 17 0.0666850 l "distance"
+17 25 0.1440432 l "distance"
+11 11 0.7965434 l "based near"
+11 11 0.7965434 l "based near"
+40 43 0.1926323 l "definition"
+43 40 0.0469509 l "definition"
+54 43 0.2433590 l "definition"
+43 54 0.0496590 l "definition"
+19 43 0.1630147 l "definition"
+43 19 0.0421837 l "definition"
+19 19 0.5086888 l "definition"
+19 19 0.5086888 l "definition"
+13 26 0.1111111 l "definition"
+26 13 0.0148598 l "definition"
+13 38 0.1111111 l "definition"
+38 13 0.0400000 l "definition"
+13 12 0.1111111 l "definition"
+12 13 0.1000000 l "definition"
+13 15 0.1111111 l "definition"
+15 13 0.0588235 l "definition"
+13 32 0.1111111 l "definition"
+32 13 0.0555556 l "definition"
+13 14 0.1111111 l "definition"
+14 13 0.1250000 l "definition"
+13 16 0.1111111 l "definition"
+16 13 0.0625000 l "definition"
+27 26 0.2000000 l "definition"
+26 27 0.0148598 l "definition"
+27 38 0.2000000 l "definition"
+38 27 0.0400000 l "definition"
+27 32 0.2000000 l "definition"
+32 27 0.0555556 l "definition"
+44 46 0.1250000 l "definition"
+46 44 0.2500000 l "definition"
+44 26 0.1250000 l "definition"
+26 44 0.0148598 l "definition"
+44 38 0.1250000 l "definition"
+38 44 0.0400000 l "definition"
+44 49 0.1250000 l "definition"
+49 44 0.2500000 l "definition"
+44 15 0.1250000 l "definition"
+15 44 0.0588235 l "definition"
+44 16 0.1250000 l "definition"
+16 44 0.0625000 l "definition"
+28 26 0.1111111 l "definition"
+26 28 0.0148598 l "definition"
+28 15 0.1111111 l "definition"
+15 28 0.0588235 l "definition"
+28 38 0.1111111 l "definition"
+38 28 0.0400000 l "definition"
+28 32 0.1111111 l "definition"
+32 28 0.0555556 l "definition"
+28 14 0.1111111 l "definition"
+14 28 0.1250000 l "definition"
+28 35 0.1111111 l "definition"
+35 28 0.2000000 l "definition"
+28 16 0.1111111 l "definition"
+16 28 0.0625000 l "definition"
+30 26 0.1428571 l "definition"
+26 30 0.0148598 l "definition"
+30 29 0.1428571 l "definition"
+29 30 0.2000000 l "definition"
+30 38 0.1428571 l "definition"
+38 30 0.0400000 l "definition"
+30 20 0.1428571 l "definition"
+20 30 0.1666667 l "definition"
+30 22 0.1428571 l "definition"
+22 30 0.1250000 l "definition"
+34 26 0.1000000 l "definition"
+26 34 0.0148598 l "definition"
+34 38 0.1000000 l "definition"
+38 34 0.0400000 l "definition"
+34 12 0.1000000 l "definition"
+12 34 0.1000000 l "definition"
+34 15 0.1000000 l "definition"
+15 34 0.0588235 l "definition"
+34 32 0.1000000 l "definition"
+32 34 0.0555556 l "definition"
+34 33 0.1000000 l "definition"
+33 34 0.2000000 l "definition"
+34 16 0.1000000 l "definition"
+16 34 0.0625000 l "definition"
+34 36 0.1000000 l "definition"
+36 34 0.2000000 l "definition"
+37 26 0.1000000 l "definition"
+26 37 0.0148598 l "definition"
+37 38 0.1000000 l "definition"
+38 37 0.0400000 l "definition"
+37 12 0.1000000 l "definition"
+12 37 0.1000000 l "definition"
+37 15 0.1000000 l "definition"
+15 37 0.0588235 l "definition"
+37 32 0.1000000 l "definition"
+32 37 0.0555556 l "definition"
+37 22 0.1000000 l "definition"
+22 37 0.1250000 l "definition"
+37 16 0.1000000 l "definition"
+16 37 0.0625000 l "definition"
+37 36 0.1000000 l "definition"
+36 37 0.2000000 l "definition"
+42 25 0.1671126 l "substring"
+25 42 0.1815801 l "substring"
+41 23 0.0875915 l "distance"
+23 41 0.1112203 l "distance"
+39 40 0.0859214 l "distance"
+40 39 0.2013004 l "distance"
+42 25 0.1671126 l "distance"
+25 42 0.1815801 l "distance"
+42 17 0.0612015 l "distance"
+17 42 0.1436433 l "distance"
+25 17 0.0666850 l "distance"
+17 25 0.1440432 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ClassOfDefinition" ellipse
+2 "Definition" ellipse
+*Arcs
+1 2 0.4307882 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.4307882 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.4307882 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.4307882 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

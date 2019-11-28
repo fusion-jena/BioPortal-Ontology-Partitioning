@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Evènement" ellipse
+2 "Evènement_culturel" ellipse
+3 "Evènement_familial" ellipse
+4 "Evènement_médical" ellipse
+5 "Evènement_social" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2500000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2500000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2500000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2500000 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.2500000 l "substring"
+5 1 1.0000000 l "substring"
+*Edges

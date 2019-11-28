@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Health-related behavior" ellipse
+2 "Observable entity" ellipse
+3 "Clinical history/examination observable" ellipse
+4 "Mental state, behavior / psychosocial function observable" ellipse
+5 "Behavior observable" ellipse
+6 "Detail of sexuality and sexual activity" ellipse
+7 "entity" ellipse
+*Arcs
+1 5 0.2648279 l "isa"
+5 1 0.2675709 l "isa"
+3 2 0.3829787 l "isa"
+2 3 0.3103448 l "isa"
+4 3 0.2380000 l "isa"
+3 4 0.3617021 l "isa"
+5 4 0.2762022 l "isa"
+4 5 0.2240000 l "isa"
+6 1 0.2538071 l "isa"
+1 6 0.2562851 l "isa"
+2 7 0.2758620 l "substring"
+7 2 0.0998662 l "substring"
+1 5 0.2648279 l "isa"
+5 1 0.2675709 l "isa"
+3 2 0.3829787 l "isa"
+2 3 0.3103448 l "isa"
+4 3 0.2380000 l "isa"
+3 4 0.3617021 l "isa"
+5 4 0.2762022 l "isa"
+4 5 0.2240000 l "isa"
+6 1 0.2538071 l "isa"
+1 6 0.2562851 l "isa"
+2 7 0.2758620 l "substring"
+7 2 0.0998662 l "substring"
+*Edges

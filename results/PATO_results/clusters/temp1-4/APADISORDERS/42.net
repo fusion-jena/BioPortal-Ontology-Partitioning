@@ -1,0 +1,14 @@
+*Vertices 3
+1 "therapy" ellipse
+2 "Computer_Assisted_Therapy" ellipse
+3 "Online_Therapy" ellipse
+*Arcs
+1 2 0.1474981 l "substring"
+2 1 0.3422698 l "substring"
+1 3 0.1474981 l "substring"
+3 1 0.3422698 l "substring"
+1 2 0.1474981 l "substring"
+2 1 0.3422698 l "substring"
+1 3 0.1474981 l "substring"
+3 1 0.3422698 l "substring"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "peak baseline start code" ellipse
+2 "baseline start point" ellipse
+3 "baseline start" ellipse
+*Arcs
+1 3 0.1423884 l "substring"
+3 1 0.1764467 l "substring"
+2 3 0.1572913 l "substring"
+3 2 0.1785754 l "substring"
+1 3 0.1423884 l "substring"
+3 1 0.1764467 l "substring"
+2 3 0.1572913 l "substring"
+3 2 0.1785754 l "substring"
+1 3 0.1423884 l "substring"
+3 1 0.1764467 l "substring"
+2 3 0.1572913 l "substring"
+3 2 0.1785754 l "substring"
+*Edges

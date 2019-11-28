@@ -1,0 +1,9 @@
+*Vertices 2
+1 "calibration" ellipse
+2 "calibration point" ellipse
+*Arcs
+1 2 0.1199568 l "substring"
+2 1 0.1809078 l "substring"
+1 2 0.1199568 l "substring"
+2 1 0.1809078 l "substring"
+*Edges

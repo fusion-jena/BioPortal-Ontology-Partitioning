@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Sexual_Abuse" ellipse
+2 "Verbal_Abuse" ellipse
+*Arcs
+1 2 0.3769714 l "distance"
+2 1 0.5302847 l "distance"
+1 2 0.3769714 l "distance"
+2 1 0.5302847 l "distance"
+*Edges

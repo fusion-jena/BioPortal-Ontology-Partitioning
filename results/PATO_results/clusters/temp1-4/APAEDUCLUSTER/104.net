@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Hyperthyroidism" ellipse
+2 "Hypothyroidism" ellipse
+*Arcs
+1 2 0.3559349 l "distance"
+2 1 0.2754868 l "distance"
+1 2 0.3559349 l "distance"
+2 1 0.2754868 l "distance"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 8
+1 "BType" ellipse
+2 "Biospecimen" ellipse
+3 "Broad_use_of_biosamples" ellipse
+4 "Broad_use_of_electronic_data" ellipse
+5 "ED_Type" ellipse
+6 "Electronic_Data" ellipse
+7 "No_consent_required" ellipse
+8 "Type_of_Consent" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1666667 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.2500000 l "isa"
+4 8 0.5000000 l "isa"
+8 4 0.2500000 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.2500000 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.2500000 l "isa"
+4 6 0.5000000 l "substring"
+6 4 0.2500000 l "substring"
+1 5 0.5000000 l "distance"
+5 1 0.5000000 l "distance"
+*Edges

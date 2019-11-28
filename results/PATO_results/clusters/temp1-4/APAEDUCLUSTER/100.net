@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Muscular_Disorders" ellipse
+2 "Neuromuscular_Disorders" ellipse
+*Arcs
+1 2 0.3557226 l "substring"
+2 1 0.2763065 l "substring"
+1 2 0.3557226 l "substring"
+2 1 0.2763065 l "substring"
+*Edges

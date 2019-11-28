@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Surveillance Activity" ellipse
+2 "surveillance activity history item" ellipse
+3 "surveillance activity start date" ellipse
+4 "surveillance activity end date" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.1250000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.1250000 l "isa"
+2 1 0.2500000 l "definition"
+1 2 0.4000000 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.2000000 l "substring"
+3 1 0.5000000 l "substring"
+1 4 0.2000000 l "substring"
+4 1 0.5000000 l "substring"
+*Edges

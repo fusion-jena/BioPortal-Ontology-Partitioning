@@ -1,0 +1,21 @@
+*Vertices 2
+1 "MIGAR" ellipse
+2 "PYGAN" ellipse
+*Arcs
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+1 2 0.0276887 l "distance"
+2 1 0.0391321 l "distance"
+*Edges

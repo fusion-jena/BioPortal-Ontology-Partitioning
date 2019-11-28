@@ -1,0 +1,25 @@
+*Vertices 8
+1 "disturbio_de_conduta" ellipse
+2 "outros_transtorno_do_comportamento" ellipse
+3 "tique" ellipse
+4 "transtorno_do_funcionamento_social" ellipse
+5 "transtorno_emocional" ellipse
+6 "transtorno_hipercinetico" ellipse
+7 "transtorno_misto_conduta_e_emocao" ellipse
+8 "transtornos_do_comportamento_e_transtornos_emocionais_durante_a_infancia_ou_adolescência" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.1250000 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.1250000 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.1250000 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1250000 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.1250000 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.1250000 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1250000 l "isa"
+*Edges

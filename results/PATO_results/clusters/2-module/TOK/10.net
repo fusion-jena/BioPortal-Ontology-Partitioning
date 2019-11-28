@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Annotation" ellipse
+2 "Annotation_Resource" ellipse
+3 "annotates"
+*Arcs
+2 3 0.1000000 l "definition"
+3 2 0.5000000 l "definition"
+2 1 0.2000000 l "definition"
+1 2 0.3333333 l "definition"
+1 2 0.3333333 l "substring"
+2 1 0.2000000 l "substring"
+1 3 0.1666667 l "distance"
+3 1 0.5000000 l "distance"
+*Edges

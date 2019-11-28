@@ -1,0 +1,23 @@
+*Vertices 2
+1 "CI_Date" ellipse
+2 "CI_DateTypeCode" ellipse
+*Arcs
+1 2 0.2346445 l "dateType"
+2 1 0.5029948 l "dateType"
+1 2 0.2346445 l "definition"
+2 1 0.5029948 l "definition"
+1 2 0.2346445 l "substring"
+2 1 0.5029948 l "substring"
+1 2 0.2346445 l "dateType"
+2 1 0.5029948 l "dateType"
+1 2 0.2346445 l "definition"
+2 1 0.5029948 l "definition"
+1 2 0.2346445 l "substring"
+2 1 0.5029948 l "substring"
+1 2 0.2346445 l "dateType"
+2 1 0.5029948 l "dateType"
+1 2 0.2346445 l "definition"
+2 1 0.5029948 l "definition"
+1 2 0.2346445 l "substring"
+2 1 0.5029948 l "substring"
+*Edges

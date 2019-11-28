@@ -1,0 +1,38 @@
+*Vertices 3
+1 "FemaleGenitalSystemSymptom" ellipse
+2 "GenitalSystemSymptom" ellipse
+3 "MaleGenitalSystemSymptom" ellipse
+*Arcs
+1 2 0.3677296 l "isa"
+2 1 0.3232461 l "isa"
+3 2 0.4133671 l "isa"
+2 3 0.3283608 l "isa"
+2 3 0.3283608 l "definition"
+3 2 0.4133671 l "definition"
+2 1 0.3232461 l "definition"
+1 2 0.3677296 l "definition"
+1 2 0.3677296 l "substring"
+2 1 0.3232461 l "substring"
+1 3 0.2301543 l "substring"
+3 1 0.2546880 l "substring"
+2 3 0.3283608 l "substring"
+3 2 0.4133671 l "substring"
+1 3 0.2301543 l "distance"
+3 1 0.2546880 l "distance"
+1 2 0.3677296 l "isa"
+2 1 0.3232461 l "isa"
+3 2 0.4133671 l "isa"
+2 3 0.3283608 l "isa"
+2 3 0.3283608 l "definition"
+3 2 0.4133671 l "definition"
+2 1 0.3232461 l "definition"
+1 2 0.3677296 l "definition"
+1 2 0.3677296 l "substring"
+2 1 0.3232461 l "substring"
+1 3 0.2301543 l "substring"
+3 1 0.2546880 l "substring"
+2 3 0.3283608 l "substring"
+3 2 0.4133671 l "substring"
+1 3 0.2301543 l "distance"
+3 1 0.2546880 l "distance"
+*Edges

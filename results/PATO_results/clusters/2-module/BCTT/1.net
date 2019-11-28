@@ -1,0 +1,115 @@
+*Vertices 36
+1 "Comparison of behavior" ellipse
+2 "Demonstration of the behavior" ellipse
+3 "Social comparison" ellipse
+4 "Information about others' approval" ellipse
+5 "Comparison of outcomes" ellipse
+6 "Credible source" ellipse
+7 "Pros and cons" ellipse
+8 "Comparative imagining of future outcomes" ellipse
+9 "Reward and threat" ellipse
+10 "Material incentive (behavior)" ellipse
+11 "Material reward (behavior)" ellipse
+12 "Non-specific reward" ellipse
+13 "Social reward" ellipse
+14 "Social incentive" ellipse
+15 "Non-specific incentive" ellipse
+16 "Self-incentive" ellipse
+17 "Incentive (outcome)" ellipse
+18 "Self-reward" ellipse
+19 "Reward (outcome)" ellipse
+20 "Future punishment" ellipse
+21 "Scheduled consequences" ellipse
+22 "Behavior cost" ellipse
+23 "Punishment" ellipse
+24 "Remove reward" ellipse
+25 "Reward approximation" ellipse
+26 "Rewarding completion" ellipse
+27 "Situation-specific reward" ellipse
+28 "Reward incompatible behavior" ellipse
+29 "Reward alternative behavior" ellipse
+30 "Reduce reward frequency" ellipse
+31 "Remove punishment" ellipse
+32 "Covert learning" ellipse
+33 "Imaginary punishment" ellipse
+34 "Imaginary reward" ellipse
+35 "Vicarious consequences" ellipse
+36 "Thing"
+*Arcs
+1 36 0.2500000 l "isa"
+36 1 0.0625000 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2500000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2500000 l "isa"
+5 36 0.2500000 l "isa"
+36 5 0.0625000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2500000 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2500000 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.2500000 l "isa"
+9 36 0.0833333 l "isa"
+36 9 0.0625000 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.0833333 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.0833333 l "isa"
+12 9 1.0000000 l "isa"
+9 12 0.0833333 l "isa"
+13 9 1.0000000 l "isa"
+9 13 0.0833333 l "isa"
+14 9 1.0000000 l "isa"
+9 14 0.0833333 l "isa"
+15 9 1.0000000 l "isa"
+9 15 0.0833333 l "isa"
+16 9 1.0000000 l "isa"
+9 16 0.0833333 l "isa"
+17 9 1.0000000 l "isa"
+9 17 0.0833333 l "isa"
+18 9 1.0000000 l "isa"
+9 18 0.0833333 l "isa"
+19 9 1.0000000 l "isa"
+9 19 0.0833333 l "isa"
+20 9 0.5000000 l "isa"
+9 20 0.0833333 l "isa"
+21 36 0.0909091 l "isa"
+36 21 0.0625000 l "isa"
+22 21 1.0000000 l "isa"
+21 22 0.0909091 l "isa"
+23 21 0.2500000 l "isa"
+21 23 0.0909091 l "isa"
+24 21 1.0000000 l "isa"
+21 24 0.0909091 l "isa"
+25 21 1.0000000 l "isa"
+21 25 0.0909091 l "isa"
+26 21 1.0000000 l "isa"
+21 26 0.0909091 l "isa"
+27 21 1.0000000 l "isa"
+21 27 0.0909091 l "isa"
+28 21 1.0000000 l "isa"
+21 28 0.0909091 l "isa"
+29 21 1.0000000 l "isa"
+21 29 0.0909091 l "isa"
+30 21 1.0000000 l "isa"
+21 30 0.0909091 l "isa"
+31 21 0.5000000 l "isa"
+21 31 0.0909091 l "isa"
+32 36 0.2500000 l "isa"
+36 32 0.0625000 l "isa"
+33 32 0.5000000 l "isa"
+32 33 0.2500000 l "isa"
+34 32 1.0000000 l "isa"
+32 34 0.2500000 l "isa"
+35 32 1.0000000 l "isa"
+32 35 0.2500000 l "isa"
+20 23 0.5000000 l "substring"
+23 20 0.2500000 l "substring"
+23 31 0.2500000 l "substring"
+31 23 0.5000000 l "substring"
+23 33 0.2500000 l "substring"
+33 23 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Medical_Site" ellipse
+2 "Primary_Care_Clinic" ellipse
+3 "primary_care_clinic"
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 0.1428571 l "isa"
+1 2 0.1428571 l "definition"
+2 1 0.2500000 l "definition"
+2 3 0.3750000 l "definition"
+3 2 1.0000000 l "definition"
+2 3 0.3750000 l "substring"
+3 2 1.0000000 l "substring"
+2 3 0.3750000 l "distance"
+3 2 1.0000000 l "distance"
+*Edges

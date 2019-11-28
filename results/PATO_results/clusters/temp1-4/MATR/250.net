@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Sussex" ellipse
+2 "Sussex" ellipse
+*Arcs
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+1 2 0.7932718 l "substring"
+2 1 0.7921307 l "substring"
+1 2 0.7932718 l "distance"
+2 1 0.7921307 l "distance"
+*Edges

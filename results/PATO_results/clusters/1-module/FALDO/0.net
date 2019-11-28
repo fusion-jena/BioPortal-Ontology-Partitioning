@@ -1,0 +1,47 @@
+*Vertices 16
+1 "Class"
+2 "Restriction"
+3 "C-Terminal position" ellipse
+4 "Indeterminate position within a range" ellipse
+5 "N-TerminalPosition" ellipse
+6 "nil"
+7 "end"
+8 "location"
+9 "Both strands position" ellipse
+10 "Forward/positive strand position" ellipse
+11 "List of regions" ellipse
+12 "One of positions" ellipse
+13 "Negative/reverse strand position" ellipse
+14 "Stranded position" ellipse
+15 "Seq" ellipse
+16 "Thing"
+*Arcs
+9 14 0.3333333 l "isa"
+14 9 0.1666667 l "isa"
+10 14 0.3333333 l "isa"
+14 10 0.1666667 l "isa"
+11 15 0.3333333 l "isa"
+15 11 0.2500000 l "isa"
+13 14 0.3333333 l "isa"
+14 13 0.1666667 l "isa"
+8 6 0.1428571 l "definition"
+6 8 0.0909091 l "definition"
+8 1 0.1428571 l "definition"
+1 8 0.1666667 l "definition"
+4 6 0.1000000 l "definition"
+6 4 0.0909091 l "definition"
+4 2 0.1000000 l "definition"
+2 4 0.1666667 l "definition"
+4 7 0.1000000 l "definition"
+7 4 0.2000000 l "definition"
+4 1 0.1000000 l "definition"
+1 4 0.1666667 l "definition"
+3 5 0.2500000 l "distance"
+5 3 0.2500000 l "distance"
+15 6 0.2500000 l "distance"
+6 15 0.0909091 l "distance"
+15 7 0.2500000 l "distance"
+7 15 0.2000000 l "distance"
+6 7 0.0909091 l "distance"
+7 6 0.2000000 l "distance"
+*Edges

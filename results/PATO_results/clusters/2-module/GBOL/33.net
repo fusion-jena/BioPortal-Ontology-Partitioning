@@ -1,0 +1,16 @@
+*Vertices 3
+1 "MiscRecomb" ellipse
+2 "RecombinationType" ellipse
+3 "recombinationType"
+*Arcs
+1 2 0.2857143 l "recombinationType"
+2 1 0.2857143 l "recombinationType"
+1 2 0.2857143 l "definition"
+2 1 0.2857143 l "definition"
+1 3 0.1428571 l "definition"
+3 1 0.2000000 l "definition"
+2 3 0.2857143 l "substring"
+3 2 0.4000000 l "substring"
+2 3 0.2857143 l "distance"
+3 2 0.4000000 l "distance"
+*Edges

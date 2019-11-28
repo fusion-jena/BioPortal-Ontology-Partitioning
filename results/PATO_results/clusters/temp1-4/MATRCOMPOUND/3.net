@@ -1,0 +1,36 @@
+*Vertices 3
+1 "MAMO_0000035" ellipse
+2 "MAMO_0000036" ellipse
+3 "MAMO_0000202" ellipse
+*Arcs
+2 1 0.0197597 l "isa"
+1 2 0.0205811 l "isa"
+3 2 0.0208012 l "isa"
+2 3 0.0197638 l "isa"
+1 2 0.0205811 l "distance"
+2 1 0.0197597 l "distance"
+1 3 0.0100959 l "distance"
+3 1 0.0102017 l "distance"
+2 3 0.0197638 l "distance"
+3 2 0.0208012 l "distance"
+2 1 0.0197597 l "isa"
+1 2 0.0205811 l "isa"
+3 2 0.0208012 l "isa"
+2 3 0.0197638 l "isa"
+1 2 0.0205811 l "distance"
+2 1 0.0197597 l "distance"
+1 3 0.0100959 l "distance"
+3 1 0.0102017 l "distance"
+2 3 0.0197638 l "distance"
+3 2 0.0208012 l "distance"
+2 1 0.0197597 l "isa"
+1 2 0.0205811 l "isa"
+3 2 0.0208012 l "isa"
+2 3 0.0197638 l "isa"
+1 2 0.0205811 l "distance"
+2 1 0.0197597 l "distance"
+1 3 0.0100959 l "distance"
+3 1 0.0102017 l "distance"
+2 3 0.0197638 l "distance"
+3 2 0.0208012 l "distance"
+*Edges

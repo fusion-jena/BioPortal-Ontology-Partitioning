@@ -1,0 +1,12 @@
+*Vertices 3
+1 "MD_Identifier" ellipse
+2 "EX_GeographicDescription" ellipse
+3 "geographicIdentifier"
+*Arcs
+2 1 0.3333333 l "geographicIdentifier"
+1 2 0.6666667 l "geographicIdentifier"
+2 3 0.1666667 l "definition"
+3 2 1.0000000 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.6666667 l "definition"
+*Edges

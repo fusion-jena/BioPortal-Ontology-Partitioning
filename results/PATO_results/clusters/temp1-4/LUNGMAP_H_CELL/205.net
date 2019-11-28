@@ -1,0 +1,31 @@
+*Vertices 4
+1 "trachea" ellipse
+2 "trachea bifurcation" ellipse
+3 "trachea lumen" ellipse
+4 "trachea wall" ellipse
+*Arcs
+2 1 0.4300466 l "definition"
+1 2 0.1066358 l "definition"
+3 1 0.4300466 l "definition"
+1 3 0.1066358 l "definition"
+4 1 0.2636490 l "definition"
+1 4 0.1002255 l "definition"
+1 2 0.1066358 l "substring"
+2 1 0.4300466 l "substring"
+1 3 0.1066358 l "substring"
+3 1 0.4300466 l "substring"
+1 4 0.1002255 l "substring"
+4 1 0.2636490 l "substring"
+2 1 0.4300466 l "definition"
+1 2 0.1066358 l "definition"
+3 1 0.4300466 l "definition"
+1 3 0.1066358 l "definition"
+4 1 0.2636490 l "definition"
+1 4 0.1002255 l "definition"
+1 2 0.1066358 l "substring"
+2 1 0.4300466 l "substring"
+1 3 0.1066358 l "substring"
+3 1 0.4300466 l "substring"
+1 4 0.1002255 l "substring"
+4 1 0.2636490 l "substring"
+*Edges

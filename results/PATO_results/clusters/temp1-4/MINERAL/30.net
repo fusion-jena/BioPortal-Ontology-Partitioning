@@ -1,0 +1,17 @@
+*Vertices 2
+1 "string"
+2 "enrichment" ellipse
+*Arcs
+2 1 0.6507937 l "ICD10"
+1 2 0.2213594 l "ICD10"
+2 1 0.6507937 l "MESH"
+1 2 0.2213594 l "MESH"
+2 1 0.6507937 l "UMLS"
+1 2 0.2213594 l "UMLS"
+2 1 0.6507937 l "ICD10"
+1 2 0.2213594 l "ICD10"
+2 1 0.6507937 l "MESH"
+1 2 0.2213594 l "MESH"
+2 1 0.6507937 l "UMLS"
+1 2 0.2213594 l "UMLS"
+*Edges

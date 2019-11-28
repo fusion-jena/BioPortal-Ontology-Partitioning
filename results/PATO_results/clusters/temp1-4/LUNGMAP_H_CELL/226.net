@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Leicester Longwool" ellipse
+2 "Leicester Longwool" ellipse
+*Arcs
+1 2 0.8382347 l "substring"
+2 1 0.8382347 l "substring"
+1 2 0.8382347 l "distance"
+2 1 0.8382347 l "distance"
+1 2 0.8382347 l "substring"
+2 1 0.8382347 l "substring"
+1 2 0.8382347 l "distance"
+2 1 0.8382347 l "distance"
+1 2 0.8382347 l "substring"
+2 1 0.8382347 l "substring"
+1 2 0.8382347 l "distance"
+2 1 0.8382347 l "distance"
+1 2 0.8382347 l "substring"
+2 1 0.8382347 l "substring"
+1 2 0.8382347 l "distance"
+2 1 0.8382347 l "distance"
+*Edges

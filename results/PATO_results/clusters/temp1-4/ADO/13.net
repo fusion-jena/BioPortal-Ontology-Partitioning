@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Limiting stimulation" ellipse
+2 "Providing the patient with rest" ellipse
+3 "Simplifying routines" ellipse
+4 "Teaching caregiver how to communicate and interact with Patients" ellipse
+5 "Using labels as a reminder" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1250000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1250000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1250000 l "isa"
+*Edges

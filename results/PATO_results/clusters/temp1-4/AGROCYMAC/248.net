@@ -1,0 +1,26 @@
+*Vertices 3
+1 "silage" ellipse
+2 "grass silage" ellipse
+3 "rye grass silage" ellipse
+*Arcs
+2 1 0.3822597 l "isa"
+1 2 0.0901291 l "isa"
+3 2 0.5607123 l "isa"
+2 3 0.4475526 l "isa"
+1 2 0.0901291 l "substring"
+2 1 0.3822597 l "substring"
+1 3 0.0416357 l "substring"
+3 1 0.2212359 l "substring"
+2 3 0.4475526 l "substring"
+3 2 0.5607123 l "substring"
+2 1 0.3822597 l "isa"
+1 2 0.0901291 l "isa"
+3 2 0.5607123 l "isa"
+2 3 0.4475526 l "isa"
+1 2 0.0901291 l "substring"
+2 1 0.3822597 l "substring"
+1 3 0.0416357 l "substring"
+3 1 0.2212359 l "substring"
+2 3 0.4475526 l "substring"
+3 2 0.5607123 l "substring"
+*Edges

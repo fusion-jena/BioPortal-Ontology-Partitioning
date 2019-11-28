@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Olanzapine" ellipse
+2 "clozapine" ellipse
+*Arcs
+1 2 0.2197910 l "distance"
+2 1 0.1591970 l "distance"
+1 2 0.2197910 l "distance"
+2 1 0.1591970 l "distance"
+1 2 0.2197910 l "distance"
+2 1 0.1591970 l "distance"
+*Edges

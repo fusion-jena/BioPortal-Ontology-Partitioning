@@ -1,0 +1,180 @@
+*Vertices 73
+1 "book" ellipse
+2 "copy" ellipse
+3 "K_i" ellipse
+4 "DNA Methylation" ellipse
+5 "DNA Methylation site" ellipse
+6 "protein Modification Adduction" ellipse
+7 "DNA Damage Base Alkylation" ellipse
+8 "DNA Damage Base Ethylation" ellipse
+9 "DNA Damage Base Methylation" ellipse
+10 "dephosphorylation Activating Protein Modification" ellipse
+11 "function" ellipse
+12 "glycation Inactivating Protein Modification" ellipse
+13 "phosphorylation Inactivating Protein Modification" ellipse
+14 "protein Modification Ligation" ellipse
+15 "merge" ellipse
+16 "move" ellipse
+17 "oxidation Inactivating Protein Modification" ellipse
+18 "Protein Modification" ellipse
+19 "protein modification reaction" ellipse
+20 "transcription unit" ellipse
+21 "TRNASynthClassII" ellipse
+22 "DNAABox" ellipse
+23 "DNA Binding Site" ellipse
+24 "DNA Ligation" ellipse
+25 "DNA Polymerization" ellipse
+26 "DNA Restriction Modification" ellipse
+27 "RNA processing" ellipse
+28 "TRNASynthClassII" ellipse
+29 "DNA Damage Base Amination" ellipse
+30 "DNA Damage Base Reduction" ellipse
+31 "computation" ellipse
+32 "decision" ellipse
+33 "float" ellipse
+34 "FunctionalDNAABox" ellipse
+35 "geneWiz Prediction" ellipse
+36 "insertion" ellipse
+37 "loci" ellipse
+38 "DNA Damage Photooxidation" ellipse
+39 "Post Translational Modification" ellipse
+40 "Promoter" ellipse
+41 "Promoter Flanking Region" ellipse
+42 "DNA Damage Radiation Induced Base Oxidation" ellipse
+43 "reactive oxygen species" ellipse
+44 "Replication" ellipse
+45 "Replication Initiation" ellipse
+46 "Replication Repair" ellipse
+47 "DNA Damage Spontaneous Base Deamination" ellipse
+48 "taxon" ellipse
+49 "Tranlsation" ellipse
+50 "Translation" ellipse
+51 "DNA Damage UvB Photodimerization" ellipse
+52 "K_m" ellipse
+53 "add metadata" ellipse
+54 "binomial distribution" ellipse
+55 "chi square distribution" ellipse
+56 "deletion" ellipse
+57 "dFBA reaction" ellipse
+58 "exponential distribution" ellipse
+59 "gamma distribution" ellipse
+60 "geometric distribution" ellipse
+61 "hypergeometric distribution" ellipse
+62 "k_cat" ellipse
+63 "log normal distribution" ellipse
+64 "metadata" ellipse
+65 "multivariate-normal distribution" ellipse
+66 "negative-binomial distribution" ellipse
+67 "noncentral-chi square distribution" ellipse
+68 "noncentral-f distribution" ellipse
+69 "normal distribution" ellipse
+70 "standard-exponential distribution" ellipse
+71 "standard-gamma distribution" ellipse
+72 "standard-normal distribution" ellipse
+73 "v_max" ellipse
+*Arcs
+6 19 0.2500000 l "isa"
+19 6 0.0909091 l "isa"
+10 19 0.2500000 l "isa"
+19 10 0.0909091 l "isa"
+12 19 0.2500000 l "isa"
+19 12 0.0909091 l "isa"
+13 19 0.2500000 l "isa"
+19 13 0.0909091 l "isa"
+14 19 0.2500000 l "isa"
+19 14 0.0909091 l "isa"
+17 19 0.2500000 l "isa"
+19 17 0.0909091 l "isa"
+40 37 0.3333333 l "isa"
+37 40 0.1000000 l "isa"
+20 37 0.2500000 l "isa"
+37 20 0.1000000 l "isa"
+22 34 0.3333333 l "substring"
+34 22 0.2000000 l "substring"
+4 5 0.2500000 l "substring"
+5 4 0.2500000 l "substring"
+21 28 0.2857143 l "substring"
+28 21 0.2857143 l "substring"
+6 18 0.2500000 l "substring"
+18 6 0.1000000 l "substring"
+10 18 0.2500000 l "substring"
+18 10 0.1000000 l "substring"
+11 34 0.2500000 l "substring"
+34 11 0.2000000 l "substring"
+12 18 0.2500000 l "substring"
+18 12 0.1000000 l "substring"
+13 18 0.2500000 l "substring"
+18 13 0.1000000 l "substring"
+14 18 0.2500000 l "substring"
+18 14 0.1000000 l "substring"
+17 18 0.2500000 l "substring"
+18 17 0.1000000 l "substring"
+39 50 0.3333333 l "substring"
+50 39 0.2500000 l "substring"
+40 41 0.3333333 l "substring"
+41 40 0.3333333 l "substring"
+18 19 0.1000000 l "substring"
+19 18 0.0909091 l "substring"
+44 45 0.2500000 l "substring"
+45 44 0.3333333 l "substring"
+44 46 0.2500000 l "substring"
+46 44 0.3333333 l "substring"
+53 64 0.3333333 l "substring"
+64 53 0.3333333 l "substring"
+54 66 0.3333333 l "substring"
+66 54 0.3333333 l "substring"
+55 67 0.3333333 l "substring"
+67 55 0.3333333 l "substring"
+58 70 0.3333333 l "substring"
+70 58 0.3333333 l "substring"
+59 71 0.3333333 l "substring"
+71 59 0.3333333 l "substring"
+60 61 0.3333333 l "substring"
+61 60 0.3333333 l "substring"
+63 69 0.3333333 l "substring"
+69 63 0.2000000 l "substring"
+65 69 0.3333333 l "substring"
+69 65 0.2000000 l "substring"
+69 72 0.2000000 l "substring"
+72 69 0.3333333 l "substring"
+21 28 0.2857143 l "distance"
+28 21 0.2857143 l "distance"
+7 8 0.2500000 l "distance"
+8 7 0.2000000 l "distance"
+8 9 0.2000000 l "distance"
+9 8 0.2500000 l "distance"
+1 2 0.2000000 l "distance"
+2 1 0.2000000 l "distance"
+1 37 0.2000000 l "distance"
+37 1 0.1000000 l "distance"
+1 16 0.2000000 l "distance"
+16 1 0.1111111 l "distance"
+2 37 0.2000000 l "distance"
+37 2 0.1000000 l "distance"
+2 16 0.2000000 l "distance"
+16 2 0.1111111 l "distance"
+32 56 0.3333333 l "distance"
+56 32 0.2500000 l "distance"
+33 37 0.3333333 l "distance"
+37 33 0.1000000 l "distance"
+33 62 0.3333333 l "distance"
+62 33 0.2000000 l "distance"
+37 16 0.1000000 l "distance"
+16 37 0.1111111 l "distance"
+37 3 0.1000000 l "distance"
+3 37 0.1428571 l "distance"
+15 16 0.2500000 l "distance"
+16 15 0.1111111 l "distance"
+49 50 0.3333333 l "distance"
+50 49 0.2500000 l "distance"
+3 52 0.1428571 l "distance"
+52 3 0.1428571 l "distance"
+3 62 0.1428571 l "distance"
+62 3 0.2000000 l "distance"
+52 62 0.1428571 l "distance"
+62 52 0.2000000 l "distance"
+52 73 0.1428571 l "distance"
+73 52 0.3333333 l "distance"
+62 73 0.2000000 l "distance"
+73 62 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,104 @@
+*Vertices 20
+1 "Complex Subject Type" ellipse
+2 "Complex Type" ellipse
+3 "Element" ellipse
+4 "Family Name
+      Element" ellipse
+5 "Fullname Element" ellipse
+6 "Genre/Form Element" ellipse
+7 "Geographic Element" ellipse
+8 "Given Name
+      Element" ellipse
+9 "Hierarchical Geographic Type" ellipse
+10 "Language Element" ellipse
+11 "Main Title
+      Element" ellipse
+12 "Name Element" ellipse
+13 "Name/Title Type" ellipse
+14 "Non-sort Element" ellipse
+15 "Subtitle Element" ellipse
+16 "Temporal Element" ellipse
+17 "Title Element" ellipse
+18 "Topic Element" ellipse
+19 "Restriction"
+20 "Element Value"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1818182 l "isa"
+4 12 0.5000000 l "isa"
+12 4 0.1250000 l "isa"
+5 12 0.6666667 l "isa"
+12 5 0.2500000 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.0689655 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.0689655 l "isa"
+8 12 0.5000000 l "isa"
+12 8 0.1250000 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.1818182 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.0689655 l "isa"
+11 17 0.5000000 l "isa"
+17 11 0.1111111 l "isa"
+12 3 0.2500000 l "isa"
+3 12 0.0689655 l "isa"
+13 2 0.6666667 l "isa"
+2 13 0.1818182 l "isa"
+14 17 0.5000000 l "isa"
+17 14 0.1111111 l "isa"
+15 17 0.7500000 l "isa"
+17 15 0.3333333 l "isa"
+16 3 1.0000000 l "isa"
+3 16 0.0689655 l "isa"
+17 3 0.2222222 l "isa"
+3 17 0.0689655 l "isa"
+18 3 1.0000000 l "isa"
+3 18 0.0689655 l "isa"
+2 19 0.0909091 l "definition"
+19 2 0.5000000 l "definition"
+2 13 0.1818182 l "definition"
+13 2 0.6666667 l "definition"
+2 1 0.1818182 l "definition"
+1 2 1.0000000 l "definition"
+2 9 0.1818182 l "definition"
+9 2 1.0000000 l "definition"
+3 19 0.0344828 l "definition"
+19 3 0.5000000 l "definition"
+3 20 0.0689655 l "definition"
+20 3 1.0000000 l "definition"
+3 4 0.0344828 l "substring"
+4 3 0.5000000 l "substring"
+3 5 0.0344828 l "substring"
+5 3 0.3333333 l "substring"
+3 6 0.0689655 l "substring"
+6 3 1.0000000 l "substring"
+3 7 0.0689655 l "substring"
+7 3 1.0000000 l "substring"
+3 8 0.0344828 l "substring"
+8 3 0.5000000 l "substring"
+3 10 0.0689655 l "substring"
+10 3 1.0000000 l "substring"
+3 11 0.0344828 l "substring"
+11 3 0.5000000 l "substring"
+3 12 0.0689655 l "substring"
+12 3 0.2500000 l "substring"
+3 14 0.0344828 l "substring"
+14 3 0.5000000 l "substring"
+3 15 0.0344828 l "substring"
+15 3 0.2500000 l "substring"
+3 16 0.0689655 l "substring"
+16 3 1.0000000 l "substring"
+3 17 0.0689655 l "substring"
+17 3 0.2222222 l "substring"
+3 18 0.0689655 l "substring"
+18 3 1.0000000 l "substring"
+3 20 0.0689655 l "substring"
+20 3 1.0000000 l "substring"
+5 12 0.6666667 l "substring"
+12 5 0.2500000 l "substring"
+15 17 0.7500000 l "substring"
+17 15 0.3333333 l "substring"
+15 17 0.7500000 l "distance"
+17 15 0.3333333 l "distance"
+*Edges

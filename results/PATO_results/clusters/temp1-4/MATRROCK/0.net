@@ -1,0 +1,11 @@
+*Vertices 6
+1 "Restriction"
+2 "hasGenesis"
+3 "SolidSubstance" ellipse
+4 "HeterogenousRock" ellipse
+5 "Melange" ellipse
+6 "Molasse" ellipse
+*Arcs
+5 6 0.5000000 l "distance"
+6 5 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,64 @@
+*Vertices 13
+1 "ICW-1:01.08.02.04 Handcraft" ellipse
+2 "ICW-1:01.08 Vocational Wellness" ellipse
+3 "ICW-1:01.08.02.02 Pottery" ellipse
+4 "ICW-1:01.08.04.03 Tutoring" ellipse
+5 "ICW-1:01.08.04.01 Group Volunteering - NOS" ellipse
+6 "ICW-1:01.08.02.03 Creative Arts - NOS" ellipse
+7 "ICW-1:01.08.04 Group Volunteering" ellipse
+8 "ICW-1:01.08.04.04 Teaching" ellipse
+9 "ICW-1:01.08.02 Creative Arts" ellipse
+10 "ICW-1:01.08.03 Individual Volunteering" ellipse
+11 "ICW-1:01.08.02.01 Art" ellipse
+12 "ICW-1:01.08.01 Vocational Wellness - NOS" ellipse
+13 "ICW-1:01.08.04.02 Mentoring" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.2105263 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.2105263 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.2105263 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.2105263 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.2105263 l "isa"
+7 2 0.1578947 l "isa"
+2 7 0.1777778 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2105263 l "isa"
+9 2 0.1578947 l "isa"
+2 9 0.1777778 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.2370370 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.2105263 l "isa"
+12 2 1.0000000 l "isa"
+2 12 0.2370370 l "isa"
+13 7 1.0000000 l "isa"
+7 13 0.2105263 l "isa"
+1 9 1.0000000 l "isa"
+9 1 0.2105263 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.2105263 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.2105263 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.2105263 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.2105263 l "isa"
+7 2 0.1578947 l "isa"
+2 7 0.1777778 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2105263 l "isa"
+9 2 0.1578947 l "isa"
+2 9 0.1777778 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.2370370 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.2105263 l "isa"
+12 2 1.0000000 l "isa"
+2 12 0.2370370 l "isa"
+13 7 1.0000000 l "isa"
+7 13 0.2105263 l "isa"
+*Edges

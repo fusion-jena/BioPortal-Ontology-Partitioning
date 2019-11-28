@@ -1,0 +1,10 @@
+*Vertices 3
+1 "ribosome_entry_site" ellipse
+2 "Shine_Dalgarno_sequence" ellipse
+3 "kozak_sequence" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2500000 l "isa"
+*Edges

@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Cohort effect" ellipse
+2 "descriptive statistical context" ellipse
+3 "dependent_continuant" ellipse
+*Arcs
+1 3 0.2536758 l "isa"
+3 1 0.0635290 l "isa"
+1 2 0.2520435 l "definition"
+2 1 0.0498912 l "definition"
+1 3 0.2536758 l "isa"
+3 1 0.0635290 l "isa"
+1 2 0.2520435 l "definition"
+2 1 0.0498912 l "definition"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "OWLClass_6f95ce9d_26ff_4672_9b4a_581fa6c2c25b" ellipse
+2 "ConceptTransformedFromRelation" ellipse
+*Arcs
+2 1 0.2500000 l "isa"
+1 2 1.0000000 l "isa"
+*Edges

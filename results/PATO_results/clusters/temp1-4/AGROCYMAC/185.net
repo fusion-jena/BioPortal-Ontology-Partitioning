@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hardness" ellipse
+2 "hard" ellipse
+*Arcs
+2 1 0.0465268 l "isa"
+1 2 0.5218741 l "isa"
+1 2 0.5218741 l "substring"
+2 1 0.0465268 l "substring"
+2 1 0.0465268 l "isa"
+1 2 0.5218741 l "isa"
+1 2 0.5218741 l "substring"
+2 1 0.0465268 l "substring"
+*Edges

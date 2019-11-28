@@ -1,0 +1,11 @@
+*Vertices 2
+1 "SCLER" ellipse
+2 "Multiple_Sclerosis" ellipse
+*Arcs
+1 2 0.0222617 l "substring"
+2 1 0.2695790 l "substring"
+1 2 0.0222617 l "substring"
+2 1 0.2695790 l "substring"
+1 2 0.0222617 l "substring"
+2 1 0.2695790 l "substring"
+*Edges

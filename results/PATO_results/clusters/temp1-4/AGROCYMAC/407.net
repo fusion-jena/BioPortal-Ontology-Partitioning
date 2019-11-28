@@ -1,0 +1,13 @@
+*Vertices 2
+1 "carbamate" ellipse
+2 "carbamic acid" ellipse
+*Arcs
+1 2 0.3063480 l "definition"
+2 1 0.1853315 l "definition"
+2 1 0.1853315 l "definition"
+1 2 0.3063480 l "definition"
+1 2 0.3063480 l "definition"
+2 1 0.1853315 l "definition"
+2 1 0.1853315 l "definition"
+1 2 0.3063480 l "definition"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Cell culture" ellipse
+2 "Primary neuronal cell culture" ellipse
+*Arcs
+2 1 0.3551324 l "isa"
+1 2 0.1222841 l "isa"
+1 2 0.1222841 l "substring"
+2 1 0.3551324 l "substring"
+2 1 0.3551324 l "isa"
+1 2 0.1222841 l "isa"
+1 2 0.1222841 l "substring"
+2 1 0.3551324 l "substring"
+*Edges

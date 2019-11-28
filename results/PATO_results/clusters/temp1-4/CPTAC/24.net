@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Acquired" ellipse
+2 "Habits" ellipse
+3 "Dispositions" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.4120976 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4120976 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4120976 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4120976 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4120976 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4120976 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4120976 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4120976 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.4120976 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.4120976 l "isa"
+*Edges

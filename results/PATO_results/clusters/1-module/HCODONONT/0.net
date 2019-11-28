@@ -1,0 +1,19 @@
+*Vertices 8
+1 "OWLClass_361594d5_4ce0_4b4e_acd0_79e1a28c6db0" ellipse
+2 "OWLClass_00000002845655527518" ellipse
+3 "OWLClass_61875009_e9eb_42d6_b362_32f282fdfd64" ellipse
+4 "OWLClass_aa5e68dc_6c7c_4cd7_86e1_609eb9f8e16b" ellipse
+5 "OWLClass_f44fdaeb_7c80_4a05_b61c_9e1c3f50b70e" ellipse
+6 "OWLClass_578d227e_044c_4184_b5da_0edd67661097" ellipse
+7 "OWLClass_998c598c_7752_42ce_9929_c915bee59e64" ellipse
+8 "OWLClass_b7e088c3_190f_48fc_bf00_3944c8149856" ellipse
+*Arcs
+2 1 0.1428571 l "definition"
+1 2 0.1250000 l "definition"
+2 3 0.1428571 l "definition"
+3 2 0.0666667 l "definition"
+2 4 0.1428571 l "definition"
+4 2 0.1666667 l "definition"
+2 5 0.1428571 l "definition"
+5 2 0.0714286 l "definition"
+*Edges

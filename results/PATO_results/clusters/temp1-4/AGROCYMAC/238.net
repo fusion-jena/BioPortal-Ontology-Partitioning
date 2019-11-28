@@ -1,0 +1,35 @@
+*Vertices 4
+1 "monoatomic anion" ellipse
+2 "monoatomic cation" ellipse
+3 "monoatomic ion" ellipse
+4 "monoatomic dication" ellipse
+*Arcs
+1 3 0.2409205 l "isa"
+3 1 0.2357605 l "isa"
+2 3 0.1760650 l "isa"
+3 2 0.2304023 l "isa"
+4 2 0.3624039 l "isa"
+2 4 0.1842541 l "isa"
+1 2 0.1081405 l "distance"
+2 1 0.0808671 l "distance"
+1 3 0.2409205 l "distance"
+3 1 0.2357605 l "distance"
+2 3 0.1760650 l "distance"
+3 2 0.2304023 l "distance"
+2 4 0.1842541 l "distance"
+4 2 0.3624039 l "distance"
+1 3 0.2409205 l "isa"
+3 1 0.2357605 l "isa"
+2 3 0.1760650 l "isa"
+3 2 0.2304023 l "isa"
+4 2 0.3624039 l "isa"
+2 4 0.1842541 l "isa"
+1 2 0.1081405 l "distance"
+2 1 0.0808671 l "distance"
+1 3 0.2409205 l "distance"
+3 1 0.2357605 l "distance"
+2 3 0.1760650 l "distance"
+3 2 0.2304023 l "distance"
+2 4 0.1842541 l "distance"
+4 2 0.3624039 l "distance"
+*Edges

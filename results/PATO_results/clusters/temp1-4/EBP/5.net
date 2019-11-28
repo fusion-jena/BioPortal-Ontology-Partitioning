@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Vocabulary" ellipse
+2 "Vocabulary Encoding Scheme" ellipse
+*Arcs
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+1 2 0.1895049 l "substring"
+2 1 0.1288537 l "substring"
+*Edges

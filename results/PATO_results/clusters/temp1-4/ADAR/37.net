@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Human_With_DSM-5_Diagnosis_definition_A_2" ellipse
+2 "Human_with_DSM-IV_definition_A_1_a" ellipse
+3 "Cinsges_Limited_Spotaneous_Use"
+4 "Cinsges_Inconsistant_Spontaneous_Use"
+*Arcs
+1 3 0.0243902 l "definition"
+3 1 0.5000000 l "definition"
+1 4 0.0243902 l "definition"
+4 1 0.5000000 l "definition"
+2 3 0.0217391 l "definition"
+3 2 0.5000000 l "definition"
+2 4 0.0217391 l "definition"
+4 2 0.5000000 l "definition"
+*Edges

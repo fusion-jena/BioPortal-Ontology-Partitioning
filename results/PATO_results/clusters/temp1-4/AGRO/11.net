@@ -1,0 +1,32 @@
+*Vertices 5
+1 "member role" ellipse
+2 "indexed member" ellipse
+3 "ordered member" ellipse
+4 "first member" ellipse
+5 "last member" ellipse
+*Arcs
+2 1 0.3375337 l "isa"
+1 2 0.1383256 l "isa"
+3 1 0.1881753 l "isa"
+1 3 0.1309482 l "isa"
+4 3 0.4736842 l "isa"
+3 4 0.2146789 l "isa"
+5 3 0.3506494 l "isa"
+3 5 0.2146789 l "isa"
+2 3 0.3420342 l "distance"
+3 2 0.2014271 l "distance"
+4 5 0.5263158 l "distance"
+5 4 0.3896104 l "distance"
+2 1 0.3375337 l "isa"
+1 2 0.1383256 l "isa"
+3 1 0.1881753 l "isa"
+1 3 0.1309482 l "isa"
+4 3 0.4736842 l "isa"
+3 4 0.2146789 l "isa"
+5 3 0.3506494 l "isa"
+3 5 0.2146789 l "isa"
+2 3 0.3420342 l "distance"
+3 2 0.2014271 l "distance"
+4 5 0.5263158 l "distance"
+5 4 0.3896104 l "distance"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "medical_condition" ellipse
+2 "past_history_and_chronic_diseases" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1666667 l "isa"
+*Edges

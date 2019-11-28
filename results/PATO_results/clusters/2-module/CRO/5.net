@@ -1,0 +1,15 @@
+*Vertices 4
+1 "preservation role" ellipse
+2 "archivist role" ellipse
+3 "conservator role" ellipse
+4 "digital preservation role" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.4000000 l "isa"
+1 4 0.4000000 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

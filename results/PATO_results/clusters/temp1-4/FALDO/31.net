@@ -1,0 +1,21 @@
+*Vertices 2
+1 "ClassOfFunctionalMapping" ellipse
+2 "FunctionalMapping" ellipse
+*Arcs
+1 2 0.5683115 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5683115 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.5683115 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5683115 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.5683115 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5683115 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.5683115 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.5683115 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

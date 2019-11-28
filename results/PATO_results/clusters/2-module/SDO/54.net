@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Mean Hemoglobin Oxygen (HB O2) Saturation during Sleep" ellipse
+2 "Mean hemoglobin oxygen (HB O2) saturation" ellipse
+*Arcs
+1 2 0.2222222 l "isa"
+2 1 0.4000000 l "isa"
+1 2 0.2222222 l "substring"
+2 1 0.4000000 l "substring"
+*Edges

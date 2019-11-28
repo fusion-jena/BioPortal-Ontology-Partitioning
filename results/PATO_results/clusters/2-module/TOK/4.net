@@ -1,0 +1,30 @@
+*Vertices 9
+1 "Concept" ellipse
+2 "Conceptual_Graph" ellipse
+3 "Database_Scheme" ellipse
+4 "Fact" ellipse
+5 "Frame" ellipse
+6 "Non_Logical_Approach" ellipse
+7 "Primitif_Concept" ellipse
+8 "Scenario" ellipse
+9 "UML_Diagram" ellipse
+*Arcs
+2 6 0.5000000 l "isa"
+6 2 0.1111111 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1111111 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.1111111 l "isa"
+7 1 0.4000000 l "isa"
+1 7 0.0769231 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.1111111 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.1111111 l "isa"
+1 2 0.0384615 l "substring"
+2 1 0.5000000 l "substring"
+1 7 0.0769231 l "substring"
+7 1 0.4000000 l "substring"
+4 5 0.0909091 l "distance"
+5 4 0.5000000 l "distance"
+*Edges

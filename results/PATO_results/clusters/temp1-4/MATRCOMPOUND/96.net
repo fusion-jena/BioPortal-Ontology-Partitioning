@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Bond" ellipse
+2 "Iomud" ellipse
+*Arcs
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+1 2 0.0602782 l "distance"
+2 1 0.3039383 l "distance"
+*Edges

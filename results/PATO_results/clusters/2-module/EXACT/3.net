@@ -1,0 +1,22 @@
+*Vertices 7
+1 "goal of experiment action" ellipse
+2 "mix" ellipse
+3 "protocol method" ellipse
+4 "(optional) protocol method" ellipse
+5 "descriptor of experimental action" ellipse
+6 "grow" ellipse
+7 "(optional) goal of experiment action" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.1000000 l "isa"
+3 5 0.2500000 l "isa"
+5 3 0.1000000 l "isa"
+2 3 0.0555556 l "definition"
+3 2 0.2500000 l "definition"
+6 3 0.0588235 l "definition"
+3 6 0.2500000 l "definition"
+1 7 0.5000000 l "substring"
+7 1 0.1666667 l "substring"
+3 4 0.2500000 l "substring"
+4 3 0.1666667 l "substring"
+*Edges

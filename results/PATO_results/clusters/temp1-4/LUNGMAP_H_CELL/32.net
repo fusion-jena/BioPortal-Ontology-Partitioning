@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Nguni" ellipse
+2 "Yonaguni" ellipse
+*Arcs
+1 2 0.1211233 l "distance"
+2 1 0.5283138 l "distance"
+1 2 0.1211233 l "distance"
+2 1 0.5283138 l "distance"
+1 2 0.1211233 l "distance"
+2 1 0.5283138 l "distance"
+1 2 0.1211233 l "distance"
+2 1 0.5283138 l "distance"
+*Edges

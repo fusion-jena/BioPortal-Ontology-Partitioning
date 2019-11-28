@@ -1,0 +1,18 @@
+*Vertices 3
+1 "EX_SpatialTemporalExtent" ellipse
+2 "spatialExtent"
+3 "extent"
+*Arcs
+1 2 0.0988895 l "definition"
+2 1 0.2633725 l "definition"
+1 3 0.0887296 l "substring"
+3 1 0.0618303 l "substring"
+2 3 0.2615686 l "substring"
+3 2 0.0684381 l "substring"
+1 2 0.0988895 l "definition"
+2 1 0.2633725 l "definition"
+1 3 0.0887296 l "substring"
+3 1 0.0618303 l "substring"
+2 3 0.2615686 l "substring"
+3 2 0.0684381 l "substring"
+*Edges

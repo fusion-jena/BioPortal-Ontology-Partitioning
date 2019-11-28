@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Cranial nerve disorders" ellipse
+2 "Pseudobulbar palsy" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+*Edges

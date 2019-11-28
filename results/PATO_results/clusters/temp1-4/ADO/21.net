@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Energy metabolism" ellipse
+2 "Glucose transport" ellipse
+3 "Oxidative stress" ellipse
+4 "Potassium transport" ellipse
+5 "Sodium transport" ellipse
+6 "Ubiquitination" ellipse
+7 "Molecular process" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.0344828 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.0344828 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.0344828 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.0344828 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.0344828 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.0344828 l "isa"
+*Edges

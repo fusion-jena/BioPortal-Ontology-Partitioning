@@ -1,0 +1,15 @@
+*Vertices 4
+1 "clinical audit" ellipse
+2 "file review" ellipse
+3 "medical records review" ellipse
+4 "records review" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.2500000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2500000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.5000000 l "isa"
+3 4 0.5000000 l "substring"
+4 3 0.2500000 l "substring"
+*Edges

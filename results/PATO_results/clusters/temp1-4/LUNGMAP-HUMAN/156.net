@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Pinto" ellipse
+2 "Pottok" ellipse
+3 "Poitou" ellipse
+*Arcs
+1 2 0.1455569 l "distance"
+2 1 0.3258811 l "distance"
+1 3 0.1455271 l "distance"
+3 1 0.3253033 l "distance"
+2 3 0.3812214 l "distance"
+3 2 0.3806234 l "distance"
+1 2 0.1455569 l "distance"
+2 1 0.3258811 l "distance"
+1 3 0.1455271 l "distance"
+3 1 0.3253033 l "distance"
+2 3 0.3812214 l "distance"
+3 2 0.3806234 l "distance"
+1 2 0.1455569 l "distance"
+2 1 0.3258811 l "distance"
+1 3 0.1455271 l "distance"
+3 1 0.3253033 l "distance"
+2 3 0.3812214 l "distance"
+3 2 0.3806234 l "distance"
+*Edges

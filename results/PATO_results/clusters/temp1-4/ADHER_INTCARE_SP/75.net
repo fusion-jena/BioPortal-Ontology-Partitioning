@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Attention_and_Focus" ellipse
+2 "Working_Memory" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.4470623 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4470623 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4470623 l "isa"
+*Edges

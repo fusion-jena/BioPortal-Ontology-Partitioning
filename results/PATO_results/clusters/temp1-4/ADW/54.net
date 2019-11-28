@@ -1,0 +1,9 @@
+*Vertices 2
+1 "glutathione peroxidase 1" ellipse
+2 "glutathione" ellipse
+*Arcs
+1 2 0.3978780 l "substring"
+2 1 0.3994334 l "substring"
+1 2 0.3978780 l "substring"
+2 1 0.3994334 l "substring"
+*Edges

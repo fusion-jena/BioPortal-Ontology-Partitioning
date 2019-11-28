@@ -1,0 +1,23 @@
+*Vertices 6
+1 "HBB" ellipse
+2 "IL1B" ellipse
+3 "KIF21B" ellipse
+4 "Rbp4" ellipse
+5 "UBE4B" ellipse
+6 "4-1BB" ellipse
+*Arcs
+1 2 0.0151515 l "distance"
+2 1 0.0149254 l "distance"
+1 4 0.0151515 l "distance"
+4 1 0.0312500 l "distance"
+1 5 0.0151515 l "distance"
+5 1 0.5000000 l "distance"
+1 6 0.0151515 l "distance"
+6 1 0.5000000 l "distance"
+2 3 0.0149254 l "distance"
+3 2 1.0000000 l "distance"
+2 6 0.0149254 l "distance"
+6 2 0.5000000 l "distance"
+4 5 0.0312500 l "distance"
+5 4 0.5000000 l "distance"
+*Edges

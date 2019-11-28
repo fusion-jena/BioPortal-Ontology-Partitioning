@@ -1,0 +1,16 @@
+*Vertices 5
+1 "DiscreteCharParsimonyLengthType" ellipse
+2 "DiscreteCharDistanceLengthType" ellipse
+3 "DiscreteCharLikelihoodLengthType" ellipse
+4 "DiscreteCharacterLengthType" ellipse
+5 "DiscreteCharBayesianLengthType" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1666667 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1666667 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "other" ellipse
+2 "nocturnal awakening with at least once a week with dyspnea and/or cough and/or wheezing in the absence of other medical conditions known to cause these symptoms" ellipse
+*Arcs
+2 1 0.1895777 l "isa"
+1 2 0.0650506 l "isa"
+1 2 0.0650506 l "substring"
+2 1 0.1895777 l "substring"
+2 1 0.1895777 l "isa"
+1 2 0.0650506 l "isa"
+1 2 0.0650506 l "substring"
+2 1 0.1895777 l "substring"
+*Edges

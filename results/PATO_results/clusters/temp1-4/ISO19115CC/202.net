@@ -1,0 +1,30 @@
+*Vertices 3
+1 "SCYL2" ellipse
+2 "TTYH1" ellipse
+3 "TTYH2" ellipse
+*Arcs
+1 3 0.0870272 l "distance"
+3 1 0.0873426 l "distance"
+2 3 0.0885131 l "distance"
+3 2 0.0876028 l "distance"
+1 3 0.0870272 l "distance"
+3 1 0.0873426 l "distance"
+2 3 0.0885131 l "distance"
+3 2 0.0876028 l "distance"
+1 3 0.0870272 l "distance"
+3 1 0.0873426 l "distance"
+2 3 0.0885131 l "distance"
+3 2 0.0876028 l "distance"
+1 3 0.0870272 l "distance"
+3 1 0.0873426 l "distance"
+2 3 0.0885131 l "distance"
+3 2 0.0876028 l "distance"
+1 3 0.0870272 l "distance"
+3 1 0.0873426 l "distance"
+2 3 0.0885131 l "distance"
+3 2 0.0876028 l "distance"
+1 3 0.0870272 l "distance"
+3 1 0.0873426 l "distance"
+2 3 0.0885131 l "distance"
+3 2 0.0876028 l "distance"
+*Edges

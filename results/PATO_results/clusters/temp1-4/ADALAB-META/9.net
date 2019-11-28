@@ -1,0 +1,24 @@
+*Vertices 5
+1 "HistologicalSample" ellipse
+2 "TissueSample" ellipse
+3 "usedBy"
+4 "issuedBy"
+5 "issues"
+*Arcs
+2 1 0.3368286 l "isa"
+1 2 0.1380893 l "isa"
+2 5 0.3425376 l "substring"
+5 2 0.1762485 l "substring"
+3 4 0.1570495 l "distance"
+4 3 0.3366686 l "distance"
+4 5 0.3399058 l "distance"
+5 4 0.1762485 l "distance"
+2 1 0.3368286 l "isa"
+1 2 0.1380893 l "isa"
+2 5 0.3425376 l "substring"
+5 2 0.1762485 l "substring"
+3 4 0.1570495 l "distance"
+4 3 0.3366686 l "distance"
+4 5 0.3399058 l "distance"
+5 4 0.1762485 l "distance"
+*Edges

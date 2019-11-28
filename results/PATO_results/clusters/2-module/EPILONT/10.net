@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Autosomal dominant nocturnal frontal lobe epilepsy" ellipse
+2 "Benign familial infantile seizures" ellipse
+3 "Benign familial neonatal seizures" ellipse
+4 "Epilepsias focais familiares (Autosómicas Dominantes)" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1666667 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "nitrogen hydride" ellipse
+2 "pnictogen hydride" ellipse
+*Arcs
+1 2 0.2542673 l "isa"
+2 1 0.4289238 l "isa"
+1 2 0.2542673 l "distance"
+2 1 0.4289238 l "distance"
+1 2 0.2542673 l "isa"
+2 1 0.4289238 l "isa"
+1 2 0.2542673 l "distance"
+2 1 0.4289238 l "distance"
+*Edges

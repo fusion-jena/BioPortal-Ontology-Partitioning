@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Amantadine" ellipse
+2 "Fatigue_Drugs" ellipse
+3 "therapy using Methylphenidate" ellipse
+4 "Modafinil" ellipse
+5 "Pemoline" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1666667 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1666667 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1666667 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1666667 l "isa"
+*Edges

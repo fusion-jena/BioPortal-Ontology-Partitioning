@@ -1,0 +1,19 @@
+*Vertices 2
+1 "brain" ellipse
+2 "in_anterior_side_of"
+*Arcs
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.2369308 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

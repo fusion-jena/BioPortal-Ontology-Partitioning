@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Therapy-related myelodysplastic syndrome, NOS" ellipse
+2 "Myelodysplastic syndrome, NOS" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

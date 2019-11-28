@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Mammography" ellipse
+2 "Tomography" ellipse
+*Arcs
+1 2 0.3941572 l "distance"
+2 1 0.2705613 l "distance"
+1 2 0.3941572 l "distance"
+2 1 0.2705613 l "distance"
+1 2 0.3941572 l "distance"
+2 1 0.2705613 l "distance"
+*Edges

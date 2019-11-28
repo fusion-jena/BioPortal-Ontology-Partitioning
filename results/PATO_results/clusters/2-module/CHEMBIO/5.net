@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Acetylation" ellipse
+2 "Farnesylation" ellipse
+3 "Geranoylation" ellipse
+4 "Lipidation" ellipse
+5 "Myristoylation" ellipse
+6 "Palmitoylation" ellipse
+7 "Prenylation" ellipse
+*Arcs
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1250000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1250000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1250000 l "isa"
+7 4 0.5000000 l "isa"
+4 7 0.1250000 l "isa"
+1 7 0.1428571 l "distance"
+7 1 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Kept_from_Getting_Necessities_by_Lack_of_Transportation" ellipse
+2 "Necessities" ellipse
+*Arcs
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+1 2 0.3796778 l "definition"
+2 1 0.8393677 l "definition"
+1 2 0.3796778 l "substring"
+2 1 0.8393677 l "substring"
+*Edges

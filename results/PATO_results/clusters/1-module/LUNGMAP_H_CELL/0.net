@@ -1,0 +1,74 @@
+*Vertices 13
+1 "club cell" ellipse
+2 "neuroendocrine cell" ellipse
+3 "neuroepithelial body" ellipse
+4 "bronchiolar epithelial cell" ellipse
+5 "ciliated cell" ellipse
+6 "serous cell" ellipse
+7 "unclassified epithelial cell" ellipse
+8 "terminal bronchiolar epithelial cell" ellipse
+9 "membranous bronchiolar epithelial cell" ellipse
+10 "mucus cell" ellipse
+11 "pericyte" ellipse
+12 "subendothelial connective tissue cell" ellipse
+13 "respiratory bronchiolar epithelial cell" ellipse
+*Arcs
+5 8 0.1428571 l "isa"
+8 5 0.1000000 l "isa"
+5 4 0.1428571 l "isa"
+4 5 0.0909091 l "isa"
+5 13 0.1428571 l "isa"
+13 5 0.1250000 l "isa"
+5 9 0.1428571 l "isa"
+9 5 0.1000000 l "isa"
+1 8 0.1666667 l "isa"
+8 1 0.1000000 l "isa"
+1 4 0.1666667 l "isa"
+4 1 0.0909091 l "isa"
+1 13 0.1666667 l "isa"
+13 1 0.1250000 l "isa"
+1 9 0.1666667 l "isa"
+9 1 0.1000000 l "isa"
+10 8 0.1666667 l "isa"
+8 10 0.1000000 l "isa"
+10 9 0.1666667 l "isa"
+9 10 0.1000000 l "isa"
+2 3 0.1428571 l "isa"
+3 2 0.1666667 l "isa"
+2 8 0.1428571 l "isa"
+8 2 0.1000000 l "isa"
+2 4 0.1428571 l "isa"
+4 2 0.0909091 l "isa"
+2 13 0.1428571 l "isa"
+13 2 0.1250000 l "isa"
+2 9 0.1428571 l "isa"
+9 2 0.1000000 l "isa"
+3 8 0.1666667 l "isa"
+8 3 0.1000000 l "isa"
+3 4 0.1666667 l "isa"
+4 3 0.0909091 l "isa"
+3 13 0.1666667 l "isa"
+13 3 0.1250000 l "isa"
+3 9 0.1666667 l "isa"
+9 3 0.1000000 l "isa"
+11 12 0.2500000 l "isa"
+12 11 0.2500000 l "isa"
+6 8 0.2000000 l "isa"
+8 6 0.1000000 l "isa"
+6 9 0.2000000 l "isa"
+9 6 0.1000000 l "isa"
+7 8 0.1250000 l "isa"
+8 7 0.1000000 l "isa"
+7 4 0.1250000 l "isa"
+4 7 0.0909091 l "isa"
+7 13 0.1250000 l "isa"
+13 7 0.1250000 l "isa"
+7 9 0.1250000 l "isa"
+9 7 0.1000000 l "isa"
+8 4 0.1000000 l "substring"
+4 8 0.0909091 l "substring"
+4 13 0.0909091 l "substring"
+13 4 0.1250000 l "substring"
+4 9 0.0909091 l "substring"
+9 4 0.1000000 l "substring"
+*Edges

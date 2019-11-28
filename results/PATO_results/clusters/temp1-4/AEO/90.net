@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Afferent" ellipse
+2 "Efferent" ellipse
+*Arcs
+1 2 0.3732254 l "distance"
+2 1 0.3732254 l "distance"
+1 2 0.3732254 l "distance"
+2 1 0.3732254 l "distance"
+1 2 0.3732254 l "distance"
+2 1 0.3732254 l "distance"
+*Edges

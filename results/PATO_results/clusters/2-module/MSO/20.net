@@ -1,0 +1,13 @@
+*Vertices 4
+1 "EPHX2" ellipse
+2 "IFI44" ellipse
+3 "ZFAT" ellipse
+4 "ZFHX4" ellipse
+*Arcs
+1 4 0.1666667 l "distance"
+4 1 0.3333333 l "distance"
+2 4 0.0666667 l "distance"
+4 2 0.3333333 l "distance"
+3 4 0.0333333 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

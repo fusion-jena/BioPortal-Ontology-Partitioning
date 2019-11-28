@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Association Rule Learning" ellipse
+2 "Clustering" ellipse
+3 "Supervised Learning" ellipse
+4 "Unsupervised Learning" ellipse
+*Arcs
+1 4 0.1471465 l "isa"
+4 1 0.0794393 l "isa"
+2 4 0.1471465 l "isa"
+4 2 0.0794393 l "isa"
+3 4 0.1800972 l "substring"
+4 3 0.1660885 l "substring"
+3 4 0.1800972 l "distance"
+4 3 0.1660885 l "distance"
+1 4 0.1471465 l "isa"
+4 1 0.0794393 l "isa"
+2 4 0.1471465 l "isa"
+4 2 0.0794393 l "isa"
+3 4 0.1800972 l "substring"
+4 3 0.1660885 l "substring"
+3 4 0.1800972 l "distance"
+4 3 0.1660885 l "distance"
+*Edges

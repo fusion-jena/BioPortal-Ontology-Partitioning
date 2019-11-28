@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Maltese" ellipse
+2 "Massese" ellipse
+3 "Murgese" ellipse
+*Arcs
+1 2 0.3476563 l "distance"
+2 1 0.3476563 l "distance"
+1 3 0.3476563 l "distance"
+3 1 0.3476306 l "distance"
+2 3 0.3476563 l "distance"
+3 2 0.3476306 l "distance"
+1 2 0.3476563 l "distance"
+2 1 0.3476563 l "distance"
+1 3 0.3476563 l "distance"
+3 1 0.3476306 l "distance"
+2 3 0.3476563 l "distance"
+3 2 0.3476306 l "distance"
+*Edges

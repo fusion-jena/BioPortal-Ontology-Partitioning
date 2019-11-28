@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Mass_Media" ellipse
+2 "News_Media" ellipse
+*Arcs
+1 2 0.6228627 l "distance"
+2 1 0.5918051 l "distance"
+1 2 0.6228627 l "distance"
+2 1 0.5918051 l "distance"
+1 2 0.6228627 l "distance"
+2 1 0.5918051 l "distance"
+1 2 0.6228627 l "distance"
+2 1 0.5918051 l "distance"
+*Edges

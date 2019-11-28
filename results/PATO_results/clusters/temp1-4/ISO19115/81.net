@@ -1,0 +1,13 @@
+*Vertices 2
+1 "FC_ListedValue" ellipse
+2 "listedValue"
+*Arcs
+1 2 0.1556297 l "substring"
+2 1 0.5602335 l "substring"
+1 2 0.1556297 l "distance"
+2 1 0.5602335 l "distance"
+1 2 0.1556297 l "substring"
+2 1 0.5602335 l "substring"
+1 2 0.1556297 l "distance"
+2 1 0.5602335 l "distance"
+*Edges

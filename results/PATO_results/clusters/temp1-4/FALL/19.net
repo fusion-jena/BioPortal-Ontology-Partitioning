@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Bag of regions" ellipse
+2 "Bag" ellipse
+*Arcs
+1 2 0.5364239 l "isa"
+2 1 0.1877542 l "isa"
+1 2 0.5364239 l "substring"
+2 1 0.1877542 l "substring"
+1 2 0.5364239 l "isa"
+2 1 0.1877542 l "isa"
+1 2 0.5364239 l "substring"
+2 1 0.1877542 l "substring"
+*Edges

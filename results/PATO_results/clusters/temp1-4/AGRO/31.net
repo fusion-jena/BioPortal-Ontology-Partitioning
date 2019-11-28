@@ -1,0 +1,26 @@
+*Vertices 7
+1 "behavior" ellipse
+2 "feeding behavior" ellipse
+3 "biological_process" ellipse
+4 "response to stimulus" ellipse
+5 "multi-organism behavior" ellipse
+6 "acquisition of nutrients from other organism during symbiotic interaction" ellipse
+7 "realized in response to stimulus"
+*Arcs
+1 4 0.1666667 l "isa"
+4 1 0.3333333 l "isa"
+2 1 0.6666667 l "isa"
+1 2 0.3333333 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.1428571 l "isa"
+5 1 0.4000000 l "isa"
+1 5 0.3333333 l "isa"
+6 2 0.1428571 l "isa"
+2 6 0.3333333 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.6666667 l "substring"
+1 5 0.3333333 l "substring"
+5 1 0.4000000 l "substring"
+4 7 0.3333333 l "substring"
+7 4 0.1428571 l "substring"
+*Edges

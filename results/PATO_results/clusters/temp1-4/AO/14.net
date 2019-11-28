@@ -1,0 +1,34 @@
+*Vertices 3
+1 "Non-Polar" ellipse
+2 "Polar" ellipse
+3 "Polarity" ellipse
+*Arcs
+1 3 0.1790210 l "isa"
+3 1 0.1710987 l "isa"
+2 3 0.0617613 l "isa"
+3 2 0.3501247 l "isa"
+3 2 0.3501247 l "definition"
+2 3 0.0617613 l "definition"
+3 1 0.1710987 l "definition"
+1 3 0.1790210 l "definition"
+1 2 0.0804385 l "substring"
+2 1 0.0135613 l "substring"
+2 3 0.0617613 l "substring"
+3 2 0.3501247 l "substring"
+2 3 0.0617613 l "distance"
+3 2 0.3501247 l "distance"
+1 3 0.1790210 l "isa"
+3 1 0.1710987 l "isa"
+2 3 0.0617613 l "isa"
+3 2 0.3501247 l "isa"
+3 2 0.3501247 l "definition"
+2 3 0.0617613 l "definition"
+3 1 0.1710987 l "definition"
+1 3 0.1790210 l "definition"
+1 2 0.0804385 l "substring"
+2 1 0.0135613 l "substring"
+2 3 0.0617613 l "substring"
+3 2 0.3501247 l "substring"
+2 3 0.0617613 l "distance"
+3 2 0.3501247 l "distance"
+*Edges

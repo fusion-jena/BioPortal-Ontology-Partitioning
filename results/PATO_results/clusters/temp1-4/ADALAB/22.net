@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Protein" ellipse
+2 "ReceptorProtein" ellipse
+3 "Troponin" ellipse
+4 "TroponinTest" ellipse
+*Arcs
+2 1 0.5517806 l "isa"
+1 2 0.1480829 l "isa"
+3 1 0.4472557 l "isa"
+1 3 0.0687664 l "isa"
+1 2 0.1480829 l "substring"
+2 1 0.5517806 l "substring"
+3 4 0.5527443 l "substring"
+4 3 0.4131076 l "substring"
+2 1 0.5517806 l "isa"
+1 2 0.1480829 l "isa"
+3 1 0.4472557 l "isa"
+1 3 0.0687664 l "isa"
+1 2 0.1480829 l "substring"
+2 1 0.5517806 l "substring"
+3 4 0.5527443 l "substring"
+4 3 0.4131076 l "substring"
+2 1 0.5517806 l "isa"
+1 2 0.1480829 l "isa"
+3 1 0.4472557 l "isa"
+1 3 0.0687664 l "isa"
+1 2 0.1480829 l "substring"
+2 1 0.5517806 l "substring"
+3 4 0.5527443 l "substring"
+4 3 0.4131076 l "substring"
+*Edges

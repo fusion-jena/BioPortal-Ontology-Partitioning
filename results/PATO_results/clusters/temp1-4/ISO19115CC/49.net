@@ -1,0 +1,9 @@
+*Vertices 2
+1 "latitudeOfProjectionCenter"
+2 "longitudeOfProjectionCenter"
+*Arcs
+1 2 0.2584117 l "distance"
+2 1 0.2124397 l "distance"
+1 2 0.2584117 l "distance"
+2 1 0.2124397 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Suburban" ellipse
+2 "Urban" ellipse
+*Arcs
+1 2 0.7010869 l "substring"
+2 1 0.2498083 l "substring"
+1 2 0.7010869 l "distance"
+2 1 0.2498083 l "distance"
+1 2 0.7010869 l "substring"
+2 1 0.2498083 l "substring"
+1 2 0.7010869 l "distance"
+2 1 0.2498083 l "distance"
+*Edges

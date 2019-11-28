@@ -1,0 +1,35 @@
+*Vertices 18
+1 "allogeny" ellipse
+2 "parallelism" ellipse
+3 "partial homology" ellipse
+4 "1 to 1 homology" ellipse
+5 "ohnology" ellipse
+6 "pro-orthology" ellipse
+7 "serial homology" ellipse
+8 "many to many homology" ellipse
+9 "1 to many homology" ellipse
+10 "deep homology" ellipse
+11 "apparent orthology" ellipse
+12 "homoeology" ellipse
+13 "synology" ellipse
+14 "hemiplasy" ellipse
+15 "pseudoparalogy" ellipse
+16 "interology" ellipse
+17 "plerology" ellipse
+18 "regulogy" ellipse
+*Arcs
+10 2 0.3333333 l "isa"
+2 10 0.3333333 l "isa"
+11 4 0.3333333 l "isa"
+4 11 0.2500000 l "isa"
+12 5 0.3333333 l "isa"
+5 12 0.1666667 l "isa"
+12 13 0.3333333 l "isa"
+13 12 0.2000000 l "isa"
+3 7 0.3333333 l "distance"
+7 3 0.3333333 l "distance"
+5 13 0.1666667 l "distance"
+13 5 0.2000000 l "distance"
+16 17 0.5000000 l "distance"
+17 16 0.2500000 l "distance"
+*Edges

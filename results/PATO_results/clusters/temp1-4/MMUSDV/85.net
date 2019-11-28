@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Equatorial Guinea" ellipse
+2 "Guinea" ellipse
+*Arcs
+1 2 0.1721911 l "substring"
+2 1 0.0949867 l "substring"
+1 2 0.1721911 l "substring"
+2 1 0.0949867 l "substring"
+*Edges

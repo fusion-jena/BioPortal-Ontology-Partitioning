@@ -1,0 +1,29 @@
+*Vertices 6
+1 "left lung pre-alveolar parenchyma" ellipse
+2 "left lung" ellipse
+3 "left lung alveolar parenchyma" ellipse
+4 "left lung bronchiole" ellipse
+5 "left lung visceral pleura" ellipse
+6 "left lung hilum" ellipse
+*Arcs
+1 2 0.2222222 l "definition"
+2 1 0.1333333 l "definition"
+3 2 0.2500000 l "definition"
+2 3 0.1333333 l "definition"
+4 2 0.2500000 l "definition"
+2 4 0.1333333 l "definition"
+5 2 0.3333333 l "definition"
+2 5 0.1333333 l "definition"
+6 2 0.4000000 l "definition"
+2 6 0.1333333 l "definition"
+1 2 0.2222222 l "substring"
+2 1 0.1333333 l "substring"
+2 3 0.1333333 l "substring"
+3 2 0.2500000 l "substring"
+2 4 0.1333333 l "substring"
+4 2 0.2500000 l "substring"
+2 5 0.1333333 l "substring"
+5 2 0.3333333 l "substring"
+2 6 0.1333333 l "substring"
+6 2 0.4000000 l "substring"
+*Edges

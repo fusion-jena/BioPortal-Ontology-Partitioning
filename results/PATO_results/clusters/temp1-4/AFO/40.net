@@ -1,0 +1,31 @@
+*Vertices 6
+1 "list index" ellipse
+2 "index" ellipse
+3 "matrix index" ellipse
+4 "tensor index" ellipse
+5 "vector index" ellipse
+6 "peak index" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.0800000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0800000 l "isa"
+4 2 0.6666667 l "isa"
+2 4 0.0800000 l "isa"
+5 2 0.6666667 l "isa"
+2 5 0.0800000 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.0800000 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.0800000 l "substring"
+2 3 0.0800000 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.0800000 l "substring"
+4 2 0.6666667 l "substring"
+2 5 0.0800000 l "substring"
+5 2 0.6666667 l "substring"
+2 6 0.0800000 l "substring"
+6 2 0.5000000 l "substring"
+4 5 0.3333333 l "distance"
+5 4 0.3333333 l "distance"
+*Edges

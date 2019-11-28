@@ -1,0 +1,13 @@
+*Vertices 4
+1 "_Clinical diagnosis" ellipse
+2 "Diagnosis" ellipse
+3 "Prognosis" ellipse
+4 "differential diagnosis" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.2000000 l "substring"
+2 4 0.2000000 l "substring"
+4 2 1.0000000 l "substring"
+2 3 0.2000000 l "distance"
+3 2 1.0000000 l "distance"
+*Edges

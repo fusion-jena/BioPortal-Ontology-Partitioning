@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Perinatal finding" ellipse
+2 "Clinical history and observation findings" ellipse
+3 "Finding of birth outcome" ellipse
+4 "Birth" ellipse
+*Arcs
+1 2 0.2728778 l "isa"
+2 1 0.1619086 l "isa"
+3 1 0.1409869 l "isa"
+1 3 0.2686864 l "isa"
+4 3 0.0966102 l "isa"
+3 4 0.2767131 l "isa"
+3 4 0.2767131 l "substring"
+4 3 0.0966102 l "substring"
+1 2 0.2728778 l "isa"
+2 1 0.1619086 l "isa"
+3 1 0.1409869 l "isa"
+1 3 0.2686864 l "isa"
+4 3 0.0966102 l "isa"
+3 4 0.2767131 l "isa"
+3 4 0.2767131 l "substring"
+4 3 0.0966102 l "substring"
+1 2 0.2728778 l "isa"
+2 1 0.1619086 l "isa"
+3 1 0.1409869 l "isa"
+1 3 0.2686864 l "isa"
+4 3 0.0966102 l "isa"
+3 4 0.2767131 l "isa"
+3 4 0.2767131 l "substring"
+4 3 0.0966102 l "substring"
+*Edges

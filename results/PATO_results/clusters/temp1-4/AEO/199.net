@@ -1,0 +1,24 @@
+*Vertices 3
+1 "thing related to morbidity" ellipse
+2 "thing related to prevalence" ellipse
+3 "morbidity context" ellipse
+*Arcs
+2 1 0.1321523 l "isa"
+1 2 0.1192009 l "isa"
+1 3 0.1274390 l "definition"
+3 1 0.2137550 l "definition"
+2 3 0.1427962 l "definition"
+3 2 0.2160408 l "definition"
+2 1 0.1321523 l "isa"
+1 2 0.1192009 l "isa"
+1 3 0.1274390 l "definition"
+3 1 0.2137550 l "definition"
+2 3 0.1427962 l "definition"
+3 2 0.2160408 l "definition"
+2 1 0.1321523 l "isa"
+1 2 0.1192009 l "isa"
+1 3 0.1274390 l "definition"
+3 1 0.2137550 l "definition"
+2 3 0.1427962 l "definition"
+3 2 0.2160408 l "definition"
+*Edges

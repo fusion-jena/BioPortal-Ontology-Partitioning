@@ -1,0 +1,28 @@
+*Vertices 9
+1 "Excel" ellipse
+2 "Galaxy" ellipse
+3 "Hadoop" ellipse
+4 "MATLAB/Octave" ellipse
+5 "Python" ellipse
+6 "Unix/Linux" ellipse
+7 "XML" ellipse
+8 "Programming Tool" ellipse
+9 "C/C++" ellipse
+*Arcs
+1 8 0.5000000 l "isa"
+8 1 0.0666667 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0666667 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0666667 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.0666667 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0666667 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0666667 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0666667 l "isa"
+1 7 0.5000000 l "distance"
+7 1 0.1250000 l "distance"
+*Edges

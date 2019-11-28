@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Bayley_Scales_of_Infant_Development" ellipse
+2 "Developmental_Measures" ellipse
+3 "DevelopmentalMeasures" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3333333 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 1.0000000 l "distance"
+3 2 0.6666667 l "distance"
+*Edges

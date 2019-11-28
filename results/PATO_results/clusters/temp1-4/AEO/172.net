@@ -1,0 +1,30 @@
+*Vertices 3
+1 "diabetes" ellipse
+2 "type 2 diabetes mellitus" ellipse
+3 "type 3 diabetes" ellipse
+*Arcs
+2 1 0.7869935 l "isa"
+1 2 0.3126929 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3483078 l "isa"
+1 2 0.3126929 l "substring"
+2 1 0.7869935 l "substring"
+1 3 0.3483078 l "substring"
+3 1 1.0000000 l "substring"
+2 1 0.7869935 l "isa"
+1 2 0.3126929 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3483078 l "isa"
+1 2 0.3126929 l "substring"
+2 1 0.7869935 l "substring"
+1 3 0.3483078 l "substring"
+3 1 1.0000000 l "substring"
+2 1 0.7869935 l "isa"
+1 2 0.3126929 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3483078 l "isa"
+1 2 0.3126929 l "substring"
+2 1 0.7869935 l "substring"
+1 3 0.3483078 l "substring"
+3 1 1.0000000 l "substring"
+*Edges

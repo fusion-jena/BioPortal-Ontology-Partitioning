@@ -1,0 +1,29 @@
+*Vertices 10
+1 "int"
+2 "Family" ellipse
+3 "reaction_type"
+4 "SuperfamilyDomain" ellipse
+5 "ConservedChemicalCapability" ellipse
+6 "ConservedFunctionalResidue" ellipse
+7 "FDSchemeAssociation" ellipse
+8 "FunctionalDomain" ellipse
+9 "ReactionScheme" ellipse
+10 "Subgroup" ellipse
+*Arcs
+8 7 0.0666667 l "hasFDSchemeAssoc"
+7 8 0.3333333 l "hasFDSchemeAssoc"
+9 7 0.1428571 l "hasSchemeFDAssoc"
+7 9 0.3333333 l "hasSchemeFDAssoc"
+10 10 0.3333333 l "hasSubSub"
+10 10 0.3333333 l "hasSubSub"
+2 2 0.2500000 l "hasSubfam"
+2 2 0.2500000 l "hasSubfam"
+5 9 0.3333333 l "isComponentOf"
+9 5 0.1428571 l "isComponentOf"
+2 10 0.1250000 l "isMemberOfSub"
+10 2 0.1666667 l "isMemberOfSub"
+4 8 0.1428571 l "isSFDomainOfFD"
+8 4 0.0666667 l "isSFDomainOfFD"
+2 4 0.1250000 l "substring"
+4 2 0.1428571 l "substring"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 2
+1 "hot pack" ellipse
+2 "ice pack" ellipse
+*Arcs
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+1 2 0.7327970 l "distance"
+2 1 0.7327970 l "distance"
+*Edges

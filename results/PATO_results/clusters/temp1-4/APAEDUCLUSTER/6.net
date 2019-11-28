@@ -1,0 +1,13 @@
+*Vertices 2
+1 "CHOR" ellipse
+2 "Chorea" ellipse
+*Arcs
+1 2 0.0203847 l "substring"
+2 1 0.1365999 l "substring"
+1 2 0.0203847 l "distance"
+2 1 0.1365999 l "distance"
+1 2 0.0203847 l "substring"
+2 1 0.1365999 l "substring"
+1 2 0.0203847 l "distance"
+2 1 0.1365999 l "distance"
+*Edges

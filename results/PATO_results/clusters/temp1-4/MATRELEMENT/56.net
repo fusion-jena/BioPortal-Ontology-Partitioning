@@ -1,0 +1,17 @@
+*Vertices 2
+1 "GreenhouseGas" ellipse
+2 "Gas"
+*Arcs
+1 2 0.4324528 l "definition"
+2 1 0.0537268 l "definition"
+1 2 0.4324528 l "substring"
+2 1 0.0537268 l "substring"
+1 2 0.4324528 l "definition"
+2 1 0.0537268 l "definition"
+1 2 0.4324528 l "substring"
+2 1 0.0537268 l "substring"
+1 2 0.4324528 l "definition"
+2 1 0.0537268 l "definition"
+1 2 0.4324528 l "substring"
+2 1 0.0537268 l "substring"
+*Edges

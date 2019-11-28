@@ -1,0 +1,7 @@
+*Vertices 2
+1 "sensory system" ellipse
+2 "vestibulo-auditory system" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+*Edges

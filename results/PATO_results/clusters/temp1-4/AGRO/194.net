@@ -1,0 +1,33 @@
+*Vertices 6
+1 "coating" ellipse
+2 "extracting" ellipse
+3 "controlling" ellipse
+4 "actuating" ellipse
+5 "attracting" ellipse
+6 "tracking" ellipse
+*Arcs
+4 3 0.3324454 l "isa"
+3 4 0.1526830 l "isa"
+1 4 0.0582669 l "distance"
+4 1 0.3207245 l "distance"
+2 5 0.2086375 l "distance"
+5 2 0.2530743 l "distance"
+2 6 0.1958638 l "distance"
+6 2 0.1021475 l "distance"
+4 5 0.3468301 l "distance"
+5 4 0.2668470 l "distance"
+5 6 0.2427447 l "distance"
+6 5 0.1043681 l "distance"
+4 3 0.3324454 l "isa"
+3 4 0.1526830 l "isa"
+1 4 0.0582669 l "distance"
+4 1 0.3207245 l "distance"
+2 5 0.2086375 l "distance"
+5 2 0.2530743 l "distance"
+2 6 0.1958638 l "distance"
+6 2 0.1021475 l "distance"
+4 5 0.3468301 l "distance"
+5 4 0.2668470 l "distance"
+5 6 0.2427447 l "distance"
+6 5 0.1043681 l "distance"
+*Edges

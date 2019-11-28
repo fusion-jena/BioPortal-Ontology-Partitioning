@@ -1,0 +1,58 @@
+*Vertices 11
+1 "Bhagnari" ellipse
+2 "Malay" ellipse
+3 "Egyptian" ellipse
+4 "buffalo breed" ellipse
+5 "Mediterranean" ellipse
+6 "Pandharpuri" ellipse
+7 "Jafarabadi" ellipse
+8 "Bhadawari" ellipse
+9 "Egyptian" ellipse
+10 "Malaysian" ellipse
+11 "Nili-Ravi" ellipse
+*Arcs
+5 4 1.0000000 l "isa"
+4 5 0.0929974 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0929974 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0929974 l "isa"
+8 4 0.4837545 l "isa"
+4 8 0.0778853 l "isa"
+9 4 0.2655367 l "isa"
+4 9 0.0728480 l "isa"
+10 4 0.5034440 l "isa"
+4 10 0.0778853 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.0929974 l "isa"
+2 10 0.0501526 l "substring"
+10 2 0.4965560 l "substring"
+3 9 0.7403862 l "substring"
+9 3 0.7344633 l "substring"
+1 8 0.2858934 l "distance"
+8 1 0.5162455 l "distance"
+3 9 0.7403862 l "distance"
+9 3 0.7344633 l "distance"
+5 4 1.0000000 l "isa"
+4 5 0.0929974 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0929974 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.0929974 l "isa"
+8 4 0.4837545 l "isa"
+4 8 0.0778853 l "isa"
+9 4 0.2655367 l "isa"
+4 9 0.0728480 l "isa"
+10 4 0.5034440 l "isa"
+4 10 0.0778853 l "isa"
+11 4 1.0000000 l "isa"
+4 11 0.0929974 l "isa"
+2 10 0.0501526 l "substring"
+10 2 0.4965560 l "substring"
+3 9 0.7403862 l "substring"
+9 3 0.7344633 l "substring"
+1 8 0.2858934 l "distance"
+8 1 0.5162455 l "distance"
+3 9 0.7403862 l "distance"
+9 3 0.7344633 l "distance"
+*Edges

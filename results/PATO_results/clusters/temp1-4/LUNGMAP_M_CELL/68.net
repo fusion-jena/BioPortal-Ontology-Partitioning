@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Faverolles" ellipse
+2 "Faeroes" ellipse
+3 "Faeroes Pony" ellipse
+*Arcs
+2 3 0.4016359 l "substring"
+3 2 0.6181499 l "substring"
+1 2 0.6147767 l "distance"
+2 1 0.4007939 l "distance"
+2 3 0.4016359 l "substring"
+3 2 0.6181499 l "substring"
+1 2 0.6147767 l "distance"
+2 1 0.4007939 l "distance"
+2 3 0.4016359 l "substring"
+3 2 0.6181499 l "substring"
+1 2 0.6147767 l "distance"
+2 1 0.4007939 l "distance"
+2 3 0.4016359 l "substring"
+3 2 0.6181499 l "substring"
+1 2 0.6147767 l "distance"
+2 1 0.4007939 l "distance"
+2 3 0.4016359 l "substring"
+3 2 0.6181499 l "substring"
+1 2 0.6147767 l "distance"
+2 1 0.4007939 l "distance"
+*Edges

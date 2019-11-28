@@ -1,0 +1,11 @@
+*Vertices 2
+1 "hasSide"
+2 "hasSideRelativeToTumor"
+*Arcs
+1 2 0.0753875 l "substring"
+2 1 0.2083649 l "substring"
+1 2 0.0753875 l "substring"
+2 1 0.2083649 l "substring"
+1 2 0.0753875 l "substring"
+2 1 0.2083649 l "substring"
+*Edges

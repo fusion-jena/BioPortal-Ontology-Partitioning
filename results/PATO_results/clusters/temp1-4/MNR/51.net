@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Alisol" ellipse
+2 "Gleysol" ellipse
+*Arcs
+1 2 0.0847308 l "distance"
+2 1 0.2103535 l "distance"
+1 2 0.0847308 l "distance"
+2 1 0.2103535 l "distance"
+1 2 0.0847308 l "distance"
+2 1 0.2103535 l "distance"
+*Edges

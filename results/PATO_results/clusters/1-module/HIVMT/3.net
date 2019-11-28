@@ -1,0 +1,28 @@
+*Vertices 7
+1 "LTR-FullNmLongTerminalRepeatOfHIV1ProViralDNA" ellipse
+2 "OWLClass_00000010503039690868" ellipse
+3 "EitherEndRegionOfHIV1ProViralDNA" ellipse
+4 "U3RegionFullNmUnique3'Sequence" ellipse
+5 "U5RegionFullNmUnique5'Sequence" ellipse
+6 "OWLObjectProperty_00000012406846506329"
+7 "OWLObjectProperty_00000000411469051443"
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.2500000 l "isa"
+4 2 0.3333333 l "isa"
+2 4 0.2500000 l "isa"
+5 2 0.3333333 l "isa"
+2 5 0.2500000 l "isa"
+1 6 0.1428571 l "definition"
+6 1 1.0000000 l "definition"
+1 4 0.1428571 l "definition"
+4 1 0.3333333 l "definition"
+1 5 0.1428571 l "definition"
+5 1 0.3333333 l "definition"
+1 7 0.1428571 l "definition"
+7 1 1.0000000 l "definition"
+1 3 0.1428571 l "definition"
+3 1 0.5000000 l "definition"
+4 5 0.3333333 l "distance"
+5 4 0.3333333 l "distance"
+*Edges

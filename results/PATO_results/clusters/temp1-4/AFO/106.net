@@ -1,0 +1,25 @@
+*Vertices 6
+1 "solid" ellipse
+2 "suspension" ellipse
+3 "spray" ellipse
+4 "heterogeneous mixture" ellipse
+5 "solid heterogeneous mixture" ellipse
+6 "dispersion" ellipse
+*Arcs
+2 4 0.3333333 l "isa"
+4 2 0.2000000 l "isa"
+3 2 0.1250000 l "isa"
+2 3 0.3333333 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.0952381 l "isa"
+5 4 0.3333333 l "isa"
+4 5 0.4000000 l "isa"
+6 4 0.2500000 l "isa"
+4 6 0.2000000 l "isa"
+1 5 0.0952381 l "substring"
+5 1 0.3333333 l "substring"
+4 5 0.4000000 l "substring"
+5 4 0.3333333 l "substring"
+2 6 0.3333333 l "distance"
+6 2 0.2500000 l "distance"
+*Edges

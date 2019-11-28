@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Daglic" ellipse
+2 "Kajli" ellipse
+*Arcs
+1 2 0.2542387 l "distance"
+2 1 0.0494425 l "distance"
+1 2 0.2542387 l "distance"
+2 1 0.0494425 l "distance"
+1 2 0.2542387 l "distance"
+2 1 0.0494425 l "distance"
+*Edges

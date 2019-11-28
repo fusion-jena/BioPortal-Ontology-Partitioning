@@ -1,0 +1,40 @@
+*Vertices 5
+1 "ICW-1:01.08.02.04 Handcraft" ellipse
+2 "ICW-1:01.08.02.02 Pottery" ellipse
+3 "ICW-1:01.08.02.03 Creative Arts - NOS" ellipse
+4 "ICW-1:01.08.02 Creative Arts" ellipse
+5 "ICW-1:01.08.02.01 Art" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2218365 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2218365 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2218365 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2218365 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2218365 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2218365 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2218365 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2218365 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2218365 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2218365 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2218365 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2218365 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2218365 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2218365 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2218365 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2218365 l "isa"
+*Edges

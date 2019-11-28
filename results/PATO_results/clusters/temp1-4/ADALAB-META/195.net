@@ -1,0 +1,27 @@
+*Vertices 4
+1 "CardiacMurmur" ellipse
+2 "CardiacSymptom" ellipse
+3 "CardiovascularSystemSymptom" ellipse
+4 "VascularSymptom" ellipse
+*Arcs
+2 3 0.3096288 l "isa"
+3 2 0.2422629 l "isa"
+4 3 0.3108937 l "isa"
+3 4 0.2422629 l "isa"
+1 2 0.2094110 l "definition"
+2 1 0.1446241 l "definition"
+3 2 0.2422629 l "definition"
+2 3 0.3096288 l "definition"
+3 4 0.2422629 l "definition"
+4 3 0.3108937 l "definition"
+2 3 0.3096288 l "isa"
+3 2 0.2422629 l "isa"
+4 3 0.3108937 l "isa"
+3 4 0.2422629 l "isa"
+1 2 0.2094110 l "definition"
+2 1 0.1446241 l "definition"
+3 2 0.2422629 l "definition"
+2 3 0.3096288 l "definition"
+3 4 0.2422629 l "definition"
+4 3 0.3108937 l "definition"
+*Edges

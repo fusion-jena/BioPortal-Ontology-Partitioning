@@ -1,0 +1,15 @@
+*Vertices 4
+1 "_Diagnostic test" ellipse
+2 "bioluminescence imaging" ellipse
+3 "mass spectrometry" ellipse
+4 "Diagnostic test" ellipse
+*Arcs
+2 4 1.0000000 l "isa"
+4 2 0.0526316 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0526316 l "isa"
+1 4 0.6666667 l "substring"
+4 1 0.1052632 l "substring"
+1 4 0.6666667 l "distance"
+4 1 0.1052632 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Unusually_negative_reaction_to_trivial_changes_in_the_environment" ellipse
+2 "resis_Unusually_negative_reaction_to_trivial_changes_in_the_environment"
+*Arcs
+1 2 0.2759142 l "substring"
+2 1 0.2317314 l "substring"
+1 2 0.2759142 l "substring"
+2 1 0.2317314 l "substring"
+1 2 0.2759142 l "substring"
+2 1 0.2317314 l "substring"
+*Edges

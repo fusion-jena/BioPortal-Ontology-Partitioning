@@ -1,0 +1,34 @@
+*Vertices 11
+1 "Flumazenil" ellipse
+2 "PK 11195" ellipse
+3 "PiB-PET" ellipse
+4 "Positron emission tomography" ellipse
+5 "dementia with Lewy bodies" ellipse
+6 "glucose utilization" ellipse
+7 "mental disorder" ellipse
+8 "mixed dementia" ellipse
+9 "senile dementia" ellipse
+10 "vascular dementia" ellipse
+11 "nil"
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.0833333 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0833333 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0833333 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1428571 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0833333 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.1428571 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.1428571 l "isa"
+10 7 1.0000000 l "isa"
+7 10 0.1428571 l "isa"
+1 11 0.5000000 l "substring"
+11 1 0.0097087 l "substring"
+9 11 0.5000000 l "substring"
+11 9 0.0097087 l "substring"
+*Edges

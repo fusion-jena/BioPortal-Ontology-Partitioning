@@ -1,0 +1,13 @@
+*Vertices 4
+1 "celsius" ellipse
+2 "temperature" ellipse
+3 "kelvin" ellipse
+4 "fahrenheit" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2500000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2500000 l "isa"
+*Edges

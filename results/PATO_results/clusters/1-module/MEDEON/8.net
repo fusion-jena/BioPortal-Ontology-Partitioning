@@ -1,0 +1,37 @@
+*Vertices 10
+1 "Activity" ellipse
+2 "CheckDevice" ellipse
+3 "Fall" ellipse
+4 "PatientActivity" ellipse
+5 "PhysicianActivity" ellipse
+6 "StuffActivity" ellipse
+7 "Restriction"
+8 "hasParticipant"
+9 "hasOutcome"
+10 "involvesActivity"
+*Arcs
+2 6 1.0000000 l "isa"
+6 2 0.3333333 l "isa"
+4 1 0.6666667 l "isa"
+1 4 0.2857143 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2857143 l "isa"
+6 1 0.6666667 l "isa"
+1 6 0.2857143 l "isa"
+3 7 0.1666667 l "definition"
+7 3 1.0000000 l "definition"
+3 8 0.1666667 l "definition"
+8 3 1.0000000 l "definition"
+3 9 0.1666667 l "definition"
+9 3 1.0000000 l "definition"
+3 10 0.1666667 l "definition"
+10 3 0.5000000 l "definition"
+1 4 0.2857143 l "substring"
+4 1 0.6666667 l "substring"
+1 5 0.2857143 l "substring"
+5 1 1.0000000 l "substring"
+1 6 0.2857143 l "substring"
+6 1 0.6666667 l "substring"
+1 10 0.1428571 l "substring"
+10 1 0.5000000 l "substring"
+*Edges

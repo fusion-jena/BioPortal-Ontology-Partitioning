@@ -1,0 +1,46 @@
+*Vertices 7
+1 "Conversation_Flows" ellipse
+2 "Little_or_No_Reciprocal_Conversation" ellipse
+3 "NotAvailable_Reciprocal_conversation" ellipse
+4 "Occasional_Reciprocal_Conversation" ellipse
+5 "Reciprocal Conversation" ellipse
+6 "Unknown_Reciprocal_Conversation" ellipse
+7 "Very_Little_Spontaneous_Speech" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1520449 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1520449 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1520449 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1520449 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1520449 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.1520449 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.1520449 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1520449 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1520449 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1520449 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1520449 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.1520449 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.1520449 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1520449 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1520449 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1520449 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1520449 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.1520449 l "isa"
+*Edges

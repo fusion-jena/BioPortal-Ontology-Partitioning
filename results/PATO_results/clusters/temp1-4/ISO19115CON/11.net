@@ -1,0 +1,35 @@
+*Vertices 4
+1 "CI_Responsibility" ellipse
+2 "CI_RoleCode" ellipse
+3 "EX_Extent" ellipse
+4 "extent"
+*Arcs
+1 3 0.1327500 l "extent"
+3 1 0.3783518 l "extent"
+1 2 0.1379481 l "role"
+2 1 0.5285779 l "role"
+1 4 0.0626431 l "definition"
+4 1 0.2821128 l "definition"
+1 3 0.1327500 l "definition"
+3 1 0.3783518 l "definition"
+1 2 0.1379481 l "definition"
+2 1 0.5285779 l "definition"
+3 4 0.4543261 l "substring"
+4 3 0.7178870 l "substring"
+3 4 0.4543261 l "distance"
+4 3 0.7178870 l "distance"
+1 3 0.1327500 l "extent"
+3 1 0.3783518 l "extent"
+1 2 0.1379481 l "role"
+2 1 0.5285779 l "role"
+1 4 0.0626431 l "definition"
+4 1 0.2821128 l "definition"
+1 3 0.1327500 l "definition"
+3 1 0.3783518 l "definition"
+1 2 0.1379481 l "definition"
+2 1 0.5285779 l "definition"
+3 4 0.4543261 l "substring"
+4 3 0.7178870 l "substring"
+3 4 0.4543261 l "distance"
+4 3 0.7178870 l "distance"
+*Edges

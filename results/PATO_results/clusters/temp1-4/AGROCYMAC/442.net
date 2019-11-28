@@ -1,0 +1,13 @@
+*Vertices 2
+1 "sea coast" ellipse
+2 "coast" ellipse
+*Arcs
+1 2 0.1126386 l "isa"
+2 1 0.0434831 l "isa"
+1 2 0.1126386 l "substring"
+2 1 0.0434831 l "substring"
+1 2 0.1126386 l "isa"
+2 1 0.0434831 l "isa"
+1 2 0.1126386 l "substring"
+2 1 0.0434831 l "substring"
+*Edges

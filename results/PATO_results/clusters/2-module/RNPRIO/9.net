@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Architecture" ellipse
+2 "Common_data_model_used" ellipse
+3 "Data_mapping_and_transformation_mechanism" ellipse
+4 "Description" ellipse
+5 "Harmonization" ellipse
+6 "Metadata_collected" ellipse
+7 "Query_distribution_via_central_hub" ellipse
+8 "Standardized_terminologies_adopted" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.5000000 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.5000000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.5000000 l "isa"
+6 5 0.5000000 l "isa"
+5 6 0.2000000 l "isa"
+7 5 0.5000000 l "isa"
+5 7 0.2000000 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.2000000 l "isa"
+*Edges

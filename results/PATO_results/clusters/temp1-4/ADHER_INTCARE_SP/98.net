@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Spontaneous_imitation_limited_to_a_few_familiar_routines_that_are_not_incorporated_into_play" ellipse
+2 "imit_Spontaneous_imitation_limited_to_a_few_familiar_routines_that_are_not_incorporated_into_play"
+*Arcs
+1 2 0.2826091 l "substring"
+2 1 0.2860990 l "substring"
+1 2 0.2826091 l "substring"
+2 1 0.2860990 l "substring"
+1 2 0.2826091 l "substring"
+2 1 0.2860990 l "substring"
+*Edges

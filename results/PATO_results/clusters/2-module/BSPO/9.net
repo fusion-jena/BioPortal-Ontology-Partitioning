@@ -1,0 +1,7 @@
+*Vertices 2
+1 "left side" ellipse
+2 "left of"
+*Arcs
+1 2 0.1428571 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

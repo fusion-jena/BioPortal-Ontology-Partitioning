@@ -1,0 +1,31 @@
+*Vertices 6
+1 "dot plot" ellipse
+2 "graph" ellipse
+3 "line graph" ellipse
+4 "heatmap" ellipse
+5 "scatter plot" ellipse
+6 "clustered data visualization" ellipse
+*Arcs
+1 2 0.6009976 l "isa"
+2 1 0.0141426 l "isa"
+3 2 0.4366478 l "isa"
+2 3 0.0237079 l "isa"
+2 3 0.0237079 l "substring"
+3 2 0.4366478 l "substring"
+1 2 0.6009976 l "isa"
+2 1 0.0141426 l "isa"
+3 2 0.4366478 l "isa"
+2 3 0.0237079 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.0093893 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.0093893 l "isa"
+6 1 0.0714286 l "definition"
+1 6 0.3990025 l "definition"
+6 4 0.0714286 l "definition"
+4 6 0.5000000 l "definition"
+6 5 0.0714286 l "definition"
+5 6 0.5000000 l "definition"
+2 3 0.0237079 l "substring"
+3 2 0.4366478 l "substring"
+*Edges

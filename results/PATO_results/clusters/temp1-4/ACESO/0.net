@@ -1,0 +1,334 @@
+*Vertices 77
+1 "Intervention" ellipse
+2 "Exposed_to_Inadequate_Necessary_Equipment" ellipse
+3 "nil"
+4 "has_subject"
+5 "Class"
+6 "has_housing_circumstances"
+7 "Has_Access_to_Transportation" ellipse
+8 "Worries_About_Housing_Situation" ellipse
+9 "has_cause"
+10 "suffers_from"
+11 "Has_Adequate_Housing" ellipse
+12 "Lacks_housing" ellipse
+13 "Restriction"
+14 "Death" ellipse
+15 "Failure" ellipse
+16 "Social Group" ellipse
+17 "Attendance" ellipse
+18 "medical appointment" ellipse
+19 "Environmental finding" ellipse
+20 "Finding relating to complex and social behaviors" ellipse
+21 "Detail of sexuality and sexual activity" ellipse
+22 "Access_to_Gas_Service" ellipse
+23 "Access_to_Oil_Service" ellipse
+24 "Kept_from_Medical_Appointment_by_Lack_of_Transportation" ellipse
+25 "Birth" ellipse
+26 "Health Status" ellipse
+27 "Agent" ellipse
+28 "Personal Attribute" ellipse
+29 "Property or Attribute" ellipse
+30 "Medical" ellipse
+31 "Action" ellipse
+32 "Region" ellipse
+33 "Group" ellipse
+34 "Acquisition" ellipse
+35 "Activity" ellipse
+36 "health administration" ellipse
+37 "health care service utilization" ellipse
+38 "medicine" ellipse
+39 "Perinatal finding" ellipse
+40 "Emotionnal state finding" ellipse
+41 "Finding related to sleep" ellipse
+42 "Finding related to pregnancy" ellipse
+43 "Delivery finding" ellipse
+44 "General finding of observation of patient" ellipse
+45 "Finding by method" ellipse
+46 "Adult" ellipse
+47 "Safety finding" ellipse
+48 "Health-related behavior" ellipse
+49 "Pregnancy, childbirth and puerperium finding" ellipse
+50 "Clinical history and observation findings" ellipse
+51 "Finding of birth outcome" ellipse
+52 "Homeless" ellipse
+53 "Behavior observable" ellipse
+54 "Mental state finding" ellipse
+55 "Housing, local environment and transport finding" ellipse
+56 "Residence and accomodation circumstances - finding" ellipse
+57 "General clinical state finding" ellipse
+58 "Mental state, behavior and/or psychosocial function finding" ellipse
+59 "Birth" ellipse
+60 "Household accessory" ellipse
+61 "Presence of lead-based paint" ellipse
+62 "Disease" ellipse
+63 "Household appliance" ellipse
+64 "General body state finding" ellipse
+65 "Ability_to_buy_enough_food" ellipse
+66 "Access_to_Electricity_Service" ellipse
+67 "Access_to_Water_Service" ellipse
+68 "Conceptual Entity" ellipse
+69 "Exposed_to_Lead-Based_Paint" ellipse
+70 "Failure_to_Provide_for_Enough_Food" ellipse
+71 "Has_Electricity_Oil_Gas_or_Water_Been_Shut_off" ellipse
+72 "Household_Substance_Abuse" ellipse
+73 "Negative_Health_Outcomes" ellipse
+74 "Not_working_or_missing_equipment" ellipse
+75 "Worries_About_Electricity_Oil_Gas_or_Water_Being_Shut_off" ellipse
+76 "Worry_that_Food_Would_Run_out_Before_You_Could_Buy_More" ellipse
+77 "lives_in"
+*Arcs
+26 28 0.3333333 l "isa"
+28 26 0.2000000 l "isa"
+27 68 0.1666667 l "isa"
+68 27 0.1428571 l "isa"
+28 29 0.2000000 l "isa"
+29 28 0.3333333 l "isa"
+31 35 0.1666667 l "isa"
+35 31 0.2500000 l "isa"
+32 29 0.1666667 l "isa"
+29 32 0.3333333 l "isa"
+33 68 0.1428571 l "isa"
+68 33 0.1428571 l "isa"
+34 31 0.3333333 l "isa"
+31 34 0.1666667 l "isa"
+17 31 0.2500000 l "isa"
+31 17 0.1666667 l "isa"
+37 36 0.2500000 l "isa"
+36 37 0.3333333 l "isa"
+18 37 0.2500000 l "isa"
+37 18 0.2500000 l "isa"
+39 50 0.3333333 l "isa"
+50 39 0.1666667 l "isa"
+40 54 0.3333333 l "isa"
+54 40 0.3333333 l "isa"
+41 44 0.3333333 l "isa"
+44 41 0.2000000 l "isa"
+42 49 0.3333333 l "isa"
+49 42 0.2000000 l "isa"
+43 42 0.3333333 l "isa"
+42 43 0.3333333 l "isa"
+44 50 0.2000000 l "isa"
+50 44 0.1666667 l "isa"
+47 44 0.3333333 l "isa"
+44 47 0.2000000 l "isa"
+48 53 0.2500000 l "isa"
+53 48 0.3333333 l "isa"
+49 50 0.2000000 l "isa"
+50 49 0.1666667 l "isa"
+51 39 0.1666667 l "isa"
+39 51 0.3333333 l "isa"
+51 43 0.1666667 l "isa"
+43 51 0.3333333 l "isa"
+21 48 0.2500000 l "isa"
+48 21 0.2500000 l "isa"
+54 58 0.3333333 l "isa"
+58 54 0.2000000 l "isa"
+55 19 0.2000000 l "isa"
+19 55 0.2500000 l "isa"
+56 55 0.1111111 l "isa"
+55 56 0.2000000 l "isa"
+58 50 0.2000000 l "isa"
+50 58 0.1666667 l "isa"
+59 51 0.2857143 l "isa"
+51 59 0.3333333 l "isa"
+61 47 0.3333333 l "isa"
+47 61 0.3333333 l "isa"
+61 56 0.3333333 l "isa"
+56 61 0.1111111 l "isa"
+63 60 0.2500000 l "isa"
+60 63 0.3333333 l "isa"
+64 44 0.3333333 l "isa"
+44 64 0.2000000 l "isa"
+66 56 0.3333333 l "isa"
+56 66 0.1111111 l "isa"
+22 56 0.2500000 l "isa"
+56 22 0.1111111 l "isa"
+23 56 0.2500000 l "isa"
+56 23 0.1111111 l "isa"
+67 56 0.3333333 l "isa"
+56 67 0.1111111 l "isa"
+2 3 0.0909091 l "definition"
+3 2 0.0344828 l "definition"
+2 13 0.0909091 l "definition"
+13 2 0.0344828 l "definition"
+2 10 0.0909091 l "definition"
+10 2 0.0454545 l "definition"
+2 6 0.0909091 l "definition"
+6 2 0.1111111 l "definition"
+2 77 0.0909091 l "definition"
+77 2 0.0909091 l "definition"
+2 5 0.0909091 l "definition"
+5 2 0.0357143 l "definition"
+69 3 0.1000000 l "definition"
+3 69 0.0344828 l "definition"
+69 13 0.1000000 l "definition"
+13 69 0.0344828 l "definition"
+69 10 0.1000000 l "definition"
+10 69 0.0454545 l "definition"
+69 6 0.1000000 l "definition"
+6 69 0.1111111 l "definition"
+69 77 0.1000000 l "definition"
+77 69 0.0909091 l "definition"
+69 61 0.1000000 l "definition"
+61 69 0.3333333 l "definition"
+69 5 0.1000000 l "definition"
+5 69 0.0357143 l "definition"
+70 3 0.1111111 l "definition"
+3 70 0.0344828 l "definition"
+70 15 0.2222222 l "definition"
+15 70 0.1818182 l "definition"
+70 65 0.1111111 l "definition"
+65 70 0.3333333 l "definition"
+70 13 0.1111111 l "definition"
+13 70 0.0344828 l "definition"
+70 10 0.1111111 l "definition"
+10 70 0.0454545 l "definition"
+70 4 0.1111111 l "definition"
+4 70 0.0833333 l "definition"
+70 5 0.1111111 l "definition"
+5 70 0.0357143 l "definition"
+7 3 0.1250000 l "definition"
+3 7 0.0344828 l "definition"
+7 9 0.1250000 l "definition"
+9 7 0.1428571 l "definition"
+7 15 0.1250000 l "definition"
+15 7 0.0909091 l "definition"
+7 13 0.1250000 l "definition"
+13 7 0.0344828 l "definition"
+7 10 0.1250000 l "definition"
+10 7 0.0454545 l "definition"
+7 5 0.1250000 l "definition"
+5 7 0.0357143 l "definition"
+11 3 0.1250000 l "definition"
+3 11 0.0344828 l "definition"
+11 13 0.1250000 l "definition"
+13 11 0.0344828 l "definition"
+11 6 0.1250000 l "definition"
+6 11 0.1111111 l "definition"
+11 77 0.1250000 l "definition"
+77 11 0.0909091 l "definition"
+11 5 0.1250000 l "definition"
+5 11 0.0357143 l "definition"
+71 67 0.0909091 l "definition"
+67 71 0.3333333 l "definition"
+71 3 0.0909091 l "definition"
+3 71 0.0344828 l "definition"
+71 15 0.0909091 l "definition"
+15 71 0.0909091 l "definition"
+71 13 0.0909091 l "definition"
+13 71 0.0344828 l "definition"
+71 10 0.0909091 l "definition"
+10 71 0.0454545 l "definition"
+71 23 0.0909091 l "definition"
+23 71 0.2500000 l "definition"
+71 4 0.0909091 l "definition"
+4 71 0.0833333 l "definition"
+71 66 0.0909091 l "definition"
+66 71 0.3333333 l "definition"
+71 5 0.0909091 l "definition"
+5 71 0.0357143 l "definition"
+71 22 0.0909091 l "definition"
+22 71 0.2500000 l "definition"
+24 3 0.0769231 l "definition"
+3 24 0.0344828 l "definition"
+24 9 0.0769231 l "definition"
+9 24 0.1428571 l "definition"
+24 15 0.0769231 l "definition"
+15 24 0.0909091 l "definition"
+24 13 0.0769231 l "definition"
+13 24 0.0344828 l "definition"
+24 10 0.0769231 l "definition"
+10 24 0.0454545 l "definition"
+24 18 0.0769231 l "definition"
+18 24 0.2500000 l "definition"
+24 4 0.0769231 l "definition"
+4 24 0.0833333 l "definition"
+24 5 0.0769231 l "definition"
+5 24 0.0357143 l "definition"
+24 17 0.0769231 l "definition"
+17 24 0.2500000 l "definition"
+12 3 0.1250000 l "definition"
+3 12 0.0344828 l "definition"
+12 13 0.1250000 l "definition"
+13 12 0.0344828 l "definition"
+12 6 0.1250000 l "definition"
+6 12 0.1111111 l "definition"
+12 77 0.1250000 l "definition"
+77 12 0.0909091 l "definition"
+12 5 0.1250000 l "definition"
+5 12 0.0357143 l "definition"
+75 67 0.0909091 l "definition"
+67 75 0.3333333 l "definition"
+75 3 0.0909091 l "definition"
+3 75 0.0344828 l "definition"
+75 13 0.0909091 l "definition"
+13 75 0.0344828 l "definition"
+75 10 0.0909091 l "definition"
+10 75 0.0454545 l "definition"
+75 23 0.0909091 l "definition"
+23 75 0.2500000 l "definition"
+75 4 0.0909091 l "definition"
+4 75 0.0833333 l "definition"
+75 66 0.0909091 l "definition"
+66 75 0.3333333 l "definition"
+75 5 0.0909091 l "definition"
+5 75 0.0357143 l "definition"
+75 22 0.0909091 l "definition"
+22 75 0.2500000 l "definition"
+8 3 0.1250000 l "definition"
+3 8 0.0344828 l "definition"
+8 13 0.1250000 l "definition"
+13 8 0.0344828 l "definition"
+8 10 0.1250000 l "definition"
+10 8 0.0454545 l "definition"
+8 4 0.1250000 l "definition"
+4 8 0.0833333 l "definition"
+8 5 0.1250000 l "definition"
+5 8 0.0357143 l "definition"
+76 3 0.1250000 l "definition"
+3 76 0.0344828 l "definition"
+76 65 0.1250000 l "definition"
+65 76 0.3333333 l "definition"
+76 13 0.1250000 l "definition"
+13 76 0.0344828 l "definition"
+76 10 0.1250000 l "definition"
+10 76 0.0454545 l "definition"
+76 4 0.1250000 l "definition"
+4 76 0.0833333 l "definition"
+76 5 0.1250000 l "definition"
+5 76 0.0357143 l "definition"
+16 33 0.2500000 l "substring"
+33 16 0.1428571 l "substring"
+25 49 0.1428571 l "substring"
+49 25 0.2000000 l "substring"
+25 51 0.1428571 l "substring"
+51 25 0.1666667 l "substring"
+25 59 0.2857143 l "substring"
+59 25 0.2857143 l "substring"
+30 18 0.0909091 l "substring"
+18 30 0.2500000 l "substring"
+30 24 0.0909091 l "substring"
+24 30 0.0769231 l "substring"
+35 21 0.2500000 l "substring"
+21 35 0.2500000 l "substring"
+49 59 0.2000000 l "substring"
+59 49 0.1428571 l "substring"
+51 59 0.3333333 l "substring"
+59 51 0.2857143 l "substring"
+15 70 0.1818182 l "substring"
+70 15 0.2222222 l "substring"
+27 46 0.1666667 l "distance"
+46 27 0.3333333 l "distance"
+25 59 0.2857143 l "distance"
+59 25 0.2857143 l "distance"
+25 14 0.1428571 l "distance"
+14 25 0.2000000 l "distance"
+30 38 0.0909091 l "distance"
+38 30 0.3333333 l "distance"
+31 32 0.1666667 l "distance"
+32 31 0.1666667 l "distance"
+59 14 0.1428571 l "distance"
+14 59 0.2000000 l "distance"
+22 23 0.2500000 l "distance"
+23 22 0.2500000 l "distance"
+*Edges

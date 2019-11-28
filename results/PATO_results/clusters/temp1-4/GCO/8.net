@@ -1,0 +1,47 @@
+*Vertices 6
+1 "Concept" ellipse
+2 "Thing"
+3 "Chromosome" ellipse
+4 "Genome" ellipse
+5 "Genome Component" ellipse
+6 "Organism" ellipse
+*Arcs
+1 2 1.0000000 l "focus"
+2 1 0.0570415 l "focus"
+2 2 0.2543559 l "funded by"
+2 2 0.2543559 l "funded by"
+2 2 0.2543559 l "logo"
+2 2 0.2543559 l "logo"
+2 2 0.2543559 l "theme"
+2 2 0.2543559 l "theme"
+1 2 1.0000000 l "focus"
+2 1 0.0570415 l "focus"
+2 2 0.2543559 l "funded by"
+2 2 0.2543559 l "funded by"
+2 2 0.2543559 l "logo"
+2 2 0.2543559 l "logo"
+2 2 0.2543559 l "theme"
+2 2 0.2543559 l "theme"
+3 5 1.0000000 l "isa"
+5 3 0.2500000 l "isa"
+4 2 0.2500000 l "isa"
+2 4 0.0277862 l "isa"
+5 2 0.2500000 l "isa"
+2 5 0.0277862 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.0277862 l "isa"
+1 2 1.0000000 l "focus"
+2 1 0.0570415 l "focus"
+2 2 0.2543559 l "funded by"
+2 2 0.2543559 l "funded by"
+2 2 0.2543559 l "logo"
+2 2 0.2543559 l "logo"
+2 2 0.2543559 l "theme"
+2 2 0.2543559 l "theme"
+4 6 0.2500000 l "genomeOf"
+6 4 0.5000000 l "genomeOf"
+4 5 0.5000000 l "hasComponent"
+5 4 0.5000000 l "hasComponent"
+4 5 0.5000000 l "substring"
+5 4 0.5000000 l "substring"
+*Edges

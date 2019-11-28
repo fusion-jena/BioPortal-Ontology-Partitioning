@@ -1,0 +1,9 @@
+*Vertices 2
+1 "DQ_ConformanceResult" ellipse
+2 "explanation"
+*Arcs
+1 2 0.1508422 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.1508422 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

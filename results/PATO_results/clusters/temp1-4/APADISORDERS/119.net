@@ -1,0 +1,17 @@
+*Vertices 2
+1 "DIFSX" ellipse
+2 "SINUX" ellipse
+*Arcs
+1 2 0.0642695 l "distance"
+2 1 0.0524116 l "distance"
+1 2 0.0642695 l "distance"
+2 1 0.0524116 l "distance"
+1 2 0.0642695 l "distance"
+2 1 0.0524116 l "distance"
+1 2 0.0642695 l "distance"
+2 1 0.0524116 l "distance"
+1 2 0.0642695 l "distance"
+2 1 0.0524116 l "distance"
+1 2 0.0642695 l "distance"
+2 1 0.0524116 l "distance"
+*Edges

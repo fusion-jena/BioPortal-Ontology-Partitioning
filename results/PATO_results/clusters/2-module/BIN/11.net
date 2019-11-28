@@ -1,0 +1,21 @@
+*Vertices 6
+1 "age categories" ellipse
+2 "older school age" ellipse
+3 "adolescence" ellipse
+4 "full adolescence" ellipse
+5 "young age" ellipse
+6 "middle age" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1666667 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1666667 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1666667 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1666667 l "isa"
+3 4 0.5000000 l "substring"
+4 3 0.5000000 l "substring"
+*Edges

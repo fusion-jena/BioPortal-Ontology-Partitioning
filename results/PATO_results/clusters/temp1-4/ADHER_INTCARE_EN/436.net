@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Development_probably_abnormal_by_the_age_of_3_years" ellipse
+2 "ageabnDevelopment_probably_abnormal_by_the_age_of_3_years"
+*Arcs
+1 2 0.1166601 l "substring"
+2 1 0.1168766 l "substring"
+1 2 0.1166601 l "substring"
+2 1 0.1168766 l "substring"
+*Edges

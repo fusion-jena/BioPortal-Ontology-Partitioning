@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Corpus" ellipse
+2 "WellFormed_Corpus" ellipse
+3 "has_register"
+4 "has_timeCover"
+*Arcs
+2 1 0.1818182 l "isa"
+1 2 0.0833333 l "isa"
+1 3 0.0416667 l "definition"
+3 1 0.5000000 l "definition"
+1 4 0.0416667 l "definition"
+4 1 0.5000000 l "definition"
+2 3 0.0909091 l "definition"
+3 2 0.5000000 l "definition"
+2 4 0.0909091 l "definition"
+4 2 0.5000000 l "definition"
+1 2 0.0833333 l "substring"
+2 1 0.1818182 l "substring"
+*Edges

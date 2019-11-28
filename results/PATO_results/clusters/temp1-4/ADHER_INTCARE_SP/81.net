@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Motor_skills" ellipse
+2 "Motor_skills_Definite_loss" ellipse
+3 "Motor_skills_No_loss" ellipse
+4 "Motor_skills_Possible_loss" ellipse
+*Arcs
+2 1 0.7328533 l "isa"
+1 2 0.2111420 l "isa"
+3 1 0.7328533 l "isa"
+1 3 0.2111420 l "isa"
+4 1 0.7328533 l "isa"
+1 4 0.2111420 l "isa"
+1 2 0.2111420 l "substring"
+2 1 0.7328533 l "substring"
+1 3 0.2111420 l "substring"
+3 1 0.7328533 l "substring"
+1 4 0.2111420 l "substring"
+4 1 0.7328533 l "substring"
+2 1 0.7328533 l "isa"
+1 2 0.2111420 l "isa"
+3 1 0.7328533 l "isa"
+1 3 0.2111420 l "isa"
+4 1 0.7328533 l "isa"
+1 4 0.2111420 l "isa"
+1 2 0.2111420 l "substring"
+2 1 0.7328533 l "substring"
+1 3 0.2111420 l "substring"
+3 1 0.7328533 l "substring"
+1 4 0.2111420 l "substring"
+4 1 0.7328533 l "substring"
+2 1 0.7328533 l "isa"
+1 2 0.2111420 l "isa"
+3 1 0.7328533 l "isa"
+1 3 0.2111420 l "isa"
+4 1 0.7328533 l "isa"
+1 4 0.2111420 l "isa"
+1 2 0.2111420 l "substring"
+2 1 0.7328533 l "substring"
+1 3 0.2111420 l "substring"
+3 1 0.7328533 l "substring"
+1 4 0.2111420 l "substring"
+4 1 0.7328533 l "substring"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "date" ellipse
+2 "games" ellipse
+3 "dateTime"
+*Arcs
+1 3 0.5737705 l "has_date_value"
+3 1 1.0000000 l "has_date_value"
+1 3 0.5737705 l "substring"
+3 1 1.0000000 l "substring"
+1 2 0.2254098 l "distance"
+2 1 0.5200000 l "distance"
+1 3 0.5737705 l "has_date_value"
+3 1 1.0000000 l "has_date_value"
+1 3 0.5737705 l "substring"
+3 1 1.0000000 l "substring"
+1 2 0.2254098 l "distance"
+2 1 0.5200000 l "distance"
+*Edges

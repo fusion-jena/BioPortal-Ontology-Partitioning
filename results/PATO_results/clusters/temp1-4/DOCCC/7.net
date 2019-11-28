@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Community_Coping_Impairment" ellipse
+2 "Coping" ellipse
+3 "Defensive_Coping" ellipse
+4 "Disabled_Family_Coping" ellipse
+5 "Family_Coping_Impairment" ellipse
+6 "Individual_Coping_Impairment" ellipse
+*Arcs
+1 2 0.2500000 l "isa"
+2 1 0.0714286 l "isa"
+3 2 0.2500000 l "isa"
+2 3 0.0714286 l "isa"
+4 2 0.2222222 l "isa"
+2 4 0.0714286 l "isa"
+5 2 0.2500000 l "isa"
+2 5 0.0714286 l "isa"
+6 2 0.2222222 l "isa"
+2 6 0.0714286 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.0714286 l "substring"
+2 3 0.0714286 l "substring"
+3 2 0.2500000 l "substring"
+2 4 0.0714286 l "substring"
+4 2 0.2222222 l "substring"
+2 5 0.0714286 l "substring"
+5 2 0.2500000 l "substring"
+2 6 0.0714286 l "substring"
+6 2 0.2222222 l "substring"
+*Edges

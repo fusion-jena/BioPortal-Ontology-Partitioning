@@ -1,0 +1,13 @@
+*Vertices 2
+1 "amount of substance" ellipse
+2 "amount" ellipse
+*Arcs
+1 2 0.6140351 l "isa"
+2 1 0.1565289 l "isa"
+1 2 0.6140351 l "substring"
+2 1 0.1565289 l "substring"
+1 2 0.6140351 l "isa"
+2 1 0.1565289 l "isa"
+1 2 0.6140351 l "substring"
+2 1 0.1565289 l "substring"
+*Edges

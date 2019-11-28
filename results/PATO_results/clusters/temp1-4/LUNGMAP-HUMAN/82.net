@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Highland" ellipse
+2 "Highland Pony" ellipse
+*Arcs
+1 2 0.4118112 l "substring"
+2 1 0.5637879 l "substring"
+1 2 0.4118112 l "substring"
+2 1 0.5637879 l "substring"
+1 2 0.4118112 l "substring"
+2 1 0.5637879 l "substring"
+*Edges

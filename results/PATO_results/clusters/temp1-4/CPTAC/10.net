@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Reserved T104.11.30" ellipse
+2 "Reserved T104.11.31" ellipse
+*Arcs
+1 2 0.6227356 l "distance"
+2 1 0.6227356 l "distance"
+1 2 0.6227356 l "distance"
+2 1 0.6227356 l "distance"
+1 2 0.6227356 l "distance"
+2 1 0.6227356 l "distance"
+1 2 0.6227356 l "distance"
+2 1 0.6227356 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "diazynediium" ellipse
+2 "diazynium" ellipse
+*Arcs
+1 2 0.5000000 l "definition"
+2 1 0.3333333 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.5000000 l "definition"
+1 2 0.5000000 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 6
+1 "Appropriate_response_to_overtures_by_familiar_and_unfamiliar_adults" ellipse
+2 "Appropriateness_of_social_responses" ellipse
+3 "Appropriateness_of_social_responses_NA" ellipse
+4 "Appropriateness_of_social_responses_UnknownOrNotAsked" ellipse
+5 "Responds_to_parentsOrCaregiver_and_others_in_familiar_settings" ellipse
+6 "cresp_Responds_to_parentsOrCaregiver_and_others_in_familiar_settings"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2000000 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.1000000 l "isa"
+2 3 0.3000000 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2000000 l "substring"
+4 2 1.0000000 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.3333333 l "substring"
+2 3 0.3000000 l "distance"
+3 2 1.0000000 l "distance"
+*Edges

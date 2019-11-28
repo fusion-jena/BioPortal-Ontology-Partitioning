@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Abstract_Thinking" ellipse
+2 "Analytic_Capability" ellipse
+3 "Cognitive_Ability" ellipse
+4 "Imagination" ellipse
+5 "Isolated_Cognitive_Skills" ellipse
+6 "Numeracy" ellipse
+7 "Problem_Solving_Ability" ellipse
+8 "Reasoning" ellipse
+9 "Understanding_Logical_Progression" ellipse
+10 "Visual_Thinking" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.1666667 l "isa"
+2 3 0.3333333 l "isa"
+3 2 0.1666667 l "isa"
+4 1 0.2500000 l "isa"
+1 4 0.3333333 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1666667 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.3333333 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.3333333 l "isa"
+8 2 0.3333333 l "isa"
+2 8 0.3333333 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.3333333 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.3333333 l "isa"
+*Edges

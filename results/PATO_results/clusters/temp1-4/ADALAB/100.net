@@ -1,0 +1,18 @@
+*Vertices 3
+1 "EndOfCranialPressureMeasuringProcess" ellipse
+2 "EndOfPressureMeasuringProcess" ellipse
+3 "EndOfTirePressureMeasuringProcess" ellipse
+*Arcs
+1 2 0.2688971 l "isa"
+2 1 0.1391282 l "isa"
+3 2 0.2688971 l "isa"
+2 3 0.1391282 l "isa"
+1 2 0.2688971 l "isa"
+2 1 0.1391282 l "isa"
+3 2 0.2688971 l "isa"
+2 3 0.1391282 l "isa"
+1 2 0.2688971 l "isa"
+2 1 0.1391282 l "isa"
+3 2 0.2688971 l "isa"
+2 3 0.1391282 l "isa"
+*Edges

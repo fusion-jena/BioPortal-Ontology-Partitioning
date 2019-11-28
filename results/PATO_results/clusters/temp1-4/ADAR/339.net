@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Heart" ellipse
+2 "HeartFunctioning" ellipse
+*Arcs
+1 2 0.0738716 l "definition"
+2 1 0.2597027 l "definition"
+1 2 0.0738716 l "substring"
+2 1 0.2597027 l "substring"
+1 2 0.0738716 l "definition"
+2 1 0.2597027 l "definition"
+1 2 0.0738716 l "substring"
+2 1 0.2597027 l "substring"
+1 2 0.0738716 l "definition"
+2 1 0.2597027 l "definition"
+1 2 0.0738716 l "substring"
+2 1 0.2597027 l "substring"
+1 2 0.0738716 l "definition"
+2 1 0.2597027 l "definition"
+1 2 0.0738716 l "substring"
+2 1 0.2597027 l "substring"
+*Edges

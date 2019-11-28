@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Autism Spectrum disposition" ellipse
+2 "Repetitive stereotypical behavior" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1825289 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.1825289 l "isa"
+*Edges

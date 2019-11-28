@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Oligodendrocyte related to primary glial cell culture" ellipse
+2 "Oligodendrocyte" ellipse
+*Arcs
+1 2 0.1626506 l "substring"
+2 1 0.3717728 l "substring"
+1 2 0.1626506 l "substring"
+2 1 0.3717728 l "substring"
+*Edges

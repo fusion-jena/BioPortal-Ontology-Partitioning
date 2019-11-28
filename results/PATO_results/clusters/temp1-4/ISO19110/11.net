@@ -1,0 +1,22 @@
+*Vertices 3
+1 "CLCA2" ellipse
+2 "CLCA4" ellipse
+3 "float"
+*Arcs
+1 2 0.0438997 l "distance"
+2 1 0.0439844 l "distance"
+1 2 0.0438997 l "distance"
+2 1 0.0439844 l "distance"
+1 2 0.0438997 l "distance"
+2 1 0.0439844 l "distance"
+1 3 0.0427989 l "distance"
+3 1 0.1675264 l "distance"
+2 3 0.0428825 l "distance"
+3 2 0.1675305 l "distance"
+1 2 0.0438997 l "distance"
+2 1 0.0439844 l "distance"
+1 3 0.0427989 l "distance"
+3 1 0.1675264 l "distance"
+2 3 0.0428825 l "distance"
+3 2 0.1675305 l "distance"
+*Edges

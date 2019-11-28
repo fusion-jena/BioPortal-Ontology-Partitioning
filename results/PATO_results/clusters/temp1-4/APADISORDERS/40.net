@@ -1,0 +1,17 @@
+*Vertices 2
+1 "chronic" ellipse
+2 "chronic asthma with fixed airflow obstruction" ellipse
+*Arcs
+2 1 0.4007142 l "isa"
+1 2 0.0927498 l "isa"
+1 2 0.0927498 l "substring"
+2 1 0.4007142 l "substring"
+2 1 0.4007142 l "isa"
+1 2 0.0927498 l "isa"
+1 2 0.0927498 l "substring"
+2 1 0.4007142 l "substring"
+2 1 0.4007142 l "isa"
+1 2 0.0927498 l "isa"
+1 2 0.0927498 l "substring"
+2 1 0.4007142 l "substring"
+*Edges

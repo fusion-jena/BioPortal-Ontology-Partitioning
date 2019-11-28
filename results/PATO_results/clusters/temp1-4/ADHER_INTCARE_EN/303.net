@@ -1,0 +1,15 @@
+*Vertices 2
+1 "AbsoluteCertainty" ellipse
+2 "CertaintyLevel" ellipse
+*Arcs
+1 2 0.2404259 l "isa"
+2 1 0.1629363 l "isa"
+1 2 0.2404259 l "isa"
+2 1 0.1629363 l "isa"
+1 2 0.2404259 l "isa"
+2 1 0.1629363 l "isa"
+1 2 0.2404259 l "isa"
+2 1 0.1629363 l "isa"
+1 2 0.2404259 l "isa"
+2 1 0.1629363 l "isa"
+*Edges

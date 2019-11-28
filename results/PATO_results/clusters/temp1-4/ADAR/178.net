@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Inappropriate_facial_expressions" ellipse
+2 "Inappropriate_facial_expressions_NotAvailable" ellipse
+3 "Inappropriate_facial_expressions_UnknownOrNotAsked" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.2000000 l "isa"
+1 2 0.2000000 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.2000000 l "substring"
+3 1 0.5000000 l "substring"
+*Edges

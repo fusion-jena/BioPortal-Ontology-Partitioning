@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CHS" ellipse
+2 "Tay_Sachs_Disease" ellipse
+*Arcs
+1 2 0.0087011 l "substring"
+2 1 0.3576303 l "substring"
+1 2 0.0087011 l "substring"
+2 1 0.3576303 l "substring"
+*Edges

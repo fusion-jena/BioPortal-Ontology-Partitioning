@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Kushum" ellipse
+2 "Sushan" ellipse
+*Arcs
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+1 2 0.3952188 l "distance"
+2 1 0.1076579 l "distance"
+*Edges

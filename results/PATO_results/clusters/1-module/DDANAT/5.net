@@ -1,0 +1,19 @@
+*Vertices 4
+1 "anterior like cell" ellipse
+2 "pstAB/ALC" ellipse
+3 "pstO/ALC" ellipse
+4 "pstU/ALC" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.0909091 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.0909091 l "isa"
+4 1 0.3333333 l "isa"
+1 4 0.0909091 l "isa"
+2 3 0.3333333 l "distance"
+3 2 0.3333333 l "distance"
+2 4 0.3333333 l "distance"
+4 2 0.3333333 l "distance"
+3 4 0.3333333 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

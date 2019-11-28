@@ -1,0 +1,11 @@
+*Vertices 2
+1 "MD_Scope" ellipse
+2 "MD_ScopeCode" ellipse
+*Arcs
+1 2 0.1666667 l "level"
+2 1 0.2500000 l "level"
+1 2 0.1666667 l "definition"
+2 1 0.2500000 l "definition"
+1 2 0.1666667 l "substring"
+2 1 0.2500000 l "substring"
+*Edges

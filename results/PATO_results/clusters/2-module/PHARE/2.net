@@ -1,0 +1,385 @@
+*Vertices 86
+1 "aerosol" ellipse
+2 "antibody" ellipse
+3 "antihistamine" ellipse
+4 "antipsychotic" ellipse
+5 "anxiety" ellipse
+6 "apoptosis" ellipse
+7 "aspirin" ellipse
+8 "beta-blocker" ellipse
+9 "bleeding" ellipse
+10 "carcinoma" ellipse
+11 "carboxylation" ellipse
+12 "modification" ellipse
+13 "chimera" ellipse
+14 "cisplatin" ellipse
+15 "dealkylation" ellipse
+16 "death" ellipse
+17 "depression" ellipse
+18 "derivative" ellipse
+19 "admission" ellipse
+20 "class" ellipse
+21 "absorption" ellipse
+22 "accumulation" ellipse
+23 "adverse effect" ellipse
+24 "5-fluorouracil" ellipse
+25 "distribution" ellipse
+26 "change" ellipse
+27 "action" ellipse
+28 "clearance" ellipse
+29 "enantiomer" ellipse
+30 "isomer" ellipse
+31 "dynamics" ellipse
+32 "pharmacogenetics" ellipse
+33 "cycle" ellipse
+34 "anticoagulation" ellipse
+35 "immunosuppression" ellipse
+36 "stress" ellipse
+37 "cytotoxicity" ellipse
+38 "addition" ellipse
+39 "delivered" ellipse
+40 "allozyme" ellipse
+41 "etoposide" ellipse
+42 "exonic variant" ellipse
+43 "acid" ellipse
+44 "blockage" ellipse
+45 "degradation" ellipse
+46 "elimination" ellipse
+47 "kinetic" ellipse
+48 "metabolism" ellipse
+49 "recombinant" ellipse
+50 "globulin" ellipse
+51 "glucuronidation" ellipse
+52 "headache" ellipse
+53 "3-hydroxylation" ellipse
+54 "immuno-suppression" ellipse
+55 "InhalationFormulation" ellipse
+56 "interferon" ellipse
+57 "intronic variant" ellipse
+58 "methyl transfer" ellipse
+59 "myristoylation" ellipse
+60 "opioid" ellipse
+61 "living system" ellipse
+62 "oxidation" ellipse
+63 "palmytoylation" ellipse
+64 "parenteral" ellipse
+65 "phosphorylation" ellipse
+66 "placebo" ellipse
+67 "prenylation" ellipse
+68 "pre-medication" ellipse
+69 "precursor" ellipse
+70 "propranolol" ellipse
+71 "protease" ellipse
+72 "encoded" ellipse
+73 "quinidine" ellipse
+74 "receptor" ellipse
+75 "auto medication" ellipse
+76 "subcutaneous" ellipse
+77 "sulfoxydation" ellipse
+78 "characteristic" ellipse
+79 "biosynthesis" ellipse
+80 "synthetase" ellipse
+81 "tachycardia" ellipse
+82 "hormone" ellipse
+83 "ubiquitination" ellipse
+84 "a" ellipse
+85 "vector" ellipse
+86 "vitamin" ellipse
+*Arcs
+1 55 0.5000000 l "isa"
+55 1 0.1428571 l "isa"
+2 72 0.5000000 l "isa"
+72 2 0.0833333 l "isa"
+3 20 0.5000000 l "isa"
+20 3 0.0232558 l "isa"
+4 20 0.5000000 l "isa"
+20 4 0.0232558 l "isa"
+5 78 0.5000000 l "isa"
+78 5 0.0769231 l "isa"
+6 16 0.5000000 l "isa"
+16 6 0.1000000 l "isa"
+7 20 0.5000000 l "isa"
+20 7 0.0232558 l "isa"
+8 20 0.5000000 l "isa"
+20 8 0.0232558 l "isa"
+9 78 1.0000000 l "isa"
+78 9 0.0769231 l "isa"
+10 19 0.5000000 l "isa"
+19 10 0.0416667 l "isa"
+11 12 0.5000000 l "isa"
+12 11 0.0434783 l "isa"
+13 61 0.5000000 l "isa"
+61 13 0.1111111 l "isa"
+14 20 0.5000000 l "isa"
+20 14 0.0232558 l "isa"
+15 12 0.5000000 l "isa"
+12 15 0.0434783 l "isa"
+17 19 1.0000000 l "isa"
+19 17 0.0416667 l "isa"
+18 12 0.5000000 l "isa"
+12 18 0.0434783 l "isa"
+21 33 0.5000000 l "isa"
+33 21 0.0625000 l "isa"
+22 26 0.5000000 l "isa"
+26 22 0.0714286 l "isa"
+23 27 0.5000000 l "isa"
+27 23 0.0384615 l "isa"
+24 20 0.2000000 l "isa"
+20 24 0.0232558 l "isa"
+25 33 1.0000000 l "isa"
+33 25 0.0625000 l "isa"
+28 33 0.5000000 l "isa"
+33 28 0.0625000 l "isa"
+29 24 0.5000000 l "isa"
+24 29 0.2000000 l "isa"
+30 24 1.0000000 l "isa"
+24 30 0.2000000 l "isa"
+31 32 0.5000000 l "isa"
+32 31 0.2500000 l "isa"
+33 32 0.0625000 l "isa"
+32 33 0.2500000 l "isa"
+34 27 0.5000000 l "isa"
+27 34 0.0384615 l "isa"
+35 27 0.5000000 l "isa"
+27 35 0.0384615 l "isa"
+36 27 1.0000000 l "isa"
+27 36 0.0384615 l "isa"
+37 27 1.0000000 l "isa"
+27 37 0.0384615 l "isa"
+39 38 0.1111111 l "isa"
+38 39 0.0476190 l "isa"
+40 72 0.1428571 l "isa"
+72 40 0.0833333 l "isa"
+41 20 1.0000000 l "isa"
+20 41 0.0232558 l "isa"
+42 84 0.6666667 l "isa"
+84 42 0.0116279 l "isa"
+44 47 0.5000000 l "isa"
+47 44 0.0625000 l "isa"
+45 47 0.5000000 l "isa"
+47 45 0.0625000 l "isa"
+46 47 0.5000000 l "isa"
+47 46 0.0625000 l "isa"
+48 47 0.5000000 l "isa"
+47 48 0.0625000 l "isa"
+49 43 0.5000000 l "isa"
+43 49 0.0263158 l "isa"
+50 72 1.0000000 l "isa"
+72 50 0.0833333 l "isa"
+51 12 0.5000000 l "isa"
+12 51 0.0434783 l "isa"
+52 19 0.5000000 l "isa"
+19 52 0.0416667 l "isa"
+53 12 0.5000000 l "isa"
+12 53 0.0434783 l "isa"
+54 19 0.5000000 l "isa"
+19 54 0.0416667 l "isa"
+56 20 1.0000000 l "isa"
+20 56 0.0232558 l "isa"
+57 84 0.6666667 l "isa"
+84 57 0.0116279 l "isa"
+58 12 0.5000000 l "isa"
+12 58 0.0434783 l "isa"
+59 12 0.5000000 l "isa"
+12 59 0.0434783 l "isa"
+60 20 1.0000000 l "isa"
+20 60 0.0232558 l "isa"
+62 12 0.5000000 l "isa"
+12 62 0.0434783 l "isa"
+63 12 0.5000000 l "isa"
+12 63 0.0434783 l "isa"
+64 39 0.5000000 l "isa"
+39 64 0.1111111 l "isa"
+65 12 0.5000000 l "isa"
+12 65 0.0434783 l "isa"
+66 20 0.5000000 l "isa"
+20 66 0.0232558 l "isa"
+67 12 0.5000000 l "isa"
+12 67 0.0434783 l "isa"
+68 38 0.5000000 l "isa"
+38 68 0.0476190 l "isa"
+69 20 1.0000000 l "isa"
+20 69 0.0232558 l "isa"
+70 20 0.5000000 l "isa"
+20 70 0.0232558 l "isa"
+71 40 0.5000000 l "isa"
+40 71 0.1428571 l "isa"
+73 20 1.0000000 l "isa"
+20 73 0.0232558 l "isa"
+74 72 0.5000000 l "isa"
+72 74 0.0833333 l "isa"
+75 38 0.5000000 l "isa"
+38 75 0.0476190 l "isa"
+76 39 0.5000000 l "isa"
+39 76 0.1111111 l "isa"
+77 12 0.5000000 l "isa"
+12 77 0.0434783 l "isa"
+79 12 1.0000000 l "isa"
+12 79 0.0434783 l "isa"
+80 40 0.5000000 l "isa"
+40 80 0.1428571 l "isa"
+81 78 0.5000000 l "isa"
+78 81 0.0769231 l "isa"
+82 20 1.0000000 l "isa"
+20 82 0.0232558 l "isa"
+83 12 0.5000000 l "isa"
+12 83 0.0434783 l "isa"
+85 61 0.1666667 l "isa"
+61 85 0.1111111 l "isa"
+86 20 0.5000000 l "isa"
+20 86 0.0232558 l "isa"
+12 43 0.0434783 l "definition"
+43 12 0.0263158 l "definition"
+26 26 0.1428571 l "definition"
+26 26 0.1428571 l "definition"
+38 20 0.0476190 l "definition"
+20 38 0.0232558 l "definition"
+40 20 0.1428571 l "definition"
+20 40 0.0232558 l "definition"
+47 43 0.0625000 l "definition"
+43 47 0.0263158 l "definition"
+78 19 0.0769231 l "definition"
+19 78 0.0416667 l "definition"
+84 84 0.0116279 l "definition"
+84 84 0.0116279 l "definition"
+85 19 0.1666667 l "definition"
+19 85 0.0416667 l "definition"
+85 43 0.1666667 l "definition"
+43 85 0.0263158 l "definition"
+1 84 0.5000000 l "substring"
+84 1 0.0058140 l "substring"
+2 84 0.5000000 l "substring"
+84 2 0.0058140 l "substring"
+3 84 0.5000000 l "substring"
+84 3 0.0058140 l "substring"
+4 84 0.5000000 l "substring"
+84 4 0.0058140 l "substring"
+5 84 0.5000000 l "substring"
+84 5 0.0058140 l "substring"
+6 84 0.5000000 l "substring"
+84 6 0.0058140 l "substring"
+7 84 0.5000000 l "substring"
+84 7 0.0058140 l "substring"
+8 84 0.5000000 l "substring"
+84 8 0.0058140 l "substring"
+10 84 0.5000000 l "substring"
+84 10 0.0058140 l "substring"
+11 84 0.5000000 l "substring"
+84 11 0.0058140 l "substring"
+12 84 0.0434783 l "substring"
+84 12 0.0058140 l "substring"
+13 84 0.5000000 l "substring"
+84 13 0.0058140 l "substring"
+14 84 0.5000000 l "substring"
+84 14 0.0058140 l "substring"
+15 84 0.5000000 l "substring"
+84 15 0.0058140 l "substring"
+16 84 0.1000000 l "substring"
+84 16 0.0058140 l "substring"
+18 84 0.5000000 l "substring"
+84 18 0.0058140 l "substring"
+19 84 0.0416667 l "substring"
+84 19 0.0058140 l "substring"
+20 84 0.0232558 l "substring"
+84 20 0.0058140 l "substring"
+21 84 0.5000000 l "substring"
+84 21 0.0058140 l "substring"
+22 84 0.5000000 l "substring"
+84 22 0.0058140 l "substring"
+23 84 0.5000000 l "substring"
+84 23 0.0058140 l "substring"
+24 84 0.2000000 l "substring"
+84 24 0.0058140 l "substring"
+26 84 0.0714286 l "substring"
+84 26 0.0058140 l "substring"
+27 84 0.0384615 l "substring"
+84 27 0.0058140 l "substring"
+28 84 0.5000000 l "substring"
+84 28 0.0058140 l "substring"
+29 84 0.5000000 l "substring"
+84 29 0.0058140 l "substring"
+31 84 0.5000000 l "substring"
+84 31 0.0058140 l "substring"
+32 84 0.2500000 l "substring"
+84 32 0.0058140 l "substring"
+34 84 0.5000000 l "substring"
+84 34 0.0058140 l "substring"
+38 84 0.0476190 l "substring"
+84 38 0.0058140 l "substring"
+40 84 0.1428571 l "substring"
+84 40 0.0058140 l "substring"
+42 84 0.6666667 l "substring"
+84 42 0.0116279 l "substring"
+43 84 0.0526316 l "substring"
+84 43 0.0116279 l "substring"
+44 84 0.5000000 l "substring"
+84 44 0.0058140 l "substring"
+45 84 0.5000000 l "substring"
+84 45 0.0058140 l "substring"
+46 84 0.5000000 l "substring"
+84 46 0.0058140 l "substring"
+48 84 0.5000000 l "substring"
+84 48 0.0058140 l "substring"
+49 84 0.5000000 l "substring"
+84 49 0.0058140 l "substring"
+51 84 0.5000000 l "substring"
+84 51 0.0058140 l "substring"
+52 84 0.5000000 l "substring"
+84 52 0.0058140 l "substring"
+53 84 0.5000000 l "substring"
+84 53 0.0058140 l "substring"
+55 84 0.1428571 l "substring"
+84 55 0.0058140 l "substring"
+57 84 0.6666667 l "substring"
+84 57 0.0116279 l "substring"
+58 84 0.5000000 l "substring"
+84 58 0.0058140 l "substring"
+59 84 0.5000000 l "substring"
+84 59 0.0058140 l "substring"
+62 84 0.5000000 l "substring"
+84 62 0.0058140 l "substring"
+63 84 0.5000000 l "substring"
+84 63 0.0058140 l "substring"
+64 84 0.5000000 l "substring"
+84 64 0.0058140 l "substring"
+65 84 0.5000000 l "substring"
+84 65 0.0058140 l "substring"
+66 84 0.5000000 l "substring"
+84 66 0.0058140 l "substring"
+67 84 0.5000000 l "substring"
+84 67 0.0058140 l "substring"
+68 84 0.5000000 l "substring"
+84 68 0.0058140 l "substring"
+70 84 0.5000000 l "substring"
+84 70 0.0058140 l "substring"
+71 84 0.5000000 l "substring"
+84 71 0.0058140 l "substring"
+75 84 0.5000000 l "substring"
+84 75 0.0058140 l "substring"
+76 84 0.5000000 l "substring"
+84 76 0.0058140 l "substring"
+77 84 0.5000000 l "substring"
+84 77 0.0058140 l "substring"
+78 84 0.0769231 l "substring"
+84 78 0.0058140 l "substring"
+80 84 0.5000000 l "substring"
+84 80 0.0058140 l "substring"
+81 84 0.5000000 l "substring"
+84 81 0.0058140 l "substring"
+83 84 0.5000000 l "substring"
+84 83 0.0058140 l "substring"
+84 86 0.0058140 l "substring"
+86 84 0.5000000 l "substring"
+19 38 0.0416667 l "distance"
+38 19 0.0476190 l "distance"
+27 38 0.0384615 l "distance"
+38 27 0.0476190 l "distance"
+27 43 0.0384615 l "distance"
+43 27 0.0263158 l "distance"
+35 54 0.5000000 l "distance"
+54 35 0.5000000 l "distance"
+43 84 0.0526316 l "distance"
+84 43 0.0116279 l "distance"
+74 85 0.5000000 l "distance"
+85 74 0.1666667 l "distance"
+*Edges

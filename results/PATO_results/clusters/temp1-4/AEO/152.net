@@ -1,0 +1,19 @@
+*Vertices 4
+1 "macrophage" ellipse
+2 "Coprophage" ellipse
+3 "Planktivore" ellipse
+4 "Primary: Other" ellipse
+*Arcs
+2 4 0.2596944 l "isa"
+4 2 0.1634585 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2141870 l "isa"
+1 2 0.1426742 l "distance"
+2 1 0.2557164 l "distance"
+2 4 0.2596944 l "isa"
+4 2 0.1634585 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2141870 l "isa"
+1 2 0.1426742 l "distance"
+2 1 0.2557164 l "distance"
+*Edges

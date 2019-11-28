@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Styrian" ellipse
+2 "Iberian" ellipse
+3 "Tibetan" ellipse
+4 "Qinghai Black Tibetan" ellipse
+*Arcs
+3 4 0.4432420 l "substring"
+4 3 0.4849012 l "substring"
+1 2 0.2838124 l "distance"
+2 1 0.2082221 l "distance"
+2 3 0.2249225 l "distance"
+3 2 0.3284620 l "distance"
+3 4 0.4432420 l "substring"
+4 3 0.4849012 l "substring"
+1 2 0.2838124 l "distance"
+2 1 0.2082221 l "distance"
+2 3 0.2249225 l "distance"
+3 2 0.3284620 l "distance"
+3 4 0.4432420 l "substring"
+4 3 0.4849012 l "substring"
+1 2 0.2838124 l "distance"
+2 1 0.2082221 l "distance"
+2 3 0.2249225 l "distance"
+3 2 0.3284620 l "distance"
+3 4 0.4432420 l "substring"
+4 3 0.4849012 l "substring"
+1 2 0.2838124 l "distance"
+2 1 0.2082221 l "distance"
+2 3 0.2249225 l "distance"
+3 2 0.3284620 l "distance"
+3 4 0.4432420 l "substring"
+4 3 0.4849012 l "substring"
+1 2 0.2838124 l "distance"
+2 1 0.2082221 l "distance"
+2 3 0.2249225 l "distance"
+3 2 0.3284620 l "distance"
+3 4 0.4432420 l "substring"
+4 3 0.4849012 l "substring"
+1 2 0.2838124 l "distance"
+2 1 0.2082221 l "distance"
+2 3 0.2249225 l "distance"
+3 2 0.3284620 l "distance"
+*Edges

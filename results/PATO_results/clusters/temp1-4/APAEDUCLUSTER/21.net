@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Myelitis" ellipse
+2 "Poliomyelitis" ellipse
+*Arcs
+1 2 0.2726451 l "substring"
+2 1 0.5235065 l "substring"
+1 2 0.2726451 l "substring"
+2 1 0.5235065 l "substring"
+*Edges

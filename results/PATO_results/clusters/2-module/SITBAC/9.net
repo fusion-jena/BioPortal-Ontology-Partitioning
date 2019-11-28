@@ -1,0 +1,9 @@
+*Vertices 2
+1 "EHR_2_Patient_Relation" ellipse
+2 "EHR2PatientRelation"
+*Arcs
+1 2 0.2500000 l "definition"
+2 1 0.4000000 l "definition"
+1 2 0.2500000 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

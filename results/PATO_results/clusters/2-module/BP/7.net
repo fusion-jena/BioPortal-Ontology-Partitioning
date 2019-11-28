@@ -1,0 +1,9 @@
+*Vertices 2
+1 "SequenceInterval" ellipse
+2 "SequenceSite" ellipse
+*Arcs
+1 2 0.4000000 l "sequenceIntervalBegin"
+2 1 0.4000000 l "sequenceIntervalBegin"
+1 2 0.4000000 l "sequenceIntervalEnd"
+2 1 0.4000000 l "sequenceIntervalEnd"
+*Edges

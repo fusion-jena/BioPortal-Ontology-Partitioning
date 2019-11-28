@@ -1,0 +1,39 @@
+*Vertices 4
+1 "obligate aerobe" ellipse
+2 "obligate anaerobe" ellipse
+3 "obligate aerobe" ellipse
+4 "obligate anaerobe" ellipse
+*Arcs
+1 3 0.2440445 l "substring"
+3 1 0.2438995 l "substring"
+2 4 0.1790282 l "substring"
+4 2 0.1789464 l "substring"
+1 2 0.1095427 l "distance"
+2 1 0.0841859 l "distance"
+1 3 0.2440445 l "distance"
+3 1 0.2438995 l "distance"
+1 4 0.1095427 l "distance"
+4 1 0.0841474 l "distance"
+2 3 0.0841859 l "distance"
+3 2 0.1094776 l "distance"
+2 4 0.1790282 l "distance"
+4 2 0.1789464 l "distance"
+3 4 0.1094776 l "distance"
+4 3 0.0841474 l "distance"
+1 3 0.2440445 l "substring"
+3 1 0.2438995 l "substring"
+2 4 0.1790282 l "substring"
+4 2 0.1789464 l "substring"
+1 2 0.1095427 l "distance"
+2 1 0.0841859 l "distance"
+1 3 0.2440445 l "distance"
+3 1 0.2438995 l "distance"
+1 4 0.1095427 l "distance"
+4 1 0.0841474 l "distance"
+2 3 0.0841859 l "distance"
+3 2 0.1094776 l "distance"
+2 4 0.1790282 l "distance"
+4 2 0.1789464 l "distance"
+3 4 0.1094776 l "distance"
+4 3 0.0841474 l "distance"
+*Edges

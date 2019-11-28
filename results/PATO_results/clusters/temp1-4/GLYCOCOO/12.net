@@ -1,0 +1,9 @@
+*Vertices 2
+1 "amino acid" ellipse
+2 "has amino acid"
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.5000000 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.4000000 l "substring"
+*Edges

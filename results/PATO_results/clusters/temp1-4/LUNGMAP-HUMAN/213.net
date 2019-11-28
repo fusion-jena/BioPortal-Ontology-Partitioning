@@ -1,0 +1,38 @@
+*Vertices 3
+1 "ethylation" ellipse
+2 "acetylation" ellipse
+3 "methylation" ellipse
+*Arcs
+1 3 0.4097305 l "substring"
+3 1 0.5356451 l "substring"
+1 2 0.1271451 l "distance"
+2 1 0.1521223 l "distance"
+1 3 0.4097305 l "distance"
+3 1 0.5356451 l "distance"
+2 3 0.1618638 l "distance"
+3 2 0.1768623 l "distance"
+1 3 0.4097305 l "substring"
+3 1 0.5356451 l "substring"
+1 2 0.1271451 l "distance"
+2 1 0.1521223 l "distance"
+1 3 0.4097305 l "distance"
+3 1 0.5356451 l "distance"
+2 3 0.1618638 l "distance"
+3 2 0.1768623 l "distance"
+1 3 0.4097305 l "substring"
+3 1 0.5356451 l "substring"
+1 2 0.1271451 l "distance"
+2 1 0.1521223 l "distance"
+1 3 0.4097305 l "distance"
+3 1 0.5356451 l "distance"
+2 3 0.1618638 l "distance"
+3 2 0.1768623 l "distance"
+1 3 0.4097305 l "substring"
+3 1 0.5356451 l "substring"
+1 2 0.1271451 l "distance"
+2 1 0.1521223 l "distance"
+1 3 0.4097305 l "distance"
+3 1 0.5356451 l "distance"
+2 3 0.1618638 l "distance"
+3 2 0.1768623 l "distance"
+*Edges

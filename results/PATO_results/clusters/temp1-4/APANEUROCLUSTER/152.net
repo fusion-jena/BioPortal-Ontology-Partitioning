@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hypomania" ellipse
+2 "Pyromania" ellipse
+*Arcs
+1 2 0.3927884 l "distance"
+2 1 0.3924636 l "distance"
+1 2 0.3927884 l "distance"
+2 1 0.3924636 l "distance"
+1 2 0.3927884 l "distance"
+2 1 0.3924636 l "distance"
+*Edges

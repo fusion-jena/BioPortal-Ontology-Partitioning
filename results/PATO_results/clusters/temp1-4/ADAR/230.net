@@ -1,0 +1,38 @@
+*Vertices 3
+1 "FeasibilityLevel" ellipse
+2 "Feasible" ellipse
+3 "Unfeasible" ellipse
+*Arcs
+2 1 0.2124740 l "isa"
+1 2 0.2775316 l "isa"
+3 1 0.2124740 l "isa"
+1 3 0.2775316 l "isa"
+2 3 0.7875260 l "substring"
+3 2 0.7875260 l "substring"
+2 3 0.7875260 l "distance"
+3 2 0.7875260 l "distance"
+2 1 0.2124740 l "isa"
+1 2 0.2775316 l "isa"
+3 1 0.2124740 l "isa"
+1 3 0.2775316 l "isa"
+2 3 0.7875260 l "substring"
+3 2 0.7875260 l "substring"
+2 3 0.7875260 l "distance"
+3 2 0.7875260 l "distance"
+2 1 0.2124740 l "isa"
+1 2 0.2775316 l "isa"
+3 1 0.2124740 l "isa"
+1 3 0.2775316 l "isa"
+2 3 0.7875260 l "substring"
+3 2 0.7875260 l "substring"
+2 3 0.7875260 l "distance"
+3 2 0.7875260 l "distance"
+2 1 0.2124740 l "isa"
+1 2 0.2775316 l "isa"
+3 1 0.2124740 l "isa"
+1 3 0.2775316 l "isa"
+2 3 0.7875260 l "substring"
+3 2 0.7875260 l "substring"
+2 3 0.7875260 l "distance"
+3 2 0.7875260 l "distance"
+*Edges

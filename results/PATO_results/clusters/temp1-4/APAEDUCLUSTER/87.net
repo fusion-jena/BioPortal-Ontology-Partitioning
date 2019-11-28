@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Menstrual_Disorders" ellipse
+2 "Mental_Disorders" ellipse
+*Arcs
+1 2 0.3444388 l "distance"
+2 1 0.1361236 l "distance"
+1 2 0.3444388 l "distance"
+2 1 0.1361236 l "distance"
+*Edges

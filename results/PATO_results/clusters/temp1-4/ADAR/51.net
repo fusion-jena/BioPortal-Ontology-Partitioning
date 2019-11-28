@@ -1,0 +1,23 @@
+*Vertices 6
+1 "Consistently_Shakes_Head_Spontaneously" ellipse
+2 "Head_Shaking" ellipse
+3 "Never_Shakes_Head_Spontaneously" ellipse
+4 "NotAvailable_Head_shaking" ellipse
+5 "Sometimes_Shakes_Head_Spontaneously" ellipse
+6 "Unknown_Head_Shaking" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1000000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.2000000 l "isa"
+2 4 0.2000000 l "substring"
+4 2 1.0000000 l "substring"
+2 6 0.2000000 l "substring"
+6 2 1.0000000 l "substring"
+*Edges

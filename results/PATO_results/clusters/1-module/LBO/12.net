@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Katahdin" ellipse
+2 "Morada Nova" ellipse
+3 "Pelibüey" ellipse
+4 "Rabo Largo" ellipse
+5 "Royal White" ellipse
+6 "Sahel-type" ellipse
+7 "Santa Inês" ellipse
+8 "St. Croix" ellipse
+9 "Touabire" ellipse
+10 "Hair sheep breed" ellipse
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.0434783 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.0434783 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.0434783 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0434783 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0434783 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0434783 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.0434783 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0434783 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0434783 l "isa"
+*Edges

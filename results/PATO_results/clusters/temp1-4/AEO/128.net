@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Chest pain" ellipse
+2 "Constipation" ellipse
+3 "Skin Hives" ellipse
+4 "cholinesterase inhibitor side effect" ellipse
+*Arcs
+1 4 0.2590759 l "definition"
+4 1 0.0678539 l "definition"
+2 4 0.2590759 l "definition"
+4 2 0.0678539 l "definition"
+3 4 0.2590759 l "definition"
+4 3 0.0678539 l "definition"
+1 4 0.2590759 l "definition"
+4 1 0.0678539 l "definition"
+2 4 0.2590759 l "definition"
+4 2 0.0678539 l "definition"
+3 4 0.2590759 l "definition"
+4 3 0.0678539 l "definition"
+1 4 0.2590759 l "definition"
+4 1 0.0678539 l "definition"
+2 4 0.2590759 l "definition"
+4 2 0.0678539 l "definition"
+3 4 0.2590759 l "definition"
+4 3 0.0678539 l "definition"
+*Edges

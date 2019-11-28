@@ -1,0 +1,26 @@
+*Vertices 7
+1 "Axura" ellipse
+2 "FAD mutation" ellipse
+3 "Fibril" ellipse
+4 "IL1A" ellipse
+5 "KIBRA" ellipse
+6 "amyloid fibril" ellipse
+7 "mutation" ellipse
+*Arcs
+2 7 1.0000000 l "isa"
+7 2 0.2857143 l "isa"
+5 7 0.2500000 l "isa"
+7 5 0.1428571 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2857143 l "isa"
+2 7 1.0000000 l "substring"
+7 2 0.2857143 l "substring"
+3 6 0.2857143 l "substring"
+6 3 1.0000000 l "substring"
+1 5 0.1000000 l "distance"
+5 1 0.2500000 l "distance"
+3 5 0.1428571 l "distance"
+5 3 0.2500000 l "distance"
+4 5 0.0384615 l "distance"
+5 4 0.2500000 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "carboxylic acid anion" ellipse
+2 "carboxylic acid" ellipse
+*Arcs
+1 2 0.2727273 l "definition"
+2 1 0.2000000 l "definition"
+2 1 0.2000000 l "definition"
+1 2 0.2727273 l "definition"
+1 2 0.2727273 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

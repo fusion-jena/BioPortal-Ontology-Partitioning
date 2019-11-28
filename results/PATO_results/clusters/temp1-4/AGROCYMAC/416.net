@@ -1,0 +1,43 @@
+*Vertices 4
+1 "signal-to-noise ratio" ellipse
+2 "signal-to-noise ratio (RMS)" ellipse
+3 "signal-to-noise ratio (peak-to-peak)" ellipse
+4 "signal-to-noise ratio (ASTM E1657-98)" ellipse
+*Arcs
+2 1 0.4040580 l "isa"
+1 2 0.2135923 l "isa"
+3 1 0.3060634 l "isa"
+1 3 0.2006725 l "isa"
+4 1 0.4040580 l "isa"
+1 4 0.2135923 l "isa"
+1 2 0.2135923 l "substring"
+2 1 0.4040580 l "substring"
+1 3 0.2006725 l "substring"
+3 1 0.3060634 l "substring"
+1 4 0.2135923 l "substring"
+4 1 0.4040580 l "substring"
+2 1 0.4040580 l "isa"
+1 2 0.2135923 l "isa"
+3 1 0.3060634 l "isa"
+1 3 0.2006725 l "isa"
+4 1 0.4040580 l "isa"
+1 4 0.2135923 l "isa"
+1 2 0.2135923 l "substring"
+2 1 0.4040580 l "substring"
+1 3 0.2006725 l "substring"
+3 1 0.3060634 l "substring"
+1 4 0.2135923 l "substring"
+4 1 0.4040580 l "substring"
+2 1 0.4040580 l "isa"
+1 2 0.2135923 l "isa"
+3 1 0.3060634 l "isa"
+1 3 0.2006725 l "isa"
+4 1 0.4040580 l "isa"
+1 4 0.2135923 l "isa"
+1 2 0.2135923 l "substring"
+2 1 0.4040580 l "substring"
+1 3 0.2006725 l "substring"
+3 1 0.3060634 l "substring"
+1 4 0.2135923 l "substring"
+4 1 0.4040580 l "substring"
+*Edges

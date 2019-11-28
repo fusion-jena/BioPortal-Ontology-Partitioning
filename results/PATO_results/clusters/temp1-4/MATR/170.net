@@ -1,0 +1,15 @@
+*Vertices 2
+1 "right anterior pulmonary nerve plexus" ellipse
+2 "right posterior pulmonary nerve plexus" ellipse
+*Arcs
+1 2 0.2397483 l "distance"
+2 1 0.2397483 l "distance"
+1 2 0.2397483 l "distance"
+2 1 0.2397483 l "distance"
+1 2 0.2397483 l "distance"
+2 1 0.2397483 l "distance"
+1 2 0.2397483 l "distance"
+2 1 0.2397483 l "distance"
+1 2 0.2397483 l "distance"
+2 1 0.2397483 l "distance"
+*Edges

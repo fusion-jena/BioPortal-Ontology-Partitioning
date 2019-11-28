@@ -1,0 +1,43 @@
+*Vertices 8
+1 "Age_when_abnormality_first_evident" ellipse
+2 "Age_when_abnormality_first_evident_UnknownOrNotAsked" ellipse
+3 "Development_definitly_abnormal_in_the_first_3_years_not_unambiguously_autistic_at_that_age" ellipse
+4 "Development_in_the_dirst_3_years_of_life_clearly_normal" ellipse
+5 "Development_possibly_within_normal_limits_during_first_3_years" ellipse
+6 "Development_probably_abnormal_by_the_age_of_3_years" ellipse
+7 "ageabnDevelopment_probably_abnormal_by_the_age_of_3_years"
+8 "ageabnDevelopment_definitly_abnormal_in_the_first_3_years_not_unambiguously_autistic_at_that_age"
+*Arcs
+2 1 0.7647059 l "isa"
+1 2 0.2630691 l "isa"
+3 1 0.3442623 l "isa"
+1 3 0.1062395 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1264755 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1264755 l "isa"
+6 1 0.3442623 l "isa"
+1 6 0.1062395 l "isa"
+1 2 0.2630691 l "substring"
+2 1 0.7647059 l "substring"
+3 8 0.3934426 l "substring"
+8 3 0.3974763 l "substring"
+6 7 0.3934426 l "substring"
+7 6 0.3974763 l "substring"
+2 1 0.7647059 l "isa"
+1 2 0.2630691 l "isa"
+3 1 0.3442623 l "isa"
+1 3 0.1062395 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1264755 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1264755 l "isa"
+6 1 0.3442623 l "isa"
+1 6 0.1062395 l "isa"
+1 2 0.2630691 l "substring"
+2 1 0.7647059 l "substring"
+3 8 0.3934426 l "substring"
+8 3 0.3974763 l "substring"
+6 7 0.3934426 l "substring"
+7 6 0.3974763 l "substring"
+*Edges

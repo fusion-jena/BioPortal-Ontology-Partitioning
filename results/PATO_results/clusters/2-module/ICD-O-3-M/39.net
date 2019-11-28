@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Osteoma, NOS (C40._,C41._)" ellipse
+2 "Osteoid osteoma, NOS (C40._,C41._)" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

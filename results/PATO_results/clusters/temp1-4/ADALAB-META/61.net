@@ -1,0 +1,35 @@
+*Vertices 4
+1 "ConsentForm" ellipse
+2 "DataProcessingPatientConsentForm" ellipse
+3 "HospitalConsentForm" ellipse
+4 "PatientConsentForm" ellipse
+*Arcs
+2 4 0.3816370 l "isa"
+4 2 0.4180509 l "isa"
+3 1 0.7110092 l "isa"
+1 3 0.3292424 l "isa"
+4 1 0.4107678 l "isa"
+1 4 0.2995044 l "isa"
+1 2 0.1287763 l "substring"
+2 1 0.1612317 l "substring"
+1 3 0.3292424 l "substring"
+3 1 0.7110092 l "substring"
+1 4 0.2995044 l "substring"
+4 1 0.4107678 l "substring"
+2 4 0.3816370 l "substring"
+4 2 0.4180509 l "substring"
+2 4 0.3816370 l "isa"
+4 2 0.4180509 l "isa"
+3 1 0.7110092 l "isa"
+1 3 0.3292424 l "isa"
+4 1 0.4107678 l "isa"
+1 4 0.2995044 l "isa"
+1 2 0.1287763 l "substring"
+2 1 0.1612317 l "substring"
+1 3 0.3292424 l "substring"
+3 1 0.7110092 l "substring"
+1 4 0.2995044 l "substring"
+4 1 0.4107678 l "substring"
+2 4 0.3816370 l "substring"
+4 2 0.4180509 l "substring"
+*Edges

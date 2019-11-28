@@ -1,0 +1,24 @@
+*Vertices 5
+1 "anatomical surface" ellipse
+2 "apical surface" ellipse
+3 "proximal surface" ellipse
+4 "medial surface" ellipse
+5 "ventral surface" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.0800000 l "isa"
+3 1 0.2857143 l "isa"
+1 3 0.0800000 l "isa"
+4 1 0.2857143 l "isa"
+1 4 0.0800000 l "isa"
+5 1 0.2857143 l "isa"
+1 5 0.0800000 l "isa"
+2 1 0.2857143 l "definition"
+1 2 0.0800000 l "definition"
+3 1 0.2857143 l "definition"
+1 3 0.0800000 l "definition"
+4 1 0.2857143 l "definition"
+1 4 0.0800000 l "definition"
+5 1 0.2857143 l "definition"
+1 5 0.0800000 l "definition"
+*Edges

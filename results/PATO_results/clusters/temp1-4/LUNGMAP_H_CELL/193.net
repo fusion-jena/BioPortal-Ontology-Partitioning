@@ -1,0 +1,31 @@
+*Vertices 4
+1 "pulmonary muscular arteriole" ellipse
+2 "pulmonary muscular arteriole tunica adventitia" ellipse
+3 "pulmonary muscular arteriole tunica intima" ellipse
+4 "pulmonary muscular arteriole tunica media" ellipse
+*Arcs
+2 1 0.4473545 l "definition"
+1 2 0.2996016 l "definition"
+3 1 0.2787783 l "definition"
+1 3 0.2828685 l "definition"
+4 1 0.3190556 l "definition"
+1 4 0.2868526 l "definition"
+1 2 0.2996016 l "substring"
+2 1 0.4473545 l "substring"
+1 3 0.2828685 l "substring"
+3 1 0.2787783 l "substring"
+1 4 0.2868526 l "substring"
+4 1 0.3190556 l "substring"
+2 1 0.4473545 l "definition"
+1 2 0.2996016 l "definition"
+3 1 0.2787783 l "definition"
+1 3 0.2828685 l "definition"
+4 1 0.3190556 l "definition"
+1 4 0.2868526 l "definition"
+1 2 0.2996016 l "substring"
+2 1 0.4473545 l "substring"
+1 3 0.2828685 l "substring"
+3 1 0.2787783 l "substring"
+1 4 0.2868526 l "substring"
+4 1 0.3190556 l "substring"
+*Edges

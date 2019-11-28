@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Injury_Risk" ellipse
+2 "Perioperative_Injury_Risk" ellipse
+*Arcs
+1 2 0.1387556 l "substring"
+2 1 0.1387556 l "substring"
+1 2 0.1387556 l "substring"
+2 1 0.1387556 l "substring"
+1 2 0.1387556 l "substring"
+2 1 0.1387556 l "substring"
+*Edges

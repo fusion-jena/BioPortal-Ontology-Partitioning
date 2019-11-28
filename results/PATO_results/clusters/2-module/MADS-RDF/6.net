@@ -1,0 +1,9 @@
+*Vertices 2
+1 "MADS Collection" ellipse
+2 "Collection" ellipse
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.5000000 l "isa"
+1 2 0.2857143 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

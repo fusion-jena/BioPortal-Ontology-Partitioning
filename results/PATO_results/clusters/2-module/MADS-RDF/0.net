@@ -1,0 +1,66 @@
+*Vertices 20
+1 "LinguisticSystem" ellipse
+2 "DataTypeProperty" ellipse
+3 "Administrative Metadata"
+4 "Code"
+5 "Date Name
+      Element" ellipse
+6 "Deprecated
+      Authority" ellipse
+7 "Thing" ellipse
+8 "Class"
+9 "Has MADSCollection Member"
+10 "Is Member Of MADSCollection"
+11 "Is Member of MADS
+      Scheme"
+12 "Is Top Member of MADS
+      Scheme"
+13 "See Also"
+14 "City Type" ellipse
+15 "Corporate Name Type" ellipse
+16 "MADS Type" ellipse
+17 "Part Name
+      Element" ellipse
+18 "Part Number
+      Element" ellipse
+19 "State Type" ellipse
+20 "Has MADS Scheme
+      Member"
+*Arcs
+6 7 0.2000000 l "isa"
+7 6 0.2000000 l "isa"
+15 15 0.6666667 l "Has Parent
+      Organization"
+15 15 0.6666667 l "Has Parent
+      Organization"
+15 15 0.6666667 l "Is Parent Organization
+      Of"
+15 15 0.6666667 l "Is Parent Organization
+      Of"
+3 6 0.2000000 l "definition"
+6 3 0.2000000 l "definition"
+3 8 0.2000000 l "definition"
+8 3 0.0909091 l "definition"
+9 8 0.2000000 l "definition"
+8 9 0.0909091 l "definition"
+20 8 0.2000000 l "definition"
+8 20 0.0909091 l "definition"
+10 8 0.2000000 l "definition"
+8 10 0.0909091 l "definition"
+11 8 0.2500000 l "definition"
+8 11 0.0909091 l "definition"
+12 8 0.2500000 l "definition"
+8 12 0.0909091 l "definition"
+13 6 0.2500000 l "definition"
+6 13 0.2000000 l "definition"
+13 8 0.2500000 l "definition"
+8 13 0.0909091 l "definition"
+4 6 0.2000000 l "definition"
+6 4 0.2000000 l "definition"
+4 8 0.2000000 l "definition"
+8 4 0.0909091 l "definition"
+5 17 0.2500000 l "distance"
+17 5 0.2500000 l "distance"
+17 18 0.2500000 l "distance"
+18 17 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "East_Germany" ellipse
+2 "West_Germany" ellipse
+*Arcs
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+1 2 0.5284466 l "distance"
+2 1 0.5284466 l "distance"
+*Edges

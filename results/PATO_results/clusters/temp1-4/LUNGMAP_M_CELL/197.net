@@ -1,0 +1,9 @@
+*Vertices 2
+1 "club cell" ellipse
+2 "club cell" ellipse
+*Arcs
+1 2 0.1929227 l "substring"
+2 1 0.3333333 l "substring"
+1 2 0.1929227 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

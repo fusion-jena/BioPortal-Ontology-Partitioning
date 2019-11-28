@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Thing" ellipse
+2 "Influence" ellipse
+*Arcs
+2 1 0.0909091 l "influencer"
+1 2 1.0000000 l "influencer"
+*Edges

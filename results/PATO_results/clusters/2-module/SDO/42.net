@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Third posterior intercostal artery" ellipse
+2 "Posterior intercostal artery" ellipse
+3 "Right third posterior intercostal artery" ellipse
+4 "Left third posterior intercostal artery" ellipse
+*Arcs
+1 2 0.2500000 l "isa"
+2 1 0.0512821 l "isa"
+3 1 0.2222222 l "isa"
+1 3 0.2500000 l "isa"
+4 1 0.2222222 l "isa"
+1 4 0.2500000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.0512821 l "substring"
+1 3 0.2500000 l "substring"
+3 1 0.2222222 l "substring"
+1 4 0.2500000 l "substring"
+4 1 0.2222222 l "substring"
+2 3 0.0256410 l "substring"
+3 2 0.1111111 l "substring"
+2 4 0.0256410 l "substring"
+4 2 0.1111111 l "substring"
+*Edges

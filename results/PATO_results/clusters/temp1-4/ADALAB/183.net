@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ThirdThroracicVertebra" ellipse
+2 "ThoracicVertebra" ellipse
+*Arcs
+1 2 0.2076403 l "isa"
+2 1 0.0637409 l "isa"
+1 2 0.2076403 l "isa"
+2 1 0.0637409 l "isa"
+1 2 0.2076403 l "isa"
+2 1 0.0637409 l "isa"
+*Edges

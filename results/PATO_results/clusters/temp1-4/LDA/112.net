@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Orkney" ellipse
+2 "Hackney" ellipse
+*Arcs
+1 2 0.3514748 l "distance"
+2 1 0.3629647 l "distance"
+1 2 0.3514748 l "distance"
+2 1 0.3629647 l "distance"
+*Edges

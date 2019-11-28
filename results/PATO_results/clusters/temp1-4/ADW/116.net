@@ -1,0 +1,9 @@
+*Vertices 2
+1 "thing related to severe stage" ellipse
+2 "thing related to stage" ellipse
+*Arcs
+1 2 0.2673093 l "isa"
+2 1 0.1113144 l "isa"
+1 2 0.2673093 l "isa"
+2 1 0.1113144 l "isa"
+*Edges

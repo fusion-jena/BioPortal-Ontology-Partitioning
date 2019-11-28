@@ -1,0 +1,32 @@
+*Vertices 5
+1 "analytical method" ellipse
+2 "quality profile control command" ellipse
+3 "action specification" ellipse
+4 "plan specification" ellipse
+5 "statistical method" ellipse
+*Arcs
+1 3 0.5004814 l "isa"
+3 1 0.1094359 l "isa"
+1 4 0.4995187 l "isa"
+4 1 0.1048014 l "isa"
+2 3 0.2708361 l "isa"
+3 2 0.0931209 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1388450 l "isa"
+1 3 0.5004814 l "isa"
+3 1 0.1094359 l "isa"
+1 4 0.4995187 l "isa"
+4 1 0.1048014 l "isa"
+2 3 0.2708361 l "isa"
+3 2 0.0931209 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1388450 l "isa"
+1 3 0.5004814 l "isa"
+3 1 0.1094359 l "isa"
+1 4 0.4995187 l "isa"
+4 1 0.1048014 l "isa"
+2 3 0.2708361 l "isa"
+3 2 0.0931209 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1388450 l "isa"
+*Edges

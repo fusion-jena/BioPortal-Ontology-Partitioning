@@ -1,0 +1,15 @@
+*Vertices 4
+1 "distal side" ellipse
+2 "dorsal side" ellipse
+3 "distal to"
+4 "dorsal to"
+*Arcs
+1 3 0.0833333 l "definition"
+3 1 0.5000000 l "definition"
+2 4 0.0476190 l "definition"
+4 2 0.5000000 l "definition"
+1 2 0.0833333 l "distance"
+2 1 0.0476190 l "distance"
+3 4 0.5000000 l "distance"
+4 3 0.5000000 l "distance"
+*Edges

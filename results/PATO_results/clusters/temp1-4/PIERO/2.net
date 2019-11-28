@@ -1,0 +1,41 @@
+*Vertices 6
+1 "Gene" ellipse
+2 "Genetic factor" ellipse
+3 "Entity" ellipse
+4 "Quality" ellipse
+5 "Entity" ellipse
+6 "Generation" ellipse
+*Arcs
+1 2 0.2992126 l "isa"
+2 1 0.5621302 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.4349680 l "isa"
+6 3 0.4879518 l "isa"
+3 6 0.1727079 l "isa"
+3 4 0.4349680 l "has quality"
+4 3 1.0000000 l "has quality"
+1 2 0.2992126 l "substring"
+2 1 0.5621302 l "substring"
+1 6 0.1338583 l "substring"
+6 1 0.5120482 l "substring"
+3 5 0.3923241 l "substring"
+5 3 0.7159532 l "substring"
+3 5 0.3923241 l "distance"
+5 3 0.7159532 l "distance"
+1 2 0.2992126 l "isa"
+2 1 0.5621302 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.4349680 l "isa"
+6 3 0.4879518 l "isa"
+3 6 0.1727079 l "isa"
+3 4 0.4349680 l "has quality"
+4 3 1.0000000 l "has quality"
+1 2 0.2992126 l "substring"
+2 1 0.5621302 l "substring"
+1 6 0.1338583 l "substring"
+6 1 0.5120482 l "substring"
+3 5 0.3923241 l "substring"
+5 3 0.7159532 l "substring"
+3 5 0.3923241 l "distance"
+5 3 0.7159532 l "distance"
+*Edges

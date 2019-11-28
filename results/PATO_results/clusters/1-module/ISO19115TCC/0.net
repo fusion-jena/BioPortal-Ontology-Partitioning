@@ -1,0 +1,63 @@
+*Vertices 20
+1 "elevation" ellipse
+2 "location" ellipse
+3 "biota" ellipse
+4 "boundaries" ellipse
+5 "climatologyMeteorologyAtmosphere" ellipse
+6 "economy" ellipse
+7 "environment" ellipse
+8 "geoscientificInformation" ellipse
+9 "health" ellipse
+10 "imageryBaseMapsEarthCover" ellipse
+11 "inlandWaters" ellipse
+12 "intelligenceMilitary" ellipse
+13 "oceans" ellipse
+14 "planningCadastre" ellipse
+15 "society" ellipse
+16 "structure" ellipse
+17 "transportation" ellipse
+18 "utilitiesCommunication" ellipse
+19 "TopicCategoryCode" ellipse
+20 "Thing"
+*Arcs
+3 19 1.0000000 l "isa"
+19 3 0.0526316 l "isa"
+4 19 1.0000000 l "isa"
+19 4 0.0526316 l "isa"
+5 19 1.0000000 l "isa"
+19 5 0.0526316 l "isa"
+6 19 1.0000000 l "isa"
+19 6 0.0526316 l "isa"
+1 19 0.5000000 l "isa"
+19 1 0.0526316 l "isa"
+7 19 1.0000000 l "isa"
+19 7 0.0526316 l "isa"
+8 19 1.0000000 l "isa"
+19 8 0.0526316 l "isa"
+9 19 1.0000000 l "isa"
+19 9 0.0526316 l "isa"
+10 19 1.0000000 l "isa"
+19 10 0.0526316 l "isa"
+11 19 1.0000000 l "isa"
+19 11 0.0526316 l "isa"
+12 19 1.0000000 l "isa"
+19 12 0.0526316 l "isa"
+2 19 0.5000000 l "isa"
+19 2 0.0526316 l "isa"
+13 19 1.0000000 l "isa"
+19 13 0.0526316 l "isa"
+14 19 1.0000000 l "isa"
+19 14 0.0526316 l "isa"
+15 19 1.0000000 l "isa"
+19 15 0.0526316 l "isa"
+16 19 1.0000000 l "isa"
+19 16 0.0526316 l "isa"
+17 19 1.0000000 l "isa"
+19 17 0.0526316 l "isa"
+18 19 1.0000000 l "isa"
+19 18 0.0526316 l "isa"
+19 20 0.0526316 l "isa"
+20 19 1.0000000 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

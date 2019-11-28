@@ -1,0 +1,37 @@
+*Vertices 8
+1 "evidence source" ellipse
+2 "formal care plan" ellipse
+3 "human" ellipse
+4 "infrastructure" ellipse
+5 "is a deviation of"
+6 "is endorsed by"
+7 "is initiated by"
+8 "is issued by"
+*Arcs
+2 2 0.0937500 l "has outcome"
+2 2 0.0937500 l "has outcome"
+2 2 0.0937500 l "is a deviation of"
+2 2 0.0937500 l "is a deviation of"
+2 1 0.0312500 l "is endorsed by"
+1 2 1.0000000 l "is endorsed by"
+2 3 0.0312500 l "requires resource"
+3 2 0.6666667 l "requires resource"
+2 4 0.0312500 l "requires resource"
+4 2 0.6666667 l "requires resource"
+2 2 0.0937500 l "definition"
+2 2 0.0937500 l "definition"
+2 5 0.0156250 l "definition"
+5 2 1.0000000 l "definition"
+2 3 0.0312500 l "definition"
+3 2 0.6666667 l "definition"
+2 4 0.0312500 l "definition"
+4 2 0.6666667 l "definition"
+2 6 0.0156250 l "definition"
+6 2 1.0000000 l "definition"
+2 1 0.0312500 l "definition"
+1 2 1.0000000 l "definition"
+2 7 0.0156250 l "definition"
+7 2 1.0000000 l "definition"
+2 8 0.0156250 l "definition"
+8 2 1.0000000 l "definition"
+*Edges

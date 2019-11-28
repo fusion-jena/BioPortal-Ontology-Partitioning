@@ -1,0 +1,14 @@
+*Vertices 3
+1 "interspecies interaction between organisms" ellipse
+2 "interaction with symbiont" ellipse
+3 "acquisition of nutrients from symbiont" ellipse
+*Arcs
+2 1 0.2573377 l "isa"
+1 2 0.1773404 l "isa"
+3 2 0.2095039 l "isa"
+2 3 0.2608872 l "isa"
+2 1 0.2573377 l "isa"
+1 2 0.1773404 l "isa"
+3 2 0.2095039 l "isa"
+2 3 0.2608872 l "isa"
+*Edges

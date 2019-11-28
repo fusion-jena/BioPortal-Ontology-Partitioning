@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Definite_unusual_and_marked_resistance_to_trivial_changes_in_the_environment" ellipse
+2 "resis_Definite_unusual_and_marked_resistance_to_trivial_changes_in_the_environment"
+*Arcs
+1 2 0.1733964 l "substring"
+2 1 0.1508383 l "substring"
+1 2 0.1733964 l "substring"
+2 1 0.1508383 l "substring"
+*Edges

@@ -1,0 +1,41 @@
+*Vertices 6
+1 "duloxetine" ellipse
+2 "fluoxetine" ellipse
+3 "fluvoxamine" ellipse
+4 "glucosamine" ellipse
+5 "paroxetine" ellipse
+6 "reboxetine" ellipse
+*Arcs
+1 2 0.1467542 l "distance"
+2 1 0.1285782 l "distance"
+1 5 0.1479098 l "distance"
+5 1 0.1479098 l "distance"
+1 6 0.1479098 l "distance"
+6 1 0.1479098 l "distance"
+2 3 0.1299281 l "distance"
+3 2 0.1494462 l "distance"
+2 5 0.1285782 l "distance"
+5 2 0.1467542 l "distance"
+2 6 0.1285782 l "distance"
+6 2 0.1467542 l "distance"
+3 4 0.1521635 l "distance"
+4 3 0.1341674 l "distance"
+5 6 0.1479098 l "distance"
+6 5 0.1479098 l "distance"
+1 2 0.1467542 l "distance"
+2 1 0.1285782 l "distance"
+1 5 0.1479098 l "distance"
+5 1 0.1479098 l "distance"
+1 6 0.1479098 l "distance"
+6 1 0.1479098 l "distance"
+2 3 0.1299281 l "distance"
+3 2 0.1494462 l "distance"
+2 5 0.1285782 l "distance"
+5 2 0.1467542 l "distance"
+2 6 0.1285782 l "distance"
+6 2 0.1467542 l "distance"
+3 4 0.1521635 l "distance"
+4 3 0.1341674 l "distance"
+5 6 0.1479098 l "distance"
+6 5 0.1479098 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Seminarians" ellipse
+2 "Seminaries" ellipse
+*Arcs
+1 2 0.5431579 l "distance"
+2 1 0.5415162 l "distance"
+1 2 0.5431579 l "distance"
+2 1 0.5415162 l "distance"
+*Edges

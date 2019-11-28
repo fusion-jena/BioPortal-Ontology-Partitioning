@@ -1,0 +1,14 @@
+*Vertices 3
+1 "sample processing" ellipse
+2 "pipeting" ellipse
+3 "transporting material" ellipse
+*Arcs
+2 1 0.3422534 l "isa"
+1 2 0.2148851 l "isa"
+2 3 0.3321209 l "isa"
+3 2 0.1365975 l "isa"
+2 1 0.3422534 l "isa"
+1 2 0.2148851 l "isa"
+2 3 0.3321209 l "isa"
+3 2 0.1365975 l "isa"
+*Edges

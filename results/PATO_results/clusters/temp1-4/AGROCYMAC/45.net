@@ -1,0 +1,17 @@
+*Vertices 2
+1 "inheres in"
+2 "inheres in part of"
+*Arcs
+2 1 0.2802973 l "definition"
+1 2 0.0330541 l "definition"
+2 2 0.3112086 l "definition"
+2 2 0.3112086 l "definition"
+1 2 0.0330541 l "substring"
+2 1 0.2802973 l "substring"
+2 1 0.2802973 l "definition"
+1 2 0.0330541 l "definition"
+2 2 0.3112086 l "definition"
+2 2 0.3112086 l "definition"
+1 2 0.0330541 l "substring"
+2 1 0.2802973 l "substring"
+*Edges

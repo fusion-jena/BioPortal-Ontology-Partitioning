@@ -1,0 +1,24 @@
+*Vertices 5
+1 "BoneOrgan" ellipse
+2 "IrregularBone" ellipse
+3 "Vertebra" ellipse
+4 "partOf"
+5 "placeOf"
+*Arcs
+2 1 0.3552979 l "isa"
+1 2 0.2644455 l "isa"
+3 2 0.0201079 l "isa"
+2 3 0.3234612 l "isa"
+3 5 0.0215329 l "definition"
+5 3 0.4977127 l "definition"
+4 5 0.0492386 l "distance"
+5 4 0.5022872 l "distance"
+2 1 0.3552979 l "isa"
+1 2 0.2644455 l "isa"
+3 2 0.0201079 l "isa"
+2 3 0.3234612 l "isa"
+3 5 0.0215329 l "definition"
+5 3 0.4977127 l "definition"
+4 5 0.0492386 l "distance"
+5 4 0.5022872 l "distance"
+*Edges

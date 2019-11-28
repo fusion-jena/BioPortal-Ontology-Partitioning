@@ -1,0 +1,17 @@
+*Vertices 2
+1 "BodySubstance" ellipse
+2 "PleuralEffusion" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3037783 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3037783 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3037783 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3037783 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3037783 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3037783 l "isa"
+*Edges

@@ -1,0 +1,41 @@
+*Vertices 8
+1 "ContinuousCharacterLengthType" ellipse
+2 "ContinuousCharBayesianLengthType" ellipse
+3 "ContinuousStateDatum" ellipse
+4 "Continuous" ellipse
+5 "ContinuousCharParsimonyLengthType" ellipse
+6 "ContinuousCharacter" ellipse
+7 "ContinuousCharLikelihoodLengthType" ellipse
+8 "ContinuousCharDistanceLengthType" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1250000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1250000 l "isa"
+7 1 0.5000000 l "isa"
+1 7 0.1250000 l "isa"
+8 1 0.5000000 l "isa"
+1 8 0.1250000 l "isa"
+3 6 0.3333333 l "belongs_to_Continuous_Character"
+6 3 0.2000000 l "belongs_to_Continuous_Character"
+3 4 0.3333333 l "has_Continuous_State"
+4 3 0.1666667 l "has_Continuous_State"
+6 3 0.2000000 l "definition"
+3 6 0.3333333 l "definition"
+1 4 0.1250000 l "substring"
+4 1 0.0833333 l "substring"
+1 6 0.1250000 l "substring"
+6 1 0.1000000 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.0833333 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.1666667 l "substring"
+4 5 0.0833333 l "substring"
+5 4 0.5000000 l "substring"
+4 6 0.0833333 l "substring"
+6 4 0.1000000 l "substring"
+4 7 0.0833333 l "substring"
+7 4 0.5000000 l "substring"
+4 8 0.0833333 l "substring"
+8 4 0.5000000 l "substring"
+*Edges

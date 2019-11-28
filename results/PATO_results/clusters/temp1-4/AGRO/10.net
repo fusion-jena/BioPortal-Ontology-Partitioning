@@ -1,0 +1,9 @@
+*Vertices 2
+1 "signal averaging" ellipse
+2 "averaging" ellipse
+*Arcs
+1 2 0.3578275 l "substring"
+2 1 0.2269504 l "substring"
+1 2 0.3578275 l "substring"
+2 1 0.2269504 l "substring"
+*Edges

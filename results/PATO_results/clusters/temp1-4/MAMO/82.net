@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Maure" ellipse
+2 "Muturu" ellipse
+*Arcs
+1 2 0.0958275 l "distance"
+2 1 0.3574968 l "distance"
+1 2 0.0958275 l "distance"
+2 1 0.3574968 l "distance"
+1 2 0.0958275 l "distance"
+2 1 0.3574968 l "distance"
+1 2 0.0958275 l "distance"
+2 1 0.3574968 l "distance"
+1 2 0.0958275 l "distance"
+2 1 0.3574968 l "distance"
+1 2 0.0958275 l "distance"
+2 1 0.3574968 l "distance"
+*Edges

@@ -1,0 +1,83 @@
+*Vertices 22
+1 "to equilibrate" ellipse
+2 "to transform data" ellipse
+3 "to integrate (math)" ellipse
+4 "to calculate" ellipse
+5 "to regulate" ellipse
+6 "to increase" ellipse
+7 "to decrease" ellipse
+8 "to contain" ellipse
+9 "to maintain" ellipse
+10 "heat rate" ellipse
+11 "thermal quality" ellipse
+12 "heat capacity" ellipse
+13 "radiative emissivity" ellipse
+14 "fugacity" ellipse
+15 "acoustic quality" ellipse
+16 "frequency response" ellipse
+17 "wavenumber (quality)" ellipse
+18 "resolution (quality)" ellipse
+19 "rate" ellipse
+20 "quality" ellipse
+21 "electromagnetic radiation quality" ellipse
+22 "organismal quality" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.2000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.5000000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.2500000 l "isa"
+6 5 0.5000000 l "isa"
+5 6 0.2000000 l "isa"
+7 5 0.5000000 l "isa"
+5 7 0.2000000 l "isa"
+9 5 0.5000000 l "isa"
+5 9 0.2000000 l "isa"
+10 11 0.5000000 l "isa"
+11 10 0.1250000 l "isa"
+11 20 0.2500000 l "isa"
+20 11 0.0434783 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.1250000 l "isa"
+13 11 1.0000000 l "isa"
+11 13 0.1250000 l "isa"
+14 11 0.5000000 l "isa"
+11 14 0.1250000 l "isa"
+15 20 0.5000000 l "isa"
+20 15 0.0434783 l "isa"
+16 15 1.0000000 l "isa"
+15 16 0.2500000 l "isa"
+17 20 0.6666667 l "isa"
+20 17 0.0434783 l "isa"
+18 20 0.4000000 l "isa"
+20 18 0.0434783 l "isa"
+21 20 0.6666667 l "isa"
+20 21 0.0434783 l "isa"
+22 20 0.5000000 l "isa"
+20 22 0.0434783 l "isa"
+1 19 0.5000000 l "substring"
+19 1 0.0217391 l "substring"
+3 19 0.5000000 l "substring"
+19 3 0.0217391 l "substring"
+10 19 0.5000000 l "substring"
+19 10 0.0217391 l "substring"
+11 20 0.2500000 l "substring"
+20 11 0.0434783 l "substring"
+15 20 0.5000000 l "substring"
+20 15 0.0434783 l "substring"
+17 20 0.6666667 l "substring"
+20 17 0.0434783 l "substring"
+18 20 0.4000000 l "substring"
+20 18 0.0434783 l "substring"
+20 21 0.0434783 l "substring"
+21 20 0.6666667 l "substring"
+20 22 0.0434783 l "substring"
+22 20 0.5000000 l "substring"
+6 7 0.5000000 l "distance"
+7 6 0.5000000 l "distance"
+8 9 0.3333333 l "distance"
+9 8 0.5000000 l "distance"
+14 20 0.5000000 l "distance"
+20 14 0.0217391 l "distance"
+*Edges

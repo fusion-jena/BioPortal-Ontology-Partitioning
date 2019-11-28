@@ -1,0 +1,22 @@
+*Vertices 3
+1 "blocking" ellipse
+2 "block" ellipse
+3 "number of blocks" ellipse
+*Arcs
+3 2 0.2329370 l "definition"
+2 3 0.0980673 l "definition"
+1 2 0.2424040 l "substring"
+2 1 0.0983197 l "substring"
+2 3 0.0980673 l "substring"
+3 2 0.2329370 l "substring"
+1 2 0.2424040 l "distance"
+2 1 0.0983197 l "distance"
+3 2 0.2329370 l "definition"
+2 3 0.0980673 l "definition"
+1 2 0.2424040 l "substring"
+2 1 0.0983197 l "substring"
+2 3 0.0980673 l "substring"
+3 2 0.2329370 l "substring"
+1 2 0.2424040 l "distance"
+2 1 0.0983197 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "epitheliomuscular cell" ellipse
+2 "CL_0000066"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0315857 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.0315857 l "isa"
+*Edges

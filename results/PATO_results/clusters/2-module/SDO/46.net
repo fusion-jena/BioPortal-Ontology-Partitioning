@@ -1,0 +1,43 @@
+*Vertices 8
+1 "Temporal lobe" ellipse
+2 "Superior temporal gyrus" ellipse
+3 "Middle temporal gyrus" ellipse
+4 "Inferior temporal gyrus" ellipse
+5 "Fusiform gyrus" ellipse
+6 "Anterior transverse temporal gyrus" ellipse
+7 "Posterior transverse temporal gyrus" ellipse
+8 "Parahippocampal gyrus" ellipse
+*Arcs
+1 2 0.1052632 l "definition"
+2 1 0.2500000 l "definition"
+1 3 0.1052632 l "definition"
+3 1 0.2222222 l "definition"
+1 4 0.1052632 l "definition"
+4 1 0.2222222 l "definition"
+1 5 0.1052632 l "definition"
+5 1 0.3333333 l "definition"
+1 6 0.1052632 l "definition"
+6 1 0.3333333 l "definition"
+1 7 0.1052632 l "definition"
+7 1 0.3333333 l "definition"
+1 8 0.1052632 l "definition"
+8 1 0.2857143 l "definition"
+2 1 0.2500000 l "definition"
+1 2 0.1052632 l "definition"
+3 1 0.2222222 l "definition"
+1 3 0.1052632 l "definition"
+4 1 0.2222222 l "definition"
+1 4 0.1052632 l "definition"
+5 1 0.3333333 l "definition"
+1 5 0.1052632 l "definition"
+6 1 0.3333333 l "definition"
+1 6 0.1052632 l "definition"
+7 1 0.3333333 l "definition"
+1 7 0.1052632 l "definition"
+8 1 0.2857143 l "definition"
+1 8 0.1052632 l "definition"
+2 4 0.1250000 l "distance"
+4 2 0.1111111 l "distance"
+6 7 0.1666667 l "distance"
+7 6 0.1666667 l "distance"
+*Edges

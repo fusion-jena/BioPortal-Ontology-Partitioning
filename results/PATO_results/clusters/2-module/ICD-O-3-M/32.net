@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Trabecular adenoma" ellipse
+2 "Hyalinizing trabecular adenoma (C73.9)" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

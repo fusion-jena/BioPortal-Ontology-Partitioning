@@ -1,0 +1,25 @@
+*Vertices 2
+1 "primary circulatory organ" ellipse
+2 "circulatory organ" ellipse
+*Arcs
+1 2 0.8289708 l "isa"
+2 1 0.5007194 l "isa"
+1 2 0.8289708 l "substring"
+2 1 0.5007194 l "substring"
+1 2 0.8289708 l "isa"
+2 1 0.5007194 l "isa"
+1 2 0.8289708 l "substring"
+2 1 0.5007194 l "substring"
+1 2 0.8289708 l "isa"
+2 1 0.5007194 l "isa"
+1 2 0.8289708 l "substring"
+2 1 0.5007194 l "substring"
+1 2 0.8289708 l "isa"
+2 1 0.5007194 l "isa"
+1 2 0.8289708 l "substring"
+2 1 0.5007194 l "substring"
+1 2 0.8289708 l "isa"
+2 1 0.5007194 l "isa"
+1 2 0.8289708 l "substring"
+2 1 0.5007194 l "substring"
+*Edges

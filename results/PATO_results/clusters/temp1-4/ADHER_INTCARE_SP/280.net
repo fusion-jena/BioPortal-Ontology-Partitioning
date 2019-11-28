@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Little_or_no_interest_in_or_response_to_people" ellipse
+2 "cresp_Little_or_no_interest_in_or_response_to_people"
+*Arcs
+1 2 0.2215822 l "substring"
+2 1 0.1912540 l "substring"
+1 2 0.2215822 l "substring"
+2 1 0.1912540 l "substring"
+1 2 0.2215822 l "substring"
+2 1 0.1912540 l "substring"
+*Edges

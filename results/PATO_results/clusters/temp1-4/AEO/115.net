@@ -1,0 +1,11 @@
+*Vertices 2
+1 "neurotoxic" ellipse
+2 "toxic cause context" ellipse
+*Arcs
+1 2 0.2883592 l "definition"
+2 1 0.2810706 l "definition"
+1 2 0.2883592 l "definition"
+2 1 0.2810706 l "definition"
+1 2 0.2883592 l "definition"
+2 1 0.2810706 l "definition"
+*Edges

@@ -1,0 +1,27 @@
+*Vertices 4
+1 "DS_Association" ellipse
+2 "DS_AssociationTypeCode" ellipse
+3 "associationType"
+4 "DS_AssociationTypeCode" ellipse
+*Arcs
+1 2 0.6885605 l "substring"
+2 1 0.2003887 l "substring"
+2 3 0.1368941 l "substring"
+3 2 0.2864120 l "substring"
+1 2 0.6885605 l "substring"
+2 1 0.2003887 l "substring"
+2 3 0.1368941 l "substring"
+3 2 0.2864120 l "substring"
+1 2 0.6885605 l "substring"
+2 1 0.2003887 l "substring"
+1 4 0.3114395 l "substring"
+4 1 0.2000000 l "substring"
+2 3 0.1368941 l "substring"
+3 2 0.2864120 l "substring"
+2 4 0.1812737 l "substring"
+4 2 0.4000000 l "substring"
+3 4 0.1896317 l "substring"
+4 3 0.2000000 l "substring"
+2 4 0.1812737 l "distance"
+4 2 0.4000000 l "distance"
+*Edges

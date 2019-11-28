@@ -1,0 +1,1040 @@
+*Vertices 217
+1 "adult neurosecretory center 1" ellipse
+2 "adult mouth" ellipse
+3 "adult salivary gland type II acini" ellipse
+4 "adult neurosecretory center 2" ellipse
+5 "adult neurosecretory center 3" ellipse
+6 "adult neurosecretory center 4" ellipse
+7 "adult neurosecretory center 5" ellipse
+8 "adult neurosecretory center 6" ellipse
+9 "adult neurosecretory center 7" ellipse
+10 "adult neurosecretory center 8" ellipse
+11 "adult neurosecretory center 9" ellipse
+12 "adult neurosecretory center 10" ellipse
+13 "adult neurosecretory center 11" ellipse
+14 "adult neurosecretory center 12" ellipse
+15 "adult neurosecretory center 13" ellipse
+16 "adult neurosecretory center 14" ellipse
+17 "adult neurosecretory center 15" ellipse
+18 "adult neurosecretory center 16" ellipse
+19 "adult neurosecretory center 17" ellipse
+20 "adult neurosecretory center 18" ellipse
+21 "adult female reproductive system" ellipse
+22 "adult tectum" ellipse
+23 "adult respiratory system" ellipse
+24 "adult dorsal alloscutum" ellipse
+25 "adult foveal nerve" ellipse
+26 "adult sensilla auriformia" ellipse
+27 "adult coxal fold" ellipse
+28 "adult epidermis" ellipse
+29 "adult sensilla hastiformia" ellipse
+30 "adult salivay gand type I acinus" ellipse
+31 "adult salivary gland A cell" ellipse
+32 "adult salivary gland B cell" ellipse
+33 "adult salivary gland C cell" ellipse
+34 "adult salivary gland D cell" ellipse
+35 "adult salivary gland E cell" ellipse
+36 "adult salivary gland F cell" ellipse
+37 "adult salivary gland G cell" ellipse
+38 "adult dorsolateral suspensory muscles of the heart" ellipse
+39 "adult sensory neuron" ellipse
+40 "adult neurosecretory center" ellipse
+41 "adult coxal fold muscle" ellipse
+42 "adult coxal gland muscle" ellipse
+43 "adult sensory system" ellipse
+44 "adult medial spine of inner cheliceral digit" ellipse
+45 "adult spiracular plate" ellipse
+46 "adult female genital pore" ellipse
+47 "adult coxal pore" ellipse
+48 "adult setae" ellipse
+49 "adult integument" ellipse
+50 "adult salivary gland" ellipse
+51 "adult salivary gland type III acini" ellipse
+52 "adult salivary gland intralobular duct" ellipse
+53 "adult salivary gland type IV acini" ellipse
+54 "adult salivary gland acinar lumen" ellipse
+55 "adult circulatory system" ellipse
+56 "adult ventrolateral suspensory muscles of the heart" ellipse
+57 "adult anterior sinus" ellipse
+58 "adult synganglion cortical zone" ellipse
+59 "adult synganglion cortical zone neuron type I" ellipse
+60 "adult synganglion cortical zone neuron type II" ellipse
+61 "adult synganglion cortical zone neuron type III" ellipse
+62 "adult synganglion commissure" ellipse
+63 "adult synganglion retrocerebral organ complex" ellipse
+64 "adult synganglion ROC unpaired lobe" ellipse
+65 "adult synganglion ROC paired lobe" ellipse
+66 "adult glial cell" ellipse
+67 "adult pharyngeal nerve" ellipse
+68 "adult neurohaemal organ" ellipse
+69 "adult lateral segmental organs" ellipse
+70 "adult lateral nerve plexus" ellipse
+71 "adult trochanter" ellipse
+72 "adult tibia" ellipse
+73 "adult patella" ellipse
+74 "adult claw" ellipse
+75 "adult Haller's organ capsular seta" ellipse
+76 "adult dorso-ventral muscle" ellipse
+77 "adult dorso-genital muscle" ellipse
+78 "adult cheliceral retractor muscle" ellipse
+79 "adult trochanteral flexor muscle" ellipse
+80 "adult trochanteral extensor muscle" ellipse
+81 "adult patellar flexor muscle" ellipse
+82 "adult patellar extensor muscle" ellipse
+83 "adult tibial flexor muscle" ellipse
+84 "adult tibial extensor muscle" ellipse
+85 "adult tarsal flexor muscle" ellipse
+86 "adult tarsal extensor muscle" ellipse
+87 "adult pretarsal flexor muscle" ellipse
+88 "adult pretarsal extensor muscle" ellipse
+89 "adult Gene's organ exceretory duct lumen" ellipse
+90 "adult uterine lumen" ellipse
+91 "adult cornua" ellipse
+92 "adult male postero-lateral granular lobe 1" ellipse
+93 "adult male postero-lateral granular lobe 2" ellipse
+94 "adult male postero-lateral granular lobe 3" ellipse
+95 "adult malpighian tubule pyramidal cell" ellipse
+96 "adult malpighian tubule cuboidal cell" ellipse
+97 "adult cuticle" ellipse
+98 "adult ovary stage I oocyte" ellipse
+99 "adult ovary stage II oocyte" ellipse
+100 "adult ovary stage III oocyte" ellipse
+101 "adult ovary stage IV oocyte" ellipse
+102 "adult capitulum" ellipse
+103 "adult Article III" ellipse
+104 "adult Article II" ellipse
+105 "adult outer cheliceral sheath" ellipse
+106 "adult inner cheliceral sheath" ellipse
+107 "adult flexor tendon of cheliceral digit" ellipse
+108 "adult extensor tendon of cheliceral digit" ellipse
+109 "adult outer cheliceral digit" ellipse
+110 "adult article I" ellipse
+111 "adult PS-1 pit sensillum" ellipse
+112 "adult PS-2 pit sensillum" ellipse
+113 "adult salivarium" ellipse
+114 "adult PSd-1 neuron" ellipse
+115 "adult PSd-2 nerve branch" ellipse
+116 "adult porose area" ellipse
+117 "adult labrum" ellipse
+118 "adult epistome" ellipse
+119 "adult alar plate" ellipse
+120 "adult recurrent nerve" ellipse
+121 "adult spiracle" ellipse
+122 "adult eye Argasidae" ellipse
+123 "adult anus" ellipse
+124 "adult anal groove" ellipse
+125 "adult marginal groove" ellipse
+126 "adult anal plate" ellipse
+127 "adult adanal plate" ellipse
+128 "adult coxal tubule" ellipse
+129 "adult distal tubule of coxal gland" ellipse
+130 "adult proximal tubule of coxal gland" ellipse
+131 "adult coxal tubule podocyte" ellipse
+132 "adult transverse post-anal groove" ellipse
+133 "adult aeropyle" ellipse
+134 "adult ostium of the spiracle." ellipse
+135 "adult scapula" ellipse
+136 "adult salivary gland peritubular cell" ellipse
+137 "adult pericardial sinus" ellipse
+138 "adult periganglionic sinus" ellipse
+139 "adult excretory system" ellipse
+140 "adult hindgut" ellipse
+141 "adult alimentary system" ellipse
+142 "adult stomach" ellipse
+143 "adult midgut lateral diverticula" ellipse
+144 "adult midgut postero-lateral diverticulum" ellipse
+145 "adult midgut postero-median diverticula" ellipse
+146 "adult proventriculus" ellipse
+147 "adult midgut epithelial lining" ellipse
+148 "adult foregut" ellipse
+149 "adult nervours/neuroendocrine system" ellipse
+150 "adult periganglionic sheath" ellipse
+151 "adult synganglion protocerebrum" ellipse
+152 "adult synganglion glomeruli" ellipse
+153 "adult synganglion cheliceral ganglia" ellipse
+154 "adult synganglion palpal ganglia" ellipse
+155 "adult synganglion stomadeal pons" ellipse
+156 "adult synganglion hyperesophageal ganglion" ellipse
+157 "adult synganglion anterodoral glomerulus" ellipse
+158 "adult synganglion posterodorsal glomerulus" ellipse
+159 "adult synganglion olfactory lobe" ellipse
+160 "adult synganglion olfactory glomeruli" ellipse
+161 "adult synganglion ventral glomeruli" ellipse
+162 "adult synganglion opisthosomal ganglion" ellipse
+163 "adult peripheral nervous system" ellipse
+164 "adult retrocerebral organ complex vascular sheath" ellipse
+165 "adult retrocerebral organ complex neurohaemal sinus" ellipse
+166 "adult synganglion optic ganglion" ellipse
+167 "adult anterior dorsal trunk" ellipse
+168 "adult anterior median trunk" ellipse
+169 "adult median trunk" ellipse
+170 "adult posterior median trunk" ellipse
+171 "adult pedal trunk" ellipse
+172 "adult cheliceral trachea" ellipse
+173 "adult captiular depressor" ellipse
+174 "adult capitular levator" ellipse
+175 "adult intercoxal muscle" ellipse
+176 "adult marginal fold muscle" ellipse
+177 "adult preanal muscles" ellipse
+178 "adult anal valve" ellipse
+179 "adult atrial valve" ellipse
+180 "adult Gene's organ retractor muscle" ellipse
+181 "adult femoral flexor muscle" ellipse
+182 "adult femoral extensor muscle" ellipse
+183 "adult foveae dorsales" ellipse
+184 "adult vestibular vagina trabeculae" ellipse
+185 "adult female tubular accessory glands" ellipse
+186 "adult TAG glandular region" ellipse
+187 "adult TAG glandular epithelium" ellipse
+188 "adult TAG connective tissue wall" ellipse
+189 "adult palpal posterior spur" ellipse
+190 "adult interstitial cell" ellipse
+191 "adult spermatogonia" ellipse
+192 "adult peritrophic membrane" ellipse
+193 "adult prospermia" ellipse
+194 "adult vasa deferentia" ellipse
+195 "adult lining epithelium of the vas deferens" ellipse
+196 "adult vas deferens lumen" ellipse
+197 "adult intestinal lumen" ellipse
+198 "adult rectal lumen" ellipse
+199 "adult anal aperture" ellipse
+200 "adult pharyngeal wall epithelium" ellipse
+201 "adult male antero-dorsal lobe" ellipse
+202 "adult male postero-dorsal lobe" ellipse
+203 "adult primary spermatocyte" ellipse
+204 "adult male ectospermatophore" ellipse
+205 "adult male endospermatophore" ellipse
+206 "adult esophageal lumen" ellipse
+207 "adult salivary duct lumen" ellipse
+208 "adult pericardial septum" ellipse
+209 "adult spermatozoa" ellipse
+210 "adult periesophageal sinus" ellipse
+211 "adult synganglion lateral neurosecretory tract" ellipse
+212 "adult synganglion ventro-medial neurosecretory tract" ellipse
+213 "adult midgut anterior median diverticula" ellipse
+214 "adult midgut anterior lateral diverticula" ellipse
+215 "adult coxal accessory gland" ellipse
+216 "organism subdivision" ellipse
+217 "portion of tissue" ellipse
+*Arcs
+102 216 0.0909091 l "isa"
+216 102 0.2500000 l "isa"
+107 217 0.2500000 l "isa"
+217 107 0.0232558 l "isa"
+108 217 0.2500000 l "isa"
+217 108 0.0232558 l "isa"
+115 217 0.2500000 l "isa"
+217 115 0.0232558 l "isa"
+25 217 0.1666667 l "isa"
+217 25 0.0232558 l "isa"
+131 217 0.1428571 l "isa"
+217 131 0.0232558 l "isa"
+28 217 0.1666667 l "isa"
+217 28 0.0232558 l "isa"
+38 217 0.1666667 l "isa"
+217 38 0.0232558 l "isa"
+147 217 0.0909091 l "isa"
+217 147 0.0232558 l "isa"
+150 217 0.2500000 l "isa"
+217 150 0.0232558 l "isa"
+39 217 0.1666667 l "isa"
+217 39 0.0232558 l "isa"
+69 68 0.2000000 l "isa"
+68 69 0.2000000 l "isa"
+69 217 0.2000000 l "isa"
+217 69 0.0232558 l "isa"
+1 40 0.1000000 l "isa"
+40 1 0.0526316 l "isa"
+1 217 0.0333333 l "isa"
+217 1 0.0232558 l "isa"
+4 40 0.1428571 l "isa"
+40 4 0.0526316 l "isa"
+4 217 0.0476190 l "isa"
+217 4 0.0232558 l "isa"
+5 40 0.1428571 l "isa"
+40 5 0.0526316 l "isa"
+5 217 0.0476190 l "isa"
+217 5 0.0232558 l "isa"
+6 40 0.1428571 l "isa"
+40 6 0.0526316 l "isa"
+6 217 0.0476190 l "isa"
+217 6 0.0232558 l "isa"
+7 40 0.1428571 l "isa"
+40 7 0.0526316 l "isa"
+7 217 0.0476190 l "isa"
+217 7 0.0232558 l "isa"
+8 40 0.1428571 l "isa"
+40 8 0.0526316 l "isa"
+8 217 0.0476190 l "isa"
+217 8 0.0232558 l "isa"
+9 40 0.1428571 l "isa"
+40 9 0.0526316 l "isa"
+9 217 0.0476190 l "isa"
+217 9 0.0232558 l "isa"
+10 40 0.1428571 l "isa"
+40 10 0.0526316 l "isa"
+10 217 0.0476190 l "isa"
+217 10 0.0232558 l "isa"
+11 40 0.1428571 l "isa"
+40 11 0.0526316 l "isa"
+11 217 0.0476190 l "isa"
+217 11 0.0232558 l "isa"
+12 40 0.1428571 l "isa"
+40 12 0.0526316 l "isa"
+13 40 0.1428571 l "isa"
+40 13 0.0526316 l "isa"
+14 40 0.1428571 l "isa"
+40 14 0.0526316 l "isa"
+15 40 0.1428571 l "isa"
+40 15 0.0526316 l "isa"
+16 40 0.1428571 l "isa"
+40 16 0.0526316 l "isa"
+17 40 0.1428571 l "isa"
+40 17 0.0526316 l "isa"
+18 40 0.1428571 l "isa"
+40 18 0.0526316 l "isa"
+19 40 0.1428571 l "isa"
+40 19 0.0526316 l "isa"
+20 40 0.1428571 l "isa"
+40 20 0.0526316 l "isa"
+187 217 0.1250000 l "isa"
+217 187 0.0232558 l "isa"
+188 217 0.2500000 l "isa"
+217 188 0.0232558 l "isa"
+111 44 0.1666667 l "definition"
+44 111 0.2000000 l "definition"
+111 43 0.1666667 l "definition"
+43 111 0.1250000 l "definition"
+112 44 0.1666667 l "definition"
+44 112 0.2000000 l "definition"
+112 43 0.1666667 l "definition"
+43 112 0.1250000 l "definition"
+113 102 0.2500000 l "definition"
+102 113 0.0909091 l "definition"
+114 111 0.2500000 l "definition"
+111 114 0.1666667 l "definition"
+115 112 0.2500000 l "definition"
+112 115 0.1666667 l "definition"
+2 148 0.1428571 l "definition"
+148 2 0.1111111 l "definition"
+45 121 0.1666667 l "definition"
+121 45 0.1666667 l "definition"
+129 128 0.2500000 l "definition"
+128 129 0.1250000 l "definition"
+130 128 0.2500000 l "definition"
+128 130 0.1250000 l "definition"
+131 129 0.1428571 l "definition"
+129 131 0.2500000 l "definition"
+131 130 0.1428571 l "definition"
+130 131 0.2500000 l "definition"
+26 24 0.1428571 l "definition"
+24 26 0.1428571 l "definition"
+26 49 0.1428571 l "definition"
+49 26 0.0769231 l "definition"
+26 43 0.1428571 l "definition"
+43 26 0.1250000 l "definition"
+48 24 0.1000000 l "definition"
+24 48 0.1428571 l "definition"
+48 49 0.1000000 l "definition"
+49 48 0.0769231 l "definition"
+134 121 0.2500000 l "definition"
+121 134 0.1666667 l "definition"
+28 102 0.1666667 l "definition"
+102 28 0.0909091 l "definition"
+28 49 0.1666667 l "definition"
+49 28 0.0769231 l "definition"
+97 102 0.0909091 l "definition"
+102 97 0.0909091 l "definition"
+97 49 0.0909091 l "definition"
+49 97 0.0769231 l "definition"
+29 24 0.1666667 l "definition"
+24 29 0.1428571 l "definition"
+29 49 0.1666667 l "definition"
+49 29 0.0769231 l "definition"
+29 43 0.1666667 l "definition"
+43 29 0.1250000 l "definition"
+30 50 0.1428571 l "definition"
+50 30 0.0303030 l "definition"
+3 50 0.1428571 l "definition"
+50 3 0.0606061 l "definition"
+51 50 0.1250000 l "definition"
+50 51 0.0606061 l "definition"
+31 3 0.0833333 l "definition"
+3 31 0.0714286 l "definition"
+32 3 0.0833333 l "definition"
+3 32 0.0714286 l "definition"
+33 3 0.0833333 l "definition"
+3 33 0.0714286 l "definition"
+136 30 0.1250000 l "definition"
+30 136 0.1428571 l "definition"
+136 3 0.1250000 l "definition"
+3 136 0.0714286 l "definition"
+136 51 0.1250000 l "definition"
+51 136 0.0625000 l "definition"
+52 51 0.2000000 l "definition"
+51 52 0.0625000 l "definition"
+52 53 0.2000000 l "definition"
+53 52 0.1000000 l "definition"
+53 50 0.2000000 l "definition"
+50 53 0.0606061 l "definition"
+34 51 0.0833333 l "definition"
+51 34 0.0625000 l "definition"
+35 51 0.0833333 l "definition"
+51 35 0.0625000 l "definition"
+36 51 0.0833333 l "definition"
+51 36 0.0625000 l "definition"
+37 53 0.0833333 l "definition"
+53 37 0.1000000 l "definition"
+54 51 0.2000000 l "definition"
+51 54 0.0625000 l "definition"
+137 208 0.2500000 l "definition"
+208 137 0.2000000 l "definition"
+138 55 0.1666667 l "definition"
+55 138 0.0714286 l "definition"
+38 55 0.1666667 l "definition"
+55 38 0.0714286 l "definition"
+56 55 0.2000000 l "definition"
+55 56 0.0714286 l "definition"
+57 55 0.2000000 l "definition"
+55 57 0.0714286 l "definition"
+140 139 0.1111111 l "definition"
+139 140 0.2500000 l "definition"
+140 141 0.1111111 l "definition"
+141 140 0.2500000 l "definition"
+143 142 0.2500000 l "definition"
+142 143 0.1111111 l "definition"
+144 142 0.2500000 l "definition"
+142 144 0.1111111 l "definition"
+145 142 0.2500000 l "definition"
+142 145 0.1111111 l "definition"
+146 148 0.2500000 l "definition"
+148 146 0.1111111 l "definition"
+148 141 0.1111111 l "definition"
+141 148 0.2500000 l "definition"
+150 138 0.2500000 l "definition"
+138 150 0.1666667 l "definition"
+59 58 0.2000000 l "definition"
+58 59 0.2000000 l "definition"
+60 58 0.2000000 l "definition"
+58 60 0.2000000 l "definition"
+61 58 0.2000000 l "definition"
+58 61 0.2000000 l "definition"
+152 151 0.2500000 l "definition"
+151 152 0.1666667 l "definition"
+62 151 0.2000000 l "definition"
+151 62 0.1666667 l "definition"
+64 63 0.2000000 l "definition"
+63 64 0.1428571 l "definition"
+65 63 0.2000000 l "definition"
+63 65 0.1428571 l "definition"
+163 149 0.2000000 l "definition"
+149 163 0.2500000 l "definition"
+67 102 0.2000000 l "definition"
+102 67 0.0909091 l "definition"
+69 70 0.2000000 l "definition"
+70 69 0.1428571 l "definition"
+164 63 0.2000000 l "definition"
+63 164 0.1428571 l "definition"
+165 164 0.2500000 l "definition"
+164 165 0.2000000 l "definition"
+178 123 0.2500000 l "definition"
+123 178 0.1666667 l "definition"
+185 21 0.1428571 l "definition"
+21 185 0.0833333 l "definition"
+186 185 0.2500000 l "definition"
+185 186 0.1428571 l "definition"
+187 186 0.1250000 l "definition"
+186 187 0.2500000 l "definition"
+188 187 0.2500000 l "definition"
+187 188 0.1250000 l "definition"
+189 110 0.2500000 l "definition"
+110 189 0.1000000 l "definition"
+192 147 0.2500000 l "definition"
+147 192 0.0909091 l "definition"
+195 194 0.2500000 l "definition"
+194 195 0.1428571 l "definition"
+196 194 0.2500000 l "definition"
+194 196 0.1428571 l "definition"
+199 123 0.2500000 l "definition"
+123 199 0.1666667 l "definition"
+208 55 0.2000000 l "definition"
+55 208 0.0714286 l "definition"
+209 205 0.2500000 l "definition"
+205 209 0.2000000 l "definition"
+213 142 0.2500000 l "definition"
+142 213 0.1111111 l "definition"
+214 142 0.2500000 l "definition"
+142 214 0.1111111 l "definition"
+215 128 0.2500000 l "definition"
+128 215 0.1250000 l "definition"
+103 104 0.2500000 l "substring"
+104 103 0.2500000 l "substring"
+103 110 0.2500000 l "substring"
+110 103 0.2000000 l "substring"
+104 110 0.2500000 l "substring"
+110 104 0.2000000 l "substring"
+128 131 0.1250000 l "substring"
+131 128 0.1428571 l "substring"
+27 41 0.1666667 l "substring"
+41 27 0.1666667 l "substring"
+50 3 0.0606061 l "substring"
+3 50 0.1428571 l "substring"
+50 51 0.0606061 l "substring"
+51 50 0.1250000 l "substring"
+50 31 0.0303030 l "substring"
+31 50 0.0833333 l "substring"
+50 32 0.0303030 l "substring"
+32 50 0.0833333 l "substring"
+50 33 0.0303030 l "substring"
+33 50 0.0833333 l "substring"
+50 136 0.0303030 l "substring"
+136 50 0.1250000 l "substring"
+50 52 0.0303030 l "substring"
+52 50 0.2000000 l "substring"
+50 53 0.0606061 l "substring"
+53 50 0.2000000 l "substring"
+50 34 0.0303030 l "substring"
+34 50 0.0833333 l "substring"
+50 35 0.0303030 l "substring"
+35 50 0.0833333 l "substring"
+50 36 0.0303030 l "substring"
+36 50 0.0833333 l "substring"
+50 37 0.0303030 l "substring"
+37 50 0.0833333 l "substring"
+50 54 0.0303030 l "substring"
+54 50 0.2000000 l "substring"
+58 59 0.2000000 l "substring"
+59 58 0.2000000 l "substring"
+58 60 0.2000000 l "substring"
+60 58 0.2000000 l "substring"
+58 61 0.2000000 l "substring"
+61 58 0.2000000 l "substring"
+59 60 0.2000000 l "substring"
+60 59 0.2000000 l "substring"
+59 61 0.2000000 l "substring"
+61 59 0.2000000 l "substring"
+60 61 0.2000000 l "substring"
+61 60 0.2000000 l "substring"
+40 1 0.0526316 l "substring"
+1 40 0.1000000 l "substring"
+40 4 0.0526316 l "substring"
+4 40 0.1428571 l "substring"
+40 5 0.0526316 l "substring"
+5 40 0.1428571 l "substring"
+40 6 0.0526316 l "substring"
+6 40 0.1428571 l "substring"
+40 7 0.0526316 l "substring"
+7 40 0.1428571 l "substring"
+40 8 0.0526316 l "substring"
+8 40 0.1428571 l "substring"
+40 9 0.0526316 l "substring"
+9 40 0.1428571 l "substring"
+40 10 0.0526316 l "substring"
+10 40 0.1428571 l "substring"
+40 11 0.0526316 l "substring"
+11 40 0.1428571 l "substring"
+40 12 0.0526316 l "substring"
+12 40 0.1428571 l "substring"
+40 13 0.0526316 l "substring"
+13 40 0.1428571 l "substring"
+40 14 0.0526316 l "substring"
+14 40 0.1428571 l "substring"
+40 15 0.0526316 l "substring"
+15 40 0.1428571 l "substring"
+40 16 0.0526316 l "substring"
+16 40 0.1428571 l "substring"
+40 17 0.0526316 l "substring"
+17 40 0.1428571 l "substring"
+40 18 0.0526316 l "substring"
+18 40 0.1428571 l "substring"
+40 19 0.0526316 l "substring"
+19 40 0.1428571 l "substring"
+40 20 0.0526316 l "substring"
+20 40 0.1428571 l "substring"
+1 12 0.0666667 l "substring"
+12 1 0.0952381 l "substring"
+1 13 0.0666667 l "substring"
+13 1 0.0952381 l "substring"
+1 14 0.0666667 l "substring"
+14 1 0.0952381 l "substring"
+1 15 0.0666667 l "substring"
+15 1 0.0952381 l "substring"
+1 16 0.0666667 l "substring"
+16 1 0.0952381 l "substring"
+1 17 0.0666667 l "substring"
+17 1 0.0952381 l "substring"
+1 18 0.0666667 l "substring"
+18 1 0.0952381 l "substring"
+1 19 0.0666667 l "substring"
+19 1 0.0952381 l "substring"
+1 20 0.0666667 l "substring"
+20 1 0.0952381 l "substring"
+71 79 0.2000000 l "substring"
+79 71 0.2000000 l "substring"
+71 80 0.2000000 l "substring"
+80 71 0.2000000 l "substring"
+72 83 0.2000000 l "substring"
+83 72 0.1666667 l "substring"
+72 84 0.2000000 l "substring"
+84 72 0.1666667 l "substring"
+73 81 0.2000000 l "substring"
+81 73 0.2000000 l "substring"
+73 82 0.2000000 l "substring"
+82 73 0.2000000 l "substring"
+103 104 0.2500000 l "distance"
+104 103 0.2500000 l "distance"
+103 110 0.2500000 l "distance"
+110 103 0.2000000 l "distance"
+104 110 0.2500000 l "distance"
+110 104 0.2000000 l "distance"
+105 106 0.2500000 l "distance"
+106 105 0.2500000 l "distance"
+111 112 0.1666667 l "distance"
+112 111 0.1666667 l "distance"
+119 126 0.2500000 l "distance"
+126 119 0.2000000 l "distance"
+126 127 0.2000000 l "distance"
+127 126 0.2500000 l "distance"
+47 27 0.1250000 l "distance"
+27 47 0.1666667 l "distance"
+26 29 0.1428571 l "distance"
+29 26 0.1666667 l "distance"
+3 51 0.0714286 l "distance"
+51 3 0.0625000 l "distance"
+3 53 0.0714286 l "distance"
+53 3 0.1000000 l "distance"
+51 53 0.0625000 l "distance"
+53 51 0.1000000 l "distance"
+31 32 0.0833333 l "distance"
+32 31 0.0833333 l "distance"
+31 33 0.0833333 l "distance"
+33 31 0.0833333 l "distance"
+31 34 0.0833333 l "distance"
+34 31 0.0833333 l "distance"
+31 35 0.0833333 l "distance"
+35 31 0.0833333 l "distance"
+31 36 0.0833333 l "distance"
+36 31 0.0833333 l "distance"
+31 37 0.0833333 l "distance"
+37 31 0.0833333 l "distance"
+32 33 0.0833333 l "distance"
+33 32 0.0833333 l "distance"
+32 34 0.0833333 l "distance"
+34 32 0.0833333 l "distance"
+32 35 0.0833333 l "distance"
+35 32 0.0833333 l "distance"
+32 36 0.0833333 l "distance"
+36 32 0.0833333 l "distance"
+32 37 0.0833333 l "distance"
+37 32 0.0833333 l "distance"
+33 34 0.0833333 l "distance"
+34 33 0.0833333 l "distance"
+33 35 0.0833333 l "distance"
+35 33 0.0833333 l "distance"
+33 36 0.0833333 l "distance"
+36 33 0.0833333 l "distance"
+33 37 0.0833333 l "distance"
+37 33 0.0833333 l "distance"
+34 35 0.0833333 l "distance"
+35 34 0.0833333 l "distance"
+34 36 0.0833333 l "distance"
+36 34 0.0833333 l "distance"
+34 37 0.0833333 l "distance"
+37 34 0.0833333 l "distance"
+35 36 0.0833333 l "distance"
+36 35 0.0833333 l "distance"
+35 37 0.0833333 l "distance"
+37 35 0.0833333 l "distance"
+36 37 0.0833333 l "distance"
+37 36 0.0833333 l "distance"
+59 60 0.2000000 l "distance"
+60 59 0.2000000 l "distance"
+59 61 0.2000000 l "distance"
+61 59 0.2000000 l "distance"
+60 61 0.2000000 l "distance"
+61 60 0.2000000 l "distance"
+64 65 0.2000000 l "distance"
+65 64 0.2000000 l "distance"
+40 1 0.0526316 l "distance"
+1 40 0.1000000 l "distance"
+40 4 0.0526316 l "distance"
+4 40 0.1428571 l "distance"
+40 5 0.0526316 l "distance"
+5 40 0.1428571 l "distance"
+40 6 0.0526316 l "distance"
+6 40 0.1428571 l "distance"
+40 7 0.0526316 l "distance"
+7 40 0.1428571 l "distance"
+40 8 0.0526316 l "distance"
+8 40 0.1428571 l "distance"
+40 9 0.0526316 l "distance"
+9 40 0.1428571 l "distance"
+40 10 0.0526316 l "distance"
+10 40 0.1428571 l "distance"
+40 11 0.0526316 l "distance"
+11 40 0.1428571 l "distance"
+40 12 0.0526316 l "distance"
+12 40 0.1428571 l "distance"
+40 13 0.0526316 l "distance"
+13 40 0.1428571 l "distance"
+40 14 0.0526316 l "distance"
+14 40 0.1428571 l "distance"
+40 15 0.0526316 l "distance"
+15 40 0.1428571 l "distance"
+40 16 0.0526316 l "distance"
+16 40 0.1428571 l "distance"
+40 17 0.0526316 l "distance"
+17 40 0.1428571 l "distance"
+40 18 0.0526316 l "distance"
+18 40 0.1428571 l "distance"
+40 19 0.0526316 l "distance"
+19 40 0.1428571 l "distance"
+40 20 0.0526316 l "distance"
+20 40 0.1428571 l "distance"
+1 4 0.0333333 l "distance"
+4 1 0.0476190 l "distance"
+1 5 0.0333333 l "distance"
+5 1 0.0476190 l "distance"
+1 6 0.0333333 l "distance"
+6 1 0.0476190 l "distance"
+1 7 0.0333333 l "distance"
+7 1 0.0476190 l "distance"
+1 8 0.0333333 l "distance"
+8 1 0.0476190 l "distance"
+1 9 0.0333333 l "distance"
+9 1 0.0476190 l "distance"
+1 10 0.0333333 l "distance"
+10 1 0.0476190 l "distance"
+1 11 0.0333333 l "distance"
+11 1 0.0476190 l "distance"
+1 12 0.0666667 l "distance"
+12 1 0.0952381 l "distance"
+1 13 0.0666667 l "distance"
+13 1 0.0952381 l "distance"
+1 14 0.0666667 l "distance"
+14 1 0.0952381 l "distance"
+1 15 0.0666667 l "distance"
+15 1 0.0952381 l "distance"
+1 16 0.0666667 l "distance"
+16 1 0.0952381 l "distance"
+1 17 0.0666667 l "distance"
+17 1 0.0952381 l "distance"
+1 18 0.0666667 l "distance"
+18 1 0.0952381 l "distance"
+1 19 0.0666667 l "distance"
+19 1 0.0952381 l "distance"
+1 20 0.0666667 l "distance"
+20 1 0.0952381 l "distance"
+4 5 0.0476190 l "distance"
+5 4 0.0476190 l "distance"
+4 6 0.0476190 l "distance"
+6 4 0.0476190 l "distance"
+4 7 0.0476190 l "distance"
+7 4 0.0476190 l "distance"
+4 8 0.0476190 l "distance"
+8 4 0.0476190 l "distance"
+4 9 0.0476190 l "distance"
+9 4 0.0476190 l "distance"
+4 10 0.0476190 l "distance"
+10 4 0.0476190 l "distance"
+4 11 0.0476190 l "distance"
+11 4 0.0476190 l "distance"
+4 12 0.0476190 l "distance"
+12 4 0.0476190 l "distance"
+4 13 0.0476190 l "distance"
+13 4 0.0476190 l "distance"
+4 14 0.0476190 l "distance"
+14 4 0.0476190 l "distance"
+4 15 0.0476190 l "distance"
+15 4 0.0476190 l "distance"
+4 16 0.0476190 l "distance"
+16 4 0.0476190 l "distance"
+4 17 0.0476190 l "distance"
+17 4 0.0476190 l "distance"
+4 18 0.0476190 l "distance"
+18 4 0.0476190 l "distance"
+4 19 0.0476190 l "distance"
+19 4 0.0476190 l "distance"
+4 20 0.0476190 l "distance"
+20 4 0.0476190 l "distance"
+5 6 0.0476190 l "distance"
+6 5 0.0476190 l "distance"
+5 7 0.0476190 l "distance"
+7 5 0.0476190 l "distance"
+5 8 0.0476190 l "distance"
+8 5 0.0476190 l "distance"
+5 9 0.0476190 l "distance"
+9 5 0.0476190 l "distance"
+5 10 0.0476190 l "distance"
+10 5 0.0476190 l "distance"
+5 11 0.0476190 l "distance"
+11 5 0.0476190 l "distance"
+5 12 0.0476190 l "distance"
+12 5 0.0476190 l "distance"
+5 13 0.0476190 l "distance"
+13 5 0.0476190 l "distance"
+5 14 0.0476190 l "distance"
+14 5 0.0476190 l "distance"
+5 15 0.0476190 l "distance"
+15 5 0.0476190 l "distance"
+5 16 0.0476190 l "distance"
+16 5 0.0476190 l "distance"
+5 17 0.0476190 l "distance"
+17 5 0.0476190 l "distance"
+5 18 0.0476190 l "distance"
+18 5 0.0476190 l "distance"
+5 19 0.0476190 l "distance"
+19 5 0.0476190 l "distance"
+5 20 0.0476190 l "distance"
+20 5 0.0476190 l "distance"
+6 7 0.0476190 l "distance"
+7 6 0.0476190 l "distance"
+6 8 0.0476190 l "distance"
+8 6 0.0476190 l "distance"
+6 9 0.0476190 l "distance"
+9 6 0.0476190 l "distance"
+6 10 0.0476190 l "distance"
+10 6 0.0476190 l "distance"
+6 11 0.0476190 l "distance"
+11 6 0.0476190 l "distance"
+6 12 0.0476190 l "distance"
+12 6 0.0476190 l "distance"
+6 13 0.0476190 l "distance"
+13 6 0.0476190 l "distance"
+6 14 0.0476190 l "distance"
+14 6 0.0476190 l "distance"
+6 15 0.0476190 l "distance"
+15 6 0.0476190 l "distance"
+6 16 0.0476190 l "distance"
+16 6 0.0476190 l "distance"
+6 17 0.0476190 l "distance"
+17 6 0.0476190 l "distance"
+6 18 0.0476190 l "distance"
+18 6 0.0476190 l "distance"
+6 19 0.0476190 l "distance"
+19 6 0.0476190 l "distance"
+6 20 0.0476190 l "distance"
+20 6 0.0476190 l "distance"
+7 8 0.0476190 l "distance"
+8 7 0.0476190 l "distance"
+7 9 0.0476190 l "distance"
+9 7 0.0476190 l "distance"
+7 10 0.0476190 l "distance"
+10 7 0.0476190 l "distance"
+7 11 0.0476190 l "distance"
+11 7 0.0476190 l "distance"
+7 12 0.0476190 l "distance"
+12 7 0.0476190 l "distance"
+7 13 0.0476190 l "distance"
+13 7 0.0476190 l "distance"
+7 14 0.0476190 l "distance"
+14 7 0.0476190 l "distance"
+7 15 0.0476190 l "distance"
+15 7 0.0476190 l "distance"
+7 16 0.0476190 l "distance"
+16 7 0.0476190 l "distance"
+7 17 0.0476190 l "distance"
+17 7 0.0476190 l "distance"
+7 18 0.0476190 l "distance"
+18 7 0.0476190 l "distance"
+7 19 0.0476190 l "distance"
+19 7 0.0476190 l "distance"
+7 20 0.0476190 l "distance"
+20 7 0.0476190 l "distance"
+8 9 0.0476190 l "distance"
+9 8 0.0476190 l "distance"
+8 10 0.0476190 l "distance"
+10 8 0.0476190 l "distance"
+8 11 0.0476190 l "distance"
+11 8 0.0476190 l "distance"
+8 12 0.0476190 l "distance"
+12 8 0.0476190 l "distance"
+8 13 0.0476190 l "distance"
+13 8 0.0476190 l "distance"
+8 14 0.0476190 l "distance"
+14 8 0.0476190 l "distance"
+8 15 0.0476190 l "distance"
+15 8 0.0476190 l "distance"
+8 16 0.0476190 l "distance"
+16 8 0.0476190 l "distance"
+8 17 0.0476190 l "distance"
+17 8 0.0476190 l "distance"
+8 18 0.0476190 l "distance"
+18 8 0.0476190 l "distance"
+8 19 0.0476190 l "distance"
+19 8 0.0476190 l "distance"
+8 20 0.0476190 l "distance"
+20 8 0.0476190 l "distance"
+9 10 0.0476190 l "distance"
+10 9 0.0476190 l "distance"
+9 11 0.0476190 l "distance"
+11 9 0.0476190 l "distance"
+9 12 0.0476190 l "distance"
+12 9 0.0476190 l "distance"
+9 13 0.0476190 l "distance"
+13 9 0.0476190 l "distance"
+9 14 0.0476190 l "distance"
+14 9 0.0476190 l "distance"
+9 15 0.0476190 l "distance"
+15 9 0.0476190 l "distance"
+9 16 0.0476190 l "distance"
+16 9 0.0476190 l "distance"
+9 17 0.0476190 l "distance"
+17 9 0.0476190 l "distance"
+9 18 0.0476190 l "distance"
+18 9 0.0476190 l "distance"
+9 19 0.0476190 l "distance"
+19 9 0.0476190 l "distance"
+9 20 0.0476190 l "distance"
+20 9 0.0476190 l "distance"
+10 11 0.0476190 l "distance"
+11 10 0.0476190 l "distance"
+10 12 0.0476190 l "distance"
+12 10 0.0476190 l "distance"
+10 13 0.0476190 l "distance"
+13 10 0.0476190 l "distance"
+10 14 0.0476190 l "distance"
+14 10 0.0476190 l "distance"
+10 15 0.0476190 l "distance"
+15 10 0.0476190 l "distance"
+10 16 0.0476190 l "distance"
+16 10 0.0476190 l "distance"
+10 17 0.0476190 l "distance"
+17 10 0.0476190 l "distance"
+10 18 0.0476190 l "distance"
+18 10 0.0476190 l "distance"
+10 19 0.0476190 l "distance"
+19 10 0.0476190 l "distance"
+10 20 0.0476190 l "distance"
+20 10 0.0476190 l "distance"
+11 12 0.0476190 l "distance"
+12 11 0.0476190 l "distance"
+11 13 0.0476190 l "distance"
+13 11 0.0476190 l "distance"
+11 14 0.0476190 l "distance"
+14 11 0.0476190 l "distance"
+11 15 0.0476190 l "distance"
+15 11 0.0476190 l "distance"
+11 16 0.0476190 l "distance"
+16 11 0.0476190 l "distance"
+11 17 0.0476190 l "distance"
+17 11 0.0476190 l "distance"
+11 18 0.0476190 l "distance"
+18 11 0.0476190 l "distance"
+11 19 0.0476190 l "distance"
+19 11 0.0476190 l "distance"
+11 20 0.0476190 l "distance"
+20 11 0.0476190 l "distance"
+12 13 0.0476190 l "distance"
+13 12 0.0476190 l "distance"
+12 14 0.0476190 l "distance"
+14 12 0.0476190 l "distance"
+12 15 0.0476190 l "distance"
+15 12 0.0476190 l "distance"
+12 16 0.0476190 l "distance"
+16 12 0.0476190 l "distance"
+12 17 0.0476190 l "distance"
+17 12 0.0476190 l "distance"
+12 18 0.0476190 l "distance"
+18 12 0.0476190 l "distance"
+12 19 0.0476190 l "distance"
+19 12 0.0476190 l "distance"
+12 20 0.0476190 l "distance"
+20 12 0.0476190 l "distance"
+13 14 0.0476190 l "distance"
+14 13 0.0476190 l "distance"
+13 15 0.0476190 l "distance"
+15 13 0.0476190 l "distance"
+13 16 0.0476190 l "distance"
+16 13 0.0476190 l "distance"
+13 17 0.0476190 l "distance"
+17 13 0.0476190 l "distance"
+13 18 0.0476190 l "distance"
+18 13 0.0476190 l "distance"
+13 19 0.0476190 l "distance"
+19 13 0.0476190 l "distance"
+13 20 0.0476190 l "distance"
+20 13 0.0476190 l "distance"
+14 15 0.0476190 l "distance"
+15 14 0.0476190 l "distance"
+14 16 0.0476190 l "distance"
+16 14 0.0476190 l "distance"
+14 17 0.0476190 l "distance"
+17 14 0.0476190 l "distance"
+14 18 0.0476190 l "distance"
+18 14 0.0476190 l "distance"
+14 19 0.0476190 l "distance"
+19 14 0.0476190 l "distance"
+14 20 0.0476190 l "distance"
+20 14 0.0476190 l "distance"
+15 16 0.0476190 l "distance"
+16 15 0.0476190 l "distance"
+15 17 0.0476190 l "distance"
+17 15 0.0476190 l "distance"
+15 18 0.0476190 l "distance"
+18 15 0.0476190 l "distance"
+15 19 0.0476190 l "distance"
+19 15 0.0476190 l "distance"
+15 20 0.0476190 l "distance"
+20 15 0.0476190 l "distance"
+16 17 0.0476190 l "distance"
+17 16 0.0476190 l "distance"
+16 18 0.0476190 l "distance"
+18 16 0.0476190 l "distance"
+16 19 0.0476190 l "distance"
+19 16 0.0476190 l "distance"
+16 20 0.0476190 l "distance"
+20 16 0.0476190 l "distance"
+17 18 0.0476190 l "distance"
+18 17 0.0476190 l "distance"
+17 19 0.0476190 l "distance"
+19 17 0.0476190 l "distance"
+17 20 0.0476190 l "distance"
+20 17 0.0476190 l "distance"
+18 19 0.0476190 l "distance"
+19 18 0.0476190 l "distance"
+18 20 0.0476190 l "distance"
+20 18 0.0476190 l "distance"
+19 20 0.0476190 l "distance"
+20 19 0.0476190 l "distance"
+168 170 0.2500000 l "distance"
+170 168 0.2500000 l "distance"
+169 171 0.2500000 l "distance"
+171 169 0.2500000 l "distance"
+76 77 0.2000000 l "distance"
+77 76 0.2000000 l "distance"
+178 179 0.2500000 l "distance"
+179 178 0.2500000 l "distance"
+83 85 0.1666667 l "distance"
+85 83 0.1666667 l "distance"
+84 86 0.1666667 l "distance"
+86 84 0.1666667 l "distance"
+85 87 0.1666667 l "distance"
+87 85 0.2000000 l "distance"
+86 88 0.1666667 l "distance"
+88 86 0.2000000 l "distance"
+98 99 0.1111111 l "distance"
+99 98 0.1111111 l "distance"
+98 100 0.1111111 l "distance"
+100 98 0.1111111 l "distance"
+98 101 0.1111111 l "distance"
+101 98 0.1111111 l "distance"
+99 100 0.1111111 l "distance"
+100 99 0.1111111 l "distance"
+99 101 0.1111111 l "distance"
+101 99 0.1111111 l "distance"
+100 101 0.1111111 l "distance"
+101 100 0.1111111 l "distance"
+191 209 0.2000000 l "distance"
+209 191 0.2500000 l "distance"
+201 202 0.2500000 l "distance"
+202 201 0.2500000 l "distance"
+204 205 0.2500000 l "distance"
+205 204 0.2000000 l "distance"
+92 93 0.2000000 l "distance"
+93 92 0.2000000 l "distance"
+92 94 0.2000000 l "distance"
+94 92 0.2000000 l "distance"
+93 94 0.2000000 l "distance"
+94 93 0.2000000 l "distance"
+*Edges

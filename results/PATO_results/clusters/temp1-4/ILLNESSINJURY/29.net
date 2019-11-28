@@ -1,0 +1,22 @@
+*Vertices 3
+1 "hematopoietic system" ellipse
+2 "Haematopoietic System" ellipse
+3 "Haemolymphoid System" ellipse
+*Arcs
+2 3 0.5090569 l "isa"
+3 2 0.2250877 l "isa"
+1 2 0.1884318 l "distance"
+2 1 0.4909431 l "distance"
+2 3 0.5090569 l "isa"
+3 2 0.2250877 l "isa"
+1 2 0.1884318 l "distance"
+2 1 0.4909431 l "distance"
+2 3 0.5090569 l "isa"
+3 2 0.2250877 l "isa"
+1 2 0.1884318 l "distance"
+2 1 0.4909431 l "distance"
+2 3 0.5090569 l "isa"
+3 2 0.2250877 l "isa"
+1 2 0.1884318 l "distance"
+2 1 0.4909431 l "distance"
+*Edges

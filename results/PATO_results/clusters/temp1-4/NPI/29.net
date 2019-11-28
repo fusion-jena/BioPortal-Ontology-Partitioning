@@ -1,0 +1,81 @@
+*Vertices 20
+1 "Physical Health Interventions" ellipse
+2 "Manual Therapy" ellipse
+3 "Thermalism" ellipse
+4 "Hortitherapy" ellipse
+5 "Other Health Interventions" ellipse
+6 "Art therapy related terms" ellipse
+7 "Physical Activity related terms" ellipse
+8 "Hortitherapy related terms" ellipse
+9 "Manual Therapy related terms" ellipse
+10 "Thermalism related terms" ellipse
+11 "Ergonomics Tools related terms" ellipse
+12 "Cosmetic Therapy related terms" ellipse
+13 "Wave Therapy related terms" ellipse
+14 "Lithotherapy related terms" ellipse
+15 "Art Therapy" ellipse
+16 "Physical Activity" ellipse
+17 "Wave Therapy" ellipse
+18 "Ergonomic Tools" ellipse
+19 "Lithotherapy" ellipse
+20 "Cosmetic Therapy" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1250000 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.1250000 l "isa"
+4 1 0.2500000 l "isa"
+1 4 0.1250000 l "isa"
+6 15 0.5000000 l "isa"
+15 6 0.4000000 l "isa"
+7 16 1.0000000 l "isa"
+16 7 0.6666667 l "isa"
+8 4 0.6666667 l "isa"
+4 8 0.5000000 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.6666667 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.6666667 l "isa"
+11 18 1.0000000 l "isa"
+18 11 0.5000000 l "isa"
+12 20 1.0000000 l "isa"
+20 12 0.6666667 l "isa"
+13 17 0.6666667 l "isa"
+17 13 0.5000000 l "isa"
+14 19 1.0000000 l "isa"
+19 14 0.6666667 l "isa"
+16 1 0.3333333 l "isa"
+1 16 0.1250000 l "isa"
+17 5 0.2500000 l "isa"
+5 17 0.1250000 l "isa"
+18 5 0.5000000 l "isa"
+5 18 0.1250000 l "isa"
+19 5 0.3333333 l "isa"
+5 19 0.1250000 l "isa"
+20 5 0.3333333 l "isa"
+5 20 0.1250000 l "isa"
+2 9 0.6666667 l "substring"
+9 2 1.0000000 l "substring"
+3 10 0.6666667 l "substring"
+10 3 1.0000000 l "substring"
+4 8 0.5000000 l "substring"
+8 4 0.6666667 l "substring"
+6 15 0.5000000 l "substring"
+15 6 0.4000000 l "substring"
+7 16 1.0000000 l "substring"
+16 7 0.6666667 l "substring"
+12 20 1.0000000 l "substring"
+20 12 0.6666667 l "substring"
+13 17 0.6666667 l "substring"
+17 13 0.5000000 l "substring"
+14 19 1.0000000 l "substring"
+19 14 0.6666667 l "substring"
+4 15 0.2500000 l "distance"
+15 4 0.2000000 l "distance"
+6 8 0.2500000 l "distance"
+8 6 0.3333333 l "distance"
+6 13 0.2500000 l "distance"
+13 6 0.3333333 l "distance"
+15 17 0.2000000 l "distance"
+17 15 0.2500000 l "distance"
+*Edges

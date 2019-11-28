@@ -1,0 +1,9 @@
+*Vertices 2
+1 "BSPO_0000196"
+2 "BSPO_0000197"
+*Arcs
+2 1 0.0144928 l "isa"
+1 2 0.0142857 l "isa"
+1 2 0.0142857 l "distance"
+2 1 0.0144928 l "distance"
+*Edges

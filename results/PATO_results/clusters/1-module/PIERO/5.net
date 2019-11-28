@@ -1,0 +1,24 @@
+*Vertices 3
+1 "chemical_substructure" ellipse
+2 "substructure" ellipse
+3 "substructure_conversion" ellipse
+*Arcs
+2 1 0.1428571 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.5384616 l "hasSubstructure"
+2 3 0.5000000 l "hasSubstructure"
+3 2 0.5384616 l "hasSubstructureInSideA"
+2 3 0.5000000 l "hasSubstructureInSideA"
+3 2 0.5384616 l "hasSubstructureInSideB"
+2 3 0.5000000 l "hasSubstructureInSideB"
+2 3 0.5000000 l "inConversionInSideA"
+3 2 0.5384616 l "inConversionInSideA"
+2 3 0.5000000 l "inConversionInSideB"
+3 2 0.5384616 l "inConversionInSideB"
+2 3 0.5000000 l "inSubstructureConversion"
+3 2 0.5384616 l "inSubstructureConversion"
+1 2 0.5000000 l "substring"
+2 1 0.1428571 l "substring"
+2 3 0.5000000 l "substring"
+3 2 0.5384616 l "substring"
+*Edges

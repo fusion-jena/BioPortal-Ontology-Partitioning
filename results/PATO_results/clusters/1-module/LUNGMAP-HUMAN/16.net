@@ -1,0 +1,7 @@
+*Vertices 2
+1 "myoepithelial cell" ellipse
+2 "submucosal gland epithelial cell" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+*Edges

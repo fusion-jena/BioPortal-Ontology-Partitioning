@@ -1,0 +1,33 @@
+*Vertices 2
+1 "SNVAF" ellipse
+2 "SNVOS" ellipse
+*Arcs
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+1 2 0.0543893 l "isa"
+2 1 0.0510050 l "isa"
+1 2 0.0543893 l "distance"
+2 1 0.0510050 l "distance"
+*Edges

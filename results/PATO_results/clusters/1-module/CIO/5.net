@@ -1,0 +1,25 @@
+*Vertices 4
+1 "confidence statement from weakly conflicting evidence lines of same type" ellipse
+2 "confidence statement from weakly conflicting evidence lines of same type, overall confidence high" ellipse
+3 "confidence statement from weakly conflicting evidence lines of same type, overall confidence low" ellipse
+4 "confidence statement from weakly conflicting evidence lines of same type, overall confidence medium" ellipse
+*Arcs
+2 1 0.2727273 l "isa"
+1 2 0.1578947 l "isa"
+3 1 0.2727273 l "isa"
+1 3 0.1578947 l "isa"
+4 1 0.2727273 l "isa"
+1 4 0.1578947 l "isa"
+2 1 0.2727273 l "definition"
+1 2 0.1578947 l "definition"
+3 1 0.2727273 l "definition"
+1 3 0.1578947 l "definition"
+4 1 0.2727273 l "definition"
+1 4 0.1578947 l "definition"
+1 2 0.1578947 l "substring"
+2 1 0.2727273 l "substring"
+1 3 0.1578947 l "substring"
+3 1 0.2727273 l "substring"
+1 4 0.1578947 l "substring"
+4 1 0.2727273 l "substring"
+*Edges

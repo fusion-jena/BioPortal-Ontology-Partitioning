@@ -1,0 +1,98 @@
+*Vertices 31
+1 "Anticoagulation Therapy" ellipse
+2 "intubation" ellipse
+3 "narcotics" ellipse
+4 "nitric oxide" ellipse
+5 "Thrombolytic Therapy" ellipse
+6 "Inferior Vena Cava Filters" ellipse
+7 "dextran" ellipse
+8 "Thrombectomy" ellipse
+9 "supplemental oxygen therapy" ellipse
+10 "Mechanical ventilation" ellipse
+11 "Anti factor Xa measurement" ellipse
+12 "normal saline" ellipse
+13 "administration fluid intravenous" ellipse
+14 "International Normalized Ratio" ellipse
+15 "Emotional Support" ellipse
+16 "VENA CAVA INFERIOR FILTER PLACEMENT" ellipse
+17 "lanoteplase" ellipse
+18 "antiplatelet therapy" ellipse
+19 "Intravenous fluids" ellipse
+20 "Pulmonary thromboendarterectomy" ellipse
+21 "History of inferior vena cava filter placement" ellipse
+22 "Eliquis" ellipse
+23 "interventional treatment" ellipse
+24 "peripheral vascular alpha-receptor stimulation" ellipse
+25 "right heart catheterization-thrombolytic treatment" ellipse
+26 "rotational catheter fragmentation of emboli" ellipse
+27 "thrombus fragmentation" ellipse
+28 "novel oral anticoagulant" ellipse
+29 "continuous aspiration of thrombotic fragments" ellipse
+30 "Interventional mechanical techniques" ellipse
+31 "Treatment" ellipse
+*Arcs
+1 31 1.0000000 l "isa"
+31 1 0.0158730 l "isa"
+2 31 1.0000000 l "isa"
+31 2 0.0158730 l "isa"
+3 31 1.0000000 l "isa"
+31 3 0.0158730 l "isa"
+4 31 1.0000000 l "isa"
+31 4 0.0158730 l "isa"
+5 31 1.0000000 l "isa"
+31 5 0.0158730 l "isa"
+6 31 1.0000000 l "isa"
+31 6 0.0158730 l "isa"
+7 31 1.0000000 l "isa"
+31 7 0.0158730 l "isa"
+8 31 1.0000000 l "isa"
+31 8 0.0158730 l "isa"
+9 31 1.0000000 l "isa"
+31 9 0.0158730 l "isa"
+10 31 1.0000000 l "isa"
+31 10 0.0158730 l "isa"
+11 31 1.0000000 l "isa"
+31 11 0.0158730 l "isa"
+12 31 1.0000000 l "isa"
+31 12 0.0158730 l "isa"
+13 31 1.0000000 l "isa"
+31 13 0.0158730 l "isa"
+14 31 1.0000000 l "isa"
+31 14 0.0158730 l "isa"
+15 31 1.0000000 l "isa"
+31 15 0.0158730 l "isa"
+16 31 1.0000000 l "isa"
+31 16 0.0158730 l "isa"
+17 31 1.0000000 l "isa"
+31 17 0.0158730 l "isa"
+18 31 1.0000000 l "isa"
+31 18 0.0158730 l "isa"
+19 31 1.0000000 l "isa"
+31 19 0.0158730 l "isa"
+20 31 1.0000000 l "isa"
+31 20 0.0158730 l "isa"
+21 31 1.0000000 l "isa"
+31 21 0.0158730 l "isa"
+22 31 1.0000000 l "isa"
+31 22 0.0158730 l "isa"
+23 31 1.0000000 l "isa"
+31 23 0.0317460 l "isa"
+24 31 1.0000000 l "isa"
+31 24 0.0158730 l "isa"
+25 31 1.0000000 l "isa"
+31 25 0.0317460 l "isa"
+26 31 1.0000000 l "isa"
+31 26 0.0158730 l "isa"
+27 31 1.0000000 l "isa"
+31 27 0.0158730 l "isa"
+28 31 1.0000000 l "isa"
+31 28 0.0158730 l "isa"
+29 31 1.0000000 l "isa"
+31 29 0.0158730 l "isa"
+30 31 1.0000000 l "isa"
+31 30 0.0158730 l "isa"
+23 31 1.0000000 l "substring"
+31 23 0.0317460 l "substring"
+25 31 1.0000000 l "substring"
+31 25 0.0317460 l "substring"
+*Edges

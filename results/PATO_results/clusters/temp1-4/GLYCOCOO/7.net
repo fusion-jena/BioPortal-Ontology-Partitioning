@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Referenced Glycoconjugate" ellipse
+2 "Glycoconjugate" ellipse
+3 "glycoconjugate" ellipse
+*Arcs
+1 2 0.1666667 l "substring"
+2 1 0.1666667 l "substring"
+1 3 0.1666667 l "substring"
+3 1 0.3333333 l "substring"
+2 3 0.3333333 l "substring"
+3 2 0.6666667 l "substring"
+2 3 0.3333333 l "distance"
+3 2 0.6666667 l "distance"
+*Edges

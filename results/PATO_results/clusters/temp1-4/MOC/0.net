@@ -1,0 +1,35 @@
+*Vertices 10
+1 "GasHydrate" ellipse
+2 "Hx"
+3 "NonMethaneVolatileOrganicCompound" ellipse
+4 "Restriction"
+5 "Cl"
+6 "HC" ellipse
+7 "Cx"
+8 "ChlorinatedHydrocarbon" ellipse
+9 "MethaneClathrate" ellipse
+10 "Organochloride" ellipse
+*Arcs
+8 10 0.3333333 l "isa"
+10 8 0.1666667 l "isa"
+9 4 0.1250000 l "definition"
+4 9 0.2000000 l "definition"
+10 4 0.1666667 l "definition"
+4 10 0.2000000 l "definition"
+10 5 0.1666667 l "definition"
+5 10 0.0833333 l "definition"
+9 5 0.1250000 l "substring"
+5 9 0.0833333 l "substring"
+6 7 0.1111111 l "distance"
+7 6 0.1111111 l "distance"
+6 2 0.1111111 l "distance"
+2 6 0.1250000 l "distance"
+6 5 0.1111111 l "distance"
+5 6 0.0833333 l "distance"
+7 2 0.1111111 l "distance"
+2 7 0.1250000 l "distance"
+7 5 0.1111111 l "distance"
+5 7 0.0833333 l "distance"
+2 5 0.1250000 l "distance"
+5 2 0.0833333 l "distance"
+*Edges

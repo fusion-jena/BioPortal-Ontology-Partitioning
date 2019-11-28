@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Age" ellipse
+2 "NonInvasiveMammaryCarcinoma" ellipse
+3 "PagetNippleTumor" ellipse
+*Arcs
+3 2 0.5219573 l "isa"
+2 3 0.1387395 l "isa"
+1 3 0.0099732 l "substring"
+3 1 0.4780427 l "substring"
+3 2 0.5219573 l "isa"
+2 3 0.1387395 l "isa"
+1 3 0.0099732 l "substring"
+3 1 0.4780427 l "substring"
+3 2 0.5219573 l "isa"
+2 3 0.1387395 l "isa"
+1 3 0.0099732 l "substring"
+3 1 0.4780427 l "substring"
+*Edges

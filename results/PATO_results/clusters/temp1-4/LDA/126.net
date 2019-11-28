@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Masai" ellipse
+2 "Masai" ellipse
+3 "Qashqai" ellipse
+*Arcs
+1 2 0.0531896 l "substring"
+2 1 0.0531628 l "substring"
+1 2 0.0531896 l "distance"
+2 1 0.0531628 l "distance"
+1 3 0.0298083 l "distance"
+3 1 0.3343996 l "distance"
+2 3 0.0297933 l "distance"
+3 2 0.3343996 l "distance"
+1 2 0.0531896 l "substring"
+2 1 0.0531628 l "substring"
+1 2 0.0531896 l "distance"
+2 1 0.0531628 l "distance"
+1 3 0.0298083 l "distance"
+3 1 0.3343996 l "distance"
+2 3 0.0297933 l "distance"
+3 2 0.3343996 l "distance"
+*Edges

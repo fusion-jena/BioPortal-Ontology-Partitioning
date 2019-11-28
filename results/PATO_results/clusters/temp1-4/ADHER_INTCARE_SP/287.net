@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Data_analisys_derived_patterns" ellipse
+2 "Supply_Compliance_Measures" ellipse
+*Arcs
+2 1 0.1335322 l "isa"
+1 2 0.2040243 l "isa"
+2 1 0.1335322 l "isa"
+1 2 0.2040243 l "isa"
+*Edges

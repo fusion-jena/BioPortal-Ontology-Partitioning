@@ -1,0 +1,13 @@
+*Vertices 2
+1 "continuant" ellipse
+2 "specifically dependent continuant" ellipse
+*Arcs
+2 1 0.5882353 l "isa"
+1 2 0.2285714 l "isa"
+1 2 0.2285714 l "substring"
+2 1 0.5882353 l "substring"
+2 1 0.5882353 l "isa"
+1 2 0.2285714 l "isa"
+1 2 0.2285714 l "substring"
+2 1 0.5882353 l "substring"
+*Edges

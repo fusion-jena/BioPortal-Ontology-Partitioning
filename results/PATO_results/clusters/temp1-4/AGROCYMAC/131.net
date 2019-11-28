@@ -1,0 +1,37 @@
+*Vertices 4
+1 "annealing" ellipse
+2 "converting energy" ellipse
+3 "converting" ellipse
+4 "converting material" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2161459 l "isa"
+2 3 0.4713983 l "isa"
+3 2 0.2093544 l "isa"
+4 3 0.2893573 l "isa"
+3 4 0.1871235 l "isa"
+2 3 0.4713983 l "substring"
+3 2 0.2093544 l "substring"
+3 4 0.1871235 l "substring"
+4 3 0.2893573 l "substring"
+1 4 1.0000000 l "isa"
+4 1 0.2161459 l "isa"
+2 3 0.4713983 l "isa"
+3 2 0.2093544 l "isa"
+4 3 0.2893573 l "isa"
+3 4 0.1871235 l "isa"
+2 3 0.4713983 l "substring"
+3 2 0.2093544 l "substring"
+3 4 0.1871235 l "substring"
+4 3 0.2893573 l "substring"
+1 4 1.0000000 l "isa"
+4 1 0.2161459 l "isa"
+2 3 0.4713983 l "isa"
+3 2 0.2093544 l "isa"
+4 3 0.2893573 l "isa"
+3 4 0.1871235 l "isa"
+2 3 0.4713983 l "substring"
+3 2 0.2093544 l "substring"
+3 4 0.1871235 l "substring"
+4 3 0.2893573 l "substring"
+*Edges

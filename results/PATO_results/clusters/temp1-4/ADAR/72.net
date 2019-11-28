@@ -1,0 +1,30 @@
+*Vertices 9
+1 "Unit" ellipse
+2 "Adherence_to_Rules_in_the_Community" ellipse
+3 "Community_Life_Skills" ellipse
+4 "Engagement_in_Social_Activities" ellipse
+5 "Job_Performance" ellipse
+6 "Money_Management" ellipse
+7 "Participation_in_Athletic_Activities" ellipse
+8 "Participation_in_Play_Activities" ellipse
+9 "Performance_in_School" ellipse
+*Arcs
+2 3 0.5000000 l "isa"
+3 2 0.1428571 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.1428571 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1428571 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1428571 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.3333333 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.3333333 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.1428571 l "isa"
+1 2 0.1111111 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.1111111 l "substring"
+3 1 0.1428571 l "substring"
+*Edges

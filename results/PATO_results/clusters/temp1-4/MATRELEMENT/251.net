@@ -1,0 +1,17 @@
+*Vertices 2
+1 "BDOC" ellipse
+2 "DOC" ellipse
+*Arcs
+1 2 0.1253539 l "substring"
+2 1 0.0568126 l "substring"
+1 2 0.1253539 l "distance"
+2 1 0.0568126 l "distance"
+1 2 0.1253539 l "substring"
+2 1 0.0568126 l "substring"
+1 2 0.1253539 l "distance"
+2 1 0.0568126 l "distance"
+1 2 0.1253539 l "substring"
+2 1 0.0568126 l "substring"
+1 2 0.1253539 l "distance"
+2 1 0.0568126 l "distance"
+*Edges

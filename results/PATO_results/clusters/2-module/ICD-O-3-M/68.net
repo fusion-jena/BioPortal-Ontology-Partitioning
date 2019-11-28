@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Langerhans cell histiocytosis, unifocal (use 9751/3) [obs]" ellipse
+2 "Langerhans cell histiocytosis, multifocal (use 9751/3) [obs]" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

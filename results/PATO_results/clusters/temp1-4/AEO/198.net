@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Swamp" ellipse
+2 "Wetlands_habitat" ellipse
+*Arcs
+1 2 0.1759091 l "isa"
+2 1 0.2070542 l "isa"
+1 2 0.1759091 l "isa"
+2 1 0.2070542 l "isa"
+*Edges

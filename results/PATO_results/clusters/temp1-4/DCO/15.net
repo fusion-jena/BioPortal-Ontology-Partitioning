@@ -1,0 +1,21 @@
+*Vertices 4
+1 "Gesundheitsstatus" ellipse
+2 "Proposal" ellipse
+3 "Gesundheitsstatus mit ICF-Klassifikation" ellipse
+4 "Gesundheitsstatus mit ALSFRS-Skalierung" ellipse
+*Arcs
+3 1 0.2000000 l "isa"
+1 3 0.0869565 l "isa"
+4 1 0.2222222 l "isa"
+1 4 0.0869565 l "isa"
+1 2 0.1304348 l "accepts"
+2 1 0.2142857 l "accepts"
+1 2 0.1304348 l "denies"
+2 1 0.2142857 l "denies"
+1 2 0.1304348 l "is pending"
+2 1 0.2142857 l "is pending"
+1 3 0.0869565 l "substring"
+3 1 0.2000000 l "substring"
+1 4 0.0869565 l "substring"
+4 1 0.2222222 l "substring"
+*Edges

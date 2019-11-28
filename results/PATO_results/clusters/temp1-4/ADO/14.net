@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Angiography" ellipse
+2 "Blood test" ellipse
+3 "Electrolyte test" ellipse
+4 "HIV testing" ellipse
+5 "Serum Glutamic pyruvic tranaminase testing" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0625000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0625000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0625000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0625000 l "isa"
+*Edges

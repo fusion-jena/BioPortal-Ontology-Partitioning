@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Satisfactory_adh_Haynes_Sackett" ellipse
+2 "Unsatisfactory_adh_Haynes_Sackett" ellipse
+*Arcs
+1 2 0.2148020 l "substring"
+2 1 0.2148020 l "substring"
+1 2 0.2148020 l "distance"
+2 1 0.2148020 l "distance"
+1 2 0.2148020 l "substring"
+2 1 0.2148020 l "substring"
+1 2 0.2148020 l "distance"
+2 1 0.2148020 l "distance"
+*Edges

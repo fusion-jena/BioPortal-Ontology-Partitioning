@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Executive_Function" ellipse
+2 "Response_Inhibition" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2168589 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2168589 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2168589 l "isa"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Bullying" ellipse
+2 "Bullying" ellipse
+*Arcs
+1 2 0.6874878 l "substring"
+2 1 0.4831291 l "substring"
+1 2 0.6874878 l "distance"
+2 1 0.4831291 l "distance"
+1 2 0.6874878 l "substring"
+2 1 0.4831291 l "substring"
+1 2 0.6874878 l "distance"
+2 1 0.4831291 l "distance"
+1 2 0.6874878 l "substring"
+2 1 0.4831291 l "substring"
+1 2 0.6874878 l "distance"
+2 1 0.4831291 l "distance"
+1 2 0.6874878 l "substring"
+2 1 0.4831291 l "substring"
+1 2 0.6874878 l "distance"
+2 1 0.4831291 l "distance"
+1 2 0.6874878 l "substring"
+2 1 0.4831291 l "substring"
+1 2 0.6874878 l "distance"
+2 1 0.4831291 l "distance"
+*Edges

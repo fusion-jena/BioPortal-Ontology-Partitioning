@@ -1,0 +1,26 @@
+*Vertices 7
+1 "Neologisms_idiosyncratic_language" ellipse
+2 "Neologisms_idiosyncratic_language_NotAvailable" ellipse
+3 "Neologisms_idiosyncratic_language_UnknownOrNotAsked" ellipse
+4 "No_Use" ellipse
+5 "No_use_of_neologisms_or_idiosyncratic_language" ellipse
+6 "Occasional_use_of_neologisms_or_idiosyncratic_words_and_phrases" ellipse
+7 "neologidiolang_Occasional_use_of_neologisms_or_idiosyncratic_words_and_phrases"
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2500000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1250000 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.1250000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 1.0000000 l "substring"
+4 5 0.2500000 l "substring"
+5 4 0.5000000 l "substring"
+6 7 0.5000000 l "substring"
+7 6 0.3333333 l "substring"
+*Edges

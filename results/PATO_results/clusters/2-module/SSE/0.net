@@ -1,0 +1,39 @@
+*Vertices 18
+1 "Resource" ellipse
+2 "Cerebral Epidural Hematoma" ellipse
+3 "Cerebral Subdural Hematoma" ellipse
+4 "Anemia" ellipse
+5 "Ascites" ellipse
+6 "Ataxia" ellipse
+7 "Biloma" ellipse
+8 "Burn" ellipse
+9 "Cerebral Parenchymal Hematoma" ellipse
+10 "Dysphagia" ellipse
+11 "Dysphasia" ellipse
+12 "Hematoma" ellipse
+13 "Lymphocele or Chylous Ascites" ellipse
+14 "Salivary Gland Infection" ellipse
+15 "Seroma" ellipse
+16 "Stoma Dysfunction" ellipse
+17 "Stoma Dysfunction, continent diversion" ellipse
+18 "Wound Infection" ellipse
+*Arcs
+5 13 0.5000000 l "substring"
+13 5 0.5000000 l "substring"
+2 12 0.3333333 l "substring"
+12 2 0.2500000 l "substring"
+9 12 0.5000000 l "substring"
+12 9 0.2500000 l "substring"
+3 12 0.3333333 l "substring"
+12 3 0.2500000 l "substring"
+16 17 0.5000000 l "substring"
+17 16 0.5000000 l "substring"
+4 6 0.5000000 l "distance"
+6 4 0.5000000 l "distance"
+7 15 0.5000000 l "distance"
+15 7 0.5000000 l "distance"
+2 3 0.3333333 l "distance"
+3 2 0.3333333 l "distance"
+10 11 0.5000000 l "distance"
+11 10 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "baseline" ellipse
+2 "baseline (chromatography)" ellipse
+*Arcs
+2 1 0.2455426 l "isa"
+1 2 0.1198099 l "isa"
+1 2 0.1198099 l "substring"
+2 1 0.2455426 l "substring"
+2 1 0.2455426 l "isa"
+1 2 0.1198099 l "isa"
+1 2 0.1198099 l "substring"
+2 1 0.2455426 l "substring"
+*Edges

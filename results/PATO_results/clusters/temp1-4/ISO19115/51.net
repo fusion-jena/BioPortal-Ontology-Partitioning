@@ -1,0 +1,33 @@
+*Vertices 2
+1 "respiratory system" ellipse
+2 "Respiratory System" ellipse
+*Arcs
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+1 2 0.3946733 l "substring"
+2 1 0.5976461 l "substring"
+1 2 0.3946733 l "distance"
+2 1 0.5976461 l "distance"
+*Edges

@@ -1,0 +1,40 @@
+*Vertices 13
+1 "social connect service" ellipse
+2 "befriending service" ellipse
+3 "gardening club" ellipse
+4 "biological characteristic" ellipse
+5 "exposure" ellipse
+6 "addiction" ellipse
+7 "disability" ellipse
+8 "genetic vulnarebility" ellipse
+9 "carer support" ellipse
+10 "community transport" ellipse
+11 "support around disability" ellipse
+12 "eco-therapy" ellipse
+13 "peer support group" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+3 12 1.0000000 l "isa"
+12 3 0.5000000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.2000000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.5000000 l "isa"
+7 4 0.5000000 l "isa"
+4 7 0.2000000 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.2000000 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.1250000 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.1250000 l "isa"
+11 1 0.5000000 l "isa"
+1 11 0.1250000 l "isa"
+12 1 0.5000000 l "isa"
+1 12 0.1250000 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.1250000 l "isa"
+7 11 0.5000000 l "substring"
+11 7 0.5000000 l "substring"
+*Edges

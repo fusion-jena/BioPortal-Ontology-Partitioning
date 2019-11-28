@@ -1,0 +1,78 @@
+*Vertices 21
+1 "Allergy_evaluation" ellipse
+2 "Chemosensory_phenotyping" ellipse
+3 "Family_History" ellipse
+4 "Manufacturing_processes" ellipse
+5 "Smell_disorders" ellipse
+6 "Subjects" ellipse
+7 "Taste_disorders" ellipse
+8 "alcohol_consumption" ellipse
+9 "chemosensory_symptoms_or_signs" ellipse
+10 "conditions" ellipse
+11 "metallic_compounds" ellipse
+12 "metallurgical_processes" ellipse
+13 "nonmetallic_inorganic_compounds" ellipse
+14 "organic_compounds" ellipse
+15 "profession" ellipse
+16 "relatives" ellipse
+17 "smell" ellipse
+18 "social_history" ellipse
+19 "subjective_allergic_status" ellipse
+20 "toxic_exposure" ellipse
+21 "Thing"
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.0952381 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.0952381 l "isa"
+4 20 1.0000000 l "isa"
+20 4 0.1428571 l "isa"
+5 21 0.3333333 l "isa"
+21 5 0.5000000 l "isa"
+7 21 0.3333333 l "isa"
+21 7 0.5000000 l "isa"
+8 18 1.0000000 l "isa"
+18 8 0.2000000 l "isa"
+9 2 0.5000000 l "isa"
+2 9 0.0952381 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.2500000 l "isa"
+11 20 1.0000000 l "isa"
+20 11 0.1428571 l "isa"
+12 20 1.0000000 l "isa"
+20 12 0.1428571 l "isa"
+13 20 0.5000000 l "isa"
+20 13 0.1428571 l "isa"
+14 20 0.5000000 l "isa"
+20 14 0.1428571 l "isa"
+15 18 0.5000000 l "isa"
+18 15 0.2000000 l "isa"
+16 3 1.0000000 l "isa"
+3 16 0.2500000 l "isa"
+17 9 0.5000000 l "isa"
+9 17 0.2500000 l "isa"
+18 2 0.4000000 l "isa"
+2 18 0.0952381 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.2500000 l "isa"
+20 15 0.1428571 l "isa"
+15 20 0.5000000 l "isa"
+5 2 0.3333333 l "can_be_defined_by"
+2 5 0.0476190 l "can_be_defined_by"
+6 2 1.0000000 l "can_be_defined_by"
+2 6 0.0476190 l "can_be_defined_by"
+7 2 0.3333333 l "can_be_defined_by"
+2 7 0.0476190 l "can_be_defined_by"
+1 2 0.5000000 l "is_part_of"
+2 1 0.0952381 l "is_part_of"
+3 2 0.5000000 l "is_part_of"
+2 3 0.0952381 l "is_part_of"
+9 2 0.5000000 l "is_part_of"
+2 9 0.0952381 l "is_part_of"
+18 2 0.4000000 l "is_part_of"
+2 18 0.0952381 l "is_part_of"
+5 17 0.3333333 l "substring"
+17 5 0.5000000 l "substring"
+13 14 0.5000000 l "substring"
+14 13 0.5000000 l "substring"
+*Edges

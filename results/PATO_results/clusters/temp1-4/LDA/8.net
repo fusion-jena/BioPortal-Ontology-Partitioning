@@ -1,0 +1,479 @@
+*Vertices 96
+1 "cattle breed" ellipse
+2 "Alentejana" ellipse
+3 "Allmogekor" ellipse
+4 "Amrit Mahal" ellipse
+5 "Aulie-Ata" ellipse
+6 "Australian Lowline" ellipse
+7 "Australian Milking Zebu" ellipse
+8 "Azaouak" ellipse
+9 "Baltana Romaneasca" ellipse
+10 "Belarus Red" ellipse
+11 "Belmont Adaptaur" ellipse
+12 "Belmont Red" ellipse
+13 "Berrendas" ellipse
+14 "Blanco Orejinegro" ellipse
+15 "Blonde d'Aquitaine" ellipse
+16 "Bordelais" ellipse
+17 "Brahmousin" ellipse
+18 "Braunvieh" ellipse
+19 "British White" ellipse
+20 "Brown Swiss" ellipse
+21 "Carinthian Blond" ellipse
+22 "Charbray" ellipse
+23 "Chinampo" ellipse
+24 "Costeno con Cuernos" ellipse
+25 "Damascus" ellipse
+26 "Damietta" ellipse
+27 "Droughtmaster" ellipse
+28 "Dutch Belted" ellipse
+29 "East Anatolian Red" ellipse
+30 "Enderby Island" ellipse
+31 "English Longhorn" ellipse
+32 "Estonian Red" ellipse
+33 "Evolène" ellipse
+34 "Fighting Bull" ellipse
+35 "Gelbvieh" ellipse
+36 "German Red Pied" ellipse
+37 "Guzerat" ellipse
+38 "Hallikar" ellipse
+39 "Hays Converter" ellipse
+40 "Hinterwald" ellipse
+41 "Holando-Argentino" ellipse
+42 "Illawarra" ellipse
+43 "Indo-Brazilian" ellipse
+44 "Irish Moiled" ellipse
+45 "Israeli Red" ellipse
+46 "Jamaica Hope" ellipse
+47 "Jamaica Red" ellipse
+48 "Kangayam" ellipse
+49 "Kenwariya" ellipse
+50 "Kherigarh" ellipse
+51 "Khillari" ellipse
+52 "Kholmogory" ellipse
+53 "Krishna Valley" ellipse
+54 "Limousin" ellipse
+55 "Limpurger" ellipse
+56 "Madagascar Zebu" ellipse
+57 "Maine Anjou" ellipse
+58 "Mandalong" ellipse
+59 "Marchigiana" ellipse
+60 "Maremmana" ellipse
+61 "Mazandarani" ellipse
+62 "Meuse-Rhine-Yssel" ellipse
+63 "Mirandesa" ellipse
+64 "Montbeliarde" ellipse
+65 "Murboden" ellipse
+66 "Murray Grey" ellipse
+67 "Nanyang" ellipse
+68 "Parthenais" ellipse
+69 "Piedmontese" ellipse
+70 "Pinzgauer" ellipse
+71 "Rätien Gray" ellipse
+72 "Red Fulani" ellipse
+73 "Red Sindhi" ellipse
+74 "Retinta" ellipse
+75 "Romosinuano" ellipse
+76 "Santa Gertrudis" ellipse
+77 "San Martinero" ellipse
+78 "Senepol" ellipse
+79 "Siboney" ellipse
+80 "Simbrah" ellipse
+81 "Simmental" ellipse
+82 "Slovenian Cika" ellipse
+83 "Swedish Red-and-White" ellipse
+84 "Tarentaise" ellipse
+85 "Telemark" ellipse
+86 "Texas Longhorn" ellipse
+87 "Tharparker" ellipse
+88 "Turkish Grey Steppe" ellipse
+89 "Ukrainian Whitehead" ellipse
+90 "Vestland Fjord" ellipse
+91 "Vosges" ellipse
+92 "Jiaxian Red" ellipse
+93 "Valdostana Red Pied" ellipse
+94 "Fleckvieh" ellipse
+95 "Tropical Composite" ellipse
+96 "Vorderwald" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0042389 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0042389 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0042389 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0042389 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0042389 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0042389 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0042389 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0042389 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0042389 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0042389 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0042389 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0042389 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0042389 l "isa"
+15 1 1.0000000 l "isa"
+1 15 0.0042389 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0042389 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0042389 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0042389 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0042389 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0042389 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0042389 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0042389 l "isa"
+23 1 1.0000000 l "isa"
+1 23 0.0042389 l "isa"
+24 1 1.0000000 l "isa"
+1 24 0.0042389 l "isa"
+25 1 1.0000000 l "isa"
+1 25 0.0042389 l "isa"
+26 1 1.0000000 l "isa"
+1 26 0.0042389 l "isa"
+27 1 1.0000000 l "isa"
+1 27 0.0042389 l "isa"
+28 1 1.0000000 l "isa"
+1 28 0.0042389 l "isa"
+29 1 1.0000000 l "isa"
+1 29 0.0042389 l "isa"
+30 1 1.0000000 l "isa"
+1 30 0.0042389 l "isa"
+31 1 1.0000000 l "isa"
+1 31 0.0042389 l "isa"
+32 1 1.0000000 l "isa"
+1 32 0.0042389 l "isa"
+33 1 1.0000000 l "isa"
+1 33 0.0042389 l "isa"
+34 1 1.0000000 l "isa"
+1 34 0.0042389 l "isa"
+35 1 1.0000000 l "isa"
+1 35 0.0042389 l "isa"
+36 1 1.0000000 l "isa"
+1 36 0.0042389 l "isa"
+37 1 1.0000000 l "isa"
+1 37 0.0042389 l "isa"
+38 1 1.0000000 l "isa"
+1 38 0.0042389 l "isa"
+39 1 1.0000000 l "isa"
+1 39 0.0042389 l "isa"
+40 1 1.0000000 l "isa"
+1 40 0.0042389 l "isa"
+41 1 1.0000000 l "isa"
+1 41 0.0042389 l "isa"
+42 1 1.0000000 l "isa"
+1 42 0.0042389 l "isa"
+43 1 1.0000000 l "isa"
+1 43 0.0042389 l "isa"
+44 1 1.0000000 l "isa"
+1 44 0.0042389 l "isa"
+45 1 1.0000000 l "isa"
+1 45 0.0042389 l "isa"
+46 1 1.0000000 l "isa"
+1 46 0.0042389 l "isa"
+47 1 1.0000000 l "isa"
+1 47 0.0042389 l "isa"
+48 1 1.0000000 l "isa"
+1 48 0.0042389 l "isa"
+49 1 1.0000000 l "isa"
+1 49 0.0042389 l "isa"
+50 1 1.0000000 l "isa"
+1 50 0.0042389 l "isa"
+51 1 1.0000000 l "isa"
+1 51 0.0042389 l "isa"
+52 1 1.0000000 l "isa"
+1 52 0.0042389 l "isa"
+53 1 1.0000000 l "isa"
+1 53 0.0042389 l "isa"
+54 1 1.0000000 l "isa"
+1 54 0.0042389 l "isa"
+55 1 1.0000000 l "isa"
+1 55 0.0042389 l "isa"
+56 1 1.0000000 l "isa"
+1 56 0.0042389 l "isa"
+57 1 1.0000000 l "isa"
+1 57 0.0042389 l "isa"
+58 1 1.0000000 l "isa"
+1 58 0.0042389 l "isa"
+59 1 1.0000000 l "isa"
+1 59 0.0042389 l "isa"
+60 1 1.0000000 l "isa"
+1 60 0.0042389 l "isa"
+61 1 1.0000000 l "isa"
+1 61 0.0042389 l "isa"
+62 1 1.0000000 l "isa"
+1 62 0.0042389 l "isa"
+63 1 1.0000000 l "isa"
+1 63 0.0042389 l "isa"
+64 1 1.0000000 l "isa"
+1 64 0.0042389 l "isa"
+65 1 1.0000000 l "isa"
+1 65 0.0042389 l "isa"
+66 1 1.0000000 l "isa"
+1 66 0.0042389 l "isa"
+67 1 1.0000000 l "isa"
+1 67 0.0042389 l "isa"
+68 1 1.0000000 l "isa"
+1 68 0.0042389 l "isa"
+69 1 1.0000000 l "isa"
+1 69 0.0042389 l "isa"
+70 1 1.0000000 l "isa"
+1 70 0.0042389 l "isa"
+71 1 1.0000000 l "isa"
+1 71 0.0042389 l "isa"
+72 1 1.0000000 l "isa"
+1 72 0.0042389 l "isa"
+73 1 1.0000000 l "isa"
+1 73 0.0042389 l "isa"
+74 1 1.0000000 l "isa"
+1 74 0.0042389 l "isa"
+75 1 1.0000000 l "isa"
+1 75 0.0042389 l "isa"
+76 1 1.0000000 l "isa"
+1 76 0.0042389 l "isa"
+77 1 1.0000000 l "isa"
+1 77 0.0042389 l "isa"
+78 1 1.0000000 l "isa"
+1 78 0.0042389 l "isa"
+79 1 1.0000000 l "isa"
+1 79 0.0042389 l "isa"
+80 1 1.0000000 l "isa"
+1 80 0.0042389 l "isa"
+81 1 1.0000000 l "isa"
+1 81 0.0042389 l "isa"
+82 1 1.0000000 l "isa"
+1 82 0.0042389 l "isa"
+83 1 1.0000000 l "isa"
+1 83 0.0042389 l "isa"
+84 1 1.0000000 l "isa"
+1 84 0.0042389 l "isa"
+85 1 1.0000000 l "isa"
+1 85 0.0042389 l "isa"
+86 1 1.0000000 l "isa"
+1 86 0.0042389 l "isa"
+87 1 1.0000000 l "isa"
+1 87 0.0042389 l "isa"
+88 1 1.0000000 l "isa"
+1 88 0.0042389 l "isa"
+89 1 1.0000000 l "isa"
+1 89 0.0042389 l "isa"
+90 1 1.0000000 l "isa"
+1 90 0.0042389 l "isa"
+91 1 1.0000000 l "isa"
+1 91 0.0042389 l "isa"
+92 1 1.0000000 l "isa"
+1 92 0.0042389 l "isa"
+93 1 1.0000000 l "isa"
+1 93 0.0042389 l "isa"
+94 1 1.0000000 l "isa"
+1 94 0.0042389 l "isa"
+95 1 1.0000000 l "isa"
+1 95 0.0042389 l "isa"
+96 1 1.0000000 l "isa"
+1 96 0.0042389 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.0042389 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0042389 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0042389 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0042389 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0042389 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0042389 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0042389 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0042389 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0042389 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0042389 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0042389 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0042389 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0042389 l "isa"
+15 1 1.0000000 l "isa"
+1 15 0.0042389 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0042389 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0042389 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0042389 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0042389 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0042389 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0042389 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0042389 l "isa"
+23 1 1.0000000 l "isa"
+1 23 0.0042389 l "isa"
+24 1 1.0000000 l "isa"
+1 24 0.0042389 l "isa"
+25 1 1.0000000 l "isa"
+1 25 0.0042389 l "isa"
+26 1 1.0000000 l "isa"
+1 26 0.0042389 l "isa"
+27 1 1.0000000 l "isa"
+1 27 0.0042389 l "isa"
+28 1 1.0000000 l "isa"
+1 28 0.0042389 l "isa"
+29 1 1.0000000 l "isa"
+1 29 0.0042389 l "isa"
+30 1 1.0000000 l "isa"
+1 30 0.0042389 l "isa"
+31 1 1.0000000 l "isa"
+1 31 0.0042389 l "isa"
+32 1 1.0000000 l "isa"
+1 32 0.0042389 l "isa"
+33 1 1.0000000 l "isa"
+1 33 0.0042389 l "isa"
+34 1 1.0000000 l "isa"
+1 34 0.0042389 l "isa"
+35 1 1.0000000 l "isa"
+1 35 0.0042389 l "isa"
+36 1 1.0000000 l "isa"
+1 36 0.0042389 l "isa"
+37 1 1.0000000 l "isa"
+1 37 0.0042389 l "isa"
+38 1 1.0000000 l "isa"
+1 38 0.0042389 l "isa"
+39 1 1.0000000 l "isa"
+1 39 0.0042389 l "isa"
+40 1 1.0000000 l "isa"
+1 40 0.0042389 l "isa"
+41 1 1.0000000 l "isa"
+1 41 0.0042389 l "isa"
+42 1 1.0000000 l "isa"
+1 42 0.0042389 l "isa"
+43 1 1.0000000 l "isa"
+1 43 0.0042389 l "isa"
+44 1 1.0000000 l "isa"
+1 44 0.0042389 l "isa"
+45 1 1.0000000 l "isa"
+1 45 0.0042389 l "isa"
+46 1 1.0000000 l "isa"
+1 46 0.0042389 l "isa"
+47 1 1.0000000 l "isa"
+1 47 0.0042389 l "isa"
+48 1 1.0000000 l "isa"
+1 48 0.0042389 l "isa"
+49 1 1.0000000 l "isa"
+1 49 0.0042389 l "isa"
+50 1 1.0000000 l "isa"
+1 50 0.0042389 l "isa"
+51 1 1.0000000 l "isa"
+1 51 0.0042389 l "isa"
+52 1 1.0000000 l "isa"
+1 52 0.0042389 l "isa"
+53 1 1.0000000 l "isa"
+1 53 0.0042389 l "isa"
+54 1 1.0000000 l "isa"
+1 54 0.0042389 l "isa"
+55 1 1.0000000 l "isa"
+1 55 0.0042389 l "isa"
+56 1 1.0000000 l "isa"
+1 56 0.0042389 l "isa"
+57 1 1.0000000 l "isa"
+1 57 0.0042389 l "isa"
+58 1 1.0000000 l "isa"
+1 58 0.0042389 l "isa"
+59 1 1.0000000 l "isa"
+1 59 0.0042389 l "isa"
+60 1 1.0000000 l "isa"
+1 60 0.0042389 l "isa"
+61 1 1.0000000 l "isa"
+1 61 0.0042389 l "isa"
+62 1 1.0000000 l "isa"
+1 62 0.0042389 l "isa"
+63 1 1.0000000 l "isa"
+1 63 0.0042389 l "isa"
+64 1 1.0000000 l "isa"
+1 64 0.0042389 l "isa"
+65 1 1.0000000 l "isa"
+1 65 0.0042389 l "isa"
+66 1 1.0000000 l "isa"
+1 66 0.0042389 l "isa"
+67 1 1.0000000 l "isa"
+1 67 0.0042389 l "isa"
+68 1 1.0000000 l "isa"
+1 68 0.0042389 l "isa"
+69 1 1.0000000 l "isa"
+1 69 0.0042389 l "isa"
+70 1 1.0000000 l "isa"
+1 70 0.0042389 l "isa"
+71 1 1.0000000 l "isa"
+1 71 0.0042389 l "isa"
+72 1 1.0000000 l "isa"
+1 72 0.0042389 l "isa"
+73 1 1.0000000 l "isa"
+1 73 0.0042389 l "isa"
+74 1 1.0000000 l "isa"
+1 74 0.0042389 l "isa"
+75 1 1.0000000 l "isa"
+1 75 0.0042389 l "isa"
+76 1 1.0000000 l "isa"
+1 76 0.0042389 l "isa"
+77 1 1.0000000 l "isa"
+1 77 0.0042389 l "isa"
+78 1 1.0000000 l "isa"
+1 78 0.0042389 l "isa"
+79 1 1.0000000 l "isa"
+1 79 0.0042389 l "isa"
+80 1 1.0000000 l "isa"
+1 80 0.0042389 l "isa"
+81 1 1.0000000 l "isa"
+1 81 0.0042389 l "isa"
+82 1 1.0000000 l "isa"
+1 82 0.0042389 l "isa"
+83 1 1.0000000 l "isa"
+1 83 0.0042389 l "isa"
+84 1 1.0000000 l "isa"
+1 84 0.0042389 l "isa"
+85 1 1.0000000 l "isa"
+1 85 0.0042389 l "isa"
+86 1 1.0000000 l "isa"
+1 86 0.0042389 l "isa"
+87 1 1.0000000 l "isa"
+1 87 0.0042389 l "isa"
+88 1 1.0000000 l "isa"
+1 88 0.0042389 l "isa"
+89 1 1.0000000 l "isa"
+1 89 0.0042389 l "isa"
+90 1 1.0000000 l "isa"
+1 90 0.0042389 l "isa"
+91 1 1.0000000 l "isa"
+1 91 0.0042389 l "isa"
+92 1 1.0000000 l "isa"
+1 92 0.0042389 l "isa"
+93 1 1.0000000 l "isa"
+1 93 0.0042389 l "isa"
+94 1 1.0000000 l "isa"
+1 94 0.0042389 l "isa"
+95 1 1.0000000 l "isa"
+1 95 0.0042389 l "isa"
+96 1 1.0000000 l "isa"
+1 96 0.0042389 l "isa"
+*Edges

@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Zaghawa" ellipse
+2 "Zagoria" ellipse
+3 "Qatgani" ellipse
+4 "Kaghani" ellipse
+*Arcs
+1 2 0.4049272 l "distance"
+2 1 0.2904670 l "distance"
+1 4 0.3375836 l "distance"
+4 1 0.1564315 l "distance"
+3 4 0.2876320 l "distance"
+4 3 0.1442857 l "distance"
+1 2 0.4049272 l "distance"
+2 1 0.2904670 l "distance"
+1 4 0.3375836 l "distance"
+4 1 0.1564315 l "distance"
+3 4 0.2876320 l "distance"
+4 3 0.1442857 l "distance"
+1 2 0.4049272 l "distance"
+2 1 0.2904670 l "distance"
+1 4 0.3375836 l "distance"
+4 1 0.1564315 l "distance"
+3 4 0.2876320 l "distance"
+4 3 0.1442857 l "distance"
+1 2 0.4049272 l "distance"
+2 1 0.2904670 l "distance"
+1 4 0.3375836 l "distance"
+4 1 0.1564315 l "distance"
+3 4 0.2876320 l "distance"
+4 3 0.1442857 l "distance"
+1 2 0.4049272 l "distance"
+2 1 0.2904670 l "distance"
+1 4 0.3375836 l "distance"
+4 1 0.1564315 l "distance"
+3 4 0.2876320 l "distance"
+4 3 0.1442857 l "distance"
+1 2 0.4049272 l "distance"
+2 1 0.2904670 l "distance"
+1 4 0.3375836 l "distance"
+4 1 0.1564315 l "distance"
+3 4 0.2876320 l "distance"
+4 3 0.1442857 l "distance"
+*Edges

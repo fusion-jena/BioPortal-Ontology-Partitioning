@@ -1,0 +1,41 @@
+*Vertices 6
+1 "GABRR1" ellipse
+2 "NPBWR1" ellipse
+3 "NPBWR2" ellipse
+4 "NPY2R" ellipse
+5 "NPY5R" ellipse
+6 "NRBP2" ellipse
+*Arcs
+1 2 0.1067571 l "distance"
+2 1 0.1999256 l "distance"
+2 3 0.2086180 l "distance"
+3 2 0.2087830 l "distance"
+2 4 0.1991354 l "distance"
+4 2 0.0970475 l "distance"
+2 5 0.2008915 l "distance"
+5 2 0.1180895 l "distance"
+3 4 0.1992929 l "distance"
+4 3 0.0970475 l "distance"
+3 5 0.2010503 l "distance"
+5 3 0.1180895 l "distance"
+3 6 0.1992929 l "distance"
+6 3 0.0970857 l "distance"
+4 5 0.0932820 l "distance"
+5 4 0.1125153 l "distance"
+1 2 0.1067571 l "distance"
+2 1 0.1999256 l "distance"
+2 3 0.2086180 l "distance"
+3 2 0.2087830 l "distance"
+2 4 0.1991354 l "distance"
+4 2 0.0970475 l "distance"
+2 5 0.2008915 l "distance"
+5 2 0.1180895 l "distance"
+3 4 0.1992929 l "distance"
+4 3 0.0970475 l "distance"
+3 5 0.2010503 l "distance"
+5 3 0.1180895 l "distance"
+3 6 0.1992929 l "distance"
+6 3 0.0970857 l "distance"
+4 5 0.0932820 l "distance"
+5 4 0.1125153 l "distance"
+*Edges

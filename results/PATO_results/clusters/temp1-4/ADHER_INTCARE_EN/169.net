@@ -1,0 +1,40 @@
+*Vertices 5
+1 "Frequent_use_of_inappropriate_questions_or_statements" ellipse
+2 "Inappropriate_questions_or_statements" ellipse
+3 "Inappropriate_questions_or_statements_NotAvailable" ellipse
+4 "Inappropriate_questions_or_statements_UnknownOrNotAsked" ellipse
+5 "No_or_rare_use_of_inappropriate_questions_or_statements" ellipse
+*Arcs
+1 2 0.4260378 l "isa"
+2 1 0.1596328 l "isa"
+3 2 0.5367364 l "isa"
+2 3 0.1658835 l "isa"
+4 2 0.5367364 l "isa"
+2 4 0.1658835 l "isa"
+5 2 0.4332095 l "isa"
+2 5 0.1596328 l "isa"
+1 2 0.4260378 l "substring"
+2 1 0.1596328 l "substring"
+2 3 0.1658835 l "substring"
+3 2 0.5367364 l "substring"
+2 4 0.1658835 l "substring"
+4 2 0.5367364 l "substring"
+2 5 0.1596328 l "substring"
+5 2 0.4332095 l "substring"
+1 2 0.4260378 l "isa"
+2 1 0.1596328 l "isa"
+3 2 0.5367364 l "isa"
+2 3 0.1658835 l "isa"
+4 2 0.5367364 l "isa"
+2 4 0.1658835 l "isa"
+5 2 0.4332095 l "isa"
+2 5 0.1596328 l "isa"
+1 2 0.4260378 l "substring"
+2 1 0.1596328 l "substring"
+2 3 0.1658835 l "substring"
+3 2 0.5367364 l "substring"
+2 4 0.1658835 l "substring"
+4 2 0.5367364 l "substring"
+2 5 0.1596328 l "substring"
+5 2 0.4332095 l "substring"
+*Edges

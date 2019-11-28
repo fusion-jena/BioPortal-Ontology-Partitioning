@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Hip Waist Measurement" ellipse
+2 "Hip Waist Measurement Hip Circumference" ellipse
+3 "Hip Waist Measurement Waist Circumference" ellipse
+4 "Hip Waist Measurement Waist To Hip Ratio" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2500000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2500000 l "isa"
+1 3 0.2500000 l "definition"
+3 1 1.0000000 l "definition"
+1 2 0.2500000 l "definition"
+2 1 1.0000000 l "definition"
+1 4 0.2500000 l "definition"
+4 1 1.0000000 l "definition"
+1 2 0.2500000 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2500000 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Normande" ellipse
+2 "Nordland" ellipse
+*Arcs
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+1 2 0.6223748 l "distance"
+2 1 0.3025616 l "distance"
+*Edges

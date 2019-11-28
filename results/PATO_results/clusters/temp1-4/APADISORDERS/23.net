@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Levalbuterol" ellipse
+2 "Albuterol" ellipse
+3 "Salmeterol" ellipse
+*Arcs
+1 2 0.6301799 l "substring"
+2 1 0.5832528 l "substring"
+1 2 0.6301799 l "distance"
+2 1 0.5832528 l "distance"
+2 3 0.2441680 l "distance"
+3 2 0.5365565 l "distance"
+1 2 0.6301799 l "substring"
+2 1 0.5832528 l "substring"
+1 2 0.6301799 l "distance"
+2 1 0.5832528 l "distance"
+2 3 0.2441680 l "distance"
+3 2 0.5365565 l "distance"
+1 2 0.6301799 l "substring"
+2 1 0.5832528 l "substring"
+1 2 0.6301799 l "distance"
+2 1 0.5832528 l "distance"
+2 3 0.2441680 l "distance"
+3 2 0.5365565 l "distance"
+*Edges

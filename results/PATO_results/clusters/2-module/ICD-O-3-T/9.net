@@ -1,0 +1,19 @@
+*Vertices 6
+1 "HEMATOPOIETIC AND RETICULOENDOTHELIAL SYSTEMS" ellipse
+2 "Blood" ellipse
+3 "Bone marrow" ellipse
+4 "Spleen" ellipse
+5 "Reticuloendothelial system, NOS" ellipse
+6 "Hematopoietic system, NOS" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1666667 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1666667 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1666667 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1666667 l "isa"
+*Edges

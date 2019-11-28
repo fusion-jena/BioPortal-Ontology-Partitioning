@@ -1,0 +1,71 @@
+*Vertices 22
+1 "year" ellipse
+2 "SI system (le Système international d'unités)" ellipse
+3 "base unit" ellipse
+4 "day" ellipse
+5 "dimensionless unit" ellipse
+6 "Events per day" ellipse
+7 "Events per hour" ellipse
+8 "Events per minute" ellipse
+9 "Events per month" ellipse
+10 "Events per week" ellipse
+11 "Events per year" ellipse
+12 "gram" ellipse
+13 "hour" ellipse
+14 "kilogram" ellipse
+15 "kilogram per square meter" ellipse
+16 "liter" ellipse
+17 "milligram" ellipse
+18 "millimeter" ellipse
+19 "millimeters of mercury" ellipse
+20 "minute" ellipse
+21 "month" ellipse
+22 "week" ellipse
+*Arcs
+3 2 0.1666667 l "isa"
+2 3 0.3333333 l "isa"
+4 6 0.2500000 l "substring"
+6 4 0.3333333 l "substring"
+7 13 0.3333333 l "substring"
+13 7 0.2500000 l "substring"
+8 20 0.3333333 l "substring"
+20 8 0.2500000 l "substring"
+9 21 0.3333333 l "substring"
+21 9 0.2500000 l "substring"
+10 22 0.3333333 l "substring"
+22 10 0.2500000 l "substring"
+11 1 0.2000000 l "substring"
+1 11 0.1428571 l "substring"
+12 14 0.1666667 l "substring"
+14 12 0.2500000 l "substring"
+12 15 0.1666667 l "substring"
+15 12 0.2500000 l "substring"
+12 17 0.1666667 l "substring"
+17 12 0.3333333 l "substring"
+14 15 0.2500000 l "substring"
+15 14 0.2500000 l "substring"
+18 19 0.3333333 l "substring"
+19 18 0.3333333 l "substring"
+4 12 0.2500000 l "distance"
+12 4 0.1666667 l "distance"
+4 1 0.2500000 l "distance"
+1 4 0.1428571 l "distance"
+6 11 0.3333333 l "distance"
+11 6 0.2000000 l "distance"
+7 11 0.3333333 l "distance"
+11 7 0.2000000 l "distance"
+8 9 0.3333333 l "distance"
+9 8 0.3333333 l "distance"
+10 11 0.3333333 l "distance"
+11 10 0.2000000 l "distance"
+12 1 0.1666667 l "distance"
+1 12 0.1428571 l "distance"
+13 1 0.2500000 l "distance"
+1 13 0.1428571 l "distance"
+14 17 0.2500000 l "distance"
+17 14 0.3333333 l "distance"
+20 21 0.2500000 l "distance"
+21 20 0.2500000 l "distance"
+22 1 0.2500000 l "distance"
+1 22 0.1428571 l "distance"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 2
+1 "outcome" ellipse
+2 "has outcome"
+*Arcs
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+1 2 0.4486773 l "substring"
+2 1 0.6951405 l "substring"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "sample-level" ellipse
+2 "sra-sample-level" ellipse
+*Arcs
+1 2 0.1858252 l "substring"
+2 1 0.1858252 l "substring"
+1 2 0.1858252 l "substring"
+2 1 0.1858252 l "substring"
+1 2 0.1858252 l "substring"
+2 1 0.1858252 l "substring"
+*Edges

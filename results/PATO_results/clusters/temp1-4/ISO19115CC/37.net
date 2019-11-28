@@ -1,0 +1,21 @@
+*Vertices 4
+1 "MD_Identifier" ellipse
+2 "authority"
+3 "MD_Identifier" ellipse
+4 "authority"
+*Arcs
+1 2 0.0991436 l "definition"
+2 1 0.4352941 l "definition"
+1 2 0.0991436 l "definition"
+2 1 0.4352941 l "definition"
+3 4 0.0526316 l "definition"
+4 3 0.3333333 l "definition"
+1 3 0.1286188 l "substring"
+3 1 0.1052632 l "substring"
+2 4 0.5647058 l "substring"
+4 2 0.6666667 l "substring"
+1 3 0.1286188 l "distance"
+3 1 0.1052632 l "distance"
+2 4 0.5647058 l "distance"
+4 2 0.6666667 l "distance"
+*Edges

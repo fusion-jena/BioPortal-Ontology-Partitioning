@@ -1,0 +1,30 @@
+*Vertices 3
+1 "submucosal gland" ellipse
+2 "submucosal gland epithelium" ellipse
+3 "submucosal gland duct epithelium" ellipse
+*Arcs
+2 1 0.3928967 l "definition"
+1 2 0.1783113 l "definition"
+3 1 0.3928892 l "definition"
+1 3 0.1783113 l "definition"
+1 2 0.1783113 l "substring"
+2 1 0.3928967 l "substring"
+1 3 0.1783113 l "substring"
+3 1 0.3928892 l "substring"
+2 1 0.3928967 l "definition"
+1 2 0.1783113 l "definition"
+3 1 0.3928892 l "definition"
+1 3 0.1783113 l "definition"
+1 2 0.1783113 l "substring"
+2 1 0.3928967 l "substring"
+1 3 0.1783113 l "substring"
+3 1 0.3928892 l "substring"
+2 1 0.3928967 l "definition"
+1 2 0.1783113 l "definition"
+3 1 0.3928892 l "definition"
+1 3 0.1783113 l "definition"
+1 2 0.1783113 l "substring"
+2 1 0.3928967 l "substring"
+1 3 0.1783113 l "substring"
+3 1 0.3928892 l "substring"
+*Edges

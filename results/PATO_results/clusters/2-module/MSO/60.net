@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Relapse" ellipse
+2 "Synapse" ellipse
+3 "Synapses loss" ellipse
+*Arcs
+2 3 0.5000000 l "substring"
+3 2 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

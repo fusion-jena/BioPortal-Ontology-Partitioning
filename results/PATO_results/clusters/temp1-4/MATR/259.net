@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Leghorn" ellipse
+2 "White Leghorn" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.9091547 l "isa"
+1 2 0.9091547 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Early departure of unscripted participant-during scenario" ellipse
+2 "Early entry of unscripted participant-during scenario" ellipse
+3 "Unscripted participant deviation-during scenario" ellipse
+4 "Wrong number of unscripted participants-during scenario" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.2000000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2000000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2000000 l "isa"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Mongolian" ellipse
+2 "Mongolian" ellipse
+*Arcs
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+1 2 0.7644678 l "substring"
+2 1 0.7644089 l "substring"
+1 2 0.7644678 l "distance"
+2 1 0.7644089 l "distance"
+*Edges

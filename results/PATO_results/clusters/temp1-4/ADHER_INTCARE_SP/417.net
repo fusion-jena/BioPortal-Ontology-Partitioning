@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Definite_circumscribed_interest_that_causes_clear_cut_social_impairment" ellipse
+2 "cirint_Definite_circumscribed_interest_that_causes_clear_cut_social_impairment"
+*Arcs
+1 2 0.1542248 l "substring"
+2 1 0.1374774 l "substring"
+1 2 0.1542248 l "substring"
+2 1 0.1374774 l "substring"
+1 2 0.1542248 l "substring"
+2 1 0.1374774 l "substring"
+*Edges

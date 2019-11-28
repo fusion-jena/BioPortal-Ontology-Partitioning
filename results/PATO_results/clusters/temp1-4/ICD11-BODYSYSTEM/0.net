@@ -1,0 +1,130 @@
+*Vertices 27
+1 "allogeny" ellipse
+2 "entire sense organ system" ellipse
+3 "Zoo" ellipse
+4 "multicellular organism" ellipse
+5 "colon" ellipse
+6 "ileum" ellipse
+7 "existence starts during"
+8 "existence ends during"
+9 "haemolymphatic fluid" ellipse
+10 "mesoderm-derived structure" ellipse
+11 "interstitial fluid" ellipse
+12 "placenta" ellipse
+13 "mucous gland" ellipse
+14 "exocrine gland of integumental system" ellipse
+15 "Restriction"
+16 "Circulatory System (Cardiovascular System)" ellipse
+17 "Parasympathetic Nervous System" ellipse
+18 "Sympathetic Nervous System" ellipse
+19 "bile" ellipse
+20 "organ/tissue specimen" ellipse
+21 "heart plus pericardium" ellipse
+22 "circulatory system" ellipse
+23 "immaterial entity" ellipse
+24 "liver" ellipse
+25 "organism substance" ellipse
+26 "mass" ellipse
+27 "pair of lungs" ellipse
+*Arcs
+11 25 0.2001616 l "isa"
+25 11 0.0642686 l "isa"
+12 10 0.1738644 l "isa"
+10 12 0.2027365 l "isa"
+7 7 0.4526607 l "definition"
+7 7 0.4526607 l "definition"
+8 8 0.4520083 l "definition"
+8 8 0.4520083 l "definition"
+27 15 0.0756833 l "definition"
+15 27 0.0109982 l "definition"
+9 15 0.0866623 l "definition"
+15 9 0.0110380 l "definition"
+9 25 0.0887757 l "definition"
+25 9 0.0611698 l "definition"
+13 15 0.1368016 l "definition"
+15 13 0.0113108 l "definition"
+25 4 0.0614280 l "definition"
+4 25 0.0982651 l "definition"
+25 15 0.0589066 l "definition"
+15 25 0.0108888 l "definition"
+11 15 0.1956263 l "definition"
+15 11 0.0116108 l "definition"
+5 15 0.1208136 l "definition"
+15 5 0.0112170 l "definition"
+19 24 0.2169686 l "definition"
+24 19 0.2502803 l "definition"
+19 15 0.0618240 l "definition"
+15 19 0.0109107 l "definition"
+12 15 0.1599970 l "definition"
+15 12 0.0114358 l "definition"
+24 15 0.0716680 l "definition"
+15 24 0.0109646 l "definition"
+24 19 0.2502803 l "definition"
+19 24 0.2169686 l "definition"
+6 15 0.1388139 l "definition"
+15 6 0.0113108 l "definition"
+2 15 0.1211160 l "definition"
+15 2 0.0112170 l "definition"
+21 15 0.2399798 l "definition"
+15 21 0.0118734 l "definition"
+14 15 0.0666813 l "definition"
+15 14 0.0109646 l "definition"
+5 3 0.1282574 l "distance"
+3 5 0.1459371 l "distance"
+19 24 0.2169686 l "distance"
+24 19 0.2502803 l "distance"
+19 6 0.0657401 l "distance"
+6 19 0.1423860 l "distance"
+11 25 0.2001616 l "isa"
+25 11 0.0642686 l "isa"
+12 10 0.1738644 l "isa"
+10 12 0.2027365 l "isa"
+7 7 0.4526607 l "definition"
+7 7 0.4526607 l "definition"
+8 8 0.4520083 l "definition"
+8 8 0.4520083 l "definition"
+27 15 0.0756833 l "definition"
+15 27 0.0109982 l "definition"
+9 15 0.0866623 l "definition"
+15 9 0.0110380 l "definition"
+9 25 0.0887757 l "definition"
+25 9 0.0611698 l "definition"
+13 15 0.1368016 l "definition"
+15 13 0.0113108 l "definition"
+25 4 0.0614280 l "definition"
+4 25 0.0982651 l "definition"
+25 15 0.0589066 l "definition"
+15 25 0.0108888 l "definition"
+11 15 0.1956263 l "definition"
+15 11 0.0116108 l "definition"
+5 15 0.1208136 l "definition"
+15 5 0.0112170 l "definition"
+19 24 0.2169686 l "definition"
+24 19 0.2502803 l "definition"
+19 15 0.0618240 l "definition"
+15 19 0.0109107 l "definition"
+12 15 0.1599970 l "definition"
+15 12 0.0114358 l "definition"
+24 15 0.0716680 l "definition"
+15 24 0.0109646 l "definition"
+24 19 0.2502803 l "definition"
+19 24 0.2169686 l "definition"
+6 15 0.1388139 l "definition"
+15 6 0.0113108 l "definition"
+2 15 0.1211160 l "definition"
+15 2 0.0112170 l "definition"
+21 15 0.2399798 l "definition"
+15 21 0.0118734 l "definition"
+14 15 0.0666813 l "definition"
+15 14 0.0109646 l "definition"
+22 16 0.2145594 l "substring"
+16 22 0.2500000 l "substring"
+17 18 0.2500000 l "substring"
+18 17 0.2500000 l "substring"
+5 3 0.1282574 l "distance"
+3 5 0.1459371 l "distance"
+19 24 0.2169686 l "distance"
+24 19 0.2502803 l "distance"
+19 6 0.0657401 l "distance"
+6 19 0.1423860 l "distance"
+*Edges

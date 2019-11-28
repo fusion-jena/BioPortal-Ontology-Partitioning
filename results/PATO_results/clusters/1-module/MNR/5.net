@@ -1,0 +1,15 @@
+*Vertices 4
+1 "CrudeOil" ellipse
+2 "Oil" ellipse
+3 "OilShale" ellipse
+4 "Petroleum" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.2857143 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1428571 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.1428571 l "substring"
+2 3 0.2857143 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

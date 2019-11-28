@@ -1,0 +1,30 @@
+*Vertices 3
+1 "inorganic oxide" ellipse
+2 "organic oxide" ellipse
+3 "oxide" ellipse
+*Arcs
+1 3 0.2815132 l "isa"
+3 1 0.0513103 l "isa"
+2 3 0.2795050 l "isa"
+3 2 0.0513103 l "isa"
+1 2 0.3103863 l "substring"
+2 1 0.3081721 l "substring"
+1 3 0.2815132 l "substring"
+3 1 0.0513103 l "substring"
+2 3 0.2795050 l "substring"
+3 2 0.0513103 l "substring"
+1 2 0.3103863 l "distance"
+2 1 0.3081721 l "distance"
+1 3 0.2815132 l "isa"
+3 1 0.0513103 l "isa"
+2 3 0.2795050 l "isa"
+3 2 0.0513103 l "isa"
+1 2 0.3103863 l "substring"
+2 1 0.3081721 l "substring"
+1 3 0.2815132 l "substring"
+3 1 0.0513103 l "substring"
+2 3 0.2795050 l "substring"
+3 2 0.0513103 l "substring"
+1 2 0.3103863 l "distance"
+2 1 0.3081721 l "distance"
+*Edges

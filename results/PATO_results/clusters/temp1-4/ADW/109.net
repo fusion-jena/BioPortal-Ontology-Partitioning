@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Cingulate cortex" ellipse
+2 "anterior cingulate cortex" ellipse
+3 "posterior cingulate cortex" ellipse
+*Arcs
+2 1 0.4549666 l "isa"
+1 2 0.3121469 l "isa"
+3 1 0.4549666 l "isa"
+1 3 0.3121469 l "isa"
+1 2 0.3121469 l "substring"
+2 1 0.4549666 l "substring"
+1 3 0.3121469 l "substring"
+3 1 0.4549666 l "substring"
+2 3 0.2007205 l "distance"
+3 2 0.2007205 l "distance"
+2 1 0.4549666 l "isa"
+1 2 0.3121469 l "isa"
+3 1 0.4549666 l "isa"
+1 3 0.3121469 l "isa"
+1 2 0.3121469 l "substring"
+2 1 0.4549666 l "substring"
+1 3 0.3121469 l "substring"
+3 1 0.4549666 l "substring"
+2 3 0.2007205 l "distance"
+3 2 0.2007205 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasExternalIugularVein"
+2 "hasInternalIugularVein"
+*Arcs
+1 2 0.3022522 l "distance"
+2 1 0.2523076 l "distance"
+1 2 0.3022522 l "distance"
+2 1 0.2523076 l "distance"
+1 2 0.3022522 l "distance"
+2 1 0.2523076 l "distance"
+1 2 0.3022522 l "distance"
+2 1 0.2523076 l "distance"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "cds symbol" ellipse
+2 "CDS" ellipse
+*Arcs
+1 2 0.4577845 l "definition"
+2 1 0.2808077 l "definition"
+1 2 0.4577845 l "substring"
+2 1 0.2808077 l "substring"
+1 2 0.4577845 l "definition"
+2 1 0.2808077 l "definition"
+1 2 0.4577845 l "substring"
+2 1 0.2808077 l "substring"
+1 2 0.4577845 l "definition"
+2 1 0.2808077 l "definition"
+1 2 0.4577845 l "substring"
+2 1 0.2808077 l "substring"
+1 2 0.4577845 l "definition"
+2 1 0.2808077 l "definition"
+1 2 0.4577845 l "substring"
+2 1 0.2808077 l "substring"
+*Edges

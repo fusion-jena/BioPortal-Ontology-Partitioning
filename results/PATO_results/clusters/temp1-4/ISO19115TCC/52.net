@@ -1,0 +1,26 @@
+*Vertices 3
+1 "oceans" ellipse
+2 "oceans"
+3 "oceans" ellipse
+*Arcs
+1 2 0.4841560 l "substring"
+2 1 0.4841560 l "substring"
+1 2 0.4841560 l "distance"
+2 1 0.4841560 l "distance"
+1 2 0.4841560 l "substring"
+2 1 0.4841560 l "substring"
+1 2 0.4841560 l "distance"
+2 1 0.4841560 l "distance"
+1 2 0.4841560 l "substring"
+2 1 0.4841560 l "substring"
+1 3 0.2271077 l "substring"
+3 1 0.3333333 l "substring"
+2 3 0.2271077 l "substring"
+3 2 0.3333333 l "substring"
+1 2 0.4841560 l "distance"
+2 1 0.4841560 l "distance"
+1 3 0.2271077 l "distance"
+3 1 0.3333333 l "distance"
+2 3 0.2271077 l "distance"
+3 2 0.3333333 l "distance"
+*Edges

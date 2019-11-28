@@ -1,0 +1,23 @@
+*Vertices 2
+1 "AnorogenicIgneousRock" ellipse
+2 "IntrusiveRock" ellipse
+*Arcs
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+1 2 0.1709724 l "isa"
+2 1 0.1640987 l "isa"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 2
+1 "quality" ellipse
+2 "relational quality" ellipse
+*Arcs
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+2 1 0.9176285 l "isa"
+1 2 0.5514203 l "isa"
+1 2 0.5514203 l "substring"
+2 1 0.9176285 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Gesture" ellipse
+2 "Gestures" ellipse
+*Arcs
+1 2 0.2371297 l "substring"
+2 1 0.1755715 l "substring"
+1 2 0.2371297 l "distance"
+2 1 0.1755715 l "distance"
+1 2 0.2371297 l "substring"
+2 1 0.1755715 l "substring"
+1 2 0.2371297 l "distance"
+2 1 0.1755715 l "distance"
+*Edges

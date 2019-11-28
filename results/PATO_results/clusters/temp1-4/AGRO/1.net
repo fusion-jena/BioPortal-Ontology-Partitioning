@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hydrophilic interaction chromatography" ellipse
+2 "hydrophobic interaction chromatography" ellipse
+*Arcs
+1 2 0.1058592 l "distance"
+2 1 0.1058592 l "distance"
+1 2 0.1058592 l "distance"
+2 1 0.1058592 l "distance"
+*Edges

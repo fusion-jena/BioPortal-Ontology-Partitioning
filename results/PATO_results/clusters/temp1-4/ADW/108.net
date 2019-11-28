@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Cytoskeleton" ellipse
+2 "cytoskeleton" ellipse
+*Arcs
+1 2 0.7349081 l "substring"
+2 1 0.7333333 l "substring"
+1 2 0.7349081 l "distance"
+2 1 0.7333333 l "distance"
+1 2 0.7349081 l "substring"
+2 1 0.7333333 l "substring"
+1 2 0.7349081 l "distance"
+2 1 0.7333333 l "distance"
+*Edges

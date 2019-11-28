@@ -1,0 +1,74 @@
+*Vertices 15
+1 "Hungarian Grey" ellipse
+2 "Lithuanian Red" ellipse
+3 "Lithuanian Native" ellipse
+4 "Thuoc Nhieu" ellipse
+5 "Algarve Churro" ellipse
+6 "Hu" ellipse
+7 "Navajo-Churro" ellipse
+8 "Erhualian" ellipse
+9 "Carthusian" ellipse
+10 "Hungarian Warmblood" ellipse
+11 "Lithuanian Heavy Draft" ellipse
+12 "Taishuh" ellipse
+13 "Zhemaichu" ellipse
+14 "Huaitoutala" ellipse
+15 "Thuringian" ellipse
+*Arcs
+1 6 0.5016339 l "substring"
+6 1 0.0224343 l "substring"
+2 6 0.5016339 l "substring"
+6 2 0.0224343 l "substring"
+3 6 0.5007755 l "substring"
+6 3 0.0224343 l "substring"
+4 6 0.5007755 l "substring"
+6 4 0.0224343 l "substring"
+5 6 0.5016178 l "substring"
+6 5 0.0224343 l "substring"
+6 7 0.0224343 l "substring"
+7 6 0.5016178 l "substring"
+6 8 0.0224343 l "substring"
+8 6 0.5007755 l "substring"
+6 9 0.0224343 l "substring"
+9 6 0.5015614 l "substring"
+6 10 0.0224343 l "substring"
+10 6 0.5015614 l "substring"
+6 11 0.0224343 l "substring"
+11 6 0.5015614 l "substring"
+6 12 0.0224343 l "substring"
+12 6 0.5015614 l "substring"
+6 13 0.0224343 l "substring"
+13 6 0.5015614 l "substring"
+6 14 0.0224343 l "substring"
+14 6 0.5008834 l "substring"
+6 15 0.0224343 l "substring"
+15 6 0.5008834 l "substring"
+1 6 0.5016339 l "substring"
+6 1 0.0224343 l "substring"
+2 6 0.5016339 l "substring"
+6 2 0.0224343 l "substring"
+3 6 0.5007755 l "substring"
+6 3 0.0224343 l "substring"
+4 6 0.5007755 l "substring"
+6 4 0.0224343 l "substring"
+5 6 0.5016178 l "substring"
+6 5 0.0224343 l "substring"
+6 7 0.0224343 l "substring"
+7 6 0.5016178 l "substring"
+6 8 0.0224343 l "substring"
+8 6 0.5007755 l "substring"
+6 9 0.0224343 l "substring"
+9 6 0.5015614 l "substring"
+6 10 0.0224343 l "substring"
+10 6 0.5015614 l "substring"
+6 11 0.0224343 l "substring"
+11 6 0.5015614 l "substring"
+6 12 0.0224343 l "substring"
+12 6 0.5015614 l "substring"
+6 13 0.0224343 l "substring"
+13 6 0.5015614 l "substring"
+6 14 0.0224343 l "substring"
+14 6 0.5008834 l "substring"
+6 15 0.0224343 l "substring"
+15 6 0.5008834 l "substring"
+*Edges

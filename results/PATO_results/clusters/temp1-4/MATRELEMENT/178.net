@@ -1,0 +1,17 @@
+*Vertices 2
+1 "BiodegradableDissolvedOrganicCarbon" ellipse
+2 "DissolvedOrganicCarbon" ellipse
+*Arcs
+1 2 0.6096986 l "isa"
+2 1 0.5172761 l "isa"
+1 2 0.6096986 l "substring"
+2 1 0.5172761 l "substring"
+1 2 0.6096986 l "isa"
+2 1 0.5172761 l "isa"
+1 2 0.6096986 l "substring"
+2 1 0.5172761 l "substring"
+1 2 0.6096986 l "isa"
+2 1 0.5172761 l "isa"
+1 2 0.6096986 l "substring"
+2 1 0.5172761 l "substring"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Transitional cell carcinoma in situ" ellipse
+2 "Transitional cell carcinoma" ellipse
+3 "Transitional cell carcinoma, spindle cell" ellipse
+4 "Papillary transitional cell carcinoma, non-invasive (C67._)" ellipse
+5 "Papillary transitional cell carcinoma (C67._)" ellipse
+6 "Transitional cell carcinoma, micropapillary (C67._)" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.2000000 l "substring"
+2 3 0.2000000 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2000000 l "substring"
+4 2 1.0000000 l "substring"
+2 5 0.2000000 l "substring"
+5 2 1.0000000 l "substring"
+2 6 0.2000000 l "substring"
+6 2 1.0000000 l "substring"
+*Edges

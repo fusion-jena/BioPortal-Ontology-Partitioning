@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Modèle_biomédical" ellipse
+2 "Modèle_biopsychosocial" ellipse
+3 "Modèle_clinique_ou_explicatif" ellipse
+4 "Modèle_intégratif_et_multifactoriel" ellipse
+5 "Modèle_psychosomatique" ellipse
+6 "Modèle_transactionnel" ellipse
+7 "Modèle_épidémiologique" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1666667 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1666667 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1666667 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1666667 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1666667 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.1666667 l "isa"
+*Edges

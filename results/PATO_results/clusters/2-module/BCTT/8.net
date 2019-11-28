@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Repetition and substitution" ellipse
+2 "Behavioral practice-rehearsal" ellipse
+3 "Behavior substitution" ellipse
+4 "Habit formation" ellipse
+5 "Habit reversal" ellipse
+6 "Overcorrection" ellipse
+7 "Generalisation of target behavior" ellipse
+8 "Graded tasks" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1250000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1250000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1250000 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1250000 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1250000 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.1250000 l "isa"
+*Edges

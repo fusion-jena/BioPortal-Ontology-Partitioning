@@ -1,0 +1,51 @@
+*Vertices 12
+1 "process" ellipse
+2 "atom" ellipse
+3 "bond" ellipse
+4 "ring" ellipse
+5 "go" ellipse
+6 "enzyme_information" ellipse
+7 "gene_product" ellipse
+8 "molecule" ellipse
+9 "object" ellipse
+10 "transformation" ellipse
+11 "ko" ellipse
+12 "Thing"
+*Arcs
+6 12 0.1250000 l "isa"
+12 6 0.0833333 l "isa"
+7 6 0.1250000 l "isa"
+6 7 0.1250000 l "isa"
+7 8 0.1250000 l "isa"
+8 7 0.2500000 l "isa"
+8 9 0.2500000 l "isa"
+9 8 0.2500000 l "isa"
+9 12 0.2500000 l "isa"
+12 9 0.0833333 l "isa"
+1 12 0.1666667 l "isa"
+12 1 0.0833333 l "isa"
+11 6 0.0666667 l "isa"
+6 11 0.1250000 l "isa"
+12 12 0.3333333 l "hasChild"
+12 12 0.3333333 l "hasChild"
+11 7 0.1333333 l "hasGeneProduct"
+7 11 0.2500000 l "hasGeneProduct"
+12 12 0.3333333 l "hasParent"
+12 12 0.3333333 l "hasParent"
+7 11 0.2500000 l "inKo"
+11 7 0.1333333 l "inKo"
+5 2 0.1250000 l "distance"
+2 5 0.1666667 l "distance"
+5 3 0.1250000 l "distance"
+3 5 0.1666667 l "distance"
+5 11 0.1250000 l "distance"
+11 5 0.0666667 l "distance"
+2 11 0.1666667 l "distance"
+11 2 0.0666667 l "distance"
+3 4 0.1666667 l "distance"
+4 3 0.2000000 l "distance"
+3 11 0.1666667 l "distance"
+11 3 0.0666667 l "distance"
+4 12 0.2000000 l "distance"
+12 4 0.0833333 l "distance"
+*Edges

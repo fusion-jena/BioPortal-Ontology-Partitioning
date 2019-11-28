@@ -1,0 +1,30 @@
+*Vertices 3
+1 "ProductOrService" ellipse
+2 "Formality" ellipse
+3 "Proposal component" ellipse
+*Arcs
+2 1 0.1780000 l "isa"
+1 2 0.0805428 l "isa"
+3 2 0.0679573 l "contains formality"
+2 3 0.1755268 l "contains formality"
+3 3 0.1407128 l "Nachfolger der Komponente"
+3 3 0.1407128 l "Nachfolger der Komponente"
+2 1 0.1780000 l "isa"
+1 2 0.0805428 l "isa"
+3 2 0.0679573 l "contains formality"
+2 3 0.1755268 l "contains formality"
+3 3 0.1407128 l "Nachfolger der Komponente"
+3 3 0.1407128 l "Nachfolger der Komponente"
+2 1 0.1780000 l "isa"
+1 2 0.0805428 l "isa"
+3 2 0.0679573 l "contains formality"
+2 3 0.1755268 l "contains formality"
+3 3 0.1407128 l "Nachfolger der Komponente"
+3 3 0.1407128 l "Nachfolger der Komponente"
+2 1 0.1780000 l "isa"
+1 2 0.0805428 l "isa"
+3 2 0.0679573 l "contains formality"
+2 3 0.1755268 l "contains formality"
+3 3 0.1407128 l "Nachfolger der Komponente"
+3 3 0.1407128 l "Nachfolger der Komponente"
+*Edges

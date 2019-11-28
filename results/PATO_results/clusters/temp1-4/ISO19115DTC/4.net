@@ -1,0 +1,9 @@
+*Vertices 2
+1 "dateTime"
+2 "plannedAvailableDateTime"
+*Arcs
+1 2 0.0879955 l "substring"
+2 1 0.2528812 l "substring"
+1 2 0.0879955 l "substring"
+2 1 0.2528812 l "substring"
+*Edges

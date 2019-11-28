@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Nagori" ellipse
+2 "Waziri" ellipse
+3 "Kamori" ellipse
+*Arcs
+1 2 0.0820862 l "distance"
+2 1 0.2533573 l "distance"
+1 3 0.0757868 l "distance"
+3 1 0.0710944 l "distance"
+2 3 0.2527590 l "distance"
+3 2 0.0768220 l "distance"
+1 2 0.0820862 l "distance"
+2 1 0.2533573 l "distance"
+1 3 0.0757868 l "distance"
+3 1 0.0710944 l "distance"
+2 3 0.2527590 l "distance"
+3 2 0.0768220 l "distance"
+*Edges

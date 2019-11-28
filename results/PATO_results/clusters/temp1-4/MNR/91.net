@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Cocos Islands" ellipse
+2 "Cook Islands" ellipse
+*Arcs
+1 2 0.1977311 l "distance"
+2 1 0.1977311 l "distance"
+1 2 0.1977311 l "distance"
+2 1 0.1977311 l "distance"
+1 2 0.1977311 l "distance"
+2 1 0.1977311 l "distance"
+*Edges

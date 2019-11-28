@@ -1,0 +1,33 @@
+*Vertices 6
+1 "Vegetation maintained on an experimental field" ellipse
+2 "flower strip" ellipse
+3 "field margin" ellipse
+4 "agricultural feature" ellipse
+5 "flower meristem" ellipse
+6 "flower" ellipse
+*Arcs
+2 1 0.3270297 l "isa"
+1 2 0.1393384 l "isa"
+2 3 0.3547441 l "isa"
+3 2 0.3502898 l "isa"
+3 4 0.3393432 l "isa"
+4 3 0.2679039 l "isa"
+6 5 0.1405681 l "definition"
+5 6 0.5303687 l "definition"
+2 6 0.3182263 l "substring"
+6 2 0.0642296 l "substring"
+5 6 0.5303687 l "substring"
+6 5 0.1405681 l "substring"
+2 1 0.3270297 l "isa"
+1 2 0.1393384 l "isa"
+2 3 0.3547441 l "isa"
+3 2 0.3502898 l "isa"
+3 4 0.3393432 l "isa"
+4 3 0.2679039 l "isa"
+6 5 0.1405681 l "definition"
+5 6 0.5303687 l "definition"
+2 6 0.3182263 l "substring"
+6 2 0.0642296 l "substring"
+5 6 0.5303687 l "substring"
+6 5 0.1405681 l "substring"
+*Edges

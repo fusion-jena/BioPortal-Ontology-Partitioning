@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Mass Spectrometry Device" ellipse
+2 "Ionization Type" ellipse
+3 "Instrument Model" ellipse
+4 "Mass Analyzer Type" ellipse
+*Arcs
+1 2 0.2000000 l "has_ionisation_type"
+2 1 1.0000000 l "has_ionisation_type"
+1 4 0.2000000 l "has_mass_analyzer"
+4 1 1.0000000 l "has_mass_analyzer"
+1 3 0.2000000 l "has_ms_model"
+3 1 1.0000000 l "has_ms_model"
+*Edges

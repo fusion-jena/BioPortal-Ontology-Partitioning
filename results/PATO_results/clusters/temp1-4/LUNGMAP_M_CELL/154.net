@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Karayaka" ellipse
+2 "Karabair" ellipse
+3 "Karabakh" ellipse
+*Arcs
+1 2 0.3720158 l "distance"
+2 1 0.2677634 l "distance"
+1 3 0.3667409 l "distance"
+3 1 0.2513680 l "distance"
+2 3 0.2226712 l "distance"
+3 2 0.2120434 l "distance"
+1 2 0.3720158 l "distance"
+2 1 0.2677634 l "distance"
+1 3 0.3667409 l "distance"
+3 1 0.2513680 l "distance"
+2 3 0.2226712 l "distance"
+3 2 0.2120434 l "distance"
+1 2 0.3720158 l "distance"
+2 1 0.2677634 l "distance"
+1 3 0.3667409 l "distance"
+3 1 0.2513680 l "distance"
+2 3 0.2226712 l "distance"
+3 2 0.2120434 l "distance"
+1 2 0.3720158 l "distance"
+2 1 0.2677634 l "distance"
+1 3 0.3667409 l "distance"
+3 1 0.2513680 l "distance"
+2 3 0.2226712 l "distance"
+3 2 0.2120434 l "distance"
+1 2 0.3720158 l "distance"
+2 1 0.2677634 l "distance"
+1 3 0.3667409 l "distance"
+3 1 0.2513680 l "distance"
+2 3 0.2226712 l "distance"
+3 2 0.2120434 l "distance"
+*Edges

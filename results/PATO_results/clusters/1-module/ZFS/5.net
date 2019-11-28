@@ -1,0 +1,59 @@
+*Vertices 8
+1 "Larval:Protruding-mouth" ellipse
+2 "Larval:Day 4" ellipse
+3 "Larval:Day 5" ellipse
+4 "Larval:Day 6" ellipse
+5 "Larval:Days 7-13" ellipse
+6 "Larval:Days 14-20" ellipse
+7 "Larval:Days 21-29" ellipse
+8 "larva" ellipse
+*Arcs
+1 8 0.2500000 l "definition"
+8 1 0.1052632 l "definition"
+2 8 0.2000000 l "definition"
+8 2 0.1052632 l "definition"
+2 1 0.1000000 l "definition"
+1 2 0.1250000 l "definition"
+3 8 0.2000000 l "definition"
+8 3 0.1052632 l "definition"
+3 2 0.2000000 l "definition"
+2 3 0.2000000 l "definition"
+4 8 0.2000000 l "definition"
+8 4 0.1052632 l "definition"
+4 3 0.2000000 l "definition"
+3 4 0.2000000 l "definition"
+5 8 0.2500000 l "definition"
+8 5 0.1052632 l "definition"
+5 4 0.1250000 l "definition"
+4 5 0.1000000 l "definition"
+6 8 0.2222222 l "definition"
+8 6 0.1052632 l "definition"
+6 5 0.1111111 l "definition"
+5 6 0.1250000 l "definition"
+7 8 0.2222222 l "definition"
+8 7 0.1052632 l "definition"
+7 6 0.2222222 l "definition"
+6 7 0.2222222 l "definition"
+1 8 0.2500000 l "substring"
+8 1 0.1052632 l "substring"
+2 8 0.2000000 l "substring"
+8 2 0.1052632 l "substring"
+3 8 0.2000000 l "substring"
+8 3 0.1052632 l "substring"
+4 8 0.2000000 l "substring"
+8 4 0.1052632 l "substring"
+5 8 0.2500000 l "substring"
+8 5 0.1052632 l "substring"
+6 8 0.2222222 l "substring"
+8 6 0.1052632 l "substring"
+7 8 0.2222222 l "substring"
+8 7 0.1052632 l "substring"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+2 4 0.1000000 l "distance"
+4 2 0.1000000 l "distance"
+3 4 0.2000000 l "distance"
+4 3 0.2000000 l "distance"
+6 7 0.2222222 l "distance"
+7 6 0.2222222 l "distance"
+*Edges

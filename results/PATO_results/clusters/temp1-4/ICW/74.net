@@ -1,0 +1,17 @@
+*Vertices 2
+1 "is concretized as"
+2 "concretizes"
+*Arcs
+1 2 1.0000000 l "definition"
+2 1 1.0000000 l "definition"
+2 1 1.0000000 l "definition"
+1 2 1.0000000 l "definition"
+1 2 1.0000000 l "definition"
+2 1 1.0000000 l "definition"
+2 1 1.0000000 l "definition"
+1 2 1.0000000 l "definition"
+1 2 1.0000000 l "definition"
+2 1 1.0000000 l "definition"
+2 1 1.0000000 l "definition"
+1 2 1.0000000 l "definition"
+*Edges

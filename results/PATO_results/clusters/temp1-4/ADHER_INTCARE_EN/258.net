@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Shows_one_or_two_unusual_interests_regularly" ellipse
+2 "unsens_Shows_one_or_two_unusual_interests_regularly"
+*Arcs
+1 2 0.2101680 l "substring"
+2 1 0.1783007 l "substring"
+1 2 0.2101680 l "substring"
+2 1 0.1783007 l "substring"
+*Edges

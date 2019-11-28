@@ -1,0 +1,10 @@
+*Vertices 3
+1 "OWLObjectProperty_e2bc6ab9_3932_478f_8cc4_a6fee5ad9d9e"
+2 "hasSemanticEquivalent"
+3 "isRetrotranscribedInto"
+*Arcs
+1 2 0.2500000 l "definition"
+2 1 0.5000000 l "definition"
+3 2 0.2500000 l "definition"
+2 3 0.5000000 l "definition"
+*Edges

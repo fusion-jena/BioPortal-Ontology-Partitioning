@@ -1,0 +1,24 @@
+*Vertices 3
+1 "folding" ellipse
+2 "binding" ellipse
+3 "Dorking" ellipse
+*Arcs
+1 2 0.4585744 l "distance"
+2 1 0.6443157 l "distance"
+1 2 0.4585744 l "distance"
+2 1 0.6443157 l "distance"
+1 3 0.3299316 l "distance"
+3 1 0.5748233 l "distance"
+1 2 0.4585744 l "distance"
+2 1 0.6443157 l "distance"
+1 3 0.3299316 l "distance"
+3 1 0.5748233 l "distance"
+1 2 0.4585744 l "distance"
+2 1 0.6443157 l "distance"
+1 3 0.3299316 l "distance"
+3 1 0.5748233 l "distance"
+1 2 0.4585744 l "distance"
+2 1 0.6443157 l "distance"
+1 3 0.3299316 l "distance"
+3 1 0.5748233 l "distance"
+*Edges

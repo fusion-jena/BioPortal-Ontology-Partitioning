@@ -1,0 +1,20 @@
+*Vertices 3
+1 "rating" ellipse
+2 "user" ellipse
+3 "nonNegativeInteger"
+*Arcs
+1 2 0.1000000 l "rated_by_user"
+2 1 1.0000000 l "rated_by_user"
+1 3 0.6000000 l "accuracy"
+3 1 0.7500000 l "accuracy"
+1 3 0.6000000 l "comprehensiveness"
+3 1 0.7500000 l "comprehensiveness"
+1 3 0.6000000 l "depth_of_coverage"
+3 1 0.7500000 l "depth_of_coverage"
+1 3 0.6000000 l "educational_level"
+3 1 0.7500000 l "educational_level"
+1 3 0.6000000 l "relevancy"
+3 1 0.7500000 l "relevancy"
+1 3 0.6000000 l "validity"
+3 1 0.7500000 l "validity"
+*Edges

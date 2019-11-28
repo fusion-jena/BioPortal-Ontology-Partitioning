@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ASIC4" ellipse
+2 "CLIC6" ellipse
+*Arcs
+1 2 0.0735934 l "distance"
+2 1 0.0693022 l "distance"
+1 2 0.0735934 l "distance"
+2 1 0.0693022 l "distance"
+1 2 0.0735934 l "distance"
+2 1 0.0693022 l "distance"
+*Edges

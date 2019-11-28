@@ -1,0 +1,107 @@
+*Vertices 26
+1 "Activity" ellipse
+2 "Gram-negative_bacteria_binding_protein_1" ellipse
+3 "Notch" ellipse
+4 "Notch_O-glycan" ellipse
+5 "O-GlcNAc" ellipse
+6 "O-Man" ellipse
+7 "O-glycan" ellipse
+8 "Protein" ellipse
+9 "beta1_4-_mannosyltransferase" ellipse
+10 "core_protein" ellipse
+11 "dally" ellipse
+12 "dally-like" ellipse
+13 "dolichyl_pyrophosphate_mannosyltransferase" ellipse
+14 "dystroglycan" ellipse
+15 "fukutin_related_protein" ellipse
+16 "glycosyltranseferase" ellipse
+17 "hereditary_multiple_exostoses_EXT_protein" ellipse
+18 "lectin" ellipse
+19 "lectin-like" ellipse
+20 "mannosyltransferase" ellipse
+21 "muchin_type_O-glycan" ellipse
+22 "perlecan" ellipse
+23 "protein_O-mannosyltransferase" ellipse
+24 "syndecan" ellipse
+25 "thrompospondin" ellipse
+26 "has_activity"
+*Arcs
+2 10 0.5000000 l "isa"
+10 2 0.0769231 l "isa"
+3 10 0.5000000 l "isa"
+10 3 0.0769231 l "isa"
+4 7 0.6666667 l "isa"
+7 4 0.2222222 l "isa"
+5 7 0.6666667 l "isa"
+7 5 0.2222222 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.1111111 l "isa"
+9 20 1.0000000 l "isa"
+20 9 0.2500000 l "isa"
+10 8 0.1538462 l "isa"
+8 10 0.1000000 l "isa"
+11 10 0.5000000 l "isa"
+10 11 0.0769231 l "isa"
+12 10 0.5000000 l "isa"
+10 12 0.0769231 l "isa"
+13 20 1.0000000 l "isa"
+20 13 0.2500000 l "isa"
+14 10 1.0000000 l "isa"
+10 14 0.0769231 l "isa"
+15 20 0.5000000 l "isa"
+20 15 0.1250000 l "isa"
+17 16 0.5000000 l "isa"
+16 17 0.0769231 l "isa"
+18 8 0.3333333 l "isa"
+8 18 0.0500000 l "isa"
+19 8 0.5000000 l "isa"
+8 19 0.0500000 l "isa"
+20 16 0.1250000 l "isa"
+16 20 0.0769231 l "isa"
+21 7 1.0000000 l "isa"
+7 21 0.2222222 l "isa"
+22 10 1.0000000 l "isa"
+10 22 0.0769231 l "isa"
+23 20 0.5000000 l "isa"
+20 23 0.2500000 l "isa"
+24 10 1.0000000 l "isa"
+10 24 0.0769231 l "isa"
+25 10 1.0000000 l "isa"
+10 25 0.0769231 l "isa"
+8 1 0.0500000 l "definition"
+1 8 0.2000000 l "definition"
+8 26 0.0500000 l "definition"
+26 8 0.5000000 l "definition"
+1 26 0.2000000 l "substring"
+26 1 0.5000000 l "substring"
+2 8 0.5000000 l "substring"
+8 2 0.0500000 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.3333333 l "substring"
+4 7 0.6666667 l "substring"
+7 4 0.2222222 l "substring"
+6 23 0.5000000 l "substring"
+23 6 0.2500000 l "substring"
+7 21 0.2222222 l "substring"
+21 7 1.0000000 l "substring"
+8 10 0.1000000 l "substring"
+10 8 0.1538462 l "substring"
+8 15 0.0500000 l "substring"
+15 8 0.5000000 l "substring"
+8 17 0.0500000 l "substring"
+17 8 0.5000000 l "substring"
+8 23 0.0500000 l "substring"
+23 8 0.2500000 l "substring"
+9 20 1.0000000 l "substring"
+20 9 0.2500000 l "substring"
+11 12 0.5000000 l "substring"
+12 11 0.5000000 l "substring"
+13 20 1.0000000 l "substring"
+20 13 0.2500000 l "substring"
+18 19 0.3333333 l "substring"
+19 18 0.5000000 l "substring"
+20 23 0.2500000 l "substring"
+23 20 0.5000000 l "substring"
+5 7 0.6666667 l "distance"
+7 5 0.2222222 l "distance"
+*Edges

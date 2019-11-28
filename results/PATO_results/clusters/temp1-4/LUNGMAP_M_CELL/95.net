@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Sorraia" ellipse
+2 "Lorraine" ellipse
+*Arcs
+1 2 0.6680572 l "distance"
+2 1 0.6657509 l "distance"
+1 2 0.6680572 l "distance"
+2 1 0.6657509 l "distance"
+1 2 0.6680572 l "distance"
+2 1 0.6657509 l "distance"
+1 2 0.6680572 l "distance"
+2 1 0.6657509 l "distance"
+1 2 0.6680572 l "distance"
+2 1 0.6657509 l "distance"
+*Edges

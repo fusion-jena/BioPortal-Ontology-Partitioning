@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Often_usesOrUsed_stereotyped_itterances_with_productive_language_as_well" ellipse
+2 "stereo_Often_usesOrUsed_stereotyped_itterances_with_productive_language_as_well"
+*Arcs
+1 2 0.1362362 l "substring"
+2 1 0.1228494 l "substring"
+1 2 0.1362362 l "substring"
+2 1 0.1228494 l "substring"
+1 2 0.1362362 l "substring"
+2 1 0.1228494 l "substring"
+*Edges

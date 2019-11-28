@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Pulmonary_Tuberculosis" ellipse
+2 "Tuberculosis" ellipse
+*Arcs
+1 2 0.3769218 l "substring"
+2 1 0.5309474 l "substring"
+1 2 0.3769218 l "substring"
+2 1 0.5309474 l "substring"
+*Edges

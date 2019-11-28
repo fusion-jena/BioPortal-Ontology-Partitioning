@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Data Synthesis" ellipse
+2 "Fixed Effect Model" ellipse
+*Arcs
+2 1 0.1735508 l "isa"
+1 2 0.1174537 l "isa"
+2 1 0.1735508 l "isa"
+1 2 0.1174537 l "isa"
+*Edges

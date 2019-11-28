@@ -1,0 +1,51 @@
+*Vertices 8
+1 "Both strands position" ellipse
+2 "Forward/positive strand position" ellipse
+3 "Fuzzy position" ellipse
+4 "One of positions" ellipse
+5 "Position" ellipse
+6 "Negative/reverse strand position" ellipse
+7 "Stranded position" ellipse
+8 "position"
+*Arcs
+1 7 0.3333333 l "isa"
+7 1 0.1666667 l "isa"
+2 7 0.3333333 l "isa"
+7 2 0.1666667 l "isa"
+3 5 0.4000000 l "isa"
+5 3 0.0800000 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.2000000 l "isa"
+6 7 0.3333333 l "isa"
+7 6 0.1666667 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.0800000 l "isa"
+1 5 0.3333333 l "substring"
+5 1 0.0400000 l "substring"
+1 8 0.3333333 l "substring"
+8 1 0.0526316 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.0400000 l "substring"
+2 8 0.3333333 l "substring"
+8 2 0.0526316 l "substring"
+3 5 0.4000000 l "substring"
+5 3 0.0800000 l "substring"
+3 8 0.2000000 l "substring"
+8 3 0.0526316 l "substring"
+4 5 0.3333333 l "substring"
+5 4 0.0400000 l "substring"
+4 8 0.3333333 l "substring"
+8 4 0.0526316 l "substring"
+5 6 0.0400000 l "substring"
+6 5 0.3333333 l "substring"
+5 7 0.0800000 l "substring"
+7 5 0.3333333 l "substring"
+5 8 0.0800000 l "substring"
+8 5 0.1052632 l "substring"
+6 8 0.3333333 l "substring"
+8 6 0.0526316 l "substring"
+7 8 0.1666667 l "substring"
+8 7 0.0526316 l "substring"
+5 8 0.0800000 l "distance"
+8 5 0.1052632 l "distance"
+*Edges

@@ -1,0 +1,46 @@
+*Vertices 11
+1 "Analgesia" ellipse
+2 "Dependent_Nursing_Role" ellipse
+3 "Diagnosis" ellipse
+4 "Doctor" ellipse
+5 "Does_Not_Wait" ellipse
+6 "Home" ellipse
+7 "Outside_Scope_Of_Practice" ellipse
+8 "Patient" ellipse
+9 "Waiting_room" ellipse
+10 "isDiagnosed"
+11 "Restriction"
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1111111 l "isa"
+3 8 0.3333333 l "isa"
+8 3 0.2000000 l "isa"
+4 2 0.0833333 l "isa"
+2 4 0.1111111 l "isa"
+5 8 0.2500000 l "isa"
+8 5 0.2000000 l "isa"
+6 8 0.5000000 l "isa"
+8 6 0.2000000 l "isa"
+7 2 0.5000000 l "isa"
+2 7 0.2222222 l "isa"
+4 1 0.0833333 l "authorises"
+1 4 0.5000000 l "authorises"
+4 7 0.0833333 l "fastTrack"
+7 4 0.2500000 l "fastTrack"
+4 3 0.0833333 l "formulates"
+3 4 0.3333333 l "formulates"
+9 5 0.5000000 l "just"
+5 9 0.5000000 l "just"
+5 6 0.2500000 l "leavesAgainstMedicalAdvice"
+6 5 0.5000000 l "leavesAgainstMedicalAdvice"
+9 5 0.5000000 l "makesDecision"
+5 9 0.5000000 l "makesDecision"
+2 7 0.2222222 l "paeds_ortho_distal_limbs"
+7 2 0.5000000 l "paeds_ortho_distal_limbs"
+10 11 0.2500000 l "definition"
+11 10 1.0000000 l "definition"
+10 10 0.5000000 l "definition"
+10 10 0.5000000 l "definition"
+10 3 0.2500000 l "definition"
+3 10 0.3333333 l "definition"
+*Edges

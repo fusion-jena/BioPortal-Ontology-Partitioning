@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Usage" ellipse
+2 "used"
+3 "qualifiedUsage"
+*Arcs
+2 3 0.1428571 l "definition"
+3 2 0.5000000 l "definition"
+1 3 0.1428571 l "substring"
+3 1 0.5000000 l "substring"
+1 2 0.1428571 l "distance"
+2 1 0.1428571 l "distance"
+*Edges

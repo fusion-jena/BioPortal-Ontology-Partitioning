@@ -1,0 +1,42 @@
+*Vertices 17
+1 "undivided" ellipse
+2 "CreativeWork" ellipse
+3 "disease management" ellipse
+4 "formal rule" ellipse
+5 "Spatial Thing" ellipse
+6 "Point" ellipse
+7 "State" ellipse
+8 "has_part"
+9 "part_of"
+10 "part of"
+11 "Restriction"
+12 "Issue" ellipse
+13 "stipe" ellipse
+14 "Event" ellipse
+15 "coincides with"
+16 "temporal part-of"
+17 "phyllome" ellipse
+*Arcs
+5 5 0.6847337 l "based near"
+5 5 0.6847337 l "based near"
+5 5 0.6847337 l "based near"
+5 5 0.6847337 l "based near"
+12 11 0.1120953 l "definition"
+11 12 0.0336890 l "definition"
+5 5 0.6847337 l "based near"
+5 5 0.6847337 l "based near"
+12 11 0.1120953 l "definition"
+11 12 0.0336890 l "definition"
+5 5 0.6847337 l "based near"
+5 5 0.6847337 l "based near"
+12 11 0.1120953 l "definition"
+11 12 0.0336890 l "definition"
+6 11 0.0714286 l "definition"
+11 6 0.0287125 l "definition"
+13 7 0.1118969 l "distance"
+7 13 0.1666667 l "distance"
+9 10 0.0716957 l "distance"
+10 9 0.2000000 l "distance"
+14 6 0.1000000 l "distance"
+6 14 0.0714286 l "distance"
+*Edges

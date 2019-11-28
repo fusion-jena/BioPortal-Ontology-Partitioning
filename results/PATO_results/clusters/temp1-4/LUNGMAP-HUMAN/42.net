@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Ankole" ellipse
+2 "Ankole-Watusi" ellipse
+*Arcs
+1 2 0.1618372 l "substring"
+2 1 0.5260880 l "substring"
+1 2 0.1618372 l "substring"
+2 1 0.5260880 l "substring"
+1 2 0.1618372 l "substring"
+2 1 0.5260880 l "substring"
+*Edges

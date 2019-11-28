@@ -1,0 +1,13 @@
+*Vertices 2
+1 "NonParenchymatousOrgan" ellipse
+2 "ParenchymatousOrgan" ellipse
+*Arcs
+1 2 0.2735824 l "substring"
+2 1 0.3109222 l "substring"
+1 2 0.2735824 l "distance"
+2 1 0.3109222 l "distance"
+1 2 0.2735824 l "substring"
+2 1 0.3109222 l "substring"
+1 2 0.2735824 l "distance"
+2 1 0.3109222 l "distance"
+*Edges

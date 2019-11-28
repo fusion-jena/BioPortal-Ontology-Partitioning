@@ -1,0 +1,41 @@
+*Vertices 6
+1 "Little_or_no_spontaneous_communication" ellipse
+2 "No_use_of_others_body_to_communicate" ellipse
+3 "Occasional_placement_of_others_hand_as_a_tool" ellipse
+4 "Use_of_others_body_to_communicate" ellipse
+5 "Use_of_others_body_to_communicate_UnknownOrNotAsked" ellipse
+6 "useofotherbodytocomm_Occasional_placement_of_others_hand_as_a_tool"
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1027649 l "isa"
+2 4 0.5543783 l "isa"
+4 2 0.2749656 l "isa"
+3 4 0.2518344 l "isa"
+4 3 0.0777681 l "isa"
+5 4 0.5412488 l "isa"
+4 5 0.1777555 l "isa"
+2 4 0.5543783 l "substring"
+4 2 0.2749656 l "substring"
+3 6 0.2608285 l "substring"
+6 3 0.1813549 l "substring"
+4 5 0.1777555 l "substring"
+5 4 0.5412488 l "substring"
+2 4 0.5543783 l "distance"
+4 2 0.2749656 l "distance"
+1 4 1.0000000 l "isa"
+4 1 0.1027649 l "isa"
+2 4 0.5543783 l "isa"
+4 2 0.2749656 l "isa"
+3 4 0.2518344 l "isa"
+4 3 0.0777681 l "isa"
+5 4 0.5412488 l "isa"
+4 5 0.1777555 l "isa"
+2 4 0.5543783 l "substring"
+4 2 0.2749656 l "substring"
+3 6 0.2608285 l "substring"
+6 3 0.1813549 l "substring"
+4 5 0.1777555 l "substring"
+5 4 0.5412488 l "substring"
+2 4 0.5543783 l "distance"
+4 2 0.2749656 l "distance"
+*Edges

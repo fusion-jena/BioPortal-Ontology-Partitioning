@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Shows_no_interest_in_other_children" ellipse
+2 "intch_Shows_no_interest_in_other_children"
+*Arcs
+1 2 0.2636495 l "substring"
+2 1 0.2169103 l "substring"
+1 2 0.2636495 l "substring"
+2 1 0.2169103 l "substring"
+*Edges

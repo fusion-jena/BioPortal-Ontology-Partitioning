@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasPriorVersion"
+2 "version"
+*Arcs
+1 2 0.3870315 l "substring"
+2 1 0.2280344 l "substring"
+1 2 0.3870315 l "substring"
+2 1 0.2280344 l "substring"
+1 2 0.3870315 l "substring"
+2 1 0.2280344 l "substring"
+1 2 0.3870315 l "substring"
+2 1 0.2280344 l "substring"
+*Edges

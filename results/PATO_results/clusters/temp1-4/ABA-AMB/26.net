@@ -1,0 +1,29 @@
+*Vertices 8
+1 "Lateral vestibular nucleus" ellipse
+2 "Lateral reticular nucleus" ellipse
+3 "Lateral reticular nucleus, magnocellular part" ellipse
+4 "Lateral reticular nucleus, parvicellular part" ellipse
+5 "Medial vestibular nucleus" ellipse
+6 "Spinal vestibular nucleus" ellipse
+7 "Superior vestibular nucleus" ellipse
+8 "Vestibular nuclei" ellipse
+*Arcs
+1 8 0.5000000 l "isa"
+8 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3333333 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.2000000 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.2000000 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.2000000 l "isa"
+2 3 0.3333333 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.3333333 l "substring"
+4 2 1.0000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.1666667 l "distance"
+*Edges

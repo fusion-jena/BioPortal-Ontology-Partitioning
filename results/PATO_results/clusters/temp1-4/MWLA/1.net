@@ -1,0 +1,9 @@
+*Vertices 2
+1 "date" ellipse
+2 "dateTime"
+*Arcs
+1 2 0.5000000 l "has_date_value"
+2 1 1.0000000 l "has_date_value"
+1 2 0.5000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

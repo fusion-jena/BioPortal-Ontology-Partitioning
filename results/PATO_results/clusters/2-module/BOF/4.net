@@ -1,0 +1,75 @@
+*Vertices 16
+1 "AffluentEnvironment" ellipse
+2 "AmbientedeFuro" ellipse
+3 "CanopyEnvironment" ellipse
+4 "CreeksEnvironment" ellipse
+5 "DeforestedAreaEnvironment" ellipse
+6 "Environment" ellipse
+7 "FallsEnvironment" ellipse
+8 "ForestEnvironmet" ellipse
+9 "LooseRocksEnvironment" ellipse
+10 "MangroveEnvironment" ellipse
+11 "PrimaryForestEnvironment" ellipse
+12 "RapidsEnvironment" ellipse
+13 "RockBottomEnvironment" ellipse
+14 "SecondaryForestEnvironment" ellipse
+15 "TypeMacroEnvironment" ellipse
+16 "WoodDebrisEnvironment" ellipse
+*Arcs
+1 15 0.5000000 l "isa"
+15 1 0.0370370 l "isa"
+2 15 1.0000000 l "isa"
+15 2 0.0370370 l "isa"
+3 15 0.5000000 l "isa"
+15 3 0.0370370 l "isa"
+4 15 0.5000000 l "isa"
+15 4 0.0370370 l "isa"
+5 15 0.5000000 l "isa"
+15 5 0.0370370 l "isa"
+7 15 0.5000000 l "isa"
+15 7 0.0370370 l "isa"
+8 15 0.3333333 l "isa"
+15 8 0.0370370 l "isa"
+9 15 0.5000000 l "isa"
+15 9 0.0370370 l "isa"
+10 15 0.5000000 l "isa"
+15 10 0.0370370 l "isa"
+11 8 0.5000000 l "isa"
+8 11 0.3333333 l "isa"
+12 15 0.5000000 l "isa"
+15 12 0.0370370 l "isa"
+13 15 0.5000000 l "isa"
+15 13 0.0370370 l "isa"
+14 8 0.5000000 l "isa"
+8 14 0.3333333 l "isa"
+15 6 0.0740741 l "isa"
+6 15 0.0606061 l "isa"
+16 15 0.5000000 l "isa"
+15 16 0.0370370 l "isa"
+1 6 0.5000000 l "substring"
+6 1 0.0303030 l "substring"
+3 6 0.5000000 l "substring"
+6 3 0.0303030 l "substring"
+4 6 0.5000000 l "substring"
+6 4 0.0303030 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.0303030 l "substring"
+6 7 0.0303030 l "substring"
+7 6 0.5000000 l "substring"
+6 9 0.0303030 l "substring"
+9 6 0.5000000 l "substring"
+6 10 0.0303030 l "substring"
+10 6 0.5000000 l "substring"
+6 11 0.0303030 l "substring"
+11 6 0.5000000 l "substring"
+6 12 0.0303030 l "substring"
+12 6 0.5000000 l "substring"
+6 13 0.0303030 l "substring"
+13 6 0.5000000 l "substring"
+6 14 0.0303030 l "substring"
+14 6 0.5000000 l "substring"
+6 15 0.0606061 l "substring"
+15 6 0.0740741 l "substring"
+6 16 0.0303030 l "substring"
+16 6 0.5000000 l "substring"
+*Edges

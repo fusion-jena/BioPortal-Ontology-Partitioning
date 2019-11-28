@@ -1,0 +1,13 @@
+*Vertices 2
+1 "balancer cilium" ellipse
+2 "balancer cell" ellipse
+*Arcs
+1 2 0.2397243 l "definition"
+2 1 0.1704644 l "definition"
+2 1 0.1704644 l "definition"
+1 2 0.2397243 l "definition"
+1 2 0.2397243 l "definition"
+2 1 0.1704644 l "definition"
+2 1 0.1704644 l "definition"
+1 2 0.2397243 l "definition"
+*Edges

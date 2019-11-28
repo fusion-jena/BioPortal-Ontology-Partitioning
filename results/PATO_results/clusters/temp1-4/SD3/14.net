@@ -1,0 +1,34 @@
+*Vertices 3
+1 "belimumab" ellipse
+2 "golimumab" ellipse
+3 "Simponi" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.4589315 l "isa"
+1 2 0.4039430 l "distance"
+2 1 0.2531728 l "distance"
+*Edges

@@ -1,0 +1,49 @@
+*Vertices 16
+1 "ICW-1:01.01.02.07 Fitness - NOS" ellipse
+2 "ICW-1:01.01.02 Fitness" ellipse
+3 "ICW-1:01.01.02.06.02 Yoga" ellipse
+4 "ICW-1:01.01.02.03.01 Archery" ellipse
+5 "ICW-1:01.01.02.04 Strength Training" ellipse
+6 "ICW-1:01.01.02.01.04 Agility Training - NOS" ellipse
+7 "ICW-1:01.01.02.06.03 Balance Training - NOS" ellipse
+8 "ICW-1:01.01.02.03.02 Functional Training - NOS" ellipse
+9 "ICW-1:01.01.02.06 Balance Training" ellipse
+10 "ICW-1:01.01.02.01 Agility Training" ellipse
+11 "ICW-1:01.01.02.01.03 Volleyball" ellipse
+12 "ICW-1:01.01.02.06.01 Tai Chi" ellipse
+13 "ICW-1:01.01.02.01.02 Dance" ellipse
+14 "ICW-1:01.01.02.03 Functional Training" ellipse
+15 "ICW-1:01.01.02.01.01 Badminton" ellipse
+16 "ICW-1:01.01.02.05 Stretch Training" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1250000 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.2500000 l "isa"
+4 14 1.0000000 l "isa"
+14 4 0.3333333 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1250000 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.2000000 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.2500000 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.3333333 l "isa"
+9 2 0.2500000 l "isa"
+2 9 0.1250000 l "isa"
+10 2 0.2000000 l "isa"
+2 10 0.1250000 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.2000000 l "isa"
+12 9 1.0000000 l "isa"
+9 12 0.2500000 l "isa"
+13 10 1.0000000 l "isa"
+10 13 0.2000000 l "isa"
+14 2 0.3333333 l "isa"
+2 14 0.1250000 l "isa"
+15 10 1.0000000 l "isa"
+10 15 0.2000000 l "isa"
+16 2 1.0000000 l "isa"
+2 16 0.1250000 l "isa"
+*Edges

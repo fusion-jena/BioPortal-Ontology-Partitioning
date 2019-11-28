@@ -1,0 +1,9 @@
+*Vertices 2
+1 "multi-cell-part structure" ellipse
+2 "neuron projection bundle" ellipse
+*Arcs
+2 1 0.2097769 l "isa"
+1 2 0.2117575 l "isa"
+2 1 0.2097769 l "isa"
+1 2 0.2117575 l "isa"
+*Edges

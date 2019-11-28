@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Alcoholic_Hallucinosis" ellipse
+2 "Hallucinosis" ellipse
+*Arcs
+1 2 0.3423418 l "substring"
+2 1 0.5637512 l "substring"
+1 2 0.3423418 l "substring"
+2 1 0.5637512 l "substring"
+1 2 0.3423418 l "substring"
+2 1 0.5637512 l "substring"
+*Edges

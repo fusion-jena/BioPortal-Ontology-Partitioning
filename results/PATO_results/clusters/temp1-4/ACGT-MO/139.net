@@ -1,0 +1,44 @@
+*Vertices 9
+1 "Echocardiography" ellipse
+2 "Imaging" ellipse
+3 "NuclearImaging" ellipse
+4 "OrganismalIndependentContinuant" ellipse
+5 "ReferenceRoentgenologicalImaging" ellipse
+6 "RoentgenologicalImaging" ellipse
+7 "Ultrasound" ellipse
+8 "pictures"
+9 "picturedBy"
+*Arcs
+1 7 0.2000000 l "isa"
+7 1 0.5000000 l "isa"
+3 2 0.4000000 l "isa"
+2 3 0.0769231 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.5000000 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.0769231 l "isa"
+7 2 0.5000000 l "isa"
+2 7 0.0384615 l "isa"
+4 2 0.1142857 l "picturedBy"
+2 4 0.1538462 l "picturedBy"
+2 4 0.1538462 l "pictures"
+4 2 0.1142857 l "pictures"
+2 8 0.0384615 l "definition"
+8 2 0.5000000 l "definition"
+2 4 0.1538462 l "definition"
+4 2 0.1142857 l "definition"
+4 9 0.0285714 l "definition"
+9 4 0.5000000 l "definition"
+4 2 0.1142857 l "definition"
+2 4 0.1538462 l "definition"
+2 3 0.0769231 l "substring"
+3 2 0.4000000 l "substring"
+2 5 0.0384615 l "substring"
+5 2 0.2500000 l "substring"
+2 6 0.0769231 l "substring"
+6 2 0.5000000 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.5000000 l "substring"
+8 9 0.5000000 l "distance"
+9 8 0.5000000 l "distance"
+*Edges

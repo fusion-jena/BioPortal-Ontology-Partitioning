@@ -1,0 +1,19 @@
+*Vertices 8
+1 "Collection" ellipse
+2 "Restriction"
+3 "nil"
+4 "Datatype"
+5 "associationType"
+6 "initiativeType"
+7 "spatialRepresentationType"
+8 "type"
+*Arcs
+4 8 0.3333333 l "substring"
+8 4 0.1000000 l "substring"
+5 8 0.3333333 l "substring"
+8 5 0.1000000 l "substring"
+6 8 0.3333333 l "substring"
+8 6 0.1000000 l "substring"
+7 8 0.3333333 l "substring"
+8 7 0.1000000 l "substring"
+*Edges

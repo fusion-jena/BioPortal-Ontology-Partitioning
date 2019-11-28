@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Tumor" ellipse
+2 "Tumor Imaging Data" ellipse
+*Arcs
+1 2 0.1071429 l "definition"
+2 1 0.4285714 l "definition"
+2 1 0.4285714 l "definition"
+1 2 0.1071429 l "definition"
+1 2 0.1071429 l "substring"
+2 1 0.4285714 l "substring"
+*Edges

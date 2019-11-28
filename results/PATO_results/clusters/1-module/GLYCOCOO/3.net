@@ -1,0 +1,87 @@
+*Vertices 20
+1 "Exact position" ellipse
+2 "Fuzzy position" ellipse
+3 "One of positions" ellipse
+4 "Position" ellipse
+5 "Compound Disease Association" ellipse
+6 "Glycoprotein" ellipse
+7 "Glycosylation Site" ellipse
+8 "glycoprotein" ellipse
+9 "Annotation" ellipse
+10 "Glycosylation Annotation" ellipse
+11 "Protein" ellipse
+12 "entity" ellipse
+13 "mathematical entity" ellipse
+14 "association" ellipse
+15 "protein complex" ellipse
+16 "integer"
+17 "position"
+18 "Datatype"
+19 "Restriction"
+20 "refers to"
+*Arcs
+1 4 0.4000000 l "isa"
+4 1 0.2857143 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.2857143 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.2500000 l "isa"
+5 14 0.5000000 l "isa"
+14 5 0.2857143 l "isa"
+6 11 0.2500000 l "isa"
+11 6 0.3333333 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.5000000 l "isa"
+14 13 0.1428571 l "isa"
+13 14 0.2500000 l "isa"
+11 9 0.1666667 l "annotation"
+9 11 0.5000000 l "annotation"
+6 16 0.1250000 l "amino acid length"
+16 6 0.5000000 l "amino acid length"
+17 18 0.1111111 l "definition"
+18 17 1.0000000 l "definition"
+17 16 0.1111111 l "definition"
+16 17 0.5000000 l "definition"
+1 19 0.2000000 l "definition"
+19 1 0.5000000 l "definition"
+1 17 0.4000000 l "definition"
+17 1 0.2222222 l "definition"
+14 19 0.1428571 l "definition"
+19 14 0.5000000 l "definition"
+14 20 0.1428571 l "definition"
+20 14 1.0000000 l "definition"
+14 12 0.1428571 l "definition"
+12 14 0.5000000 l "definition"
+1 4 0.4000000 l "substring"
+4 1 0.2857143 l "substring"
+1 17 0.4000000 l "substring"
+17 1 0.2222222 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.2857143 l "substring"
+2 17 0.2500000 l "substring"
+17 2 0.1111111 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.1428571 l "substring"
+3 17 0.3333333 l "substring"
+17 3 0.1111111 l "substring"
+4 17 0.2857143 l "substring"
+17 4 0.2222222 l "substring"
+5 14 0.5000000 l "substring"
+14 5 0.2857143 l "substring"
+6 8 0.2500000 l "substring"
+8 6 0.6666667 l "substring"
+6 11 0.2500000 l "substring"
+11 6 0.3333333 l "substring"
+8 11 0.3333333 l "substring"
+11 8 0.1666667 l "substring"
+9 10 0.5000000 l "substring"
+10 9 0.5000000 l "substring"
+11 15 0.1666667 l "substring"
+15 11 1.0000000 l "substring"
+12 13 0.5000000 l "substring"
+13 12 0.2500000 l "substring"
+4 17 0.2857143 l "distance"
+17 4 0.2222222 l "distance"
+6 8 0.2500000 l "distance"
+8 6 0.6666667 l "distance"
+*Edges

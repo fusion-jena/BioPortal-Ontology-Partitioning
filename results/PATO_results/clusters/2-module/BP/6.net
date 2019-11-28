@@ -1,0 +1,11 @@
+*Vertices 2
+1 "EntityReference" ellipse
+2 "EntityReferenceTypeVocabulary" ellipse
+*Arcs
+1 2 0.1052632 l "entityReferenceType"
+2 1 0.4000000 l "entityReferenceType"
+1 1 0.1052632 l "memberEntityReference"
+1 1 0.1052632 l "memberEntityReference"
+1 2 0.1052632 l "substring"
+2 1 0.4000000 l "substring"
+*Edges

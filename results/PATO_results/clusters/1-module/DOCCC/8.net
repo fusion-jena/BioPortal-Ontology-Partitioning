@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Feeding_Deficit" ellipse
+2 "Self-Care" ellipse
+3 "Self_Care_Deficit" ellipse
+4 "Toileting_Deficit" ellipse
+5 "Activities_of_Daily_Living_(ADLs)_Alteration" ellipse
+6 "Hygiene_Deficit" ellipse
+7 "Grooming_Deficit" ellipse
+8 "Instrumental_Activities_of_Daily_Living_(IADLs)_Alteration" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1250000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1250000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1250000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1250000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.1250000 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1250000 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.1250000 l "isa"
+*Edges

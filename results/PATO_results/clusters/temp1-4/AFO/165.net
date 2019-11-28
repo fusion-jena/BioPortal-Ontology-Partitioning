@@ -1,0 +1,16 @@
+*Vertices 3
+1 "ultra high-performance liquid chromatograph" ellipse
+2 "high-performance liquid chromatograph" ellipse
+3 "ultra high-performance liquid chromatography" ellipse
+*Arcs
+1 2 0.1818182 l "isa"
+2 1 0.1000000 l "isa"
+1 2 0.1818182 l "substring"
+2 1 0.1000000 l "substring"
+1 3 0.1818182 l "substring"
+3 1 0.1428571 l "substring"
+2 3 0.0500000 l "substring"
+3 2 0.0714286 l "substring"
+1 3 0.1818182 l "distance"
+3 1 0.1428571 l "distance"
+*Edges

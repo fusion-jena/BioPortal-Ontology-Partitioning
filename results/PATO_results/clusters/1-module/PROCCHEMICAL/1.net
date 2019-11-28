@@ -1,0 +1,69 @@
+*Vertices 18
+1 "SaltIon" ellipse
+2 "ChemicalProperty" ellipse
+3 "Acidity" ellipse
+4 "Basic" ellipse
+5 "Basicity" ellipse
+6 "Moisture" ellipse
+7 "Purity" ellipse
+8 "Salinity" ellipse
+9 "Sodicity" ellipse
+10 "SodiumAdsorptionRatio" ellipse
+11 "WaterConcentration" ellipse
+12 "WaterQualityIndex" ellipse
+13 "MassConcentration" ellipse
+14 "hasDefaultUnit"
+15 "perMil"
+16 "Sodium"
+17 "measureOf"
+18 "Water"
+*Arcs
+3 2 0.3333333 l "isa"
+2 3 0.2000000 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.1666667 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.2000000 l "isa"
+8 13 0.1000000 l "isa"
+13 8 0.3333333 l "isa"
+9 13 0.1428571 l "isa"
+13 9 0.3333333 l "isa"
+10 12 0.2000000 l "isa"
+12 10 0.5000000 l "isa"
+11 13 0.1666667 l "isa"
+13 11 0.3333333 l "isa"
+8 1 0.1000000 l "definition"
+1 8 1.0000000 l "definition"
+8 14 0.1000000 l "definition"
+14 8 1.0000000 l "definition"
+8 15 0.1000000 l "definition"
+15 8 1.0000000 l "definition"
+9 16 0.1428571 l "definition"
+16 9 0.5000000 l "definition"
+10 17 0.2000000 l "definition"
+17 10 1.0000000 l "definition"
+10 9 0.2000000 l "definition"
+9 10 0.1428571 l "definition"
+11 18 0.3333333 l "definition"
+18 11 0.5000000 l "definition"
+4 5 1.0000000 l "substring"
+5 4 0.4000000 l "substring"
+10 16 0.2000000 l "substring"
+16 10 0.5000000 l "substring"
+11 18 0.3333333 l "substring"
+18 11 0.5000000 l "substring"
+12 18 0.5000000 l "substring"
+18 12 0.2500000 l "substring"
+3 5 0.3333333 l "distance"
+5 3 0.2000000 l "distance"
+3 8 0.3333333 l "distance"
+8 3 0.1000000 l "distance"
+4 5 1.0000000 l "distance"
+5 4 0.4000000 l "distance"
+5 8 0.2000000 l "distance"
+8 5 0.1000000 l "distance"
+5 9 0.2000000 l "distance"
+9 5 0.1428571 l "distance"
+8 9 0.1000000 l "distance"
+9 8 0.1428571 l "distance"
+*Edges

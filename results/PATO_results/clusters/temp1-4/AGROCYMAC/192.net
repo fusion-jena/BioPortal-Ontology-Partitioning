@@ -1,0 +1,13 @@
+*Vertices 2
+1 "quality" ellipse
+2 "process quality" ellipse
+*Arcs
+2 1 0.4202568 l "isa"
+1 2 0.0396578 l "isa"
+1 2 0.0396578 l "substring"
+2 1 0.4202568 l "substring"
+2 1 0.4202568 l "isa"
+1 2 0.0396578 l "isa"
+1 2 0.0396578 l "substring"
+2 1 0.4202568 l "substring"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Immunizations" ellipse
+2 "vaccinations" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.6449994 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.6449994 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.6449994 l "isa"
+*Edges

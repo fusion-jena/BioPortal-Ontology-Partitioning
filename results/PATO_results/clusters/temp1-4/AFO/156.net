@@ -1,0 +1,9 @@
+*Vertices 2
+1 "drawing" ellipse
+2 "taking" ellipse
+*Arcs
+1 2 0.2222222 l "isa"
+2 1 0.1250000 l "isa"
+1 2 0.2222222 l "distance"
+2 1 0.1250000 l "distance"
+*Edges

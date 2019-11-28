@@ -1,0 +1,14 @@
+*Vertices 3
+1 "ApoE Protein" ellipse
+2 "Homocystein" ellipse
+3 "Metabolic Marker" ellipse
+*Arcs
+1 3 0.1388580 l "definition"
+3 1 0.2645224 l "definition"
+2 3 0.1263374 l "definition"
+3 2 0.2645224 l "definition"
+1 3 0.1388580 l "definition"
+3 1 0.2645224 l "definition"
+2 3 0.1263374 l "definition"
+3 2 0.2645224 l "definition"
+*Edges

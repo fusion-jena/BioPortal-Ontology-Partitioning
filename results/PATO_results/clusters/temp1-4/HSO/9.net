@@ -1,0 +1,34 @@
+*Vertices 9
+1 "measurement unit label" ellipse
+2 "datum label" ellipse
+3 "information content entity" ellipse
+4 "measurement datum" ellipse
+5 "mass measurement datum" ellipse
+6 "value specification" ellipse
+7 "has value specification"
+8 "has measurement unit label"
+9 "has measurement value"
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.1000000 l "isa"
+6 3 0.5000000 l "isa"
+3 6 0.2000000 l "isa"
+3 6 0.2000000 l "has value specification"
+6 3 0.5000000 l "has value specification"
+4 7 0.0666667 l "definition"
+7 4 0.5000000 l "definition"
+4 6 0.0666667 l "definition"
+6 4 0.2500000 l "definition"
+5 8 0.0909091 l "definition"
+8 5 0.5000000 l "definition"
+5 9 0.0909091 l "definition"
+9 5 1.0000000 l "definition"
+1 8 0.3333333 l "substring"
+8 1 0.5000000 l "substring"
+4 5 0.0666667 l "substring"
+5 4 0.0909091 l "substring"
+6 7 0.2500000 l "substring"
+7 6 0.5000000 l "substring"
+*Edges

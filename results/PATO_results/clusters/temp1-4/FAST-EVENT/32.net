@@ -1,0 +1,21 @@
+*Vertices 2
+1 "government publication" ellipse
+2 "white paper" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.7961597 l "isa"
+*Edges

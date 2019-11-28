@@ -1,0 +1,13 @@
+*Vertices 2
+1 "immune cell" ellipse
+2 "immune cell" ellipse
+*Arcs
+1 2 0.2155033 l "substring"
+2 1 0.3526113 l "substring"
+1 2 0.2155033 l "distance"
+2 1 0.3526113 l "distance"
+1 2 0.2155033 l "substring"
+2 1 0.3526113 l "substring"
+1 2 0.2155033 l "distance"
+2 1 0.3526113 l "distance"
+*Edges

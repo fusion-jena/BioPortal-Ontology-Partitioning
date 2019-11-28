@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Hereford" ellipse
+2 "Polled Hereford" ellipse
+3 "Hereford" ellipse
+*Arcs
+1 2 0.1949386 l "substring"
+2 1 0.3574664 l "substring"
+1 3 0.5245763 l "substring"
+3 1 0.5239795 l "substring"
+2 3 0.3573938 l "substring"
+3 2 0.1946773 l "substring"
+1 3 0.5245763 l "distance"
+3 1 0.5239795 l "distance"
+1 2 0.1949386 l "substring"
+2 1 0.3574664 l "substring"
+1 3 0.5245763 l "substring"
+3 1 0.5239795 l "substring"
+2 3 0.3573938 l "substring"
+3 2 0.1946773 l "substring"
+1 3 0.5245763 l "distance"
+3 1 0.5239795 l "distance"
+1 2 0.1949386 l "substring"
+2 1 0.3574664 l "substring"
+1 3 0.5245763 l "substring"
+3 1 0.5239795 l "substring"
+2 3 0.3573938 l "substring"
+3 2 0.1946773 l "substring"
+1 3 0.5245763 l "distance"
+3 1 0.5239795 l "distance"
+1 2 0.1949386 l "substring"
+2 1 0.3574664 l "substring"
+1 3 0.5245763 l "substring"
+3 1 0.5239795 l "substring"
+2 3 0.3573938 l "substring"
+3 2 0.1946773 l "substring"
+1 3 0.5245763 l "distance"
+3 1 0.5239795 l "distance"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 10
+1 "Result" ellipse
+2 "Discussion" ellipse
+3 "Descriptive data" ellipse
+4 "Outcome data" ellipse
+5 "Main results" ellipse
+6 "Other analyses" ellipse
+7 "Key results" ellipse
+8 "Limitation" ellipse
+9 "Interpretation" ellipse
+10 "Generalizability" ellipse
+*Arcs
+3 1 1.0000000 l "isa"
+1 3 0.1428571 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1428571 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2857143 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1428571 l "isa"
+7 2 0.5000000 l "isa"
+2 7 0.2500000 l "isa"
+8 2 1.0000000 l "isa"
+2 8 0.2500000 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.2500000 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.2500000 l "isa"
+1 5 0.2857143 l "substring"
+5 1 1.0000000 l "substring"
+1 7 0.1428571 l "substring"
+7 1 0.5000000 l "substring"
+*Edges

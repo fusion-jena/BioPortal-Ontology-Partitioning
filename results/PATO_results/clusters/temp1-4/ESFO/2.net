@@ -1,0 +1,28 @@
+*Vertices 3
+1 "index" ellipse
+2 "periodical index" ellipse
+3 "Gender" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.6567840 l "isa"
+1 2 0.6567840 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.6567840 l "isa"
+1 2 0.6567840 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1314397 l "distance"
+3 1 0.2553588 l "distance"
+2 1 1.0000000 l "isa"
+1 2 0.6567840 l "isa"
+1 2 0.6567840 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1314397 l "distance"
+3 1 0.2553588 l "distance"
+2 1 1.0000000 l "isa"
+1 2 0.6567840 l "isa"
+1 2 0.6567840 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1314397 l "distance"
+3 1 0.2553588 l "distance"
+*Edges

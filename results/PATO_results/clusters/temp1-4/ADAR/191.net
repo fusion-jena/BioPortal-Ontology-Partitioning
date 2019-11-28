@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Insistence on sameness phenotype" ellipse
+2 "High insistence on sameness" ellipse
+3 "Low insistence on sameness" ellipse
+4 "Medium insistence on sameness" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+1 2 0.2000000 l "definition"
+2 1 1.0000000 l "definition"
+1 3 0.2000000 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.2000000 l "definition"
+4 1 1.0000000 l "definition"
+*Edges

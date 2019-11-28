@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Enucleation" ellipse
+2 "PartialNephrectomy" ellipse
+3 "StandardPartialNephrectomy" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1111111 l "isa"
+3 2 0.4000000 l "isa"
+2 3 0.2222222 l "isa"
+2 3 0.2222222 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

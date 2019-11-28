@@ -1,0 +1,15 @@
+*Vertices 2
+1 "positive reversibility to salbutamol" ellipse
+2 "reversibility to salbutamol" ellipse
+*Arcs
+1 2 0.4770263 l "substring"
+2 1 0.6190015 l "substring"
+1 2 0.4770263 l "substring"
+2 1 0.6190015 l "substring"
+1 2 0.4770263 l "substring"
+2 1 0.6190015 l "substring"
+1 2 0.4770263 l "substring"
+2 1 0.6190015 l "substring"
+1 2 0.4770263 l "substring"
+2 1 0.6190015 l "substring"
+*Edges

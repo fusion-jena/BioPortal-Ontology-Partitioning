@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Spindle cell melanoma, type A (C69._)" ellipse
+2 "Spindle cell melanoma, type B (C69._)" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

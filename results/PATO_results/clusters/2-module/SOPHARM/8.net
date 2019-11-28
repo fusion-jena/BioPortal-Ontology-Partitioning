@@ -1,0 +1,10 @@
+*Vertices 3
+1 "dna_sequence" ellipse
+2 "sequence" ellipse
+3 "sequence_position" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.2000000 l "substring"
+2 3 0.2000000 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

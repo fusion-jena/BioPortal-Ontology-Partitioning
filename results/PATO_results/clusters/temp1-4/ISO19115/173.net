@@ -1,0 +1,15 @@
+*Vertices 2
+1 "PHKG1" ellipse
+2 "PROKR1" ellipse
+*Arcs
+1 2 0.0558697 l "distance"
+2 1 0.1153533 l "distance"
+1 2 0.0558697 l "distance"
+2 1 0.1153533 l "distance"
+1 2 0.0558697 l "distance"
+2 1 0.1153533 l "distance"
+1 2 0.0558697 l "distance"
+2 1 0.1153533 l "distance"
+1 2 0.0558697 l "distance"
+2 1 0.1153533 l "distance"
+*Edges

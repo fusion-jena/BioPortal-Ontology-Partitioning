@@ -1,0 +1,13 @@
+*Vertices 2
+1 "chalk" ellipse
+2 "chalk soil" ellipse
+*Arcs
+2 1 0.2320782 l "definition"
+1 2 0.1004560 l "definition"
+1 2 0.1004560 l "substring"
+2 1 0.2320782 l "substring"
+2 1 0.2320782 l "definition"
+1 2 0.1004560 l "definition"
+1 2 0.1004560 l "substring"
+2 1 0.2320782 l "substring"
+*Edges

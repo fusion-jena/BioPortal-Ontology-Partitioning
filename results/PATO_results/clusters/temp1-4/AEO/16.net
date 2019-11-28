@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Rat" ellipse
+2 "keratin-based structure" ellipse
+3 "chitin-based structure" ellipse
+4 "acellular anatomical structure" ellipse
+*Arcs
+2 4 0.5000000 l "isa"
+4 2 0.0909091 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0909091 l "isa"
+1 2 0.0054728 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

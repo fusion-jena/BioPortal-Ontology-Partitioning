@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Lieu" ellipse
+2 "Déplacement" ellipse
+*Arcs
+1 1 0.2162162 l "chevauche"
+1 1 0.2162162 l "chevauche"
+1 1 0.2162162 l "borders with"
+1 1 0.2162162 l "borders with"
+2 1 0.5000000 l "a déplacé vers"
+1 2 0.1081081 l "a déplacé vers"
+1 2 0.1081081 l "a été la destination de"
+2 1 0.5000000 l "a été la destination de"
+2 1 0.5000000 l "a retiré de"
+1 2 0.1081081 l "a retiré de"
+1 2 0.1081081 l "a été l'origine de"
+2 1 0.5000000 l "a été l'origine de"
+1 1 0.2162162 l "está contido em"
+1 1 0.2162162 l "está contido em"
+1 1 0.2162162 l "contains"
+1 1 0.2162162 l "contains"
+*Edges

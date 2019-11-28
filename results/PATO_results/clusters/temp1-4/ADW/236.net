@@ -1,0 +1,18 @@
+*Vertices 3
+1 "meloxicam" ellipse
+2 "piroxicam" ellipse
+3 "tenoxicam" ellipse
+*Arcs
+1 2 0.1516017 l "distance"
+2 1 0.1516017 l "distance"
+1 3 0.1516017 l "distance"
+3 1 0.1516017 l "distance"
+2 3 0.1516017 l "distance"
+3 2 0.1516017 l "distance"
+1 2 0.1516017 l "distance"
+2 1 0.1516017 l "distance"
+1 3 0.1516017 l "distance"
+3 1 0.1516017 l "distance"
+2 3 0.1516017 l "distance"
+3 2 0.1516017 l "distance"
+*Edges

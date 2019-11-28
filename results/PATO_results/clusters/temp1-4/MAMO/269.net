@@ -1,0 +1,42 @@
+*Vertices 7
+1 "continuous_variable" ellipse
+2 "ordinal_variable" ellipse
+3 "MAMO_0000010" ellipse
+4 "MAMO_0000017" ellipse
+5 "MAMO_0000018" ellipse
+6 "MAMO_0000083" ellipse
+7 "MAMO_0000086" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.0096154 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.0096154 l "isa"
+4 3 0.0204082 l "isa"
+3 4 0.0200000 l "isa"
+5 3 0.0204082 l "isa"
+3 5 0.0200000 l "isa"
+6 7 0.0204082 l "isa"
+7 6 0.0192308 l "isa"
+7 3 0.0192308 l "isa"
+3 7 0.0200000 l "isa"
+3 4 0.0200000 l "distance"
+4 3 0.0204082 l "distance"
+3 5 0.0200000 l "distance"
+5 3 0.0204082 l "distance"
+3 6 0.0100000 l "distance"
+6 3 0.0102041 l "distance"
+3 7 0.0200000 l "distance"
+7 3 0.0192308 l "distance"
+4 5 0.0102041 l "distance"
+5 4 0.0102041 l "distance"
+4 6 0.0102041 l "distance"
+6 4 0.0102041 l "distance"
+4 7 0.0102041 l "distance"
+7 4 0.0096154 l "distance"
+5 6 0.0102041 l "distance"
+6 5 0.0102041 l "distance"
+5 7 0.0102041 l "distance"
+7 5 0.0096154 l "distance"
+6 7 0.0204082 l "distance"
+7 6 0.0192308 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "GT" ellipse
+2 "Huntingtons_Disease" ellipse
+*Arcs
+1 2 0.0119942 l "substring"
+2 1 0.3764035 l "substring"
+1 2 0.0119942 l "substring"
+2 1 0.3764035 l "substring"
+1 2 0.0119942 l "substring"
+2 1 0.3764035 l "substring"
+*Edges

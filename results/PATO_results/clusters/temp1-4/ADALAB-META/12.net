@@ -1,0 +1,9 @@
+*Vertices 2
+1 "SegmentOfSkin" ellipse
+2 "SkinOfHead" ellipse
+*Arcs
+2 1 0.3536122 l "isa"
+1 2 0.2676259 l "isa"
+2 1 0.3536122 l "isa"
+1 2 0.2676259 l "isa"
+*Edges

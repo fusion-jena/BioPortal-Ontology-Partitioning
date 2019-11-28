@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Finding related to pregnancy" ellipse
+2 "Delivery finding" ellipse
+*Arcs
+2 1 0.2295645 l "isa"
+1 2 0.1985468 l "isa"
+2 1 0.2295645 l "isa"
+1 2 0.1985468 l "isa"
+2 1 0.2295645 l "isa"
+1 2 0.1985468 l "isa"
+*Edges

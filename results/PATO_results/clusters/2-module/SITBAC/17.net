@@ -1,0 +1,20 @@
+*Vertices 5
+1 "General_Department" ellipse
+2 "Hospital_Department" ellipse
+3 "Maintenance_Department"
+4 "HR_Department"
+5 "Accounting_Department"
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.1428571 l "isa"
+1 3 0.1428571 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.1428571 l "definition"
+4 1 1.0000000 l "definition"
+1 5 0.1428571 l "definition"
+5 1 1.0000000 l "definition"
+2 2 0.1428571 l "definition"
+2 2 0.1428571 l "definition"
+2 1 0.1428571 l "definition"
+1 2 0.2857143 l "definition"
+*Edges

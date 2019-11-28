@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Disease" ellipse
+2 "Disease" ellipse
+3 "dateTime"
+*Arcs
+2 3 0.1538462 l "Enddatum"
+3 2 0.1666667 l "Enddatum"
+2 3 0.1538462 l "Startdatum"
+3 2 0.1666667 l "Startdatum"
+1 2 0.2500000 l "substring"
+2 1 0.1538462 l "substring"
+1 2 0.2500000 l "distance"
+2 1 0.1538462 l "distance"
+*Edges

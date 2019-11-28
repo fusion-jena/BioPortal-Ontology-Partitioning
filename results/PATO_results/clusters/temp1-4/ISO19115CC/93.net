@@ -1,0 +1,17 @@
+*Vertices 2
+1 "FC_DefinitionSource" ellipse
+2 "CI_Citation" ellipse
+*Arcs
+1 2 0.1189086 l "source"
+2 1 0.2710165 l "source"
+1 2 0.1189086 l "definition"
+2 1 0.2710165 l "definition"
+1 2 0.1189086 l "source"
+2 1 0.2710165 l "source"
+1 2 0.1189086 l "definition"
+2 1 0.2710165 l "definition"
+1 2 0.1189086 l "source"
+2 1 0.2710165 l "source"
+1 2 0.1189086 l "definition"
+2 1 0.2710165 l "definition"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "ClinicalCharacteristics" ellipse
+2 "MovementMeasure" ellipse
+3 "Quality" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.5000000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.5000000 l "isa"
+*Edges

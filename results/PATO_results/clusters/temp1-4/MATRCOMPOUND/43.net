@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Bonsmara" ellipse
+2 "Bandara" ellipse
+3 "Yankasa" ellipse
+*Arcs
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+1 2 0.6087222 l "distance"
+2 1 0.2191861 l "distance"
+2 3 0.2191749 l "distance"
+3 2 0.6086777 l "distance"
+*Edges

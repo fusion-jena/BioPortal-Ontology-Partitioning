@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Deported" ellipse
+2 "Lived_with_Parent_or_Guardian_who_was_Deported" ellipse
+3 "has_legal_guardian"
+*Arcs
+2 3 0.1286643 l "definition"
+3 2 0.4385965 l "definition"
+2 1 0.2401734 l "definition"
+1 2 0.5627010 l "definition"
+1 2 0.5627010 l "substring"
+2 1 0.2401734 l "substring"
+2 3 0.1286643 l "definition"
+3 2 0.4385965 l "definition"
+2 1 0.2401734 l "definition"
+1 2 0.5627010 l "definition"
+1 2 0.5627010 l "substring"
+2 1 0.2401734 l "substring"
+*Edges

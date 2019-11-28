@@ -1,0 +1,14 @@
+*Vertices 3
+1 "HematopoieticSystem" ellipse
+2 "SetOfHeterogeneousClusters" ellipse
+3 "SubdivisionOfHemolymphoidSystem" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.5600000 l "isa"
+3 2 0.4400000 l "isa"
+2 3 0.2763325 l "isa"
+1 3 1.0000000 l "isa"
+3 1 0.5600000 l "isa"
+3 2 0.4400000 l "isa"
+2 3 0.2763325 l "isa"
+*Edges

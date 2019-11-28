@@ -1,0 +1,9 @@
+*Vertices 2
+1 "LowMotivationToExercise"
+2 "MotivationToExercise"
+*Arcs
+1 2 0.1538462 l "substring"
+2 1 0.1818182 l "substring"
+1 2 0.1538462 l "distance"
+2 1 0.1818182 l "distance"
+*Edges

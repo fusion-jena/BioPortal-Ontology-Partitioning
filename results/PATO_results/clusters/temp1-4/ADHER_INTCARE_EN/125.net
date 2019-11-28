@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Regular_use_of_neologisms_or_idiosyncratic_ways_of_saying_things" ellipse
+2 "neologidiolang_Regular_use_of_neologisms_or_idiosyncratic_ways_of_saying_things"
+*Arcs
+1 2 0.2621330 l "substring"
+2 1 0.2159671 l "substring"
+1 2 0.2621330 l "substring"
+2 1 0.2159671 l "substring"
+*Edges

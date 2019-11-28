@@ -1,0 +1,56 @@
+*Vertices 11
+1 "DO" ellipse
+2 "DissolvedGas" ellipse
+3 "DissolvedOxygen" ellipse
+4 "DissolvedSubstance" ellipse
+5 "GreenhouseGas" ellipse
+6 "OrganicLoading" ellipse
+7 "SuspendedGas" ellipse
+8 "SuspendedSubstance" ellipse
+9 "Gas"
+10 "Dissolved"
+11 "Suspended"
+*Arcs
+2 4 0.1428571 l "isa"
+4 2 0.0909091 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.0909091 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0909091 l "isa"
+7 8 0.1428571 l "isa"
+8 7 0.1250000 l "isa"
+2 9 0.2857143 l "definition"
+9 2 0.0425532 l "definition"
+4 10 0.1818182 l "definition"
+10 4 0.2500000 l "definition"
+5 9 0.4000000 l "definition"
+9 5 0.0425532 l "definition"
+7 9 0.2857143 l "definition"
+9 7 0.0425532 l "definition"
+8 11 0.2500000 l "definition"
+11 8 0.4000000 l "definition"
+1 3 0.0125000 l "substring"
+3 1 0.3333333 l "substring"
+2 9 0.2857143 l "substring"
+9 2 0.0425532 l "substring"
+2 10 0.2857143 l "substring"
+10 2 0.2500000 l "substring"
+3 10 0.3333333 l "substring"
+10 3 0.1250000 l "substring"
+4 10 0.1818182 l "substring"
+10 4 0.2500000 l "substring"
+5 9 0.4000000 l "substring"
+9 5 0.0425532 l "substring"
+7 9 0.2857143 l "substring"
+9 7 0.0425532 l "substring"
+7 11 0.2857143 l "substring"
+11 7 0.4000000 l "substring"
+8 11 0.2500000 l "substring"
+11 8 0.4000000 l "substring"
+1 9 0.0125000 l "distance"
+9 1 0.0212766 l "distance"
+2 10 0.2857143 l "distance"
+10 2 0.2500000 l "distance"
+7 11 0.2857143 l "distance"
+11 7 0.4000000 l "distance"
+*Edges

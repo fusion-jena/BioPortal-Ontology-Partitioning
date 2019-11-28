@@ -1,0 +1,59 @@
+*Vertices 12
+1 "Abbreviated title" ellipse
+2 "Concise title" ellipse
+3 "Distinctive title" ellipse
+4 "Key title" ellipse
+5 "Main title element" ellipse
+6 "Non-sort element" ellipse
+7 "Parallel title" ellipse
+8 "Part name element" ellipse
+9 "Part number element" ellipse
+10 "Subtitle element" ellipse
+11 "Title element" ellipse
+12 "Title" ellipse
+*Arcs
+1 12 1.0000000 l "isa"
+12 1 0.1176471 l "isa"
+2 12 1.0000000 l "isa"
+12 2 0.1176471 l "isa"
+3 12 1.0000000 l "isa"
+12 3 0.1176471 l "isa"
+4 12 1.0000000 l "isa"
+12 4 0.1176471 l "isa"
+5 11 0.6666667 l "isa"
+11 5 0.2222222 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.1111111 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.1176471 l "isa"
+8 11 0.5000000 l "isa"
+11 8 0.1111111 l "isa"
+9 11 0.5000000 l "isa"
+11 9 0.1111111 l "isa"
+10 11 0.7500000 l "isa"
+11 10 0.3333333 l "isa"
+1 12 1.0000000 l "substring"
+12 1 0.1176471 l "substring"
+2 12 1.0000000 l "substring"
+12 2 0.1176471 l "substring"
+3 12 1.0000000 l "substring"
+12 3 0.1176471 l "substring"
+4 12 1.0000000 l "substring"
+12 4 0.1176471 l "substring"
+5 11 0.6666667 l "substring"
+11 5 0.2222222 l "substring"
+5 12 0.3333333 l "substring"
+12 5 0.0588235 l "substring"
+7 12 1.0000000 l "substring"
+12 7 0.1176471 l "substring"
+10 11 0.7500000 l "substring"
+11 10 0.3333333 l "substring"
+10 12 0.2500000 l "substring"
+12 10 0.0588235 l "substring"
+11 12 0.1111111 l "substring"
+12 11 0.0588235 l "substring"
+8 9 0.5000000 l "distance"
+9 8 0.5000000 l "distance"
+10 11 0.7500000 l "distance"
+11 10 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Neurosyphilis" ellipse
+2 "Syphilis" ellipse
+*Arcs
+1 2 0.3445996 l "substring"
+2 1 0.5645140 l "substring"
+1 2 0.3445996 l "substring"
+2 1 0.5645140 l "substring"
+1 2 0.3445996 l "substring"
+2 1 0.5645140 l "substring"
+*Edges

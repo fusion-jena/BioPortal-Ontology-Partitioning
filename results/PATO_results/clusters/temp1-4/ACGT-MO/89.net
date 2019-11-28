@@ -1,0 +1,36 @@
+*Vertices 5
+1 "Health Status" ellipse
+2 "Personal Attribute" ellipse
+3 "Disability" ellipse
+4 "Body disability AND/OR failure state" ellipse
+5 "Disability" ellipse
+*Arcs
+1 2 0.3392857 l "isa"
+2 1 0.1797753 l "isa"
+3 1 0.1648352 l "isa"
+1 3 0.3348214 l "isa"
+5 4 0.4146650 l "isa"
+4 5 0.3204832 l "isa"
+3 4 0.1538461 l "substring"
+4 3 0.1367916 l "substring"
+3 5 0.3604396 l "substring"
+5 3 0.4146650 l "substring"
+4 5 0.3204832 l "substring"
+5 4 0.4146650 l "substring"
+3 5 0.3604396 l "distance"
+5 3 0.4146650 l "distance"
+1 2 0.3392857 l "isa"
+2 1 0.1797753 l "isa"
+3 1 0.1648352 l "isa"
+1 3 0.3348214 l "isa"
+5 4 0.4146650 l "isa"
+4 5 0.3204832 l "isa"
+3 4 0.1538461 l "substring"
+4 3 0.1367916 l "substring"
+3 5 0.3604396 l "substring"
+5 3 0.4146650 l "substring"
+4 5 0.3204832 l "substring"
+5 4 0.4146650 l "substring"
+3 5 0.3604396 l "distance"
+5 3 0.4146650 l "distance"
+*Edges

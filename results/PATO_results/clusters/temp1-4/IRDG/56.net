@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ICW-1:01.04.01 Financial Wellness - NOS" ellipse
+2 "ICW-1:01.04 Financial Wellness" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3924493 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3924493 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3924493 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3924493 l "isa"
+*Edges

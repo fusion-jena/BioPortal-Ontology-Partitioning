@@ -1,0 +1,9 @@
+*Vertices 2
+1 "NCBITaxon_140463"
+2 "NCBITaxon_140464"
+*Arcs
+2 1 0.0434783 l "isa"
+1 2 0.0425532 l "isa"
+1 2 0.0425532 l "distance"
+2 1 0.0434783 l "distance"
+*Edges

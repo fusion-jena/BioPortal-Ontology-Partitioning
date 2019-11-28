@@ -1,0 +1,11 @@
+*Vertices 2
+1 "baseline value at start of peak" ellipse
+2 "baseline value at start" ellipse
+*Arcs
+1 2 0.1406905 l "substring"
+2 1 0.1771003 l "substring"
+1 2 0.1406905 l "substring"
+2 1 0.1771003 l "substring"
+1 2 0.1406905 l "substring"
+2 1 0.1771003 l "substring"
+*Edges

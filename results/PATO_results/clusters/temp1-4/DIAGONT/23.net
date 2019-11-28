@@ -1,0 +1,44 @@
+*Vertices 5
+1 "Jurisdiction" ellipse
+2 "Location" ellipse
+3 "Location, Period, or Jurisdiction" ellipse
+4 "Period of Time" ellipse
+5 "Location" ellipse
+*Arcs
+1 3 0.3040600 l "isa"
+3 1 0.2022133 l "isa"
+2 3 0.2051923 l "isa"
+3 2 0.1971677 l "isa"
+4 3 0.1334021 l "isa"
+3 4 0.0836505 l "isa"
+1 3 0.3040600 l "substring"
+3 1 0.2022133 l "substring"
+2 3 0.2051923 l "substring"
+3 2 0.1971677 l "substring"
+1 3 0.3040600 l "isa"
+3 1 0.2022133 l "isa"
+2 3 0.2051923 l "isa"
+3 2 0.1971677 l "isa"
+4 3 0.1334021 l "isa"
+3 4 0.0836505 l "isa"
+1 3 0.3040600 l "substring"
+3 1 0.2022133 l "substring"
+2 3 0.2051923 l "substring"
+3 2 0.1971677 l "substring"
+1 3 0.3040600 l "isa"
+3 1 0.2022133 l "isa"
+2 3 0.2051923 l "isa"
+3 2 0.1971677 l "isa"
+4 3 0.1334021 l "isa"
+3 4 0.0836505 l "isa"
+1 3 0.3040600 l "substring"
+3 1 0.2022133 l "substring"
+2 3 0.2051923 l "substring"
+3 2 0.1971677 l "substring"
+2 5 0.1427478 l "substring"
+5 2 0.1666667 l "substring"
+3 5 0.0685826 l "substring"
+5 3 0.0833333 l "substring"
+2 5 0.1427478 l "distance"
+5 2 0.1666667 l "distance"
+*Edges

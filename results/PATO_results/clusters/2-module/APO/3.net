@@ -1,0 +1,314 @@
+*Vertices 77
+1 "mutant_type" ellipse
+2 "misexpression" ellipse
+3 "overexpression" ellipse
+4 "activation" ellipse
+5 "gain of function" ellipse
+6 "null" ellipse
+7 "repressible" ellipse
+8 "reduction of function" ellipse
+9 "conditional" ellipse
+10 "unspecified" ellipse
+11 "experiment_type" ellipse
+12 "systematic null mutation set" ellipse
+13 "classical genetics" ellipse
+14 "competitive growth" ellipse
+15 "large-scale survey" ellipse
+16 "systematic repressible mutation set" ellipse
+17 "null homozygous diploid" ellipse
+18 "null heterozygous diploid" ellipse
+19 "Affinity Capture-MS" ellipse
+20 "Affinity Capture-RNA" ellipse
+21 "interactions" ellipse
+22 "Affinity Capture-Western" ellipse
+23 "Biochemical Activity" ellipse
+24 "Co-crystal Structure" ellipse
+25 "Co-fractionation" ellipse
+26 "Co-localization" ellipse
+27 "Co-purification" ellipse
+28 "Dosage Growth Defect" ellipse
+29 "Dosage Lethality" ellipse
+30 "Dosage Rescue" ellipse
+31 "Epistatic MiniArray Profile" ellipse
+32 "FRET" ellipse
+33 "Far Western" ellipse
+34 "Phenotypic Enhancement" ellipse
+35 "Phenotypic Suppression" ellipse
+36 "Protein-RNA" ellipse
+37 "Protein-peptide" ellipse
+38 "Reconstituted Complex" ellipse
+39 "Synthetic Growth Defect" ellipse
+40 "Synthetic Lethality" ellipse
+41 "Synthetic Rescue" ellipse
+42 "Two-hybrid" ellipse
+43 "genetic interactions" ellipse
+44 "physical interactions" ellipse
+45 "Affinity Chromatography" ellipse
+46 "Affinity Precipitation" ellipse
+47 "Biochemical Assay" ellipse
+48 "Purified Complex" ellipse
+49 "phenotype assays" ellipse
+50 "heterozygous diploid" ellipse
+51 "homozygous diploid" ellipse
+52 "dominant negative" ellipse
+53 "homozygous diploid" ellipse
+54 "heterozygous diploid" ellipse
+55 "homozygous diploid, large-scale survey" ellipse
+56 "heterozygous diploid, large-scale survey" ellipse
+57 "homozygous diploid, competitive growth" ellipse
+58 "heterozygous diploid, competitive growth" ellipse
+59 "systematic mutation set" ellipse
+60 "homozygous diploid, systematic mutation set" ellipse
+61 "heterozygous diploid, systematic mutation set" ellipse
+62 "PCA" ellipse
+63 "Synthetic Haploinsufficiency" ellipse
+64 "haploid, classical genetics" ellipse
+65 "haploid, competitive growth" ellipse
+66 "haploid, large-scale survey" ellipse
+67 "aneuploid, classical genetics" ellipse
+68 "aneuploid, large-scale survey" ellipse
+69 "aneuploid, competitive growth" ellipse
+70 "haploid, systematic mutation set" ellipse
+71 "aneuploid, systematic mutation set" ellipse
+72 "heterozygous diploid, classical genetics" ellipse
+73 "homozygous diploid, classical genetics" ellipse
+74 "Affinity Capture-Luminescence" ellipse
+75 "Negative Genetic" ellipse
+76 "Positive Genetic" ellipse
+77 "unknown ploidy, classical genetics" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1000000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1000000 l "isa"
+6 1 0.2500000 l "isa"
+1 6 0.1000000 l "isa"
+7 1 0.5000000 l "isa"
+1 7 0.1000000 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.1000000 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.1000000 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.1000000 l "isa"
+13 49 0.0769231 l "isa"
+49 13 0.3333333 l "isa"
+14 15 0.1111111 l "isa"
+15 14 0.0909091 l "isa"
+15 49 0.0909091 l "isa"
+49 15 0.3333333 l "isa"
+19 44 0.5000000 l "isa"
+44 19 0.0454545 l "isa"
+20 44 0.5000000 l "isa"
+44 20 0.0454545 l "isa"
+21 11 0.2000000 l "isa"
+11 21 0.5000000 l "isa"
+22 44 1.0000000 l "isa"
+44 22 0.0454545 l "isa"
+23 44 1.0000000 l "isa"
+44 23 0.0454545 l "isa"
+24 44 1.0000000 l "isa"
+44 24 0.0454545 l "isa"
+25 44 1.0000000 l "isa"
+44 25 0.0454545 l "isa"
+26 44 1.0000000 l "isa"
+44 26 0.0454545 l "isa"
+27 44 1.0000000 l "isa"
+44 27 0.0454545 l "isa"
+28 43 1.0000000 l "isa"
+43 28 0.0714286 l "isa"
+29 43 1.0000000 l "isa"
+43 29 0.0714286 l "isa"
+30 43 1.0000000 l "isa"
+43 30 0.0714286 l "isa"
+31 43 1.0000000 l "isa"
+43 31 0.0714286 l "isa"
+32 44 1.0000000 l "isa"
+44 32 0.0454545 l "isa"
+33 44 1.0000000 l "isa"
+44 33 0.0454545 l "isa"
+34 43 1.0000000 l "isa"
+43 34 0.0714286 l "isa"
+35 43 1.0000000 l "isa"
+43 35 0.0714286 l "isa"
+36 44 1.0000000 l "isa"
+44 36 0.0454545 l "isa"
+37 44 1.0000000 l "isa"
+44 37 0.0454545 l "isa"
+38 44 1.0000000 l "isa"
+44 38 0.0454545 l "isa"
+39 43 1.0000000 l "isa"
+43 39 0.0714286 l "isa"
+40 43 1.0000000 l "isa"
+43 40 0.0714286 l "isa"
+41 43 1.0000000 l "isa"
+43 41 0.0714286 l "isa"
+42 44 1.0000000 l "isa"
+44 42 0.0454545 l "isa"
+43 21 0.1428571 l "isa"
+21 43 0.4000000 l "isa"
+44 21 0.0909091 l "isa"
+21 44 0.4000000 l "isa"
+45 44 1.0000000 l "isa"
+44 45 0.0454545 l "isa"
+46 44 1.0000000 l "isa"
+44 46 0.0454545 l "isa"
+47 44 1.0000000 l "isa"
+44 47 0.0454545 l "isa"
+48 44 1.0000000 l "isa"
+44 48 0.0454545 l "isa"
+49 11 0.3333333 l "isa"
+11 49 0.5000000 l "isa"
+52 1 1.0000000 l "isa"
+1 52 0.1000000 l "isa"
+53 13 0.1250000 l "isa"
+13 53 0.0769231 l "isa"
+54 13 0.1250000 l "isa"
+13 54 0.0769231 l "isa"
+55 15 0.5000000 l "isa"
+15 55 0.1818182 l "isa"
+56 15 0.5000000 l "isa"
+15 56 0.1818182 l "isa"
+57 14 0.5000000 l "isa"
+14 57 0.2222222 l "isa"
+58 14 0.5000000 l "isa"
+14 58 0.2222222 l "isa"
+59 15 0.1111111 l "isa"
+15 59 0.0909091 l "isa"
+60 59 0.5000000 l "isa"
+59 60 0.2222222 l "isa"
+61 59 0.5000000 l "isa"
+59 61 0.2222222 l "isa"
+62 44 1.0000000 l "isa"
+44 62 0.0454545 l "isa"
+63 43 1.0000000 l "isa"
+43 63 0.0714286 l "isa"
+64 13 1.0000000 l "isa"
+13 64 0.1538462 l "isa"
+65 14 1.0000000 l "isa"
+14 65 0.2222222 l "isa"
+66 15 1.0000000 l "isa"
+15 66 0.1818182 l "isa"
+67 13 1.0000000 l "isa"
+13 67 0.1538462 l "isa"
+68 15 1.0000000 l "isa"
+15 68 0.1818182 l "isa"
+69 14 1.0000000 l "isa"
+14 69 0.2222222 l "isa"
+70 59 1.0000000 l "isa"
+59 70 0.2222222 l "isa"
+71 59 1.0000000 l "isa"
+59 71 0.2222222 l "isa"
+72 13 0.5000000 l "isa"
+13 72 0.1538462 l "isa"
+73 13 0.5000000 l "isa"
+13 73 0.1538462 l "isa"
+74 44 1.0000000 l "isa"
+44 74 0.0454545 l "isa"
+75 43 1.0000000 l "isa"
+43 75 0.0714286 l "isa"
+76 43 1.0000000 l "isa"
+43 76 0.0714286 l "isa"
+77 13 1.0000000 l "isa"
+13 77 0.1538462 l "isa"
+6 12 0.2500000 l "substring"
+12 6 1.0000000 l "substring"
+6 17 0.2500000 l "substring"
+17 6 0.3333333 l "substring"
+6 18 0.2500000 l "substring"
+18 6 0.3333333 l "substring"
+7 16 0.5000000 l "substring"
+16 7 1.0000000 l "substring"
+13 64 0.1538462 l "substring"
+64 13 1.0000000 l "substring"
+13 67 0.1538462 l "substring"
+67 13 1.0000000 l "substring"
+13 72 0.1538462 l "substring"
+72 13 0.5000000 l "substring"
+13 73 0.1538462 l "substring"
+73 13 0.5000000 l "substring"
+13 77 0.1538462 l "substring"
+77 13 1.0000000 l "substring"
+14 57 0.2222222 l "substring"
+57 14 0.5000000 l "substring"
+14 58 0.2222222 l "substring"
+58 14 0.5000000 l "substring"
+14 65 0.2222222 l "substring"
+65 14 1.0000000 l "substring"
+14 69 0.2222222 l "substring"
+69 14 1.0000000 l "substring"
+15 55 0.1818182 l "substring"
+55 15 0.5000000 l "substring"
+15 56 0.1818182 l "substring"
+56 15 0.5000000 l "substring"
+15 66 0.1818182 l "substring"
+66 15 1.0000000 l "substring"
+15 68 0.1818182 l "substring"
+68 15 1.0000000 l "substring"
+17 51 0.3333333 l "substring"
+51 17 0.1428571 l "substring"
+17 53 0.3333333 l "substring"
+53 17 0.1250000 l "substring"
+18 50 0.3333333 l "substring"
+50 18 0.1428571 l "substring"
+18 54 0.3333333 l "substring"
+54 18 0.1250000 l "substring"
+21 43 0.4000000 l "substring"
+43 21 0.1428571 l "substring"
+21 44 0.4000000 l "substring"
+44 21 0.0909091 l "substring"
+50 54 0.2857143 l "substring"
+54 50 0.2500000 l "substring"
+50 56 0.1428571 l "substring"
+56 50 0.2500000 l "substring"
+50 58 0.1428571 l "substring"
+58 50 0.2500000 l "substring"
+50 61 0.1428571 l "substring"
+61 50 0.2500000 l "substring"
+50 72 0.1428571 l "substring"
+72 50 0.2500000 l "substring"
+51 53 0.2857143 l "substring"
+53 51 0.2500000 l "substring"
+51 55 0.1428571 l "substring"
+55 51 0.2500000 l "substring"
+51 57 0.1428571 l "substring"
+57 51 0.2500000 l "substring"
+51 60 0.1428571 l "substring"
+60 51 0.2500000 l "substring"
+51 73 0.1428571 l "substring"
+73 51 0.2500000 l "substring"
+53 55 0.1250000 l "substring"
+55 53 0.2500000 l "substring"
+53 57 0.1250000 l "substring"
+57 53 0.2500000 l "substring"
+53 60 0.1250000 l "substring"
+60 53 0.2500000 l "substring"
+53 73 0.1250000 l "substring"
+73 53 0.2500000 l "substring"
+54 56 0.1250000 l "substring"
+56 54 0.2500000 l "substring"
+54 58 0.1250000 l "substring"
+58 54 0.2500000 l "substring"
+54 61 0.1250000 l "substring"
+61 54 0.2500000 l "substring"
+54 72 0.1250000 l "substring"
+72 54 0.2500000 l "substring"
+59 60 0.2222222 l "substring"
+60 59 0.5000000 l "substring"
+59 61 0.2222222 l "substring"
+61 59 0.5000000 l "substring"
+59 70 0.2222222 l "substring"
+70 59 1.0000000 l "substring"
+59 71 0.2222222 l "substring"
+71 59 1.0000000 l "substring"
+19 20 0.5000000 l "distance"
+20 19 0.5000000 l "distance"
+50 54 0.2857143 l "distance"
+54 50 0.2500000 l "distance"
+51 53 0.2857143 l "distance"
+53 51 0.2500000 l "distance"
+*Edges

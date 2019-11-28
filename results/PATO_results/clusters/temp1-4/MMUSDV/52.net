@@ -1,0 +1,9 @@
+*Vertices 2
+1 "human-skin" ellipse
+2 "human-urine" ellipse
+*Arcs
+1 2 0.2112200 l "distance"
+2 1 0.1786362 l "distance"
+1 2 0.2112200 l "distance"
+2 1 0.1786362 l "distance"
+*Edges

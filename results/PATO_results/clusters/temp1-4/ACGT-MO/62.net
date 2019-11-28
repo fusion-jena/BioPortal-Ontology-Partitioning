@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Abnormal" ellipse
+2 "Normal" ellipse
+*Arcs
+1 2 0.6666667 l "substring"
+2 1 0.2222222 l "substring"
+1 2 0.6666667 l "distance"
+2 1 0.2222222 l "distance"
+*Edges

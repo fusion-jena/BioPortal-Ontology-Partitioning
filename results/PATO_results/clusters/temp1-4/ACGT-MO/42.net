@@ -1,0 +1,35 @@
+*Vertices 6
+1 "CardioToxicity" ellipse
+2 "Hematotoxicity" ellipse
+3 "HepatoToxicity" ellipse
+4 "Nephrotoxicity" ellipse
+5 "Ototoxicity" ellipse
+6 "Toxicity" ellipse
+*Arcs
+1 6 0.6666667 l "isa"
+6 1 0.0571429 l "isa"
+2 6 0.6666667 l "isa"
+6 2 0.0571429 l "isa"
+3 6 0.5000000 l "isa"
+6 3 0.0571429 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.0571429 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.0857143 l "isa"
+1 6 0.6666667 l "substring"
+6 1 0.0571429 l "substring"
+2 6 0.6666667 l "substring"
+6 2 0.0571429 l "substring"
+3 6 0.5000000 l "substring"
+6 3 0.0571429 l "substring"
+4 6 0.5000000 l "substring"
+6 4 0.0571429 l "substring"
+5 6 1.0000000 l "substring"
+6 5 0.0857143 l "substring"
+2 3 0.3333333 l "distance"
+3 2 0.2500000 l "distance"
+3 4 0.2500000 l "distance"
+4 3 0.2500000 l "distance"
+5 6 1.0000000 l "distance"
+6 5 0.0857143 l "distance"
+*Edges

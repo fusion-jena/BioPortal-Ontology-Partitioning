@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Neuroinformatics" ellipse
+2 "Neuroscience" ellipse
+*Arcs
+1 2 0.1157360 l "isa"
+2 1 0.1157538 l "isa"
+1 2 0.1157360 l "isa"
+2 1 0.1157538 l "isa"
+*Edges

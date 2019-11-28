@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Rarely_or_never_responds_to_the_approach_of_even_a_familiar_child" ellipse
+2 "respch_Rarely_or_never_responds_to_the_approach_of_even_a_familiar_child"
+*Arcs
+1 2 0.2217265 l "substring"
+2 1 0.1913438 l "substring"
+1 2 0.2217265 l "substring"
+2 1 0.1913438 l "substring"
+1 2 0.2217265 l "substring"
+2 1 0.1913438 l "substring"
+*Edges

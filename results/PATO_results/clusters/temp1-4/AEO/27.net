@@ -1,0 +1,15 @@
+*Vertices 4
+1 "body" ellipse
+2 "body cavity" ellipse
+3 "enclosed anatomical space" ellipse
+4 "anatomical space" ellipse
+*Arcs
+2 4 0.5000000 l "isa"
+4 2 0.1000000 l "isa"
+3 4 0.4000000 l "isa"
+4 3 0.2000000 l "isa"
+1 2 0.0270270 l "substring"
+2 1 0.5000000 l "substring"
+3 4 0.4000000 l "substring"
+4 3 0.2000000 l "substring"
+*Edges

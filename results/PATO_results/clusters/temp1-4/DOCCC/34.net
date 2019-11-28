@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Cardiac" ellipse
+2 "Cardiac_Output_Alteration" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.1818182 l "isa"
+1 2 0.1818182 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

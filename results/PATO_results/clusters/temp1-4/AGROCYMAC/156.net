@@ -1,0 +1,13 @@
+*Vertices 2
+1 "sulfonium compound" ellipse
+2 "sulfonium" ellipse
+*Arcs
+2 1 0.2883147 l "isa"
+1 2 0.5348461 l "isa"
+1 2 0.5348461 l "substring"
+2 1 0.2883147 l "substring"
+2 1 0.2883147 l "isa"
+1 2 0.5348461 l "isa"
+1 2 0.5348461 l "substring"
+2 1 0.2883147 l "substring"
+*Edges

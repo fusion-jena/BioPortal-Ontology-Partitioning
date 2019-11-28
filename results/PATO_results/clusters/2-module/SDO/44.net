@@ -1,0 +1,12 @@
+*Vertices 3
+1 "biological life" ellipse
+2 "living organism" ellipse
+3 "organism process" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.1000000 l "isa"
+2 1 0.1111111 l "definition"
+1 2 0.5000000 l "definition"
+3 2 0.1000000 l "definition"
+2 3 0.1111111 l "definition"
+*Edges

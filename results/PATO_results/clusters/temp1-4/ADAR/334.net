@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Prothesis" ellipse
+2 "ProthesisObject" ellipse
+3 "VenaCavaProthesisObject" ellipse
+*Arcs
+3 2 0.4576320 l "isa"
+2 3 0.4062857 l "isa"
+1 2 0.1831167 l "substring"
+2 1 0.1378410 l "substring"
+1 3 0.1880129 l "substring"
+3 1 0.1594128 l "substring"
+2 3 0.4062857 l "substring"
+3 2 0.4576320 l "substring"
+3 2 0.4576320 l "isa"
+2 3 0.4062857 l "isa"
+1 2 0.1831167 l "substring"
+2 1 0.1378410 l "substring"
+1 3 0.1880129 l "substring"
+3 1 0.1594128 l "substring"
+2 3 0.4062857 l "substring"
+3 2 0.4576320 l "substring"
+3 2 0.4576320 l "isa"
+2 3 0.4062857 l "isa"
+1 2 0.1831167 l "substring"
+2 1 0.1378410 l "substring"
+1 3 0.1880129 l "substring"
+3 1 0.1594128 l "substring"
+2 3 0.4062857 l "substring"
+3 2 0.4576320 l "substring"
+3 2 0.4576320 l "isa"
+2 3 0.4062857 l "isa"
+1 2 0.1831167 l "substring"
+2 1 0.1378410 l "substring"
+1 3 0.1880129 l "substring"
+3 1 0.1594128 l "substring"
+2 3 0.4062857 l "substring"
+3 2 0.4576320 l "substring"
+*Edges

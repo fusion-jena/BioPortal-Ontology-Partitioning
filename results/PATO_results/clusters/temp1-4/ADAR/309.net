@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Iliopsoas" ellipse
+2 "OrganCluster" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3601237 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3601237 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3601237 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.3601237 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Event" ellipse
+2 "Text" ellipse
+*Arcs
+1 2 0.1492545 l "distance"
+2 1 0.0891685 l "distance"
+1 2 0.1492545 l "distance"
+2 1 0.0891685 l "distance"
+*Edges

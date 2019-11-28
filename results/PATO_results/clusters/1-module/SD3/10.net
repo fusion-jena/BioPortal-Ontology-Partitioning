@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Displayed vital signs deviation-during scenario" ellipse
+2 "Simulated patient deviation-during scenario" ellipse
+3 "Simulated patient physical signs or findings deviation-during scenario" ellipse
+4 "Simulated patient responds to intervention incorrectly-during scenario" ellipse
+5 "Simulated patient response to intervention at incorrect time-during scenario" ellipse
+6 "Simulated patient response to intervention deviation-during scenario" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2500000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.3333333 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.3333333 l "isa"
+6 2 0.3333333 l "isa"
+2 6 0.2500000 l "isa"
+*Edges

@@ -1,0 +1,40 @@
+*Vertices 13
+1 "Argentine Merino" ellipse
+2 "Arles Merino" ellipse
+3 "Booroola Merino" ellipse
+4 "Delaine Merino" ellipse
+5 "Fonthill Merino" ellipse
+6 "German Mutton Merino" ellipse
+7 "Medium-Wool Merino" ellipse
+8 "Merinolandschaf" ellipse
+9 "Poll Merino" ellipse
+10 "South African Merino" ellipse
+11 "South African Mutton Merino" ellipse
+12 "Strong Wool Merino" ellipse
+13 "Merino type" ellipse
+*Arcs
+1 13 1.0000000 l "isa"
+13 1 0.0714286 l "isa"
+2 13 1.0000000 l "isa"
+13 2 0.0714286 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.0714286 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.0714286 l "isa"
+5 13 1.0000000 l "isa"
+13 5 0.0714286 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.0714286 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.0714286 l "isa"
+8 13 1.0000000 l "isa"
+13 8 0.0714286 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.0714286 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.0714286 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.0714286 l "isa"
+12 13 1.0000000 l "isa"
+13 12 0.0714286 l "isa"
+*Edges

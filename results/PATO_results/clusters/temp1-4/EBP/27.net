@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Business Analytics" ellipse
+2 "Marketing Analytics" ellipse
+*Arcs
+2 1 0.1498559 l "isa"
+1 2 0.1317165 l "isa"
+2 1 0.1498559 l "isa"
+1 2 0.1317165 l "isa"
+*Edges

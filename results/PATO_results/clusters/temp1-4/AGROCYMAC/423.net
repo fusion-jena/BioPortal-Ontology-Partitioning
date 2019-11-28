@@ -1,0 +1,23 @@
+*Vertices 4
+1 "inorganic acid" ellipse
+2 "hydrogen halide" ellipse
+3 "hydracid" ellipse
+4 "organic acid" ellipse
+*Arcs
+2 3 0.1471271 l "isa"
+3 2 0.1296394 l "isa"
+2 1 0.1462260 l "definition"
+1 2 0.1099944 l "definition"
+1 4 0.2447762 l "substring"
+4 1 0.3119062 l "substring"
+1 4 0.2447762 l "distance"
+4 1 0.3119062 l "distance"
+2 3 0.1471271 l "isa"
+3 2 0.1296394 l "isa"
+2 1 0.1462260 l "definition"
+1 2 0.1099944 l "definition"
+1 4 0.2447762 l "substring"
+4 1 0.3119062 l "substring"
+1 4 0.2447762 l "distance"
+4 1 0.3119062 l "distance"
+*Edges

@@ -1,0 +1,78 @@
+*Vertices 19
+1 "prophage DNA integration" ellipse
+2 "prophage DNA excision" ellipse
+3 "DNA recombination" ellipse
+4 "homologous DNA recombination" ellipse
+5 "site-specific DNA recombination" ellipse
+6 "site-specific DNA integration" ellipse
+7 "DNA integration" ellipse
+8 "site-specific DNA excision" ellipse
+9 "replicative transpositional recombination" ellipse
+10 "transpositional DNA recombination" ellipse
+11 "conservative transpositional recombination" ellipse
+12 "recombinational repair" ellipse
+13 "rolling circle transposition" ellipse
+14 "DNA excision" ellipse
+15 "generalized transduction" ellipse
+16 "specialized transduction" ellipse
+17 "transduction" ellipse
+18 "DNA inversion" ellipse
+19 "site-specific DNA inversion" ellipse
+*Arcs
+1 6 0.1666667 l "isa"
+6 1 0.2500000 l "isa"
+2 8 0.1666667 l "isa"
+8 2 0.2500000 l "isa"
+4 3 0.6666667 l "isa"
+3 4 0.1818182 l "isa"
+5 3 0.4000000 l "isa"
+3 5 0.1818182 l "isa"
+6 5 0.2500000 l "isa"
+5 6 0.2000000 l "isa"
+7 3 0.3333333 l "isa"
+3 7 0.0909091 l "isa"
+8 5 0.2500000 l "isa"
+5 8 0.2000000 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.1666667 l "isa"
+10 3 0.3333333 l "isa"
+3 10 0.1818182 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.1666667 l "isa"
+12 3 1.0000000 l "isa"
+3 12 0.0909091 l "isa"
+13 10 1.0000000 l "isa"
+10 13 0.1666667 l "isa"
+14 3 0.3333333 l "isa"
+3 14 0.0909091 l "isa"
+15 17 1.0000000 l "isa"
+17 15 0.3333333 l "isa"
+16 17 1.0000000 l "isa"
+17 16 0.3333333 l "isa"
+17 4 0.1666667 l "isa"
+4 17 0.3333333 l "isa"
+18 3 0.5000000 l "isa"
+3 18 0.0909091 l "isa"
+19 5 0.5000000 l "isa"
+5 19 0.2000000 l "isa"
+1 7 0.1666667 l "substring"
+7 1 0.3333333 l "substring"
+2 14 0.1666667 l "substring"
+14 2 0.3333333 l "substring"
+3 4 0.1818182 l "substring"
+4 3 0.6666667 l "substring"
+3 5 0.1818182 l "substring"
+5 3 0.4000000 l "substring"
+3 10 0.1818182 l "substring"
+10 3 0.3333333 l "substring"
+6 7 0.2500000 l "substring"
+7 6 0.3333333 l "substring"
+8 14 0.2500000 l "substring"
+14 8 0.3333333 l "substring"
+15 17 1.0000000 l "substring"
+17 15 0.3333333 l "substring"
+16 17 1.0000000 l "substring"
+17 16 0.3333333 l "substring"
+18 19 0.5000000 l "substring"
+19 18 0.5000000 l "substring"
+*Edges

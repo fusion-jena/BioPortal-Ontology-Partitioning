@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Homicide" ellipse
+2 "Serial_Homicide" ellipse
+*Arcs
+1 2 0.3612544 l "substring"
+2 1 0.5302847 l "substring"
+1 2 0.3612544 l "substring"
+2 1 0.5302847 l "substring"
+*Edges

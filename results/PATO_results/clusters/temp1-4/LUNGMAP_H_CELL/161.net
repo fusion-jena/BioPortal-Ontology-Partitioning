@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Dulong" ellipse
+2 "Duolang" ellipse
+*Arcs
+1 2 0.1252570 l "distance"
+2 1 0.2595309 l "distance"
+1 2 0.1252570 l "distance"
+2 1 0.2595309 l "distance"
+1 2 0.1252570 l "distance"
+2 1 0.2595309 l "distance"
+1 2 0.1252570 l "distance"
+2 1 0.2595309 l "distance"
+*Edges

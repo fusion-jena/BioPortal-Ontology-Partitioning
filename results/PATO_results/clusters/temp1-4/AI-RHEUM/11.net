@@ -1,0 +1,9 @@
+*Vertices 2
+1 "TAK" ellipse
+2 "TAKYA" ellipse
+*Arcs
+1 2 0.0079051 l "substring"
+2 1 0.1250000 l "substring"
+1 2 0.0079051 l "distance"
+2 1 0.1250000 l "distance"
+*Edges

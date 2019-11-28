@@ -1,0 +1,53 @@
+*Vertices 10
+1 "procedure specification" ellipse
+2 "function specification" ellipse
+3 "sequential procedure specification" ellipse
+4 "specification" ellipse
+5 "method function specification" ellipse
+6 "capability specification" ellipse
+7 "result specification" ellipse
+8 "participant specification" ellipse
+9 "objective specification" ellipse
+10 "data format specification" ellipse
+*Arcs
+1 4 0.4000000 l "isa"
+4 1 0.0540541 l "isa"
+2 8 0.1428571 l "isa"
+8 2 0.1428571 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.4000000 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.2857143 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.1428571 l "isa"
+7 8 0.5000000 l "isa"
+8 7 0.1428571 l "isa"
+8 4 0.2857143 l "isa"
+4 8 0.0540541 l "isa"
+9 4 0.6666667 l "isa"
+4 9 0.0540541 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.0540541 l "isa"
+1 3 0.4000000 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.4000000 l "substring"
+4 1 0.0540541 l "substring"
+2 4 0.1428571 l "substring"
+4 2 0.0270270 l "substring"
+2 5 0.2857143 l "substring"
+5 2 0.5000000 l "substring"
+3 4 0.1666667 l "substring"
+4 3 0.0270270 l "substring"
+4 5 0.0270270 l "substring"
+5 4 0.2500000 l "substring"
+4 6 0.0270270 l "substring"
+6 4 0.5000000 l "substring"
+4 7 0.0270270 l "substring"
+7 4 0.5000000 l "substring"
+4 8 0.0540541 l "substring"
+8 4 0.2857143 l "substring"
+4 9 0.0540541 l "substring"
+9 4 0.6666667 l "substring"
+4 10 0.0540541 l "substring"
+10 4 1.0000000 l "substring"
+*Edges

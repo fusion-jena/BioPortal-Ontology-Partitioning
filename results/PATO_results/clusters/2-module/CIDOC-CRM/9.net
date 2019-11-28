@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Spacetime Volume" ellipse
+2 "Presence" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2000000 l "isa"
+1 1 0.4000000 l "está contido em"
+1 1 0.4000000 l "está contido em"
+1 1 0.4000000 l "contains"
+1 1 0.4000000 l "contains"
+1 1 0.4000000 l "chevauche"
+1 1 0.4000000 l "chevauche"
+1 1 0.4000000 l "est séparée de"
+1 1 0.4000000 l "est séparée de"
+2 1 0.5000000 l "was a presence of"
+1 2 0.2000000 l "was a presence of"
+1 2 0.2000000 l "had presence"
+2 1 0.5000000 l "had presence"
+2 1 0.5000000 l "was place of"
+1 2 0.2000000 l "was place of"
+*Edges

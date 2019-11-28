@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Culture_Bound_Syndromes" ellipse
+2 "Organic_Brain_Syndromes" ellipse
+3 "Syndromes" ellipse
+*Arcs
+1 3 0.2901739 l "substring"
+3 1 0.2759206 l "substring"
+2 3 0.2105192 l "substring"
+3 2 0.2759271 l "substring"
+1 3 0.2901739 l "substring"
+3 1 0.2759206 l "substring"
+2 3 0.2105192 l "substring"
+3 2 0.2759271 l "substring"
+1 3 0.2901739 l "substring"
+3 1 0.2759206 l "substring"
+2 3 0.2105192 l "substring"
+3 2 0.2759271 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "producing" ellipse
+2 "producing energy" ellipse
+*Arcs
+2 1 0.4393274 l "isa"
+1 2 0.1295343 l "isa"
+1 2 0.1295343 l "substring"
+2 1 0.4393274 l "substring"
+2 1 0.4393274 l "isa"
+1 2 0.1295343 l "isa"
+1 2 0.1295343 l "substring"
+2 1 0.4393274 l "substring"
+*Edges

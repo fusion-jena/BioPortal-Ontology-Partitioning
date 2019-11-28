@@ -1,0 +1,17 @@
+*Vertices 2
+1 "CoagulationDisorder" ellipse
+2 "HemolymphoidSystemSymptom" ellipse
+*Arcs
+1 2 0.2760403 l "isa"
+2 1 0.3135480 l "isa"
+1 2 0.2760403 l "isa"
+2 1 0.3135480 l "isa"
+1 2 0.2760403 l "isa"
+2 1 0.3135480 l "isa"
+1 2 0.2760403 l "isa"
+2 1 0.3135480 l "isa"
+1 2 0.2760403 l "isa"
+2 1 0.3135480 l "isa"
+1 2 0.2760403 l "isa"
+2 1 0.3135480 l "isa"
+*Edges

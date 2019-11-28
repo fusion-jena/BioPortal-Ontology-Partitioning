@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Afecciones" ellipse
+2 "Enfermedades" ellipse
+3 "Malezas" ellipse
+4 "Plagas" ellipse
+*Arcs
+2 1 0.1034390 l "isa"
+1 2 0.3344687 l "isa"
+3 1 0.0888884 l "isa"
+1 3 0.3310628 l "isa"
+4 1 0.0964851 l "isa"
+1 4 0.3344687 l "isa"
+2 1 0.1034390 l "isa"
+1 2 0.3344687 l "isa"
+3 1 0.0888884 l "isa"
+1 3 0.3310628 l "isa"
+4 1 0.0964851 l "isa"
+1 4 0.3344687 l "isa"
+2 1 0.1034390 l "isa"
+1 2 0.3344687 l "isa"
+3 1 0.0888884 l "isa"
+1 3 0.3310628 l "isa"
+4 1 0.0964851 l "isa"
+1 4 0.3344687 l "isa"
+*Edges

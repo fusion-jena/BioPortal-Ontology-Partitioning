@@ -1,0 +1,23 @@
+*Vertices 4
+1 "NUP54" ellipse
+2 "NUP62" ellipse
+3 "NUPL1" ellipse
+4 "TP53" ellipse
+*Arcs
+1 2 0.1290583 l "distance"
+2 1 0.1044687 l "distance"
+1 3 0.1263107 l "distance"
+3 1 0.0549056 l "distance"
+1 4 0.1261581 l "distance"
+4 1 0.0522526 l "distance"
+2 3 0.1010709 l "distance"
+3 2 0.0542753 l "distance"
+1 2 0.1290583 l "distance"
+2 1 0.1044687 l "distance"
+1 3 0.1263107 l "distance"
+3 1 0.0549056 l "distance"
+1 4 0.1261581 l "distance"
+4 1 0.0522526 l "distance"
+2 3 0.1010709 l "distance"
+3 2 0.0542753 l "distance"
+*Edges

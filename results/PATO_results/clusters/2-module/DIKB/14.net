@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Evidence_Type" ellipse
+2 "Study_Designs"
+*Arcs
+1 2 0.0714286 l "has_study_design"
+2 1 1.0000000 l "has_study_design"
+*Edges

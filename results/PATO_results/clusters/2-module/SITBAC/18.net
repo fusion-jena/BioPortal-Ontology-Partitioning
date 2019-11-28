@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Dietitian" ellipse
+2 "Health_ParaMedcial_Professional" ellipse
+3 "Ordinary_HPP" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1666667 l "isa"
+2 3 0.1666667 l "definition"
+3 2 0.2500000 l "definition"
+2 1 0.1666667 l "definition"
+1 2 0.6666667 l "definition"
+3 1 0.1250000 l "definition"
+1 3 0.3333333 l "definition"
+3 2 0.2500000 l "definition"
+2 3 0.1666667 l "definition"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "AdiposeTissue" ellipse
+2 "PerirenalAdiposeTissue" ellipse
+3 "PortionOfTissue" ellipse
+*Arcs
+1 3 0.2324111 l "isa"
+3 1 0.2688026 l "isa"
+2 1 0.5709619 l "isa"
+1 2 0.5577866 l "isa"
+1 2 0.5577866 l "substring"
+2 1 0.5709619 l "substring"
+1 3 0.2324111 l "isa"
+3 1 0.2688026 l "isa"
+2 1 0.5709619 l "isa"
+1 2 0.5577866 l "isa"
+1 2 0.5577866 l "substring"
+2 1 0.5709619 l "substring"
+*Edges

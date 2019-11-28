@@ -1,0 +1,84 @@
+*Vertices 13
+1 "pH" ellipse
+2 "ammonium hydroxide" ellipse
+3 "nutrient" ellipse
+4 "acid" ellipse
+5 "Bronsted acid" ellipse
+6 "physiological role" ellipse
+7 "food additive" ellipse
+8 "food acidity regulator" ellipse
+9 "flour treatment agent" ellipse
+10 "food packaging gas" ellipse
+11 "food component" ellipse
+12 "medium acidity" ellipse
+13 "pH" ellipse
+*Arcs
+3 11 0.1052655 l "isa"
+11 3 0.3291996 l "isa"
+5 4 0.2919602 l "isa"
+4 5 0.0276158 l "isa"
+7 11 0.1728111 l "isa"
+11 7 0.3382187 l "isa"
+8 7 0.3422704 l "isa"
+7 8 0.1728111 l "isa"
+9 7 0.2613562 l "isa"
+7 9 0.1670507 l "isa"
+10 7 0.2608798 l "isa"
+7 10 0.1670507 l "isa"
+11 6 0.3325818 l "isa"
+6 11 0.1407840 l "isa"
+12 1 0.3329403 l "isa"
+1 12 0.0049403 l "isa"
+2 8 0.1387654 l "definition"
+8 2 0.3365659 l "definition"
+13 12 0.0050964 l "definition"
+12 13 0.3329649 l "definition"
+1 6 0.0045000 l "substring"
+6 1 0.1219463 l "substring"
+1 13 0.0085288 l "substring"
+13 1 0.0087978 l "substring"
+4 5 0.0276158 l "substring"
+5 4 0.2919602 l "substring"
+4 8 0.0140177 l "substring"
+8 4 0.3211637 l "substring"
+4 12 0.0140177 l "substring"
+12 4 0.3340948 l "substring"
+6 13 0.1219561 l "substring"
+13 6 0.0046423 l "substring"
+1 13 0.0085288 l "distance"
+13 1 0.0087978 l "distance"
+3 11 0.1052655 l "isa"
+11 3 0.3291996 l "isa"
+5 4 0.2919602 l "isa"
+4 5 0.0276158 l "isa"
+7 11 0.1728111 l "isa"
+11 7 0.3382187 l "isa"
+8 7 0.3422704 l "isa"
+7 8 0.1728111 l "isa"
+9 7 0.2613562 l "isa"
+7 9 0.1670507 l "isa"
+10 7 0.2608798 l "isa"
+7 10 0.1670507 l "isa"
+11 6 0.3325818 l "isa"
+6 11 0.1407840 l "isa"
+12 1 0.3329403 l "isa"
+1 12 0.0049403 l "isa"
+2 8 0.1387654 l "definition"
+8 2 0.3365659 l "definition"
+13 12 0.0050964 l "definition"
+12 13 0.3329649 l "definition"
+1 6 0.0045000 l "substring"
+6 1 0.1219463 l "substring"
+1 13 0.0085288 l "substring"
+13 1 0.0087978 l "substring"
+4 5 0.0276158 l "substring"
+5 4 0.2919602 l "substring"
+4 8 0.0140177 l "substring"
+8 4 0.3211637 l "substring"
+4 12 0.0140177 l "substring"
+12 4 0.3340948 l "substring"
+6 13 0.1219561 l "substring"
+13 6 0.0046423 l "substring"
+1 13 0.0085288 l "distance"
+13 1 0.0087978 l "distance"
+*Edges

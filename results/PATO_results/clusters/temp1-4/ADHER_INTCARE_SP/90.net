@@ -1,0 +1,55 @@
+*Vertices 12
+1 "Components" ellipse
+2 "D_Document" ellipse
+3 "E_Coordinate" ellipse
+4 "F_Support" ellipse
+5 "G_Review" ellipse
+6 "Personalised_action_plan" ellipse
+7 "Componentes" ellipse
+8 "D_Documentar" ellipse
+9 "E_Coordinar" ellipse
+10 "F_Soporte" ellipse
+11 "G_Revision" ellipse
+12 "Plan_Accion_Personalizado" ellipse
+*Arcs
+1 6 0.1266892 l "isa"
+6 1 1.0000000 l "isa"
+2 1 0.4385965 l "isa"
+1 2 0.1266892 l "isa"
+3 1 0.6097561 l "isa"
+1 3 0.1266892 l "isa"
+4 1 0.6097561 l "isa"
+1 4 0.1266892 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1266892 l "isa"
+1 6 0.1266892 l "isa"
+6 1 1.0000000 l "isa"
+2 1 0.4385965 l "isa"
+1 2 0.1266892 l "isa"
+3 1 0.6097561 l "isa"
+1 3 0.1266892 l "isa"
+4 1 0.6097561 l "isa"
+1 4 0.1266892 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1266892 l "isa"
+7 12 0.1111111 l "isa"
+12 7 1.0000000 l "isa"
+8 7 0.3333333 l "isa"
+7 8 0.1111111 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.1111111 l "isa"
+10 7 0.5000000 l "isa"
+7 10 0.1111111 l "isa"
+11 7 1.0000000 l "isa"
+7 11 0.1111111 l "isa"
+2 8 0.5614035 l "substring"
+8 2 0.6666667 l "substring"
+1 7 0.0810811 l "distance"
+7 1 0.1111111 l "distance"
+2 8 0.5614035 l "distance"
+8 2 0.6666667 l "distance"
+3 9 0.3902439 l "distance"
+9 3 0.5000000 l "distance"
+4 10 0.3902439 l "distance"
+10 4 0.5000000 l "distance"
+*Edges

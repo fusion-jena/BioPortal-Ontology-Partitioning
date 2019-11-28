@@ -1,0 +1,17 @@
+*Vertices 2
+1 "inferior lingular bronchus" ellipse
+2 "superior lingular bronchus" ellipse
+*Arcs
+1 2 0.1537878 l "distance"
+2 1 0.1537878 l "distance"
+1 2 0.1537878 l "distance"
+2 1 0.1537878 l "distance"
+1 2 0.1537878 l "distance"
+2 1 0.1537878 l "distance"
+1 2 0.1537878 l "distance"
+2 1 0.1537878 l "distance"
+1 2 0.1537878 l "distance"
+2 1 0.1537878 l "distance"
+1 2 0.1537878 l "distance"
+2 1 0.1537878 l "distance"
+*Edges

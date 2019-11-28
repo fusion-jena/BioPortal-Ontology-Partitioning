@@ -1,0 +1,9 @@
+*Vertices 2
+1 "illuminationAzimuthAngle"
+2 "azimuthAngle"
+*Arcs
+1 2 0.2682939 l "substring"
+2 1 0.2650668 l "substring"
+1 2 0.2682939 l "substring"
+2 1 0.2650668 l "substring"
+*Edges

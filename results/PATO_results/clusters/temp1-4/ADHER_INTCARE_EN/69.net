@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Integrated_Verbal_and_NonVerbal_Communication" ellipse
+2 "Language_Ability" ellipse
+3 "Reading_and_Writing" ellipse
+*Arcs
+1 2 0.2664612 l "isa"
+2 1 0.1140254 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1449475 l "isa"
+1 2 0.2664612 l "isa"
+2 1 0.1140254 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1449475 l "isa"
+*Edges

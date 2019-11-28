@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Alert" ellipse
+2 "Query" ellipse
+*Arcs
+1 2 0.1539747 l "distance"
+2 1 0.2544678 l "distance"
+1 2 0.1539747 l "distance"
+2 1 0.2544678 l "distance"
+*Edges

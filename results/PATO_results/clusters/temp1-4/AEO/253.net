@@ -1,0 +1,24 @@
+*Vertices 3
+1 "amitriptyline" ellipse
+2 "nortriptyline" ellipse
+3 "protriptyline" ellipse
+*Arcs
+1 2 0.1592708 l "distance"
+2 1 0.1799845 l "distance"
+1 3 0.1592708 l "distance"
+3 1 0.1799845 l "distance"
+2 3 0.1830639 l "distance"
+3 2 0.1830639 l "distance"
+1 2 0.1592708 l "distance"
+2 1 0.1799845 l "distance"
+1 3 0.1592708 l "distance"
+3 1 0.1799845 l "distance"
+2 3 0.1830639 l "distance"
+3 2 0.1830639 l "distance"
+1 2 0.1592708 l "distance"
+2 1 0.1799845 l "distance"
+1 3 0.1592708 l "distance"
+3 1 0.1799845 l "distance"
+2 3 0.1830639 l "distance"
+3 2 0.1830639 l "distance"
+*Edges

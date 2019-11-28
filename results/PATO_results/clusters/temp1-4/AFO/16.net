@@ -1,0 +1,61 @@
+*Vertices 16
+1 "fluorescence detector" ellipse
+2 "cylinder length" ellipse
+3 "focal length" ellipse
+4 "exact mass" ellipse
+5 "polarization" ellipse
+6 "mechanical quality" ellipse
+7 "strain" ellipse
+8 "shear stress" ellipse
+9 "normal strain" ellipse
+10 "shear strain" ellipse
+11 "fluorescence" ellipse
+12 "length" ellipse
+13 "mass" ellipse
+14 "mass density" ellipse
+15 "strength" ellipse
+16 "optical quality" ellipse
+*Arcs
+2 12 0.6666667 l "isa"
+12 2 0.1428571 l "isa"
+3 16 0.5000000 l "isa"
+16 3 0.1428571 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.0952381 l "isa"
+5 16 1.0000000 l "isa"
+16 5 0.1428571 l "isa"
+7 6 0.1000000 l "isa"
+6 7 0.0909091 l "isa"
+8 6 0.5000000 l "isa"
+6 8 0.0909091 l "isa"
+9 7 1.0000000 l "isa"
+7 9 0.2000000 l "isa"
+10 7 0.6666667 l "isa"
+7 10 0.2000000 l "isa"
+11 16 0.5000000 l "isa"
+16 11 0.1428571 l "isa"
+13 6 0.0476190 l "isa"
+6 13 0.0909091 l "isa"
+14 6 0.5000000 l "isa"
+6 14 0.0909091 l "isa"
+15 6 0.5000000 l "isa"
+6 15 0.0909091 l "isa"
+1 11 0.3333333 l "substring"
+11 1 0.5000000 l "substring"
+2 12 0.6666667 l "substring"
+12 2 0.1428571 l "substring"
+3 12 0.5000000 l "substring"
+12 3 0.0714286 l "substring"
+4 13 1.0000000 l "substring"
+13 4 0.0952381 l "substring"
+7 9 0.2000000 l "substring"
+9 7 1.0000000 l "substring"
+7 10 0.2000000 l "substring"
+10 7 0.6666667 l "substring"
+13 14 0.0476190 l "substring"
+14 13 0.5000000 l "substring"
+8 10 0.5000000 l "distance"
+10 8 0.3333333 l "distance"
+12 15 0.0714286 l "distance"
+15 12 0.5000000 l "distance"
+*Edges

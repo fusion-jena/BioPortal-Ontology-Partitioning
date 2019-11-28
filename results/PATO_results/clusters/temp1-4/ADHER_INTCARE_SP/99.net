@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Some_indication_of_spontaneous_imitation_that_goes_beyond_copying_a_frequent_use_of_an_object" ellipse
+2 "imit_Some_indication_of_spontaneous_imitation_that_goes_beyond_copying_a_frequent_use_of_an_object"
+*Arcs
+1 2 0.2812159 l "substring"
+2 1 0.2846741 l "substring"
+1 2 0.2812159 l "substring"
+2 1 0.2846741 l "substring"
+1 2 0.2812159 l "substring"
+2 1 0.2846741 l "substring"
+*Edges

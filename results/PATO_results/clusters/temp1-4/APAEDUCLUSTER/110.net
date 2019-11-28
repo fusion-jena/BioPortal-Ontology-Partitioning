@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Encephalopathies" ellipse
+2 "Toxic_Encephalopathies" ellipse
+*Arcs
+1 2 0.3630716 l "substring"
+2 1 0.3630716 l "substring"
+1 2 0.3630716 l "substring"
+2 1 0.3630716 l "substring"
+*Edges

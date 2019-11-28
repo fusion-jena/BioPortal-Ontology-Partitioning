@@ -1,0 +1,19 @@
+*Vertices 4
+1 "compound organ component" ellipse
+2 "compound organ" ellipse
+3 "cavitated compound organ" ellipse
+4 "solid compound organ" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.2000000 l "isa"
+1 2 0.2857143 l "definition"
+2 1 0.2000000 l "definition"
+1 2 0.2857143 l "substring"
+2 1 0.2000000 l "substring"
+2 3 0.2000000 l "substring"
+3 2 0.5000000 l "substring"
+2 4 0.2000000 l "substring"
+4 2 0.5000000 l "substring"
+*Edges

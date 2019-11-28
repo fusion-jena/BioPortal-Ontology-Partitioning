@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Holland" ellipse
+2 "North Holland Blue" ellipse
+*Arcs
+1 2 0.1305052 l "substring"
+2 1 0.5370322 l "substring"
+1 2 0.1305052 l "substring"
+2 1 0.5370322 l "substring"
+1 2 0.1305052 l "substring"
+2 1 0.5370322 l "substring"
+1 2 0.1305052 l "substring"
+2 1 0.5370322 l "substring"
+1 2 0.1305052 l "substring"
+2 1 0.5370322 l "substring"
+*Edges

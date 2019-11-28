@@ -1,0 +1,14 @@
+*Vertices 3
+1 "MaterialEntity" ellipse
+2 "Microbiota" ellipse
+3 "memberOfMiOrgMicrobiota"
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1000000 l "isa"
+3 2 0.4000000 l "definition"
+2 3 0.6666667 l "definition"
+3 3 0.4000000 l "definition"
+3 3 0.4000000 l "definition"
+2 3 0.6666667 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

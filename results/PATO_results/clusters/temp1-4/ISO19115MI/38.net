@@ -1,0 +1,17 @@
+*Vertices 2
+1 "EX_GeographicExtent" ellipse
+2 "boolean"
+*Arcs
+1 2 0.1990010 l "extentTypeCode"
+2 1 1.0000000 l "extentTypeCode"
+1 2 0.1990010 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.1990010 l "extentTypeCode"
+2 1 1.0000000 l "extentTypeCode"
+1 2 0.1990010 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.1990010 l "extentTypeCode"
+2 1 1.0000000 l "extentTypeCode"
+1 2 0.1990010 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

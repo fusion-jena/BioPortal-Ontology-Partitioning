@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Galanthamine" ellipse
+2 "galantamine" ellipse
+*Arcs
+1 2 0.1617021 l "distance"
+2 1 0.1613783 l "distance"
+1 2 0.1617021 l "distance"
+2 1 0.1613783 l "distance"
+1 2 0.1617021 l "distance"
+2 1 0.1613783 l "distance"
+*Edges

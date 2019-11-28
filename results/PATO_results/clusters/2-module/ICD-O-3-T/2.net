@@ -1,0 +1,88 @@
+*Vertices 17
+1 "GALLBLADDER" ellipse
+2 "Gallbladder" ellipse
+3 "TRACHEA" ellipse
+4 "Trachea" ellipse
+5 "URETER" ellipse
+6 "Ureter" ellipse
+7 "BLADDER" ellipse
+8 "Trigone of bladder" ellipse
+9 "Dome of bladder" ellipse
+10 "Lateral wall of bladder" ellipse
+11 "Anterior wall of bladder" ellipse
+12 "Posterior wall of bladder" ellipse
+13 "Bladder neck" ellipse
+14 "Ureteric orifice" ellipse
+15 "Urachus" ellipse
+16 "Overlapping lesion of bladder" ellipse
+17 "Bladder, NOS" ellipse
+*Arcs
+2 1 0.7500000 l "isa"
+1 2 0.6000000 l "isa"
+4 3 0.7500000 l "isa"
+3 4 0.6000000 l "isa"
+6 5 0.6000000 l "isa"
+5 6 0.5000000 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.0952381 l "isa"
+9 7 1.0000000 l "isa"
+7 9 0.0952381 l "isa"
+10 7 1.0000000 l "isa"
+7 10 0.0952381 l "isa"
+11 7 0.6666667 l "isa"
+7 11 0.0952381 l "isa"
+12 7 0.6666667 l "isa"
+7 12 0.0952381 l "isa"
+13 7 1.0000000 l "isa"
+7 13 0.0952381 l "isa"
+14 7 0.3333333 l "isa"
+7 14 0.0476190 l "isa"
+15 7 0.3333333 l "isa"
+7 15 0.0476190 l "isa"
+16 7 1.0000000 l "isa"
+7 16 0.0952381 l "isa"
+17 7 1.0000000 l "isa"
+7 17 0.0952381 l "isa"
+1 2 0.6000000 l "substring"
+2 1 0.7500000 l "substring"
+1 7 0.2000000 l "substring"
+7 1 0.0476190 l "substring"
+2 7 0.2500000 l "substring"
+7 2 0.0476190 l "substring"
+3 4 0.6000000 l "substring"
+4 3 0.7500000 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.6000000 l "substring"
+5 14 0.1666667 l "substring"
+14 5 0.3333333 l "substring"
+6 14 0.2000000 l "substring"
+14 6 0.3333333 l "substring"
+7 8 0.0952381 l "substring"
+8 7 1.0000000 l "substring"
+7 9 0.0952381 l "substring"
+9 7 1.0000000 l "substring"
+7 10 0.0952381 l "substring"
+10 7 1.0000000 l "substring"
+7 11 0.0952381 l "substring"
+11 7 0.6666667 l "substring"
+7 12 0.0952381 l "substring"
+12 7 0.6666667 l "substring"
+7 13 0.0952381 l "substring"
+13 7 1.0000000 l "substring"
+7 16 0.0952381 l "substring"
+16 7 1.0000000 l "substring"
+7 17 0.0952381 l "substring"
+17 7 1.0000000 l "substring"
+1 2 0.6000000 l "distance"
+2 1 0.7500000 l "distance"
+3 4 0.6000000 l "distance"
+4 3 0.7500000 l "distance"
+3 15 0.2000000 l "distance"
+15 3 0.3333333 l "distance"
+4 15 0.2500000 l "distance"
+15 4 0.3333333 l "distance"
+5 6 0.5000000 l "distance"
+6 5 0.6000000 l "distance"
+11 12 0.3333333 l "distance"
+12 11 0.3333333 l "distance"
+*Edges

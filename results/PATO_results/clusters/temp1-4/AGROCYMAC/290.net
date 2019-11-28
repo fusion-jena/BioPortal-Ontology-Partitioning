@@ -1,0 +1,9 @@
+*Vertices 2
+1 "carbamoyl group" ellipse
+2 "is_substituent_group_from"
+*Arcs
+1 2 0.1164717 l "definition"
+2 1 0.2041996 l "definition"
+1 2 0.1164717 l "definition"
+2 1 0.2041996 l "definition"
+*Edges

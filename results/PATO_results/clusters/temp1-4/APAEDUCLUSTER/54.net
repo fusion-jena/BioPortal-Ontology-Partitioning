@@ -1,0 +1,38 @@
+*Vertices 5
+1 "Artificial_Intelligence" ellipse
+2 "Automation" ellipse
+3 "Computer_Assisted_Design" ellipse
+4 "Cybernetics" ellipse
+5 "ComputerAutomation" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1525142 l "isa"
+2 5 0.7611381 l "isa"
+5 2 0.2922994 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1525142 l "isa"
+4 5 0.5930339 l "isa"
+5 4 0.1246417 l "isa"
+2 5 0.7611381 l "substring"
+5 2 0.2922994 l "substring"
+1 5 1.0000000 l "isa"
+5 1 0.1525142 l "isa"
+2 5 0.7611381 l "isa"
+5 2 0.2922994 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1525142 l "isa"
+4 5 0.5930339 l "isa"
+5 4 0.1246417 l "isa"
+2 5 0.7611381 l "substring"
+5 2 0.2922994 l "substring"
+1 5 1.0000000 l "isa"
+5 1 0.1525142 l "isa"
+2 5 0.7611381 l "isa"
+5 2 0.2922994 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1525142 l "isa"
+4 5 0.5930339 l "isa"
+5 4 0.1246417 l "isa"
+2 5 0.7611381 l "substring"
+5 2 0.2922994 l "substring"
+*Edges

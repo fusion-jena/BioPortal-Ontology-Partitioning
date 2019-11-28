@@ -1,0 +1,17 @@
+*Vertices 2
+1 "trending" ellipse
+2 "trend" ellipse
+*Arcs
+1 2 0.3150200 l "substring"
+2 1 0.0886308 l "substring"
+1 2 0.3150200 l "distance"
+2 1 0.0886308 l "distance"
+1 2 0.3150200 l "substring"
+2 1 0.0886308 l "substring"
+1 2 0.3150200 l "distance"
+2 1 0.0886308 l "distance"
+1 2 0.3150200 l "substring"
+2 1 0.0886308 l "substring"
+1 2 0.3150200 l "distance"
+2 1 0.0886308 l "distance"
+*Edges

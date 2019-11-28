@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Cholistani" ellipse
+2 "Cholistani" ellipse
+*Arcs
+1 2 0.7404459 l "substring"
+2 1 0.7404326 l "substring"
+1 2 0.7404459 l "distance"
+2 1 0.7404326 l "distance"
+1 2 0.7404459 l "substring"
+2 1 0.7404326 l "substring"
+1 2 0.7404459 l "distance"
+2 1 0.7404326 l "distance"
+*Edges

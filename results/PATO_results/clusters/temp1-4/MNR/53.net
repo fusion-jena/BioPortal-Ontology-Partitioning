@@ -1,0 +1,20 @@
+*Vertices 3
+1 "isolation source environment"
+2 "Environment" ellipse
+3 "miscellaneous natural or artificial environment" ellipse
+*Arcs
+1 2 0.1243986 l "substring"
+2 1 0.2314510 l "substring"
+1 2 0.1243986 l "substring"
+2 1 0.2314510 l "substring"
+2 3 0.2059259 l "substring"
+3 2 0.1635730 l "substring"
+1 2 0.1243986 l "substring"
+2 1 0.2314510 l "substring"
+2 3 0.2059259 l "substring"
+3 2 0.1635730 l "substring"
+1 2 0.1243986 l "substring"
+2 1 0.2314510 l "substring"
+2 3 0.2059259 l "substring"
+3 2 0.1635730 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Literacy" ellipse
+2 "Literacy_Programs" ellipse
+*Arcs
+1 2 0.1815872 l "substring"
+2 1 0.3480783 l "substring"
+1 2 0.1815872 l "substring"
+2 1 0.3480783 l "substring"
+*Edges

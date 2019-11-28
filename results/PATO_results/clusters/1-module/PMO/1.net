@@ -1,0 +1,68 @@
+*Vertices 17
+1 "F31_Performance" ellipse
+2 "Event" ellipse
+3 "Audition" ellipse
+4 "BenefitConcert" ellipse
+5 "Ceremony" ellipse
+6 "Command performance" ellipse
+7 "Concert" ellipse
+8 "Concert series" ellipse
+9 "Concert tour" ellipse
+10 "Event name" ellipse
+11 "First performance" ellipse
+12 "Live performance" ellipse
+13 "Master class" ellipse
+14 "Open mic performance" ellipse
+15 "Performance" ellipse
+16 "Recording session" ellipse
+17 "Rehearsal" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.0833333 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.3333333 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0833333 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.1666667 l "isa"
+7 2 0.1666667 l "isa"
+2 7 0.0833333 l "isa"
+8 2 0.5000000 l "isa"
+2 8 0.0833333 l "isa"
+9 2 0.5000000 l "isa"
+2 9 0.0833333 l "isa"
+11 15 1.0000000 l "isa"
+15 11 0.1538462 l "isa"
+12 15 1.0000000 l "isa"
+15 12 0.1538462 l "isa"
+13 2 1.0000000 l "isa"
+2 13 0.0833333 l "isa"
+14 15 1.0000000 l "isa"
+15 14 0.1538462 l "isa"
+15 1 0.1538462 l "isa"
+1 15 1.0000000 l "isa"
+15 2 0.0769231 l "isa"
+2 15 0.0833333 l "isa"
+16 2 1.0000000 l "isa"
+2 16 0.0833333 l "isa"
+17 2 1.0000000 l "isa"
+2 17 0.0833333 l "isa"
+1 15 1.0000000 l "substring"
+15 1 0.1538462 l "substring"
+2 10 0.0833333 l "substring"
+10 2 1.0000000 l "substring"
+4 7 1.0000000 l "substring"
+7 4 0.3333333 l "substring"
+6 15 0.5000000 l "substring"
+15 6 0.0769231 l "substring"
+7 8 0.1666667 l "substring"
+8 7 0.5000000 l "substring"
+7 9 0.1666667 l "substring"
+9 7 0.5000000 l "substring"
+11 15 1.0000000 l "substring"
+15 11 0.1538462 l "substring"
+12 15 1.0000000 l "substring"
+15 12 0.1538462 l "substring"
+14 15 1.0000000 l "substring"
+15 14 0.1538462 l "substring"
+*Edges

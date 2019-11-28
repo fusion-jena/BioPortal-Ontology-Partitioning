@@ -1,0 +1,11 @@
+*Vertices 2
+1 "North Korea" ellipse
+2 "South Korea" ellipse
+*Arcs
+1 2 0.1977455 l "distance"
+2 1 0.1977452 l "distance"
+1 2 0.1977455 l "distance"
+2 1 0.1977452 l "distance"
+1 2 0.1977455 l "distance"
+2 1 0.1977452 l "distance"
+*Edges

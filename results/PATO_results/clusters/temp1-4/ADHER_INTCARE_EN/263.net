@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Regular_use_of_others_hand_as_a_tool" ellipse
+2 "useofotherbodytocomm_Regular_use_of_others_hand_as_a_tool"
+*Arcs
+1 2 0.2083824 l "substring"
+2 1 0.1533570 l "substring"
+1 2 0.2083824 l "substring"
+2 1 0.1533570 l "substring"
+*Edges

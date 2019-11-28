@@ -1,0 +1,17 @@
+*Vertices 2
+1 "activeTime" ellipse
+2 "activeTimeSeconds" ellipse
+*Arcs
+1 2 0.1352084 l "substring"
+2 1 0.1168707 l "substring"
+1 2 0.1352084 l "substring"
+2 1 0.1168707 l "substring"
+1 2 0.1352084 l "substring"
+2 1 0.1168707 l "substring"
+1 2 0.1352084 l "substring"
+2 1 0.1168707 l "substring"
+1 2 0.1352084 l "substring"
+2 1 0.1168707 l "substring"
+1 2 0.1352084 l "substring"
+2 1 0.1168707 l "substring"
+*Edges

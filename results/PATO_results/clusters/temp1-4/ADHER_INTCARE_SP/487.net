@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Hill-Bone" ellipse
+2 "Identified_Adherence_Stage"
+3 "Hill-Bone" ellipse
+*Arcs
+1 2 0.1034800 l "definition"
+2 1 0.0803775 l "definition"
+1 2 0.1034800 l "definition"
+2 1 0.0803775 l "definition"
+1 3 0.1879812 l "substring"
+3 1 0.2000000 l "substring"
+1 3 0.1879812 l "distance"
+3 1 0.2000000 l "distance"
+*Edges

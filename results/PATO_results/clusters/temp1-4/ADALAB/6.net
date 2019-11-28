@@ -1,0 +1,53 @@
+*Vertices 8
+1 "ALPLevel" ellipse
+2 "AlkalinePhosphataseTest" ellipse
+3 "CountingRedBloodCells" ellipse
+4 "Density" ellipse
+5 "HbTest" ellipse
+6 "Hemoglobin" ellipse
+7 "HemoglobinConcentration" ellipse
+8 "TotalRBC" ellipse
+*Arcs
+1 4 0.4605220 l "isa"
+4 1 0.0643256 l "isa"
+7 4 0.3188828 l "isa"
+4 7 0.0576733 l "isa"
+8 4 0.4757726 l "isa"
+4 8 0.0646465 l "isa"
+2 1 0.3204079 l "definition"
+1 2 0.5394781 l "definition"
+3 8 0.2221262 l "definition"
+8 3 0.5242274 l "definition"
+5 7 0.1539106 l "definition"
+7 5 0.3413392 l "definition"
+6 7 0.1466527 l "substring"
+7 6 0.3397780 l "substring"
+1 4 0.4605220 l "isa"
+4 1 0.0643256 l "isa"
+7 4 0.3188828 l "isa"
+4 7 0.0576733 l "isa"
+8 4 0.4757726 l "isa"
+4 8 0.0646465 l "isa"
+2 1 0.3204079 l "definition"
+1 2 0.5394781 l "definition"
+3 8 0.2221262 l "definition"
+8 3 0.5242274 l "definition"
+5 7 0.1539106 l "definition"
+7 5 0.3413392 l "definition"
+6 7 0.1466527 l "substring"
+7 6 0.3397780 l "substring"
+1 4 0.4605220 l "isa"
+4 1 0.0643256 l "isa"
+7 4 0.3188828 l "isa"
+4 7 0.0576733 l "isa"
+8 4 0.4757726 l "isa"
+4 8 0.0646465 l "isa"
+2 1 0.3204079 l "definition"
+1 2 0.5394781 l "definition"
+3 8 0.2221262 l "definition"
+8 3 0.5242274 l "definition"
+5 7 0.1539106 l "definition"
+7 5 0.3413392 l "definition"
+6 7 0.1466527 l "substring"
+7 6 0.3397780 l "substring"
+*Edges

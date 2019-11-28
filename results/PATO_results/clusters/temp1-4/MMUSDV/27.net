@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Patient" ellipse
+2 "PatientAccident" ellipse
+3 "PatientBehaviour" ellipse
+*Arcs
+1 2 0.1220376 l "substring"
+2 1 0.2670372 l "substring"
+1 3 0.1220376 l "substring"
+3 1 0.2670372 l "substring"
+1 2 0.1220376 l "substring"
+2 1 0.2670372 l "substring"
+1 3 0.1220376 l "substring"
+3 1 0.2670372 l "substring"
+1 2 0.1220376 l "substring"
+2 1 0.2670372 l "substring"
+1 3 0.1220376 l "substring"
+3 1 0.2670372 l "substring"
+1 2 0.1220376 l "substring"
+2 1 0.2670372 l "substring"
+1 3 0.1220376 l "substring"
+3 1 0.2670372 l "substring"
+1 2 0.1220376 l "substring"
+2 1 0.2670372 l "substring"
+1 3 0.1220376 l "substring"
+3 1 0.2670372 l "substring"
+1 2 0.1220376 l "substring"
+2 1 0.2670372 l "substring"
+1 3 0.1220376 l "substring"
+3 1 0.2670372 l "substring"
+*Edges

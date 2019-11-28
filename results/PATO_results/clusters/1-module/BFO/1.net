@@ -1,0 +1,37 @@
+*Vertices 10
+1 "disposition" ellipse
+2 "realizable entity" ellipse
+3 "role" ellipse
+4 "fiat object part" ellipse
+5 "object aggregate" ellipse
+6 "site" ellipse
+7 "object" ellipse
+8 "function" ellipse
+9 "material entity" ellipse
+10 "immaterial entity" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.2500000 l "isa"
+4 9 0.5000000 l "isa"
+9 4 0.1428571 l "isa"
+5 9 0.5000000 l "isa"
+9 5 0.1428571 l "isa"
+6 10 0.5000000 l "isa"
+10 6 0.1428571 l "isa"
+7 9 0.3333333 l "isa"
+9 7 0.1428571 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.5000000 l "isa"
+4 7 0.5000000 l "substring"
+7 4 0.3333333 l "substring"
+5 7 0.5000000 l "substring"
+7 5 0.3333333 l "substring"
+9 10 0.2857143 l "substring"
+10 9 0.2857143 l "substring"
+3 6 0.5000000 l "distance"
+6 3 0.5000000 l "distance"
+9 10 0.2857143 l "distance"
+10 9 0.2857143 l "distance"
+*Edges

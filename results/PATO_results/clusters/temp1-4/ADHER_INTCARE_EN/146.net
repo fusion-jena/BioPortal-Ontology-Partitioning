@@ -1,0 +1,31 @@
+*Vertices 4
+1 "subject"
+2 "Difficulties_with_minor_changes_in_subjects_own_routines_or_personal_environment" ellipse
+3 "Difficulties_with_minor_changes_in_subjects_own_routines_or_personal_environment_UnknownOrNotAsked" ellipse
+4 "No_difficulties_with_minor_changes_in_own_subjects_own_routines" ellipse
+*Arcs
+3 2 0.3645274 l "isa"
+2 3 0.1982956 l "isa"
+4 2 0.5051501 l "isa"
+2 4 0.1021342 l "isa"
+1 2 0.0357062 l "substring"
+2 1 0.0839252 l "substring"
+1 3 0.0369767 l "substring"
+3 1 0.1597698 l "substring"
+1 4 0.0425672 l "substring"
+4 1 0.4948499 l "substring"
+2 3 0.1982956 l "substring"
+3 2 0.3645274 l "substring"
+3 2 0.3645274 l "isa"
+2 3 0.1982956 l "isa"
+4 2 0.5051501 l "isa"
+2 4 0.1021342 l "isa"
+1 2 0.0357062 l "substring"
+2 1 0.0839252 l "substring"
+1 3 0.0369767 l "substring"
+3 1 0.1597698 l "substring"
+1 4 0.0425672 l "substring"
+4 1 0.4948499 l "substring"
+2 3 0.1982956 l "substring"
+3 2 0.3645274 l "substring"
+*Edges

@@ -1,0 +1,56 @@
+*Vertices 17
+1 "Mixture" ellipse
+2 "AnorogenicIgneousRock" ellipse
+3 "Anorthosite" ellipse
+4 "Aphanite" ellipse
+5 "Felsic" ellipse
+6 "Hypabyssal" ellipse
+7 "IgneousRock" ellipse
+8 "Kimberlite" ellipse
+9 "Mafic" ellipse
+10 "Magma" ellipse
+11 "Peridotite" ellipse
+12 "Xenocryst" ellipse
+13 "Igneous" ellipse
+14 "Restriction"
+15 "hasGenesis"
+16 "hasState"
+17 "Crystal"
+*Arcs
+3 7 1.0000000 l "isa"
+7 3 0.0625000 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.0625000 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.0625000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.0625000 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.0625000 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.0625000 l "isa"
+11 7 1.0000000 l "isa"
+7 11 0.0625000 l "isa"
+12 1 0.2500000 l "isa"
+1 12 1.0000000 l "isa"
+7 14 0.0625000 l "definition"
+14 7 0.5000000 l "definition"
+7 15 0.0625000 l "definition"
+15 7 1.0000000 l "definition"
+7 13 0.1250000 l "definition"
+13 7 0.6666667 l "definition"
+12 16 0.2500000 l "definition"
+16 12 1.0000000 l "definition"
+12 14 0.2500000 l "definition"
+14 12 0.5000000 l "definition"
+12 17 0.2500000 l "definition"
+17 12 1.0000000 l "definition"
+2 7 0.2500000 l "substring"
+7 2 0.0625000 l "substring"
+2 13 0.2500000 l "substring"
+13 2 0.3333333 l "substring"
+7 13 0.1250000 l "substring"
+13 7 0.6666667 l "substring"
+9 10 0.5000000 l "distance"
+10 9 0.2500000 l "distance"
+*Edges

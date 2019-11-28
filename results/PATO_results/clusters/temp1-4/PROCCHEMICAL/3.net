@@ -1,0 +1,48 @@
+*Vertices 5
+1 "BenefitConcert" ellipse
+2 "Command performance" ellipse
+3 "Concert" ellipse
+4 "Concert series" ellipse
+5 "Concert tour" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.4652463 l "isa"
+2 3 0.5247623 l "isa"
+3 2 0.1476538 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.4652463 l "substring"
+3 4 0.1476193 l "substring"
+4 3 0.5218798 l "substring"
+3 5 0.1476193 l "substring"
+5 3 0.5218798 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.4652463 l "isa"
+2 3 0.5247623 l "isa"
+3 2 0.1476538 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.4652463 l "substring"
+3 4 0.1476193 l "substring"
+4 3 0.5218798 l "substring"
+3 5 0.1476193 l "substring"
+5 3 0.5218798 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.4652463 l "isa"
+2 3 0.5247623 l "isa"
+3 2 0.1476538 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.4652463 l "substring"
+3 4 0.1476193 l "substring"
+4 3 0.5218798 l "substring"
+3 5 0.1476193 l "substring"
+5 3 0.5218798 l "substring"
+1 3 1.0000000 l "isa"
+3 1 0.4652463 l "isa"
+2 3 0.5247623 l "isa"
+3 2 0.1476538 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.4652463 l "substring"
+3 4 0.1476193 l "substring"
+4 3 0.5218798 l "substring"
+3 5 0.1476193 l "substring"
+5 3 0.5218798 l "substring"
+*Edges

@@ -1,0 +1,37 @@
+*Vertices 12
+1 "Class"
+2 "Family" ellipse
+3 "Restriction"
+4 "mustHave"
+5 "nil"
+6 "interdependent_role_name"
+7 "nurse_education_level_name"
+8 "ACAS" ellipse
+9 "ACAT" ellipse
+10 "Bed_Occupancy_Indicator" ellipse
+11 "My_facility" ellipse
+12 "Referrals" ellipse
+*Arcs
+8 12 0.1428571 l "assessesPatient"
+12 8 0.3333333 l "assessesPatient"
+9 12 0.2000000 l "assessesPatient"
+12 9 0.3333333 l "assessesPatient"
+12 10 0.3333333 l "addsTo"
+10 12 0.3333333 l "addsTo"
+4 3 0.1428571 l "definition"
+3 4 0.2500000 l "definition"
+4 4 0.2857143 l "definition"
+4 4 0.2857143 l "definition"
+6 5 0.1666667 l "definition"
+5 6 0.2500000 l "definition"
+6 1 0.1666667 l "definition"
+1 6 0.2000000 l "definition"
+7 3 0.2500000 l "definition"
+3 7 0.2500000 l "definition"
+7 4 0.2500000 l "definition"
+4 7 0.1428571 l "definition"
+8 9 0.1428571 l "distance"
+9 8 0.2000000 l "distance"
+8 1 0.1428571 l "distance"
+1 8 0.2000000 l "distance"
+*Edges

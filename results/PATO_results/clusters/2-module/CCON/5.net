@@ -1,0 +1,10 @@
+*Vertices 3
+1 "cerrado determining factors" ellipse
+2 "soil" ellipse
+3 "nil"
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2000000 l "isa"
+2 3 0.5000000 l "distance"
+3 2 0.2500000 l "distance"
+*Edges

@@ -1,0 +1,40 @@
+*Vertices 11
+1 "THYROID GLAND" ellipse
+2 "Thyroid gland" ellipse
+3 "OTHER ENDOCRINE GLANDS AND RELATED STRUCTURES" ellipse
+4 "Parathyroid gland" ellipse
+5 "Pituitary gland" ellipse
+6 "Craniopharyngeal duct" ellipse
+7 "Pineal gland" ellipse
+8 "Carotid body" ellipse
+9 "Aortic body and other paraganglia" ellipse
+10 "Overlapping lesion of endocrine glands and related structures" ellipse
+11 "Endocrine gland, NOS" ellipse
+*Arcs
+2 1 0.7500000 l "isa"
+1 2 0.6000000 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.1111111 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1111111 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.1111111 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.1111111 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.1111111 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.1111111 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.1111111 l "isa"
+1 2 0.6000000 l "substring"
+2 1 0.7500000 l "substring"
+1 4 0.2000000 l "substring"
+4 1 0.3333333 l "substring"
+2 4 0.2500000 l "substring"
+4 2 0.3333333 l "substring"
+1 2 0.6000000 l "distance"
+2 1 0.7500000 l "distance"
+*Edges

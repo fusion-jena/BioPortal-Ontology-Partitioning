@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Image Setting" ellipse
+2 "Region of Interest" ellipse
+3 "Thumbnail" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0588235 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0588235 l "isa"
+*Edges

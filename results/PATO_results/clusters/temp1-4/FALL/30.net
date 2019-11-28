@@ -1,0 +1,25 @@
+*Vertices 2
+1 "ClassOfIntendedRoleAndDomain" ellipse
+2 "IntendedRoleAndDomain" ellipse
+*Arcs
+1 2 0.4090501 l "definition"
+2 1 0.6137923 l "definition"
+1 2 0.4090501 l "substring"
+2 1 0.6137923 l "substring"
+1 2 0.4090501 l "definition"
+2 1 0.6137923 l "definition"
+1 2 0.4090501 l "substring"
+2 1 0.6137923 l "substring"
+1 2 0.4090501 l "definition"
+2 1 0.6137923 l "definition"
+1 2 0.4090501 l "substring"
+2 1 0.6137923 l "substring"
+1 2 0.4090501 l "definition"
+2 1 0.6137923 l "definition"
+1 2 0.4090501 l "substring"
+2 1 0.6137923 l "substring"
+1 2 0.4090501 l "definition"
+2 1 0.6137923 l "definition"
+1 2 0.4090501 l "substring"
+2 1 0.6137923 l "substring"
+*Edges

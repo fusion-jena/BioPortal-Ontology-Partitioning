@@ -1,0 +1,14 @@
+*Vertices 3
+1 "B_Define_goals_and_objectives" ellipse
+2 "Scope_Forecast" ellipse
+3 "Scope_of_Evidence_Interpretation" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1887115 l "isa"
+3 1 0.2616323 l "isa"
+1 3 0.1436780 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.1887115 l "isa"
+3 1 0.2616323 l "isa"
+1 3 0.1436780 l "isa"
+*Edges

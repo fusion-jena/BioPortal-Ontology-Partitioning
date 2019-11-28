@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Brief Screening Test" ellipse
+2 "DEMTEC" ellipse
+3 "Mini cog" ellipse
+4 "Mini mental state exam" ellipse
+5 "Rember" ellipse
+6 "Montreal Cognitive Assessment" ellipse
+7 "mini mental state examination score" ellipse
+*Arcs
+2 1 0.3519553 l "isa"
+1 2 0.1163112 l "isa"
+3 1 0.4385965 l "isa"
+1 3 0.1384657 l "isa"
+4 1 0.3442623 l "isa"
+1 4 0.1163112 l "isa"
+6 1 0.4385965 l "isa"
+1 6 0.1384657 l "isa"
+4 7 0.3934426 l "substring"
+7 4 0.3964758 l "substring"
+2 5 0.3798883 l "distance"
+5 2 0.2445980 l "distance"
+2 1 0.3519553 l "isa"
+1 2 0.1163112 l "isa"
+3 1 0.4385965 l "isa"
+1 3 0.1384657 l "isa"
+4 1 0.3442623 l "isa"
+1 4 0.1163112 l "isa"
+6 1 0.4385965 l "isa"
+1 6 0.1384657 l "isa"
+4 7 0.3934426 l "substring"
+7 4 0.3964758 l "substring"
+2 5 0.3798883 l "distance"
+5 2 0.2445980 l "distance"
+*Edges

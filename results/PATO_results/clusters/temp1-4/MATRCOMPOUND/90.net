@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Sumatra" ellipse
+2 "Sumavska" ellipse
+3 "Pulawska" ellipse
+*Arcs
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+1 2 0.3651276 l "distance"
+2 1 0.3381733 l "distance"
+2 3 0.5004674 l "distance"
+3 2 0.7000703 l "distance"
+*Edges

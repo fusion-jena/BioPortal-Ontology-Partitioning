@@ -1,0 +1,31 @@
+*Vertices 4
+1 "planting implement" ellipse
+2 "planting process" ellipse
+3 "naveen dibbler" ellipse
+4 "rotary dibbler" ellipse
+*Arcs
+3 1 0.2529151 l "isa"
+1 3 0.0556821 l "isa"
+4 1 0.2529151 l "isa"
+1 4 0.0556821 l "isa"
+1 2 0.1051541 l "definition"
+2 1 0.0698428 l "definition"
+2 1 0.0698428 l "definition"
+1 2 0.1051541 l "definition"
+3 2 0.2509217 l "definition"
+2 3 0.0366923 l "definition"
+4 2 0.2509217 l "definition"
+2 4 0.0366923 l "definition"
+3 1 0.2529151 l "isa"
+1 3 0.0556821 l "isa"
+4 1 0.2529151 l "isa"
+1 4 0.0556821 l "isa"
+1 2 0.1051541 l "definition"
+2 1 0.0698428 l "definition"
+2 1 0.0698428 l "definition"
+1 2 0.1051541 l "definition"
+3 2 0.2509217 l "definition"
+2 3 0.0366923 l "definition"
+4 2 0.2509217 l "definition"
+2 4 0.0366923 l "definition"
+*Edges

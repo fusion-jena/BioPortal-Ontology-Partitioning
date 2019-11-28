@@ -1,0 +1,31 @@
+*Vertices 4
+1 "type" ellipse
+2 "title" ellipse
+3 "has type"
+4 "has title"
+*Arcs
+1 3 0.1481610 l "substring"
+3 1 0.3284898 l "substring"
+2 4 0.0931599 l "substring"
+4 2 0.3173022 l "substring"
+1 2 0.1217803 l "distance"
+2 1 0.0805086 l "distance"
+3 4 0.3783455 l "distance"
+4 3 0.3842466 l "distance"
+1 3 0.1481610 l "substring"
+3 1 0.3284898 l "substring"
+2 4 0.0931599 l "substring"
+4 2 0.3173022 l "substring"
+1 2 0.1217803 l "distance"
+2 1 0.0805086 l "distance"
+3 4 0.3783455 l "distance"
+4 3 0.3842466 l "distance"
+1 3 0.1481610 l "substring"
+3 1 0.3284898 l "substring"
+2 4 0.0931599 l "substring"
+4 2 0.3173022 l "substring"
+1 2 0.1217803 l "distance"
+2 1 0.0805086 l "distance"
+3 4 0.3783455 l "distance"
+4 3 0.3842466 l "distance"
+*Edges

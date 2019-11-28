@@ -1,0 +1,25 @@
+*Vertices 2
+1 "cavitated compound organ" ellipse
+2 "compound organ" ellipse
+*Arcs
+1 2 0.8406018 l "isa"
+2 1 0.6048533 l "isa"
+1 2 0.8406018 l "substring"
+2 1 0.6048533 l "substring"
+1 2 0.8406018 l "isa"
+2 1 0.6048533 l "isa"
+1 2 0.8406018 l "substring"
+2 1 0.6048533 l "substring"
+1 2 0.8406018 l "isa"
+2 1 0.6048533 l "isa"
+1 2 0.8406018 l "substring"
+2 1 0.6048533 l "substring"
+1 2 0.8406018 l "isa"
+2 1 0.6048533 l "isa"
+1 2 0.8406018 l "substring"
+2 1 0.6048533 l "substring"
+1 2 0.8406018 l "isa"
+2 1 0.6048533 l "isa"
+1 2 0.8406018 l "substring"
+2 1 0.6048533 l "substring"
+*Edges

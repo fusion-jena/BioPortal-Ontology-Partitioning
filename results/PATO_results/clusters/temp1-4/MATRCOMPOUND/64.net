@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Hasi" ellipse
+2 "Huaipi" ellipse
+*Arcs
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+1 2 0.0394988 l "distance"
+2 1 0.3484352 l "distance"
+*Edges

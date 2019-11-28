@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Disabilities" ellipse
+2 "Physical_Disabilities_(Attitudes_Toward)" ellipse
+3 "Accommodation_(Disabilities)" ellipse
+*Arcs
+1 2 0.1494389 l "substring"
+2 1 0.5259553 l "substring"
+1 2 0.1494389 l "substring"
+2 1 0.5259553 l "substring"
+1 3 0.1177874 l "substring"
+3 1 0.5089604 l "substring"
+1 2 0.1494389 l "substring"
+2 1 0.5259553 l "substring"
+1 3 0.1177874 l "substring"
+3 1 0.5089604 l "substring"
+*Edges

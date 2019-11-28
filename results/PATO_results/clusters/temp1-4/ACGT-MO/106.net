@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Ability to perform activities of everyday life" ellipse
+2 "Ability to perform community living activities" ellipse
+3 "Ability to manage personal financial activities" ellipse
+4 "Ability_to_buy_enough_food" ellipse
+5 "Failure_to_Provide_for_Enough_Food" ellipse
+6 "Worry_that_Food_Would_Run_out_Before_You_Could_Buy_More" ellipse
+*Arcs
+2 1 0.3829787 l "isa"
+1 2 0.2535211 l "isa"
+3 2 0.2029851 l "isa"
+2 3 0.3617021 l "isa"
+4 3 0.3522936 l "isa"
+3 4 0.1910448 l "isa"
+5 4 0.1101383 l "definition"
+4 5 0.3229358 l "definition"
+6 4 0.1384873 l "definition"
+4 6 0.3247707 l "definition"
+2 1 0.3829787 l "isa"
+1 2 0.2535211 l "isa"
+3 2 0.2029851 l "isa"
+2 3 0.3617021 l "isa"
+4 3 0.3522936 l "isa"
+3 4 0.1910448 l "isa"
+5 4 0.1101383 l "definition"
+4 5 0.3229358 l "definition"
+6 4 0.1384873 l "definition"
+4 6 0.3247707 l "definition"
+*Edges

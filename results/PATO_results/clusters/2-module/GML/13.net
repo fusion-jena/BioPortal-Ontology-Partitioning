@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Value" ellipse
+2 "ValueExtent" ellipse
+*Arcs
+2 1 0.3333333 l "high"
+1 2 0.1363636 l "high"
+2 1 0.3333333 l "low"
+1 2 0.1363636 l "low"
+1 2 0.1363636 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

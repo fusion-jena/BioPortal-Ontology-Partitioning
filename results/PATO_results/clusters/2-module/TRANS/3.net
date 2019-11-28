@@ -1,0 +1,61 @@
+*Vertices 18
+1 "Community_in_the_Home" ellipse
+2 "External_Agencies" ellipse
+3 "Hospital" ellipse
+4 "Nurse" ellipse
+5 "The level of education and skills a nurse has attained" ellipse
+6 "Residential_in_Facility" ellipse
+7 "Transitional_Care" ellipse
+8 "Community_Nurses" ellipse
+9 "Emergency" ellipse
+10 "Home" ellipse
+11 "Home_Care" ellipse
+12 "Hostels" ellipse
+13 "Lutheran" ellipse
+14 "Mental_Health" ellipse
+15 "Nurse_Designation" ellipse
+16 "Packages" ellipse
+17 "Private_Nurses" ellipse
+18 "Telecross" ellipse
+*Arcs
+1 7 0.5000000 l "isa"
+7 1 0.1666667 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1333333 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1666667 l "isa"
+8 3 0.5000000 l "isa"
+3 8 0.1428571 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.1428571 l "isa"
+11 2 0.5000000 l "isa"
+2 11 0.1428571 l "isa"
+12 2 1.0000000 l "isa"
+2 12 0.1428571 l "isa"
+13 2 0.5000000 l "isa"
+2 13 0.1428571 l "isa"
+14 3 1.0000000 l "isa"
+3 14 0.1428571 l "isa"
+15 4 1.0000000 l "isa"
+4 15 0.2000000 l "isa"
+17 2 0.5000000 l "isa"
+2 17 0.1428571 l "isa"
+18 2 1.0000000 l "isa"
+2 18 0.1428571 l "isa"
+4 15 0.2000000 l "mustHave"
+15 4 1.0000000 l "mustHave"
+13 16 0.5000000 l "provides"
+16 13 0.2000000 l "provides"
+1 10 0.5000000 l "substring"
+10 1 0.2500000 l "substring"
+4 5 0.1333333 l "substring"
+5 4 0.5000000 l "substring"
+4 8 0.0666667 l "substring"
+8 4 0.5000000 l "substring"
+4 15 0.2000000 l "substring"
+15 4 1.0000000 l "substring"
+4 17 0.0666667 l "substring"
+17 4 0.5000000 l "substring"
+10 11 0.2500000 l "substring"
+11 10 0.5000000 l "substring"
+*Edges

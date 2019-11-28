@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Event frequency" ellipse
+2 "Events per second" ellipse
+3 "second" ellipse
+4 "time unit" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1250000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1111111 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.5000000 l "substring"
+*Edges

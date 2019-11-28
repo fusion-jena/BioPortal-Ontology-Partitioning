@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Prefix" ellipse
+2 "Derived unit of measurement made out of exactly one base unit" ellipse
+3 "Alternate Symbol"
+4 "Preferred Symbol"
+*Arcs
+2 1 0.1111111 l "Unit prefix"
+1 2 0.3333333 l "Unit prefix"
+3 1 0.2500000 l "definition"
+1 3 0.3333333 l "definition"
+4 1 0.2500000 l "definition"
+1 4 0.3333333 l "definition"
+*Edges

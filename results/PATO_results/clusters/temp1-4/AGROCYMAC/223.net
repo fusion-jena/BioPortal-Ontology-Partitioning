@@ -1,0 +1,17 @@
+*Vertices 2
+1 "equipment serial number" ellipse
+2 "serial number" ellipse
+*Arcs
+1 2 0.6384211 l "isa"
+2 1 0.7712897 l "isa"
+1 2 0.6384211 l "substring"
+2 1 0.7712897 l "substring"
+1 2 0.6384211 l "isa"
+2 1 0.7712897 l "isa"
+1 2 0.6384211 l "substring"
+2 1 0.7712897 l "substring"
+1 2 0.6384211 l "isa"
+2 1 0.7712897 l "isa"
+1 2 0.6384211 l "substring"
+2 1 0.7712897 l "substring"
+*Edges

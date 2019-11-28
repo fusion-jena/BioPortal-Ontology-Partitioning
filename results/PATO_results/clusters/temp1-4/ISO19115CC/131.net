@@ -1,0 +1,23 @@
+*Vertices 2
+1 "geographic location" ellipse
+2 "designated area on Earth" ellipse
+*Arcs
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+1 2 0.8285024 l "isa"
+2 1 0.4837857 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Gene's organ epithelial sac" ellipse
+2 "adult Gene's organ epithelial sac lumen" ellipse
+*Arcs
+2 1 0.3333333 l "definition"
+1 2 0.4000000 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

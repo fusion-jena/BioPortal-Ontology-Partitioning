@@ -1,0 +1,25 @@
+*Vertices 4
+1 "State" ellipse
+2 "State" ellipse
+3 "LI_Lineage" ellipse
+4 "statement"
+*Arcs
+1 2 0.0764583 l "substring"
+2 1 0.0836276 l "substring"
+1 2 0.0764583 l "distance"
+2 1 0.0836276 l "distance"
+1 2 0.0764583 l "substring"
+2 1 0.0836276 l "substring"
+1 2 0.0764583 l "distance"
+2 1 0.0836276 l "distance"
+3 4 0.1000000 l "definition"
+4 3 0.3333333 l "definition"
+1 2 0.0764583 l "substring"
+2 1 0.0836276 l "substring"
+1 4 0.0298002 l "substring"
+4 1 0.3333333 l "substring"
+2 4 0.0325944 l "substring"
+4 2 0.3333333 l "substring"
+1 2 0.0764583 l "distance"
+2 1 0.0836276 l "distance"
+*Edges

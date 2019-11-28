@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Sometimes_responsive_to_other_childrens_approaches" ellipse
+2 "respch_Sometimes_responsive_to_other_childrens_approaches"
+*Arcs
+1 2 0.2101456 l "substring"
+2 1 0.1785450 l "substring"
+1 2 0.2101456 l "substring"
+2 1 0.1785450 l "substring"
+*Edges

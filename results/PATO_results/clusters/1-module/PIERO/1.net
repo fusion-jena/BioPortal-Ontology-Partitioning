@@ -1,0 +1,32 @@
+*Vertices 5
+1 "ec-code" ellipse
+2 "ec" ellipse
+3 "go" ellipse
+4 "iubmb" ellipse
+5 "molecular_function" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.0833333 l "isa"
+2 5 0.1578947 l "isa"
+5 2 0.2500000 l "isa"
+3 5 0.0909091 l "isa"
+5 3 0.0833333 l "isa"
+4 5 0.2500000 l "isa"
+5 4 0.0833333 l "isa"
+2 3 0.1578947 l "hasGo"
+3 2 0.2727273 l "hasGo"
+2 4 0.1052632 l "hasIubmb"
+4 2 0.5000000 l "hasIubmb"
+3 2 0.2727273 l "inEc"
+2 3 0.1578947 l "inEc"
+4 2 0.5000000 l "inEc"
+2 4 0.1052632 l "inEc"
+5 2 0.2500000 l "inEc"
+2 5 0.1578947 l "inEc"
+1 2 0.5000000 l "substring"
+2 1 0.0526316 l "substring"
+2 5 0.1578947 l "substring"
+5 2 0.2500000 l "substring"
+2 3 0.1578947 l "distance"
+3 2 0.2727273 l "distance"
+*Edges

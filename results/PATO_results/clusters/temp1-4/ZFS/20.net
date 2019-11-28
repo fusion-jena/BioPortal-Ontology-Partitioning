@@ -1,0 +1,50 @@
+*Vertices 7
+1 "Gastrula:50%-epiboly" ellipse
+2 "Gastrula:Germ-ring" ellipse
+3 "Gastrula:Shield" ellipse
+4 "Gastrula:75%-epiboly" ellipse
+5 "Gastrula:90%-epiboly" ellipse
+6 "Gastrula:Bud" ellipse
+7 "gastrula" ellipse
+*Arcs
+1 7 0.2000000 l "definition"
+7 1 0.1111111 l "definition"
+2 7 0.2500000 l "definition"
+7 2 0.1111111 l "definition"
+2 1 0.1250000 l "definition"
+1 2 0.1000000 l "definition"
+3 7 0.2500000 l "definition"
+7 3 0.1111111 l "definition"
+3 2 0.1250000 l "definition"
+2 3 0.1250000 l "definition"
+4 7 0.2000000 l "definition"
+7 4 0.1111111 l "definition"
+4 3 0.1000000 l "definition"
+3 4 0.1250000 l "definition"
+5 7 0.2000000 l "definition"
+7 5 0.1111111 l "definition"
+5 4 0.2000000 l "definition"
+4 5 0.2000000 l "definition"
+6 7 0.2500000 l "definition"
+7 6 0.1111111 l "definition"
+6 5 0.1250000 l "definition"
+5 6 0.1000000 l "definition"
+1 7 0.2000000 l "substring"
+7 1 0.1111111 l "substring"
+2 7 0.2500000 l "substring"
+7 2 0.1111111 l "substring"
+3 7 0.2500000 l "substring"
+7 3 0.1111111 l "substring"
+4 7 0.2000000 l "substring"
+7 4 0.1111111 l "substring"
+5 7 0.2000000 l "substring"
+7 5 0.1111111 l "substring"
+6 7 0.2500000 l "substring"
+7 6 0.1111111 l "substring"
+1 4 0.1000000 l "distance"
+4 1 0.1000000 l "distance"
+1 5 0.1000000 l "distance"
+5 1 0.1000000 l "distance"
+4 5 0.2000000 l "distance"
+5 4 0.2000000 l "distance"
+*Edges

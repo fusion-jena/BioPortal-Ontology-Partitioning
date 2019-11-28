@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Availability_of_Effective_Treatments" ellipse
+2 "Unavailability_of_Effective_Treatment" ellipse
+*Arcs
+1 2 0.3575419 l "distance"
+2 1 0.3571144 l "distance"
+1 2 0.3575419 l "distance"
+2 1 0.3571144 l "distance"
+*Edges

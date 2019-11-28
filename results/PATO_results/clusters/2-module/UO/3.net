@@ -1,0 +1,26 @@
+*Vertices 7
+1 "pi" ellipse
+2 "spatial resolution unit" ellipse
+3 "dots per inch" ellipse
+4 "micron pixel" ellipse
+5 "pixels per inch" ellipse
+6 "micro" ellipse
+7 "inch" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.1666667 l "isa"
+4 2 0.3333333 l "isa"
+2 4 0.1666667 l "isa"
+5 2 0.3333333 l "isa"
+2 5 0.1666667 l "isa"
+1 4 0.0322581 l "substring"
+4 1 0.3333333 l "substring"
+1 5 0.0322581 l "substring"
+5 1 0.3333333 l "substring"
+3 7 0.5000000 l "substring"
+7 3 0.0769231 l "substring"
+4 6 0.3333333 l "substring"
+6 4 0.0312500 l "substring"
+5 7 0.3333333 l "substring"
+7 5 0.0769231 l "substring"
+*Edges

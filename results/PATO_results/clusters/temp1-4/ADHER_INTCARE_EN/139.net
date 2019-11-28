@@ -1,0 +1,9 @@
+*Vertices 2
+1 "No_Play_With_Other_Children_or_Not_Pretend_Play_Even_On_Own" ellipse
+2 "peerpl_No_Play_With_Other_Children_or_Not_Pretend_Play_Even_On_Own"
+*Arcs
+1 2 0.2638328 l "substring"
+2 1 0.2168648 l "substring"
+1 2 0.2638328 l "substring"
+2 1 0.2168648 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "electrical and magnetic quality" ellipse
+2 "electric resistance" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1832413 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.1832413 l "isa"
+*Edges

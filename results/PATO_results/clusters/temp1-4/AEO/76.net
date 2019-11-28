@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Environmental cause" ellipse
+2 "Toxic cause" ellipse
+3 "iron" ellipse
+*Arcs
+1 2 0.3745212 l "isa"
+2 1 0.1476025 l "isa"
+1 3 0.3422744 l "substring"
+3 1 0.0247176 l "substring"
+1 2 0.3745212 l "isa"
+2 1 0.1476025 l "isa"
+1 3 0.3422744 l "substring"
+3 1 0.0247176 l "substring"
+1 2 0.3745212 l "isa"
+2 1 0.1476025 l "isa"
+1 3 0.3422744 l "substring"
+3 1 0.0247176 l "substring"
+*Edges

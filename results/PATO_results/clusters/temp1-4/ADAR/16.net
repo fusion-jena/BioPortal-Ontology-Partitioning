@@ -1,0 +1,24 @@
+*Vertices 7
+1 "Consistently_Uses_Eye_Gaze_With_Vocalization" ellipse
+2 "May_Use_Eye_Gaze_or_Vocalization" ellipse
+3 "No_Eye_Gaze_and_Vocalization" ellipse
+4 "Quality_of_Social_Overtures" ellipse
+5 "Quality_of_Social_Overtures_NotAvailable" ellipse
+6 "qualov_No_Eye_Gaze_and_Vocalization"
+7 "qualov_May_Use_Eye_Gaze_or_Vocalization"
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1000000 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.1000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1000000 l "isa"
+5 4 0.6666667 l "isa"
+4 5 0.2000000 l "isa"
+2 7 0.5000000 l "substring"
+7 2 0.3333333 l "substring"
+3 6 0.5000000 l "substring"
+6 3 0.3333333 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.6666667 l "substring"
+*Edges

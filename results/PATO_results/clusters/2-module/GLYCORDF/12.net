@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Mass Spectrum" ellipse
+2 "Msn Spectrum" ellipse
+3 "Profile Spectrum" ellipse
+*Arcs
+2 1 0.6000000 l "isa"
+1 2 0.3750000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1250000 l "isa"
+1 2 0.3750000 l "has_fragmented_spectrum"
+2 1 0.6000000 l "has_fragmented_spectrum"
+1 2 0.3750000 l "distance"
+2 1 0.6000000 l "distance"
+*Edges

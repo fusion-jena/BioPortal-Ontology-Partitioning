@@ -1,0 +1,21 @@
+*Vertices 6
+1 "Absence status epilepticus" ellipse
+2 "Clonic status epilepticus" ellipse
+3 "Estado de mal generalizado" ellipse
+4 "Estado de mal tónico-clónico generalizado" ellipse
+5 "Estado de mal mioclónico" ellipse
+6 "Estado de mal tónico" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1666667 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1666667 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.1666667 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1666667 l "isa"
+6 3 0.5000000 l "isa"
+3 6 0.1666667 l "isa"
+4 6 0.5000000 l "substring"
+6 4 0.5000000 l "substring"
+*Edges

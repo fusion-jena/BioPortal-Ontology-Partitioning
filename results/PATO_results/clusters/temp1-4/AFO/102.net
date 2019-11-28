@@ -1,0 +1,19 @@
+*Vertices 6
+1 "scalar integer datum" ellipse
+2 "count datum" ellipse
+3 "scalar decimal datum" ellipse
+4 "scalar number datum" ellipse
+5 "total cell count" ellipse
+6 "viable cell count" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.2500000 l "isa"
+2 1 0.3333333 l "isa"
+1 2 0.5000000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2500000 l "isa"
+5 2 0.1666667 l "isa"
+2 5 0.3333333 l "isa"
+6 2 0.1428571 l "isa"
+2 6 0.3333333 l "isa"
+*Edges

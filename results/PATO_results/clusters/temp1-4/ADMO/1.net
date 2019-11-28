@@ -1,0 +1,11 @@
+*Vertices 2
+1 "JUN_gene" ellipse
+2 "JUN_mRNA" ellipse
+*Arcs
+1 2 0.0229008 l "definition"
+2 1 0.0222222 l "definition"
+2 1 0.0222222 l "definition"
+1 2 0.0229008 l "definition"
+1 2 0.0229008 l "distance"
+2 1 0.0222222 l "distance"
+*Edges

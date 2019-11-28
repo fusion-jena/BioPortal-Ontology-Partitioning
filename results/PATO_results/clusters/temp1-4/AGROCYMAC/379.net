@@ -1,0 +1,9 @@
+*Vertices 2
+1 "decision" ellipse
+2 "decision tree induction objective" ellipse
+*Arcs
+1 2 0.1398374 l "substring"
+2 1 0.1718494 l "substring"
+1 2 0.1398374 l "substring"
+2 1 0.1718494 l "substring"
+*Edges

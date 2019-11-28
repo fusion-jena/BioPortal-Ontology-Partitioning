@@ -1,0 +1,13 @@
+*Vertices 4
+1 "SNVTS" ellipse
+2 "Savants" ellipse
+3 "Trisomy" ellipse
+4 "LearningDisordersMentalRetardation" ellipse
+*Arcs
+2 4 0.5000000 l "isa"
+4 2 0.0833333 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0833333 l "isa"
+1 2 0.0203743 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

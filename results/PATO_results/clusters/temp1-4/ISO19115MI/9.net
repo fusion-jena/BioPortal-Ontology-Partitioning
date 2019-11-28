@@ -1,0 +1,13 @@
+*Vertices 2
+1 "MD_KeywordTypeCode" ellipse
+2 "MD_Keywords" ellipse
+*Arcs
+2 1 0.1693446 l "type"
+1 2 0.4260099 l "type"
+2 1 0.1693446 l "definition"
+1 2 0.4260099 l "definition"
+2 1 0.1693446 l "type"
+1 2 0.4260099 l "type"
+2 1 0.1693446 l "definition"
+1 2 0.4260099 l "definition"
+*Edges

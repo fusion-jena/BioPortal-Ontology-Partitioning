@@ -1,0 +1,9 @@
+*Vertices 2
+1 "smooth muscle cell" ellipse
+2 "muscle cell" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.5000000 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

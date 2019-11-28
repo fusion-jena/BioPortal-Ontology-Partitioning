@@ -1,0 +1,26 @@
+*Vertices 3
+1 "alveolar duct lumen" ellipse
+2 "alveolar lumen" ellipse
+3 "pulmonary surfactant" ellipse
+*Arcs
+3 1 0.2321185 l "definition"
+1 3 0.1974766 l "definition"
+3 2 0.2452801 l "definition"
+2 3 0.2433451 l "definition"
+3 1 0.2321185 l "definition"
+1 3 0.1974766 l "definition"
+3 2 0.2452801 l "definition"
+2 3 0.2433451 l "definition"
+3 1 0.2321185 l "definition"
+1 3 0.1974766 l "definition"
+3 2 0.2452801 l "definition"
+2 3 0.2433451 l "definition"
+3 1 0.2321185 l "definition"
+1 3 0.1974766 l "definition"
+3 2 0.2452801 l "definition"
+2 3 0.2433451 l "definition"
+3 1 0.2321185 l "definition"
+1 3 0.1974766 l "definition"
+3 2 0.2452801 l "definition"
+2 3 0.2433451 l "definition"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "LH-RH" ellipse
+2 "Thigh" ellipse
+*Arcs
+1 2 0.1894749 l "distance"
+2 1 0.1365440 l "distance"
+1 2 0.1894749 l "distance"
+2 1 0.1365440 l "distance"
+1 2 0.1894749 l "distance"
+2 1 0.1365440 l "distance"
+1 2 0.1894749 l "distance"
+2 1 0.1365440 l "distance"
+1 2 0.1894749 l "distance"
+2 1 0.1365440 l "distance"
+1 2 0.1894749 l "distance"
+2 1 0.1365440 l "distance"
+*Edges

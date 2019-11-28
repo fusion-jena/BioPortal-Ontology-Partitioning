@@ -1,0 +1,48 @@
+*Vertices 5
+1 "GnRHAnalog" ellipse
+2 "HormonalTreatment" ellipse
+3 "HormoneTherapyDrug" ellipse
+4 "LHRHAnalog" ellipse
+5 "LHRHAnalogTreatment" ellipse
+*Arcs
+1 3 0.4574185 l "isa"
+3 1 0.1906915 l "isa"
+4 3 0.2609801 l "isa"
+3 4 0.1604007 l "isa"
+5 2 0.4403633 l "isa"
+2 5 0.1224119 l "isa"
+4 5 0.3709894 l "substring"
+5 4 0.5596367 l "substring"
+1 4 0.5425815 l "distance"
+4 1 0.3680305 l "distance"
+1 3 0.4574185 l "isa"
+3 1 0.1906915 l "isa"
+4 3 0.2609801 l "isa"
+3 4 0.1604007 l "isa"
+5 2 0.4403633 l "isa"
+2 5 0.1224119 l "isa"
+4 5 0.3709894 l "substring"
+5 4 0.5596367 l "substring"
+1 4 0.5425815 l "distance"
+4 1 0.3680305 l "distance"
+1 3 0.4574185 l "isa"
+3 1 0.1906915 l "isa"
+4 3 0.2609801 l "isa"
+3 4 0.1604007 l "isa"
+5 2 0.4403633 l "isa"
+2 5 0.1224119 l "isa"
+4 5 0.3709894 l "substring"
+5 4 0.5596367 l "substring"
+1 4 0.5425815 l "distance"
+4 1 0.3680305 l "distance"
+1 3 0.4574185 l "isa"
+3 1 0.1906915 l "isa"
+4 3 0.2609801 l "isa"
+3 4 0.1604007 l "isa"
+5 2 0.4403633 l "isa"
+2 5 0.1224119 l "isa"
+4 5 0.3709894 l "substring"
+5 4 0.5596367 l "substring"
+1 4 0.5425815 l "distance"
+4 1 0.3680305 l "distance"
+*Edges

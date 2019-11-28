@@ -1,0 +1,24 @@
+*Vertices 7
+1 "action specification" ellipse
+2 "Discriminate" ellipse
+3 "Fixate" ellipse
+4 "Smile Instructions" ellipse
+5 "Encode" ellipse
+6 "Generate" ellipse
+7 "Instructions" ellipse
+*Arcs
+2 7 1.0000000 l "isa"
+7 2 0.0454545 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.0454545 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.0909091 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.0454545 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.0454545 l "isa"
+7 1 0.0454545 l "isa"
+1 7 1.0000000 l "isa"
+4 7 1.0000000 l "substring"
+7 4 0.0909091 l "substring"
+*Edges

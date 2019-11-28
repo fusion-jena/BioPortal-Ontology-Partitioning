@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Pag Island" ellipse
+2 "Pitt Island" ellipse
+*Arcs
+1 2 0.5889868 l "distance"
+2 1 0.5889868 l "distance"
+1 2 0.5889868 l "distance"
+2 1 0.5889868 l "distance"
+1 2 0.5889868 l "distance"
+2 1 0.5889868 l "distance"
+*Edges

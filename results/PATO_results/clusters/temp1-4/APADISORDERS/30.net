@@ -1,0 +1,11 @@
+*Vertices 2
+1 "outdoor air quality" ellipse
+2 "indoor air quality" ellipse
+*Arcs
+1 2 0.5802425 l "distance"
+2 1 0.5802425 l "distance"
+1 2 0.5802425 l "distance"
+2 1 0.5802425 l "distance"
+1 2 0.5802425 l "distance"
+2 1 0.5802425 l "distance"
+*Edges

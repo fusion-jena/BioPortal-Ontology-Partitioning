@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Communication_and_Perception" ellipse
+2 "Communication text" ellipse
+*Arcs
+2 1 0.1760153 l "definition"
+1 2 0.1741941 l "definition"
+2 1 0.1760153 l "definition"
+1 2 0.1741941 l "definition"
+*Edges

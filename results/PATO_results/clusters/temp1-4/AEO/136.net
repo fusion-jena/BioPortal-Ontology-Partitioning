@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Kidney Failure" ellipse
+2 "NSAID effect" ellipse
+3 "gastritis" ellipse
+4 "has role"
+*Arcs
+1 4 0.2415949 l "definition"
+4 1 0.0044654 l "definition"
+1 2 0.2720388 l "definition"
+2 1 0.1527360 l "definition"
+3 4 0.2495262 l "definition"
+4 3 0.0045007 l "definition"
+3 2 0.2817106 l "definition"
+2 3 0.1543490 l "definition"
+1 4 0.2415949 l "definition"
+4 1 0.0044654 l "definition"
+1 2 0.2720388 l "definition"
+2 1 0.1527360 l "definition"
+3 4 0.2495262 l "definition"
+4 3 0.0045007 l "definition"
+3 2 0.2817106 l "definition"
+2 3 0.1543490 l "definition"
+1 4 0.2415949 l "definition"
+4 1 0.0044654 l "definition"
+1 2 0.2720388 l "definition"
+2 1 0.1527360 l "definition"
+3 4 0.2495262 l "definition"
+4 3 0.0045007 l "definition"
+3 2 0.2817106 l "definition"
+2 3 0.1543490 l "definition"
+*Edges

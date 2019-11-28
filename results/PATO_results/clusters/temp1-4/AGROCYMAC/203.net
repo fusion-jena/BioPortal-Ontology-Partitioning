@@ -1,0 +1,17 @@
+*Vertices 2
+1 "partitioning" ellipse
+2 "partition" ellipse
+*Arcs
+1 2 0.2653820 l "substring"
+2 1 0.2233042 l "substring"
+1 2 0.2653820 l "distance"
+2 1 0.2233042 l "distance"
+1 2 0.2653820 l "substring"
+2 1 0.2233042 l "substring"
+1 2 0.2653820 l "distance"
+2 1 0.2233042 l "distance"
+1 2 0.2653820 l "substring"
+2 1 0.2233042 l "substring"
+1 2 0.2653820 l "distance"
+2 1 0.2233042 l "distance"
+*Edges

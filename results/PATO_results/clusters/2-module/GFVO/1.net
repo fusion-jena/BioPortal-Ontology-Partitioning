@@ -1,0 +1,144 @@
+*Vertices 35
+1 "Ancestral Sequence" ellipse
+2 "Array Comparative Genomic Hybridization" ellipse
+3 "Biological Entity" ellipse
+4 "Biopolymer Sequencing" ellipse
+5 "Chemical Entity" ellipse
+6 "Chromosome" ellipse
+7 "DNA Microarray" ellipse
+8 "DNA Sequence" ellipse
+9 "DNA Sequencing" ellipse
+10 "Female" ellipse
+11 "Forward Reference Sequence Frameshift" ellipse
+12 "Fragment Read Platform" ellipse
+13 "Genomic Ascertaining Method" ellipse
+14 "Male" ellipse
+15 "Match" ellipse
+16 "Material Entity" ellipse
+17 "Object" ellipse
+18 "Paired End Read Platform" ellipse
+19 "Peptide Sequence" ellipse
+20 "Protein Sequence" ellipse
+21 "Proteome" ellipse
+22 "RNA Sequencing" ellipse
+23 "Reference Sequence" ellipse
+24 "Reference Sequence Gap" ellipse
+25 "Reverse Reference Sequence Frameshift" ellipse
+26 "Sequence" ellipse
+27 "Sequence Alignment" ellipse
+28 "Sequence Alignment Operation" ellipse
+29 "Sequence Variant" ellipse
+30 "Sequenced Individual" ellipse
+31 "Sequencing Technology Platform" ellipse
+32 "Target Sequence Gap" ellipse
+33 "is participant in"
+34 "is after"
+35 "is before"
+*Arcs
+1 23 0.5000000 l "isa"
+23 1 0.1666667 l "isa"
+2 13 1.0000000 l "isa"
+13 2 0.2000000 l "isa"
+3 16 0.1666667 l "isa"
+16 3 0.3333333 l "isa"
+4 13 0.3333333 l "isa"
+13 4 0.2000000 l "isa"
+5 16 0.2000000 l "isa"
+16 5 0.3333333 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2000000 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.2000000 l "isa"
+8 26 0.1818182 l "isa"
+26 8 0.0909091 l "isa"
+9 4 0.3333333 l "isa"
+4 9 0.3333333 l "isa"
+11 28 0.3333333 l "isa"
+28 11 0.0714286 l "isa"
+12 31 1.0000000 l "isa"
+31 12 0.3333333 l "isa"
+15 28 0.5000000 l "isa"
+28 15 0.0714286 l "isa"
+16 17 0.3333333 l "isa"
+17 16 0.2000000 l "isa"
+18 31 1.0000000 l "isa"
+31 18 0.3333333 l "isa"
+19 26 0.2500000 l "isa"
+26 19 0.0909091 l "isa"
+20 19 0.5000000 l "isa"
+19 20 0.1250000 l "isa"
+21 3 1.0000000 l "isa"
+3 21 0.1666667 l "isa"
+22 4 0.5000000 l "isa"
+4 22 0.3333333 l "isa"
+23 8 0.1666667 l "isa"
+8 23 0.0909091 l "isa"
+24 28 0.3333333 l "isa"
+28 24 0.0714286 l "isa"
+25 28 0.3333333 l "isa"
+28 25 0.0714286 l "isa"
+26 5 0.0454545 l "isa"
+5 26 0.2000000 l "isa"
+27 17 0.1666667 l "isa"
+17 27 0.2000000 l "isa"
+29 8 0.5000000 l "isa"
+8 29 0.0909091 l "isa"
+30 3 0.5000000 l "isa"
+3 30 0.1666667 l "isa"
+31 13 0.3333333 l "isa"
+13 31 0.2000000 l "isa"
+32 28 0.5000000 l "isa"
+28 32 0.0714286 l "isa"
+27 28 0.3333333 l "definition"
+28 27 0.1428571 l "definition"
+27 33 0.1666667 l "definition"
+33 27 1.0000000 l "definition"
+28 34 0.0714286 l "definition"
+34 28 1.0000000 l "definition"
+28 35 0.0714286 l "definition"
+35 28 1.0000000 l "definition"
+1 26 0.5000000 l "substring"
+26 1 0.0454545 l "substring"
+8 26 0.1818182 l "substring"
+26 8 0.0909091 l "substring"
+10 14 0.4000000 l "substring"
+14 10 0.1818182 l "substring"
+11 23 0.3333333 l "substring"
+23 11 0.1666667 l "substring"
+11 26 0.3333333 l "substring"
+26 11 0.0454545 l "substring"
+19 26 0.2500000 l "substring"
+26 19 0.0909091 l "substring"
+20 26 0.5000000 l "substring"
+26 20 0.0454545 l "substring"
+23 24 0.1666667 l "substring"
+24 23 0.3333333 l "substring"
+23 25 0.1666667 l "substring"
+25 23 0.3333333 l "substring"
+23 26 0.1666667 l "substring"
+26 23 0.0454545 l "substring"
+24 26 0.3333333 l "substring"
+26 24 0.0454545 l "substring"
+25 26 0.3333333 l "substring"
+26 25 0.0454545 l "substring"
+26 27 0.0454545 l "substring"
+27 26 0.1666667 l "substring"
+26 28 0.0454545 l "substring"
+28 26 0.0714286 l "substring"
+26 29 0.0454545 l "substring"
+29 26 0.5000000 l "substring"
+26 30 0.0454545 l "substring"
+30 26 0.5000000 l "substring"
+26 32 0.0454545 l "substring"
+32 26 0.5000000 l "substring"
+27 28 0.3333333 l "substring"
+28 27 0.1428571 l "substring"
+8 9 0.0909091 l "distance"
+9 8 0.3333333 l "distance"
+9 22 0.3333333 l "distance"
+22 9 0.5000000 l "distance"
+10 14 0.4000000 l "distance"
+14 10 0.1818182 l "distance"
+14 15 0.0909091 l "distance"
+15 14 0.5000000 l "distance"
+*Edges

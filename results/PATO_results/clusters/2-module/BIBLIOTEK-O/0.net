@@ -1,0 +1,130 @@
+*Vertices 47
+1 "ProjectionCharacteristic" ellipse
+2 "Status" ellipse
+3 "Motivation" ellipse
+4 "Location" ellipse
+5 "Host" ellipse
+6 "Binder" ellipse
+7 "Sheet" ellipse
+8 "Singer" ellipse
+9 "Microfilm cassette" ellipse
+10 "Microfilm reel" ellipse
+11 "Microfilm roll" ellipse
+12 "Videotape reel" ellipse
+13 "Assignee" ellipse
+14 "Audiotape reel" ellipse
+15 "Author" ellipse
+16 "Binding designer" ellipse
+17 "Cartographer" ellipse
+18 "Choreographer" ellipse
+19 "Computer card" ellipse
+20 "Cover designer" ellipse
+21 "Creator" ellipse
+22 "Designer" ellipse
+23 "Editor" ellipse
+24 "Film distributor" ellipse
+25 "Film editor" ellipse
+26 "Film reel" ellipse
+27 "Film roll" ellipse
+28 "Forger" ellipse
+29 "Lender" ellipse
+30 "Lighting designer" ellipse
+31 "Microfiche" ellipse
+32 "Microfilm cartridge" ellipse
+33 "Monitor" ellipse
+34 "Narrator" ellipse
+35 "Offer" ellipse
+36 "Owner" ellipse
+37 "Photographer" ellipse
+38 "Ruby annotations" ellipse
+39 "Set designer" ellipse
+40 "Signer" ellipse
+41 "Sound designer" ellipse
+42 "Stereograph" ellipse
+43 "Synchronized audio text" ellipse
+44 "Tactile object" ellipse
+45 "Video cartridge" ellipse
+46 "Video cassette" ellipse
+47 "TactileNotation" ellipse
+*Arcs
+44 47 0.3333333 l "isa"
+47 44 0.3333333 l "isa"
+16 22 0.3333333 l "substring"
+22 16 0.1111111 l "substring"
+16 40 0.3333333 l "substring"
+40 16 0.0769231 l "substring"
+20 22 0.3333333 l "substring"
+22 20 0.1111111 l "substring"
+20 40 0.3333333 l "substring"
+40 20 0.0769231 l "substring"
+22 30 0.1111111 l "substring"
+30 22 0.3333333 l "substring"
+22 39 0.1111111 l "substring"
+39 22 0.3333333 l "substring"
+22 40 0.2222222 l "substring"
+40 22 0.1538462 l "substring"
+22 41 0.1111111 l "substring"
+41 22 0.3333333 l "substring"
+23 25 0.1666667 l "substring"
+25 23 0.3333333 l "substring"
+26 10 0.1666667 l "substring"
+10 26 0.1428571 l "substring"
+27 11 0.1666667 l "substring"
+11 27 0.1428571 l "substring"
+30 40 0.3333333 l "substring"
+40 30 0.0769231 l "substring"
+39 40 0.3333333 l "substring"
+40 39 0.0769231 l "substring"
+40 41 0.0769231 l "substring"
+41 40 0.3333333 l "substring"
+13 22 0.3333333 l "distance"
+22 13 0.1111111 l "distance"
+13 40 0.3333333 l "distance"
+40 13 0.0769231 l "distance"
+14 12 0.1666667 l "distance"
+12 14 0.1428571 l "distance"
+6 29 0.1111111 l "distance"
+29 6 0.1250000 l "distance"
+6 36 0.1111111 l "distance"
+36 6 0.1111111 l "distance"
+6 40 0.1111111 l "distance"
+40 6 0.0769231 l "distance"
+6 8 0.1111111 l "distance"
+8 6 0.1111111 l "distance"
+17 18 0.3333333 l "distance"
+18 17 0.3333333 l "distance"
+17 37 0.3333333 l "distance"
+37 17 0.3333333 l "distance"
+18 37 0.3333333 l "distance"
+37 18 0.3333333 l "distance"
+21 34 0.2500000 l "distance"
+34 21 0.3333333 l "distance"
+22 40 0.2222222 l "distance"
+40 22 0.1538462 l "distance"
+23 33 0.1666667 l "distance"
+33 23 0.3333333 l "distance"
+26 27 0.1666667 l "distance"
+27 26 0.1666667 l "distance"
+28 35 0.2500000 l "distance"
+35 28 0.3333333 l "distance"
+28 36 0.2500000 l "distance"
+36 28 0.1111111 l "distance"
+28 8 0.2500000 l "distance"
+8 28 0.1111111 l "distance"
+5 7 0.1428571 l "distance"
+7 5 0.1428571 l "distance"
+29 36 0.1250000 l "distance"
+36 29 0.1111111 l "distance"
+29 8 0.1250000 l "distance"
+8 29 0.1111111 l "distance"
+10 11 0.1428571 l "distance"
+11 10 0.1428571 l "distance"
+35 36 0.3333333 l "distance"
+36 35 0.1111111 l "distance"
+36 40 0.1111111 l "distance"
+40 36 0.0769231 l "distance"
+36 8 0.1111111 l "distance"
+8 36 0.1111111 l "distance"
+40 8 0.0769231 l "distance"
+8 40 0.1111111 l "distance"
+*Edges

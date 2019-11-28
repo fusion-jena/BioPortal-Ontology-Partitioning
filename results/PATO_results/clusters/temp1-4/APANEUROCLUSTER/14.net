@@ -1,0 +1,11 @@
+*Vertices 2
+1 "OSTEO" ellipse
+2 "Osteoporosis" ellipse
+*Arcs
+1 2 0.0454729 l "substring"
+2 1 0.5067495 l "substring"
+1 2 0.0454729 l "substring"
+2 1 0.5067495 l "substring"
+1 2 0.0454729 l "substring"
+2 1 0.5067495 l "substring"
+*Edges

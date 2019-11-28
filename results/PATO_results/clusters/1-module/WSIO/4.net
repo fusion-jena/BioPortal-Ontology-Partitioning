@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Transfer" ellipse
+2 "In SOAP body" ellipse
+3 "MTOM" ellipse
+4 "Download from URL" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+*Edges

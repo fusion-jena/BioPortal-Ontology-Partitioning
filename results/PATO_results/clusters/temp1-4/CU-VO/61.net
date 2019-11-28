@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Olfactory nerve disorder" ellipse
+2 "Grade 2 Olfactory nerve disorder" ellipse
+3 "Grade 3 Olfactory nerve disorder" ellipse
+*Arcs
+2 1 0.7253257 l "isa"
+1 2 0.4395434 l "isa"
+3 1 0.7253257 l "isa"
+1 3 0.4395434 l "isa"
+1 2 0.4395434 l "substring"
+2 1 0.7253257 l "substring"
+1 3 0.4395434 l "substring"
+3 1 0.7253257 l "substring"
+2 3 0.2746743 l "distance"
+3 2 0.2746743 l "distance"
+2 1 0.7253257 l "isa"
+1 2 0.4395434 l "isa"
+3 1 0.7253257 l "isa"
+1 3 0.4395434 l "isa"
+1 2 0.4395434 l "substring"
+2 1 0.7253257 l "substring"
+1 3 0.4395434 l "substring"
+3 1 0.7253257 l "substring"
+2 3 0.2746743 l "distance"
+3 2 0.2746743 l "distance"
+2 1 0.7253257 l "isa"
+1 2 0.4395434 l "isa"
+3 1 0.7253257 l "isa"
+1 3 0.4395434 l "isa"
+1 2 0.4395434 l "substring"
+2 1 0.7253257 l "substring"
+1 3 0.4395434 l "substring"
+3 1 0.7253257 l "substring"
+2 3 0.2746743 l "distance"
+3 2 0.2746743 l "distance"
+*Edges

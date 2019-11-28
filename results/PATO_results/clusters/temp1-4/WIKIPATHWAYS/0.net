@@ -1,0 +1,332 @@
+*Vertices 329
+1 "wood-featured person / 木形之人" ellipse
+2 "fire-featured person" ellipse
+3 "earth-featured person" ellipse
+4 "metal-featured person" ellipse
+5 "water-featured person" ellipse
+6 "person of taiyin / 太阴之人" ellipse
+7 "yang-heat diathesis  / 阳热质" ellipse
+8 "yin-cold diathesis  / 阴寒质" ellipse
+9 "blood stasis diathesis  / 血瘀质" ellipse
+10 "phlegm-dampness diathesis /  痰湿质" ellipse
+11 "dual qi and blood deficiency diathesis  / 气血两虚质" ellipse
+12 "Lung Meridian (LU) / 手太阴肺经 / 수태음폐경" ellipse
+13 "Large Intestine Meridian (LI) / 手阳明大肠经 / 수양명대장경" ellipse
+14 "Stomach Meridian (ST) / 足阳明胃经 / 족양명위경" ellipse
+15 "Spleen Meridian (SP) / 足太阴脾经 / 족태음비경" ellipse
+16 "Heart Meridian (HT) / 手少阴心经 / 수소음심경" ellipse
+17 "Small Intestine Meridian (SI) / 手太阳小肠经 / 수태양소장경" ellipse
+18 "Bladder Meridian (BL) / 足太阳膀胱经 / 족태양방광경" ellipse
+19 "Kidney Meridian / 足少阴肾经 / 족소음신경" ellipse
+20 "Pericardium Meridian (PC) / 手厥阴心包经 / 수궐음심포경" ellipse
+21 "Sanjiao (Triple Energizer) Meridian (TE) / 手少阳三焦经 / 수소양삼초경" ellipse
+22 "Gallbladder Meridian (GB) / 足少阳胆经 / 족소양담경" ellipse
+23 "Liver Meridian (LR) / 足厥阴肝经 / 족궐음간경" ellipse
+24 "Governor (Vessel) Meridian (GV) / 독맥" ellipse
+25 "Conception (Vessel) Meridian (CV) / 임맥" ellipse
+26 "Thoroughfare (Vessel) Meridian / 충맥" ellipse
+27 "Belt (Vessel) Meridian / 대맥" ellipse
+28 "Excessive Physical Work" ellipse
+29 "Excessive Mental Work" ellipse
+30 "Excessive Exercise" ellipse
+31 "Diet Imbalance" ellipse
+32 "Excessive Sexual Activity /  房劳过度" ellipse
+33 "dietary intemperance / 饮食不节" ellipse
+34 "food preference, including predilection of fatty and sweet food, pungent food, alcohol, tea and foreign bodies / 饮食偏嗜（包括嗜食肥甘、辛辣、酒、茶饮、异物等）" ellipse
+35 "maladjustment of work and rest / 劳逸失度" ellipse
+36 "long-term easy and comfortable life  / 过度安逸" ellipse
+37 "Intrauterine Transfer / 胎传" ellipse
+38 "abdominal fullness / 腹滿 / 복만" ellipse
+39 "Abdominal mass / 癥积 / 징적" ellipse
+40 "abdominal pain / 腹痛 / 복통" ellipse
+41 "abdominal urgency / 裏急 / 이급" ellipse
+42 "absence of sweating / 無汗 / 무한" ellipse
+43 "aching pain / 酸痛 / 산통" ellipse
+44 "acid regurgitation / 呑酸 / 탄산" ellipse
+45 "afternoon tidal fever / 午後潮熱 / 오후조열" ellipse
+46 "agitation / 煩躁 / 번조" ellipse
+47 "Amnesia / 健忘 / 건망" ellipse
+48 "anguish in the heart / 心中懊憹 / 심중오농" ellipse
+49 "Aphonia / 失音 / 실음" ellipse
+50 "Arthralgia / 关节痛 / 관절통" ellipse
+51 "Ascites / 腹水 / 복수" ellipse
+52 "aversion to cold / 惡寒 / 오한" ellipse
+53 "aversion to cold with fever / 惡寒發熱; 發熱惡寒 / 오한발열;발열오한" ellipse
+54 "aversion to heat / 惡熱 / 오열" ellipse
+55 "aversion to wind / 惡風 / 오풍" ellipse
+56 "back pain / 背痛 / 배통" ellipse
+57 "belching / 噯氣; 噫氣 / 애기;희기" ellipse
+58 "bijikan / 微似汗 / 미사한" ellipse
+59 "bitter taste in the mouth / 口苦 / 구고" ellipse
+60 "black fur / 黑苔 / 흑태" ellipse
+61 "bland taste in the mouth / 口淡 / 구담" ellipse
+62 "Blindness / 目盲 / 목맹" ellipse
+63 "blood amassment / 蓄血 / 축혈" ellipse
+64 "Hematochezia / 便血 / 변혈;청혈" ellipse
+65 "blue tongue / 靑舌 / 청설" ellipse
+66 "bluish purple tongue / 靑紫舌 / 청자설" ellipse
+67 "blurred vision / 目昏; 視物模糊; 視瞻昏渺 / 목혼;시물모호;시첨혼묘" ellipse
+68 "breast pain / 乳房疼痛 / 유방동통" ellipse
+69 "chest pain / 胸痛 / 복통" ellipse
+70 "chills without fever / 但寒不熱" ellipse
+71 "choke / 噎" ellipse
+72 "clear-food diarrhea / 下利淸穀; 完穀下利" ellipse
+73 "cold diarrhea / 寒泄" ellipse
+74 "cold pain / 冷痛" ellipse
+75 "cold sweating / 冷汗" ellipse
+76 "Constipation / 便秘[闭]" ellipse
+77 "contracted tongue / 短縮舌" ellipse
+78 "contracture / 拘急" ellipse
+79 "contracture below the umbilicus / 臍下拘急" ellipse
+80 "contracture of the limbs / 四肢拘急" ellipse
+81 "contracture of the nape and neck / 項背拘急" ellipse
+82 "convulsions / 抽搐; 瘛瘲" ellipse
+83 "Cough / 咳嗽" ellipse
+84 "crimson tongue / 絳舌" ellipse
+85 "curdy fur / 腐苔" ellipse
+86 "curled tongue / 舌卷" ellipse
+87 "curled tongue and retracted testicles / 舌卷囊縮" ellipse
+88 "deafness / 耳聾" ellipse
+89 "delirium / 譫妄" ellipse
+90 "deviated tongue / 歪斜舌" ellipse
+91 "diarrhea / 泄[腹]泻" ellipse
+92 "dietary predilection / 嗜偏食" ellipse
+93 "difficult painful urination / 小便澁痛" ellipse
+94 "difficult urination / 小便難; 癃閉" ellipse
+95 "discomfort in the throat / 咽喉不利" ellipse
+96 "distal bleeding / 遠血" ellipse
+97 "distending pain / 脹痛" ellipse
+98 "distress below the heart / 心下急" ellipse
+99 "dizzy vision / 目眩" ellipse
+100 "double vision / 視岐" ellipse
+101 "dreaming of intercourse / 夢交" ellipse
+102 "dribbling urination / 小便淋漓" ellipse
+103 "dry and cracked fur / 燥裂苔" ellipse
+104 "dry mouth / 口乾" ellipse
+105 "dry retching / 乾嘔" ellipse
+106 "dry stool / 大便乾燥; 燥屎" ellipse
+107 "dry tongue / 舌乾" ellipse
+108 "dull pain / 隱痛" ellipse
+109 "Dysphagia / 噎膈" ellipse
+110 "ebyo / 壊病" ellipse
+111 "Edema / 水肿" ellipse
+112 "efflux diarrhea / 滑泄" ellipse
+113 "empty pain / 空痛" ellipse
+114 "encrusted skin / 肌膚甲錯" ellipse
+115 "enlarged tongue / 胖大舌" ellipse
+116 "enuresis / 遺尿" ellipse
+117 "Epigastralgia / 胃脘痛" ellipse
+118 "Epigastric upset / 嘈杂" ellipse
+119 "Eruption / 出疹" ellipse
+120 "exfoliated fur / 類剝苔" ellipse
+121 "expiry sweating / 絶汗" ellipse
+122 "fainting / 昏厥" ellipse
+123 "false vitality / 假神" ellipse
+124 "fear of cold / 畏寒" ellipse
+125 "fecal incontinence / 大便滑脫" ellipse
+126 "fecal qi / 矢氣" ellipse
+127 "fetid mouth odor / 口臭" ellipse
+128 "Fever / 发热" ellipse
+129 "fever without chills / 但熱不寒" ellipse
+130 "fever worsening at night / 身熱夜甚" ellipse
+131 "fifth-watch diarrhea / 五更泄" ellipse
+132 "fissured tongue / 裂紋舌" ellipse
+133 "fixed pain / 固定痛" ellipse
+134 "flusteredness / 心慌" ellipse
+135 "form of the tongue / 舌形" ellipse
+136 "frequent urination / 小便頻數" ellipse
+137 "fullness below the heart / 心下滿" ellipse
+138 "fullness in the chest and hypochondrium / 胸脇滿; 胸脅苦滿" ellipse
+139 "fulminant diarrhea / 暴瀉" ellipse
+140 "Gastric stuffiness / 脘痞" ellipse
+141 "genital pain / 陰器痛" ellipse
+142 "genital sweating / 陰汗" ellipse
+143 "geographical tongue / 地圖舌" ellipse
+144 "Gingival hemorrhage / 齿衄" ellipse
+145 "great dripping sweat / 大汗淋漓" ellipse
+146 "greenish fur / 綠苔" ellipse
+147 "gripping pain / 絞痛" ellipse
+148 "half-body absence of sweating / 半身無汗" ellipse
+149 "half-body sweating / 半身汗出" ellipse
+150 "hangaihanri / 半外半裏" ellipse
+151 "hard bound stool / 大便硬結" ellipse
+152 "hardness and fullness / 鞕滿; 硬滿" ellipse
+153 "headache / 头痛" ellipse
+154 "headache and painful stiff nape / 頭項强痛" ellipse
+155 "heat in the palms and soles / 手足心熱" ellipse
+156 "heat vexation / 煩熱" ellipse
+157 "heavy body / 身重" ellipse
+158 "heavy head and light feet / 頭重脚輕" ellipse
+159 "heavy-headedness / 頭重" ellipse
+160 "heel pain / 足跟痛" ellipse
+161 "heimyaku / 平脈" ellipse
+162 "Hematuria / 尿血" ellipse
+163 "hemoptysis / 喀血; 咳血" ellipse
+164 "high fever / 壯熱" ellipse
+165 "Hypochondriac pain / 胁痛" ellipse
+166 "impotence / 陽痿" ellipse
+167 "Insomnia / 失眠" ellipse
+168 "inhibited urination / 小便不利" ellipse
+169 "insensitivity / 不仁" ellipse
+170 "itchy eyes / 目癢" ellipse
+171 "Jaundice / 黄疸" ellipse
+172 "kagyaku / 火逆" ellipse
+173 "kakuran / 霍乱" ellipse
+174 "lack of strength / 乏力" ellipse
+175 "lack of vitality / 少神" ellipse
+176 "lassitude of spirit / 神疲" ellipse
+177 "late afternoon tidal fever / 日晡潮熱" ellipse
+178 "leaking sweat / 漏汗" ellipse
+179 "Leukorrhea / 带下" ellipse
+180 "limp wilting tongue / 痿軟舌" ellipse
+181 "loss of blood / 失血; 奪血" ellipse
+182 "loss of smell / 鼻不聞香臭" ellipse
+183 "loss of vitality / 失神" ellipse
+184 "lower abdominal colic / 疝" ellipse
+185 "lower abdominal contracture / 小腹拘急; 小腹弦急" ellipse
+186 "lower abdominal cramp / 小腹急結" ellipse
+187 "lower abdominal fullness / 小腹滿; 小腹硬滿" ellipse
+188 "lower abdominal numbness / 小腹不仁" ellipse
+189 "lumbago / 腰痛" ellipse
+190 "luxuriant, withered, tough and tender-soft / 榮枯老嫩" ellipse
+191 "mental confusion / 神昏" ellipse
+192 "Metrorrhagia and metrostaxis / 崩漏" ellipse
+193 "mild fever / 微熱" ellipse
+194 "mirror tongue / 鏡面舌" ellipse
+195 "moist fur / 潤苔" ellipse
+196 "motility of the tongue / 舌態" ellipse
+197 "mouth odor / 口氣" ellipse
+198 "mukan / 無汗" ellipse
+199 "muscular twitching and cramp / 筋惕肉瞤" ellipse
+200 "myakusho / 脈象" ellipse
+201 "nasal congestion / 鼻塞; 鼻窒" ellipse
+202 "nausea / 惡心" ellipse
+203 "night sweating / 盜汗" ellipse
+204 "numbness below the umbilicus / 臍下不仁" ellipse
+205 "numbness in the mouth / 口麻" ellipse
+206 "numbness of the skin / 肌膚麻木" ellipse
+207 "oily sweat / 油汗" ellipse
+208 "onetsu / 悪熱" ellipse
+209 "oppression in the chest / 胸悶" ellipse
+210 "oppressive pain / 悶痛" ellipse
+211 "pain of unfixed location / 痛無定處" ellipse
+212 "pale red tongue / 淡紅舌" ellipse
+213 "pale tongue / 淡白舌" ellipse
+214 "palpitations / 心悸" ellipse
+215 "palpitations above the umbilicus / 臍上悸" ellipse
+216 "palpitations below the heart / 心下悸" ellipse
+217 "palpitations below the umbilicus / 臍下悸; 臍下悸動" ellipse
+218 "palpitations beside the umbilicus / 臍傍悸" ellipse
+219 "Panting / 气喘" ellipse
+220 "Paralysis / 瘫痪" ellipse
+221 "paralyzed tongue / 麻痹舌" ellipse
+222 "paraumbilical and hypochondriac aggregation / 痃癖" ellipse
+223 "paroxysmal pain / 陣發痛" ellipse
+224 "peeled tongue / 光剝舌" ellipse
+225 "peeling fur / 剝苔; 舌苔脫落" ellipse
+226 "persistent pain / 持續痛" ellipse
+227 "pitting edema / 胕腫" ellipse
+228 "poor libido / 性欲淡漠" ellipse
+229 "presence of vitality / 得神" ellipse
+230 "prickly tongue / 芒刺舌" ellipse
+231 "profuse dreaming / 多夢" ellipse
+232 "profuse sweating / 多汗; 大汗" ellipse
+233 "protracted tongue / 舌縱" ellipse
+234 "protruded agitated tongue / 吐弄舌" ellipse
+235 "proximal bleeding / 近血" ellipse
+236 "puffy face / 面浮" ellipse
+237 "pulling pain / 掣痛" ellipse
+238 "purple tongue / 紫舌" ellipse
+239 "Purplish macula / 紫斑" ellipse
+240 "red tongue / 紅舌" ellipse
+241 "reddish yellow urine / 小便黃赤" ellipse
+242 "retained food / 宿食" ellipse
+243 "retching / 噦" ellipse
+244 "reversal cold of the extremities / 手足厥冷; 厥冷; 厥逆" ellipse
+245 "reversal of qi / 厥" ellipse
+246 "rigidity below the heart / 心下堅; 心下鞕" ellipse
+247 "rotten-curdy fur / 霉醬苔" ellipse
+248 "salty taste in the mouth / 口鹹" ellipse
+249 "scorching pain / 灼痛" ellipse
+250 "scurrying pain / 竄痛" ellipse
+251 "severe pain / 劇痛" ellipse
+252 "shiver sweating / 戰汗" ellipse
+253 "shivering / 寒戰" ellipse
+254 "Skin itching / 皮肤瘙痒" ellipse
+255 "sleep walking / 夢遊" ellipse
+256 "slimy fur / 膩苔" ellipse
+257 "slippery fur / 滑苔" ellipse
+258 "sloppy diarrhea / 溏泄" ellipse
+259 "sloppy stool / 便溏" ellipse
+260 "snoring / 鼻鼾" ellipse
+261 "soggy diarrhea / 濡泄" ellipse
+262 "sour taste in the mouth / 口酸" ellipse
+263 "spasm / 拘攣; 攣急, 抽搐" ellipse
+264 "spitting of blood / 唾血" ellipse
+265 "spontaneous bleeding of the tongue / 舌衄" ellipse
+266 "spontaneous diarrhea / 大便自利" ellipse
+267 "spontaneous sweating / 自汗" ellipse
+268 "spontaneous urination / 小便自利" ellipse
+269 "spotted tongue / 點刺舌" ellipse
+270 "stabbing pain / 刺痛" ellipse
+271 "stained fur / 染苔" ellipse
+272 "sticky slimy fur / 粘膩苔" ellipse
+273 "sticky slimy sensation in the mouth / 口粘膩" ellipse
+274 "stiff tongue / 强硬舌" ellipse
+275 "stiffness of the neck / 項强" ellipse
+276 "stomach pain / 脘痛; 胃痛" ellipse
+277 "stool containing pus and blood / 便膿血" ellipse
+278 "stool sometimes sloppy and sometimes bound / 溏結不調" ellipse
+279 "stuffiness / 痞" ellipse
+280 "stuffiness and fullness / 痞滿" ellipse
+281 "stuffiness and rigidity below the heart / 心下痞堅; 心下痞鞕" ellipse
+282 "stuffiness and rigidity in the chest / 胸中痞硬; 胸下痞硬" ellipse
+283 "suigyaku / 逆" ellipse
+284 "supraorbital pain / 眉棱骨痛" ellipse
+285 "sweating from the armpits / 腋汗" ellipse
+286 "sweating from the hands and feet / 手足汗" ellipse
+287 "sweating from the head / 頭汗" ellipse
+288 "sweating from the heart region / 心汗" ellipse
+289 "sweating from the palms and soles / 手足心汗" ellipse
+290 "sweet taste in the mouth / 口甜" ellipse
+291 "swift digestion with rapid hungering / 消穀善饑" ellipse
+292 "swill diarrhea / 飧泄" ellipse
+293 "swollen tongue / 腫脹舌" ellipse
+294 "taste in the mouth / 口味" ellipse
+295 "teeth-marked tongue / 齒痕舌" ellipse
+296 "tenesmus / 裏急後重" ellipse
+297 "tensiki flatus / 転失気" ellipse
+298 "thin tongue / 瘦薄舌" ellipse
+299 "thirst / 口渴" ellipse
+300 "throughflux diarrhea / 洞泄" ellipse
+301 "tidal fever / 潮熱" ellipse
+302 "tightness below the heart / 心下支結" ellipse
+303 "tinnitus / 耳鸣" ellipse
+304 "tongue fur / 舌苔" ellipse
+305 "Toothache / 牙痛" ellipse
+306 "torpid intake / 納呆" ellipse
+307 "trembling tongue / 顫動舌" ellipse
+308 "Tremor / 震颤" ellipse
+309 "true visceral color / 眞臟色" ellipse
+310 "turbid urine / 尿浊" ellipse
+311 "undigested food in stool / 完穀不化" ellipse
+312 "ungratifying diarrhea / 瀉下不爽" ellipse
+313 "unsurfaced fever / 身熱不揚" ellipse
+314 "urinary incontinence / 小便失禁" ellipse
+315 "Vertigo / 眩晕" ellipse
+316 "vexation / 心煩" ellipse
+317 "vexation of deficiency type / 虛煩" ellipse
+318 "vexing heat in the chest, palms and soles / 五心煩熱" ellipse
+319 "vexing heat in the extremities / 手足煩熱" ellipse
+320 "vomiting / 呕吐" ellipse
+321 "vomiting in the evening of food eaten in the morning / 朝食暮吐" ellipse
+322 "vomiting in the morning of food eaten in the evening / 暮食朝吐" ellipse
+323 "wandering pain / 遊走痛" ellipse
+324 "watery diarrhea / 水瀉; 注泄" ellipse
+325 "white fur / 白苔" ellipse
+326 "white sandy fur / 白砂苔" ellipse
+327 "yellow fur / 黃苔" ellipse
+328 "PublicationReference" ellipse
+329 "ConceptScheme" ellipse
+*Arcs
+*Edges

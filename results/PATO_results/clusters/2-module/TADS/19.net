@@ -1,0 +1,9 @@
+*Vertices 2
+1 "adult columella" ellipse
+2 "adult columella stalk" ellipse
+*Arcs
+2 1 0.5000000 l "definition"
+1 2 0.3333333 l "definition"
+1 2 0.3333333 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

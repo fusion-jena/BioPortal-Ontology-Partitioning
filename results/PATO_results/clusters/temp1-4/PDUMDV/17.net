@@ -1,0 +1,13 @@
+*Vertices 2
+1 "CHILD" ellipse
+2 "CHILD_NAME" ellipse
+*Arcs
+2 1 0.4356077 l "isa"
+1 2 0.2026306 l "isa"
+1 2 0.2026306 l "substring"
+2 1 0.4356077 l "substring"
+2 1 0.4356077 l "isa"
+1 2 0.2026306 l "isa"
+1 2 0.2026306 l "substring"
+2 1 0.4356077 l "substring"
+*Edges

@@ -1,0 +1,91 @@
+*Vertices 18
+1 "BCL2" ellipse
+2 "B_Cell" ellipse
+3 "B_Reg" ellipse
+4 "B cell" ellipse
+5 "CD68" ellipse
+6 "CD8" ellipse
+7 "CD80" ellipse
+8 "CD86" ellipse
+9 "CD8_Reg" ellipse
+10 "Lymphocyte differentiation" ellipse
+11 "MYD88" ellipse
+12 "NKT cell" ellipse
+13 "NK_Cell" ellipse
+14 "T-bet" ellipse
+15 "TGF-Beta" ellipse
+16 "T_Reg" ellipse
+17 "Tgf_beta" ellipse
+18 "Treg" ellipse
+*Arcs
+2 10 0.2000000 l "isa"
+10 2 0.1666667 l "isa"
+3 4 0.2000000 l "isa"
+4 3 0.2000000 l "isa"
+6 10 0.0105263 l "isa"
+10 6 0.1666667 l "isa"
+18 10 0.0270270 l "isa"
+10 18 0.1666667 l "isa"
+6 7 0.0210526 l "substring"
+7 6 0.0487805 l "substring"
+6 8 0.0210526 l "substring"
+8 6 0.0454545 l "substring"
+6 9 0.0105263 l "substring"
+9 6 0.3333333 l "substring"
+1 2 0.0181818 l "distance"
+2 1 0.2000000 l "distance"
+1 4 0.0181818 l "distance"
+4 1 0.2000000 l "distance"
+1 6 0.0181818 l "distance"
+6 1 0.0105263 l "distance"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+2 4 0.2000000 l "distance"
+4 2 0.2000000 l "distance"
+2 13 0.2000000 l "distance"
+13 2 0.3333333 l "distance"
+3 9 0.2000000 l "distance"
+9 3 0.3333333 l "distance"
+3 16 0.2000000 l "distance"
+16 3 0.1250000 l "distance"
+3 18 0.2000000 l "distance"
+18 3 0.0270270 l "distance"
+4 12 0.2000000 l "distance"
+12 4 0.5000000 l "distance"
+4 13 0.2000000 l "distance"
+13 4 0.3333333 l "distance"
+5 6 0.0232558 l "distance"
+6 5 0.0105263 l "distance"
+5 7 0.0232558 l "distance"
+7 5 0.0243902 l "distance"
+5 8 0.0232558 l "distance"
+8 5 0.0227273 l "distance"
+5 11 0.0232558 l "distance"
+11 5 0.2500000 l "distance"
+6 7 0.0210526 l "distance"
+7 6 0.0487805 l "distance"
+6 8 0.0210526 l "distance"
+8 6 0.0454545 l "distance"
+6 11 0.0105263 l "distance"
+11 6 0.2500000 l "distance"
+7 8 0.0243902 l "distance"
+8 7 0.0227273 l "distance"
+7 11 0.0243902 l "distance"
+11 7 0.2500000 l "distance"
+8 11 0.0227273 l "distance"
+11 8 0.2500000 l "distance"
+9 16 0.3333333 l "distance"
+16 9 0.1250000 l "distance"
+12 13 0.5000000 l "distance"
+13 12 0.3333333 l "distance"
+14 15 0.3333333 l "distance"
+15 14 0.5000000 l "distance"
+14 16 0.3333333 l "distance"
+16 14 0.1250000 l "distance"
+14 18 0.3333333 l "distance"
+18 14 0.0270270 l "distance"
+15 17 0.5000000 l "distance"
+17 15 1.0000000 l "distance"
+16 18 0.1250000 l "distance"
+18 16 0.0270270 l "distance"
+*Edges

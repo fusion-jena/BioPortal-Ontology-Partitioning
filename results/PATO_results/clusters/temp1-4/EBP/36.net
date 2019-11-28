@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Constipation" ellipse
+2 "Perceived_Constipation" ellipse
+*Arcs
+1 2 0.1379025 l "substring"
+2 1 0.1134296 l "substring"
+1 2 0.1379025 l "substring"
+2 1 0.1134296 l "substring"
+1 2 0.1379025 l "substring"
+2 1 0.1134296 l "substring"
+*Edges

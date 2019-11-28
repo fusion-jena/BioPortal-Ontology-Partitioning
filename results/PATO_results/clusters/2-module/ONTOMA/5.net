@@ -1,0 +1,51 @@
+*Vertices 14
+1 "Association" ellipse
+2 "Association_international" ellipse
+3 "Autre_stratégie" ellipse
+4 "Banderole" ellipse
+5 "Banderole_du_guérisseur" ellipse
+6 "Bannière" ellipse
+7 "Bannière_publicitaire" ellipse
+8 "Organisme_de_santé" ellipse
+9 "Organisme_national" ellipse
+10 "Bande_d'annonce" ellipse
+11 "Banderole_de_l'association_des_guérisseurs" ellipse
+12 "Stratégie_d'association_de_guérisseurs" ellipse
+13 "Stratégie_d'intégration" ellipse
+14 "Stratégie_d'organisme" ellipse
+*Arcs
+1 8 0.2500000 l "isa"
+8 1 0.2500000 l "isa"
+2 8 0.5000000 l "isa"
+8 2 0.2500000 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.3333333 l "isa"
+4 10 0.2000000 l "isa"
+10 4 0.5000000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.4000000 l "isa"
+6 10 0.3333333 l "isa"
+10 6 0.5000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.6666667 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.2500000 l "isa"
+11 4 0.6666667 l "isa"
+4 11 0.4000000 l "isa"
+12 13 0.5000000 l "isa"
+13 12 0.3333333 l "isa"
+14 13 1.0000000 l "isa"
+13 14 0.3333333 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.5000000 l "substring"
+1 11 0.2500000 l "substring"
+11 1 0.3333333 l "substring"
+1 12 0.2500000 l "substring"
+12 1 0.5000000 l "substring"
+4 5 0.4000000 l "substring"
+5 4 1.0000000 l "substring"
+4 11 0.4000000 l "substring"
+11 4 0.6666667 l "substring"
+6 7 0.6666667 l "substring"
+7 6 1.0000000 l "substring"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 4
+1 "iron atom" ellipse
+2 "carbon group element atom" ellipse
+3 "boron group element atom" ellipse
+4 "iron group element atom" ellipse
+*Arcs
+1 4 0.1285188 l "isa"
+4 1 0.1276681 l "isa"
+2 3 0.1279817 l "distance"
+3 2 0.1279156 l "distance"
+2 4 0.1279817 l "distance"
+4 2 0.1276681 l "distance"
+3 4 0.1279156 l "distance"
+4 3 0.1276681 l "distance"
+1 4 0.1285188 l "isa"
+4 1 0.1276681 l "isa"
+2 3 0.1279817 l "distance"
+3 2 0.1279156 l "distance"
+2 4 0.1279817 l "distance"
+4 2 0.1276681 l "distance"
+3 4 0.1279156 l "distance"
+4 3 0.1276681 l "distance"
+*Edges

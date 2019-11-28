@@ -1,0 +1,15 @@
+*Vertices 2
+1 "MD_TopicCategoryCode"
+2 "topicCategory"
+*Arcs
+1 2 0.1458661 l "substring"
+2 1 0.3440311 l "substring"
+1 2 0.1458661 l "substring"
+2 1 0.3440311 l "substring"
+1 2 0.1458661 l "substring"
+2 1 0.3440311 l "substring"
+1 2 0.1458661 l "substring"
+2 1 0.3440311 l "substring"
+1 2 0.1458661 l "substring"
+2 1 0.3440311 l "substring"
+*Edges

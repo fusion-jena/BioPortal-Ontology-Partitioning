@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Macronutrient Protocol Development Carbohydrate" ellipse
+2 "Macronutrient Protocol Development Fat" ellipse
+3 "Macronutrient Protocol Development Fiber" ellipse
+4 "Macronutrient Protocol Development Protein" ellipse
+5 "Macronutrient Protocol Development" ellipse
+*Arcs
+1 5 0.4000000 l "isa"
+5 1 0.1538462 l "isa"
+2 5 0.3333333 l "isa"
+5 2 0.1538462 l "isa"
+3 5 0.3333333 l "isa"
+5 3 0.1538462 l "isa"
+4 5 0.4000000 l "isa"
+5 4 0.1538462 l "isa"
+1 5 0.4000000 l "substring"
+5 1 0.1538462 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.1538462 l "substring"
+3 5 0.3333333 l "substring"
+5 3 0.1538462 l "substring"
+4 5 0.4000000 l "substring"
+5 4 0.1538462 l "substring"
+*Edges

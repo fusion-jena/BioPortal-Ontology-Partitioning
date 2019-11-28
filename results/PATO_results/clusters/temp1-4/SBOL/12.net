@@ -1,0 +1,30 @@
+*Vertices 3
+1 "physical activity" ellipse
+2 "physical" ellipse
+3 "Physical training teacher" ellipse
+*Arcs
+1 2 0.4151503 l "substring"
+2 1 0.2910079 l "substring"
+2 3 0.3607969 l "substring"
+3 2 0.6253647 l "substring"
+1 2 0.4151503 l "substring"
+2 1 0.2910079 l "substring"
+2 3 0.3607969 l "substring"
+3 2 0.6253647 l "substring"
+1 2 0.4151503 l "substring"
+2 1 0.2910079 l "substring"
+2 3 0.3607969 l "substring"
+3 2 0.6253647 l "substring"
+1 2 0.4151503 l "substring"
+2 1 0.2910079 l "substring"
+2 3 0.3607969 l "substring"
+3 2 0.6253647 l "substring"
+1 2 0.4151503 l "substring"
+2 1 0.2910079 l "substring"
+2 3 0.3607969 l "substring"
+3 2 0.6253647 l "substring"
+1 2 0.4151503 l "substring"
+2 1 0.2910079 l "substring"
+2 3 0.3607969 l "substring"
+3 2 0.6253647 l "substring"
+*Edges

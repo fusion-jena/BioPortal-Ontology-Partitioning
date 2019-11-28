@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Eicosapentaenoic Acid" ellipse
+2 "omega-3 fatty acids" ellipse
+3 "fish oil" ellipse
+*Arcs
+1 2 0.6710372 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6710372 l "isa"
+1 2 0.6710372 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6710372 l "isa"
+1 2 0.6710372 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6710372 l "isa"
+1 2 0.6710372 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6710372 l "isa"
+1 2 0.6710372 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6710372 l "isa"
+1 2 0.6710372 l "isa"
+2 1 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.6710372 l "isa"
+*Edges

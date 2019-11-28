@@ -1,0 +1,17 @@
+*Vertices 4
+1 "source" ellipse
+2 "FC_DefinitionReference" ellipse
+3 "sourceIdentifier"
+4 "source"
+*Arcs
+2 3 0.0434783 l "definition"
+3 2 0.3333333 l "definition"
+1 3 0.0857711 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.1715422 l "substring"
+4 1 0.2222222 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.1111111 l "substring"
+1 4 0.1715422 l "distance"
+4 1 0.2222222 l "distance"
+*Edges

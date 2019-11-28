@@ -1,0 +1,792 @@
+*Vertices 789
+1 "Neoplasm, benign" ellipse
+2 "Neoplasm, uncertain whether benign or malignant" ellipse
+3 "Neoplasm, metastatic" ellipse
+4 "Tumor cells, benign" ellipse
+5 "Tumor cells, uncertain whether benign or malignant" ellipse
+6 "Tumor cells, malignant" ellipse
+7 "Malignant tumor, small cell type" ellipse
+8 "Malignant tumor, glant cell type" ellipse
+9 "Malignant tumor, spindle cell type" ellipse
+10 "Clear cell tumor, NOS" ellipse
+11 "Malignant tumor, clear cell type" ellipse
+12 "Epithelial tumor, benign" ellipse
+13 "Carcinomatosis" ellipse
+14 "Large cell neuroendocrine carcinoma" ellipse
+15 "Large cell carcinoma with rhabdoid phenotype" ellipse
+16 "Glassy cell carcinoma" ellipse
+17 "Carcinoma, undifferentiated, NOS" ellipse
+18 "Carcinoma, anaplastic, NOS" ellipse
+19 "Pleomorphic carcinoma" ellipse
+20 "Giant cell and spindle cell carcinoma" ellipse
+21 "Giant cell carcinoma" ellipse
+22 "Pseudosarcomatous carcinoma" ellipse
+23 "Polygonal cell carcinoma" ellipse
+24 "Carcinoma with osteoclast-like giant cells" ellipse
+25 "Tumorlet, benign" ellipse
+26 "Tumorlet, NOS" ellipse
+27 "Oat cell carcinoma (C34._)" ellipse
+28 "Small cell carcinoma, fusiform cell" ellipse
+29 "Small cell carcinoma, intermediate cell" ellipse
+30 "Combined small cell carcinoma" ellipse
+31 "Non-small cell carcinoma (C34._)" ellipse
+32 "Papilloma, NOS (except papilloma of bladder M-8120/I)" ellipse
+33 "Papillary carcinoma in situ" ellipse
+34 "Verrucous papilloma" ellipse
+35 "Squamous cell papilloma, NOS" ellipse
+36 "Squamous cell papilloma, inverted" ellipse
+37 "Squamous papillomatosis" ellipse
+38 "Squamous cell carcinoma, keratinizing, NOS" ellipse
+39 "Squamous cell carcinoma, large cell, nonkeratinizing, NOS" ellipse
+40 "Squamous cell carcinoma, small cell, nonkeratinizing" ellipse
+41 "Squamous cell carcinoma, spindle cell" ellipse
+42 "Squamous cell carcinoma, adenoid" ellipse
+43 "Squamous cell carcinoma in situ with questionable stromal invasion" ellipse
+44 "Squamous cell carcinoma, microinvasive" ellipse
+45 "Squamous intraepithelial neoplasia, low grade" ellipse
+46 "Squamous intraepithelial neoplasia, high grade" ellipse
+47 "Squamous cell carcinoma with horn formation" ellipse
+48 "Queyrat erythroplasia (C60._)" ellipse
+49 "Bowen disease (C44._)" ellipse
+50 "Lymphoepithelial carcinoma" ellipse
+51 "Basaloid squamous cell carcinoma" ellipse
+52 "Squamous cell carcinoma, clear cell type" ellipse
+53 "Basal cell tumor (C44._)" ellipse
+54 "Multifocal superficial basal cell carcinoma (C44._)" ellipse
+55 "Basal cell carcinoma, fibroepithelial (C44._)" ellipse
+56 "Basosquamous carcinoma (C44._)" ellipse
+57 "Metatypical carcinoma (C44._)" ellipse
+58 "Intraepidermal epithelioma of Jadassohn (C44._)" ellipse
+59 "Basal cell carcinoma, nodular (C44._)" ellipse
+60 "Adenoid basal carcinoma (C53._)" ellipse
+61 "Trichoepithelioma (C44._)" ellipse
+62 "Trichofolliculoma (C44._)" ellipse
+63 "Trichilemmoma (C44._)" ellipse
+64 "Trichilemmocarcinoma (C44._)" ellipse
+65 "Pilar tumor (C44._)" ellipse
+66 "Pilomatrixoma, NOS (C44._)" ellipse
+67 "Pilomatrix carcinoma (C44._)" ellipse
+68 "Transitional cell papilloma, benign" ellipse
+69 "Urothelial papilloma, NOS" ellipse
+70 "Schneiderian papilloma, NOS (C30.0, C31._)" ellipse
+71 "Transitional cell papilloma, inverted, NOS" ellipse
+72 "Schneiderian carcinoma (C30.0, C31._)" ellipse
+73 "Basaloid carcinoma" ellipse
+74 "Cloacogenic carcinoma (C21.2)" ellipse
+75 "Papillary transitional cell neoplasm of low malignant potential (C67._)" ellipse
+76 "Atypical adenoma" ellipse
+77 "Scirrhous adenocarcinoma" ellipse
+78 "Linitis plastica (C16._)" ellipse
+79 "Superficial spreading adenocarcinoma" ellipse
+80 "Adenocarcinoma, intestinal type (C16._)" ellipse
+81 "Carcinoma, diffuse type (C16._)" ellipse
+82 "Basal cell adenoma" ellipse
+83 "Basal cell adenocarcinoma" ellipse
+84 "Glandular intraepithelial neoplasia, low grade" ellipse
+85 "Glandular intraepithelial neoplasia, high grade" ellipse
+86 "Canalicular adenoma" ellipse
+87 "Pancreatic endocrine tumor, benign (C25._)" ellipse
+88 "Pancreatic endocrine tumor, NOS (C25._)" ellipse
+89 "Pancreatic endocrine tumor, malignant" ellipse
+90 "Insulinoma, NOS (C25._)" ellipse
+91 "Insulinoma, malignant (C25._)" ellipse
+92 "Glucagonoma, NOS (C25._)" ellipse
+93 "Glucagonoma, malignant (C25._)" ellipse
+94 "Gastrinoma, NOS" ellipse
+95 "Gastrinoma, malignant" ellipse
+96 "Mixed pancreatic endocrine and exocrine tumor, malignant (C25._)" ellipse
+97 "Vipoma, malignant" ellipse
+98 "Somatostatinoma, NOS" ellipse
+99 "Somatostatinoma, malignant" ellipse
+100 "Endocrine tumor, functioning, NOS" ellipse
+101 "Bile duct adenoma (C22.1, C24.0)" ellipse
+102 "Cholangiocarcinoma (C22.1, C24.0)" ellipse
+103 "Bile duct cystadenoma (C22.1, C24.0)" ellipse
+104 "Bile duct cystadenocarcinoma (C22.1, C24.0)" ellipse
+105 "Klatskin tumor (C22.1, C24.0)" ellipse
+106 "Pancreatobiliary neoplasm, non-invasive" ellipse
+107 "Papillary neoplasm, pancreatobiliary-type, with high grade intraepithelial neoplasia (C24.1)" ellipse
+108 "Pancreatobiliary-type carcinoma (C24.1)" ellipse
+109 "Liver cell adenoma (C22.0)" ellipse
+110 "Hepatocellular carcinoma, fibrolamellar (C22.0)" ellipse
+111 "Hepatocellular carcinoma, scirrhous (C22.0)" ellipse
+112 "Hepatocellular carcinoma, spindle cell variant (C22.0)" ellipse
+113 "Hepatocellular carcinoma, clear cell type (C22.0)" ellipse
+114 "Hepatocellular carcinoma, pleomorphic type (C22.0)" ellipse
+115 "Combined hepatocellular carcinoma and cholangiocarcinoma (C22.0)" ellipse
+116 "Trabecular adenocarcinoma" ellipse
+117 "Embryonal adenoma" ellipse
+118 "Eccrine dermal cylindroma (C44._)" ellipse
+119 "Adenoid cystic carcinoma" ellipse
+120 "Cribriform carcinoma in situ (C50._)" ellipse
+121 "Microcystic adenoma (C25._)" ellipse
+122 "Lactating adenoma (C50._)" ellipse
+123 "Adenomatous polyp, NOS" ellipse
+124 "Adenocarcinoma in situ in adenomatous polyp" ellipse
+125 "Tubular adenocarcinoma" ellipse
+126 "Flat adenoma" ellipse
+127 "Serrated adenoma (C18._)" ellipse
+128 "Serrated adenocarcinoma" ellipse
+129 "Parietal cell carcinoma (C16._)" ellipse
+130 "Adenocarcinoma of anal glands (C21.1)" ellipse
+131 "Ductal carcinoma in situ, solid type (C50._)" ellipse
+132 "Carcinoma simplex" ellipse
+133 "Carcinoid tumor of uncertain malignant potential" ellipse
+134 "Carcinoid tumor, NOS" ellipse
+135 "Enterochromaffin cell carcinoid" ellipse
+136 "Enterochromaffin-like cell carcinoid, NOS" ellipse
+137 "Enterochromaffin-like cell tumor, malignant" ellipse
+138 "Goblet cell carcinoid" ellipse
+139 "Mixed adenoneuroendocrine carcinoma" ellipse
+140 "Tubular carcinoid" ellipse
+141 "Adenocarcinoid tumor" ellipse
+142 "Merkel cell carcinoma (C44._)" ellipse
+143 "Apudoma" ellipse
+144 "Atypical carcinoid tumor" ellipse
+145 "Pulmonary adenomatosis (C34._)" ellipse
+146 "Alveolar adenoma (C34._)" ellipse
+147 "Alveolar adenocarcinoma (C34._)" ellipse
+148 "Bronchiolo-alveolar carcinoma, non-mucinous (C34._)" ellipse
+149 "Bronchio-alveolar carcinoma, mucinous (C34._)" ellipse
+150 "Bronchio-alveolar carcinoma, mixed mucinous and non-mucinous (C34._)" ellipse
+151 "Adenocarcinoma with mixed subtypes" ellipse
+152 "Adenocarcinoma in situ in villous adenoma" ellipse
+153 "Adenocarcinoma in villous adenoma" ellipse
+154 "Villous adenocarcinoma" ellipse
+155 "Adenocarcinoma in situ in tubulovillous adenoma" ellipse
+156 "Adenocarcinoma in tubolovillous adenoma" ellipse
+157 "Papillomatosis, glandular" ellipse
+158 "Chromophobe adenoma (C75.1)" ellipse
+159 "Chromophobe carcinoma (C75.1)" ellipse
+160 "Prolactinoma (C75.1)" ellipse
+161 "Acidophil adenoma (C75.1)" ellipse
+162 "Acidophil carcinoma (C75.1)" ellipse
+163 "Oxyphilic adenoma" ellipse
+164 "Oxyphilic adenocarcinoma" ellipse
+165 "Hypernephroid tumor [obs]" ellipse
+166 "Clear cell adenofibroma (C56.9)" ellipse
+167 "Clear cell adenofibroma of borderline malignancy (C56.9)" ellipse
+168 "Lipid-rich carcinoma (C50._)" ellipse
+169 "Glycogen-rich carcinoma" ellipse
+170 "Cyst-associated renal cell carcinoma (C64.9)" ellipse
+171 "Renal cell carcinoma, chromophobe type (C64.9)" ellipse
+172 "Renal cell carcinoma, sarcomatoid (C64.9)" ellipse
+173 "Collecting duct carcinoma (C64.9)" ellipse
+174 "Granular cell carcinoma" ellipse
+175 "Chief cell adenoma (C75.0)" ellipse
+176 "Water-clear cell adenocarcinoma (C75.0)" ellipse
+177 "Mixed cell adenoma" ellipse
+178 "Mixed cell adenocarcinoma" ellipse
+179 "Lipoadenoma" ellipse
+180 "Metanephric adenoma (C64.9)" ellipse
+181 "Follicular adenocarcinoma, well differentiated (C73.9)" ellipse
+182 "Follicular adenocarcinoma, trabecular (C73.9)" ellipse
+183 "Fetal adenocarcinoma" ellipse
+184 "Follicular carcinoma, minimally invasive (C73.9)" ellipse
+185 "Insular carcinoma (C73.9)" ellipse
+186 "Papillary carcinoma, follicular variant (C73.9)" ellipse
+187 "Papillary microcarcinoma (C73.9)" ellipse
+188 "Papillary carcinoma, oxyphilic cell (C73.9)" ellipse
+189 "Papillary carcinoma, encapsulated (C73.9)" ellipse
+190 "Papillary carcinoma, columnar cell (C73.9)" ellipse
+191 "Medullary carcinoma with amyloid stroma (C73.9)" ellipse
+192 "Mixed medullary-follicular carcinoma (C73.9)" ellipse
+193 "Mixed medullary-papillary carcinoma (C73.9)" ellipse
+194 "Nonencapsulated sclerosing carcinoma (C73.9)" ellipse
+195 "Multiple endocrine adenomas" ellipse
+196 "Juxtaglomerular tumor (C64.9)" ellipse
+197 "Adrenal cortical carcinoma (C74.0)" ellipse
+198 "Adrenal cortical adenoma, compact cell (C74.0)" ellipse
+199 "Adrenal cortical adenoma, pigmented (C74.0)" ellipse
+200 "Adrenal cortical adenoma, clear cell (C74.0)" ellipse
+201 "Adrenal cortical adenoma, glomerulosa cell (C74.0)" ellipse
+202 "Adrenal cortical adenoma, mixed cell (C74.0)" ellipse
+203 "Endometrioid adenoma, borderline malignancy" ellipse
+204 "Endometrioid adenofibroma, borderline malignancy" ellipse
+205 "Endometrioid adenofibroma, malignant" ellipse
+206 "Endometrioid adenocarcinoma, secretory variant" ellipse
+207 "Endometrioid adenocarcinoma, ciliated cell variant" ellipse
+208 "Skin appendage adenoma (C44._)" ellipse
+209 "Skin appendage carcinoma (C44._)" ellipse
+210 "Follicular fibroma (C44._)" ellipse
+211 "Syringofibroadenoma (C44._)" ellipse
+212 "Sweat gland adenoma (C44._)" ellipse
+213 "Sweat gland tumor, NOS (C44._)" ellipse
+214 "Sweat gland adenocarcinoma (C44._)" ellipse
+215 "Apocrine adenoma" ellipse
+216 "Apocrine adenocarcinoma" ellipse
+217 "Nodular hidradenoma (C44._)" ellipse
+218 "Nodular hidradenoma, malignant (C44._)" ellipse
+219 "Hidrocystoma (C44._)" ellipse
+220 "Papillary hidradenoma" ellipse
+221 "Papillary syringadenoma (C44._)" ellipse
+222 "Syringoma, NOS (C44._)" ellipse
+223 "Sclerosing sweat duct carcinoma (C44._)" ellipse
+224 "Eccrine papillary adenoma (C44._)" ellipse
+225 "Aggressive digital papillary adenoma (C44._)" ellipse
+226 "Eccrine papillary adenocarcinoma (C44._)" ellipse
+227 "Eccrine poroma (C44._)" ellipse
+228 "Eccrine poroma, malignant" ellipse
+229 "Sebaceous adenoma (C44._)" ellipse
+230 "Sebaceous adenocarcinoma (C44._)" ellipse
+231 "Eccrine adenocarcinoma (C44._)" ellipse
+232 "Ceruminous adenoma (C44.2)" ellipse
+233 "Ceruminous adenocarcinoma (C44.2)" ellipse
+234 "Mucoepidermoid tumor [obs]" ellipse
+235 "Mucoepidermoid carcinoma" ellipse
+236 "Serous cystadenoma, borderline malignancy (C56.9)" ellipse
+237 "Clear cell cystadenoma (C56.9)" ellipse
+238 "Clear cell cystic tumor of borderline malignancy (C56.9)" ellipse
+239 "Papillary cystadenoma, borderline malignancy (C56.9)" ellipse
+240 "Solid pseudopapillary tumor (C25._)" ellipse
+241 "Solid pseudopapillary carcinoma (C25._)" ellipse
+242 "Intraductal papillary-mucinous carcinoma, non-invasive (C25._)" ellipse
+243 "Intraductal papillary-mucinous carcinoma, invasive (C25._)" ellipse
+244 "Cystic tumor of atrio-ventricular node (C38.0)" ellipse
+245 "Papillary serous cystadenocarcinoma (C56.9)" ellipse
+246 "Serous surface papilloma (C56.9)" ellipse
+247 "Serous surface papillary carcinoma (C56.9)" ellipse
+248 "Serous papillary cystic tumor of borderline malignancy (C56.9)" ellipse
+249 "Serous surface papillary tumor of borderline malignancy (C56.9)" ellipse
+250 "Mucinous cystadenocarcinoma, non-invasive (C25._)" ellipse
+251 "Papillary mucinous cystadenocarcinoma (C56.9)" ellipse
+252 "Mucinous cystic tumor of borderline malignancy (C56.9)" ellipse
+253 "Papillary mucinous cystadenoma, borderline malignancy (C56.9)" ellipse
+254 "Low grade appendiceal mucinous neoplasm (C18.1)" ellipse
+255 "Pseudomyxoma peritonei" ellipse
+256 "Mucin-producing adenocarcinoma" ellipse
+257 "Intraductal carcinoma, noninfiltrating, NOS" ellipse
+258 "Comedocarcinoma, noninfiltrating (C50._)" ellipse
+259 "Secretory carcinoma of breast (C50._)" ellipse
+260 "Noninfiltrating intraductal papillary adenocarcinoma (C50._)" ellipse
+261 "Intraductal papillary adenocarcinoma with invasion (C50._)" ellipse
+262 "Intracystic papillary adenoma" ellipse
+263 "Noninfiltrating intracystic carcinoma" ellipse
+264 "Adenoma of nipple (C50.0)" ellipse
+265 "Intraductal micropapillary carcinoma (C50._)" ellipse
+266 "Cystic hypersecretory carcinoma (C50._)" ellipse
+267 "Medullary carcinoma with lymphoid stroma" ellipse
+268 "Atypical medullary carcinoma (C50._)" ellipse
+269 "Duct carcinoma, desmoplastic type" ellipse
+270 "Infiltrating ductular carcinoma (C50._)" ellipse
+271 "Intraductal carcinoma and lobular carcinoma in situ (C50._)" ellipse
+272 "Infiltrating duct and lobular carcinoma (C50._)" ellipse
+273 "Infiltrating duct mixed with other types of carcinoma (C50._)" ellipse
+274 "Infiltrating lobular mixed with other types of carcinoma (C50._)" ellipse
+275 "Polymorphous low grade adenocarcinoma" ellipse
+276 "Inflammatory carcinoma (C50._)" ellipse
+277 "Paget disease, mammary (C50._)" ellipse
+278 "Paget disease and infiltrating duct carcinoma of breast (C50._)" ellipse
+279 "Paget disease, extramammary (except Paget disease of bone)" ellipse
+280 "Paget disease and intraductal carcinoma of breast (C50._)" ellipse
+281 "Acinar cell tumour [obs]" ellipse
+282 "Acinar cell carcinoma" ellipse
+283 "Acinar cell cystadenocarcinoma" ellipse
+284 "Mixed acinar-ductal carcinoma" ellipse
+285 "Mixed squamous cell and glandular papilloma" ellipse
+286 "Adenosquamous carcinoma" ellipse
+287 "Adenolymphoma (C07._, C08._)" ellipse
+288 "Epithelial-myoepithelial carcinoma" ellipse
+289 "Adenocarcinoma with squamous metaplasia" ellipse
+290 "Adenocarcinoma with cartilaginous and osseous metaplasia" ellipse
+291 "Adenocarcinoma with spindle cell metaplasia" ellipse
+292 "Adenocarcinoma with apocrine metaplasia" ellipse
+293 "Adenocarcinoma with neuroendocrine differentiation" ellipse
+294 "Hepatoid adenocarcinoma" ellipse
+295 "Thymoma, benign (C37.9)" ellipse
+296 "Thymoma, NOS (C37.9)" ellipse
+297 "Thymoma, malignant, NOS (C37.9)" ellipse
+298 "Ectopic hamartomatous thymoma" ellipse
+299 "Spindle epithelial tumor with thymus-like element" ellipse
+300 "Carcinoma showing thymus-like element" ellipse
+301 "Sex cord-gonadal stromal tumor, incompletely differentiated" ellipse
+302 "Sex cord-gonadal stromal tumor, mixed forms" ellipse
+303 "Stromal tumor with minor sex cord elements (C56.9)" ellipse
+304 "Thecoma, NOS (C56.9)" ellipse
+305 "Thecoma, malignant (C56.9)" ellipse
+306 "Thecoma, luteinized (C56.9)" ellipse
+307 "Sclerosing stromal tumor (C56.9)" ellipse
+308 "Luteoma, NOS (C56.9)" ellipse
+309 "Granulosa cell tumor, adult type (C56.9)" ellipse
+310 "Granulosa cell tumor, malignant (C56.9)" ellipse
+311 "Granulosa cell-theca cell tumor (C56.9)" ellipse
+312 "Granulosa cell tumor, juvenile (C56.9)" ellipse
+313 "Sex cord tumor with annular tubules (C56.9)" ellipse
+314 "Androblastoma, benign" ellipse
+315 "Sertoli-Leydig cell tumor, well differentiated" ellipse
+316 "Sertoli-Leydig cell tumor of intermediate differentiation" ellipse
+317 "Gynandroblastoma (C56.9)" ellipse
+318 "Sertoli-Leydig cell tumor, retiform" ellipse
+319 "Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements" ellipse
+320 "Sertoli cell tumor, NOS" ellipse
+321 "Sertoli cell carcinoma (C62._)" ellipse
+322 "Sertoli cell tumor with lipid storage" ellipse
+323 "Large cell calcifying Sertoli cell tumor" ellipse
+324 "Leydig cell tumor, benign (C62._)" ellipse
+325 "Leydig cell tumor, NOS (C62._)" ellipse
+326 "Leydig cell tumor, malignant (C62._)" ellipse
+327 "Hilus cell tumor (C56.9)" ellipse
+328 "Lipid cell tumor of ovary (C56.9)" ellipse
+329 "Steroid cell tumor, malignant" ellipse
+330 "Adrenal rest tumor" ellipse
+331 "Paraganglioma, benign" ellipse
+332 "Gangliocytic paraganglioma (C17.0)" ellipse
+333 "Glomus jugulare tumor, NOS (C75.5)" ellipse
+334 "Aortic body tumor (C75.5)" ellipse
+335 "Carotid body tumor (C75.4)" ellipse
+336 "Pheochromocytoma, NOS (C74.1)" ellipse
+337 "Pheochromocytoma, malignant (C74.1)" ellipse
+338 "Glomus tumor, NOS" ellipse
+339 "Glomus tumor, malignant" ellipse
+340 "Melanoma in situ" ellipse
+341 "Malignant melanoma, NOS (except juvenile melanoma M-8770/0)" ellipse
+342 "Nodular melanoma (C44._)" ellipse
+343 "Balloon cell nevus (C44._)" ellipse
+344 "Balloon cell melanoma (C44._)" ellipse
+345 "Halo nevus (C44._)" ellipse
+346 "Malignant melanoma, regressing (C44._)" ellipse
+347 "Neuronevus (C44._)" ellipse
+348 "Magnocellular nevus (C69.4)" ellipse
+349 "Dysplastic nevus (C44._)" ellipse
+350 "Diffuse melanocytosis (C70.9)" ellipse
+351 "Meningeal melanocytoma (C70.9)" ellipse
+352 "Meningeal melanomatosis (C70.9)" ellipse
+353 "Nonpigmented nevus (C44._)" ellipse
+354 "Amelanotic melanoma (C44._)" ellipse
+355 "Junctional nevus, NOS (C44._)" ellipse
+356 "Malignant melanoma in junctional nevus (C44._)" ellipse
+357 "Precancerous melanosis, NOS (C44._)" ellipse
+358 "Malignant melanoma in precancerous melanosis (C44._)" ellipse
+359 "Lentigo maligna (C44._)" ellipse
+360 "Lentigo maligna melanoma (C44._)" ellipse
+361 "Superficial spreading melanoma (C44._)" ellipse
+362 "Acral lentiginous melanoma, malignant (C44._)" ellipse
+363 "Desmoplastic melanoma, malignant (C44._)" ellipse
+364 "Mucosal lentiginous melanoma" ellipse
+365 "Intradermal nevus (C44._)" ellipse
+366 "Compound nevus (C44._)" ellipse
+367 "Small congenital nevus (C44._)" ellipse
+368 "Malignant melanoma in giant pigmented nevus (C44._)" ellipse
+369 "Proliferative dermal lesion in congenital nevus (C44._)" ellipse
+370 "Epithelioid and spindle cell nevus (C44._)" ellipse
+371 "Mixed epithelioid and spindle cell melanoma" ellipse
+372 "Epithelioid cell nevus (C44._)" ellipse
+373 "Epithelioid cell melanoma" ellipse
+374 "Spindle cell nevus, NOS (C44._)" ellipse
+375 "Spindle cell melanoma, NOS" ellipse
+376 "Blue nevus, NOS (C44._)" ellipse
+377 "Blue nevus, malignant (C44._)" ellipse
+378 "Cellular blue nevus (C44._)" ellipse
+379 "Soft tissue tumor, benign" ellipse
+380 "Sarcomatosis, NOS" ellipse
+381 "Spindle cell sarcoma" ellipse
+382 "Giant cell sarcoma (except of bone M-9250/3)" ellipse
+383 "Epithelioid sarcoma" ellipse
+384 "Undifferentiated sarcoma" ellipse
+385 "Desmoplastic small round cell tumor" ellipse
+386 "Cellular fibroma (C56.9)" ellipse
+387 "Periosteal fibroma (C40._, C41._)" ellipse
+388 "Periosteal fibrosarcoma (C40._, C41._)" ellipse
+389 "Fascial fibroma" ellipse
+390 "Fascial fibrosarcoma" ellipse
+391 "Infantile fibrosarcoma" ellipse
+392 "Elastofibroma" ellipse
+393 "Aggressive fibromatosis" ellipse
+394 "Abdominal fibromatosis" ellipse
+395 "Desmoplastic fibroma" ellipse
+396 "Myofibroblastic tumor, NOS" ellipse
+397 "Myofibroblastic tumor, peribronchial (C34._)" ellipse
+398 "Benign fibrous histiocytoma" ellipse
+399 "Atypical fibrous histiocytoma" ellipse
+400 "Malignant fibrous histiocytoma" ellipse
+401 "Pigmented dermatofibrosarcoma protuberans (C44._)" ellipse
+402 "Giant cell fibroblastoma" ellipse
+403 "Plexiform fibrohistiocytic tumor" ellipse
+404 "Angiomatoid fibrous histiocytoma" ellipse
+405 "Ossifying fibromyxoid tumor" ellipse
+406 "Atypical lipoma" ellipse
+407 "Lipoarcoma, well differentiated" ellipse
+408 "Fibromyxolipoma" ellipse
+409 "Round cell liposarcoma" ellipse
+410 "Pleomorphic lipoma" ellipse
+411 "Pleomorphic liposarcoma" ellipse
+412 "Intramuscular lipoma" ellipse
+413 "Spindle cell lipoma" ellipse
+414 "Fibroblastic liposarcoma" ellipse
+415 "Dedifferentiated liposarcoma" ellipse
+416 "Angiomyolipoma" ellipse
+417 "Chondroid lipoma" ellipse
+418 "Myelolipoma" ellipse
+419 "Hibernoma" ellipse
+420 "Lipoblastomatosis" ellipse
+421 "Smooth muscle tumor of uncertain malignant potential" ellipse
+422 "Endometrial stromal nodule (C54.1)" ellipse
+423 "Endometrial stromal sarcoma, low grade (C54.1)" ellipse
+424 "Adenosarcoma" ellipse
+425 "Gastrointestinal stromal sarcoma" ellipse
+426 "Mixed tumor, malignant, NOS" ellipse
+427 "Mullerian mixed tumor (C54._)" ellipse
+428 "Mesodermal mixed tumor" ellipse
+429 "Benign cystic nephroma (C64.9)" ellipse
+430 "Cystic partially differentiated nephroblastoma (C64.9)" ellipse
+431 "Malignant cystic nephroma (C64.9)" ellipse
+432 "Mesoblastic nephroma" ellipse
+433 "Nephroblastoma, NOS (C64.9)" ellipse
+434 "Malignant rhabdoid tumor" ellipse
+435 "Clear cell sarcoma of kidney (C64.9)" ellipse
+436 "Nephrogenic adenofibroma (C64.9)" ellipse
+437 "Renomedullary interstitial cell tumor (C64.9)" ellipse
+438 "Ossifying renal tumor (C64.9)" ellipse
+439 "Hepatoblastoma (C22.0)" ellipse
+440 "Pancreatoblastoma (C25._)" ellipse
+441 "Pulmonary blastoma (C34._)" ellipse
+442 "Pleuropulmonary blastoma" ellipse
+443 "Sialoblastoma" ellipse
+444 "Calcifying nested epithelial stromal tumor (C22.0)" ellipse
+445 "Carcinosarcoma, embryonal" ellipse
+446 "Mesenchymoma, benign" ellipse
+447 "Mesenchymoma, NOS" ellipse
+448 "Mesenchymoma, malignant" ellipse
+449 "Embryonal sarcoma" ellipse
+450 "Brenner tumor, NOS (C56.9)" ellipse
+451 "Brenner tumor, borderline malignancy (C56.9)" ellipse
+452 "Brenner tumor, malignant (C56.9)" ellipse
+453 "Intracanalicular fibroadenoma (C50._)" ellipse
+454 "Pericanalicular fibroadenoma (C50._)" ellipse
+455 "Serous adenofibroma of borderline malignancy" ellipse
+456 "Mucinous adenofibroma of borderline malignancy" ellipse
+457 "Giant fibroadenoma (C50._)" ellipse
+458 "Phyllodes tumor, benign (C50._)" ellipse
+459 "Phyllodes tumor, borderline (C50._)" ellipse
+460 "Phyllodes tumor, malignant (C50._)" ellipse
+461 "Juvenile fibroadenoma (C50._)" ellipse
+462 "Synovioma, benign" ellipse
+463 "Synovial sarcoma, spindle cell" ellipse
+464 "Synovial sarcoma, epithelioid cell" ellipse
+465 "Synovial sarcoma, biphasic" ellipse
+466 "Mesothelioma, biphasic, malignant" ellipse
+467 "Adenomatoid tumor, NOS" ellipse
+468 "Cystic mesothelioma, NOS (C48._)" ellipse
+469 "Seminoma, NOS (C62._)" ellipse
+470 "Seminoma, anaplastic (C62._)" ellipse
+471 "Spermatocytic seminoma (C62._)" ellipse
+472 "Intratubular malignant germ cells (C62._)" ellipse
+473 "Germ cell tumor, nonseminomatous (C62._)" ellipse
+474 "Yolk sac tumor" ellipse
+475 "Polyembryoma" ellipse
+476 "Gonadoblastoma" ellipse
+477 "Teratoma, benign" ellipse
+478 "Teratoma, NOS" ellipse
+479 "Teratoma, malignant, NOS" ellipse
+480 "Teratocarcinoma" ellipse
+481 "Malignant teratoma, undifferentiated" ellipse
+482 "Malignant teratoma, intermediate" ellipse
+483 "Dermoid cyst, NOS" ellipse
+484 "Teratoma with malignant transformation" ellipse
+485 "Mixed germ cell tumor" ellipse
+486 "Struma ovarii, NOS (C56.9)" ellipse
+487 "Struma ovarii, malignant (C56.9)" ellipse
+488 "Strumal carcinoid (C56.9)" ellipse
+489 "Hydatidiform mole, NOS (C58.9)" ellipse
+490 "Invasive hydatidiform mole (C58.9)" ellipse
+491 "Choriocarcinoma combined with other germ cell elements" ellipse
+492 "Malignant teratoma, trophoblastic" ellipse
+493 "Partial hydatidiform mole (C58.9)" ellipse
+494 "Placental site trophoblastic tumor (C58.9)" ellipse
+495 "Trophoblastic tumor, epithelioid" ellipse
+496 "Mesonephroma, benign" ellipse
+497 "Mesonephric tumor, NOS" ellipse
+498 "Mesonephroma, malignant" ellipse
+499 "Racemose hemangioma" ellipse
+500 "Kupffer cell sarcoma (C22.0)" ellipse
+501 "Epithelioid hemangioma" ellipse
+502 "Hemangioendothelioma, benign" ellipse
+503 "Capillary hemangioma" ellipse
+504 "Intramuscular hemangioma" ellipse
+505 "Endovascular papillary angioendothelioma" ellipse
+506 "Spindle cell hemangioendothelioma" ellipse
+507 "Kaposi sarcoma" ellipse
+508 "Angiokeratoma" ellipse
+509 "Verrucous keratotic hemangioma" ellipse
+510 "Hemangiopericytoma, benign" ellipse
+511 "Hemangiopericytoma, NOS" ellipse
+512 "Hemangiopericytoma, malignant" ellipse
+513 "Acquired tufted hemangioma" ellipse
+514 "Haemangioblastoma" ellipse
+515 "Lymphangioma, NOS" ellipse
+516 "Lymphangiosarcoma" ellipse
+517 "Capillary lymphangioma" ellipse
+518 "Cavernous lymphangioma" ellipse
+519 "Cystic lymphangioma" ellipse
+520 "Hemolymphangioma" ellipse
+521 "Chondroblastic osteosarcoma (C40._,C41._)" ellipse
+522 "Fibroblastic osteosarcoma (C40._,C41._)" ellipse
+523 "Telangiectatic osteosarcoma (C40._,C41._)" ellipse
+524 "Osteosarcoma in Paget disease of bone (C40._,C41._)" ellipse
+525 "Small cell osteosarcoma (C40._,C41._)" ellipse
+526 "Central osteosarcoma (C40._,C41._)" ellipse
+527 "Intraosseous well differentiated osteosarcoma (C40._,C41._)" ellipse
+528 "High grade surface osteosarcoma (C40._,C41._)" ellipse
+529 "Intracortical osteosarcoma (C40._,C41._)" ellipse
+530 "Osteoclastoma, NOS (C40._,C41._)" ellipse
+531 "Aggressive osteoblastoma (C40._,C41._)" ellipse
+532 "Osteochondroma (C40._,C41._)" ellipse
+533 "Chondroma, NOS (C40._,C41._)" ellipse
+534 "Juxtacortical chondroma (C40._,C41._)" ellipse
+535 "Juxtacortical chondrosarcoma (C40._,C41._)" ellipse
+536 "Chondroblastoma, NOS (C40._,C41._)" ellipse
+537 "Chondroblastoma, malignant (C40._,C41._)" ellipse
+538 "Myxoid chondrosarcoma" ellipse
+539 "Mesenchymal chondrosarcoma" ellipse
+540 "Chondromyxoid fibroma (C40._,C41._)" ellipse
+541 "Clear cell chondrosarcoma (C40._,C41._)" ellipse
+542 "Dedifferentiated chondrosarcoma (C40._,C41._)" ellipse
+543 "Giant cell tumor of bone, NOS (C40._,C41._)" ellipse
+544 "Giant cell tumor of bone, malignant (C40._,C41._)" ellipse
+545 "Giant cell tumor of soft parts, NOS" ellipse
+546 "Malignant giant cell tumor of soft parts" ellipse
+547 "Ewing sarcoma" ellipse
+548 "Adamantinoma of long bones (C40._)" ellipse
+549 "Ossifying fibroma" ellipse
+550 "Odontogenic tumor, benign" ellipse
+551 "Odontogenic tumor, NOS" ellipse
+552 "Odontogenic tumor, malignant" ellipse
+553 "Ameloblastic fibrodentinoma" ellipse
+554 "Cementoma, NOS" ellipse
+555 "Cementoblastoma, benign" ellipse
+556 "Cementifying fibroma" ellipse
+557 "Gigantiform cementoma" ellipse
+558 "Compound odontoma" ellipse
+559 "Complex odontoma" ellipse
+560 "Ameloblastic fibro-odontoma" ellipse
+561 "Ameloblastic odontosarcoma" ellipse
+562 "Adenomatoid odontogenic tumor" ellipse
+563 "Calcifying odontogenic cyst" ellipse
+564 "Odontogenic ghost cell tumor" ellipse
+565 "Odontoameloblastoma" ellipse
+566 "Squamous odontogenic tumor" ellipse
+567 "Odontogenic myxoma" ellipse
+568 "Central odontogenic fibroma" ellipse
+569 "Peripheral odontogenic fibroma" ellipse
+570 "Ameloblastic fibroma" ellipse
+571 "Ameloblastic fibrosarcoma" ellipse
+572 "Calcifying epithelial odontogenic tumor" ellipse
+573 "Clear cell odontogenic tumor" ellipse
+574 "Odontogenic carcinosarcoma" ellipse
+575 "Craniopharyngioma (C75.2)" ellipse
+576 "Craniopharyngioma, adamantinomatous (C75.2)" ellipse
+577 "Craniopharyngioma, papillary (C75.2)" ellipse
+578 "Pinealoma (C75.3)" ellipse
+579 "Pineocytoma (C75.3)" ellipse
+580 "Pineoblastoma (C75.3)" ellipse
+581 "Melanotic neuroectodermal tumor" ellipse
+582 "Peripheral neuroectodermal tumor" ellipse
+583 "Askin tumor" ellipse
+584 "Chordoma, NOS" ellipse
+585 "Chondroid chordoma" ellipse
+586 "Dedifferentiated chordoma" ellipse
+587 "Parachordoma" ellipse
+588 "Glioma, malignant (C71._)" ellipse
+589 "Gliomatosis cerebri (C71._)" ellipse
+590 "Mixed glioma (C71._)" ellipse
+591 "Subependymoma (C71._)" ellipse
+592 "Subependymal giant cell astrocytoma (C71._)" ellipse
+593 "Choroid plexus papilloma, NOS (C71.5)" ellipse
+594 "Atypical choroid plexus papilloma (C71.5)" ellipse
+595 "Choroid plexus carcinoma (C71.5)" ellipse
+596 "Ependymoma, NOS (C71._)" ellipse
+597 "Ependymoma, anaplastic (C71._)" ellipse
+598 "Papillary ependymoma (C71._)" ellipse
+599 "Myxopapillary ependymoma (C72.0)" ellipse
+600 "Papillary tumor of the pineal region" ellipse
+601 "Astrocytoma, NOS (C71._)" ellipse
+602 "Astrocytoma, anaplastic (C71._)" ellipse
+603 "Protoplasmic astrocytoma (C71._)" ellipse
+604 "Gemistocytic astrocytoma (C71._)" ellipse
+605 "Desmoplastic infantile astrocytoma (C71._)" ellipse
+606 "Dysembryoplastic neuroepithelial tumor" ellipse
+607 "Fibrillary astrocytoma (C71._)" ellipse
+608 "Pilocytic astrocytoma (C71._)" ellipse
+609 "Polar spongioblastoma (C71._)" ellipse
+610 "Pleomorphic xanthoastrocytoma (C71._)" ellipse
+611 "Pilomyxoid astrocytoma" ellipse
+612 "Astroblastoma (C71._)" ellipse
+613 "Angiocentric glioma" ellipse
+614 "Pituicytoma" ellipse
+615 "Gliofibroma (C71._)" ellipse
+616 "Gliosarcoma (C71._)" ellipse
+617 "Chordoid glioma (C71._)" ellipse
+618 "Oligodendroglioma, NOS (C71._)" ellipse
+619 "Oligodendroglioma, anaplastic (C71._)" ellipse
+620 "Oligodendroblastoma (C71._) [obs]" ellipse
+621 "Medulloblastoma, NOS (C71.6)" ellipse
+622 "Desmoplastic nodular medulloblastoma (C71.6)" ellipse
+623 "Medullomyoblastoma (C71.6)" ellipse
+624 "Primitive neuroectodermal tumor, NOS" ellipse
+625 "Large cell medulloblastoma (C71.6)" ellipse
+626 "Ganglioneuroblastoma" ellipse
+627 "Medulloepithelioma, NOS" ellipse
+628 "Neuroepithelioma, NOS" ellipse
+629 "Spongioneuroblastoma" ellipse
+630 "Ganglioglioma, NOS" ellipse
+631 "Ganglioglioma, anaplastic" ellipse
+632 "Central neurocytoma" ellipse
+633 "Pacinian tumor" ellipse
+634 "Atypical teratoid/rhabdoid tumor (C71._)" ellipse
+635 "Papillary glioneuronal tumor" ellipse
+636 "Retinocytoma (C69.2)" ellipse
+637 "Retinoblastoma, NOS (C69.2)" ellipse
+638 "Retinoblastoma, diffuse (C69.2)" ellipse
+639 "Retinoblastoma, spontaneously regressed (C69.2)" ellipse
+640 "Olfactory neurogenic tumor" ellipse
+641 "Olfactory neurocytoma (C30.0)" ellipse
+642 "Olfactory neuroblastoma (C30.0)" ellipse
+643 "Olfactory neuroepithelioma (C30.0)" ellipse
+644 "Meningiomatosis, NOS" ellipse
+645 "Meningioma, malignant" ellipse
+646 "Meningothelial meningioma" ellipse
+647 "Fibrous meningioma" ellipse
+648 "Psammomatous meningioma" ellipse
+649 "Angiomatous meningioma" ellipse
+650 "Hemangioblastic meningioma [obs]" ellipse
+651 "Transitional meningioma" ellipse
+652 "Clear cell meningioma" ellipse
+653 "Papillary meningioma" ellipse
+654 "Atypical meningioma" ellipse
+655 "Meningeal sarcomatosis" ellipse
+656 "Neurofibromatosis, NOS" ellipse
+657 "Melanotic neurofibroma" ellipse
+658 "Plexiform neurofibroma" ellipse
+659 "Neurilemoma, NOS" ellipse
+660 "Neurinomatosis" ellipse
+661 "Neurilemoma, malignant [obs]" ellipse
+662 "Neurothekeoma" ellipse
+663 "Perineurioma, NOS" ellipse
+664 "Perineurioma, malignant" ellipse
+665 "Granular cell tumor, NOS" ellipse
+666 "Granular cell tumor, malignant" ellipse
+667 "Alveolar soft part sarcoma" ellipse
+668 "Granular cell tumor of the sellar region (C75.1)" ellipse
+669 "Malignant lymphoma, NOS" ellipse
+670 "Malignant lymphoma, non-Hodgkin, NOS" ellipse
+671 "Composite Hodgkin and non-Hodgkin lymphoma" ellipse
+672 "Primary cutaneous follicle centre lymphoma" ellipse
+673 "Hodgkin lymphoma, NOS" ellipse
+674 "Hodgkin lymphoma, lymphocyte-rich" ellipse
+675 "Hodgkin lymphoma, mixed cellularity, NOS" ellipse
+676 "Hodgkin lymphoma, lymphocyte depletion, NOS" ellipse
+677 "Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis" ellipse
+678 "Hodgkin lymphoma, lymphocyte depletion, reticular" ellipse
+679 "Hodgkin lymphoma, nodular lymphocyte predominance" ellipse
+680 "Hodgkin granuloma [obs]" ellipse
+681 "Hodgkin sarcoma [obs]" ellipse
+682 "Hodgkin lymphoma, nodular sclerosis, NOS" ellipse
+683 "Hodgkin lymphoma, nodular sclerosis, cellular phase" ellipse
+684 "Malignant lymphoma, small B lymphocytic, NOS (see also M-9823/3)" ellipse
+685 "Malignant lymphoma, lymphoplasmacytic (see also M-9761/3)" ellipse
+686 "Mantle cell lymphoma (Includes all variants: blastic, pleomorphic, small cell)" ellipse
+687 "Malignant lymphoma, mixed small and large cell, diffuse (see also M-9690/3) [obs]" ellipse
+688 "Primary effusion lymphoma" ellipse
+689 "Mediastinal (thymic) large B-cell lymphoma (C38.3)" ellipse
+690 "Malignant lymphoma, large B-cell, diffuse, NOS" ellipse
+691 "Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS" ellipse
+692 "Burkitt lymphoma, NOS (Includes all variants, see also M-9826/3)" ellipse
+693 "T-cell rich large B-cell lymphoma" ellipse
+694 "Splenic marginal zone B-cell lymphoma (C42.2)" ellipse
+695 "Follicular lymphoma, NOS (see also M-9675/3)" ellipse
+696 "Marginal zone B-cell lymphoma, NOS" ellipse
+697 "Mycosis fungoides (C44._)" ellipse
+698 "Sezary syndrome" ellipse
+699 "Mature T-cell lymphoma, NOS" ellipse
+700 "Angioimmunoblastic T-cell lymphoma" ellipse
+701 "Subcutaneous panniculitis-like T-cell lymphoma" ellipse
+702 "Cutaneous T-cell lymphoma, NOS (C44._)" ellipse
+703 "Intravascular large B-cell lymphoma (C49.9)" ellipse
+704 "Anaplastic large cell lymphoma, T cell and Null cell type" ellipse
+705 "Hepatosplenic T-cell lymphoma" ellipse
+706 "Intestinal T-cell lymphoma" ellipse
+707 "Primary cutaneous CD30+ T-cell lymphoproliferative disorder (C44._)" ellipse
+708 "NK/T-cell lymphoma, nasal and nasal-type" ellipse
+709 "Systemic EBV positive T-cell lymphoproliferative disease of childhood" ellipse
+710 "Hydroa vacciniforme-like lymphoma" ellipse
+711 "Primary cutaneous gamma-delta T-cell lymphoma" ellipse
+712 "Precursor cell lymphoblastic lymphoma, NOS (see also M-9835/3)" ellipse
+713 "Plasmacytoma, NOS" ellipse
+714 "Multiple myeloma (C42.1)" ellipse
+715 "Plasma cell leukemia (C42.1)" ellipse
+716 "Plasmacytoma, extramedullary (not occurring in bone)" ellipse
+717 "Plasmablastic lymphoma" ellipse
+718 "ALK positive large B-cell lymphoma" ellipse
+719 "Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease" ellipse
+720 "Indolent systemic mastocytosis" ellipse
+721 "Mast cell leukaemia (C42.1)" ellipse
+722 "Langerhans cell histiocytosis, disseminated (use 9751/3) [obs]" ellipse
+723 "Histiocytic sarcoma" ellipse
+724 "Langerhans cell sarcoma" ellipse
+725 "Interdigitating dendritic cell sarcoma" ellipse
+726 "Follicular dendritic cell sarcoma" ellipse
+727 "Fibroblastic reticular cell tumor" ellipse
+728 "Immunoproliferative disease, NOS" ellipse
+729 "Waldenstrom macroglobulinemia (C42.0) (see also M-9671/3)" ellipse
+730 "Heavy chain disease, NOS" ellipse
+731 "Immunoproliferative small intestinal disease (C17._)" ellipse
+732 "Monoclonal gammopathy of undetermined significance" ellipse
+733 "Angiocentric immunoproliferative lesion" ellipse
+734 "Angioimmunoblastic lymphadenopathy" ellipse
+735 "T-gamma lymphoproliferative disease" ellipse
+736 "Immunoglobulin deposition disease" ellipse
+737 "Acute biphenotypic leukemia" ellipse
+738 "Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1" ellipse
+739 "Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged" ellipse
+740 "B lymphoblastic leukemia/lymphoma, NOS" ellipse
+741 "B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1" ellipse
+742 "B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged" ellipse
+743 "B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)" ellipse
+744 "B lymphoblastic leukemia/lymphoma with hyperdiploidy" ellipse
+745 "B lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL)" ellipse
+746 "B lymphoblastic leukemia/lymphoma with t(5;14)(q31;q32); IL3-IGH" ellipse
+747 "B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)" ellipse
+748 "B-cell lymphocytic leukemia/small lymphocytic lymphoma (see also M-9670/3)" ellipse
+749 "Burkitt cell leukemia (see also M-9687/3)" ellipse
+750 "Adult T-cell leukemia/lymphoma (HTLV-1 positive) (includes all variants)" ellipse
+751 "T-cell large granular lymphocytic leukemia" ellipse
+752 "Acute myeloid leukemia, M6 type" ellipse
+753 "Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214" ellipse
+754 "Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)" ellipse
+755 "Acute myelomonocytic leukemia" ellipse
+756 "Acute myeloid leukemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1" ellipse
+757 "Acute basophilic leukaemia" ellipse
+758 "Acute myeloid leukemia with abnormal marrow eosinophils (includes all variants)" ellipse
+759 "Acute myeloid leukemia, minimal differentiation" ellipse
+760 "Chronic myelogenous leukemia, BCR-ABL positive" ellipse
+761 "Atypical chronic myeloid leukemia, BCR/ABL negative" ellipse
+762 "Acute monocytic leukemia" ellipse
+763 "Acute myeloid leukemia with myelodysplasia-related changes" ellipse
+764 "Acute myeloid leukaemia, t(8;21)(q22;q22)" ellipse
+765 "Acute myloid leukemia, 11q23 abnormalities" ellipse
+766 "Transient abnormal myelopoiesis" ellipse
+767 "Myeloid leukemia associated with Down Syndrome" ellipse
+768 "Acute megakaryoblastic leukaemia" ellipse
+769 "Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1" ellipse
+770 "Therapy related myeloid neoplasm" ellipse
+771 "Myeloid sarcoma (see also M-9861/3)" ellipse
+772 "Acute panmyelosis with myelofibrosis (C42.1)" ellipse
+773 "Hairy cell leukemia (C42.1)" ellipse
+774 "Juvenile myelomonocytic leukemia" ellipse
+775 "Aggressive NK-cell leukaemia" ellipse
+776 "Polycythemia vera" ellipse
+777 "Myeloproliferative neoplasm, NOS" ellipse
+778 "Primary myelofibrosis" ellipse
+779 "Essential thrombocythemia" ellipse
+780 "Chronic neutrophilic leukemia" ellipse
+781 "Myeloid and lymphoid neoplasms with PDGFRA rearrangement" ellipse
+782 "Myeloid neoplasms with PDGFRB rearrangement" ellipse
+783 "Myeloid and lymphoid neoplasms with FGFR1 abnormalities" ellipse
+784 "Polymorphic post transplant lymphoproliferative disorder" ellipse
+785 "Myloproliferative neoplasm, unclassifiable" ellipse
+786 "Refractory cytopenia with multilineage dysplasia" ellipse
+787 "Myelodysplastic syndrome with 5q deletion (5q-) syndrome" ellipse
+788 "Refractory neutropenia" ellipse
+789 "Refractory thrombocytopenia" ellipse
+*Arcs
+*Edges

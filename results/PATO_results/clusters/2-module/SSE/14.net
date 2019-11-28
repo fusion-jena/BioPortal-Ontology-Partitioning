@@ -1,0 +1,43 @@
+*Vertices 14
+1 "Abdominal Compartment Syndrome" ellipse
+2 "Allergic Reaction" ellipse
+3 "Anesthetic Complication" ellipse
+4 "Dehydration" ellipse
+5 "Failure to Thrive" ellipse
+6 "General" ellipse
+7 "Incisional Hernia" ellipse
+8 "Inguinal Hernia" ellipse
+9 "Malignant Hyperthermia" ellipse
+10 "Medication Toxicity" ellipse
+11 "Non-infected Intra-abdominal / Intra-thoracic fluid collection" ellipse
+12 "Progression of disease, death" ellipse
+13 "Prosthetic Device Dysfunction" ellipse
+14 "Retained Foreign Body" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.0714286 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0714286 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0714286 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0714286 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.0714286 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0714286 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.0714286 l "isa"
+9 6 1.0000000 l "isa"
+6 9 0.0714286 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.0714286 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.0714286 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.0714286 l "isa"
+13 6 1.0000000 l "isa"
+6 13 0.0714286 l "isa"
+14 6 1.0000000 l "isa"
+6 14 0.0714286 l "isa"
+*Edges

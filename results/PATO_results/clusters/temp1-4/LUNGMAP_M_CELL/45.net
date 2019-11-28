@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Canadienne" ellipse
+2 "Caucasian" ellipse
+3 "Canadian" ellipse
+*Arcs
+1 3 0.5633584 l "distance"
+3 1 0.2027060 l "distance"
+2 3 0.5633584 l "distance"
+3 2 0.2027060 l "distance"
+1 3 0.5633584 l "distance"
+3 1 0.2027060 l "distance"
+2 3 0.5633584 l "distance"
+3 2 0.2027060 l "distance"
+1 3 0.5633584 l "distance"
+3 1 0.2027060 l "distance"
+2 3 0.5633584 l "distance"
+3 2 0.2027060 l "distance"
+1 3 0.5633584 l "distance"
+3 1 0.2027060 l "distance"
+2 3 0.5633584 l "distance"
+3 2 0.2027060 l "distance"
+1 3 0.5633584 l "distance"
+3 1 0.2027060 l "distance"
+2 3 0.5633584 l "distance"
+3 2 0.2027060 l "distance"
+*Edges

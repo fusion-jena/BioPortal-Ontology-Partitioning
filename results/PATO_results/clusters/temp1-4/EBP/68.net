@@ -1,0 +1,13 @@
+*Vertices 2
+1 "NoSQL" ellipse
+2 "SQL" ellipse
+*Arcs
+1 2 0.2348562 l "substring"
+2 1 0.0648517 l "substring"
+1 2 0.2348562 l "distance"
+2 1 0.0648517 l "distance"
+1 2 0.2348562 l "substring"
+2 1 0.0648517 l "substring"
+1 2 0.2348562 l "distance"
+2 1 0.0648517 l "distance"
+*Edges

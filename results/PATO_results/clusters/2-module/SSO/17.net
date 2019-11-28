@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Chills" ellipse
+2 "ClinicalCondition" ellipse
+3 "Diaphoresis" ellipse
+4 "Generalized_weakness" ellipse
+5 "Irritable__infant_" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0238095 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0238095 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0238095 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0238095 l "isa"
+*Edges

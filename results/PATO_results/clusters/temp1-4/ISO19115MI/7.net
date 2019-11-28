@@ -1,0 +1,15 @@
+*Vertices 2
+1 "offLine"
+2 "onLine"
+*Arcs
+1 2 0.5604247 l "distance"
+2 1 0.2588533 l "distance"
+1 2 0.5604247 l "distance"
+2 1 0.2588533 l "distance"
+1 2 0.5604247 l "distance"
+2 1 0.2588533 l "distance"
+1 2 0.5604247 l "distance"
+2 1 0.2588533 l "distance"
+1 2 0.5604247 l "distance"
+2 1 0.2588533 l "distance"
+*Edges

@@ -1,0 +1,39 @@
+*Vertices 4
+1 "DYRK1B" ellipse
+2 "DYRK3" ellipse
+3 "DYRK4" ellipse
+4 "TSSK1B" ellipse
+*Arcs
+1 2 0.1274120 l "distance"
+2 1 0.0336396 l "distance"
+1 3 0.1291310 l "distance"
+3 1 0.0440260 l "distance"
+1 4 0.1337633 l "distance"
+4 1 0.0715047 l "distance"
+2 3 0.0299064 l "distance"
+3 2 0.0386190 l "distance"
+1 2 0.1274120 l "distance"
+2 1 0.0336396 l "distance"
+1 3 0.1291310 l "distance"
+3 1 0.0440260 l "distance"
+1 4 0.1337633 l "distance"
+4 1 0.0715047 l "distance"
+2 3 0.0299064 l "distance"
+3 2 0.0386190 l "distance"
+1 2 0.1274120 l "distance"
+2 1 0.0336396 l "distance"
+1 3 0.1291310 l "distance"
+3 1 0.0440260 l "distance"
+1 4 0.1337633 l "distance"
+4 1 0.0715047 l "distance"
+2 3 0.0299064 l "distance"
+3 2 0.0386190 l "distance"
+1 2 0.1274120 l "distance"
+2 1 0.0336396 l "distance"
+1 3 0.1291310 l "distance"
+3 1 0.0440260 l "distance"
+1 4 0.1337633 l "distance"
+4 1 0.0715047 l "distance"
+2 3 0.0299064 l "distance"
+3 2 0.0386190 l "distance"
+*Edges

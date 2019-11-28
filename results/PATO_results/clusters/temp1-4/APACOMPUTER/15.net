@@ -1,0 +1,9 @@
+*Vertices 2
+1 "inhaled corticosteriods" ellipse
+2 "low-dose inhaled corticosteriods (ICS)" ellipse
+*Arcs
+1 2 0.2680593 l "substring"
+2 1 0.2680593 l "substring"
+1 2 0.2680593 l "substring"
+2 1 0.2680593 l "substring"
+*Edges

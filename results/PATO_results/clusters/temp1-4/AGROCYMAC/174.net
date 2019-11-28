@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ligase activity" ellipse
+2 "ligase activity, forming carbon-nitrogen bonds" ellipse
+*Arcs
+2 1 0.3640901 l "isa"
+1 2 0.2226942 l "isa"
+1 2 0.2226942 l "substring"
+2 1 0.3640901 l "substring"
+2 1 0.3640901 l "isa"
+1 2 0.2226942 l "isa"
+1 2 0.2226942 l "substring"
+2 1 0.3640901 l "substring"
+*Edges

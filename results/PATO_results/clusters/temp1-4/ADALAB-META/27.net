@@ -1,0 +1,27 @@
+*Vertices 4
+1 "CardinalCellPart" ellipse
+2 "CellComponent" ellipse
+3 "Chromosome" ellipse
+4 "ChromosomeAberration" ellipse
+*Arcs
+2 1 0.3431855 l "isa"
+1 2 0.2223282 l "isa"
+3 2 0.1626458 l "isa"
+2 3 0.3386700 l "isa"
+3 4 0.5529956 l "definition"
+4 3 0.3991700 l "definition"
+4 3 0.3991700 l "definition"
+3 4 0.5529956 l "definition"
+3 4 0.5529956 l "substring"
+4 3 0.3991700 l "substring"
+2 1 0.3431855 l "isa"
+1 2 0.2223282 l "isa"
+3 2 0.1626458 l "isa"
+2 3 0.3386700 l "isa"
+3 4 0.5529956 l "definition"
+4 3 0.3991700 l "definition"
+4 3 0.3991700 l "definition"
+3 4 0.5529956 l "definition"
+3 4 0.5529956 l "substring"
+4 3 0.3991700 l "substring"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "origin datum" ellipse
+2 "spatio-temporal role" ellipse
+3 "destination datum" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+*Edges

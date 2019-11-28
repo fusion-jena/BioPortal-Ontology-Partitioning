@@ -1,0 +1,13 @@
+*Vertices 4
+1 "entity" ellipse
+2 "occurrent" ellipse
+3 "spatiotemporal region" ellipse
+4 "process boundary" ellipse
+*Arcs
+2 1 0.2000000 l "isa"
+1 2 0.2000000 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.2000000 l "isa"
+*Edges

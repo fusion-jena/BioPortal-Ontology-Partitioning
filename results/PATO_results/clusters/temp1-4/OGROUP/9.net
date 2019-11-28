@@ -1,0 +1,38 @@
+*Vertices 5
+1 "Resource" ellipse
+2 "Annotation" ellipse
+3 "ResourceSelection" ellipse
+4 "SpecificResource" ellipse
+5 "string"
+*Arcs
+4 3 0.2461332 l "isa"
+3 4 0.2153599 l "isa"
+2 5 0.2749827 l "bodyValue"
+5 2 0.3535175 l "bodyValue"
+4 5 0.2713028 l "styleClass"
+5 4 0.3533233 l "styleClass"
+1 3 0.3457459 l "substring"
+3 1 0.2298757 l "substring"
+1 4 0.3575464 l "substring"
+4 1 0.2716902 l "substring"
+4 3 0.2461332 l "isa"
+3 4 0.2153599 l "isa"
+2 5 0.2749827 l "bodyValue"
+5 2 0.3535175 l "bodyValue"
+4 5 0.2713028 l "styleClass"
+5 4 0.3533233 l "styleClass"
+1 3 0.3457459 l "substring"
+3 1 0.2298757 l "substring"
+1 4 0.3575464 l "substring"
+4 1 0.2716902 l "substring"
+4 3 0.2461332 l "isa"
+3 4 0.2153599 l "isa"
+2 5 0.2749827 l "bodyValue"
+5 2 0.3535175 l "bodyValue"
+4 5 0.2713028 l "styleClass"
+5 4 0.3533233 l "styleClass"
+1 3 0.3457459 l "substring"
+3 1 0.2298757 l "substring"
+1 4 0.3575464 l "substring"
+4 1 0.2716902 l "substring"
+*Edges

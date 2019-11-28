@@ -1,0 +1,37 @@
+*Vertices 4
+1 "Ankole" ellipse
+2 "Ankole-Watusi" ellipse
+3 "TraceSubstance" ellipse
+4 "hasRole"
+*Arcs
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+3 4 0.1396357 l "definition"
+4 3 0.3905515 l "definition"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 4 0.0845296 l "distance"
+4 1 0.3721870 l "distance"
+3 4 0.1396357 l "definition"
+4 3 0.3905515 l "definition"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 4 0.0845296 l "distance"
+4 1 0.3721870 l "distance"
+3 4 0.1396357 l "definition"
+4 3 0.3905515 l "definition"
+1 2 0.2339383 l "substring"
+2 1 0.6287189 l "substring"
+1 4 0.0845296 l "distance"
+4 1 0.3721870 l "distance"
+*Edges

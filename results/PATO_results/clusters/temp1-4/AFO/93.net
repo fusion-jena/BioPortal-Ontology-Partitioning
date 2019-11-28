@@ -1,0 +1,19 @@
+*Vertices 6
+1 "electromagnetic energy" ellipse
+2 "X-ray radiation" ellipse
+3 "visible light" ellipse
+4 "ultraviolet radiation" ellipse
+5 "infrared radiation" ellipse
+6 "gamma radiation" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1428571 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1428571 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1428571 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1428571 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1428571 l "isa"
+*Edges

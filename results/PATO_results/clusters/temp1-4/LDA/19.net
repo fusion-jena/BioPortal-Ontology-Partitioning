@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Tong" ellipse
+2 "Tongcheng" ellipse
+3 "Hongtong" ellipse
+*Arcs
+1 2 0.0498412 l "substring"
+2 1 0.5029157 l "substring"
+1 3 0.0498412 l "substring"
+3 1 0.5030236 l "substring"
+1 2 0.0498412 l "substring"
+2 1 0.5029157 l "substring"
+1 3 0.0498412 l "substring"
+3 1 0.5030236 l "substring"
+*Edges

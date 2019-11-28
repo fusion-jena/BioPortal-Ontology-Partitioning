@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Polyandrous" ellipse
+2 "Polygynandrous" ellipse
+3 "Protandrous" ellipse
+4 "Sequential hermaphrodite" ellipse
+*Arcs
+3 4 0.3626373 l "isa"
+4 3 0.2784927 l "isa"
+1 2 0.3365201 l "distance"
+2 1 0.3591059 l "distance"
+1 3 0.3575526 l "distance"
+3 1 0.3736264 l "distance"
+3 4 0.3626373 l "isa"
+4 3 0.2784927 l "isa"
+1 2 0.3365201 l "distance"
+2 1 0.3591059 l "distance"
+1 3 0.3575526 l "distance"
+3 1 0.3736264 l "distance"
+*Edges

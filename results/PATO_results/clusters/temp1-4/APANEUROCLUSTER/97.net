@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Acquaintance_Rape" ellipse
+2 "Rape" ellipse
+*Arcs
+1 2 0.3356853 l "substring"
+2 1 0.0204113 l "substring"
+1 2 0.3356853 l "substring"
+2 1 0.0204113 l "substring"
+1 2 0.3356853 l "substring"
+2 1 0.0204113 l "substring"
+*Edges

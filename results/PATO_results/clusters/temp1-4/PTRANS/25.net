@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Dramatic role" ellipse
+2 "Role" ellipse
+3 "hadRole"
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.1074132 l "substring"
+2 3 0.1535816 l "substring"
+3 2 0.3734429 l "substring"
+2 3 0.1535816 l "distance"
+3 2 0.3734429 l "distance"
+1 2 1.0000000 l "substring"
+2 1 0.1074132 l "substring"
+2 3 0.1535816 l "substring"
+3 2 0.3734429 l "substring"
+2 3 0.1535816 l "distance"
+3 2 0.3734429 l "distance"
+1 2 1.0000000 l "substring"
+2 1 0.1074132 l "substring"
+2 3 0.1535816 l "substring"
+3 2 0.3734429 l "substring"
+2 3 0.1535816 l "distance"
+3 2 0.3734429 l "distance"
+*Edges

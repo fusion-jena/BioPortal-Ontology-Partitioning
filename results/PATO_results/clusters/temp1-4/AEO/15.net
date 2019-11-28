@@ -1,0 +1,9 @@
+*Vertices 2
+1 "lavender" ellipse
+2 "Scavenger" ellipse
+*Arcs
+1 2 0.3153163 l "distance"
+2 1 0.3552139 l "distance"
+1 2 0.3153163 l "distance"
+2 1 0.3552139 l "distance"
+*Edges

@@ -1,0 +1,68 @@
+*Vertices 19
+1 "temperature exposure" ellipse
+2 "stable temperature exposure" ellipse
+3 "cold exposure" ellipse
+4 "heat exposure" ellipse
+5 "temperature shock" ellipse
+6 "cold shock" ellipse
+7 "heat shock" ellipse
+8 "gas composition" ellipse
+9 "carbon dioxide content" ellipse
+10 "hypercapnia" ellipse
+11 "hypocapnia" ellipse
+12 "oxygen content" ellipse
+13 "hyperoxia" ellipse
+14 "hypoxia" ellipse
+15 "water salinity" ellipse
+16 "hypertonic" ellipse
+17 "hypotonic" ellipse
+18 "isotonic" ellipse
+19 "stable" ellipse
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 0.5000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2000000 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.2500000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.3333333 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.3333333 l "isa"
+9 8 0.3333333 l "isa"
+8 9 0.2500000 l "isa"
+10 9 0.5000000 l "isa"
+9 10 0.3333333 l "isa"
+11 9 0.5000000 l "isa"
+9 11 0.3333333 l "isa"
+12 8 0.3333333 l "isa"
+8 12 0.2500000 l "isa"
+13 12 0.3333333 l "isa"
+12 13 0.3333333 l "isa"
+14 12 0.5000000 l "isa"
+12 14 0.3333333 l "isa"
+16 15 0.3333333 l "isa"
+15 16 0.2000000 l "isa"
+17 15 0.3333333 l "isa"
+15 17 0.2000000 l "isa"
+18 15 0.5000000 l "isa"
+15 18 0.2000000 l "isa"
+19 15 0.5000000 l "isa"
+15 19 0.2000000 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.4000000 l "substring"
+2 19 0.2000000 l "substring"
+19 2 0.5000000 l "substring"
+10 11 0.5000000 l "distance"
+11 10 0.5000000 l "distance"
+13 14 0.3333333 l "distance"
+14 13 0.5000000 l "distance"
+13 16 0.3333333 l "distance"
+16 13 0.3333333 l "distance"
+16 17 0.3333333 l "distance"
+17 16 0.3333333 l "distance"
+17 18 0.3333333 l "distance"
+18 17 0.5000000 l "distance"
+*Edges

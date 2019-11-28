@@ -1,0 +1,88 @@
+*Vertices 15
+1 "organization" ellipse
+2 "hospital" ellipse
+3 "Veterinary activities" ellipse
+4 "Veterinary clinics" ellipse
+5 "Residential institution (nursing home or prison or boarding school)" ellipse
+6 "School or kindergarten" ellipse
+7 "Household" ellipse
+8 "Catering" ellipse
+9 "Official kennel" ellipse
+10 "Catering on aircraft or ship or train" ellipse
+11 "ICW-1:01.02.04 Hospitality" ellipse
+12 "ICW-1:01.02 Emotional Wellness" ellipse
+13 "ICW-1:01.02.03 Support Group" ellipse
+14 "ICW-1:01.02.01 Aromatherapy" ellipse
+15 "ICW-1:01.02.02 Emotional Wellness - NOS" ellipse
+*Arcs
+2 1 0.6767271 l "isa"
+1 2 0.1069483 l "isa"
+3 1 0.3683597 l "isa"
+1 3 0.0767484 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.6316403 l "isa"
+5 1 0.3683597 l "isa"
+1 5 0.0767484 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.6316403 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1069483 l "isa"
+8 1 0.4259424 l "isa"
+1 8 0.0786907 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.1069483 l "isa"
+10 1 0.4259424 l "isa"
+1 10 0.0786907 l "isa"
+8 10 0.5740576 l "substring"
+10 8 0.5740576 l "substring"
+2 1 0.6767271 l "isa"
+1 2 0.1069483 l "isa"
+3 1 0.3683597 l "isa"
+1 3 0.0767484 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.6316403 l "isa"
+5 1 0.3683597 l "isa"
+1 5 0.0767484 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.6316403 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1069483 l "isa"
+8 1 0.4259424 l "isa"
+1 8 0.0786907 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.1069483 l "isa"
+10 1 0.4259424 l "isa"
+1 10 0.0786907 l "isa"
+8 10 0.5740576 l "substring"
+10 8 0.5740576 l "substring"
+2 1 0.6767271 l "isa"
+1 2 0.1069483 l "isa"
+3 1 0.3683597 l "isa"
+1 3 0.0767484 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.6316403 l "isa"
+5 1 0.3683597 l "isa"
+1 5 0.0767484 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.6316403 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1069483 l "isa"
+8 1 0.4259424 l "isa"
+1 8 0.0786907 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.1069483 l "isa"
+10 1 0.4259424 l "isa"
+1 10 0.0786907 l "isa"
+11 12 0.5000000 l "isa"
+12 11 0.2000000 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.2000000 l "isa"
+14 12 1.0000000 l "isa"
+12 14 0.2000000 l "isa"
+15 12 1.0000000 l "isa"
+12 15 0.2000000 l "isa"
+2 11 0.3232729 l "substring"
+11 2 0.5000000 l "substring"
+8 10 0.5740576 l "substring"
+10 8 0.5740576 l "substring"
+*Edges

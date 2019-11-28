@@ -1,0 +1,11 @@
+*Vertices 2
+1 "MALIG" ellipse
+2 "Neuroleptic_Malignant_Syndrome" ellipse
+*Arcs
+1 2 0.0253825 l "substring"
+2 1 0.1739293 l "substring"
+1 2 0.0253825 l "substring"
+2 1 0.1739293 l "substring"
+1 2 0.0253825 l "substring"
+2 1 0.1739293 l "substring"
+*Edges

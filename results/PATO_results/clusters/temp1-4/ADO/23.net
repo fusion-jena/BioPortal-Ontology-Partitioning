@@ -1,0 +1,28 @@
+*Vertices 9
+1 "Dendritic spine" ellipse
+2 "Mossy fibre" ellipse
+3 "Myelin sheath" ellipse
+4 "Node of Ranvier" ellipse
+5 "Parallel fibre" ellipse
+6 "Synaptic button" ellipse
+7 "Synaptic spine" ellipse
+8 "neuron as cellular entity" ellipse
+9 "Synaptic vesicle" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.0500000 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0500000 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0500000 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.0500000 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0500000 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0500000 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.0500000 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0500000 l "isa"
+*Edges

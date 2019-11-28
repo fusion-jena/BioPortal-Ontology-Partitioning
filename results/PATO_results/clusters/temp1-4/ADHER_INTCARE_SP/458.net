@@ -1,0 +1,29 @@
+*Vertices 2
+1 "CMFChemo" ellipse
+2 "E-CMFChemo" ellipse
+*Arcs
+1 2 0.1165560 l "substring"
+2 1 0.2346978 l "substring"
+1 2 0.1165560 l "distance"
+2 1 0.2346978 l "distance"
+1 2 0.1165560 l "substring"
+2 1 0.2346978 l "substring"
+1 2 0.1165560 l "distance"
+2 1 0.2346978 l "distance"
+1 2 0.1165560 l "substring"
+2 1 0.2346978 l "substring"
+1 2 0.1165560 l "distance"
+2 1 0.2346978 l "distance"
+1 2 0.1165560 l "substring"
+2 1 0.2346978 l "substring"
+1 2 0.1165560 l "distance"
+2 1 0.2346978 l "distance"
+1 2 0.1165560 l "substring"
+2 1 0.2346978 l "substring"
+1 2 0.1165560 l "distance"
+2 1 0.2346978 l "distance"
+1 2 0.1165560 l "substring"
+2 1 0.2346978 l "substring"
+1 2 0.1165560 l "distance"
+2 1 0.2346978 l "distance"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 2
+1 "SoundCharacteristic" ellipse
+2 "Disc cutting process" ellipse
+*Arcs
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.7165879 l "isa"
+1 2 1.0000000 l "isa"
+*Edges

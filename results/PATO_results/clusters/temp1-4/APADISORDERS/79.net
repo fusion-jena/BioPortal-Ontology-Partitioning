@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Male" ellipse
+2 "Castrated male" ellipse
+*Arcs
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+2 1 0.4795263 l "isa"
+1 2 0.0432086 l "isa"
+1 2 0.0432086 l "substring"
+2 1 0.4795263 l "substring"
+*Edges

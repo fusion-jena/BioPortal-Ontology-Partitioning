@@ -1,0 +1,56 @@
+*Vertices 9
+1 "connected_spatiotemporal_region" ellipse
+2 "connected_temporal_region" ellipse
+3 "scattered_spatiotemporal_region" ellipse
+4 "scattered_temporal_region" ellipse
+5 "spatiotemporal_instant" ellipse
+6 "spatiotemporal_interval" ellipse
+7 "spatiotemporal_region" ellipse
+8 "temporal_instant" ellipse
+9 "temporal_region" ellipse
+*Arcs
+1 7 0.2727273 l "isa"
+7 1 0.2500000 l "isa"
+2 9 0.3000000 l "isa"
+9 2 0.2142857 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.2500000 l "isa"
+4 9 0.6000000 l "isa"
+9 4 0.2142857 l "isa"
+5 1 0.6666667 l "isa"
+1 5 0.1818182 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.1818182 l "isa"
+8 2 0.6666667 l "isa"
+2 8 0.2000000 l "isa"
+1 5 0.1818182 l "definition"
+5 1 0.6666667 l "definition"
+1 6 0.1818182 l "definition"
+6 1 0.5000000 l "definition"
+2 8 0.2000000 l "definition"
+8 2 0.6666667 l "definition"
+7 1 0.2500000 l "definition"
+1 7 0.2727273 l "definition"
+7 3 0.2500000 l "definition"
+3 7 0.5000000 l "definition"
+9 2 0.2142857 l "definition"
+2 9 0.3000000 l "definition"
+9 4 0.2142857 l "definition"
+4 9 0.6000000 l "definition"
+1 7 0.2727273 l "substring"
+7 1 0.2500000 l "substring"
+1 9 0.0909091 l "substring"
+9 1 0.0714286 l "substring"
+2 9 0.3000000 l "substring"
+9 2 0.2142857 l "substring"
+3 7 0.5000000 l "substring"
+7 3 0.2500000 l "substring"
+3 9 0.1666667 l "substring"
+9 3 0.0714286 l "substring"
+4 9 0.6000000 l "substring"
+9 4 0.2142857 l "substring"
+5 8 0.3333333 l "substring"
+8 5 0.3333333 l "substring"
+7 9 0.0833333 l "substring"
+9 7 0.0714286 l "substring"
+*Edges

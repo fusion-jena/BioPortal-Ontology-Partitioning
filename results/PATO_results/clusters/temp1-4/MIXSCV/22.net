@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Dacite" ellipse
+2 "Calcite" ellipse
+*Arcs
+1 2 0.1542108 l "distance"
+2 1 0.2438044 l "distance"
+1 2 0.1542108 l "distance"
+2 1 0.2438044 l "distance"
+1 2 0.1542108 l "distance"
+2 1 0.2438044 l "distance"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Bazna" ellipse
+2 "Ghezel" ellipse
+3 "Zel" ellipse
+4 "Zelazna" ellipse
+*Arcs
+2 3 0.3461925 l "substring"
+3 2 0.0701980 l "substring"
+3 4 0.0346412 l "substring"
+4 3 0.3337452 l "substring"
+1 4 0.0564190 l "distance"
+4 1 0.3363917 l "distance"
+2 3 0.3461925 l "distance"
+3 2 0.0701980 l "distance"
+2 3 0.3461925 l "substring"
+3 2 0.0701980 l "substring"
+3 4 0.0346412 l "substring"
+4 3 0.3337452 l "substring"
+1 4 0.0564190 l "distance"
+4 1 0.3363917 l "distance"
+2 3 0.3461925 l "distance"
+3 2 0.0701980 l "distance"
+*Edges

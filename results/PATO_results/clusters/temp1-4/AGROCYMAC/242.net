@@ -1,0 +1,31 @@
+*Vertices 4
+1 "cyclic compound" ellipse
+2 "aromatic compound" ellipse
+3 "organic aromatic compound" ellipse
+4 "organic cyclic compound" ellipse
+*Arcs
+2 1 0.2897196 l "isa"
+1 2 0.2360406 l "isa"
+3 2 0.5629629 l "isa"
+2 3 0.7102804 l "isa"
+3 4 0.2222222 l "isa"
+4 3 0.2290076 l "isa"
+4 1 0.5496183 l "isa"
+1 4 0.5482233 l "isa"
+1 4 0.5482233 l "substring"
+4 1 0.5496183 l "substring"
+2 3 0.7102804 l "substring"
+3 2 0.5629629 l "substring"
+2 1 0.2897196 l "isa"
+1 2 0.2360406 l "isa"
+3 2 0.5629629 l "isa"
+2 3 0.7102804 l "isa"
+3 4 0.2222222 l "isa"
+4 3 0.2290076 l "isa"
+4 1 0.5496183 l "isa"
+1 4 0.5482233 l "isa"
+1 4 0.5482233 l "substring"
+4 1 0.5496183 l "substring"
+2 3 0.7102804 l "substring"
+3 2 0.5629629 l "substring"
+*Edges

@@ -1,0 +1,48 @@
+*Vertices 9
+1 "homocracy" ellipse
+2 "parallelism" ellipse
+3 "partial homology" ellipse
+4 "serial homology" ellipse
+5 "deep homology" ellipse
+6 "latent homology" ellipse
+7 "syngeny" ellipse
+8 "iterative homology" ellipse
+9 "paramorphism" ellipse
+*Arcs
+4 8 0.3389403 l "isa"
+8 4 0.2564919 l "isa"
+5 1 0.3345750 l "isa"
+1 5 0.1990645 l "isa"
+5 2 0.3521842 l "isa"
+2 5 0.3414634 l "isa"
+6 2 0.3387622 l "isa"
+2 6 0.3414634 l "isa"
+6 7 0.3599349 l "isa"
+7 6 0.5120482 l "isa"
+7 1 0.4879518 l "isa"
+1 7 0.2121609 l "isa"
+9 1 0.4954129 l "isa"
+1 9 0.2121609 l "isa"
+9 8 0.5045872 l "isa"
+8 9 0.2730397 l "isa"
+3 4 0.3557076 l "distance"
+4 3 0.3498739 l "distance"
+4 8 0.3389403 l "isa"
+8 4 0.2564919 l "isa"
+5 1 0.3345750 l "isa"
+1 5 0.1990645 l "isa"
+5 2 0.3521842 l "isa"
+2 5 0.3414634 l "isa"
+6 2 0.3387622 l "isa"
+2 6 0.3414634 l "isa"
+6 7 0.3599349 l "isa"
+7 6 0.5120482 l "isa"
+7 1 0.4879518 l "isa"
+1 7 0.2121609 l "isa"
+9 1 0.4954129 l "isa"
+1 9 0.2121609 l "isa"
+9 8 0.5045872 l "isa"
+8 9 0.2730397 l "isa"
+3 4 0.3557076 l "distance"
+4 3 0.3498739 l "distance"
+*Edges

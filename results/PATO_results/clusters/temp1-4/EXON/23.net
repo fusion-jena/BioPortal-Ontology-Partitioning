@@ -1,0 +1,17 @@
+*Vertices 2
+1 "ArrangedIndividual" ellipse
+2 "ClassOfArrangedIndividual" ellipse
+*Arcs
+2 1 0.5077443 l "definition"
+1 2 1.0000000 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.5077443 l "substring"
+2 1 0.5077443 l "definition"
+1 2 1.0000000 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.5077443 l "substring"
+2 1 0.5077443 l "definition"
+1 2 1.0000000 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.5077443 l "substring"
+*Edges

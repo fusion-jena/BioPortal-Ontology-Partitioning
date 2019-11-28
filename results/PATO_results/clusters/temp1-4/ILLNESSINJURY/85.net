@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Distribution: wholesale and retail sale" ellipse
+2 "Retail" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.8665575 l "isa"
+1 2 0.8665575 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8665575 l "isa"
+1 2 0.8665575 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8665575 l "isa"
+1 2 0.8665575 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8665575 l "isa"
+1 2 0.8665575 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8665575 l "isa"
+1 2 0.8665575 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

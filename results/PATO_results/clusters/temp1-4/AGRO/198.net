@@ -1,0 +1,13 @@
+*Vertices 2
+1 "to count" ellipse
+2 "to count cells" ellipse
+*Arcs
+2 1 0.5681925 l "isa"
+1 2 0.2415565 l "isa"
+1 2 0.2415565 l "substring"
+2 1 0.5681925 l "substring"
+2 1 0.5681925 l "isa"
+1 2 0.2415565 l "isa"
+1 2 0.2415565 l "substring"
+2 1 0.5681925 l "substring"
+*Edges

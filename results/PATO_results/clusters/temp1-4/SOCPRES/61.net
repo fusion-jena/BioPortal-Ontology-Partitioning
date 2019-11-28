@@ -1,0 +1,17 @@
+*Vertices 2
+1 "promoter symbol" ellipse
+2 "promoter" ellipse
+*Arcs
+1 2 0.5413541 l "definition"
+2 1 0.7668902 l "definition"
+1 2 0.5413541 l "substring"
+2 1 0.7668902 l "substring"
+1 2 0.5413541 l "definition"
+2 1 0.7668902 l "definition"
+1 2 0.5413541 l "substring"
+2 1 0.7668902 l "substring"
+1 2 0.5413541 l "definition"
+2 1 0.7668902 l "definition"
+1 2 0.5413541 l "substring"
+2 1 0.7668902 l "substring"
+*Edges

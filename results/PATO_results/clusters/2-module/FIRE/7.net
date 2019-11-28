@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Anthropogenic cause" ellipse
+2 "Cause" ellipse
+3 "Natural cause" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.3333333 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.3333333 l "substring"
+2 3 0.3333333 l "substring"
+3 2 0.6666667 l "substring"
+*Edges

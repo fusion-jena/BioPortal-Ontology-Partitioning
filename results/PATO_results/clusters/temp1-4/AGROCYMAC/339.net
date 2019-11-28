@@ -1,0 +1,13 @@
+*Vertices 2
+1 "bagasse" ellipse
+2 "bagasse" ellipse
+*Arcs
+1 2 0.1821011 l "substring"
+2 1 0.2154224 l "substring"
+1 2 0.1821011 l "distance"
+2 1 0.2154224 l "distance"
+1 2 0.1821011 l "substring"
+2 1 0.2154224 l "substring"
+1 2 0.1821011 l "distance"
+2 1 0.2154224 l "distance"
+*Edges

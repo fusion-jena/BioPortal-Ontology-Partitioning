@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hopelessness" ellipse
+2 "Powerlessness" ellipse
+*Arcs
+1 2 0.1566087 l "distance"
+2 1 0.1401790 l "distance"
+1 2 0.1566087 l "distance"
+2 1 0.1401790 l "distance"
+1 2 0.1566087 l "distance"
+2 1 0.1401790 l "distance"
+*Edges

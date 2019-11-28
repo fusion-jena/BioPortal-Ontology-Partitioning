@@ -1,0 +1,17 @@
+*Vertices 2
+1 "has presynaptic terminal in"
+2 "has synaptic terminal in"
+*Arcs
+1 1 0.2445702 l "definition"
+1 1 0.2445702 l "definition"
+2 2 0.2785818 l "definition"
+2 2 0.2785818 l "definition"
+1 2 0.1118631 l "distance"
+2 1 0.1245880 l "distance"
+1 1 0.2445702 l "definition"
+1 1 0.2445702 l "definition"
+2 2 0.2785818 l "definition"
+2 2 0.2785818 l "definition"
+1 2 0.1118631 l "distance"
+2 1 0.1245880 l "distance"
+*Edges

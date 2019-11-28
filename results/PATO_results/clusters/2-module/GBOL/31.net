@@ -1,0 +1,15 @@
+*Vertices 4
+1 "GenomicFeature" ellipse
+2 "MiscStructure" ellipse
+3 "StemLoop" ellipse
+4 "StructureFeature" ellipse
+*Arcs
+2 4 1.0000000 l "isa"
+4 2 0.1428571 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1428571 l "isa"
+4 1 0.2857143 l "isa"
+1 4 0.0952381 l "isa"
+1 4 0.0952381 l "definition"
+4 1 0.2857143 l "definition"
+*Edges

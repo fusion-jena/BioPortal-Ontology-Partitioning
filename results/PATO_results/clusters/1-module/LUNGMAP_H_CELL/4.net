@@ -1,0 +1,28 @@
+*Vertices 9
+1 "basal cell" ellipse
+2 "cell types" ellipse
+3 "mast cell" ellipse
+4 "myeloid cell" ellipse
+5 "glial cell" ellipse
+6 "autonomic neuron" ellipse
+7 "megakaryocyte" ellipse
+8 "platelet" ellipse
+9 "Cell Ontology for Human Lung Maturation" ellipse
+*Arcs
+2 9 0.0909091 l "isa"
+9 2 1.0000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1666667 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.0909091 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.0909091 l "isa"
+7 4 0.5000000 l "isa"
+4 7 0.1666667 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.5000000 l "isa"
+1 3 0.2000000 l "distance"
+3 1 0.5000000 l "distance"
+1 5 0.2000000 l "distance"
+5 1 0.5000000 l "distance"
+*Edges

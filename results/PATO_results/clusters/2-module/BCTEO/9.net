@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Gene expression microarray" ellipse
+2 "Other gene expression microarray technologies" ellipse
+*Arcs
+2 1 0.5000000 l "definition"
+1 2 0.4000000 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

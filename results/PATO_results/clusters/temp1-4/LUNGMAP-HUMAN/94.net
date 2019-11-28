@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Exmoor Horn" ellipse
+2 "Exmoor Pony" ellipse
+*Arcs
+1 2 0.5889803 l "distance"
+2 1 0.5888846 l "distance"
+1 2 0.5889803 l "distance"
+2 1 0.5888846 l "distance"
+1 2 0.5889803 l "distance"
+2 1 0.5888846 l "distance"
+*Edges

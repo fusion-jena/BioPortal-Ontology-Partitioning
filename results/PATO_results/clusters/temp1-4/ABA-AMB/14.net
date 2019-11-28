@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Medial geniculate complex" ellipse
+2 "Medial geniculate complex, dorsal part" ellipse
+3 "Medial geniculate complex, medial part" ellipse
+4 "Medial geniculate complex, ventral part" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2857143 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2857143 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2857143 l "isa"
+1 2 0.2857143 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2857143 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2857143 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

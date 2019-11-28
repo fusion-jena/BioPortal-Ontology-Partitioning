@@ -1,0 +1,9 @@
+*Vertices 2
+1 "threshing process" ellipse
+2 "trussing process" ellipse
+*Arcs
+1 2 0.2561253 l "distance"
+2 1 0.1190391 l "distance"
+1 2 0.2561253 l "distance"
+2 1 0.1190391 l "distance"
+*Edges

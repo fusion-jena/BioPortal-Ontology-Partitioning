@@ -1,0 +1,13 @@
+*Vertices 2
+1 "soil erosion" ellipse
+2 "erosion" ellipse
+*Arcs
+1 2 0.3031421 l "isa"
+2 1 0.1314026 l "isa"
+1 2 0.3031421 l "substring"
+2 1 0.1314026 l "substring"
+1 2 0.3031421 l "isa"
+2 1 0.1314026 l "isa"
+1 2 0.3031421 l "substring"
+2 1 0.1314026 l "substring"
+*Edges

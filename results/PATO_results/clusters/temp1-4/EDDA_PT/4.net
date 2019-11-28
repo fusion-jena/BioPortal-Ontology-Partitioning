@@ -1,0 +1,61 @@
+*Vertices 20
+1 "abstract" ellipse
+2 "address" ellipse
+3 "conference paper" ellipse
+4 "conference proceedings" ellipse
+5 "dictionary" ellipse
+6 "directory" ellipse
+7 "duplicate publication" ellipse
+8 "editorial" ellipse
+9 "erratum" ellipse
+10 "festschrift" ellipse
+11 "interactive tutorial" ellipse
+12 "interview" ellipse
+13 "legislation" ellipse
+14 "opinion paper" ellipse
+15 "patient education handout" ellipse
+16 "publication type" ellipse
+17 "research report" ellipse
+18 "retracted publication" ellipse
+19 "scientific publication" ellipse
+20 "technical report" ellipse
+*Arcs
+1 16 1.0000000 l "isa"
+16 1 0.0312500 l "isa"
+2 16 1.0000000 l "isa"
+16 2 0.0312500 l "isa"
+3 16 1.0000000 l "isa"
+16 3 0.0312500 l "isa"
+4 16 1.0000000 l "isa"
+16 4 0.0312500 l "isa"
+5 16 1.0000000 l "isa"
+16 5 0.0312500 l "isa"
+6 16 1.0000000 l "isa"
+16 6 0.0312500 l "isa"
+7 16 1.0000000 l "isa"
+16 7 0.0312500 l "isa"
+8 16 1.0000000 l "isa"
+16 8 0.0312500 l "isa"
+9 16 1.0000000 l "isa"
+16 9 0.0312500 l "isa"
+10 16 1.0000000 l "isa"
+16 10 0.0312500 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.0312500 l "isa"
+12 16 1.0000000 l "isa"
+16 12 0.0312500 l "isa"
+13 16 1.0000000 l "isa"
+16 13 0.0312500 l "isa"
+14 16 1.0000000 l "isa"
+16 14 0.0312500 l "isa"
+15 16 1.0000000 l "isa"
+16 15 0.0312500 l "isa"
+17 16 1.0000000 l "isa"
+16 17 0.0312500 l "isa"
+18 16 1.0000000 l "isa"
+16 18 0.0312500 l "isa"
+19 16 1.0000000 l "isa"
+16 19 0.0312500 l "isa"
+20 16 1.0000000 l "isa"
+16 20 0.0312500 l "isa"
+*Edges

@@ -1,0 +1,156 @@
+*Vertices 27
+1 "Audio cartridge" ellipse
+2 "Audio cassette" ellipse
+3 "Audio disc" ellipse
+4 "Audio wire reel" ellipse
+5 "Cartridge" ellipse
+6 "Cassette" ellipse
+7 "Computer chip" ellipse
+8 "Computer chip cartridge" ellipse
+9 "Computer disc" ellipse
+10 "Computer disc cartridge" ellipse
+11 "Computer tape cartridge" ellipse
+12 "Computer tape cassette" ellipse
+13 "Computer tape reel" ellipse
+14 "Disc" ellipse
+15 "Film" ellipse
+16 "Film cartridge" ellipse
+17 "Film cassette" ellipse
+18 "Film slip" ellipse
+19 "Film strip" ellipse
+20 "Film strip cartridge" ellipse
+21 "Microfiche cassette" ellipse
+22 "Reel" ellipse
+23 "Sound track reel" ellipse
+24 "Stereograph disc" ellipse
+25 "Tape" ellipse
+26 "Video" ellipse
+27 "Video disc" ellipse
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.1176471 l "isa"
+2 6 0.4000000 l "isa"
+6 2 0.1538462 l "isa"
+2 25 0.2000000 l "isa"
+25 2 0.0555556 l "isa"
+3 14 0.5000000 l "isa"
+14 3 0.1666667 l "isa"
+4 22 0.6666667 l "isa"
+22 4 0.1000000 l "isa"
+6 25 0.0769231 l "isa"
+25 6 0.0555556 l "isa"
+8 5 0.5000000 l "isa"
+5 8 0.1176471 l "isa"
+8 7 0.5000000 l "isa"
+7 8 0.5000000 l "isa"
+9 14 0.4000000 l "isa"
+14 9 0.1666667 l "isa"
+10 5 0.4000000 l "isa"
+5 10 0.1176471 l "isa"
+10 9 0.4000000 l "isa"
+9 10 0.4000000 l "isa"
+11 5 0.4000000 l "isa"
+5 11 0.1176471 l "isa"
+11 25 0.4000000 l "isa"
+25 11 0.1111111 l "isa"
+12 6 0.4000000 l "isa"
+6 12 0.1538462 l "isa"
+12 25 0.4000000 l "isa"
+25 12 0.1111111 l "isa"
+13 22 0.4000000 l "isa"
+22 13 0.1000000 l "isa"
+13 25 0.4000000 l "isa"
+25 13 0.1111111 l "isa"
+16 5 0.4000000 l "isa"
+5 16 0.1176471 l "isa"
+16 15 0.4000000 l "isa"
+15 16 0.0714286 l "isa"
+17 6 0.4000000 l "isa"
+6 17 0.1538462 l "isa"
+17 15 0.4000000 l "isa"
+15 17 0.0714286 l "isa"
+18 15 0.5000000 l "isa"
+15 18 0.0714286 l "isa"
+19 15 0.5000000 l "isa"
+15 19 0.0714286 l "isa"
+20 5 0.4000000 l "isa"
+5 20 0.1176471 l "isa"
+20 15 0.4000000 l "isa"
+15 20 0.0714286 l "isa"
+21 6 0.4000000 l "isa"
+6 21 0.1538462 l "isa"
+23 22 1.0000000 l "isa"
+22 23 0.1000000 l "isa"
+24 14 0.6666667 l "isa"
+14 24 0.1666667 l "isa"
+27 14 0.4000000 l "isa"
+14 27 0.1666667 l "isa"
+27 26 0.4000000 l "isa"
+26 27 0.1428571 l "isa"
+1 5 0.5000000 l "substring"
+5 1 0.1176471 l "substring"
+2 6 0.4000000 l "substring"
+6 2 0.1538462 l "substring"
+3 14 0.5000000 l "substring"
+14 3 0.1666667 l "substring"
+4 22 0.6666667 l "substring"
+22 4 0.1000000 l "substring"
+5 8 0.1176471 l "substring"
+8 5 0.5000000 l "substring"
+5 10 0.1176471 l "substring"
+10 5 0.4000000 l "substring"
+5 11 0.1176471 l "substring"
+11 5 0.4000000 l "substring"
+5 16 0.1176471 l "substring"
+16 5 0.4000000 l "substring"
+5 20 0.1176471 l "substring"
+20 5 0.4000000 l "substring"
+6 12 0.1538462 l "substring"
+12 6 0.4000000 l "substring"
+6 17 0.1538462 l "substring"
+17 6 0.4000000 l "substring"
+6 21 0.1538462 l "substring"
+21 6 0.4000000 l "substring"
+7 8 0.5000000 l "substring"
+8 7 0.5000000 l "substring"
+9 10 0.4000000 l "substring"
+10 9 0.4000000 l "substring"
+9 14 0.4000000 l "substring"
+14 9 0.1666667 l "substring"
+10 14 0.2000000 l "substring"
+14 10 0.0833333 l "substring"
+11 25 0.4000000 l "substring"
+25 11 0.1111111 l "substring"
+12 25 0.4000000 l "substring"
+25 12 0.1111111 l "substring"
+13 22 0.4000000 l "substring"
+22 13 0.1000000 l "substring"
+13 25 0.4000000 l "substring"
+25 13 0.1111111 l "substring"
+14 24 0.1666667 l "substring"
+24 14 0.6666667 l "substring"
+14 27 0.1666667 l "substring"
+27 14 0.4000000 l "substring"
+15 16 0.0714286 l "substring"
+16 15 0.4000000 l "substring"
+15 17 0.0714286 l "substring"
+17 15 0.4000000 l "substring"
+15 18 0.0714286 l "substring"
+18 15 0.5000000 l "substring"
+15 19 0.0714286 l "substring"
+19 15 0.5000000 l "substring"
+15 20 0.0714286 l "substring"
+20 15 0.4000000 l "substring"
+19 20 0.2500000 l "substring"
+20 19 0.2000000 l "substring"
+22 23 0.1000000 l "substring"
+23 22 1.0000000 l "substring"
+26 27 0.1428571 l "substring"
+27 26 0.4000000 l "substring"
+3 27 0.2500000 l "distance"
+27 3 0.2000000 l "distance"
+14 15 0.0833333 l "distance"
+15 14 0.0357143 l "distance"
+18 19 0.2500000 l "distance"
+19 18 0.2500000 l "distance"
+*Edges

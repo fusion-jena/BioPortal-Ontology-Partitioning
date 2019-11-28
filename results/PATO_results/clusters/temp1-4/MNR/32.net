@@ -1,0 +1,37 @@
+*Vertices 4
+1 "Drainage class" ellipse
+2 "poorly" ellipse
+3 "somewhat poorly" ellipse
+4 "very poorly" ellipse
+*Arcs
+2 1 0.2409886 l "isa"
+1 2 0.0943569 l "isa"
+3 1 0.1705439 l "isa"
+1 3 0.0886813 l "isa"
+4 1 0.2500751 l "isa"
+1 4 0.0946632 l "isa"
+2 3 0.2591266 l "substring"
+3 2 0.1951162 l "substring"
+2 4 0.2763821 l "substring"
+4 2 0.2858751 l "substring"
+2 1 0.2409886 l "isa"
+1 2 0.0943569 l "isa"
+3 1 0.1705439 l "isa"
+1 3 0.0886813 l "isa"
+4 1 0.2500751 l "isa"
+1 4 0.0946632 l "isa"
+2 3 0.2591266 l "substring"
+3 2 0.1951162 l "substring"
+2 4 0.2763821 l "substring"
+4 2 0.2858751 l "substring"
+2 1 0.2409886 l "isa"
+1 2 0.0943569 l "isa"
+3 1 0.1705439 l "isa"
+1 3 0.0886813 l "isa"
+4 1 0.2500751 l "isa"
+1 4 0.0946632 l "isa"
+2 3 0.2591266 l "substring"
+3 2 0.1951162 l "substring"
+2 4 0.2763821 l "substring"
+4 2 0.2858751 l "substring"
+*Edges

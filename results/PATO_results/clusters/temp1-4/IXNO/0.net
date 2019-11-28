@@ -1,0 +1,33 @@
+*Vertices 16
+1 "abundance" ellipse
+2 "mutagenesis" ellipse
+3 "stability" ellipse
+4 "cotreatment" ellipse
+5 "activity" ellipse
+6 "RNA splicing" ellipse
+7 "gene expression" ellipse
+8 "GO_0042050" ellipse
+9 "response to chemical stimulus" ellipse
+10 "localization" ellipse
+11 "acetylation" ellipse
+12 "glycation" ellipse
+13 "acylation" ellipse
+14 "alkylation" ellipse
+15 "oxidation" ellipse
+16 "amination" ellipse
+*Arcs
+12 13 0.3333333 l "distance"
+13 12 0.1666667 l "distance"
+12 14 0.3333333 l "distance"
+14 12 0.2000000 l "distance"
+11 13 0.2000000 l "distance"
+13 11 0.1666667 l "distance"
+11 14 0.2000000 l "distance"
+14 11 0.2000000 l "distance"
+15 16 0.5000000 l "distance"
+16 15 0.3333333 l "distance"
+13 14 0.1666667 l "distance"
+14 13 0.2000000 l "distance"
+13 16 0.1666667 l "distance"
+16 13 0.3333333 l "distance"
+*Edges

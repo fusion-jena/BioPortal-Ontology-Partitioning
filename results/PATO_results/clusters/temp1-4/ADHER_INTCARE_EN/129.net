@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Impairment of peer relationship" ellipse
+2 "Peer relationship" ellipse
+*Arcs
+1 2 0.2667908 l "substring"
+2 1 0.2673672 l "substring"
+1 2 0.2667908 l "substring"
+2 1 0.2673672 l "substring"
+*Edges

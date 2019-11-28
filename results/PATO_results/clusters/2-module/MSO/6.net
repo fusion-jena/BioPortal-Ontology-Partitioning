@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Combined gadolinium and superparamagnetic iron oxide enhanced MR imaging biomarker" ellipse
+2 "Gadolinium" ellipse
+3 "Gadolinium_Enhanced" ellipse
+*Arcs
+1 2 0.2000000 l "substring"
+2 1 0.5000000 l "substring"
+2 3 0.5000000 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

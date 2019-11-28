@@ -1,0 +1,14 @@
+*Vertices 3
+1 "crown root meristem" ellipse
+2 "prop root meristem" ellipse
+3 "subterranean crown root meristem" ellipse
+*Arcs
+2 1 0.3333333 l "definition"
+1 2 0.2222222 l "definition"
+3 1 0.3333333 l "definition"
+1 3 0.2222222 l "definition"
+1 3 0.2222222 l "substring"
+3 1 0.3333333 l "substring"
+1 2 0.2222222 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

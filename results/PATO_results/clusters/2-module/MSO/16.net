@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CASP1" ellipse
+2 "CASP10" ellipse
+*Arcs
+1 2 0.0666667 l "substring"
+2 1 0.2000000 l "substring"
+1 2 0.0666667 l "distance"
+2 1 0.2000000 l "distance"
+*Edges

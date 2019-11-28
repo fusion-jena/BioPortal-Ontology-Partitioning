@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Crude mortality rate" ellipse
+2 "Mortality" ellipse
+*Arcs
+1 2 0.2081442 l "substring"
+2 1 0.0709295 l "substring"
+1 2 0.2081442 l "substring"
+2 1 0.0709295 l "substring"
+*Edges

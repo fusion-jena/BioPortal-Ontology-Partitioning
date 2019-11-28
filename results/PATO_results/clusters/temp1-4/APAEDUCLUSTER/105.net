@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Computer_Programming" ellipse
+2 "Computer_Programming_Languages" ellipse
+*Arcs
+1 2 0.3752276 l "substring"
+2 1 0.3002529 l "substring"
+1 2 0.3752276 l "substring"
+2 1 0.3002529 l "substring"
+1 2 0.3752276 l "substring"
+2 1 0.3002529 l "substring"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 6
+1 "Person" ellipse
+2 "nil"
+3 "isContactPerson"
+4 "eMail"
+5 "faxNumber"
+6 "phoneNumber"
+*Arcs
+1 3 0.0952381 l "definition"
+3 1 0.6666667 l "definition"
+1 4 0.0476190 l "definition"
+4 1 0.5000000 l "definition"
+1 5 0.0476190 l "definition"
+5 1 1.0000000 l "definition"
+1 6 0.0476190 l "definition"
+6 1 1.0000000 l "definition"
+1 3 0.0952381 l "substring"
+3 1 0.6666667 l "substring"
+2 4 0.0714286 l "distance"
+4 2 0.5000000 l "distance"
+*Edges

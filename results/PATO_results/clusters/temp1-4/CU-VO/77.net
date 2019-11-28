@@ -1,0 +1,13 @@
+*Vertices 2
+1 "apical organ statocyst" ellipse
+2 "UBERON_0006583"
+*Arcs
+1 2 0.2329848 l "isa"
+2 1 0.0630594 l "isa"
+1 2 0.2329848 l "definition"
+2 1 0.0630594 l "definition"
+1 2 0.2329848 l "isa"
+2 1 0.0630594 l "isa"
+1 2 0.2329848 l "definition"
+2 1 0.0630594 l "definition"
+*Edges

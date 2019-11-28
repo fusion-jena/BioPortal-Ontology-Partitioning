@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Postnasal drip" ellipse
+2 "Grade 1 Postnasal drip" ellipse
+3 "Grade 2 Postnasal drip" ellipse
+*Arcs
+2 1 0.7253231 l "isa"
+1 2 0.4394898 l "isa"
+3 1 0.7253231 l "isa"
+1 3 0.4394898 l "isa"
+1 2 0.4394898 l "substring"
+2 1 0.7253231 l "substring"
+1 3 0.4394898 l "substring"
+3 1 0.7253231 l "substring"
+2 3 0.2746769 l "distance"
+3 2 0.2746769 l "distance"
+2 1 0.7253231 l "isa"
+1 2 0.4394898 l "isa"
+3 1 0.7253231 l "isa"
+1 3 0.4394898 l "isa"
+1 2 0.4394898 l "substring"
+2 1 0.7253231 l "substring"
+1 3 0.4394898 l "substring"
+3 1 0.7253231 l "substring"
+2 3 0.2746769 l "distance"
+3 2 0.2746769 l "distance"
+2 1 0.7253231 l "isa"
+1 2 0.4394898 l "isa"
+3 1 0.7253231 l "isa"
+1 3 0.4394898 l "isa"
+1 2 0.4394898 l "substring"
+2 1 0.7253231 l "substring"
+1 3 0.4394898 l "substring"
+3 1 0.7253231 l "substring"
+2 3 0.2746769 l "distance"
+3 2 0.2746769 l "distance"
+*Edges

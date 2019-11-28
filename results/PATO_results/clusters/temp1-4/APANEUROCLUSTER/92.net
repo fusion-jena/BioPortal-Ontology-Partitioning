@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Business_Students" ellipse
+2 "Dental_Students" ellipse
+3 "International_Students" ellipse
+4 "Law_Students" ellipse
+5 "Medical_Students" ellipse
+6 "Reentry_Students" ellipse
+7 "Students" ellipse
+*Arcs
+1 7 0.3354918 l "substring"
+7 1 0.0373908 l "substring"
+2 7 0.3354918 l "substring"
+7 2 0.0373908 l "substring"
+3 7 0.3354918 l "substring"
+7 3 0.0373908 l "substring"
+4 7 0.3354918 l "substring"
+7 4 0.0373908 l "substring"
+5 7 0.3354918 l "substring"
+7 5 0.0373908 l "substring"
+6 7 0.3354918 l "substring"
+7 6 0.0373908 l "substring"
+1 7 0.3354918 l "substring"
+7 1 0.0373908 l "substring"
+2 7 0.3354918 l "substring"
+7 2 0.0373908 l "substring"
+3 7 0.3354918 l "substring"
+7 3 0.0373908 l "substring"
+4 7 0.3354918 l "substring"
+7 4 0.0373908 l "substring"
+5 7 0.3354918 l "substring"
+7 5 0.0373908 l "substring"
+6 7 0.3354918 l "substring"
+7 6 0.0373908 l "substring"
+*Edges

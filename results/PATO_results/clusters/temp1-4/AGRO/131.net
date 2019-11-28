@@ -1,0 +1,9 @@
+*Vertices 2
+1 "angle unit" ellipse
+2 "plane angle unit" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2500000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

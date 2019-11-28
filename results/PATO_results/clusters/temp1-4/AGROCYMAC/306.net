@@ -1,0 +1,28 @@
+*Vertices 5
+1 "carbonyl group" ellipse
+2 "organyl group" ellipse
+3 "organodiyl group" ellipse
+4 "organic divalent group" ellipse
+5 "organic univalent group" ellipse
+*Arcs
+1 3 0.1485840 l "isa"
+3 1 0.2028510 l "isa"
+2 5 0.1728740 l "isa"
+5 2 0.2059740 l "isa"
+3 4 0.2077985 l "isa"
+4 3 0.2082708 l "isa"
+2 3 0.1728740 l "distance"
+3 2 0.2049125 l "distance"
+4 5 0.2082708 l "distance"
+5 4 0.2088750 l "distance"
+1 3 0.1485840 l "isa"
+3 1 0.2028510 l "isa"
+2 5 0.1728740 l "isa"
+5 2 0.2059740 l "isa"
+3 4 0.2077985 l "isa"
+4 3 0.2082708 l "isa"
+2 3 0.1728740 l "distance"
+3 2 0.2049125 l "distance"
+4 5 0.2082708 l "distance"
+5 4 0.2088750 l "distance"
+*Edges

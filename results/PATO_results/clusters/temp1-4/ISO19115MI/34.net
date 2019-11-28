@@ -1,0 +1,30 @@
+*Vertices 3
+1 "GM_Object" ellipse
+2 "EX_BoundingPolygon" ellipse
+3 "polygon"
+*Arcs
+2 1 0.3675734 l "polygon"
+1 2 0.7596735 l "polygon"
+2 1 0.3675734 l "definition"
+1 2 0.7596735 l "definition"
+2 3 0.4246162 l "definition"
+3 2 1.0000000 l "definition"
+2 3 0.4246162 l "substring"
+3 2 1.0000000 l "substring"
+2 1 0.3675734 l "polygon"
+1 2 0.7596735 l "polygon"
+2 1 0.3675734 l "definition"
+1 2 0.7596735 l "definition"
+2 3 0.4246162 l "definition"
+3 2 1.0000000 l "definition"
+2 3 0.4246162 l "substring"
+3 2 1.0000000 l "substring"
+2 1 0.3675734 l "polygon"
+1 2 0.7596735 l "polygon"
+2 1 0.3675734 l "definition"
+1 2 0.7596735 l "definition"
+2 3 0.4246162 l "definition"
+3 2 1.0000000 l "definition"
+2 3 0.4246162 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

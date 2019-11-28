@@ -1,0 +1,42 @@
+*Vertices 11
+1 "anatomical structure" ellipse
+2 "anatomical system" ellipse
+3 "compound organ component" ellipse
+4 "simple organ" ellipse
+5 "compound organ" ellipse
+6 "anatomical cluster" ellipse
+7 "extraembryonic structure" ellipse
+8 "anatomical group" ellipse
+9 "multi-tissue structure" ellipse
+10 "cavitated compound organ" ellipse
+11 "solid compound organ" ellipse
+*Arcs
+2 8 0.2000000 l "isa"
+8 2 0.3333333 l "isa"
+3 9 0.2000000 l "isa"
+9 3 0.3333333 l "isa"
+4 9 0.0588235 l "isa"
+9 4 0.3333333 l "isa"
+5 1 0.0714286 l "isa"
+1 5 0.0833333 l "isa"
+6 8 0.0909091 l "isa"
+8 6 0.3333333 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0833333 l "isa"
+8 1 0.3333333 l "isa"
+1 8 0.0833333 l "isa"
+9 1 0.3333333 l "isa"
+1 9 0.0833333 l "isa"
+10 5 1.0000000 l "isa"
+5 10 0.1428571 l "isa"
+11 5 1.0000000 l "isa"
+5 11 0.1428571 l "isa"
+3 5 0.4000000 l "definition"
+5 3 0.1428571 l "definition"
+3 5 0.4000000 l "substring"
+5 3 0.1428571 l "substring"
+5 10 0.1428571 l "substring"
+10 5 1.0000000 l "substring"
+5 11 0.1428571 l "substring"
+11 5 1.0000000 l "substring"
+*Edges

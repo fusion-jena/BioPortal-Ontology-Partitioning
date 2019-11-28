@@ -1,0 +1,15 @@
+*Vertices 4
+1 "calcium molecular entity" ellipse
+2 "elemental calcium" ellipse
+3 "calcium cation" ellipse
+4 "calcium ion" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.0909091 l "isa"
+3 4 0.2857143 l "isa"
+4 3 0.3333333 l "isa"
+4 2 0.1666667 l "isa"
+2 4 0.5000000 l "isa"
+3 4 0.2857143 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

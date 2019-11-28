@@ -1,0 +1,31 @@
+*Vertices 4
+1 "IL8" ellipse
+2 "IL8RB" ellipse
+3 "ITM2B" ellipse
+4 "TGM2" ellipse
+*Arcs
+1 2 0.0310034 l "substring"
+2 1 0.2191226 l "substring"
+1 2 0.0310034 l "distance"
+2 1 0.2191226 l "distance"
+2 3 0.1100078 l "distance"
+3 2 0.1391809 l "distance"
+3 4 0.1289325 l "distance"
+4 3 0.0281776 l "distance"
+1 2 0.0310034 l "substring"
+2 1 0.2191226 l "substring"
+1 2 0.0310034 l "distance"
+2 1 0.2191226 l "distance"
+2 3 0.1100078 l "distance"
+3 2 0.1391809 l "distance"
+3 4 0.1289325 l "distance"
+4 3 0.0281776 l "distance"
+1 2 0.0310034 l "substring"
+2 1 0.2191226 l "substring"
+1 2 0.0310034 l "distance"
+2 1 0.2191226 l "distance"
+2 3 0.1100078 l "distance"
+3 2 0.1391809 l "distance"
+3 4 0.1289325 l "distance"
+4 3 0.0281776 l "distance"
+*Edges

@@ -1,0 +1,29 @@
+*Vertices 2
+1 "MSInstrument" ellipse
+2 "MSInstrumentType" ellipse
+*Arcs
+1 2 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "substring"
+2 1 0.0802341 l "substring"
+1 2 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "substring"
+2 1 0.0802341 l "substring"
+1 2 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "substring"
+2 1 0.0802341 l "substring"
+1 2 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentHasMSInstrumentType"
+2 1 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "MSInstrumentTypeHasMSInstrument"
+1 2 0.0802341 l "substring"
+2 1 0.0802341 l "substring"
+*Edges

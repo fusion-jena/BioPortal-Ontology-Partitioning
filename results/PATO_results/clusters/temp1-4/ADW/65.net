@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Area unit" ellipse
+2 "Nectar" ellipse
+3 "Nectarivore" ellipse
+4 "Primary: Herbivore" ellipse
+5 "hectares" ellipse
+*Arcs
+3 4 0.5000000 l "isa"
+4 3 0.1000000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1666667 l "isa"
+2 3 0.3333333 l "substring"
+3 2 0.5000000 l "substring"
+2 5 0.3333333 l "distance"
+5 2 0.5000000 l "distance"
+*Edges

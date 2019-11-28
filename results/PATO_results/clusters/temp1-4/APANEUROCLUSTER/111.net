@@ -1,0 +1,18 @@
+*Vertices 3
+1 "HEMIP" ellipse
+2 "PARES" ellipse
+3 "Hemiparesis" ellipse
+*Arcs
+1 3 0.0386294 l "substring"
+3 1 0.3377892 l "substring"
+2 3 0.0197634 l "substring"
+3 2 0.3331577 l "substring"
+1 3 0.0386294 l "substring"
+3 1 0.3377892 l "substring"
+2 3 0.0197634 l "substring"
+3 2 0.3331577 l "substring"
+1 3 0.0386294 l "substring"
+3 1 0.3377892 l "substring"
+2 3 0.0197634 l "substring"
+3 2 0.3331577 l "substring"
+*Edges

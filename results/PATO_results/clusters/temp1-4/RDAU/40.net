@@ -1,0 +1,24 @@
+*Vertices 3
+1 "TCA" ellipse
+2 "CSA" ellipse
+3 "Yoga" ellipse
+*Arcs
+1 2 0.3546519 l "distance"
+2 1 0.2751446 l "distance"
+1 3 0.3549479 l "distance"
+3 1 0.2769870 l "distance"
+2 3 0.2584864 l "distance"
+3 2 0.2600002 l "distance"
+1 2 0.3546519 l "distance"
+2 1 0.2751446 l "distance"
+1 3 0.3549479 l "distance"
+3 1 0.2769870 l "distance"
+2 3 0.2584864 l "distance"
+3 2 0.2600002 l "distance"
+1 2 0.3546519 l "distance"
+2 1 0.2751446 l "distance"
+1 3 0.3549479 l "distance"
+3 1 0.2769870 l "distance"
+2 3 0.2584864 l "distance"
+3 2 0.2600002 l "distance"
+*Edges

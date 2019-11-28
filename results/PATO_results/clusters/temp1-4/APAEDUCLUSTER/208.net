@@ -1,0 +1,33 @@
+*Vertices 2
+1 "BACGC" ellipse
+2 "BACTI" ellipse
+*Arcs
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+1 2 0.0900879 l "isa"
+2 1 0.0549000 l "isa"
+1 2 0.0900879 l "distance"
+2 1 0.0549000 l "distance"
+*Edges

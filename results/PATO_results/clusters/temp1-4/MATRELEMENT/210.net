@@ -1,0 +1,19 @@
+*Vertices 2
+1 "right lower lobe alveolar parenchyma" ellipse
+2 "right upper lobe alveolar parenchyma" ellipse
+*Arcs
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+1 2 0.1867363 l "distance"
+2 1 0.1570032 l "distance"
+*Edges

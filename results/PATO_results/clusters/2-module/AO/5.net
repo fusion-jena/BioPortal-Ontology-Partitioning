@@ -1,0 +1,93 @@
+*Vertices 22
+1 "spirometry" ellipse
+2 "spirometry" ellipse
+3 "post bronchodilator spirometry" ellipse
+4 "FEV (forced expiratory volume) 1 after bronchodilation" ellipse
+5 "airway obstruction reversible" ellipse
+6 "FEV1 after change bronchodilator" ellipse
+7 "FEV1 before bronchodilation" ellipse
+8 "FEV1 reversibility" ellipse
+9 "FEV1/FVC < 70% of predicted" ellipse
+10 "FEV1/FVC percent" ellipse
+11 "FEV1/FVC ratio" ellipse
+12 "FEV1/FVC ratio abnormal" ellipse
+13 "FEV1/FVC ratio after bronchdilation" ellipse
+14 "FEV1/FVC ratio before bronchodilation" ellipse
+15 "FEV1/FVC ratio post steroids" ellipse
+16 "obstructive airway pattern FEV1/FVC <0.7 on spirometry" ellipse
+17 "peak flow meter" ellipse
+18 "positive reversibility to salbutamol" ellipse
+19 "reversibility positive" ellipse
+20 "reversibility to ipratropium" ellipse
+21 "reversibility to salbutamol" ellipse
+22 "spirometry screening" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.0967742 l "isa"
+3 1 0.6666667 l "isa"
+1 3 0.0645161 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0322581 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0322581 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0322581 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0322581 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0322581 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0322581 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0322581 l "isa"
+11 1 0.2000000 l "isa"
+1 11 0.0322581 l "isa"
+12 1 0.5000000 l "isa"
+1 12 0.0322581 l "isa"
+13 1 0.5000000 l "isa"
+1 13 0.0322581 l "isa"
+14 1 0.5000000 l "isa"
+1 14 0.0322581 l "isa"
+15 1 0.5000000 l "isa"
+1 15 0.0322581 l "isa"
+16 1 0.6666667 l "isa"
+1 16 0.0645161 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0322581 l "isa"
+18 1 0.5000000 l "isa"
+1 18 0.0322581 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0322581 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0322581 l "isa"
+21 1 0.5000000 l "isa"
+1 21 0.0322581 l "isa"
+22 1 0.5000000 l "isa"
+1 22 0.0645161 l "isa"
+1 2 0.0967742 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.0645161 l "substring"
+3 1 0.6666667 l "substring"
+1 16 0.0645161 l "substring"
+16 1 0.6666667 l "substring"
+1 22 0.0645161 l "substring"
+22 1 0.5000000 l "substring"
+2 3 0.1666667 l "substring"
+3 2 0.3333333 l "substring"
+2 16 0.1666667 l "substring"
+16 2 0.3333333 l "substring"
+2 22 0.1666667 l "substring"
+22 2 0.2500000 l "substring"
+11 12 0.2000000 l "substring"
+12 11 0.5000000 l "substring"
+11 13 0.2000000 l "substring"
+13 11 0.5000000 l "substring"
+11 14 0.2000000 l "substring"
+14 11 0.5000000 l "substring"
+11 15 0.2000000 l "substring"
+15 11 0.5000000 l "substring"
+18 21 0.5000000 l "substring"
+21 18 0.5000000 l "substring"
+1 2 0.0967742 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

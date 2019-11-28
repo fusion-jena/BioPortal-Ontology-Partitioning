@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Guatemala" ellipse
+2 "Guatemalan" ellipse
+*Arcs
+1 2 0.6666667 l "substring"
+2 1 0.6666667 l "substring"
+1 2 0.6666667 l "distance"
+2 1 0.6666667 l "distance"
+*Edges

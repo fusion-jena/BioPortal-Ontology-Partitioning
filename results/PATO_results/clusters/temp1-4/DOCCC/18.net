@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Age Gender Rule" ellipse
+2 "Rule Concept" ellipse
+*Arcs
+1 2 0.1735508 l "isa"
+2 1 0.1168297 l "isa"
+1 2 0.1735508 l "isa"
+2 1 0.1168297 l "isa"
+*Edges

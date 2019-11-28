@@ -1,0 +1,18 @@
+*Vertices 3
+1 "CanonicalOrganismalSurface" ellipse
+2 "OrganismalSurface" ellipse
+3 "PathologicalOrganismalSurface" ellipse
+*Arcs
+1 2 0.4285714 l "isa"
+2 1 0.2307692 l "isa"
+3 2 0.4285714 l "isa"
+2 3 0.2307692 l "isa"
+2 1 0.2307692 l "definition"
+1 2 0.4285714 l "definition"
+2 3 0.2307692 l "definition"
+3 2 0.4285714 l "definition"
+1 2 0.4285714 l "substring"
+2 1 0.2307692 l "substring"
+2 3 0.2307692 l "substring"
+3 2 0.4285714 l "substring"
+*Edges

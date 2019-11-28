@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Location" ellipse
+2 "Location" ellipse
+3 "Solution" ellipse
+*Arcs
+1 2 0.3047405 l "substring"
+2 1 0.4327428 l "substring"
+1 2 0.3047405 l "distance"
+2 1 0.4327428 l "distance"
+1 3 0.1362822 l "distance"
+3 1 0.2509013 l "distance"
+2 3 0.1991269 l "distance"
+3 2 0.2581630 l "distance"
+1 2 0.3047405 l "substring"
+2 1 0.4327428 l "substring"
+1 2 0.3047405 l "distance"
+2 1 0.4327428 l "distance"
+1 3 0.1362822 l "distance"
+3 1 0.2509013 l "distance"
+2 3 0.1991269 l "distance"
+3 2 0.2581630 l "distance"
+*Edges

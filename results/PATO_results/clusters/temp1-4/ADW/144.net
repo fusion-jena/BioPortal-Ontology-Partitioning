@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Tarenflurbil" ellipse
+2 "secretase inhibitor" ellipse
+3 "secretase inhibitor drug molecule" ellipse
+*Arcs
+1 2 0.2599203 l "definition"
+2 1 0.1258838 l "definition"
+3 2 0.1745613 l "definition"
+2 3 0.2577907 l "definition"
+2 3 0.2577907 l "substring"
+3 2 0.1745613 l "substring"
+1 2 0.2599203 l "definition"
+2 1 0.1258838 l "definition"
+3 2 0.1745613 l "definition"
+2 3 0.2577907 l "definition"
+2 3 0.2577907 l "substring"
+3 2 0.1745613 l "substring"
+*Edges

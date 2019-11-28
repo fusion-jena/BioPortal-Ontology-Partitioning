@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Attempted_Suicide" ellipse
+2 "Suicide" ellipse
+*Arcs
+1 2 0.5611161 l "substring"
+2 1 0.3876569 l "substring"
+1 2 0.5611161 l "substring"
+2 1 0.3876569 l "substring"
+1 2 0.5611161 l "substring"
+2 1 0.3876569 l "substring"
+*Edges

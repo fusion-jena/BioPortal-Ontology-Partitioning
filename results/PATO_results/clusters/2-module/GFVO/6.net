@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Allele Count" ellipse
+2 "Quantity" ellipse
+3 "Sample" ellipse
+4 "Sample Count" ellipse
+5 "Total Number of Alleles" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1000000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.1000000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.5000000 l "isa"
+3 4 0.1666667 l "substring"
+4 3 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Concept" ellipse
+2 "ConceptScheme" ellipse
+*Arcs
+1 2 0.2492499 l "substring"
+2 1 0.2688251 l "substring"
+2 1 0.2688251 l "has top concept"
+1 2 0.2492499 l "has top concept"
+1 1 0.1584635 l "is in semantic relation with"
+1 1 0.1584635 l "is in semantic relation with"
+1 2 0.2492499 l "is top concept in scheme"
+2 1 0.2688251 l "is top concept in scheme"
+1 2 0.2492499 l "substring"
+2 1 0.2688251 l "substring"
+*Edges

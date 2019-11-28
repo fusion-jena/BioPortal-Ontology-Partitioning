@@ -1,0 +1,33 @@
+*Vertices 10
+1 "Bowel_Elimination_Alteration" ellipse
+2 "Bowel_Incontinence" ellipse
+3 "Constipation" ellipse
+4 "Diarrhea" ellipse
+5 "Fecal_Impaction" ellipse
+6 "Gastrointestinal_Alteration" ellipse
+7 "Nausea" ellipse
+8 "Perceived_Constipation" ellipse
+9 "Vomiting" ellipse
+10 "Gastric" ellipse
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.1000000 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.1000000 l "isa"
+3 10 0.5000000 l "isa"
+10 3 0.1000000 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.1000000 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.1000000 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.1000000 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.1000000 l "isa"
+8 10 0.5000000 l "isa"
+10 8 0.1000000 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.1000000 l "isa"
+3 8 0.5000000 l "substring"
+8 3 0.5000000 l "substring"
+*Edges

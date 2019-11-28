@@ -1,0 +1,39 @@
+*Vertices 8
+1 "BACE1 inhibitor" ellipse
+2 "GSK3 inhibitor" ellipse
+3 "GSK3 inhibitor drug molecule" ellipse
+4 "Gamma secretase inhibitor" ellipse
+5 "MAO-B inhibitor" ellipse
+6 "NO synthetase inhibitor" ellipse
+7 "drug role" ellipse
+8 "inhibitor" ellipse
+*Arcs
+1 8 0.4000000 l "isa"
+8 1 0.0952381 l "isa"
+2 8 0.4000000 l "isa"
+8 2 0.0952381 l "isa"
+4 8 0.5000000 l "isa"
+8 4 0.0952381 l "isa"
+5 7 0.5000000 l "isa"
+7 5 0.0454545 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.0454545 l "isa"
+8 7 0.0476190 l "isa"
+7 8 0.0454545 l "isa"
+3 2 0.2000000 l "definition"
+2 3 0.4000000 l "definition"
+1 8 0.4000000 l "substring"
+8 1 0.0952381 l "substring"
+2 3 0.4000000 l "substring"
+3 2 0.2000000 l "substring"
+2 8 0.4000000 l "substring"
+8 2 0.0952381 l "substring"
+3 8 0.1000000 l "substring"
+8 3 0.0476190 l "substring"
+4 8 0.5000000 l "substring"
+8 4 0.0952381 l "substring"
+5 8 0.5000000 l "substring"
+8 5 0.0476190 l "substring"
+6 8 0.5000000 l "substring"
+8 6 0.0476190 l "substring"
+*Edges

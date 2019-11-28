@@ -1,0 +1,23 @@
+*Vertices 4
+1 "UnitOfMeasure" ellipse
+2 "FC_FeatureAttribute" ellipse
+3 "valueMeasurementUnit"
+4 "unitOfMeasure"
+*Arcs
+2 1 0.1492376 l "valueMeasurementUnit"
+1 2 0.4003439 l "valueMeasurementUnit"
+2 1 0.1492376 l "definition"
+1 2 0.4003439 l "definition"
+2 3 0.0818579 l "definition"
+3 2 0.4336283 l "definition"
+2 1 0.1492376 l "valueMeasurementUnit"
+1 2 0.4003439 l "valueMeasurementUnit"
+2 1 0.1492376 l "definition"
+1 2 0.4003439 l "definition"
+2 3 0.0818579 l "definition"
+3 2 0.4336283 l "definition"
+1 4 0.2868136 l "substring"
+4 1 0.5000000 l "substring"
+1 4 0.2868136 l "distance"
+4 1 0.5000000 l "distance"
+*Edges

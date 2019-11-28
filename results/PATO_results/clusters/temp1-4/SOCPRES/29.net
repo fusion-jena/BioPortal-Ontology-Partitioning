@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Audio or visual recording deviation" ellipse
+2 "Audio recording deviation" ellipse
+3 "Video recording deviation" ellipse
+*Arcs
+2 1 0.4857143 l "isa"
+1 2 0.3400000 l "isa"
+3 1 0.4857143 l "isa"
+1 3 0.3400000 l "isa"
+2 3 0.5142857 l "distance"
+3 2 0.5142857 l "distance"
+2 1 0.4857143 l "isa"
+1 2 0.3400000 l "isa"
+3 1 0.4857143 l "isa"
+1 3 0.3400000 l "isa"
+2 3 0.5142857 l "distance"
+3 2 0.5142857 l "distance"
+*Edges

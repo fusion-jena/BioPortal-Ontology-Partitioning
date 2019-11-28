@@ -1,0 +1,14 @@
+*Vertices 3
+1 "lymphoid follicle" ellipse
+2 "mantle zone" ellipse
+3 "marginal zone" ellipse
+*Arcs
+2 1 0.2086568 l "definition"
+1 2 0.1735998 l "definition"
+3 1 0.2086568 l "definition"
+1 3 0.1735998 l "definition"
+2 1 0.2086568 l "definition"
+1 2 0.1735998 l "definition"
+3 1 0.2086568 l "definition"
+1 3 0.1735998 l "definition"
+*Edges

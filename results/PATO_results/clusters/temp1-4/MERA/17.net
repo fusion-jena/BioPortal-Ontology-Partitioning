@@ -1,0 +1,26 @@
+*Vertices 3
+1 "SolidSubstance" ellipse
+2 "RockBody" ellipse
+3 "hasSubstance"
+*Arcs
+2 1 0.1682065 l "isa"
+1 2 0.4090981 l "isa"
+2 3 0.2180177 l "definition"
+3 2 0.6735792 l "definition"
+2 1 0.1682065 l "isa"
+1 2 0.4090981 l "isa"
+2 3 0.2180177 l "definition"
+3 2 0.6735792 l "definition"
+2 1 0.1682065 l "isa"
+1 2 0.4090981 l "isa"
+2 3 0.2180177 l "definition"
+3 2 0.6735792 l "definition"
+2 1 0.1682065 l "isa"
+1 2 0.4090981 l "isa"
+2 3 0.2180177 l "definition"
+3 2 0.6735792 l "definition"
+2 1 0.1682065 l "isa"
+1 2 0.4090981 l "isa"
+2 3 0.2180177 l "definition"
+3 2 0.6735792 l "definition"
+*Edges

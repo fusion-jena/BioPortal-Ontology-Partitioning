@@ -1,0 +1,11 @@
+*Vertices 2
+1 "sonication" ellipse
+2 "importing" ellipse
+*Arcs
+1 2 0.4074688 l "isa"
+2 1 0.1259738 l "isa"
+1 2 0.4074688 l "isa"
+2 1 0.1259738 l "isa"
+1 2 0.4074688 l "isa"
+2 1 0.1259738 l "isa"
+*Edges

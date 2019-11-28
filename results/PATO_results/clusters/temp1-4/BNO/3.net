@@ -1,0 +1,34 @@
+*Vertices 9
+1 "Day Rotation 1" ellipse
+2 "Day Rotation 3" ellipse
+3 "Day Rotation 5" ellipse
+4 "Design Diet" ellipse
+5 "Menu Rotation" ellipse
+6 "Navigation" ellipse
+7 "Nutrient Composition" ellipse
+8 "Protocol Development" ellipse
+9 "Scientific Literature" ellipse
+*Arcs
+1 5 0.3333333 l "isa"
+5 1 0.2500000 l "isa"
+2 5 0.3333333 l "isa"
+5 2 0.2500000 l "isa"
+3 5 0.3333333 l "isa"
+5 3 0.2500000 l "isa"
+4 8 0.3333333 l "isa"
+8 4 0.0714286 l "isa"
+5 4 0.2500000 l "isa"
+4 5 0.3333333 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0714286 l "isa"
+7 4 0.2500000 l "isa"
+4 7 0.3333333 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0714286 l "isa"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+1 3 0.3333333 l "distance"
+3 1 0.3333333 l "distance"
+2 3 0.3333333 l "distance"
+3 2 0.3333333 l "distance"
+*Edges

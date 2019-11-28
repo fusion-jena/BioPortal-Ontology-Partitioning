@@ -1,0 +1,36 @@
+*Vertices 3
+1 "positive reversibility to corticosteroids" ellipse
+2 "reversibility to corticosteroids" ellipse
+3 "corticosteroids" ellipse
+*Arcs
+1 2 0.2401144 l "substring"
+2 1 0.2811237 l "substring"
+1 3 0.2398621 l "substring"
+3 1 0.2800663 l "substring"
+2 3 0.3016042 l "substring"
+3 2 0.3007859 l "substring"
+1 2 0.2401144 l "substring"
+2 1 0.2811237 l "substring"
+1 3 0.2398621 l "substring"
+3 1 0.2800663 l "substring"
+2 3 0.3016042 l "substring"
+3 2 0.3007859 l "substring"
+1 2 0.2401144 l "substring"
+2 1 0.2811237 l "substring"
+1 3 0.2398621 l "substring"
+3 1 0.2800663 l "substring"
+2 3 0.3016042 l "substring"
+3 2 0.3007859 l "substring"
+1 2 0.2401144 l "substring"
+2 1 0.2811237 l "substring"
+1 3 0.2398621 l "substring"
+3 1 0.2800663 l "substring"
+2 3 0.3016042 l "substring"
+3 2 0.3007859 l "substring"
+1 2 0.2401144 l "substring"
+2 1 0.2811237 l "substring"
+1 3 0.2398621 l "substring"
+3 1 0.2800663 l "substring"
+2 3 0.3016042 l "substring"
+3 2 0.3007859 l "substring"
+*Edges

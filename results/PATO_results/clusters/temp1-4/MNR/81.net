@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Age Units" ellipse
+2 "seconds" ellipse
+*Arcs
+2 1 0.1770280 l "isa"
+1 2 0.0907661 l "isa"
+2 1 0.1770280 l "isa"
+1 2 0.0907661 l "isa"
+2 1 0.1770280 l "isa"
+1 2 0.0907661 l "isa"
+*Edges

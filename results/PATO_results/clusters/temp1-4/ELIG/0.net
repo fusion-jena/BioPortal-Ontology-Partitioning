@@ -1,0 +1,9 @@
+*Vertices 6
+1 "ICD-10 code" ellipse
+2 "Organization" ellipse
+3 "value"
+4 "Gender" ellipse
+5 "LaboratoryVariable" ellipse
+6 "Other" ellipse
+*Arcs
+*Edges

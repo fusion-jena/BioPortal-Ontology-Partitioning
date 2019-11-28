@@ -1,0 +1,27 @@
+*Vertices 4
+1 "cerebral amyloid angiopathy" ellipse
+2 "applied epidemiology context" ellipse
+3 "descriptive epidemiology context" ellipse
+4 "epidemiology context" ellipse
+*Arcs
+2 4 0.2162252 l "isa"
+4 2 0.1035005 l "isa"
+3 4 0.2408245 l "isa"
+4 3 0.1050700 l "isa"
+1 4 0.1758514 l "definition"
+4 1 0.0505938 l "definition"
+2 4 0.2162252 l "substring"
+4 2 0.1035005 l "substring"
+3 4 0.2408245 l "substring"
+4 3 0.1050700 l "substring"
+2 4 0.2162252 l "isa"
+4 2 0.1035005 l "isa"
+3 4 0.2408245 l "isa"
+4 3 0.1050700 l "isa"
+1 4 0.1758514 l "definition"
+4 1 0.0505938 l "definition"
+2 4 0.2162252 l "substring"
+4 2 0.1035005 l "substring"
+3 4 0.2408245 l "substring"
+4 3 0.1050700 l "substring"
+*Edges

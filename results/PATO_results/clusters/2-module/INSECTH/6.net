@@ -1,0 +1,18 @@
+*Vertices 3
+1 "ciliary band I" ellipse
+2 "ciliary band II" ellipse
+3 "ciliary band III" ellipse
+*Arcs
+1 2 0.4000000 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.4000000 l "substring"
+3 1 0.4000000 l "substring"
+2 3 0.4000000 l "substring"
+3 2 0.4000000 l "substring"
+1 2 0.4000000 l "distance"
+2 1 0.4000000 l "distance"
+1 3 0.4000000 l "distance"
+3 1 0.4000000 l "distance"
+2 3 0.4000000 l "distance"
+3 2 0.4000000 l "distance"
+*Edges

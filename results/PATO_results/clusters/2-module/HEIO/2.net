@@ -1,0 +1,328 @@
+*Vertices 71
+1 "Patient / Client Information" ellipse
+2 "Medication Information" ellipse
+3 "Laboratory Information" ellipse
+4 "Diagnostic Imaging Information" ellipse
+5 "Inpatient / Outpatient Treatment Information" ellipse
+6 "Public Health Information" ellipse
+7 "Referral Information" ellipse
+8 "Problem List / History Information" ellipse
+9 "Scheduling Information" ellipse
+10 "Application Type" ellipse
+11 "Application Vendor" ellipse
+12 "Emergency Medical Services Entities" ellipse
+13 "Health Entities" ellipse
+14 "Electronic Health Information Type" ellipse
+15 "Abstracting System" ellipse
+16 "Medical Chart Tracking System" ellipse
+17 "Clinical Data Repository" ellipse
+18 "Computerized Provider Order Entry (CPOE)" ellipse
+19 "Dictation Software" ellipse
+20 "Dictation and Transcription Software" ellipse
+21 "Document Management System" ellipse
+22 "Electronic Medication Administration Record (EMAR)" ellipse
+23 "Electronic Patient Record (EPR)" ellipse
+24 "Coding System" ellipse
+25 "In-House Transcription Software" ellipse
+26 "Nursing Documentation System" ellipse
+27 "Legacy Order Entry / Order Communications System" ellipse
+28 "Outsourced Transcription" ellipse
+29 "Physician Documentation System" ellipse
+30 "Cardiology Information System" ellipse
+31 "Diagnostic Imaging (DI) System" ellipse
+32 "Radiology Information System" ellipse
+33 "Drug Information System" ellipse
+34 "Pharmacy Information System" ellipse
+35 "Case Cart Management" ellipse
+36 "Emergency Department Information System (EDIS)" ellipse
+37 "Respiratory Care Information System" ellipse
+38 "eReferral System" ellipse
+39 "Business Process Management System" ellipse
+40 "Data Warehouse" ellipse
+41 "Fixed Asset Tracking Management System" ellipse
+42 "Materials Management" ellipse
+43 "Single Sign-On System" ellipse
+44 "Anatomical Pathology Laboratory Information System" ellipse
+45 "Blood Bank Information Management System" ellipse
+46 "Genetics Test Laboratory System" ellipse
+47 "Laboratory Information System" ellipse
+48 "Microbiology Laboratory Information System" ellipse
+49 "Synoptic Reporting Software" ellipse
+50 "Admission Discharge Transfer (ADT) / Registration" ellipse
+51 "Medical Scheduling System" ellipse
+52 "Provider Registry" ellipse
+53 "Release of Information Tracking System" ellipse
+54 "RFID Patient Tracking System" ellipse
+55 "Sharing DI Info without DI System" ellipse
+56 "Sharing Lab Info without Laboratory Info System" ellipse
+57 "Sharing Med Info without Drug Information System" ellipse
+58 "Sharing Scheduling Info without Provider / Client Registry" ellipse
+59 "Sharing Patient Info without Client Registry" ellipse
+60 "Sharing History Info without Client Registry" ellipse
+61 "Sharing Referral Info without Provider Registry" ellipse
+62 "Thing" ellipse
+63 "integer"
+64 "boolean"
+65 "float"
+66 "string"
+67 "has existing Diagnostic Imaging (DI) System"
+68 "has existing DI/PACS Data Repository"
+69 "has existing Laboratory Information System"
+70 "has existing Drug Information System"
+71 "has existing Provider Registry"
+*Arcs
+1 14 0.5000000 l "isa"
+14 1 0.0666667 l "isa"
+2 14 0.5000000 l "isa"
+14 2 0.0666667 l "isa"
+3 14 0.1666667 l "isa"
+14 3 0.0666667 l "isa"
+4 14 0.5000000 l "isa"
+14 4 0.0666667 l "isa"
+5 14 1.0000000 l "isa"
+14 5 0.0666667 l "isa"
+6 14 1.0000000 l "isa"
+14 6 0.0666667 l "isa"
+7 14 0.5000000 l "isa"
+14 7 0.0666667 l "isa"
+8 14 0.5000000 l "isa"
+14 8 0.0666667 l "isa"
+9 14 0.5000000 l "isa"
+14 9 0.0666667 l "isa"
+11 62 0.3333333 l "isa"
+62 11 0.2500000 l "isa"
+12 13 0.3333333 l "isa"
+13 12 0.0273973 l "isa"
+14 62 0.0666667 l "isa"
+62 14 0.2500000 l "isa"
+15 10 1.0000000 l "isa"
+10 15 0.0238095 l "isa"
+16 10 0.5000000 l "isa"
+10 16 0.0238095 l "isa"
+17 10 1.0000000 l "isa"
+10 17 0.0238095 l "isa"
+18 10 0.5000000 l "isa"
+10 18 0.0238095 l "isa"
+19 10 0.5000000 l "isa"
+10 19 0.0238095 l "isa"
+20 19 0.3333333 l "isa"
+19 20 0.5000000 l "isa"
+21 10 1.0000000 l "isa"
+10 21 0.0238095 l "isa"
+22 10 1.0000000 l "isa"
+10 22 0.0238095 l "isa"
+23 10 1.0000000 l "isa"
+10 23 0.0238095 l "isa"
+24 10 1.0000000 l "isa"
+10 24 0.0238095 l "isa"
+25 20 1.0000000 l "isa"
+20 25 0.3333333 l "isa"
+26 10 1.0000000 l "isa"
+10 26 0.0238095 l "isa"
+27 18 1.0000000 l "isa"
+18 27 0.5000000 l "isa"
+28 20 1.0000000 l "isa"
+20 28 0.3333333 l "isa"
+29 10 1.0000000 l "isa"
+10 29 0.0238095 l "isa"
+30 10 0.5000000 l "isa"
+10 30 0.0238095 l "isa"
+31 10 0.5000000 l "isa"
+10 31 0.0238095 l "isa"
+32 10 0.5000000 l "isa"
+10 32 0.0238095 l "isa"
+33 10 0.3333333 l "isa"
+10 33 0.0238095 l "isa"
+34 10 1.0000000 l "isa"
+10 34 0.0238095 l "isa"
+35 16 1.0000000 l "isa"
+16 35 0.5000000 l "isa"
+36 10 1.0000000 l "isa"
+10 36 0.0238095 l "isa"
+37 10 1.0000000 l "isa"
+10 37 0.0238095 l "isa"
+38 10 1.0000000 l "isa"
+10 38 0.0238095 l "isa"
+39 10 1.0000000 l "isa"
+10 39 0.0238095 l "isa"
+40 10 1.0000000 l "isa"
+10 40 0.0238095 l "isa"
+41 10 1.0000000 l "isa"
+10 41 0.0238095 l "isa"
+42 10 1.0000000 l "isa"
+10 42 0.0238095 l "isa"
+43 10 1.0000000 l "isa"
+10 43 0.0238095 l "isa"
+44 10 0.3333333 l "isa"
+10 44 0.0238095 l "isa"
+45 10 1.0000000 l "isa"
+10 45 0.0238095 l "isa"
+46 47 1.0000000 l "isa"
+47 46 0.1428571 l "isa"
+47 10 0.1428571 l "isa"
+10 47 0.0238095 l "isa"
+48 47 0.6666667 l "isa"
+47 48 0.2857143 l "isa"
+49 10 1.0000000 l "isa"
+10 49 0.0238095 l "isa"
+50 10 1.0000000 l "isa"
+10 50 0.0238095 l "isa"
+51 10 1.0000000 l "isa"
+10 51 0.0238095 l "isa"
+52 10 0.3333333 l "isa"
+10 52 0.0238095 l "isa"
+53 10 1.0000000 l "isa"
+10 53 0.0238095 l "isa"
+54 10 1.0000000 l "isa"
+10 54 0.0238095 l "isa"
+10 11 0.0476190 l "hasApplicationVendor"
+11 10 0.6666667 l "hasApplicationVendor"
+13 14 0.0547945 l "isSending"
+14 13 0.2666667 l "isSending"
+14 13 0.2666667 l "isSentBy"
+13 14 0.0547945 l "isSentBy"
+13 14 0.0547945 l "isReceiving"
+14 13 0.2666667 l "isReceiving"
+14 13 0.2666667 l "isReceivedBy"
+13 14 0.0547945 l "isReceivedBy"
+11 10 0.6666667 l "isVendorOf"
+10 11 0.0476190 l "isVendorOf"
+13 10 0.0410959 l "hasUsageOfApplication"
+10 13 0.0714286 l "hasUsageOfApplication"
+10 13 0.0714286 l "isUsedBy"
+13 10 0.0410959 l "isUsedBy"
+10 13 0.0714286 l "hasOversightOrganization"
+13 10 0.0410959 l "hasOversightOrganization"
+13 63 0.1232877 l "hasOrganizationType"
+63 13 0.4090909 l "hasOrganizationType"
+13 64 0.1917808 l "hasElectronicExchangeInfostructure"
+64 13 0.9333333 l "hasElectronicExchangeInfostructure"
+13 64 0.1917808 l "hasSharedApplication"
+64 13 0.9333333 l "hasSharedApplication"
+13 64 0.1917808 l "isBeneficialSendingEHI"
+64 13 0.9333333 l "isBeneficialSendingEHI"
+13 64 0.1917808 l "isBeneficialReceivingEHI"
+64 13 0.9333333 l "isBeneficialReceivingEHI"
+13 63 0.1232877 l "hasReceivingDepth"
+63 13 0.4090909 l "hasReceivingDepth"
+13 63 0.1232877 l "hasSendConnectivity"
+63 13 0.4090909 l "hasSendConnectivity"
+13 65 0.0821918 l "hasInteroperability_eHIE_A_Score"
+65 13 0.7500000 l "hasInteroperability_eHIE_A_Score"
+13 63 0.1232877 l "hasImpact"
+63 13 0.4090909 l "hasImpact"
+13 64 0.1917808 l "hasDigitalConnection"
+64 13 0.9333333 l "hasDigitalConnection"
+13 63 0.1232877 l "hasOrganizationGroup"
+63 13 0.4090909 l "hasOrganizationGroup"
+13 65 0.0821918 l "hasInteroperability_eHIE_B_Score"
+65 13 0.7500000 l "hasInteroperability_eHIE_B_Score"
+13 66 0.0136986 l "hasLocation"
+66 13 0.5000000 l "hasLocation"
+13 63 0.1232877 l "hasVolumeSend"
+63 13 0.4090909 l "hasVolumeSend"
+13 63 0.1232877 l "hasVolumeReceive"
+63 13 0.4090909 l "hasVolumeReceive"
+13 63 0.1232877 l "hasBreadthSend"
+63 13 0.4090909 l "hasBreadthSend"
+13 63 0.1232877 l "hasBreadthReceive"
+63 13 0.4090909 l "hasBreadthReceive"
+13 65 0.0821918 l "has_EMRAM_Score_2010"
+65 13 0.7500000 l "has_EMRAM_Score_2010"
+13 65 0.0821918 l "has_OHA_Adoption_Index_2008_Question_3.1_Score"
+65 13 0.7500000 l "has_OHA_Adoption_Index_2008_Question_3.1_Score"
+13 65 0.0821918 l "has_OHA_Adoption_Index_2008_Question_3.2_Score"
+65 13 0.7500000 l "has_OHA_Adoption_Index_2008_Question_3.2_Score"
+13 65 0.0821918 l "has_OHA_Adoption_Index_2008_Overall_Ratio_Score"
+65 13 0.7500000 l "has_OHA_Adoption_Index_2008_Overall_Ratio_Score"
+13 64 0.1917808 l "has existing DI/PACS Data Repository"
+64 13 0.9333333 l "has existing DI/PACS Data Repository"
+13 64 0.1917808 l "has existing Diagnostic Imaging (DI) System"
+64 13 0.9333333 l "has existing Diagnostic Imaging (DI) System"
+13 64 0.1917808 l "has existing Browser"
+64 13 0.9333333 l "has existing Browser"
+13 64 0.1917808 l "has existing Interface Engines"
+64 13 0.9333333 l "has existing Interface Engines"
+13 64 0.1917808 l "has existing Laboratory Information System"
+64 13 0.9333333 l "has existing Laboratory Information System"
+13 64 0.1917808 l "has existing Drug Information System"
+64 13 0.9333333 l "has existing Drug Information System"
+13 64 0.1917808 l "has existing Provider Registry"
+64 13 0.9333333 l "has existing Provider Registry"
+13 64 0.1917808 l "has existing Client Registry"
+64 13 0.9333333 l "has existing Client Registry"
+10 64 0.0238095 l "hasSharedService"
+64 10 0.0666667 l "hasSharedService"
+13 64 0.1917808 l "has_existing_eReferral_Registry"
+64 13 0.9333333 l "has_existing_eReferral_Registry"
+12 13 0.3333333 l "definition"
+13 12 0.0273973 l "definition"
+55 4 0.1000000 l "definition"
+4 55 0.5000000 l "definition"
+55 67 0.1000000 l "definition"
+67 55 0.5000000 l "definition"
+55 13 0.1000000 l "definition"
+13 55 0.0136986 l "definition"
+55 68 0.1000000 l "definition"
+68 55 1.0000000 l "definition"
+56 69 0.1111111 l "definition"
+69 56 0.3333333 l "definition"
+56 3 0.1111111 l "definition"
+3 56 0.1666667 l "definition"
+56 13 0.1111111 l "definition"
+13 56 0.0136986 l "definition"
+57 2 0.1000000 l "definition"
+2 57 0.5000000 l "definition"
+57 70 0.1000000 l "definition"
+70 57 0.5000000 l "definition"
+57 13 0.1000000 l "definition"
+13 57 0.0136986 l "definition"
+58 71 0.0909091 l "definition"
+71 58 0.3333333 l "definition"
+58 9 0.0909091 l "definition"
+9 58 0.5000000 l "definition"
+58 13 0.0909091 l "definition"
+13 58 0.0136986 l "definition"
+59 1 0.1000000 l "definition"
+1 59 0.5000000 l "definition"
+59 13 0.1000000 l "definition"
+13 59 0.0136986 l "definition"
+60 8 0.1000000 l "definition"
+8 60 0.5000000 l "definition"
+60 13 0.1000000 l "definition"
+13 60 0.0136986 l "definition"
+61 7 0.1000000 l "definition"
+7 61 0.5000000 l "definition"
+61 71 0.1000000 l "definition"
+71 61 0.3333333 l "definition"
+61 13 0.1000000 l "definition"
+13 61 0.0136986 l "definition"
+3 44 0.1666667 l "substring"
+44 3 0.3333333 l "substring"
+3 47 0.1666667 l "substring"
+47 3 0.1428571 l "substring"
+3 48 0.1666667 l "substring"
+48 3 0.3333333 l "substring"
+3 69 0.1666667 l "substring"
+69 3 0.3333333 l "substring"
+31 67 0.5000000 l "substring"
+67 31 0.5000000 l "substring"
+33 57 0.3333333 l "substring"
+57 33 0.1000000 l "substring"
+33 70 0.3333333 l "substring"
+70 33 0.5000000 l "substring"
+44 47 0.3333333 l "substring"
+47 44 0.1428571 l "substring"
+47 48 0.2857143 l "substring"
+48 47 0.6666667 l "substring"
+47 69 0.1428571 l "substring"
+69 47 0.3333333 l "substring"
+52 61 0.3333333 l "substring"
+61 52 0.1000000 l "substring"
+52 71 0.3333333 l "substring"
+71 52 0.3333333 l "substring"
+30 32 0.5000000 l "distance"
+32 30 0.5000000 l "distance"
+62 66 0.2500000 l "distance"
+66 62 0.5000000 l "distance"
+*Edges

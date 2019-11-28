@@ -1,0 +1,30 @@
+*Vertices 3
+1 "ClinicalDocumentation" ellipse
+2 "FillingInCaseReportForm" ellipse
+3 "StoringOfHistoSample" ellipse
+*Arcs
+2 1 0.1770054 l "isa"
+1 2 0.1482244 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3556626 l "isa"
+2 1 0.1770054 l "isa"
+1 2 0.1482244 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3556626 l "isa"
+2 1 0.1770054 l "isa"
+1 2 0.1482244 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3556626 l "isa"
+2 1 0.1770054 l "isa"
+1 2 0.1482244 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3556626 l "isa"
+2 1 0.1770054 l "isa"
+1 2 0.1482244 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3556626 l "isa"
+2 1 0.1770054 l "isa"
+1 2 0.1482244 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3556626 l "isa"
+*Edges

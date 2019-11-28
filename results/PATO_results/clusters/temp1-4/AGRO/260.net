@@ -1,0 +1,17 @@
+*Vertices 4
+1 "hour" ellipse
+2 "energy unit" ellipse
+3 "watt-hour" ellipse
+4 "kilowatt-hour" ellipse
+*Arcs
+3 2 0.3333333 l "isa"
+2 3 0.1000000 l "isa"
+4 2 0.3333333 l "isa"
+2 4 0.1000000 l "isa"
+1 3 0.0243902 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.0243902 l "substring"
+4 1 0.3333333 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.3333333 l "substring"
+*Edges

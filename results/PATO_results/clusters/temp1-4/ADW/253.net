@@ -1,0 +1,9 @@
+*Vertices 2
+1 "thing related to clinical trial" ellipse
+2 "Thing related to outcome" ellipse
+*Arcs
+2 1 0.1177704 l "isa"
+1 2 0.1314266 l "isa"
+2 1 0.1177704 l "isa"
+1 2 0.1314266 l "isa"
+*Edges

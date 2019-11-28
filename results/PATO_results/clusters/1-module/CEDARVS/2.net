@@ -1,0 +1,37 @@
+*Vertices 12
+1 "Adverse_Events" ellipse
+2 "Assessment_Results" ellipse
+3 "Case_Report_Form" ellipse
+4 "Concomitant_Medications" ellipse
+5 "Data_Dictionary" ellipse
+6 "Demographics" ellipse
+7 "Lab_Test_Results" ellipse
+8 "Study_Data" ellipse
+9 "Study_File_Type" ellipse
+10 "Study_Medication" ellipse
+11 "Study_Summary_Description" ellipse
+12 "Substance_Use" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.0833333 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.0833333 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.0833333 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.0833333 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.0833333 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0833333 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0833333 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.0833333 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.0833333 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.0833333 l "isa"
+12 9 1.0000000 l "isa"
+9 12 0.0833333 l "isa"
+*Edges

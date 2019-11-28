@@ -1,0 +1,7 @@
+*Vertices 2
+1 "yellow" ellipse
+2 "Race" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0200000 l "isa"
+*Edges

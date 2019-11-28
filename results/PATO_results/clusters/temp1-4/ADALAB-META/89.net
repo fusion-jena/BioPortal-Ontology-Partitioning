@@ -1,0 +1,66 @@
+*Vertices 9
+1 "Sexual Orientation" ellipse
+2 "Health-related behavior" ellipse
+3 "Observable entity" ellipse
+4 "Clinical history/examination observable" ellipse
+5 "Mental state, behavior / psychosocial function observable" ellipse
+6 "Behavior observable" ellipse
+7 "Detail of sexuality and sexual activity" ellipse
+8 "Sexual orientation" ellipse
+9 "entity" ellipse
+*Arcs
+2 6 0.2710875 l "isa"
+6 2 0.2807279 l "isa"
+4 3 0.3829684 l "isa"
+3 4 0.3193842 l "isa"
+5 4 0.2437889 l "isa"
+4 5 0.3617947 l "isa"
+6 5 0.2748296 l "isa"
+5 6 0.2286255 l "isa"
+7 2 0.2657346 l "isa"
+2 7 0.2671413 l "isa"
+8 7 0.2215428 l "isa"
+7 8 0.2619436 l "isa"
+1 8 0.5148330 l "substring"
+8 1 0.5951775 l "substring"
+3 9 0.2594814 l "substring"
+9 3 0.0973616 l "substring"
+1 8 0.5148330 l "distance"
+8 1 0.5951775 l "distance"
+2 6 0.2710875 l "isa"
+6 2 0.2807279 l "isa"
+4 3 0.3829684 l "isa"
+3 4 0.3193842 l "isa"
+5 4 0.2437889 l "isa"
+4 5 0.3617947 l "isa"
+6 5 0.2748296 l "isa"
+5 6 0.2286255 l "isa"
+7 2 0.2657346 l "isa"
+2 7 0.2671413 l "isa"
+8 7 0.2215428 l "isa"
+7 8 0.2619436 l "isa"
+1 8 0.5148330 l "substring"
+8 1 0.5951775 l "substring"
+3 9 0.2594814 l "substring"
+9 3 0.0973616 l "substring"
+1 8 0.5148330 l "distance"
+8 1 0.5951775 l "distance"
+2 6 0.2710875 l "isa"
+6 2 0.2807279 l "isa"
+4 3 0.3829684 l "isa"
+3 4 0.3193842 l "isa"
+5 4 0.2437889 l "isa"
+4 5 0.3617947 l "isa"
+6 5 0.2748296 l "isa"
+5 6 0.2286255 l "isa"
+7 2 0.2657346 l "isa"
+2 7 0.2671413 l "isa"
+8 7 0.2215428 l "isa"
+7 8 0.2619436 l "isa"
+1 8 0.5148330 l "substring"
+8 1 0.5951775 l "substring"
+3 9 0.2594814 l "substring"
+9 3 0.0973616 l "substring"
+1 8 0.5148330 l "distance"
+8 1 0.5951775 l "distance"
+*Edges

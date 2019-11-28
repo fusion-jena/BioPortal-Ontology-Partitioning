@@ -1,0 +1,63 @@
+*Vertices 18
+1 "COPD annual review" ellipse
+2 "COPD care plan declined" ellipse
+3 "COPD hospital admission since last visit" ellipse
+4 "COPD disease monitoring" ellipse
+5 "COPD monitoring" ellipse
+6 "admit COPD emergency" ellipse
+7 "COPD self management" ellipse
+8 "QOF exemption" ellipse
+9 "COPD hospital attendance" ellipse
+10 "COPD care plan" ellipse
+11 "COPD rescue pack not appropriate" ellipse
+12 "process of care" ellipse
+13 "COPD rescue pack" ellipse
+14 "COPD administration" ellipse
+15 "COPD follow up" ellipse
+16 "COPD medication optimisation" ellipse
+17 "COPD rescue pack declined" ellipse
+18 "COPD monitoring administration" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1666667 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.6666667 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.3333333 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1666667 l "isa"
+5 12 0.1666667 l "isa"
+12 5 0.1666667 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.3333333 l "isa"
+7 12 0.3333333 l "isa"
+12 7 0.1666667 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.3333333 l "isa"
+9 12 0.3333333 l "isa"
+12 9 0.1666667 l "isa"
+10 7 0.3333333 l "isa"
+7 10 0.3333333 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.4000000 l "isa"
+13 7 0.2000000 l "isa"
+7 13 0.3333333 l "isa"
+14 12 0.3333333 l "isa"
+12 14 0.1666667 l "isa"
+15 5 1.0000000 l "isa"
+5 15 0.1666667 l "isa"
+16 5 1.0000000 l "isa"
+5 16 0.1666667 l "isa"
+17 13 1.0000000 l "isa"
+13 17 0.4000000 l "isa"
+18 14 0.5000000 l "isa"
+14 18 0.3333333 l "isa"
+2 10 1.0000000 l "substring"
+10 2 0.6666667 l "substring"
+5 18 0.1666667 l "substring"
+18 5 0.5000000 l "substring"
+11 13 1.0000000 l "substring"
+13 11 0.4000000 l "substring"
+13 17 0.4000000 l "substring"
+17 13 1.0000000 l "substring"
+*Edges

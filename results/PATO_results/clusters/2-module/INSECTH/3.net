@@ -1,0 +1,19 @@
+*Vertices 6
+1 "adult central complex" ellipse
+2 "central body" ellipse
+3 "ellipsoid body" ellipse
+4 "fan-shaped body" ellipse
+5 "noduli" ellipse
+6 "protocerebral bridge" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3333333 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2500000 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.2500000 l "isa"
+*Edges

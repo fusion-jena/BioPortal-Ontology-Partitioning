@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Angiography" ellipse
+2 "Cardiography" ellipse
+*Arcs
+1 2 0.3791981 l "distance"
+2 1 0.2880574 l "distance"
+1 2 0.3791981 l "distance"
+2 1 0.2880574 l "distance"
+1 2 0.3791981 l "distance"
+2 1 0.2880574 l "distance"
+*Edges

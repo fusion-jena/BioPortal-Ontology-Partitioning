@@ -1,0 +1,19 @@
+*Vertices 4
+1 "protein N-linked glycosylation" ellipse
+2 "protein O-linked glycosylation" ellipse
+3 "protein glucuronidation" ellipse
+4 "glycosylation" ellipse
+*Arcs
+1 4 0.6666667 l "isa"
+4 1 0.3333333 l "isa"
+2 4 0.6666667 l "isa"
+4 2 0.3333333 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1666667 l "isa"
+1 4 0.6666667 l "substring"
+4 1 0.3333333 l "substring"
+2 4 0.6666667 l "substring"
+4 2 0.3333333 l "substring"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

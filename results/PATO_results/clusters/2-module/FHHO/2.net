@@ -1,0 +1,82 @@
+*Vertices 21
+1 "Adopted_Cousin" ellipse
+2 "Adopted_Kin_Relation" ellipse
+3 "Adoptive_Brother" ellipse
+4 "Adoptive_Child" ellipse
+5 "Adoptive_Daughter" ellipse
+6 "Adoptive_Sibling" ellipse
+7 "Adoptive_Sister" ellipse
+8 "Adoptive_Son" ellipse
+9 "Coughing" ellipse
+10 "Cousin" ellipse
+11 "Health_Risk_Behavior" ellipse
+12 "Health_State" ellipse
+13 "Heart_Murmur" ellipse
+14 "Person" ellipse
+15 "Person_Female" ellipse
+16 "Person_Male" ellipse
+17 "Sedentary_Lifestyle" ellipse
+18 "Sign_or_Symptom" ellipse
+19 "Step_Cousin" ellipse
+20 "Step_Kin_Relation" ellipse
+21 "Tobacco_Smoking_Behavior" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1111111 l "isa"
+4 2 0.3333333 l "isa"
+2 4 0.1111111 l "isa"
+6 2 0.3333333 l "isa"
+2 6 0.1111111 l "isa"
+9 18 0.5000000 l "isa"
+18 9 0.3333333 l "isa"
+11 12 0.3333333 l "isa"
+12 11 0.0833333 l "isa"
+13 18 1.0000000 l "isa"
+18 13 0.3333333 l "isa"
+15 14 0.6666667 l "isa"
+14 15 0.1428571 l "isa"
+16 14 0.6666667 l "isa"
+14 16 0.1428571 l "isa"
+17 11 1.0000000 l "isa"
+11 17 0.3333333 l "isa"
+18 12 0.3333333 l "isa"
+12 18 0.0833333 l "isa"
+19 20 0.5000000 l "isa"
+20 19 0.1000000 l "isa"
+21 11 1.0000000 l "isa"
+11 21 0.3333333 l "isa"
+12 14 0.5000000 l "cause_of_death_belongs_to_whom"
+14 12 0.4285714 l "cause_of_death_belongs_to_whom"
+12 14 0.5000000 l "fam_hx_state_belongs_to_whom"
+14 12 0.4285714 l "fam_hx_state_belongs_to_whom"
+14 12 0.4285714 l "has_cause_of_death"
+12 14 0.5000000 l "has_cause_of_death"
+14 12 0.4285714 l "has_fam_hx_state"
+12 14 0.5000000 l "has_fam_hx_state"
+14 14 0.1428571 l "has_family_member"
+14 14 0.1428571 l "has_family_member"
+14 12 0.4285714 l "has_health_state"
+12 14 0.5000000 l "has_health_state"
+12 14 0.5000000 l "health_state_belongs_to_whom"
+14 12 0.4285714 l "health_state_belongs_to_whom"
+3 6 0.1666667 l "definition"
+6 3 0.3333333 l "definition"
+5 4 0.2000000 l "definition"
+4 5 0.3333333 l "definition"
+7 6 0.2500000 l "definition"
+6 7 0.3333333 l "definition"
+8 4 0.2000000 l "definition"
+4 8 0.3333333 l "definition"
+1 10 0.5000000 l "substring"
+10 1 0.0833333 l "substring"
+10 19 0.0833333 l "substring"
+19 10 0.5000000 l "substring"
+14 15 0.1428571 l "substring"
+15 14 0.6666667 l "substring"
+14 16 0.1428571 l "substring"
+16 14 0.6666667 l "substring"
+9 10 0.5000000 l "distance"
+10 9 0.0833333 l "distance"
+15 16 0.3333333 l "distance"
+16 15 0.3333333 l "distance"
+*Edges

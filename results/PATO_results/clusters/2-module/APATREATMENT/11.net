@@ -1,0 +1,67 @@
+*Vertices 22
+1 "Anger_Control" ellipse
+2 "Anxiety_Management" ellipse
+3 "Assertiveness_Training" ellipse
+4 "Behavior_Contracting" ellipse
+5 "Behavior_Modification" ellipse
+6 "Biofeedback_Training" ellipse
+7 "Contingency_Management" ellipse
+8 "Differential_Reinforcement" ellipse
+9 "Exposure_Therapy" ellipse
+10 "Functional_Analysis" ellipse
+11 "Implosive_Therapy" ellipse
+12 "Omission_Training" ellipse
+13 "Overcorrection" ellipse
+14 "Reciprocal_Inhibition_Therapy" ellipse
+15 "Response_Cost" ellipse
+16 "Self_Help_Techniques" ellipse
+17 "Self_Management" ellipse
+18 "Self_Monitoring" ellipse
+19 "Stress_Management" ellipse
+20 "Time_Out" ellipse
+21 "Token_Economy_Programs" ellipse
+22 "BehaviorModificationTherapy" ellipse
+*Arcs
+1 22 1.0000000 l "isa"
+22 1 0.0294118 l "isa"
+2 22 1.0000000 l "isa"
+22 2 0.0294118 l "isa"
+3 22 1.0000000 l "isa"
+22 3 0.0294118 l "isa"
+4 22 1.0000000 l "isa"
+22 4 0.0294118 l "isa"
+5 22 1.0000000 l "isa"
+22 5 0.0294118 l "isa"
+6 22 1.0000000 l "isa"
+22 6 0.0294118 l "isa"
+7 22 1.0000000 l "isa"
+22 7 0.0294118 l "isa"
+8 22 1.0000000 l "isa"
+22 8 0.0294118 l "isa"
+9 22 1.0000000 l "isa"
+22 9 0.0294118 l "isa"
+10 22 1.0000000 l "isa"
+22 10 0.0294118 l "isa"
+11 22 1.0000000 l "isa"
+22 11 0.0294118 l "isa"
+12 22 1.0000000 l "isa"
+22 12 0.0294118 l "isa"
+13 22 1.0000000 l "isa"
+22 13 0.0294118 l "isa"
+14 22 1.0000000 l "isa"
+22 14 0.0294118 l "isa"
+15 22 1.0000000 l "isa"
+22 15 0.0294118 l "isa"
+16 22 1.0000000 l "isa"
+22 16 0.0294118 l "isa"
+17 22 1.0000000 l "isa"
+22 17 0.0294118 l "isa"
+18 22 1.0000000 l "isa"
+22 18 0.0294118 l "isa"
+19 22 1.0000000 l "isa"
+22 19 0.0294118 l "isa"
+20 22 1.0000000 l "isa"
+22 20 0.0294118 l "isa"
+21 22 1.0000000 l "isa"
+22 21 0.0294118 l "isa"
+*Edges

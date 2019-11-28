@@ -1,0 +1,178 @@
+*Vertices 59
+1 "Ability_Level" ellipse
+2 "Academic_Aptitude" ellipse
+3 "Academic_Environment" ellipse
+4 "Academic_Failure" ellipse
+5 "Academic_Self_Concept" ellipse
+6 "Academic_Specialization" ellipse
+7 "Artistic_Ability" ellipse
+8 "Athletic_Participation" ellipse
+9 "Bullying" ellipse
+10 "Class_Size" ellipse
+11 "Classroom_Environment" ellipse
+12 "Cognitive_Ability" ellipse
+13 "College_Environment" ellipse
+14 "Computer_Anxiety" ellipse
+15 "Declarative_Knowledge" ellipse
+16 "Fraternity_Membership" ellipse
+17 "Goal_Orientation" ellipse
+18 "Grade_Level" ellipse
+19 "Mathematical_Ability" ellipse
+20 "Musical_Ability" ellipse
+21 "Native_Language" ellipse
+22 "Parental_Involvement" ellipse
+23 "Performance_Anxiety" ellipse
+24 "Phonological_Awareness" ellipse
+25 "Pretend_Play" ellipse
+26 "Procedural_Knowledge" ellipse
+27 "Reading_Comprehension" ellipse
+28 "Reading_Skills" ellipse
+29 "School_Adjustment" ellipse
+30 "School_Attendance" ellipse
+31 "School_Club_Membership" ellipse
+32 "School_Enrollment" ellipse
+33 "School_Environment" ellipse
+34 "School_Expulsion" ellipse
+35 "School_Graduation" ellipse
+36 "School_Integration" ellipse
+37 "School_Phobia" ellipse
+38 "School_Readiness" ellipse
+39 "School_Refusal" ellipse
+40 "School_Suspension" ellipse
+41 "School_Transition" ellipse
+42 "School_Violence" ellipse
+43 "School_to_Work_Transition" ellipse
+44 "Sorority_Membership" ellipse
+45 "Special_Needs" ellipse
+46 "Speech_Anxiety" ellipse
+47 "Student_Activism" ellipse
+48 "Student_Attitudes" ellipse
+49 "Student_Attrition" ellipse
+50 "Student_Characteristics" ellipse
+51 "Student_Engagement" ellipse
+52 "Student_Records" ellipse
+53 "Study_Habits" ellipse
+54 "Tardiness" ellipse
+55 "Teacher_Student_Interaction" ellipse
+56 "Test_Anxiety" ellipse
+57 "Writing_Skills" ellipse
+58 "Zone_of_Proximal_Development" ellipse
+59 "StudentCharacteristicsAcademicEnvironment" ellipse
+*Arcs
+1 59 1.0000000 l "isa"
+59 1 0.0119048 l "isa"
+2 59 1.0000000 l "isa"
+59 2 0.0119048 l "isa"
+3 59 1.0000000 l "isa"
+59 3 0.0119048 l "isa"
+4 59 1.0000000 l "isa"
+59 4 0.0119048 l "isa"
+5 59 1.0000000 l "isa"
+59 5 0.0119048 l "isa"
+6 59 1.0000000 l "isa"
+59 6 0.0119048 l "isa"
+7 59 1.0000000 l "isa"
+59 7 0.0119048 l "isa"
+8 59 1.0000000 l "isa"
+59 8 0.0119048 l "isa"
+9 59 1.0000000 l "isa"
+59 9 0.0119048 l "isa"
+10 59 1.0000000 l "isa"
+59 10 0.0119048 l "isa"
+11 59 1.0000000 l "isa"
+59 11 0.0119048 l "isa"
+12 59 1.0000000 l "isa"
+59 12 0.0119048 l "isa"
+13 59 1.0000000 l "isa"
+59 13 0.0119048 l "isa"
+14 59 1.0000000 l "isa"
+59 14 0.0119048 l "isa"
+15 59 1.0000000 l "isa"
+59 15 0.0119048 l "isa"
+16 59 1.0000000 l "isa"
+59 16 0.0119048 l "isa"
+17 59 1.0000000 l "isa"
+59 17 0.0119048 l "isa"
+18 59 1.0000000 l "isa"
+59 18 0.0119048 l "isa"
+19 59 1.0000000 l "isa"
+59 19 0.0119048 l "isa"
+20 59 1.0000000 l "isa"
+59 20 0.0119048 l "isa"
+21 59 1.0000000 l "isa"
+59 21 0.0119048 l "isa"
+22 59 1.0000000 l "isa"
+59 22 0.0119048 l "isa"
+23 59 1.0000000 l "isa"
+59 23 0.0119048 l "isa"
+24 59 1.0000000 l "isa"
+59 24 0.0119048 l "isa"
+25 59 1.0000000 l "isa"
+59 25 0.0119048 l "isa"
+26 59 1.0000000 l "isa"
+59 26 0.0119048 l "isa"
+27 59 1.0000000 l "isa"
+59 27 0.0119048 l "isa"
+28 59 1.0000000 l "isa"
+59 28 0.0119048 l "isa"
+29 59 1.0000000 l "isa"
+59 29 0.0119048 l "isa"
+30 59 1.0000000 l "isa"
+59 30 0.0119048 l "isa"
+31 59 1.0000000 l "isa"
+59 31 0.0119048 l "isa"
+32 59 1.0000000 l "isa"
+59 32 0.0119048 l "isa"
+33 59 1.0000000 l "isa"
+59 33 0.0119048 l "isa"
+34 59 1.0000000 l "isa"
+59 34 0.0119048 l "isa"
+35 59 1.0000000 l "isa"
+59 35 0.0119048 l "isa"
+36 59 1.0000000 l "isa"
+59 36 0.0119048 l "isa"
+37 59 1.0000000 l "isa"
+59 37 0.0119048 l "isa"
+38 59 1.0000000 l "isa"
+59 38 0.0119048 l "isa"
+39 59 1.0000000 l "isa"
+59 39 0.0119048 l "isa"
+40 59 1.0000000 l "isa"
+59 40 0.0119048 l "isa"
+41 59 1.0000000 l "isa"
+59 41 0.0119048 l "isa"
+42 59 1.0000000 l "isa"
+59 42 0.0119048 l "isa"
+43 59 1.0000000 l "isa"
+59 43 0.0119048 l "isa"
+44 59 1.0000000 l "isa"
+59 44 0.0119048 l "isa"
+45 59 1.0000000 l "isa"
+59 45 0.0119048 l "isa"
+46 59 1.0000000 l "isa"
+59 46 0.0119048 l "isa"
+47 59 1.0000000 l "isa"
+59 47 0.0119048 l "isa"
+48 59 1.0000000 l "isa"
+59 48 0.0119048 l "isa"
+49 59 1.0000000 l "isa"
+59 49 0.0119048 l "isa"
+50 59 1.0000000 l "isa"
+59 50 0.0119048 l "isa"
+51 59 1.0000000 l "isa"
+59 51 0.0119048 l "isa"
+52 59 1.0000000 l "isa"
+59 52 0.0119048 l "isa"
+53 59 1.0000000 l "isa"
+59 53 0.0119048 l "isa"
+54 59 1.0000000 l "isa"
+59 54 0.0119048 l "isa"
+55 59 1.0000000 l "isa"
+59 55 0.0119048 l "isa"
+56 59 1.0000000 l "isa"
+59 56 0.0119048 l "isa"
+57 59 1.0000000 l "isa"
+59 57 0.0119048 l "isa"
+58 59 1.0000000 l "isa"
+59 58 0.0119048 l "isa"
+*Edges

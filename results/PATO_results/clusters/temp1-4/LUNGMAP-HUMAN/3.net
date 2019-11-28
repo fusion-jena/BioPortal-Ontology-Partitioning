@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Moghani" ellipse
+2 "Morgan" ellipse
+*Arcs
+1 2 0.1740890 l "distance"
+2 1 0.1200095 l "distance"
+1 2 0.1740890 l "distance"
+2 1 0.1200095 l "distance"
+1 2 0.1740890 l "distance"
+2 1 0.1200095 l "distance"
+*Edges

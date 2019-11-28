@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Normande" ellipse
+2 "Nordland" ellipse
+*Arcs
+1 2 0.5769700 l "distance"
+2 1 0.2604518 l "distance"
+1 2 0.5769700 l "distance"
+2 1 0.2604518 l "distance"
+1 2 0.5769700 l "distance"
+2 1 0.2604518 l "distance"
+1 2 0.5769700 l "distance"
+2 1 0.2604518 l "distance"
+1 2 0.5769700 l "distance"
+2 1 0.2604518 l "distance"
+*Edges

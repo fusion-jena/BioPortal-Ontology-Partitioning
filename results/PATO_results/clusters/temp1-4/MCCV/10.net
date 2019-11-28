@@ -1,0 +1,14 @@
+*Vertices 3
+1 "IntrusiveRock" ellipse
+2 "Pluton" ellipse
+3 "PlutonicRock" ellipse
+*Arcs
+2 1 0.3506494 l "isa"
+1 2 0.1937910 l "isa"
+2 3 0.3896104 l "substring"
+3 2 0.3977140 l "substring"
+2 1 0.3506494 l "isa"
+1 2 0.1937910 l "isa"
+2 3 0.3896104 l "substring"
+3 2 0.3977140 l "substring"
+*Edges

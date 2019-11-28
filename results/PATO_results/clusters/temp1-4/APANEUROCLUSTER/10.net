@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Death" ellipse
+2 "Sudden_Infant_Death" ellipse
+*Arcs
+1 2 0.0334314 l "substring"
+2 1 0.5048231 l "substring"
+1 2 0.0334314 l "substring"
+2 1 0.5048231 l "substring"
+1 2 0.0334314 l "substring"
+2 1 0.5048231 l "substring"
+*Edges

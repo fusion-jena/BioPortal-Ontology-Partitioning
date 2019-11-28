@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Weight" ellipse
+2 "hasWeight"
+*Arcs
+1 2 0.1641532 l "substring"
+2 1 0.3468201 l "substring"
+1 2 0.1641532 l "distance"
+2 1 0.3468201 l "distance"
+1 2 0.1641532 l "substring"
+2 1 0.3468201 l "substring"
+1 2 0.1641532 l "distance"
+2 1 0.3468201 l "distance"
+1 2 0.1641532 l "substring"
+2 1 0.3468201 l "substring"
+1 2 0.1641532 l "distance"
+2 1 0.3468201 l "distance"
+1 2 0.1641532 l "substring"
+2 1 0.3468201 l "substring"
+1 2 0.1641532 l "distance"
+2 1 0.3468201 l "distance"
+*Edges

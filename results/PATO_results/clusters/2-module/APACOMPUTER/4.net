@@ -1,0 +1,53 @@
+*Vertices 16
+1 "Automated_Speech_Recognition" ellipse
+2 "Computer_Peripheral_Devices" ellipse
+3 "Decision_Support_Systems" ellipse
+4 "Human_Computer_Interaction" ellipse
+5 "Human_Factors_Engineering" ellipse
+6 "Human_Machine_Systems" ellipse
+7 "Human_Machine_Systems_Design" ellipse
+8 "Inductive_Logic_Programming" ellipse
+9 "Instrument_Controls" ellipse
+10 "Intelligent_Tutoring_Systems" ellipse
+11 "Knowledge_Engineering" ellipse
+12 "Person_Environment_Fit" ellipse
+13 "Systems_Design" ellipse
+14 "Teaching_Machines" ellipse
+15 "Virtual_Reality" ellipse
+16 "HumanMachineSystemsEngineering" ellipse
+*Arcs
+1 16 1.0000000 l "isa"
+16 1 0.0666667 l "isa"
+2 16 1.0000000 l "isa"
+16 2 0.0666667 l "isa"
+3 16 1.0000000 l "isa"
+16 3 0.0666667 l "isa"
+4 16 1.0000000 l "isa"
+16 4 0.0666667 l "isa"
+5 16 1.0000000 l "isa"
+16 5 0.0666667 l "isa"
+6 16 0.5000000 l "isa"
+16 6 0.0666667 l "isa"
+7 16 0.3333333 l "isa"
+16 7 0.0666667 l "isa"
+8 16 1.0000000 l "isa"
+16 8 0.0666667 l "isa"
+9 16 1.0000000 l "isa"
+16 9 0.0666667 l "isa"
+10 16 1.0000000 l "isa"
+16 10 0.0666667 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.0666667 l "isa"
+12 16 1.0000000 l "isa"
+16 12 0.0666667 l "isa"
+13 16 0.5000000 l "isa"
+16 13 0.0666667 l "isa"
+14 16 1.0000000 l "isa"
+16 14 0.0666667 l "isa"
+15 16 1.0000000 l "isa"
+16 15 0.0666667 l "isa"
+6 7 0.5000000 l "substring"
+7 6 0.3333333 l "substring"
+7 13 0.3333333 l "substring"
+13 7 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 6
+1 "Food Frequency Questionnaires" ellipse
+2 "Food Recall" ellipse
+3 "Food Record 3 4 Day" ellipse
+4 "Food Record 7 Day" ellipse
+5 "Hour 24 Diet Recall" ellipse
+6 "Nutrient Analysis" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.2313253 l "isa"
+2 6 0.3089431 l "isa"
+6 2 0.1831325 l "isa"
+3 2 0.4857143 l "isa"
+2 3 0.3455285 l "isa"
+4 2 0.4857143 l "isa"
+2 4 0.3455285 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.2313253 l "isa"
+3 4 0.5142857 l "distance"
+4 3 0.5142857 l "distance"
+1 6 1.0000000 l "isa"
+6 1 0.2313253 l "isa"
+2 6 0.3089431 l "isa"
+6 2 0.1831325 l "isa"
+3 2 0.4857143 l "isa"
+2 3 0.3455285 l "isa"
+4 2 0.4857143 l "isa"
+2 4 0.3455285 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.2313253 l "isa"
+3 4 0.5142857 l "distance"
+4 3 0.5142857 l "distance"
+*Edges

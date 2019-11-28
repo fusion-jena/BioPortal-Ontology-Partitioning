@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Delirium" ellipse
+2 "Delirium_Tremens" ellipse
+*Arcs
+1 2 0.5444546 l "substring"
+2 1 0.5448505 l "substring"
+1 2 0.5444546 l "substring"
+2 1 0.5448505 l "substring"
+*Edges

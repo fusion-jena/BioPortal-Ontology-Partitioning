@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Drug Abuse" ellipse
+2 "Drug abuse" ellipse
+*Arcs
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+1 2 0.6889747 l "substring"
+2 1 0.6915441 l "substring"
+1 2 0.6889747 l "distance"
+2 1 0.6915441 l "distance"
+*Edges

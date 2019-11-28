@@ -1,0 +1,35 @@
+*Vertices 4
+1 "Body" ellipse
+2 "BodyOfInvertebrate" ellipse
+3 "BodyOfVertebrate" ellipse
+4 "HumanBody" ellipse
+*Arcs
+2 1 0.3025159 l "isa"
+1 2 0.0749618 l "isa"
+3 1 0.2569979 l "isa"
+1 3 0.0738260 l "isa"
+4 3 0.5086505 l "isa"
+3 4 0.1453027 l "isa"
+1 2 0.0749618 l "substring"
+2 1 0.3025159 l "substring"
+1 3 0.0738260 l "substring"
+3 1 0.2569979 l "substring"
+1 4 0.0403204 l "substring"
+4 1 0.4913495 l "substring"
+2 3 0.1455285 l "distance"
+3 2 0.1255336 l "distance"
+2 1 0.3025159 l "isa"
+1 2 0.0749618 l "isa"
+3 1 0.2569979 l "isa"
+1 3 0.0738260 l "isa"
+4 3 0.5086505 l "isa"
+3 4 0.1453027 l "isa"
+1 2 0.0749618 l "substring"
+2 1 0.3025159 l "substring"
+1 3 0.0738260 l "substring"
+3 1 0.2569979 l "substring"
+1 4 0.0403204 l "substring"
+4 1 0.4913495 l "substring"
+2 3 0.1455285 l "distance"
+3 2 0.1255336 l "distance"
+*Edges

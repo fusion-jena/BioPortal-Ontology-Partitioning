@@ -1,0 +1,13 @@
+*Vertices 2
+1 "speed" ellipse
+2 "tractor speed" ellipse
+*Arcs
+2 1 0.5195112 l "isa"
+1 2 0.0721801 l "isa"
+1 2 0.0721801 l "substring"
+2 1 0.5195112 l "substring"
+2 1 0.5195112 l "isa"
+1 2 0.0721801 l "isa"
+1 2 0.0721801 l "substring"
+2 1 0.5195112 l "substring"
+*Edges

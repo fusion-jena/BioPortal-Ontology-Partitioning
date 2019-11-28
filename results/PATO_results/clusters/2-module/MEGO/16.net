@@ -1,0 +1,9 @@
+*Vertices 2
+1 "pilin" ellipse
+2 "type IV secretion system pilin" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2000000 l "isa"
+1 2 0.2000000 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

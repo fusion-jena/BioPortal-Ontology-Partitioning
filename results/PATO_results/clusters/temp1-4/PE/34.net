@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Europe" ellipse
+2 "European_Union" ellipse
+*Arcs
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+1 2 0.5584548 l "substring"
+2 1 0.5560698 l "substring"
+*Edges

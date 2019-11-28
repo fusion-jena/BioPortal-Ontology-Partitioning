@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Holarctic" ellipse
+2 "Palearctic" ellipse
+*Arcs
+1 2 0.3465704 l "distance"
+2 1 0.3493450 l "distance"
+1 2 0.3465704 l "distance"
+2 1 0.3493450 l "distance"
+*Edges

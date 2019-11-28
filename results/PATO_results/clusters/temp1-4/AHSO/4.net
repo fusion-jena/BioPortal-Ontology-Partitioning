@@ -1,0 +1,20 @@
+*Vertices 5
+1 "Registered Animal Movement" ellipse
+2 "Observation context" ellipse
+3 "Necropsy" ellipse
+4 "Surveillance system" ellipse
+5 "Surveillance activity" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0384615 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0384615 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0384615 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0384615 l "isa"
+2 2 0.1538462 l "is member of system"
+2 2 0.1538462 l "is member of system"
+2 2 0.1538462 l "has member activity"
+2 2 0.1538462 l "has member activity"
+*Edges

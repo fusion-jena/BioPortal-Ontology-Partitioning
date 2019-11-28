@@ -1,0 +1,9 @@
+*Vertices 2
+1 "January" ellipse
+2 "Month (unit of temporal duration)"
+*Arcs
+1 2 0.2075070 l "definition"
+2 1 0.2075777 l "definition"
+1 2 0.2075070 l "definition"
+2 1 0.2075777 l "definition"
+*Edges

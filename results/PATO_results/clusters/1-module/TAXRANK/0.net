@@ -1,0 +1,131 @@
+*Vertices 40
+1 "species_group" ellipse
+2 "species_subgroup" ellipse
+3 "superclass" ellipse
+4 "superfamily" ellipse
+5 "superorder" ellipse
+6 "superkingdom" ellipse
+7 "superphylum" ellipse
+8 "supertribe" ellipse
+9 "phylum" ellipse
+10 "class" ellipse
+11 "order" ellipse
+12 "family" ellipse
+13 "species" ellipse
+14 "subclass" ellipse
+15 "subphylum" ellipse
+16 "species_complex" ellipse
+17 "infraorder" ellipse
+18 "suborder" ellipse
+19 "kingdom" ellipse
+20 "infraclass" ellipse
+21 "parvorder" ellipse
+22 "subspecies" ellipse
+23 "subfamily" ellipse
+24 "tribe" ellipse
+25 "subtribe" ellipse
+26 "subkingdom" ellipse
+27 "cultivar" ellipse
+28 "cultivar-group" ellipse
+29 "denominationclass" ellipse
+30 "grex" ellipse
+31 "infraphylum" ellipse
+32 "infrafamily" ellipse
+33 "infragenerictaxon" ellipse
+34 "infragenus" ellipse
+35 "infrakingdom" ellipse
+36 "infraspecies" ellipse
+37 "infratribe" ellipse
+38 "speciesaggregate" ellipse
+39 "supragenerictaxon" ellipse
+40 "Thing"
+*Arcs
+9 15 0.4000000 l "substring"
+15 9 0.5000000 l "substring"
+9 7 0.2000000 l "substring"
+7 9 0.3333333 l "substring"
+9 31 0.2000000 l "substring"
+31 9 0.5000000 l "substring"
+10 14 0.3333333 l "substring"
+14 10 0.5000000 l "substring"
+10 3 0.1666667 l "substring"
+3 10 0.3333333 l "substring"
+10 20 0.1666667 l "substring"
+20 10 0.5000000 l "substring"
+10 29 0.1666667 l "substring"
+29 10 0.5000000 l "substring"
+11 17 0.1428571 l "substring"
+17 11 0.5000000 l "substring"
+11 18 0.2857143 l "substring"
+18 11 0.5000000 l "substring"
+11 5 0.1428571 l "substring"
+5 11 0.3333333 l "substring"
+11 21 0.1428571 l "substring"
+21 11 0.5000000 l "substring"
+12 4 0.2000000 l "substring"
+4 12 0.3333333 l "substring"
+12 23 0.4000000 l "substring"
+23 12 0.5000000 l "substring"
+12 32 0.2000000 l "substring"
+32 12 0.5000000 l "substring"
+13 1 0.1111111 l "substring"
+1 13 0.3333333 l "substring"
+13 2 0.1111111 l "substring"
+2 13 0.3333333 l "substring"
+13 16 0.1111111 l "substring"
+16 13 0.5000000 l "substring"
+13 22 0.2222222 l "substring"
+22 13 0.5000000 l "substring"
+13 36 0.1111111 l "substring"
+36 13 0.5000000 l "substring"
+13 38 0.1111111 l "substring"
+38 13 0.5000000 l "substring"
+19 6 0.2000000 l "substring"
+6 19 0.3333333 l "substring"
+19 26 0.4000000 l "substring"
+26 19 0.5000000 l "substring"
+19 35 0.2000000 l "substring"
+35 19 0.5000000 l "substring"
+24 25 0.3333333 l "substring"
+25 24 0.5000000 l "substring"
+24 37 0.1666667 l "substring"
+37 24 0.5000000 l "substring"
+24 8 0.1666667 l "substring"
+8 24 0.3333333 l "substring"
+27 28 0.5000000 l "substring"
+28 27 0.5000000 l "substring"
+9 15 0.4000000 l "distance"
+15 9 0.5000000 l "distance"
+10 14 0.3333333 l "distance"
+14 10 0.5000000 l "distance"
+11 18 0.2857143 l "distance"
+18 11 0.5000000 l "distance"
+11 30 0.1428571 l "distance"
+30 11 0.5000000 l "distance"
+12 23 0.4000000 l "distance"
+23 12 0.5000000 l "distance"
+13 22 0.2222222 l "distance"
+22 13 0.5000000 l "distance"
+14 3 0.2500000 l "distance"
+3 14 0.3333333 l "distance"
+15 7 0.2500000 l "distance"
+7 15 0.3333333 l "distance"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+18 5 0.2500000 l "distance"
+5 18 0.3333333 l "distance"
+19 26 0.4000000 l "distance"
+26 19 0.5000000 l "distance"
+4 23 0.3333333 l "distance"
+23 4 0.2500000 l "distance"
+6 26 0.3333333 l "distance"
+26 6 0.2500000 l "distance"
+24 25 0.3333333 l "distance"
+25 24 0.5000000 l "distance"
+24 40 0.1666667 l "distance"
+40 24 0.5000000 l "distance"
+25 8 0.2500000 l "distance"
+8 25 0.3333333 l "distance"
+33 39 0.5000000 l "distance"
+39 33 0.5000000 l "distance"
+*Edges

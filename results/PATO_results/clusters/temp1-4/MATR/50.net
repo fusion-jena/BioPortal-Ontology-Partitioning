@@ -1,0 +1,34 @@
+*Vertices 3
+1 "Africander" ellipse
+2 "Araucana" ellipse
+3 "Africana" ellipse
+*Arcs
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+1 3 0.6108936 l "distance"
+3 1 0.2591549 l "distance"
+2 3 0.3963848 l "distance"
+3 2 0.2031695 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Mimic" ellipse
+2 "Mimicry" ellipse
+*Arcs
+1 2 0.1871666 l "substring"
+2 1 0.5380951 l "substring"
+1 2 0.1871666 l "distance"
+2 1 0.5380951 l "distance"
+1 2 0.1871666 l "substring"
+2 1 0.5380951 l "substring"
+1 2 0.1871666 l "distance"
+2 1 0.5380951 l "distance"
+*Edges

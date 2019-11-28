@@ -1,0 +1,9 @@
+*Vertices 2
+1 "updateScope"
+2 "updateScopeDescription"
+*Arcs
+1 2 0.1696644 l "substring"
+2 1 0.0759461 l "substring"
+1 2 0.1696644 l "substring"
+2 1 0.0759461 l "substring"
+*Edges

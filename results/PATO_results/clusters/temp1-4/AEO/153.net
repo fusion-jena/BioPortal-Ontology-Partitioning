@@ -1,0 +1,24 @@
+*Vertices 3
+1 "acetylcholine" ellipse
+2 "acetylcholinesterase" ellipse
+3 "acetylcholinesterase inhibitor" ellipse
+*Arcs
+1 2 0.2844852 l "substring"
+2 1 0.2830454 l "substring"
+1 3 0.2511633 l "substring"
+3 1 0.1055653 l "substring"
+2 3 0.2497475 l "substring"
+3 2 0.1055042 l "substring"
+1 2 0.2844852 l "substring"
+2 1 0.2830454 l "substring"
+1 3 0.2511633 l "substring"
+3 1 0.1055653 l "substring"
+2 3 0.2497475 l "substring"
+3 2 0.1055042 l "substring"
+1 2 0.2844852 l "substring"
+2 1 0.2830454 l "substring"
+1 3 0.2511633 l "substring"
+3 1 0.1055653 l "substring"
+2 3 0.2497475 l "substring"
+3 2 0.1055042 l "substring"
+*Edges

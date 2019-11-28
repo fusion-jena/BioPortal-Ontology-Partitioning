@@ -1,0 +1,18 @@
+*Vertices 3
+1 "degasser" ellipse
+2 "separation device" ellipse
+3 "separation column" ellipse
+*Arcs
+1 2 0.2203200 l "isa"
+2 1 0.1140594 l "isa"
+3 2 0.2303015 l "isa"
+2 3 0.1160358 l "isa"
+1 2 0.2203200 l "isa"
+2 1 0.1140594 l "isa"
+3 2 0.2303015 l "isa"
+2 3 0.1160358 l "isa"
+1 2 0.2203200 l "isa"
+2 1 0.1140594 l "isa"
+3 2 0.2303015 l "isa"
+2 3 0.1160358 l "isa"
+*Edges

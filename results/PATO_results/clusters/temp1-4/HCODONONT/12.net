@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Compound Disease Association" ellipse
+2 "association" ellipse
+3 "refers to"
+*Arcs
+1 2 0.5670322 l "isa"
+2 1 0.3413466 l "isa"
+2 3 0.2010847 l "definition"
+3 2 1.0000000 l "definition"
+1 2 0.5670322 l "substring"
+2 1 0.3413466 l "substring"
+1 2 0.5670322 l "isa"
+2 1 0.3413466 l "isa"
+2 3 0.2010847 l "definition"
+3 2 1.0000000 l "definition"
+1 2 0.5670322 l "substring"
+2 1 0.3413466 l "substring"
+1 2 0.5670322 l "isa"
+2 1 0.3413466 l "isa"
+2 3 0.2010847 l "definition"
+3 2 1.0000000 l "definition"
+1 2 0.5670322 l "substring"
+2 1 0.3413466 l "substring"
+*Edges

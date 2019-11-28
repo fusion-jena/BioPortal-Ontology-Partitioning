@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Respiration_Alteration" ellipse
+2 "Respiratory" ellipse
+*Arcs
+1 2 0.1540754 l "isa"
+2 1 0.0905468 l "isa"
+1 2 0.1540754 l "isa"
+2 1 0.0905468 l "isa"
+1 2 0.1540754 l "isa"
+2 1 0.0905468 l "isa"
+*Edges

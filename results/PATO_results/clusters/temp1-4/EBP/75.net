@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Obstacle" ellipse
+2 "ObstacleTip" ellipse
+3 "Tip" ellipse
+*Arcs
+2 3 0.1818182 l "isa"
+3 2 0.0392157 l "isa"
+2 1 0.2727273 l "canResolve"
+1 2 0.2307692 l "canResolve"
+1 2 0.2307692 l "substring"
+2 1 0.2727273 l "substring"
+2 3 0.1818182 l "substring"
+3 2 0.0392157 l "substring"
+1 2 0.2307692 l "distance"
+2 1 0.2727273 l "distance"
+*Edges

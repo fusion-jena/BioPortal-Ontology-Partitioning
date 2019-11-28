@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hyperthermia" ellipse
+2 "Hypothermia" ellipse
+*Arcs
+1 2 0.5290235 l "distance"
+2 1 0.1941546 l "distance"
+1 2 0.5290235 l "distance"
+2 1 0.1941546 l "distance"
+1 2 0.5290235 l "distance"
+2 1 0.1941546 l "distance"
+*Edges

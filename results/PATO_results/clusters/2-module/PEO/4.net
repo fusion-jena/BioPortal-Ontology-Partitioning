@@ -1,0 +1,33 @@
+*Vertices 8
+1 "DateCompleted" ellipse
+2 "DateOfLastModification" ellipse
+3 "DateStarted" ellipse
+4 "parameter" ellipse
+5 "temporal_parameter" ellipse
+6 "DateTimeDescription" ellipse
+7 "date"
+8 "float"
+*Arcs
+1 6 0.5000000 l "isa"
+6 1 0.1111111 l "isa"
+2 6 0.5000000 l "isa"
+6 2 0.1111111 l "isa"
+3 6 0.5000000 l "isa"
+6 3 0.1111111 l "isa"
+6 5 0.1111111 l "isa"
+5 6 0.5000000 l "isa"
+6 7 0.2222222 l "day"
+7 6 0.2500000 l "day"
+6 8 0.1111111 l "second"
+8 6 1.0000000 l "second"
+1 7 0.5000000 l "substring"
+7 1 0.1250000 l "substring"
+2 7 0.5000000 l "substring"
+7 2 0.1250000 l "substring"
+3 7 0.5000000 l "substring"
+7 3 0.1250000 l "substring"
+4 5 0.1111111 l "substring"
+5 4 0.5000000 l "substring"
+6 7 0.2222222 l "substring"
+7 6 0.2500000 l "substring"
+*Edges

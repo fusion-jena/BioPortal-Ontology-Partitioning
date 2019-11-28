@@ -1,0 +1,9 @@
+*Vertices 2
+1 "block" ellipse
+2 "tma" ellipse
+*Arcs
+1 2 0.1538462 l "includedInTMA"
+2 1 1.0000000 l "includedInTMA"
+2 1 1.0000000 l "includesBlock"
+1 2 0.1538462 l "includesBlock"
+*Edges

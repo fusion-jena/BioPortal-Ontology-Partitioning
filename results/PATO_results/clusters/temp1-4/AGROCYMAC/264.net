@@ -1,0 +1,24 @@
+*Vertices 3
+1 "peak asymmetry" ellipse
+2 "chromatographic peak asymmetry factor" ellipse
+3 "asymmetry factor measured at 5 percent height" ellipse
+*Arcs
+2 1 0.2107732 l "isa"
+1 2 0.4821361 l "isa"
+3 2 0.2158889 l "isa"
+2 3 0.0837845 l "isa"
+1 2 0.4821361 l "substring"
+2 1 0.2107732 l "substring"
+2 1 0.2107732 l "isa"
+1 2 0.4821361 l "isa"
+3 2 0.2158889 l "isa"
+2 3 0.0837845 l "isa"
+1 2 0.4821361 l "substring"
+2 1 0.2107732 l "substring"
+2 1 0.2107732 l "isa"
+1 2 0.4821361 l "isa"
+3 2 0.2158889 l "isa"
+2 3 0.0837845 l "isa"
+1 2 0.4821361 l "substring"
+2 1 0.2107732 l "substring"
+*Edges

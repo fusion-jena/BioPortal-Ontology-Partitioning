@@ -1,0 +1,7 @@
+*Vertices 2
+1 "C_Agree_action_plan" ellipse
+2 "Clinical_Feasibility_Scope" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+*Edges

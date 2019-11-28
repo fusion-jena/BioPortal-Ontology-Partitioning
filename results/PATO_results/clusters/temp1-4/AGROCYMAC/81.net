@@ -1,0 +1,24 @@
+*Vertices 3
+1 "input role" ellipse
+2 "parameter role" ellipse
+3 "data input role" ellipse
+*Arcs
+2 3 0.2928644 l "isa"
+3 2 0.1576042 l "isa"
+3 1 0.3270182 l "isa"
+1 3 0.2144507 l "isa"
+1 3 0.2144507 l "substring"
+3 1 0.3270182 l "substring"
+2 3 0.2928644 l "isa"
+3 2 0.1576042 l "isa"
+3 1 0.3270182 l "isa"
+1 3 0.2144507 l "isa"
+1 3 0.2144507 l "substring"
+3 1 0.3270182 l "substring"
+2 3 0.2928644 l "isa"
+3 2 0.1576042 l "isa"
+3 1 0.3270182 l "isa"
+1 3 0.2144507 l "isa"
+1 3 0.2144507 l "substring"
+3 1 0.3270182 l "substring"
+*Edges

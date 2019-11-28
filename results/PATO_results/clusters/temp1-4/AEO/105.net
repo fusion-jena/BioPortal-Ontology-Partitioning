@@ -1,0 +1,23 @@
+*Vertices 2
+1 "chemokine" ellipse
+2 "inflammatory marker chemokine" ellipse
+*Arcs
+2 1 0.2973749 l "isa"
+1 2 0.1547716 l "isa"
+2 1 0.2973749 l "definition"
+1 2 0.1547716 l "definition"
+1 2 0.1547716 l "substring"
+2 1 0.2973749 l "substring"
+2 1 0.2973749 l "isa"
+1 2 0.1547716 l "isa"
+2 1 0.2973749 l "definition"
+1 2 0.1547716 l "definition"
+1 2 0.1547716 l "substring"
+2 1 0.2973749 l "substring"
+2 1 0.2973749 l "isa"
+1 2 0.1547716 l "isa"
+2 1 0.2973749 l "definition"
+1 2 0.1547716 l "definition"
+1 2 0.1547716 l "substring"
+2 1 0.2973749 l "substring"
+*Edges

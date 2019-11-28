@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Kazakh" ellipse
+2 "Karakul" ellipse
+3 "Kazakh" ellipse
+4 "Kazakh Whiteheaded" ellipse
+*Arcs
+1 3 0.3833322 l "substring"
+3 1 0.3833071 l "substring"
+1 4 0.1684029 l "substring"
+4 1 0.3477019 l "substring"
+3 4 0.1683909 l "substring"
+4 3 0.3477000 l "substring"
+1 2 0.1684020 l "distance"
+2 1 0.3476902 l "distance"
+1 3 0.3833322 l "distance"
+3 1 0.3833071 l "distance"
+2 3 0.3476883 l "distance"
+3 2 0.1683901 l "distance"
+1 3 0.3833322 l "substring"
+3 1 0.3833071 l "substring"
+1 4 0.1684029 l "substring"
+4 1 0.3477019 l "substring"
+3 4 0.1683909 l "substring"
+4 3 0.3477000 l "substring"
+1 2 0.1684020 l "distance"
+2 1 0.3476902 l "distance"
+1 3 0.3833322 l "distance"
+3 1 0.3833071 l "distance"
+2 3 0.3476883 l "distance"
+3 2 0.1683901 l "distance"
+1 3 0.3833322 l "substring"
+3 1 0.3833071 l "substring"
+1 4 0.1684029 l "substring"
+4 1 0.3477019 l "substring"
+3 4 0.1683909 l "substring"
+4 3 0.3477000 l "substring"
+1 2 0.1684020 l "distance"
+2 1 0.3476902 l "distance"
+1 3 0.3833322 l "distance"
+3 1 0.3833071 l "distance"
+2 3 0.3476883 l "distance"
+3 2 0.1683901 l "distance"
+*Edges

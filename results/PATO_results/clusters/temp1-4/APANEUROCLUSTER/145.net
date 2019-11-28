@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Atypical_Disorders" ellipse
+2 "Physical_Disorders" ellipse
+*Arcs
+1 2 0.3031493 l "distance"
+2 1 0.3805208 l "distance"
+1 2 0.3031493 l "distance"
+2 1 0.3805208 l "distance"
+1 2 0.3031493 l "distance"
+2 1 0.3805208 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Baker Island" ellipse
+2 "Wake Island" ellipse
+*Arcs
+1 2 0.1626463 l "distance"
+2 1 0.1443521 l "distance"
+1 2 0.1626463 l "distance"
+2 1 0.1443521 l "distance"
+1 2 0.1626463 l "distance"
+2 1 0.1443521 l "distance"
+*Edges

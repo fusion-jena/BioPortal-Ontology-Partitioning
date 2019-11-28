@@ -1,0 +1,11 @@
+*Vertices 2
+1 "production blockers" ellipse
+2 "beta amyloid control context" ellipse
+*Arcs
+1 2 0.2634172 l "definition"
+2 1 0.1186616 l "definition"
+1 2 0.2634172 l "definition"
+2 1 0.1186616 l "definition"
+1 2 0.2634172 l "definition"
+2 1 0.1186616 l "definition"
+*Edges

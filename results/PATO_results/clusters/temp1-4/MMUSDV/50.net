@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Culture" ellipse
+2 "Culture Collection" ellipse
+*Arcs
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+1 2 0.0645507 l "culture collection"
+2 1 0.4905711 l "culture collection"
+1 2 0.0645507 l "substring"
+2 1 0.4905711 l "substring"
+*Edges

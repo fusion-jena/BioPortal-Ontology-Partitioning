@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Obesity" ellipse
+2 "Obesity_(Attitudes_Toward)" ellipse
+*Arcs
+1 2 0.4021419 l "substring"
+2 1 0.5634980 l "substring"
+1 2 0.4021419 l "substring"
+2 1 0.5634980 l "substring"
+1 2 0.4021419 l "substring"
+2 1 0.5634980 l "substring"
+*Edges

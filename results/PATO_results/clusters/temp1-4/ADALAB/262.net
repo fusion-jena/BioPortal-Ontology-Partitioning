@@ -1,0 +1,24 @@
+*Vertices 3
+1 "EighthThroracicVertebra" ellipse
+2 "NinthThroracicVertebra" ellipse
+3 "SixthThroracicVertebra" ellipse
+*Arcs
+1 2 0.1309888 l "distance"
+2 1 0.1068012 l "distance"
+1 3 0.1322548 l "distance"
+3 1 0.1182402 l "distance"
+2 3 0.1054808 l "distance"
+3 2 0.1156605 l "distance"
+1 2 0.1309888 l "distance"
+2 1 0.1068012 l "distance"
+1 3 0.1322548 l "distance"
+3 1 0.1182402 l "distance"
+2 3 0.1054808 l "distance"
+3 2 0.1156605 l "distance"
+1 2 0.1309888 l "distance"
+2 1 0.1068012 l "distance"
+1 3 0.1322548 l "distance"
+3 1 0.1182402 l "distance"
+2 3 0.1054808 l "distance"
+3 2 0.1156605 l "distance"
+*Edges

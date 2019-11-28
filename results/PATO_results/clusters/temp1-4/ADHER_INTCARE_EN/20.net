@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Series_of_short_lasting_attachments_to_unusual_objects" ellipse
+2 "uatt_Series_of_short_lasting_attachments_to_unusual_objects"
+*Arcs
+1 2 0.3501506 l "substring"
+2 1 0.2741180 l "substring"
+1 2 0.3501506 l "substring"
+2 1 0.2741180 l "substring"
+*Edges

@@ -1,0 +1,31 @@
+*Vertices 8
+1 "Concept" ellipse
+2 "OrderedCollection" ellipse
+3 "Choice" ellipse
+4 "Direction" ellipse
+5 "Motivation" ellipse
+6 "TextualBody" ellipse
+7 "Person" ellipse
+8 ""
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.5000000 l "isa"
+5 1 0.3333333 l "isa"
+1 5 0.5000000 l "isa"
+8 7 0.0714286 l "definition"
+7 8 1.0000000 l "definition"
+1 8 0.5000000 l "substring"
+8 1 0.0357143 l "substring"
+2 8 0.5000000 l "substring"
+8 2 0.0357143 l "substring"
+3 8 0.5000000 l "substring"
+8 3 0.0357143 l "substring"
+4 8 1.0000000 l "substring"
+8 4 0.0357143 l "substring"
+5 8 0.3333333 l "substring"
+8 5 0.0357143 l "substring"
+6 8 1.0000000 l "substring"
+8 6 0.0357143 l "substring"
+7 8 1.0000000 l "substring"
+8 7 0.0714286 l "substring"
+*Edges

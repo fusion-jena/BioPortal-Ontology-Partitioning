@@ -1,0 +1,137 @@
+*Vertices 40
+1 "Accessibility feature" ellipse
+2 "Accessibility hazard" ellipse
+3 "Alternative text" ellipse
+4 "Audio description" ellipse
+5 "Bookmarks" ellipse
+6 "Braille" ellipse
+7 "Braille alternative" ellipse
+8 "Captions" ellipse
+9 "ChemML" ellipse
+10 "Described math" ellipse
+11 "Display transformability" ellipse
+12 "High contrast audio" ellipse
+13 "High contrast display" ellipse
+14 "Index accessibility feature" ellipse
+15 "Inscriber" ellipse
+16 "Large print" ellipse
+17 "LaTeXMathML" ellipse
+18 "Long description" ellipse
+19 "MathML" ellipse
+20 "Performed music" ellipse
+21 "Print page numbers" ellipse
+22 "Reading order" ellipse
+23 "Scribe" ellipse
+24 "Sign language" ellipse
+25 "Sounds" ellipse
+26 "Source code" ellipse
+27 "Spoken word" ellipse
+28 "Structural navigation" ellipse
+29 "Table of contents accessibility feature" ellipse
+30 "Tactile" ellipse
+31 "Tactile graphic" ellipse
+32 "Tagged PDF" ellipse
+33 "Timing control" ellipse
+34 "Transcriber" ellipse
+35 "Transcript" ellipse
+36 "TTS markup" ellipse
+37 "Unlocked" ellipse
+38 "Audio" ellipse
+39 "ContentAccessibility" ellipse
+40 "Text" ellipse
+*Arcs
+1 39 0.0294118 l "isa"
+39 1 0.5000000 l "isa"
+2 39 0.1428571 l "isa"
+39 2 0.5000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.0294118 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.0294118 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0294118 l "isa"
+6 1 0.3333333 l "isa"
+1 6 0.0294118 l "isa"
+7 1 0.5000000 l "isa"
+1 7 0.0294118 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0294118 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0294118 l "isa"
+10 1 0.5000000 l "isa"
+1 10 0.0294118 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0294118 l "isa"
+12 1 0.5000000 l "isa"
+1 12 0.0294118 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0294118 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0588235 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0294118 l "isa"
+17 1 0.5000000 l "isa"
+1 17 0.0294118 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0294118 l "isa"
+19 1 0.5000000 l "isa"
+1 19 0.0294118 l "isa"
+20 38 1.0000000 l "isa"
+38 20 0.0625000 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0294118 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0294118 l "isa"
+24 1 1.0000000 l "isa"
+1 24 0.0294118 l "isa"
+25 38 1.0000000 l "isa"
+38 25 0.0625000 l "isa"
+26 40 1.0000000 l "isa"
+40 26 0.0909091 l "isa"
+27 38 1.0000000 l "isa"
+38 27 0.0625000 l "isa"
+28 1 1.0000000 l "isa"
+1 28 0.0294118 l "isa"
+29 1 1.0000000 l "isa"
+1 29 0.0588235 l "isa"
+31 1 0.5000000 l "isa"
+1 31 0.0294118 l "isa"
+32 1 1.0000000 l "isa"
+1 32 0.0294118 l "isa"
+33 1 1.0000000 l "isa"
+1 33 0.0294118 l "isa"
+35 1 0.5000000 l "isa"
+1 35 0.0294118 l "isa"
+36 1 1.0000000 l "isa"
+1 36 0.0294118 l "isa"
+37 1 1.0000000 l "isa"
+1 37 0.0294118 l "isa"
+1 14 0.0588235 l "substring"
+14 1 1.0000000 l "substring"
+1 29 0.0588235 l "substring"
+29 1 1.0000000 l "substring"
+3 40 0.5000000 l "substring"
+40 3 0.0909091 l "substring"
+4 38 0.5000000 l "substring"
+38 4 0.0625000 l "substring"
+6 7 0.3333333 l "substring"
+7 6 0.5000000 l "substring"
+10 23 0.5000000 l "substring"
+23 10 0.1666667 l "substring"
+12 38 0.5000000 l "substring"
+38 12 0.0625000 l "substring"
+15 23 0.5000000 l "substring"
+23 15 0.3333333 l "substring"
+17 19 0.5000000 l "substring"
+19 17 0.5000000 l "substring"
+23 34 0.1666667 l "substring"
+34 23 0.2500000 l "substring"
+30 31 0.2000000 l "substring"
+31 30 0.5000000 l "substring"
+15 23 0.5000000 l "distance"
+23 15 0.3333333 l "distance"
+15 34 0.2500000 l "distance"
+34 15 0.2500000 l "distance"
+34 35 0.2500000 l "distance"
+35 34 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,14 @@
+*Vertices 3
+1 "_Neurological Symptoms of Moderate cognitive decline" ellipse
+2 "_Presence of Docosahexenoic acid" ellipse
+3 "_Presence of alzheimer disease associated Protein" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1706659 l "isa"
+3 1 0.2141953 l "isa"
+1 3 0.1302450 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.1706659 l "isa"
+3 1 0.2141953 l "isa"
+1 3 0.1302450 l "isa"
+*Edges

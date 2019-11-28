@@ -1,0 +1,48 @@
+*Vertices 5
+1 "Gene" ellipse
+2 "Genetic factor" ellipse
+3 "Classified Type" ellipse
+4 "Unitary Pseudogene" ellipse
+5 "Duplicated Pseudogene" ellipse
+*Arcs
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 2 0.2789794 l "isa"
+2 1 0.6933175 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.2500000 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.2500000 l "isa"
+1 2 0.2789794 l "substring"
+2 1 0.6933175 l "substring"
+1 4 0.0312768 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.0312768 l "substring"
+5 1 0.5000000 l "substring"
+*Edges

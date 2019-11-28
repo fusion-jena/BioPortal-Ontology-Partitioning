@@ -1,0 +1,43 @@
+*Vertices 4
+1 "BloodSerumSample" ellipse
+2 "CatecholaminLevel" ellipse
+3 "IncreasedCatecholaminLevel" ellipse
+4 "NormalCatecholaminLevel" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.2577145 l "isa"
+4 2 0.7299569 l "isa"
+2 4 0.2202150 l "isa"
+1 2 0.2946716 l "definition"
+2 1 0.1673965 l "definition"
+2 1 0.1673965 l "definition"
+1 2 0.2946716 l "definition"
+2 3 0.2577145 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2202150 l "substring"
+4 2 0.7299569 l "substring"
+3 2 1.0000000 l "isa"
+2 3 0.2577145 l "isa"
+4 2 0.7299569 l "isa"
+2 4 0.2202150 l "isa"
+1 2 0.2946716 l "definition"
+2 1 0.1673965 l "definition"
+2 1 0.1673965 l "definition"
+1 2 0.2946716 l "definition"
+2 3 0.2577145 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2202150 l "substring"
+4 2 0.7299569 l "substring"
+3 2 1.0000000 l "isa"
+2 3 0.2577145 l "isa"
+4 2 0.7299569 l "isa"
+2 4 0.2202150 l "isa"
+1 2 0.2946716 l "definition"
+2 1 0.1673965 l "definition"
+2 1 0.1673965 l "definition"
+1 2 0.2946716 l "definition"
+2 3 0.2577145 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.2202150 l "substring"
+4 2 0.7299569 l "substring"
+*Edges

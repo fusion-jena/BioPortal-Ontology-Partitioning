@@ -1,0 +1,24 @@
+*Vertices 5
+1 "ribosome entry site symbol" ellipse
+2 "ribosome_entry_site" ellipse
+3 "Shine_Dalgarno_sequence" ellipse
+4 "kozak_sequence" ellipse
+5 "represents"
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.2875437 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2875437 l "isa"
+1 2 0.2646169 l "definition"
+2 1 0.2211874 l "definition"
+1 5 0.2487399 l "definition"
+5 1 0.1024071 l "definition"
+3 2 1.0000000 l "isa"
+2 3 0.2875437 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2875437 l "isa"
+1 2 0.2646169 l "definition"
+2 1 0.2211874 l "definition"
+1 5 0.2487399 l "definition"
+5 1 0.1024071 l "definition"
+*Edges

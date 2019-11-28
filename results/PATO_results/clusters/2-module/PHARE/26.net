@@ -1,0 +1,31 @@
+*Vertices 4
+1 "agonist" ellipse
+2 "antagonist" ellipse
+3 "agonist" ellipse
+4 "antagonist" ellipse
+*Arcs
+1 2 0.2500000 l "substring"
+2 1 0.1666667 l "substring"
+1 3 0.2500000 l "substring"
+3 1 0.1818182 l "substring"
+1 4 0.2500000 l "substring"
+4 1 0.1666667 l "substring"
+2 3 0.1666667 l "substring"
+3 2 0.1818182 l "substring"
+2 4 0.1666667 l "substring"
+4 2 0.1666667 l "substring"
+3 4 0.1818182 l "substring"
+4 3 0.1666667 l "substring"
+1 2 0.2500000 l "distance"
+2 1 0.1666667 l "distance"
+1 3 0.2500000 l "distance"
+3 1 0.1818182 l "distance"
+1 4 0.2500000 l "distance"
+4 1 0.1666667 l "distance"
+2 3 0.1666667 l "distance"
+3 2 0.1818182 l "distance"
+2 4 0.1666667 l "distance"
+4 2 0.1666667 l "distance"
+3 4 0.1818182 l "distance"
+4 3 0.1666667 l "distance"
+*Edges

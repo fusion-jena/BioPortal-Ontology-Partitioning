@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Isoleucine" ellipse
+2 "Leucine" ellipse
+*Arcs
+1 2 0.1250000 l "substring"
+2 1 0.1052632 l "substring"
+1 2 0.1250000 l "distance"
+2 1 0.1052632 l "distance"
+*Edges

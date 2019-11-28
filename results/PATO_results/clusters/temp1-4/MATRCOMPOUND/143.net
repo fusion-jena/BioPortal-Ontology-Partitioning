@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Leineschaf" ellipse
+2 "Steinschaf" ellipse
+*Arcs
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+1 2 0.7592226 l "distance"
+2 1 0.7592226 l "distance"
+*Edges

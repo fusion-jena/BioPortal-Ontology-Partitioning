@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Ibuprofen" ellipse
+2 "suprofen" ellipse
+*Arcs
+1 2 0.2104499 l "distance"
+2 1 0.1760160 l "distance"
+1 2 0.2104499 l "distance"
+2 1 0.1760160 l "distance"
+*Edges

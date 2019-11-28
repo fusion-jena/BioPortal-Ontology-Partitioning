@@ -1,0 +1,22 @@
+*Vertices 7
+1 "data_source" ellipse
+2 "freezer" ellipse
+3 "freezer_location" ellipse
+4 "kinetoplast_position" ellipse
+5 "microarray_plate_reader" ellipse
+6 "agent" ellipse
+7 "spatial_parameter" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.1111111 l "isa"
+2 6 0.5000000 l "isa"
+6 2 0.1111111 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.3333333 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.3333333 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1111111 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.5000000 l "substring"
+*Edges

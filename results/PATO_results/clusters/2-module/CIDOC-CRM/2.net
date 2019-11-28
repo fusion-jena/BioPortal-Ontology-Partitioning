@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Durée" ellipse
+2 "Literal"
+3 "dateTime"
+*Arcs
+1 1 0.1538462 l "está contido em"
+1 1 0.1538462 l "está contido em"
+1 1 0.1538462 l "contains"
+1 1 0.1538462 l "contains"
+1 2 0.1538462 l "beginning is qualified by"
+2 1 0.4000000 l "beginning is qualified by"
+1 2 0.1538462 l "end is qualified by"
+2 1 0.4000000 l "end is qualified by"
+1 2 0.1538462 l "abrange no mínimo"
+2 1 0.4000000 l "abrange no mínimo"
+1 3 0.1538462 l "Ende des Anfangs"
+3 1 0.8000000 l "Ende des Anfangs"
+1 3 0.1538462 l "Anfang vom Ende"
+3 1 0.8000000 l "Anfang vom Ende"
+1 2 0.1538462 l "abrange no máximo"
+2 1 0.4000000 l "abrange no máximo"
+1 3 0.1538462 l "Anfang des Anfangs"
+3 1 0.8000000 l "Anfang des Anfangs"
+1 3 0.1538462 l "Ende vom Ende"
+3 1 0.8000000 l "Ende vom Ende"
+*Edges

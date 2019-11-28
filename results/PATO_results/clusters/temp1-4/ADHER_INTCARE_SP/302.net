@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Autoevaluaciones" ellipse
+2 "Sistema_respuesta_por_voz" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0909091 l "isa"
+*Edges

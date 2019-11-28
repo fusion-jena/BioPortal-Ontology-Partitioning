@@ -1,0 +1,32 @@
+*Vertices 5
+1 "nerve fiber" ellipse
+2 "non-adrenergic and non-cholinergic nerve" ellipse
+3 "glial cell" ellipse
+4 "postganglionic sympathetic nerve" ellipse
+5 "pulmonary autonomic nerve" ellipse
+*Arcs
+1 2 0.1472764 l "definition"
+2 1 0.2054289 l "definition"
+1 4 0.1472764 l "definition"
+4 1 0.2054289 l "definition"
+2 5 0.2054289 l "definition"
+5 2 0.1474972 l "definition"
+3 2 0.1036006 l "definition"
+2 3 0.2026452 l "definition"
+3 4 0.1036006 l "definition"
+4 3 0.2026452 l "definition"
+4 5 0.2054289 l "definition"
+5 4 0.1474972 l "definition"
+1 2 0.1472764 l "definition"
+2 1 0.2054289 l "definition"
+1 4 0.1472764 l "definition"
+4 1 0.2054289 l "definition"
+2 5 0.2054289 l "definition"
+5 2 0.1474972 l "definition"
+3 2 0.1036006 l "definition"
+2 3 0.2026452 l "definition"
+3 4 0.1036006 l "definition"
+4 3 0.2026452 l "definition"
+4 5 0.2054289 l "definition"
+5 4 0.1474972 l "definition"
+*Edges

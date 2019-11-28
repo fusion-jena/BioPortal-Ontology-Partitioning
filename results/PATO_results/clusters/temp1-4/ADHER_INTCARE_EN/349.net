@@ -1,0 +1,9 @@
+*Vertices 2
+1 "One_or_More_Relationships_With_Person_In_Approximately_Own_Age_Group" ellipse
+2 "age_group" ellipse
+*Arcs
+1 2 0.1079268 l "substring"
+2 1 0.1748250 l "substring"
+1 2 0.1079268 l "substring"
+2 1 0.1748250 l "substring"
+*Edges

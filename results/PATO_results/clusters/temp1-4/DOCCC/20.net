@@ -1,0 +1,45 @@
+*Vertices 6
+1 "Analyzed Population" ellipse
+2 "ClinicalCharacteristics" ellipse
+3 "Excluded Population" ellipse
+4 "Population" ellipse
+5 "PopulationCharacteristics" ellipse
+6 "Recruited Population" ellipse
+*Arcs
+1 4 0.2693251 l "isa"
+4 1 0.1246531 l "isa"
+2 5 0.1735701 l "isa"
+5 2 0.1151613 l "isa"
+3 4 0.2693251 l "isa"
+4 3 0.1246531 l "isa"
+5 4 0.2366011 l "isa"
+4 5 0.1231907 l "isa"
+6 4 0.2378001 l "isa"
+4 6 0.1231907 l "isa"
+1 4 0.2693251 l "substring"
+4 1 0.1246531 l "substring"
+3 4 0.2693251 l "substring"
+4 3 0.1246531 l "substring"
+4 5 0.1231907 l "substring"
+5 4 0.2366011 l "substring"
+4 6 0.1231907 l "substring"
+6 4 0.2378001 l "substring"
+1 4 0.2693251 l "isa"
+4 1 0.1246531 l "isa"
+2 5 0.1735701 l "isa"
+5 2 0.1151613 l "isa"
+3 4 0.2693251 l "isa"
+4 3 0.1246531 l "isa"
+5 4 0.2366011 l "isa"
+4 5 0.1231907 l "isa"
+6 4 0.2378001 l "isa"
+4 6 0.1231907 l "isa"
+1 4 0.2693251 l "substring"
+4 1 0.1246531 l "substring"
+3 4 0.2693251 l "substring"
+4 3 0.1246531 l "substring"
+4 5 0.1231907 l "substring"
+5 4 0.2366011 l "substring"
+4 6 0.1231907 l "substring"
+6 4 0.2378001 l "substring"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 4
+1 "water" ellipse
+2 "fresh water" ellipse
+3 "ground water" ellipse
+4 "surface water" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.0235294 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.0235294 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.0235294 l "isa"
+1 2 0.0235294 l "substring"
+2 1 0.3333333 l "substring"
+1 3 0.0235294 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.0235294 l "substring"
+4 1 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,232 @@
+*Vertices 77
+1 "AIDS_Prevention" ellipse
+2 "Adult_Day_Care" ellipse
+3 "Advance_Directives" ellipse
+4 "Assisted_Suicide" ellipse
+5 "Caregiver_Burden" ellipse
+6 "Caregivers" ellipse
+7 "Child_Psychology" ellipse
+8 "Childbirth_Training" ellipse
+9 "Client_Education" ellipse
+10 "Client_Participation" ellipse
+11 "Client_Records" ellipse
+12 "Client_Rights" ellipse
+13 "Client_Transfer" ellipse
+14 "Clinical_Audits" ellipse
+15 "Clinical_Governance" ellipse
+16 "Clinical_Psychology" ellipse
+17 "Computer_Assisted_Therapy" ellipse
+18 "Continuum_of_Care" ellipse
+19 "Discharge_Planning" ellipse
+20 "Disease_Management" ellipse
+21 "Drug_Abuse_Prevention" ellipse
+22 "Drug_Education" ellipse
+23 "Elder_Care" ellipse
+24 "Euthanasia" ellipse
+25 "Evidence_Based_Practice" ellipse
+26 "Fee_for_Service" ellipse
+27 "Health_Care_Costs" ellipse
+28 "Health_Care_Delivery" ellipse
+29 "Health_Care_Policy" ellipse
+30 "Health_Care_Psychology" ellipse
+31 "Health_Care_Seeking_Behavior" ellipse
+32 "Health_Care_Services" ellipse
+33 "Health_Care_Utilization" ellipse
+34 "Health_Disparities" ellipse
+35 "Health_Education" ellipse
+36 "Health_Insurance" ellipse
+37 "Health_Promotion" ellipse
+38 "Health_Service_Needs" ellipse
+39 "Help_Seeking_Behavior" ellipse
+40 "Holistic_Health" ellipse
+41 "Home_Visiting_Programs" ellipse
+42 "Hospice" ellipse
+43 "Informed_Consent" ellipse
+44 "Integrated_Services" ellipse
+45 "Language_Therapy" ellipse
+46 "Long_Term_Care" ellipse
+47 "Maintenance_Therapy" ellipse
+48 "Managed_Care" ellipse
+49 "Medical_Psychology" ellipse
+50 "Medical_Records" ellipse
+51 "Online_Therapy" ellipse
+52 "Optical_Aids" ellipse
+53 "Osteopathic_Medicine" ellipse
+54 "Outreach_Programs" ellipse
+55 "Palliative_Care" ellipse
+56 "Patient_Abuse" ellipse
+57 "Patient_History" ellipse
+58 "Patient_Selection" ellipse
+59 "Physical_Examination" ellipse
+60 "Prescription_Privileges" ellipse
+61 "Primary_Mental_Health_Prevention" ellipse
+62 "Private_Practice" ellipse
+63 "Psychoeducation" ellipse
+64 "Quality_of_Care" ellipse
+65 "Quality_of_Services" ellipse
+66 "Relapse_Prevention" ellipse
+67 "Respite_Care" ellipse
+68 "Self_Medication" ellipse
+69 "Self_Referral" ellipse
+70 "Sex_Education" ellipse
+71 "Social_Services" ellipse
+72 "Telemedicine" ellipse
+73 "Therapeutic_Alliance" ellipse
+74 "Utilization_Reviews" ellipse
+75 "Prescribing_(Drugs)" ellipse
+76 "Self_Examination_(Medical)" ellipse
+77 "TreatmentGeneral" ellipse
+*Arcs
+1 77 1.0000000 l "isa"
+77 1 0.0078740 l "isa"
+2 77 1.0000000 l "isa"
+77 2 0.0078740 l "isa"
+3 77 1.0000000 l "isa"
+77 3 0.0078740 l "isa"
+4 77 1.0000000 l "isa"
+77 4 0.0078740 l "isa"
+5 77 1.0000000 l "isa"
+77 5 0.0078740 l "isa"
+6 77 1.0000000 l "isa"
+77 6 0.0078740 l "isa"
+7 77 1.0000000 l "isa"
+77 7 0.0078740 l "isa"
+8 77 1.0000000 l "isa"
+77 8 0.0078740 l "isa"
+9 77 1.0000000 l "isa"
+77 9 0.0078740 l "isa"
+10 77 1.0000000 l "isa"
+77 10 0.0078740 l "isa"
+11 77 1.0000000 l "isa"
+77 11 0.0078740 l "isa"
+12 77 1.0000000 l "isa"
+77 12 0.0078740 l "isa"
+13 77 1.0000000 l "isa"
+77 13 0.0078740 l "isa"
+14 77 1.0000000 l "isa"
+77 14 0.0078740 l "isa"
+15 77 1.0000000 l "isa"
+77 15 0.0078740 l "isa"
+16 77 1.0000000 l "isa"
+77 16 0.0078740 l "isa"
+17 77 1.0000000 l "isa"
+77 17 0.0078740 l "isa"
+18 77 1.0000000 l "isa"
+77 18 0.0078740 l "isa"
+19 77 1.0000000 l "isa"
+77 19 0.0078740 l "isa"
+20 77 1.0000000 l "isa"
+77 20 0.0078740 l "isa"
+21 77 1.0000000 l "isa"
+77 21 0.0078740 l "isa"
+22 77 1.0000000 l "isa"
+77 22 0.0078740 l "isa"
+23 77 1.0000000 l "isa"
+77 23 0.0078740 l "isa"
+24 77 1.0000000 l "isa"
+77 24 0.0078740 l "isa"
+25 77 1.0000000 l "isa"
+77 25 0.0078740 l "isa"
+26 77 1.0000000 l "isa"
+77 26 0.0078740 l "isa"
+27 77 1.0000000 l "isa"
+77 27 0.0078740 l "isa"
+28 77 1.0000000 l "isa"
+77 28 0.0078740 l "isa"
+29 77 1.0000000 l "isa"
+77 29 0.0078740 l "isa"
+30 77 1.0000000 l "isa"
+77 30 0.0078740 l "isa"
+31 77 1.0000000 l "isa"
+77 31 0.0078740 l "isa"
+32 77 1.0000000 l "isa"
+77 32 0.0078740 l "isa"
+33 77 1.0000000 l "isa"
+77 33 0.0078740 l "isa"
+34 77 1.0000000 l "isa"
+77 34 0.0078740 l "isa"
+35 77 1.0000000 l "isa"
+77 35 0.0078740 l "isa"
+36 77 1.0000000 l "isa"
+77 36 0.0078740 l "isa"
+37 77 1.0000000 l "isa"
+77 37 0.0078740 l "isa"
+38 77 1.0000000 l "isa"
+77 38 0.0078740 l "isa"
+39 77 1.0000000 l "isa"
+77 39 0.0078740 l "isa"
+40 77 1.0000000 l "isa"
+77 40 0.0078740 l "isa"
+41 77 1.0000000 l "isa"
+77 41 0.0078740 l "isa"
+42 77 1.0000000 l "isa"
+77 42 0.0078740 l "isa"
+43 77 1.0000000 l "isa"
+77 43 0.0078740 l "isa"
+44 77 1.0000000 l "isa"
+77 44 0.0078740 l "isa"
+45 77 1.0000000 l "isa"
+77 45 0.0078740 l "isa"
+46 77 1.0000000 l "isa"
+77 46 0.0078740 l "isa"
+47 77 1.0000000 l "isa"
+77 47 0.0078740 l "isa"
+48 77 1.0000000 l "isa"
+77 48 0.0078740 l "isa"
+49 77 1.0000000 l "isa"
+77 49 0.0078740 l "isa"
+50 77 1.0000000 l "isa"
+77 50 0.0078740 l "isa"
+51 77 1.0000000 l "isa"
+77 51 0.0078740 l "isa"
+52 77 1.0000000 l "isa"
+77 52 0.0078740 l "isa"
+53 77 1.0000000 l "isa"
+77 53 0.0078740 l "isa"
+54 77 1.0000000 l "isa"
+77 54 0.0078740 l "isa"
+55 77 1.0000000 l "isa"
+77 55 0.0078740 l "isa"
+56 77 1.0000000 l "isa"
+77 56 0.0078740 l "isa"
+57 77 1.0000000 l "isa"
+77 57 0.0078740 l "isa"
+58 77 1.0000000 l "isa"
+77 58 0.0078740 l "isa"
+59 77 1.0000000 l "isa"
+77 59 0.0078740 l "isa"
+60 77 1.0000000 l "isa"
+77 60 0.0078740 l "isa"
+61 77 1.0000000 l "isa"
+77 61 0.0078740 l "isa"
+62 77 1.0000000 l "isa"
+77 62 0.0078740 l "isa"
+63 77 1.0000000 l "isa"
+77 63 0.0078740 l "isa"
+64 77 1.0000000 l "isa"
+77 64 0.0078740 l "isa"
+65 77 1.0000000 l "isa"
+77 65 0.0078740 l "isa"
+66 77 1.0000000 l "isa"
+77 66 0.0078740 l "isa"
+67 77 1.0000000 l "isa"
+77 67 0.0078740 l "isa"
+68 77 1.0000000 l "isa"
+77 68 0.0078740 l "isa"
+69 77 1.0000000 l "isa"
+77 69 0.0078740 l "isa"
+70 77 1.0000000 l "isa"
+77 70 0.0078740 l "isa"
+71 77 1.0000000 l "isa"
+77 71 0.0078740 l "isa"
+72 77 1.0000000 l "isa"
+77 72 0.0078740 l "isa"
+73 77 1.0000000 l "isa"
+77 73 0.0078740 l "isa"
+74 77 1.0000000 l "isa"
+77 74 0.0078740 l "isa"
+75 77 1.0000000 l "isa"
+77 75 0.0078740 l "isa"
+76 77 1.0000000 l "isa"
+77 76 0.0078740 l "isa"
+*Edges

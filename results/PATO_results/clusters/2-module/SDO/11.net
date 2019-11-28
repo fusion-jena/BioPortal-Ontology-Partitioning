@@ -1,0 +1,27 @@
+*Vertices 6
+1 "Segment of artery" ellipse
+2 "Segment of central retinal artery" ellipse
+3 "Intraocular part of central retinal artery" ellipse
+4 "Artery" ellipse
+5 "Segment of arterial tree organ" ellipse
+6 "Segment of systemic artery" ellipse
+*Arcs
+1 5 0.3333333 l "isa"
+5 1 0.1666667 l "isa"
+2 6 0.3333333 l "isa"
+6 2 0.2000000 l "isa"
+3 2 0.1250000 l "isa"
+2 3 0.3333333 l "isa"
+4 5 0.0100000 l "isa"
+5 4 0.1666667 l "isa"
+6 1 0.2000000 l "isa"
+1 6 0.3333333 l "isa"
+1 4 0.3333333 l "substring"
+4 1 0.0100000 l "substring"
+2 4 0.3333333 l "substring"
+4 2 0.0100000 l "substring"
+3 4 0.1250000 l "substring"
+4 3 0.0100000 l "substring"
+4 6 0.0100000 l "substring"
+6 4 0.2000000 l "substring"
+*Edges

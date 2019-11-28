@@ -1,0 +1,22 @@
+*Vertices 3
+1 "ICW-1:01.07.02.01 Individual Scripture Study" ellipse
+2 "ICW-1:01.07.02.02 Group Scripture Study" ellipse
+3 "ICW-1:01.07.02 Scripture Study" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3976298 l "isa"
+2 3 0.7546238 l "isa"
+3 2 0.3976298 l "isa"
+1 3 1.0000000 l "isa"
+3 1 0.3976298 l "isa"
+2 3 0.7546238 l "isa"
+3 2 0.3976298 l "isa"
+1 3 1.0000000 l "isa"
+3 1 0.3976298 l "isa"
+2 3 0.7546238 l "isa"
+3 2 0.3976298 l "isa"
+1 3 1.0000000 l "isa"
+3 1 0.3976298 l "isa"
+2 3 0.7546238 l "isa"
+3 2 0.3976298 l "isa"
+*Edges

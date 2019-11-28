@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Mangalitsa" ellipse
+2 "Mangalarga" ellipse
+*Arcs
+1 2 0.6994832 l "distance"
+2 1 0.7021216 l "distance"
+1 2 0.6994832 l "distance"
+2 1 0.7021216 l "distance"
+1 2 0.6994832 l "distance"
+2 1 0.7021216 l "distance"
+1 2 0.6994832 l "distance"
+2 1 0.7021216 l "distance"
+1 2 0.6994832 l "distance"
+2 1 0.7021216 l "distance"
+1 2 0.6994832 l "distance"
+2 1 0.7021216 l "distance"
+*Edges

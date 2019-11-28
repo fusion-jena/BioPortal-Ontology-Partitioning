@@ -1,0 +1,19 @@
+*Vertices 4
+1 "MD_SpatialRepresentation" ellipse
+2 "MD_SpatialRepresentationTypeCode" ellipse
+3 "MD_VectorSpatialRepresentation" ellipse
+4 "spatialRepresentationType"
+*Arcs
+3 1 0.1740193 l "isa"
+1 3 0.2577382 l "isa"
+1 2 0.2518132 l "substring"
+2 1 0.1091198 l "substring"
+2 4 0.1091198 l "substring"
+4 2 0.2567691 l "substring"
+3 1 0.1740193 l "isa"
+1 3 0.2577382 l "isa"
+1 2 0.2518132 l "substring"
+2 1 0.1091198 l "substring"
+2 4 0.1091198 l "substring"
+4 2 0.2567691 l "substring"
+*Edges

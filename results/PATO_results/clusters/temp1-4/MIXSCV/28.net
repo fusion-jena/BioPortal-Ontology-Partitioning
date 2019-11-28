@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Mafic" ellipse
+2 "Magma" ellipse
+*Arcs
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+1 2 0.2098219 l "distance"
+2 1 0.1546249 l "distance"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Early myoclonic encephalopathy" ellipse
+2 "Síndrome de West" ellipse
+3 "Encefalopatias epilépticas (em que anomalias epileptiforme contribuem para a disfunção progressiva)" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1111111 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1111111 l "isa"
+*Edges

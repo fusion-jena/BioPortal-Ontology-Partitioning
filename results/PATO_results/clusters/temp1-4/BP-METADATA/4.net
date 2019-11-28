@@ -1,0 +1,22 @@
+*Vertices 5
+1 "OntologyGroup" ellipse
+2 "ViewDefinitionLanguage" ellipse
+3 "ViewGenerationEngine" ellipse
+4 "acronym"
+5 "documentation"
+*Arcs
+2 3 0.1428571 l "supportedByViewGenerationEngine"
+3 2 0.1538462 l "supportedByViewGenerationEngine"
+3 2 0.1538462 l "supportsViewDefinitionLanguage"
+2 3 0.1428571 l "supportsViewDefinitionLanguage"
+1 4 0.0625000 l "definition"
+4 1 0.3333333 l "definition"
+2 4 0.0714286 l "definition"
+4 2 0.3333333 l "definition"
+2 5 0.0714286 l "definition"
+5 2 0.5000000 l "definition"
+3 4 0.0769231 l "definition"
+4 3 0.3333333 l "definition"
+3 5 0.0769231 l "definition"
+5 3 0.5000000 l "definition"
+*Edges

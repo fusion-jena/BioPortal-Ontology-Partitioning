@@ -1,0 +1,7 @@
+*Vertices 2
+1 "_Neurological Symptoms of Moderate cognitive decline" ellipse
+2 "_Presence of Docosahexenoic acid" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+*Edges

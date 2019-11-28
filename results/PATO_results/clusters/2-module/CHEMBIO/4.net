@@ -1,0 +1,24 @@
+*Vertices 7
+1 "Abundance" ellipse
+2 "Export" ellipse
+3 "Import" ellipse
+4 "ProteinRegulatesChemical" ellipse
+5 "Secretion" ellipse
+6 "Transport" ellipse
+7 "Uptake" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2000000 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.5000000 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.5000000 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.3333333 l "isa"
+6 4 0.3333333 l "isa"
+4 6 0.2000000 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.3333333 l "isa"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,45 @@
+*Vertices 14
+1 "SBOL Visual Symbol" ellipse
+2 "assembly scar symbol" ellipse
+3 "ribonuclease site symbol" ellipse
+4 "rna stability element symbol" ellipse
+5 "protease site symbol" ellipse
+6 "protein stability element symbol" ellipse
+7 "origin of replication symbol" ellipse
+8 "primer binding site symbol" ellipse
+9 "signature symbol" ellipse
+10 "user defined symbol" ellipse
+11 "DNAComponent" ellipse
+12 "type" ellipse
+13 "origin_of_replication" ellipse
+14 "is_property_of"
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0476190 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.0476190 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0476190 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0476190 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0476190 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0476190 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0476190 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0476190 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0476190 l "isa"
+13 12 0.5000000 l "isa"
+12 13 0.0833333 l "isa"
+1 11 0.0476190 l "definition"
+11 1 0.5000000 l "definition"
+3 13 0.2500000 l "definition"
+13 3 0.5000000 l "definition"
+12 14 0.0833333 l "definition"
+14 12 1.0000000 l "definition"
+12 11 0.0833333 l "definition"
+11 12 0.5000000 l "definition"
+*Edges

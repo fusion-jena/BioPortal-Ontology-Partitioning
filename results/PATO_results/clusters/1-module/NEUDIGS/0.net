@@ -1,0 +1,27 @@
+*Vertices 14
+1 "Behavior" ellipse
+2 "ChemicalEntity" ellipse
+3 "Neuroanatomical Partonomy" ellipse
+4 "Species Taxon" ellipse
+5 "Axonal Segment" ellipse
+6 "Distribution of Axonal Segments" ellipse
+7 "Distribution_of_Receptors" ellipse
+8 "Distribution of Somata" ellipse
+9 "Distribution of Synapses" ellipse
+10 "Distribution of Terminal Boutons" ellipse
+11 "Receptor" ellipse
+12 "Soma" ellipse
+13 "Synapse" ellipse
+14 "Terminal Bouton" ellipse
+*Arcs
+5 6 0.5000000 l "substring"
+6 5 0.5000000 l "substring"
+7 11 0.5000000 l "substring"
+11 7 0.5000000 l "substring"
+8 12 0.5000000 l "substring"
+12 8 0.5000000 l "substring"
+9 13 0.5000000 l "substring"
+13 9 0.5000000 l "substring"
+10 14 0.5000000 l "substring"
+14 10 0.5000000 l "substring"
+*Edges

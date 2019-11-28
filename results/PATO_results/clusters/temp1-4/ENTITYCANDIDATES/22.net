@@ -1,0 +1,9 @@
+*Vertices 2
+1 "ClassOfRecognition" ellipse
+2 "Recognition" ellipse
+*Arcs
+1 2 0.3333333 l "definition"
+2 1 1.0000000 l "definition"
+1 2 0.3333333 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

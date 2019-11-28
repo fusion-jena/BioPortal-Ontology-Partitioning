@@ -1,0 +1,80 @@
+*Vertices 19
+1 "Anterior hypothalamic nucleus" ellipse
+2 "Anterior hypothalamic nucleus, anterior part" ellipse
+3 "Anterior hypothalamic nucleus, central part" ellipse
+4 "Anterior hypothalamic nucleus, dorsal part" ellipse
+5 "Anterior hypothalamic nucleus, posterior part" ellipse
+6 "Lateral mammillary nucleus" ellipse
+7 "Mammillary body" ellipse
+8 "Hypothalamic medial zone" ellipse
+9 "Medial mammillary nucleus" ellipse
+10 "Medial mammillary nucleus, median part" ellipse
+11 "Posterior hypothalamic nucleus" ellipse
+12 "Dorsal premammillary nucleus" ellipse
+13 "Ventral premammillary nucleus" ellipse
+14 "Supramammillary nucleus" ellipse
+15 "Supramammillary nucleus, lateral part" ellipse
+16 "Supramammillary nucleus, medial part" ellipse
+17 "Tuberomammillary nucleus" ellipse
+18 "Tuberomammillary nucleus, dorsal part" ellipse
+19 "Tuberomammillary nucleus, ventral part" ellipse
+*Arcs
+1 8 0.1000000 l "isa"
+8 1 0.1111111 l "isa"
+2 1 0.6666667 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+5 1 0.6666667 l "isa"
+1 5 0.2000000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.2000000 l "isa"
+7 8 0.2000000 l "isa"
+8 7 0.1111111 l "isa"
+9 7 0.3333333 l "isa"
+7 9 0.2000000 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.6666667 l "isa"
+11 8 0.5000000 l "isa"
+8 11 0.1111111 l "isa"
+12 8 1.0000000 l "isa"
+8 12 0.1111111 l "isa"
+13 8 1.0000000 l "isa"
+8 13 0.1111111 l "isa"
+14 7 0.2000000 l "isa"
+7 14 0.2000000 l "isa"
+15 14 1.0000000 l "isa"
+14 15 0.4000000 l "isa"
+16 14 1.0000000 l "isa"
+14 16 0.4000000 l "isa"
+17 7 0.2000000 l "isa"
+7 17 0.2000000 l "isa"
+18 17 1.0000000 l "isa"
+17 18 0.4000000 l "isa"
+19 17 1.0000000 l "isa"
+17 19 0.4000000 l "isa"
+1 2 0.2000000 l "substring"
+2 1 0.6666667 l "substring"
+1 3 0.2000000 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.2000000 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.2000000 l "substring"
+5 1 0.6666667 l "substring"
+9 10 0.6666667 l "substring"
+10 9 1.0000000 l "substring"
+14 15 0.4000000 l "substring"
+15 14 1.0000000 l "substring"
+14 16 0.4000000 l "substring"
+16 14 1.0000000 l "substring"
+17 18 0.4000000 l "substring"
+18 17 1.0000000 l "substring"
+17 19 0.4000000 l "substring"
+19 17 1.0000000 l "substring"
+1 11 0.1000000 l "distance"
+11 1 0.5000000 l "distance"
+2 5 0.3333333 l "distance"
+5 2 0.3333333 l "distance"
+*Edges

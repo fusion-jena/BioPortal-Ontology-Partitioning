@@ -1,0 +1,15 @@
+*Vertices 2
+1 "integrative research review" ellipse
+2 "integrative review" ellipse
+*Arcs
+1 2 0.7641966 l "isa"
+2 1 0.5753030 l "isa"
+1 2 0.7641966 l "isa"
+2 1 0.5753030 l "isa"
+1 2 0.7641966 l "isa"
+2 1 0.5753030 l "isa"
+1 2 0.7641966 l "isa"
+2 1 0.5753030 l "isa"
+1 2 0.7641966 l "isa"
+2 1 0.5753030 l "isa"
+*Edges

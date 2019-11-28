@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Residential institution (nursing home or prison or boarding school)" ellipse
+2 "School or kindergarten" ellipse
+*Arcs
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+2 1 0.8422156 l "isa"
+1 2 0.6054275 l "isa"
+*Edges

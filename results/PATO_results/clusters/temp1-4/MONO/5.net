@@ -1,0 +1,40 @@
+*Vertices 7
+1 "Anchor" ellipse
+2 "AttachmentOrgan" ellipse
+3 "CopulatoryOrgan" ellipse
+4 "Haptor" ellipse
+5 "Organ" ellipse
+6 "ReproductiveOrgan" ellipse
+7 "VaginalSystem" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.1818182 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.1578947 l "isa"
+3 6 0.4000000 l "isa"
+6 3 0.2500000 l "isa"
+4 2 0.1818182 l "isa"
+2 4 0.3333333 l "isa"
+6 5 0.3750000 l "isa"
+5 6 0.1578947 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.2500000 l "isa"
+4 1 0.1818182 l "hasAnchor"
+1 4 0.5000000 l "hasAnchor"
+5 2 0.1578947 l "hasAttachmentOrgan"
+2 5 0.5000000 l "hasAttachmentOrgan"
+6 3 0.2500000 l "hasCopulatoryOrgan"
+3 6 0.4000000 l "hasCopulatoryOrgan"
+2 4 0.3333333 l "hasHaptor"
+4 2 0.1818182 l "hasHaptor"
+5 6 0.1578947 l "hasReproductiveOrgan"
+6 5 0.3750000 l "hasReproductiveOrgan"
+6 7 0.2500000 l "hasVaginalSystem"
+7 6 0.5000000 l "hasVaginalSystem"
+2 5 0.5000000 l "substring"
+5 2 0.1578947 l "substring"
+3 5 0.2000000 l "substring"
+5 3 0.0526316 l "substring"
+5 6 0.1578947 l "substring"
+6 5 0.3750000 l "substring"
+*Edges

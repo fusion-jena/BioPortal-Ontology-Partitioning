@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Fungicidas" ellipse
+2 "Herbicidas" ellipse
+3 "Pesticidas" ellipse
+4 "Plaguicidas" ellipse
+*Arcs
+1 4 0.1111111 l "isa"
+4 1 0.3333333 l "isa"
+2 4 0.1000000 l "isa"
+4 2 0.3333333 l "isa"
+3 4 0.1000000 l "isa"
+4 3 0.3333333 l "isa"
+2 3 0.1000000 l "distance"
+3 2 0.1000000 l "distance"
+*Edges

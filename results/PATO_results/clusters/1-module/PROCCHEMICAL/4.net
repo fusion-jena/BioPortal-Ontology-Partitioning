@@ -1,0 +1,21 @@
+*Vertices 4
+1 "BiochemicalOxygenDemand" ellipse
+2 "BiologicalOxygenDemand" ellipse
+3 "ChemicalOxygenDemand" ellipse
+4 "OxygenDemand" ellipse
+*Arcs
+2 4 1.0000000 l "isa"
+4 2 0.3333333 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.3333333 l "isa"
+1 3 0.6666667 l "substring"
+3 1 0.5000000 l "substring"
+1 4 0.3333333 l "substring"
+4 1 0.1666667 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.3333333 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.3333333 l "substring"
+1 3 0.6666667 l "distance"
+3 1 0.5000000 l "distance"
+*Edges

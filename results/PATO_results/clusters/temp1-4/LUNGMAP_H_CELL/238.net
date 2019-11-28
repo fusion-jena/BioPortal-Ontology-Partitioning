@@ -1,0 +1,22 @@
+*Vertices 3
+1 "left lung lobar bronchus" ellipse
+2 "lobar bronchus" ellipse
+3 "right lung lobar bronchus" ellipse
+*Arcs
+1 2 0.2379691 l "isa"
+2 1 0.1436880 l "isa"
+3 2 0.2135636 l "isa"
+2 3 0.1423325 l "isa"
+1 2 0.2379691 l "substring"
+2 1 0.1436880 l "substring"
+2 3 0.1423325 l "substring"
+3 2 0.2135636 l "substring"
+1 2 0.2379691 l "isa"
+2 1 0.1436880 l "isa"
+3 2 0.2135636 l "isa"
+2 3 0.1423325 l "isa"
+1 2 0.2379691 l "substring"
+2 1 0.1436880 l "substring"
+2 3 0.1423325 l "substring"
+3 2 0.2135636 l "substring"
+*Edges

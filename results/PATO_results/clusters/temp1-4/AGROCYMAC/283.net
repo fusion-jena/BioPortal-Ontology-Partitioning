@@ -1,0 +1,9 @@
+*Vertices 2
+1 "centimeter" ellipse
+2 "square centimeter" ellipse
+*Arcs
+1 2 0.2119884 l "substring"
+2 1 0.2115572 l "substring"
+1 2 0.2119884 l "substring"
+2 1 0.2115572 l "substring"
+*Edges

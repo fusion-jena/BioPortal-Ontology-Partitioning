@@ -1,0 +1,7 @@
+*Vertices 2
+1 "UO_0000126" ellipse
+2 "UO_0000149" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Delaware" ellipse
+2 "Belclare" ellipse
+*Arcs
+1 2 0.5604424 l "distance"
+2 1 0.3870212 l "distance"
+1 2 0.5604424 l "distance"
+2 1 0.3870212 l "distance"
+1 2 0.5604424 l "distance"
+2 1 0.3870212 l "distance"
+*Edges

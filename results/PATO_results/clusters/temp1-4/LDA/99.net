@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Groningen Whiteheaded" ellipse
+2 "Groningen" ellipse
+*Arcs
+1 2 0.5450994 l "substring"
+2 1 0.5450274 l "substring"
+1 2 0.5450994 l "substring"
+2 1 0.5450274 l "substring"
+*Edges

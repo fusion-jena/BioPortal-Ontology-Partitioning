@@ -1,0 +1,39 @@
+*Vertices 4
+1 "intrinsic asthma with status asthmaticus" ellipse
+2 "intrinsic asthma without status asthmaticus" ellipse
+3 "extrinsic asthma with status asthmaticus" ellipse
+4 "extrinsic asthma without status asthmaticus" ellipse
+*Arcs
+1 2 0.1595617 l "distance"
+2 1 0.1595617 l "distance"
+1 3 0.1651084 l "distance"
+3 1 0.1907483 l "distance"
+2 4 0.1651084 l "distance"
+4 2 0.1907483 l "distance"
+3 4 0.1974645 l "distance"
+4 3 0.1974645 l "distance"
+1 2 0.1595617 l "distance"
+2 1 0.1595617 l "distance"
+1 3 0.1651084 l "distance"
+3 1 0.1907483 l "distance"
+2 4 0.1651084 l "distance"
+4 2 0.1907483 l "distance"
+3 4 0.1974645 l "distance"
+4 3 0.1974645 l "distance"
+1 2 0.1595617 l "distance"
+2 1 0.1595617 l "distance"
+1 3 0.1651084 l "distance"
+3 1 0.1907483 l "distance"
+2 4 0.1651084 l "distance"
+4 2 0.1907483 l "distance"
+3 4 0.1974645 l "distance"
+4 3 0.1974645 l "distance"
+1 2 0.1595617 l "distance"
+2 1 0.1595617 l "distance"
+1 3 0.1651084 l "distance"
+3 1 0.1907483 l "distance"
+2 4 0.1651084 l "distance"
+4 2 0.1907483 l "distance"
+3 4 0.1974645 l "distance"
+4 3 0.1974645 l "distance"
+*Edges

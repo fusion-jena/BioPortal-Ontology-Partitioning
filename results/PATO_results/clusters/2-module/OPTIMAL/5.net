@@ -1,0 +1,46 @@
+*Vertices 7
+1 "NonCompletion" ellipse
+2 "Completion" ellipse
+3 "CompletionOfCrMore3YearsPeriod" ellipse
+4 "CompletionOfCrUp1YearPeriod" ellipse
+5 "CompletionOfCrUp3MonthsPeriod" ellipse
+6 "NonCompletionOfCrUp1YearPeriod" ellipse
+7 "NonCompletionOfCrUp3MonthsPeriod" ellipse
+*Arcs
+3 2 0.2222222 l "definition"
+2 3 0.1818182 l "definition"
+4 2 0.1333333 l "definition"
+2 4 0.1818182 l "definition"
+5 2 0.1333333 l "definition"
+2 5 0.1818182 l "definition"
+6 1 0.1818182 l "definition"
+1 6 0.2857143 l "definition"
+7 1 0.1818182 l "definition"
+1 7 0.2857143 l "definition"
+1 2 0.2857143 l "substring"
+2 1 0.1818182 l "substring"
+1 6 0.2857143 l "substring"
+6 1 0.1818182 l "substring"
+1 7 0.2857143 l "substring"
+7 1 0.1818182 l "substring"
+2 3 0.1818182 l "substring"
+3 2 0.2222222 l "substring"
+2 4 0.1818182 l "substring"
+4 2 0.1333333 l "substring"
+2 5 0.1818182 l "substring"
+5 2 0.1333333 l "substring"
+2 6 0.0909091 l "substring"
+6 2 0.0909091 l "substring"
+2 7 0.0909091 l "substring"
+7 2 0.0909091 l "substring"
+4 6 0.1333333 l "substring"
+6 4 0.1818182 l "substring"
+5 7 0.1333333 l "substring"
+7 5 0.1818182 l "substring"
+1 2 0.2857143 l "distance"
+2 1 0.1818182 l "distance"
+4 6 0.1333333 l "distance"
+6 4 0.1818182 l "distance"
+5 7 0.1333333 l "distance"
+7 5 0.1818182 l "distance"
+*Edges

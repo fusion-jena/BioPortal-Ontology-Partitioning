@@ -1,0 +1,29 @@
+*Vertices 8
+1 "decibel" ellipse
+2 "fraction" ellipse
+3 "named_ratio" ellipse
+4 "pascal" ellipse
+5 "percent" ellipse
+6 "pressure unit" ellipse
+7 "ratio" ellipse
+8 "scale" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3333333 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.2857143 l "isa"
+3 7 0.6666667 l "isa"
+7 3 0.2857143 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.3333333 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1428571 l "isa"
+8 7 0.5000000 l "isa"
+7 8 0.1428571 l "isa"
+3 7 0.6666667 l "substring"
+7 3 0.2857143 l "substring"
+2 7 1.0000000 l "distance"
+7 2 0.2857143 l "distance"
+4 8 0.5000000 l "distance"
+8 4 0.5000000 l "distance"
+*Edges

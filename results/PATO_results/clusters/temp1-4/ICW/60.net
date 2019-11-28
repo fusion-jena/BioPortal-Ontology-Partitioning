@@ -1,0 +1,43 @@
+*Vertices 14
+1 "ICW-1:01.07.04.01 Individual Mindfullness/Meditation" ellipse
+2 "ICW-1:01.07.01 Prayer" ellipse
+3 "ICW-1:01.07.02.01 Individual Scripture Study" ellipse
+4 "ICW-1:01.07.02.02 Group Scripture Study" ellipse
+5 "ICW-1:01.07.03.02 Group Spiritual Reflection" ellipse
+6 "ICW-1:01.07.05 Spiritual Wellness - NOS" ellipse
+7 "ICW-1:01.07.01.01 Individual Prayer" ellipse
+8 "ICW-1:01.07.04 Mindfullness/Meditation" ellipse
+9 "ICW-1:01.07.03.01 Indivitual Spiritual Reflection" ellipse
+10 "ICW-1:01.07 Spiritual Wellness" ellipse
+11 "ICW-1:01.07.02 Scripture Study" ellipse
+12 "ICW-1:01.07.04.02 Group Mindfullness/Meditation" ellipse
+13 "ICW-1:01.07.01.02 Group Prayer" ellipse
+14 "ICW-1:01.07.03 Spiritual Reflection" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.3333333 l "isa"
+2 10 0.3333333 l "isa"
+10 2 0.1666667 l "isa"
+3 11 1.0000000 l "isa"
+11 3 0.3333333 l "isa"
+4 11 1.0000000 l "isa"
+11 4 0.3333333 l "isa"
+5 14 1.0000000 l "isa"
+14 5 0.3333333 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.1666667 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.3333333 l "isa"
+8 10 0.3333333 l "isa"
+10 8 0.1666667 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.3333333 l "isa"
+11 10 0.3333333 l "isa"
+10 11 0.1666667 l "isa"
+12 8 1.0000000 l "isa"
+8 12 0.3333333 l "isa"
+13 2 1.0000000 l "isa"
+2 13 0.3333333 l "isa"
+14 10 0.3333333 l "isa"
+10 14 0.1666667 l "isa"
+*Edges

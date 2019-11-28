@@ -1,0 +1,36 @@
+*Vertices 3
+1 "QRFPR" ellipse
+2 "RXFP3" ellipse
+3 "RXFP4" ellipse
+*Arcs
+1 2 0.1573488 l "distance"
+2 1 0.1973101 l "distance"
+1 3 0.1891138 l "distance"
+3 1 0.3501964 l "distance"
+2 3 0.2575127 l "distance"
+3 2 0.3802781 l "distance"
+1 2 0.1573488 l "distance"
+2 1 0.1973101 l "distance"
+1 3 0.1891138 l "distance"
+3 1 0.3501964 l "distance"
+2 3 0.2575127 l "distance"
+3 2 0.3802781 l "distance"
+1 2 0.1573488 l "distance"
+2 1 0.1973101 l "distance"
+1 3 0.1891138 l "distance"
+3 1 0.3501964 l "distance"
+2 3 0.2575127 l "distance"
+3 2 0.3802781 l "distance"
+1 2 0.1573488 l "distance"
+2 1 0.1973101 l "distance"
+1 3 0.1891138 l "distance"
+3 1 0.3501964 l "distance"
+2 3 0.2575127 l "distance"
+3 2 0.3802781 l "distance"
+1 2 0.1573488 l "distance"
+2 1 0.1973101 l "distance"
+1 3 0.1891138 l "distance"
+3 1 0.3501964 l "distance"
+2 3 0.2575127 l "distance"
+3 2 0.3802781 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Body_Nutrition_Excess" ellipse
+2 "Body_Nutrition_Excess_Risk" ellipse
+*Arcs
+1 2 0.1047872 l "substring"
+2 1 0.1047872 l "substring"
+1 2 0.1047872 l "substring"
+2 1 0.1047872 l "substring"
+*Edges

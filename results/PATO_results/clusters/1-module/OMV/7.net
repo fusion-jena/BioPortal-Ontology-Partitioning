@@ -1,0 +1,9 @@
+*Vertices 2
+1 "OntologyDomain" ellipse
+2 "isSubDomainOf"
+*Arcs
+1 1 0.1538462 l "isSubDomainOf"
+1 1 0.1538462 l "isSubDomainOf"
+1 2 0.0769231 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

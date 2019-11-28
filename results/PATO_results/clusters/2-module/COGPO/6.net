@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Response" ellipse
+2 "process aggregate" ellipse
+*Arcs
+1 2 0.1111111 l "isa"
+2 1 1.0000000 l "isa"
+*Edges

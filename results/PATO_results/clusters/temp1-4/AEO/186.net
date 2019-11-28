@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Protein misfolding" ellipse
+2 "protein misfolding disorder" ellipse
+*Arcs
+1 2 0.2343688 l "substring"
+2 1 0.1988355 l "substring"
+1 2 0.2343688 l "substring"
+2 1 0.1988355 l "substring"
+1 2 0.2343688 l "substring"
+2 1 0.1988355 l "substring"
+*Edges

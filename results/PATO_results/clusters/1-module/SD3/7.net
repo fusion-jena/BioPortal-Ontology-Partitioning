@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Set-up clinical equipment deviation" ellipse
+2 "Set-up images deviation" ellipse
+3 "Set-up lab values deviation" ellipse
+4 "Set-up mannequin or patient physical signs or findings deviation" ellipse
+5 "Set-up medications deviation" ellipse
+6 "Set-up patient monitor information deviation" ellipse
+7 "Set-up resources deviation" ellipse
+8 "Set-up written records deviation" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1250000 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1250000 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1250000 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1250000 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1250000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1250000 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.1250000 l "isa"
+*Edges

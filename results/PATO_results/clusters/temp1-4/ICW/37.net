@@ -1,0 +1,17 @@
+*Vertices 2
+1 "material anatomical entity" ellipse
+2 "anatomical entity" ellipse
+*Arcs
+1 2 0.3318022 l "isa"
+2 1 0.5847471 l "isa"
+1 2 0.3318022 l "substring"
+2 1 0.5847471 l "substring"
+1 2 0.3318022 l "isa"
+2 1 0.5847471 l "isa"
+1 2 0.3318022 l "substring"
+2 1 0.5847471 l "substring"
+1 2 0.3318022 l "isa"
+2 1 0.5847471 l "isa"
+1 2 0.3318022 l "substring"
+2 1 0.5847471 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Dangi" ellipse
+2 "Guangxi" ellipse
+*Arcs
+1 2 0.0471547 l "distance"
+2 1 0.5104412 l "distance"
+1 2 0.0471547 l "distance"
+2 1 0.5104412 l "distance"
+1 2 0.0471547 l "distance"
+2 1 0.5104412 l "distance"
+1 2 0.0471547 l "distance"
+2 1 0.5104412 l "distance"
+*Edges

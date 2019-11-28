@@ -1,0 +1,94 @@
+*Vertices 31
+1 "chicken breed" ellipse
+2 "Australorp" ellipse
+3 "Barnevelders" ellipse
+4 "Buckeye" ellipse
+5 "Buttercup" ellipse
+6 "Crevecoeur" ellipse
+7 "Dominiques" ellipse
+8 "Dutch Bantam" ellipse
+9 "Frizzle" ellipse
+10 "Gallus Inauris" ellipse
+11 "Gimmizah" ellipse
+12 "Golden Montazah" ellipse
+13 "Hamburgs" ellipse
+14 "La Fleche" ellipse
+15 "Lakenvelder" ellipse
+16 "Matrouh" ellipse
+17 "Minorca" ellipse
+18 "Modern Game" ellipse
+19 "Old English Game" ellipse
+20 "Orpington" ellipse
+21 "Plymouth Rock" ellipse
+22 "Red Cap" ellipse
+23 "Rhode Island Red" ellipse
+24 "Silkie Bantam" ellipse
+25 "Silver Montazah" ellipse
+26 "Swiss Hen" ellipse
+27 "Wyandottes" ellipse
+28 "Fayoumi" ellipse
+29 "Beijing You" ellipse
+30 "Empordanesa" ellipse
+31 "Penedesenca" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0136986 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0136986 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0136986 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0136986 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0136986 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0136986 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0136986 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0136986 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0136986 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0136986 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0136986 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0136986 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0136986 l "isa"
+15 1 1.0000000 l "isa"
+1 15 0.0136986 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0136986 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0136986 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0136986 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0136986 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0136986 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0136986 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0136986 l "isa"
+23 1 1.0000000 l "isa"
+1 23 0.0136986 l "isa"
+24 1 1.0000000 l "isa"
+1 24 0.0136986 l "isa"
+25 1 1.0000000 l "isa"
+1 25 0.0136986 l "isa"
+26 1 1.0000000 l "isa"
+1 26 0.0136986 l "isa"
+27 1 1.0000000 l "isa"
+1 27 0.0136986 l "isa"
+28 1 1.0000000 l "isa"
+1 28 0.0136986 l "isa"
+29 1 1.0000000 l "isa"
+1 29 0.0136986 l "isa"
+30 1 1.0000000 l "isa"
+1 30 0.0136986 l "isa"
+31 1 1.0000000 l "isa"
+1 31 0.0136986 l "isa"
+*Edges

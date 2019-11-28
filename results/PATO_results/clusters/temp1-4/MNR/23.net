@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Albania" ellipse
+2 "Tanzania" ellipse
+*Arcs
+1 2 0.1647412 l "distance"
+2 1 0.2742267 l "distance"
+1 2 0.1647412 l "distance"
+2 1 0.2742267 l "distance"
+1 2 0.1647412 l "distance"
+2 1 0.2742267 l "distance"
+*Edges

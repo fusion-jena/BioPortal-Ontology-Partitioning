@@ -1,0 +1,89 @@
+*Vertices 14
+1 "Paraventricular hypothalamic nucleus" ellipse
+2 "Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part" ellipse
+3 "Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part" ellipse
+4 "Paraventricular hypothalamic nucleus, descending division" ellipse
+5 "Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part" ellipse
+6 "Paraventricular hypothalamic nucleus, descending division, forniceal part" ellipse
+7 "Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part" ellipse
+8 "Paraventricular hypothalamic nucleus, magnocellular division" ellipse
+9 "Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part" ellipse
+10 "Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone" ellipse
+11 "Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone" ellipse
+12 "Paraventricular hypothalamic nucleus, parvicellular division" ellipse
+13 "Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part" ellipse
+14 "Paraventricular hypothalamic nucleus, parvicellular division, periventricular part" ellipse
+*Arcs
+2 8 0.5000000 l "isa"
+8 2 0.2500000 l "isa"
+3 12 0.6666667 l "isa"
+12 3 0.2500000 l "isa"
+5 4 0.6666667 l "isa"
+4 5 0.2000000 l "isa"
+6 4 0.6666667 l "isa"
+4 6 0.2000000 l "isa"
+7 4 0.6666667 l "isa"
+4 7 0.2000000 l "isa"
+8 1 0.2500000 l "isa"
+1 8 0.1250000 l "isa"
+9 8 0.6666667 l "isa"
+8 9 0.2500000 l "isa"
+10 12 0.6666667 l "isa"
+12 10 0.2500000 l "isa"
+11 4 0.6666667 l "isa"
+4 11 0.2000000 l "isa"
+12 1 0.2500000 l "isa"
+1 12 0.1250000 l "isa"
+13 8 0.5000000 l "isa"
+8 13 0.2500000 l "isa"
+14 12 0.6666667 l "isa"
+12 14 0.2500000 l "isa"
+1 2 0.0625000 l "substring"
+2 1 0.2500000 l "substring"
+1 3 0.0625000 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.0625000 l "substring"
+4 1 0.1000000 l "substring"
+1 5 0.0625000 l "substring"
+5 1 0.3333333 l "substring"
+1 6 0.0625000 l "substring"
+6 1 0.3333333 l "substring"
+1 7 0.0625000 l "substring"
+7 1 0.3333333 l "substring"
+1 8 0.1250000 l "substring"
+8 1 0.2500000 l "substring"
+1 9 0.0625000 l "substring"
+9 1 0.3333333 l "substring"
+1 10 0.0625000 l "substring"
+10 1 0.3333333 l "substring"
+1 11 0.0625000 l "substring"
+11 1 0.3333333 l "substring"
+1 12 0.1250000 l "substring"
+12 1 0.2500000 l "substring"
+1 13 0.0625000 l "substring"
+13 1 0.2500000 l "substring"
+1 14 0.0625000 l "substring"
+14 1 0.3333333 l "substring"
+2 8 0.5000000 l "substring"
+8 2 0.2500000 l "substring"
+3 12 0.6666667 l "substring"
+12 3 0.2500000 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.6666667 l "substring"
+4 6 0.2000000 l "substring"
+6 4 0.6666667 l "substring"
+4 7 0.2000000 l "substring"
+7 4 0.6666667 l "substring"
+4 11 0.2000000 l "substring"
+11 4 0.6666667 l "substring"
+8 9 0.2500000 l "substring"
+9 8 0.6666667 l "substring"
+8 13 0.2500000 l "substring"
+13 8 0.5000000 l "substring"
+10 12 0.6666667 l "substring"
+12 10 0.2500000 l "substring"
+12 14 0.2500000 l "substring"
+14 12 0.6666667 l "substring"
+2 13 0.2500000 l "distance"
+13 2 0.2500000 l "distance"
+*Edges

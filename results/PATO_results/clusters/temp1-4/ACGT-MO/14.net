@@ -1,0 +1,13 @@
+*Vertices 2
+1 "NaturalProcess" ellipse
+2 "Process" ellipse
+*Arcs
+1 2 0.4000000 l "isa"
+2 1 0.0128205 l "isa"
+2 2 0.0256410 l "concomitantWith"
+2 2 0.0256410 l "concomitantWith"
+2 2 0.0256410 l "synchronousWith"
+2 2 0.0256410 l "synchronousWith"
+1 2 0.4000000 l "substring"
+2 1 0.0128205 l "substring"
+*Edges

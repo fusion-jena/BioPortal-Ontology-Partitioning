@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Daily_Medications" ellipse
+2 "Medication" ellipse
+*Arcs
+1 2 0.2537938 l "substring"
+2 1 0.1056069 l "substring"
+1 2 0.2537938 l "substring"
+2 1 0.1056069 l "substring"
+*Edges

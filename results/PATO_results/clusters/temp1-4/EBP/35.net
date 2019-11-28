@@ -1,0 +1,13 @@
+*Vertices 2
+1 "NotEnrolled" ellipse
+2 "isEnrolled"
+*Arcs
+1 2 0.1441805 l "distance"
+2 1 0.1303848 l "distance"
+1 2 0.1441805 l "distance"
+2 1 0.1303848 l "distance"
+1 2 0.1441805 l "distance"
+2 1 0.1303848 l "distance"
+1 2 0.1441805 l "distance"
+2 1 0.1303848 l "distance"
+*Edges

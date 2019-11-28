@@ -1,0 +1,248 @@
+*Vertices 65
+1 "device name" ellipse
+2 "experimental design and studies" ellipse
+3 "hospital" ellipse
+4 "laterality" ellipse
+5 "weight" ellipse
+6 "height" ellipse
+7 "identifier" ellipse
+8 "participant" ellipse
+9 "forced expiratory volume in 1 second" ellipse
+10 "experiment" ellipse
+11 "birth date" ellipse
+12 "humidity" ellipse
+13 "quasi experimental methods" ellipse
+14 "planning" ellipse
+15 "measurement" ellipse
+16 "questionnaire" ellipse
+17 "types of survey questions" ellipse
+18 "psychic state questions" ellipse
+19 "eating habits questions" ellipse
+20 "physical fitness questions" ellipse
+21 "measurement station" ellipse
+22 "soundproof cabin" ellipse
+23 "uncontrolled environment" ellipse
+24 "home" ellipse
+25 "pseudoisochromatic tables" ellipse
+26 "color blindness test results" ellipse
+27 "handheld dynamometer" ellipse
+28 "dynamometer freestyle measurement" ellipse
+29 "dynamometer measurement during front shoulder raise" ellipse
+30 "right arm strength" ellipse
+31 "left arm strength" ellipse
+32 "resting state" ellipse
+33 "stress state" ellipse
+34 "fitness scale" ellipse
+35 "percentage of muscle mass in the body" ellipse
+36 "percentage of water in the body" ellipse
+37 "percentage of fat in the body" ellipse
+38 "balance test" ellipse
+39 "weight put on the right leg" ellipse
+40 "weight put on the left leg" ellipse
+41 "tape measure" ellipse
+42 "remaining fitness step distance" ellipse
+43 "food before blood sugar measurement" ellipse
+44 "measurement date" ellipse
+45 "measurement place" ellipse
+46 "blood glucose" ellipse
+47 "environment" ellipse
+48 "controlled environment" ellipse
+49 "pilot studies" ellipse
+50 "vital capacity" ellipse
+51 "surname" ellipse
+52 "name" ellipse
+53 "natural experiment" ellipse
+54 "instrument" ellipse
+55 "spirometer" ellipse
+56 "tool" ellipse
+57 "outdoor" ellipse
+58 "scale" ellipse
+59 "body mass index" ellipse
+60 "agreement to a specified research addendum" ellipse
+61 "glucometer" ellipse
+62 "device" ellipse
+63 "flexibility" ellipse
+64 "unit of measurement" ellipse
+65 "peak expiratory flow" ellipse
+*Arcs
+1 62 0.6666667 l "isa"
+62 1 0.1538462 l "isa"
+2 10 0.4000000 l "isa"
+10 2 0.2857143 l "isa"
+3 23 1.0000000 l "isa"
+23 3 0.1428571 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1666667 l "isa"
+5 58 0.2500000 l "isa"
+58 5 0.1666667 l "isa"
+6 41 0.5000000 l "isa"
+41 6 0.3333333 l "isa"
+7 62 1.0000000 l "isa"
+62 7 0.0769231 l "isa"
+8 15 0.1666667 l "isa"
+15 8 0.0714286 l "isa"
+9 32 1.0000000 l "isa"
+32 9 0.2500000 l "isa"
+10 21 0.1428571 l "isa"
+21 10 0.3333333 l "isa"
+11 8 1.0000000 l "isa"
+8 11 0.1666667 l "isa"
+12 47 1.0000000 l "isa"
+47 12 0.1250000 l "isa"
+13 2 0.5000000 l "isa"
+2 13 0.2000000 l "isa"
+15 14 0.0714286 l "isa"
+14 15 1.0000000 l "isa"
+16 15 0.5000000 l "isa"
+15 16 0.0714286 l "isa"
+17 16 0.2500000 l "isa"
+16 17 0.5000000 l "isa"
+18 17 1.0000000 l "isa"
+17 18 0.2500000 l "isa"
+19 17 1.0000000 l "isa"
+17 19 0.2500000 l "isa"
+20 17 1.0000000 l "isa"
+17 20 0.2500000 l "isa"
+21 15 0.6666667 l "isa"
+15 21 0.1428571 l "isa"
+22 48 1.0000000 l "isa"
+48 22 0.2000000 l "isa"
+23 47 0.2857143 l "isa"
+47 23 0.2500000 l "isa"
+24 23 0.3333333 l "isa"
+23 24 0.1428571 l "isa"
+25 54 0.5000000 l "isa"
+54 25 0.1250000 l "isa"
+26 25 1.0000000 l "isa"
+25 26 0.5000000 l "isa"
+27 54 0.3333333 l "isa"
+54 27 0.1250000 l "isa"
+28 27 0.2500000 l "isa"
+27 28 0.3333333 l "isa"
+29 27 0.5000000 l "isa"
+27 29 0.3333333 l "isa"
+30 28 1.0000000 l "isa"
+28 30 0.2500000 l "isa"
+31 28 1.0000000 l "isa"
+28 31 0.2500000 l "isa"
+32 55 0.2500000 l "isa"
+55 32 0.3333333 l "isa"
+33 55 1.0000000 l "isa"
+55 33 0.3333333 l "isa"
+34 58 0.3333333 l "isa"
+58 34 0.3333333 l "isa"
+35 34 1.0000000 l "isa"
+34 35 0.1666667 l "isa"
+36 34 0.5000000 l "isa"
+34 36 0.1666667 l "isa"
+37 34 0.5000000 l "isa"
+34 37 0.1666667 l "isa"
+38 58 0.3333333 l "isa"
+58 38 0.1666667 l "isa"
+39 38 0.5000000 l "isa"
+38 39 0.3333333 l "isa"
+40 38 0.5000000 l "isa"
+38 40 0.3333333 l "isa"
+41 54 0.3333333 l "isa"
+54 41 0.1250000 l "isa"
+42 63 1.0000000 l "isa"
+63 42 0.5000000 l "isa"
+43 61 0.5000000 l "isa"
+61 43 0.3333333 l "isa"
+44 15 0.6666667 l "isa"
+15 44 0.1428571 l "isa"
+45 15 0.6666667 l "isa"
+15 45 0.1428571 l "isa"
+46 61 1.0000000 l "isa"
+61 46 0.3333333 l "isa"
+47 10 0.1250000 l "isa"
+10 47 0.1428571 l "isa"
+48 47 0.4000000 l "isa"
+47 48 0.2500000 l "isa"
+49 2 1.0000000 l "isa"
+2 49 0.2000000 l "isa"
+50 32 1.0000000 l "isa"
+32 50 0.2500000 l "isa"
+51 8 0.3333333 l "isa"
+8 51 0.1666667 l "isa"
+52 8 0.1666667 l "isa"
+8 52 0.1666667 l "isa"
+53 2 0.5000000 l "isa"
+2 53 0.2000000 l "isa"
+55 54 0.3333333 l "isa"
+54 55 0.1250000 l "isa"
+56 10 0.2500000 l "isa"
+10 56 0.1428571 l "isa"
+57 23 1.0000000 l "isa"
+23 57 0.1428571 l "isa"
+58 54 0.1666667 l "isa"
+54 58 0.1250000 l "isa"
+59 34 1.0000000 l "isa"
+34 59 0.1666667 l "isa"
+60 15 1.0000000 l "isa"
+15 60 0.0714286 l "isa"
+61 54 0.3333333 l "isa"
+54 61 0.1250000 l "isa"
+62 56 0.0769231 l "isa"
+56 62 0.2500000 l "isa"
+63 41 0.5000000 l "isa"
+41 63 0.3333333 l "isa"
+64 62 0.5000000 l "isa"
+62 64 0.0769231 l "isa"
+65 32 1.0000000 l "isa"
+32 65 0.2500000 l "isa"
+1 52 0.3333333 l "substring"
+52 1 0.1666667 l "substring"
+1 62 0.6666667 l "substring"
+62 1 0.1538462 l "substring"
+2 10 0.4000000 l "substring"
+10 2 0.2857143 l "substring"
+5 39 0.2500000 l "substring"
+39 5 0.5000000 l "substring"
+5 40 0.2500000 l "substring"
+40 5 0.5000000 l "substring"
+10 13 0.1428571 l "substring"
+13 10 0.5000000 l "substring"
+10 53 0.1428571 l "substring"
+53 10 0.5000000 l "substring"
+15 21 0.1428571 l "substring"
+21 15 0.6666667 l "substring"
+15 28 0.0714286 l "substring"
+28 15 0.2500000 l "substring"
+15 29 0.0714286 l "substring"
+29 15 0.5000000 l "substring"
+15 43 0.0714286 l "substring"
+43 15 0.5000000 l "substring"
+15 44 0.1428571 l "substring"
+44 15 0.6666667 l "substring"
+15 45 0.1428571 l "substring"
+45 15 0.6666667 l "substring"
+15 64 0.0714286 l "substring"
+64 15 0.5000000 l "substring"
+23 47 0.2857143 l "substring"
+47 23 0.2500000 l "substring"
+23 48 0.2857143 l "substring"
+48 23 0.4000000 l "substring"
+34 58 0.3333333 l "substring"
+58 34 0.3333333 l "substring"
+47 48 0.2500000 l "substring"
+48 47 0.4000000 l "substring"
+51 52 0.6666667 l "substring"
+52 51 0.3333333 l "substring"
+5 6 0.2500000 l "distance"
+6 5 0.5000000 l "distance"
+23 48 0.2857143 l "distance"
+48 23 0.4000000 l "distance"
+24 52 0.3333333 l "distance"
+52 24 0.1666667 l "distance"
+24 56 0.3333333 l "distance"
+56 24 0.2500000 l "distance"
+36 37 0.5000000 l "distance"
+37 36 0.5000000 l "distance"
+44 45 0.3333333 l "distance"
+45 44 0.3333333 l "distance"
+51 52 0.6666667 l "distance"
+52 51 0.3333333 l "distance"
+52 58 0.1666667 l "distance"
+58 52 0.1666667 l "distance"
+*Edges

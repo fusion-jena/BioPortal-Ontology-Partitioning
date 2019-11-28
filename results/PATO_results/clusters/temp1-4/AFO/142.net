@@ -1,0 +1,9 @@
+*Vertices 2
+1 "shear modulus" ellipse
+2 "shear modulus of zero magnitude" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.5000000 l "isa"
+1 2 0.5000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

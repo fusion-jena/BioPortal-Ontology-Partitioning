@@ -1,0 +1,49 @@
+*Vertices 10
+1 "row orientation" ellipse
+2 "plot orientation" ellipse
+3 "environmental feature grade" ellipse
+4 "environmental feature" ellipse
+5 "planetary surface" ellipse
+6 "outer space" ellipse
+7 "astronomical body" ellipse
+8 "astronomical object" ellipse
+9 "astronomical body part" ellipse
+10 "orientation" ellipse
+*Arcs
+1 10 0.2727273 l "isa"
+10 1 0.2307692 l "isa"
+2 10 0.2727273 l "isa"
+10 2 0.2307692 l "isa"
+3 10 0.5000000 l "isa"
+10 3 0.0769231 l "isa"
+6 4 0.3333333 l "isa"
+4 6 0.0500000 l "isa"
+7 8 0.3333333 l "isa"
+8 7 0.2500000 l "isa"
+8 4 0.1250000 l "isa"
+4 8 0.0500000 l "isa"
+9 4 0.0833333 l "isa"
+4 9 0.0500000 l "isa"
+1 10 0.2727273 l "definition"
+10 1 0.2307692 l "definition"
+2 10 0.2727273 l "definition"
+10 2 0.2307692 l "definition"
+5 6 0.0625000 l "definition"
+6 5 0.3333333 l "definition"
+8 6 0.1250000 l "definition"
+6 8 0.3333333 l "definition"
+8 7 0.2500000 l "definition"
+7 8 0.3333333 l "definition"
+9 7 0.1666667 l "definition"
+7 9 0.3333333 l "definition"
+1 10 0.2727273 l "substring"
+10 1 0.2307692 l "substring"
+2 10 0.2727273 l "substring"
+10 2 0.2307692 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.0500000 l "substring"
+7 9 0.3333333 l "substring"
+9 7 0.1666667 l "substring"
+1 2 0.0909091 l "distance"
+2 1 0.0909091 l "distance"
+*Edges

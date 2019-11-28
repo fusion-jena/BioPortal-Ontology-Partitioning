@@ -1,0 +1,36 @@
+*Vertices 3
+1 "fiat_object_part" ellipse
+2 "material_entity" ellipse
+3 "object_aggregate" ellipse
+*Arcs
+1 2 0.7217502 l "isa"
+2 1 0.0812762 l "isa"
+3 2 0.5747556 l "isa"
+2 3 0.0747612 l "isa"
+2 2 0.0509684 l "derives_from"
+2 2 0.0509684 l "derives_from"
+2 1 0.0812762 l "definition"
+1 2 0.7217502 l "definition"
+2 3 0.0747612 l "definition"
+3 2 0.5747556 l "definition"
+1 2 0.7217502 l "isa"
+2 1 0.0812762 l "isa"
+3 2 0.5747556 l "isa"
+2 3 0.0747612 l "isa"
+2 2 0.0509684 l "derives_from"
+2 2 0.0509684 l "derives_from"
+2 1 0.0812762 l "definition"
+1 2 0.7217502 l "definition"
+2 3 0.0747612 l "definition"
+3 2 0.5747556 l "definition"
+1 2 0.7217502 l "isa"
+2 1 0.0812762 l "isa"
+3 2 0.5747556 l "isa"
+2 3 0.0747612 l "isa"
+2 2 0.0509684 l "derives_from"
+2 2 0.0509684 l "derives_from"
+2 1 0.0812762 l "definition"
+1 2 0.7217502 l "definition"
+2 3 0.0747612 l "definition"
+3 2 0.5747556 l "definition"
+*Edges

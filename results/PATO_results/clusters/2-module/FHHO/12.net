@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Male_Cousin" ellipse
+2 "Maternal_male_cousin" ellipse
+3 "Paternal_male_cousin" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1538462 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.1538462 l "isa"
+1 2 0.1538462 l "substring"
+2 1 0.3333333 l "substring"
+1 3 0.1538462 l "substring"
+3 1 0.3333333 l "substring"
+2 3 0.1666667 l "distance"
+3 2 0.1666667 l "distance"
+*Edges

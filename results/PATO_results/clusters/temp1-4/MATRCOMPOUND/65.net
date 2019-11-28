@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Gloucester" ellipse
+2 "Gloucestershire Old Spots" ellipse
+3 "Spots" ellipse
+*Arcs
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+1 2 0.6749053 l "substring"
+2 1 0.4004133 l "substring"
+2 3 0.3178256 l "substring"
+3 2 0.4725582 l "substring"
+*Edges

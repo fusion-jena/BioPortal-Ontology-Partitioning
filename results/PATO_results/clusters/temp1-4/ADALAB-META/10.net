@@ -1,0 +1,14 @@
+*Vertices 3
+1 "AdministrativeProcess" ellipse
+2 "Diagnosis" ellipse
+3 "DiagnosisConfirmation" ellipse
+*Arcs
+3 1 0.4919225 l "isa"
+1 3 0.0677618 l "isa"
+2 3 0.1640464 l "substring"
+3 2 0.5080776 l "substring"
+3 1 0.4919225 l "isa"
+1 3 0.0677618 l "isa"
+2 3 0.1640464 l "substring"
+3 2 0.5080776 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CDK5" ellipse
+2 "CDK5R1" ellipse
+*Arcs
+1 2 0.0555556 l "substring"
+2 1 0.1538462 l "substring"
+1 2 0.0555556 l "distance"
+2 1 0.1538462 l "distance"
+*Edges

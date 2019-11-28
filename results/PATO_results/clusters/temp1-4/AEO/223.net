@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Respiridone" ellipse
+2 "risperidone" ellipse
+*Arcs
+1 2 0.2282796 l "distance"
+2 1 0.2282796 l "distance"
+1 2 0.2282796 l "distance"
+2 1 0.2282796 l "distance"
+1 2 0.2282796 l "distance"
+2 1 0.2282796 l "distance"
+*Edges

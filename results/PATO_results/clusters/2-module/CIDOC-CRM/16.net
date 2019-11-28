@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Entidade Persistente" ellipse
+2 "Transformation" ellipse
+*Arcs
+2 1 0.5000000 l "a eu pour résultat"
+1 2 0.2857143 l "a eu pour résultat"
+1 2 0.2857143 l "ergab sich aus"
+2 1 0.5000000 l "ergab sich aus"
+2 1 0.5000000 l "a transformé"
+1 2 0.2857143 l "a transformé"
+1 2 0.2857143 l "a été transformé par"
+2 1 0.5000000 l "a été transformé par"
+*Edges

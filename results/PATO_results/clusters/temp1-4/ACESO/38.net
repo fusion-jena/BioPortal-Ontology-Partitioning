@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Work" ellipse
+2 "Kept_from_Work_by_Lack_of_Transportation" ellipse
+*Arcs
+2 1 0.1666667 l "definition"
+1 2 0.3333333 l "definition"
+1 2 0.3333333 l "substring"
+2 1 0.1666667 l "substring"
+*Edges

@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Biotechnology" ellipse
+2 "Engineering" ellipse
+3 "Signal Processing" ellipse
+*Arcs
+1 2 0.1307190 l "isa"
+2 1 0.1299138 l "isa"
+3 2 0.1310151 l "isa"
+2 3 0.1299138 l "isa"
+1 2 0.1307190 l "isa"
+2 1 0.1299138 l "isa"
+3 2 0.1310151 l "isa"
+2 3 0.1299138 l "isa"
+*Edges

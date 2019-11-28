@@ -1,0 +1,23 @@
+*Vertices 4
+1 "immediately preceded by"
+2 "starts with"
+3 "ends with"
+4 "immediately precedes"
+*Arcs
+1 2 0.2575049 l "definition"
+2 1 0.1737772 l "definition"
+1 3 0.2530652 l "definition"
+3 1 0.1318290 l "definition"
+4 2 0.2565729 l "definition"
+2 4 0.1737772 l "definition"
+4 3 0.2521492 l "definition"
+3 4 0.1318290 l "definition"
+1 2 0.2575049 l "definition"
+2 1 0.1737772 l "definition"
+1 3 0.2530652 l "definition"
+3 1 0.1318290 l "definition"
+4 2 0.2565729 l "definition"
+2 4 0.1737772 l "definition"
+4 3 0.2521492 l "definition"
+3 4 0.1318290 l "definition"
+*Edges

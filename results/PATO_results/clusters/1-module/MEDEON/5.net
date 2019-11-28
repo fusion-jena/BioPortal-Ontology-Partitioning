@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Patient" ellipse
+2 "Person" ellipse
+*Arcs
+1 2 0.1428571 l "isa"
+2 1 1.0000000 l "isa"
+*Edges

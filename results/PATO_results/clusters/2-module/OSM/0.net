@@ -1,0 +1,71 @@
+*Vertices 22
+1 "relatorio_evolucao_paciente" ellipse
+2 "relatorio_de_atendimento" ellipse
+3 "autorizacao_de_internacao" ellipse
+4 "busca_ativa_de_paciente" ellipse
+5 "evolucao_paciente" ellipse
+6 "psicologo" ellipse
+7 "psiquiatra" ellipse
+8 "raps" ellipse
+9 "relatiorio_de_monitoramento" ellipse
+10 "reuniao_equipe" ellipse
+11 "saude_mental" ellipse
+12 "solicitacao_de_internacao" ellipse
+13 "unidade_assistencial" ellipse
+14 "admissao_de_paciente" ellipse
+15 "assistente_administrativo" ellipse
+16 "avc" ellipse
+17 "exame" ellipse
+18 "leve" ellipse
+19 "nivel_intermediario" ellipse
+20 "redes" ellipse
+21 "relatorio_admissao_paciente" ellipse
+22 "samu" ellipse
+*Arcs
+20 11 0.1666667 l "isa"
+11 20 0.0909091 l "isa"
+22 19 0.1250000 l "isa"
+19 22 0.2500000 l "isa"
+6 5 0.0769231 l "acompanha_evolucao"
+5 6 0.1111111 l "acompanha_evolucao"
+7 5 0.1666667 l "acompanha_evolucao"
+5 7 0.1111111 l "acompanha_evolucao"
+15 13 0.1250000 l "comunica_internacao_autorizada"
+13 15 0.2000000 l "comunica_internacao_autorizada"
+6 2 0.0769231 l "gera_relatorio_atendimento"
+2 6 0.1428571 l "gera_relatorio_atendimento"
+6 1 0.0769231 l "gera_relatorio_atendimento"
+1 6 0.1250000 l "gera_relatorio_atendimento"
+6 9 0.0769231 l "gera_relatorio_monitoramento"
+9 6 0.1666667 l "gera_relatorio_monitoramento"
+7 9 0.1666667 l "gera_relatorio_monitoramento"
+9 7 0.1666667 l "gera_relatorio_monitoramento"
+15 3 0.1250000 l "providencia_docs_admissao"
+3 15 0.1666667 l "providencia_docs_admissao"
+15 21 0.1250000 l "providencia_docs_admissao"
+21 15 0.2500000 l "providencia_docs_admissao"
+6 10 0.0769231 l "realiza_reuniao"
+10 6 0.1250000 l "realiza_reuniao"
+15 14 0.1250000 l "registra_admissao"
+14 15 0.2500000 l "registra_admissao"
+6 4 0.0769231 l "solicita_busca_ativa"
+4 6 0.1428571 l "solicita_busca_ativa"
+7 4 0.1666667 l "solicita_busca_ativa"
+4 7 0.1428571 l "solicita_busca_ativa"
+5 1 0.1111111 l "substring"
+1 5 0.1250000 l "substring"
+16 18 0.0714286 l "distance"
+18 16 0.2500000 l "distance"
+16 8 0.0714286 l "distance"
+8 16 0.0833333 l "distance"
+16 22 0.0714286 l "distance"
+22 16 0.1250000 l "distance"
+17 22 0.2500000 l "distance"
+22 17 0.1250000 l "distance"
+18 20 0.2500000 l "distance"
+20 18 0.1666667 l "distance"
+8 20 0.0833333 l "distance"
+20 8 0.1666667 l "distance"
+8 22 0.0833333 l "distance"
+22 8 0.1250000 l "distance"
+*Edges

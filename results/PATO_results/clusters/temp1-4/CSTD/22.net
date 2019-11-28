@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Protocol Amendment" ellipse
+2 "Protocol Amendment Signature Page" ellipse
+*Arcs
+1 2 0.4282009 l "substring"
+2 1 0.3869998 l "substring"
+1 2 0.4282009 l "substring"
+2 1 0.3869998 l "substring"
+1 2 0.4282009 l "substring"
+2 1 0.3869998 l "substring"
+1 2 0.4282009 l "substring"
+2 1 0.3869998 l "substring"
+1 2 0.4282009 l "substring"
+2 1 0.3869998 l "substring"
+1 2 0.4282009 l "substring"
+2 1 0.3869998 l "substring"
+*Edges

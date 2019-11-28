@@ -1,0 +1,58 @@
+*Vertices 7
+1 "GeneralHospital" ellipse
+2 "Hospital" ellipse
+3 "NationalHospital" ellipse
+4 "PaediatricHospital" ellipse
+5 "RadiooncologicalHospital" ellipse
+6 "SpecializedHospital" ellipse
+7 "UniversityHospital" ellipse
+*Arcs
+1 2 0.7057241 l "isa"
+2 1 0.1443700 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1615569 l "isa"
+4 6 0.5172414 l "isa"
+6 4 0.2554180 l "isa"
+5 6 0.5172414 l "isa"
+6 5 0.2554180 l "isa"
+6 2 0.4891641 l "isa"
+2 6 0.1357766 l "isa"
+7 2 0.7057241 l "isa"
+2 7 0.1443700 l "isa"
+1 2 0.7057241 l "substring"
+2 1 0.1443700 l "substring"
+2 3 0.1615569 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.0661696 l "substring"
+4 2 0.4827586 l "substring"
+2 5 0.0661696 l "substring"
+5 2 0.4827586 l "substring"
+2 6 0.1357766 l "substring"
+6 2 0.4891641 l "substring"
+2 7 0.1443700 l "substring"
+7 2 0.7057241 l "substring"
+1 2 0.7057241 l "isa"
+2 1 0.1443700 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1615569 l "isa"
+4 6 0.5172414 l "isa"
+6 4 0.2554180 l "isa"
+5 6 0.5172414 l "isa"
+6 5 0.2554180 l "isa"
+6 2 0.4891641 l "isa"
+2 6 0.1357766 l "isa"
+7 2 0.7057241 l "isa"
+2 7 0.1443700 l "isa"
+1 2 0.7057241 l "substring"
+2 1 0.1443700 l "substring"
+2 3 0.1615569 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.0661696 l "substring"
+4 2 0.4827586 l "substring"
+2 5 0.0661696 l "substring"
+5 2 0.4827586 l "substring"
+2 6 0.1357766 l "substring"
+6 2 0.4891641 l "substring"
+2 7 0.1443700 l "substring"
+7 2 0.7057241 l "substring"
+*Edges

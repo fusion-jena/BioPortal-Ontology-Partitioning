@@ -1,0 +1,23 @@
+*Vertices 2
+1 "protocol"
+2 "protocolRequest"
+*Arcs
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+1 2 0.7596090 l "substring"
+2 1 0.7596090 l "substring"
+*Edges

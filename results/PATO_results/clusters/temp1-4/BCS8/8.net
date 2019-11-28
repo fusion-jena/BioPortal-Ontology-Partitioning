@@ -1,0 +1,35 @@
+*Vertices 4
+1 "N1" ellipse
+2 "N1mi" ellipse
+3 "N1" ellipse
+4 "N1mi" ellipse
+*Arcs
+1 2 0.0820308 l "substring"
+2 1 0.1263264 l "substring"
+1 2 0.0820308 l "distance"
+2 1 0.1263264 l "distance"
+1 2 0.0820308 l "substring"
+2 1 0.1263264 l "substring"
+1 3 0.0682496 l "substring"
+3 1 0.0714286 l "substring"
+1 4 0.0682496 l "substring"
+4 1 0.1111111 l "substring"
+2 3 0.1051036 l "substring"
+3 2 0.0714286 l "substring"
+2 4 0.1051036 l "substring"
+4 2 0.1111111 l "substring"
+3 4 0.0714286 l "substring"
+4 3 0.1111111 l "substring"
+1 2 0.0820308 l "distance"
+2 1 0.1263264 l "distance"
+1 3 0.0682496 l "distance"
+3 1 0.0714286 l "distance"
+1 4 0.0682496 l "distance"
+4 1 0.1111111 l "distance"
+2 3 0.1051036 l "distance"
+3 2 0.0714286 l "distance"
+2 4 0.1051036 l "distance"
+4 2 0.1111111 l "distance"
+3 4 0.0714286 l "distance"
+4 3 0.1111111 l "distance"
+*Edges

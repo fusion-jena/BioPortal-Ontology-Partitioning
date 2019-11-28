@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Precipitation" ellipse
+2 "Topography" ellipse
+3 "Weather" ellipse
+4 "environmental condition" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0714286 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0714286 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0714286 l "isa"
+*Edges

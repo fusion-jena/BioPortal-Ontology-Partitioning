@@ -1,0 +1,16 @@
+*Vertices 5
+1 "synthesis" ellipse
+2 "formulation process" ellipse
+3 "accomplishment" ellipse
+4 "process" ellipse
+5 "history" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1428571 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0344828 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0344828 l "isa"
+2 4 0.5000000 l "substring"
+4 2 0.0344828 l "substring"
+*Edges

@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Monomorphic adenoma" ellipse
+2 "Pleomorphic adenoma" ellipse
+3 "Carcinoma in pleomorphic adenoma (C07._, C08._)" ellipse
+*Arcs
+2 3 0.5000000 l "substring"
+3 2 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

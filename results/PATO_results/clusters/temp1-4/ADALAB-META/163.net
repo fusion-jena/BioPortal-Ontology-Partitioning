@@ -1,0 +1,39 @@
+*Vertices 4
+1 "Drainage" ellipse
+2 "LiquorDrainage" ellipse
+3 "VentriculoAtrialLiquorDrainage" ellipse
+4 "VentriculoPeritonealLiquorDrainage" ellipse
+*Arcs
+2 1 0.2857514 l "isa"
+1 2 0.3641703 l "isa"
+3 2 0.5438066 l "isa"
+2 3 0.3039355 l "isa"
+4 2 0.4422014 l "isa"
+2 4 0.2930250 l "isa"
+1 2 0.3641703 l "substring"
+2 1 0.2857514 l "substring"
+1 3 0.1680149 l "substring"
+3 1 0.2358819 l "substring"
+1 4 0.1645387 l "substring"
+4 1 0.1948352 l "substring"
+2 3 0.3039355 l "substring"
+3 2 0.5438066 l "substring"
+2 4 0.2930250 l "substring"
+4 2 0.4422014 l "substring"
+2 1 0.2857514 l "isa"
+1 2 0.3641703 l "isa"
+3 2 0.5438066 l "isa"
+2 3 0.3039355 l "isa"
+4 2 0.4422014 l "isa"
+2 4 0.2930250 l "isa"
+1 2 0.3641703 l "substring"
+2 1 0.2857514 l "substring"
+1 3 0.1680149 l "substring"
+3 1 0.2358819 l "substring"
+1 4 0.1645387 l "substring"
+4 1 0.1948352 l "substring"
+2 3 0.3039355 l "substring"
+3 2 0.5438066 l "substring"
+2 4 0.2930250 l "substring"
+4 2 0.4422014 l "substring"
+*Edges

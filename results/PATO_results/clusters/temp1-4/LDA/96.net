@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Dales Pony" ellipse
+2 "Dülmen Pony" ellipse
+*Arcs
+1 2 0.5450274 l "distance"
+2 1 0.5450274 l "distance"
+1 2 0.5450274 l "distance"
+2 1 0.5450274 l "distance"
+*Edges

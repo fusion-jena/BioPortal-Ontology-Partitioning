@@ -1,0 +1,59 @@
+*Vertices 8
+1 "Placebo controlled study" ellipse
+2 "control group study arm" ellipse
+3 "control trials study arm" ellipse
+4 "off label use study arm" ellipse
+5 "open label trial study arm" ellipse
+6 "placebo" ellipse
+7 "placebo effect" ellipse
+8 "Study arm" ellipse
+*Arcs
+2 8 0.6111111 l "isa"
+8 2 0.1561326 l "isa"
+3 8 0.7586207 l "isa"
+8 3 0.1561326 l "isa"
+4 8 0.7586207 l "isa"
+8 4 0.1561326 l "isa"
+5 8 0.7586207 l "isa"
+8 5 0.1561326 l "isa"
+6 8 0.2381465 l "isa"
+8 6 0.0576626 l "isa"
+7 8 0.3280160 l "isa"
+8 7 0.0597325 l "isa"
+1 6 0.3528034 l "substring"
+6 1 0.2650144 l "substring"
+2 8 0.6111111 l "substring"
+8 2 0.1561326 l "substring"
+3 8 0.7586207 l "substring"
+8 3 0.1561326 l "substring"
+4 8 0.7586207 l "substring"
+8 4 0.1561326 l "substring"
+5 8 0.7586207 l "substring"
+8 5 0.1561326 l "substring"
+6 7 0.2650144 l "substring"
+7 6 0.3523737 l "substring"
+2 8 0.6111111 l "isa"
+8 2 0.1561326 l "isa"
+3 8 0.7586207 l "isa"
+8 3 0.1561326 l "isa"
+4 8 0.7586207 l "isa"
+8 4 0.1561326 l "isa"
+5 8 0.7586207 l "isa"
+8 5 0.1561326 l "isa"
+6 8 0.2381465 l "isa"
+8 6 0.0576626 l "isa"
+7 8 0.3280160 l "isa"
+8 7 0.0597325 l "isa"
+1 6 0.3528034 l "substring"
+6 1 0.2650144 l "substring"
+2 8 0.6111111 l "substring"
+8 2 0.1561326 l "substring"
+3 8 0.7586207 l "substring"
+8 3 0.1561326 l "substring"
+4 8 0.7586207 l "substring"
+8 4 0.1561326 l "substring"
+5 8 0.7586207 l "substring"
+8 5 0.1561326 l "substring"
+6 7 0.2650144 l "substring"
+7 6 0.3523737 l "substring"
+*Edges

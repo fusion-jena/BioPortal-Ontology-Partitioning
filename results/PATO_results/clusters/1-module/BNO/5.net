@@ -1,0 +1,42 @@
+*Vertices 11
+1 "Diet Meals Served" ellipse
+2 "Diet Plan" ellipse
+3 "Enteral" ellipse
+4 "Formula" ellipse
+5 "Inpatient" ellipse
+6 "Outpatient" ellipse
+7 "Parenteral" ellipse
+8 "Regular" ellipse
+9 "Snacks" ellipse
+10 "Theraputic" ellipse
+11 "Whole Food" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.1666667 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.3333333 l "isa"
+4 10 0.3333333 l "isa"
+10 4 0.2500000 l "isa"
+5 1 0.2000000 l "isa"
+1 5 0.3333333 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.3333333 l "isa"
+7 4 0.3333333 l "isa"
+4 7 0.3333333 l "isa"
+8 2 0.5000000 l "isa"
+2 8 0.1666667 l "isa"
+8 10 0.5000000 l "isa"
+10 8 0.2500000 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.1666667 l "isa"
+10 2 0.2500000 l "isa"
+2 10 0.1666667 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.2500000 l "isa"
+3 7 0.6666667 l "substring"
+7 3 0.6666667 l "substring"
+3 7 0.6666667 l "distance"
+7 3 0.6666667 l "distance"
+5 6 0.2000000 l "distance"
+6 5 0.5000000 l "distance"
+*Edges

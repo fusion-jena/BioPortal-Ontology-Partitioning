@@ -1,0 +1,22 @@
+*Vertices 3
+1 "elemental molecule" ellipse
+2 "molecule" ellipse
+3 "organic molecule" ellipse
+*Arcs
+1 2 0.3556454 l "isa"
+2 1 0.2351520 l "isa"
+3 2 0.3540212 l "isa"
+2 3 0.2351520 l "isa"
+1 2 0.3556454 l "substring"
+2 1 0.2351520 l "substring"
+2 3 0.2351520 l "substring"
+3 2 0.3540212 l "substring"
+1 2 0.3556454 l "isa"
+2 1 0.2351520 l "isa"
+3 2 0.3540212 l "isa"
+2 3 0.2351520 l "isa"
+1 2 0.3556454 l "substring"
+2 1 0.2351520 l "substring"
+2 3 0.2351520 l "substring"
+3 2 0.3540212 l "substring"
+*Edges

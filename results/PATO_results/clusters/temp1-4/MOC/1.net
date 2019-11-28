@@ -1,0 +1,39 @@
+*Vertices 8
+1 "Compound" ellipse
+2 "Chlorofluorocarbon" ellipse
+3 "Chlorophyll" ellipse
+4 "Halon" ellipse
+5 "Hydrochlorofluorocarbon" ellipse
+6 "OrganicCompound" ellipse
+7 "VolatileOrganicCompound" ellipse
+8 "C"
+*Arcs
+3 6 0.5000000 l "isa"
+6 3 0.0833333 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.0833333 l "isa"
+6 1 0.1666667 l "isa"
+1 6 0.4000000 l "isa"
+7 6 0.4000000 l "isa"
+6 7 0.1666667 l "isa"
+1 6 0.4000000 l "substring"
+6 1 0.1666667 l "substring"
+1 7 0.2000000 l "substring"
+7 1 0.2000000 l "substring"
+1 8 0.2000000 l "substring"
+8 1 0.0270270 l "substring"
+2 5 0.5000000 l "substring"
+5 2 0.5000000 l "substring"
+2 8 0.5000000 l "substring"
+8 2 0.0270270 l "substring"
+3 8 0.5000000 l "substring"
+8 3 0.0270270 l "substring"
+5 8 0.5000000 l "substring"
+8 5 0.0270270 l "substring"
+6 7 0.1666667 l "substring"
+7 6 0.4000000 l "substring"
+6 8 0.0833333 l "substring"
+8 6 0.0270270 l "substring"
+7 8 0.2000000 l "substring"
+8 7 0.0270270 l "substring"
+*Edges

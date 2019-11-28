@@ -1,0 +1,41 @@
+*Vertices 6
+1 "interalveolar septum" ellipse
+2 "alveolar capillary bed" ellipse
+3 "alveolar epithelium" ellipse
+4 "alveolar interstitial tissue" ellipse
+5 "primary alveolar septum" ellipse
+6 "secondary alveolar septum" ellipse
+*Arcs
+5 1 0.2543116 l "isa"
+1 5 0.1754442 l "isa"
+6 1 0.2543116 l "isa"
+1 6 0.1754442 l "isa"
+2 5 0.1306772 l "definition"
+5 2 0.2499269 l "definition"
+2 6 0.1306772 l "definition"
+6 2 0.2499269 l "definition"
+3 5 0.1166727 l "definition"
+5 3 0.2484654 l "definition"
+3 6 0.1166727 l "definition"
+6 3 0.2484654 l "definition"
+4 5 0.1049043 l "definition"
+5 4 0.2472961 l "definition"
+4 6 0.1049043 l "definition"
+6 4 0.2472961 l "definition"
+5 1 0.2543116 l "isa"
+1 5 0.1754442 l "isa"
+6 1 0.2543116 l "isa"
+1 6 0.1754442 l "isa"
+2 5 0.1306772 l "definition"
+5 2 0.2499269 l "definition"
+2 6 0.1306772 l "definition"
+6 2 0.2499269 l "definition"
+3 5 0.1166727 l "definition"
+5 3 0.2484654 l "definition"
+3 6 0.1166727 l "definition"
+6 3 0.2484654 l "definition"
+4 5 0.1049043 l "definition"
+5 4 0.2472961 l "definition"
+4 6 0.1049043 l "definition"
+6 4 0.2472961 l "definition"
+*Edges

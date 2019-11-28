@@ -1,0 +1,29 @@
+*Vertices 2
+1 "Proteobacteria" ellipse
+2 "Bacteria" ellipse
+*Arcs
+1 2 0.6314242 l "isa"
+2 1 0.4879283 l "isa"
+1 2 0.6314242 l "substring"
+2 1 0.4879283 l "substring"
+1 2 0.6314242 l "isa"
+2 1 0.4879283 l "isa"
+1 2 0.6314242 l "substring"
+2 1 0.4879283 l "substring"
+1 2 0.6314242 l "isa"
+2 1 0.4879283 l "isa"
+1 2 0.6314242 l "substring"
+2 1 0.4879283 l "substring"
+1 2 0.6314242 l "isa"
+2 1 0.4879283 l "isa"
+1 2 0.6314242 l "substring"
+2 1 0.4879283 l "substring"
+1 2 0.6314242 l "isa"
+2 1 0.4879283 l "isa"
+1 2 0.6314242 l "substring"
+2 1 0.4879283 l "substring"
+1 2 0.6314242 l "isa"
+2 1 0.4879283 l "isa"
+1 2 0.6314242 l "substring"
+2 1 0.4879283 l "substring"
+*Edges

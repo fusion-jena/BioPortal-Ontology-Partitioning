@@ -1,0 +1,21 @@
+*Vertices 2
+1 "submucosal gland epithelial cell" ellipse
+2 "submucosal gland epithelial cell" ellipse
+*Arcs
+1 2 0.1720325 l "substring"
+2 1 0.2309958 l "substring"
+1 2 0.1720325 l "distance"
+2 1 0.2309958 l "distance"
+1 2 0.1720325 l "substring"
+2 1 0.2309958 l "substring"
+1 2 0.1720325 l "distance"
+2 1 0.2309958 l "distance"
+1 2 0.1720325 l "substring"
+2 1 0.2309958 l "substring"
+1 2 0.1720325 l "distance"
+2 1 0.2309958 l "distance"
+1 2 0.1720325 l "substring"
+2 1 0.2309958 l "substring"
+1 2 0.1720325 l "distance"
+2 1 0.2309958 l "distance"
+*Edges

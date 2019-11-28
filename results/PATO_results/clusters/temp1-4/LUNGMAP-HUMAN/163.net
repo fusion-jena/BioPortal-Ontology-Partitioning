@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Yorkshire" ellipse
+2 "Berkshire" ellipse
+*Arcs
+1 2 0.2793077 l "distance"
+2 1 0.2793077 l "distance"
+1 2 0.2793077 l "distance"
+2 1 0.2793077 l "distance"
+1 2 0.2793077 l "distance"
+2 1 0.2793077 l "distance"
+*Edges

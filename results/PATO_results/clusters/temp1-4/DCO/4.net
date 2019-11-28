@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Drug" ellipse
+2 "d" ellipse
+*Arcs
+1 2 0.2000000 l "substring"
+2 1 0.0289855 l "substring"
+1 2 0.2000000 l "distance"
+2 1 0.0289855 l "distance"
+*Edges

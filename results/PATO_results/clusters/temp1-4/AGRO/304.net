@@ -1,0 +1,13 @@
+*Vertices 2
+1 "rate profile" ellipse
+2 "cyclic rate profile" ellipse
+*Arcs
+2 1 0.4697096 l "isa"
+1 2 0.3968601 l "isa"
+1 2 0.3968601 l "substring"
+2 1 0.4697096 l "substring"
+2 1 0.4697096 l "isa"
+1 2 0.3968601 l "isa"
+1 2 0.3968601 l "substring"
+2 1 0.4697096 l "substring"
+*Edges

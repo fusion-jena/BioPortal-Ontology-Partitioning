@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hydrological condensation process" ellipse
+2 "condensation process" ellipse
+*Arcs
+1 2 0.1789981 l "isa"
+2 1 0.1542732 l "isa"
+1 2 0.1789981 l "substring"
+2 1 0.1542732 l "substring"
+1 2 0.1789981 l "isa"
+2 1 0.1542732 l "isa"
+1 2 0.1789981 l "substring"
+2 1 0.1542732 l "substring"
+*Edges

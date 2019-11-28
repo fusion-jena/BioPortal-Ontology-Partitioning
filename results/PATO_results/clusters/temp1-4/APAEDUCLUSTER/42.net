@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Muscular_Atrophy" ellipse
+2 "Muscular_Dystrophy" ellipse
+*Arcs
+1 2 0.5451533 l "distance"
+2 1 0.5451533 l "distance"
+1 2 0.5451533 l "distance"
+2 1 0.5451533 l "distance"
+*Edges

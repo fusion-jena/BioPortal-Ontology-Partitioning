@@ -1,0 +1,11 @@
+*Vertices 2
+1 "water vapour" ellipse
+2 "atmospheric water vapour" ellipse
+*Arcs
+2 1 0.1875000 l "isa"
+1 2 0.2000000 l "isa"
+2 1 0.1875000 l "definition"
+1 2 0.2000000 l "definition"
+1 2 0.2000000 l "substring"
+2 1 0.1875000 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Resource" ellipse
+2 "Distribution" ellipse
+*Arcs
+2 1 0.1538462 l "URL d'accès"
+1 2 0.3333333 l "URL d'accès"
+2 1 0.1538462 l "download URL"
+1 2 0.3333333 l "download URL"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 4
+1 "TherapyAim" ellipse
+2 "hasTherapyAim"
+3 "Curative"
+4 "Palliative"
+*Arcs
+1 3 0.1082387 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.1082387 l "definition"
+4 1 1.0000000 l "definition"
+1 2 0.1802029 l "substring"
+2 1 0.4360542 l "substring"
+1 2 0.1802029 l "distance"
+2 1 0.4360542 l "distance"
+1 3 0.1082387 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.1082387 l "definition"
+4 1 1.0000000 l "definition"
+1 2 0.1802029 l "substring"
+2 1 0.4360542 l "substring"
+1 2 0.1802029 l "distance"
+2 1 0.4360542 l "distance"
+*Edges

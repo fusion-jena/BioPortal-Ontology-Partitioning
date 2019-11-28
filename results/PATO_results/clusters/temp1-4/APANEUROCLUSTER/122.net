@@ -1,0 +1,11 @@
+*Vertices 2
+1 "School_Truancy" ellipse
+2 "Truancy" ellipse
+*Arcs
+1 2 0.3176939 l "substring"
+2 1 0.4030684 l "substring"
+1 2 0.3176939 l "substring"
+2 1 0.4030684 l "substring"
+1 2 0.3176939 l "substring"
+2 1 0.4030684 l "substring"
+*Edges

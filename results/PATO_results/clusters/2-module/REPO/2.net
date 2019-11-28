@@ -1,0 +1,129 @@
+*Vertices 38
+1 "abnormal gestational length" ellipse
+2 "abnormal parturition" ellipse
+3 "abortion" ellipse
+4 "abortion rate" ellipse
+5 "antepartum death" ellipse
+6 "conception rate" ellipse
+7 "conception rate all services" ellipse
+8 "conception rate after first service" ellipse
+9 "100 day in calf rate" ellipse
+10 "200 days not in calf rate" ellipse
+11 "dystocia" ellipse
+12 "early neonatal lethality" ellipse
+13 "embryonic lethality" ellipse
+14 "Failure to conceive culling rate" ellipse
+15 "foetal lethality" ellipse
+16 "gestation period" ellipse
+17 "infertile rate" ellipse
+18 "interval between first and last service" ellipse
+19 "interval between first service and conception" ellipse
+20 "interval between parturition and conception" ellipse
+21 "interval between parturition and first estrus" ellipse
+22 "Interval between parturition and first service" ellipse
+23 "intrapartum death" ellipse
+24 "late neonatal lethality" ellipse
+25 "lethality-embryonic/perinatal" ellipse
+26 "long gestation period" ellipse
+27 "neonatal lethality" ellipse
+28 "parturition interval" ellipse
+29 "parturition rate" ellipse
+30 "perinatal lethality" ellipse
+31 "pregnancy rate" ellipse
+32 "premature delivery" ellipse
+33 "reproductive culling rate" ellipse
+34 "reproductive failure" ellipse
+35 "reproductive rate" ellipse
+36 "service rate" ellipse
+37 "short gestation period" ellipse
+38 "submission rate" ellipse
+*Arcs
+1 34 0.3333333 l "isa"
+34 1 0.2000000 l "isa"
+2 34 0.3333333 l "isa"
+34 2 0.2000000 l "isa"
+3 15 0.2500000 l "isa"
+15 3 0.5000000 l "isa"
+4 10 0.5000000 l "isa"
+10 4 0.5000000 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.2500000 l "isa"
+6 31 0.2000000 l "isa"
+31 6 0.5000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.4000000 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.4000000 l "isa"
+9 35 1.0000000 l "isa"
+35 9 0.1111111 l "isa"
+10 35 0.5000000 l "isa"
+35 10 0.1111111 l "isa"
+11 2 1.0000000 l "isa"
+2 11 0.3333333 l "isa"
+12 27 1.0000000 l "isa"
+27 12 0.3333333 l "isa"
+13 25 1.0000000 l "isa"
+25 13 0.3333333 l "isa"
+14 33 1.0000000 l "isa"
+33 14 0.5000000 l "isa"
+15 30 0.5000000 l "isa"
+30 15 0.2500000 l "isa"
+16 28 0.3333333 l "isa"
+28 16 0.1666667 l "isa"
+17 35 1.0000000 l "isa"
+35 17 0.1111111 l "isa"
+18 28 1.0000000 l "isa"
+28 18 0.1666667 l "isa"
+19 28 1.0000000 l "isa"
+28 19 0.1666667 l "isa"
+20 28 1.0000000 l "isa"
+28 20 0.1666667 l "isa"
+21 22 1.0000000 l "isa"
+22 21 0.5000000 l "isa"
+22 28 0.5000000 l "isa"
+28 22 0.1666667 l "isa"
+23 3 0.5000000 l "isa"
+3 23 0.2500000 l "isa"
+24 27 1.0000000 l "isa"
+27 24 0.3333333 l "isa"
+25 34 0.3333333 l "isa"
+34 25 0.2000000 l "isa"
+26 1 0.5000000 l "isa"
+1 26 0.3333333 l "isa"
+27 30 0.3333333 l "isa"
+30 27 0.5000000 l "isa"
+29 35 1.0000000 l "isa"
+35 29 0.1111111 l "isa"
+30 25 0.2500000 l "isa"
+25 30 0.3333333 l "isa"
+31 35 0.5000000 l "isa"
+35 31 0.1111111 l "isa"
+32 2 1.0000000 l "isa"
+2 32 0.3333333 l "isa"
+33 35 0.5000000 l "isa"
+35 33 0.1111111 l "isa"
+36 35 1.0000000 l "isa"
+35 36 0.1111111 l "isa"
+37 1 0.5000000 l "isa"
+1 37 0.3333333 l "isa"
+38 35 1.0000000 l "isa"
+35 38 0.1111111 l "isa"
+3 4 0.2500000 l "substring"
+4 3 0.5000000 l "substring"
+6 7 0.4000000 l "substring"
+7 6 1.0000000 l "substring"
+6 8 0.4000000 l "substring"
+8 6 1.0000000 l "substring"
+12 27 1.0000000 l "substring"
+27 12 0.3333333 l "substring"
+16 26 0.3333333 l "substring"
+26 16 0.5000000 l "substring"
+16 37 0.3333333 l "substring"
+37 16 0.5000000 l "substring"
+24 27 1.0000000 l "substring"
+27 24 0.3333333 l "substring"
+5 23 0.5000000 l "distance"
+23 5 0.5000000 l "distance"
+27 30 0.3333333 l "distance"
+30 27 0.5000000 l "distance"
+*Edges

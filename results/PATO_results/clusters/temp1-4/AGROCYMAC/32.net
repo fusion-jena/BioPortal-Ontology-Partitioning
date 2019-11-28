@@ -1,0 +1,41 @@
+*Vertices 6
+1 "agronomic land element" ellipse
+2 "reef" ellipse
+3 "coral reef" ellipse
+4 "elevation" ellipse
+5 "interfluve" ellipse
+6 "marine reef" ellipse
+*Arcs
+3 1 0.3349375 l "isa"
+1 3 0.0913942 l "isa"
+3 6 0.3387873 l "isa"
+6 3 0.1202885 l "isa"
+5 1 0.5027027 l "isa"
+1 5 0.0976972 l "isa"
+5 4 0.4972973 l "isa"
+4 5 0.0651977 l "isa"
+6 2 0.3536891 l "isa"
+2 6 0.0724609 l "isa"
+6 2 0.3536891 l "definition"
+2 6 0.0724609 l "definition"
+2 3 0.0237336 l "substring"
+3 2 0.3262753 l "substring"
+2 6 0.0724609 l "substring"
+6 2 0.3536891 l "substring"
+3 1 0.3349375 l "isa"
+1 3 0.0913942 l "isa"
+3 6 0.3387873 l "isa"
+6 3 0.1202885 l "isa"
+5 1 0.5027027 l "isa"
+1 5 0.0976972 l "isa"
+5 4 0.4972973 l "isa"
+4 5 0.0651977 l "isa"
+6 2 0.3536891 l "isa"
+2 6 0.0724609 l "isa"
+6 2 0.3536891 l "definition"
+2 6 0.0724609 l "definition"
+2 3 0.0237336 l "substring"
+3 2 0.3262753 l "substring"
+2 6 0.0724609 l "substring"
+6 2 0.3536891 l "substring"
+*Edges

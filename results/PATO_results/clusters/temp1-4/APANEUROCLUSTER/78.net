@@ -1,0 +1,11 @@
+*Vertices 2
+1 "PHAL" ellipse
+2 "Hydrocephalus" ellipse
+*Arcs
+1 2 0.0113779 l "substring"
+2 1 0.3764390 l "substring"
+1 2 0.0113779 l "substring"
+2 1 0.3764390 l "substring"
+1 2 0.0113779 l "substring"
+2 1 0.3764390 l "substring"
+*Edges

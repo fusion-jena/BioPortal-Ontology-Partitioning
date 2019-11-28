@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Ecosystem role" ellipse
+2 "Ecosystem roles text" ellipse
+*Arcs
+2 1 0.2857143 l "definition"
+1 2 0.2000000 l "definition"
+1 2 0.2000000 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

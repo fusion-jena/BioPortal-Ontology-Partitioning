@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Human_with_DSM-5_Autism_Diagnosis" ellipse
+2 "Human_with_DSM-IV_Autism_Diagnosis" ellipse
+*Arcs
+1 2 0.1074005 l "distance"
+2 1 0.1310214 l "distance"
+1 2 0.1074005 l "distance"
+2 1 0.1310214 l "distance"
+1 2 0.1074005 l "distance"
+2 1 0.1310214 l "distance"
+*Edges

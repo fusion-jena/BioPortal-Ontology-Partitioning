@@ -1,0 +1,21 @@
+*Vertices 4
+1 "column inner diameter" ellipse
+2 "inner diameter" ellipse
+3 "cell diameter" ellipse
+4 "diameter" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.5000000 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.2500000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.2500000 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.5000000 l "substring"
+1 4 0.3333333 l "substring"
+4 1 0.1250000 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.2500000 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.2500000 l "substring"
+*Edges

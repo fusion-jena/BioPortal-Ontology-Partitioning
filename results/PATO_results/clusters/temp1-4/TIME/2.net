@@ -1,0 +1,17 @@
+*Vertices 2
+1 "series" ellipse
+2 "subseries" ellipse
+*Arcs
+1 2 0.5319083 l "substring"
+2 1 0.6006591 l "substring"
+1 2 0.5319083 l "distance"
+2 1 0.6006591 l "distance"
+1 2 0.5319083 l "substring"
+2 1 0.6006591 l "substring"
+1 2 0.5319083 l "distance"
+2 1 0.6006591 l "distance"
+1 2 0.5319083 l "substring"
+2 1 0.6006591 l "substring"
+1 2 0.5319083 l "distance"
+2 1 0.6006591 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "COQ8A" ellipse
+2 "COQ8B" ellipse
+*Arcs
+1 2 0.1936659 l "distance"
+2 1 0.1765162 l "distance"
+1 2 0.1936659 l "distance"
+2 1 0.1765162 l "distance"
+1 2 0.1936659 l "distance"
+2 1 0.1765162 l "distance"
+1 2 0.1936659 l "distance"
+2 1 0.1765162 l "distance"
+1 2 0.1936659 l "distance"
+2 1 0.1765162 l "distance"
+1 2 0.1936659 l "distance"
+2 1 0.1765162 l "distance"
+*Edges

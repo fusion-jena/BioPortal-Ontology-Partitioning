@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Cobocistat" ellipse
+2 "OWLClass_22d28b86_3ddf_4f43_9b40_8cbeede8d2e5" ellipse
+*Arcs
+1 2 0.1690146 l "definition"
+2 1 0.3596344 l "definition"
+1 2 0.1690146 l "definition"
+2 1 0.3596344 l "definition"
+1 2 0.1690146 l "definition"
+2 1 0.3596344 l "definition"
+*Edges

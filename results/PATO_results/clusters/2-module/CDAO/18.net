@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Branch" ellipse
+2 "BranchingNode" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.1666667 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "nil"
+2 "units"
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.0689655 l "definition"
+1 2 0.0689655 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

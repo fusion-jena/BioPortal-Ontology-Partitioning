@@ -1,0 +1,14 @@
+*Vertices 3
+1 "First generation migrant" ellipse
+2 "Migrant study" ellipse
+3 "Second generation migrant" ellipse
+*Arcs
+1 2 0.1930178 l "isa"
+2 1 0.2218814 l "isa"
+3 2 0.1930178 l "isa"
+2 3 0.2218814 l "isa"
+1 2 0.1930178 l "isa"
+2 1 0.2218814 l "isa"
+3 2 0.1930178 l "isa"
+2 3 0.2218814 l "isa"
+*Edges

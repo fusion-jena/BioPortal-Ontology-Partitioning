@@ -1,0 +1,26 @@
+*Vertices 3
+1 "quantitative analysis assay" ellipse
+2 "assay" ellipse
+3 "analysis assay" ellipse
+*Arcs
+1 3 0.4540902 l "isa"
+3 1 0.3309003 l "isa"
+3 2 0.2871046 l "isa"
+2 3 0.0874995 l "isa"
+1 2 0.1853088 l "substring"
+2 1 0.0411544 l "substring"
+1 3 0.4540902 l "substring"
+3 1 0.3309003 l "substring"
+2 3 0.0874995 l "substring"
+3 2 0.2871046 l "substring"
+1 3 0.4540902 l "isa"
+3 1 0.3309003 l "isa"
+3 2 0.2871046 l "isa"
+2 3 0.0874995 l "isa"
+1 2 0.1853088 l "substring"
+2 1 0.0411544 l "substring"
+1 3 0.4540902 l "substring"
+3 1 0.3309003 l "substring"
+2 3 0.0874995 l "substring"
+3 2 0.2871046 l "substring"
+*Edges

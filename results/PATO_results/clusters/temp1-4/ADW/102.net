@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Transcription factor" ellipse
+2 "Transcription factor" ellipse
+*Arcs
+1 2 0.4778124 l "substring"
+2 1 0.7235003 l "substring"
+1 2 0.4778124 l "distance"
+2 1 0.7235003 l "distance"
+1 2 0.4778124 l "substring"
+2 1 0.7235003 l "substring"
+1 2 0.4778124 l "distance"
+2 1 0.7235003 l "distance"
+*Edges

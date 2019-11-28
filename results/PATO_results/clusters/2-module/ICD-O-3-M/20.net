@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Pigmented nevus, NOS (C44._)" ellipse
+2 "Giant pigmented nevus, NOS (C44._)" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

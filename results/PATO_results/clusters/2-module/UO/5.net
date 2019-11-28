@@ -1,0 +1,15 @@
+*Vertices 4
+1 "luminance unit" ellipse
+2 "illuminance unit" ellipse
+3 "foot candle" ellipse
+4 "foot" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.1666667 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.3333333 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.0588235 l "substring"
+1 2 0.2500000 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

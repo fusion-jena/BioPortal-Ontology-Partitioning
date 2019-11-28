@@ -1,0 +1,30 @@
+*Vertices 3
+1 "port role" ellipse
+2 "out-port role" ellipse
+3 "in-port role" ellipse
+*Arcs
+2 1 0.2735847 l "isa"
+1 2 0.1623105 l "isa"
+3 1 0.3788944 l "isa"
+1 3 0.2612451 l "isa"
+1 2 0.1623105 l "substring"
+2 1 0.2735847 l "substring"
+1 3 0.2612451 l "substring"
+3 1 0.3788944 l "substring"
+1 3 0.2612451 l "distance"
+3 1 0.3788944 l "distance"
+2 3 0.1257230 l "distance"
+3 2 0.1081781 l "distance"
+2 1 0.2735847 l "isa"
+1 2 0.1623105 l "isa"
+3 1 0.3788944 l "isa"
+1 3 0.2612451 l "isa"
+1 2 0.1623105 l "substring"
+2 1 0.2735847 l "substring"
+1 3 0.2612451 l "substring"
+3 1 0.3788944 l "substring"
+1 3 0.2612451 l "distance"
+3 1 0.3788944 l "distance"
+2 3 0.1257230 l "distance"
+3 2 0.1081781 l "distance"
+*Edges

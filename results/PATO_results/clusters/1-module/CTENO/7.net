@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CL_0002371"
+2 "CL_0002320"
+*Arcs
+2 1 0.0952381 l "isa"
+1 2 0.0833333 l "isa"
+1 2 0.0833333 l "distance"
+2 1 0.0952381 l "distance"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 5
+1 "phage release by lysis" ellipse
+2 "phage release" ellipse
+3 "cell wall synthesis inhibition" ellipse
+4 "phage budding" ellipse
+5 "phage extrusion" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1250000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1250000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1250000 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.2500000 l "substring"
+*Edges

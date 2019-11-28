@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Absolute risk" ellipse
+2 "Analysis of cohort studies" ellipse
+3 "Attributable risks" ellipse
+4 "Odds ratio" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2641738 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2641738 l "isa"
+4 2 0.3635328 l "isa"
+2 4 0.1815657 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2641738 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2641738 l "isa"
+4 2 0.3635328 l "isa"
+2 4 0.1815657 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2641738 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2641738 l "isa"
+4 2 0.3635328 l "isa"
+2 4 0.1815657 l "isa"
+*Edges

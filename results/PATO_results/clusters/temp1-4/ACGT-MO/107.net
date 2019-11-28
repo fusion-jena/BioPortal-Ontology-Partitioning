@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Transport problems" ellipse
+2 "Access to transport and related findings" ellipse
+3 "Housing, local environment and transport finding" ellipse
+4 "Lack of access to transportation" ellipse
+*Arcs
+1 2 0.2989950 l "isa"
+2 1 0.2911866 l "isa"
+2 3 0.2603550 l "isa"
+3 2 0.1823668 l "isa"
+4 1 0.1466739 l "isa"
+1 4 0.2788945 l "isa"
+1 2 0.2989950 l "isa"
+2 1 0.2911866 l "isa"
+2 3 0.2603550 l "isa"
+3 2 0.1823668 l "isa"
+4 1 0.1466739 l "isa"
+1 4 0.2788945 l "isa"
+*Edges

@@ -1,0 +1,30 @@
+*Vertices 7
+1 "model parameter estimation" ellipse
+2 "ordinary least squares estimation" ellipse
+3 "weighted least squares estimation" ellipse
+4 "generalized least squares estimation" ellipse
+5 "iteratively reweighted least squares estimation" ellipse
+6 "feasible generalized least squares estimation" ellipse
+7 "Model Parameter Estimation" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1250000 l "isa"
+4 1 0.3333333 l "isa"
+1 4 0.1250000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1250000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.6666667 l "isa"
+7 1 0.7500000 l "with Estimation Method"
+1 7 0.3750000 l "with Estimation Method"
+1 7 0.3750000 l "substring"
+7 1 0.7500000 l "substring"
+3 5 0.5000000 l "substring"
+5 3 0.5000000 l "substring"
+4 6 0.6666667 l "substring"
+6 4 1.0000000 l "substring"
+1 7 0.3750000 l "distance"
+7 1 0.7500000 l "distance"
+*Edges

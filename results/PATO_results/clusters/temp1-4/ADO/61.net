@@ -1,0 +1,27 @@
+*Vertices 6
+1 "N-methyl-D-aspartate receptor" ellipse
+2 "Non-GPCR" ellipse
+3 "Receptor" ellipse
+4 "lipoprotein receptor" ellipse
+5 "proliferator-activated receptor gamma" ellipse
+6 "prostaglandin receptor" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1176471 l "isa"
+2 3 0.3333333 l "isa"
+3 2 0.0588235 l "isa"
+4 3 0.6666667 l "isa"
+3 4 0.1176471 l "isa"
+5 3 0.6666667 l "isa"
+3 5 0.1176471 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.3333333 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.1176471 l "substring"
+3 4 0.1176471 l "substring"
+4 3 0.6666667 l "substring"
+3 5 0.1176471 l "substring"
+5 3 0.6666667 l "substring"
+3 6 0.0588235 l "substring"
+6 3 0.5000000 l "substring"
+*Edges

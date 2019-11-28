@@ -1,0 +1,11 @@
+*Vertices 2
+1 "XMLElement2ObjectPropertyInstanceValueMap" ellipse
+2 "string"
+*Arcs
+1 2 0.4285714 l "hasKeyAttributeName"
+2 1 0.3000000 l "hasKeyAttributeName"
+1 2 0.4285714 l "hasKeyAttributePrefix"
+2 1 0.3000000 l "hasKeyAttributePrefix"
+1 2 0.4285714 l "hasKeyPropertyName"
+2 1 0.3000000 l "hasKeyPropertyName"
+*Edges

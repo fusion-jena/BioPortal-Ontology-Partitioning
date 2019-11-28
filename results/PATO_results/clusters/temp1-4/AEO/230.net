@@ -1,0 +1,43 @@
+*Vertices 4
+1 "mild stage context" ellipse
+2 "moderate stage context" ellipse
+3 "severe stage context" ellipse
+4 "stage context" ellipse
+*Arcs
+1 4 0.4147921 l "isa"
+4 1 0.2135511 l "isa"
+2 4 0.3077904 l "isa"
+4 2 0.1980732 l "isa"
+3 4 0.4873134 l "isa"
+4 3 0.2222726 l "isa"
+1 4 0.4147921 l "substring"
+4 1 0.2135511 l "substring"
+2 4 0.3077904 l "substring"
+4 2 0.1980732 l "substring"
+3 4 0.4873134 l "substring"
+4 3 0.2222726 l "substring"
+1 4 0.4147921 l "isa"
+4 1 0.2135511 l "isa"
+2 4 0.3077904 l "isa"
+4 2 0.1980732 l "isa"
+3 4 0.4873134 l "isa"
+4 3 0.2222726 l "isa"
+1 4 0.4147921 l "substring"
+4 1 0.2135511 l "substring"
+2 4 0.3077904 l "substring"
+4 2 0.1980732 l "substring"
+3 4 0.4873134 l "substring"
+4 3 0.2222726 l "substring"
+1 4 0.4147921 l "isa"
+4 1 0.2135511 l "isa"
+2 4 0.3077904 l "isa"
+4 2 0.1980732 l "isa"
+3 4 0.4873134 l "isa"
+4 3 0.2222726 l "isa"
+1 4 0.4147921 l "substring"
+4 1 0.2135511 l "substring"
+2 4 0.3077904 l "substring"
+4 2 0.1980732 l "substring"
+3 4 0.4873134 l "substring"
+4 3 0.2222726 l "substring"
+*Edges

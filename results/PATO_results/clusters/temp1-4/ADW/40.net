@@ -1,0 +1,9 @@
+*Vertices 2
+1 "galanin" ellipse
+2 "galanin receptor" ellipse
+*Arcs
+1 2 0.3715415 l "substring"
+2 1 0.1692737 l "substring"
+1 2 0.3715415 l "substring"
+2 1 0.1692737 l "substring"
+*Edges

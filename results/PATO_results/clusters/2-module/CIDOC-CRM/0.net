@@ -1,0 +1,120 @@
+*Vertices 29
+1 "Entidade Temporal" ellipse
+2 "Period" ellipse
+3 "Bearbeitung" ellipse
+4 "Beginning of Existence" ellipse
+5 "Conception ou procédure" ellipse
+6 "Data" ellipse
+7 "Material" ellipse
+8 "Daseinsende" ellipse
+9 "Ereignis" ellipse
+10 "Avaliação do Estado Material" ellipse
+11 "Condition State" ellipse
+12 "Beitritt" ellipse
+13 "Austritt" ellipse
+14 "Materieller Gegenstand" ellipse
+15 "Biological Object" ellipse
+16 "Künstlicher Gegenstand" ellipse
+17 "Característica Fabricada" ellipse
+18 "Direitos" ellipse
+19 "Inschrift" ellipse
+20 "Marca" ellipse
+21 "Address" ellipse
+22 "Appellation temporelle" ellipse
+23 "Begriffliche Schöpfung" ellipse
+24 "Death" ellipse
+25 "Legal Object" ellipse
+26 "Addition d'élément" ellipse
+27 "Part Removal" ellipse
+28 "Information Carrier" ellipse
+29 "E93_Place" ellipse
+*Arcs
+15 14 0.3333333 l "isa"
+14 15 0.0769231 l "isa"
+16 14 0.2500000 l "isa"
+14 16 0.0769231 l "isa"
+19 20 0.3333333 l "isa"
+20 19 0.2500000 l "isa"
+11 1 0.1000000 l "isa"
+1 11 0.0312500 l "isa"
+2 1 0.0769231 l "isa"
+1 2 0.0312500 l "isa"
+6 22 0.2500000 l "isa"
+22 6 0.1666667 l "isa"
+9 2 0.0909091 l "isa"
+2 9 0.0769231 l "isa"
+4 9 0.1111111 l "isa"
+9 4 0.0909091 l "isa"
+8 9 0.1250000 l "isa"
+9 8 0.0909091 l "isa"
+23 4 0.1666667 l "isa"
+4 23 0.1111111 l "isa"
+24 8 0.1666667 l "isa"
+8 24 0.1250000 l "isa"
+26 3 0.1666667 l "isa"
+3 26 0.1111111 l "isa"
+27 3 0.1666667 l "isa"
+3 27 0.1111111 l "isa"
+28 16 0.3333333 l "isa"
+16 28 0.2500000 l "isa"
+25 18 0.2500000 l "Gegenstand von"
+18 25 0.3333333 l "Gegenstand von"
+18 25 0.3333333 l "applies to"
+25 18 0.2500000 l "applies to"
+1 1 0.8125000 l "est temporellement égale à"
+1 1 0.8125000 l "est temporellement égale à"
+1 1 0.8125000 l "beendet"
+1 1 0.8125000 l "beendet"
+1 1 0.8125000 l "est terminée par"
+1 1 0.8125000 l "est terminée par"
+1 1 0.8125000 l "beginnt"
+1 1 0.8125000 l "beginnt"
+1 1 0.8125000 l "est commencée par"
+1 1 0.8125000 l "est commencée par"
+1 1 0.8125000 l "a lieu pendant"
+1 1 0.8125000 l "a lieu pendant"
+1 1 0.8125000 l "beinhaltet"
+1 1 0.8125000 l "beinhaltet"
+1 1 0.8125000 l "est partiellement recouverte dans le temps par"
+1 1 0.8125000 l "est partiellement recouverte dans le temps par"
+1 1 0.8125000 l "is overlapped in time by"
+1 1 0.8125000 l "is overlapped in time by"
+1 1 0.8125000 l "est temporellement contiguë avec"
+1 1 0.8125000 l "est temporellement contiguë avec"
+1 1 0.8125000 l "est immédiatement précédé par"
+1 1 0.8125000 l "est immédiatement précédé par"
+1 1 0.8125000 l "a lieu avant"
+1 1 0.8125000 l "a lieu avant"
+1 1 0.8125000 l "a lieu après"
+1 1 0.8125000 l "a lieu après"
+3 7 0.2222222 l "a employé"
+7 3 0.1818182 l "a employé"
+7 3 0.1818182 l "a été employé dans"
+3 7 0.2222222 l "a été employé dans"
+10 11 0.2857143 l "a identifié"
+11 10 0.2000000 l "a identifié"
+11 10 0.2000000 l "est identifié par"
+10 11 0.2857143 l "est identifié par"
+11 11 0.4000000 l "besteht aus"
+11 11 0.4000000 l "besteht aus"
+11 11 0.4000000 l "bildet Teil von"
+11 11 0.4000000 l "bildet Teil von"
+5 7 0.2500000 l "sieht den Gebrauch vor von"
+7 5 0.1818182 l "sieht den Gebrauch vor von"
+7 5 0.1818182 l "est habituellement utilisé par"
+5 7 0.2500000 l "est habituellement utilisé par"
+5 5 0.2500000 l "est associée à"
+5 5 0.2500000 l "est associée à"
+2 2 0.3076923 l "consiste de"
+2 2 0.3076923 l "consiste de"
+2 2 0.3076923 l "bildet Teil von"
+2 2 0.3076923 l "bildet Teil von"
+10 7 0.1428571 l "substring"
+7 10 0.0909091 l "substring"
+20 6 0.2500000 l "distance"
+6 20 0.2500000 l "distance"
+6 24 0.2500000 l "distance"
+24 6 0.1666667 l "distance"
+12 13 0.1428571 l "distance"
+13 12 0.1428571 l "distance"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 2
+1 "WBC" ellipse
+2 "WBCCount" ellipse
+*Arcs
+1 2 0.0294990 l "definition"
+2 1 0.2492113 l "definition"
+1 2 0.0294990 l "substring"
+2 1 0.2492113 l "substring"
+1 2 0.0294990 l "definition"
+2 1 0.2492113 l "definition"
+1 2 0.0294990 l "substring"
+2 1 0.2492113 l "substring"
+1 2 0.0294990 l "definition"
+2 1 0.2492113 l "definition"
+1 2 0.0294990 l "substring"
+2 1 0.2492113 l "substring"
+1 2 0.0294990 l "definition"
+2 1 0.2492113 l "definition"
+1 2 0.0294990 l "substring"
+2 1 0.2492113 l "substring"
+1 2 0.0294990 l "definition"
+2 1 0.2492113 l "definition"
+1 2 0.0294990 l "substring"
+2 1 0.2492113 l "substring"
+*Edges

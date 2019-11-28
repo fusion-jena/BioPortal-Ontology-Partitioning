@@ -1,0 +1,12 @@
+*Vertices 3
+1 "NCBIID" ellipse
+2 "has_ncbiid"
+3 "has_ncbilink"
+*Arcs
+1 3 0.2000000 l "definition"
+3 1 0.5000000 l "definition"
+1 2 0.2000000 l "substring"
+2 1 0.3333333 l "substring"
+2 3 0.3333333 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

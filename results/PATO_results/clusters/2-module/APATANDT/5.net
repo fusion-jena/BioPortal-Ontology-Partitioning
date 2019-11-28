@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Kuder_Occupational_Interest_Survey" ellipse
+2 "Kuder_Preference_Record" ellipse
+3 "Least_Preferred_Coworker_Scale" ellipse
+4 "Occupational_Interest_Measures" ellipse
+5 "Preference_Measures" ellipse
+6 "Strong_Vocational_Interest_Blank" ellipse
+7 "Wilson_Patterson_Conservatism_Scale" ellipse
+8 "AttitudeInterestMeasures" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.1000000 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.1000000 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.1000000 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1000000 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.1000000 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.1000000 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1000000 l "isa"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 3
+1 "enzyme_function" ellipse
+2 "enzyme" ellipse
+3 "Container"
+*Arcs
+2 3 0.3636364 l "hasAnnotation"
+3 2 0.3333333 l "hasAnnotation"
+2 3 0.3636364 l "hasClassAnnotation"
+3 2 0.3333333 l "hasClassAnnotation"
+2 3 0.3636364 l "hasCommentAnnotation"
+3 2 0.3333333 l "hasCommentAnnotation"
+2 3 0.3636364 l "hasSysnameAnnotation"
+3 2 0.3333333 l "hasSysnameAnnotation"
+1 2 1.0000000 l "substring"
+2 1 0.0909091 l "substring"
+*Edges

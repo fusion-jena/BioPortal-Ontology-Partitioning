@@ -1,0 +1,29 @@
+*Vertices 2
+1 "Registry" ellipse
+2 "Movement Registry" ellipse
+*Arcs
+2 1 0.8773773 l "isa"
+1 2 0.6333650 l "isa"
+1 2 0.6333650 l "substring"
+2 1 0.8773773 l "substring"
+2 1 0.8773773 l "isa"
+1 2 0.6333650 l "isa"
+1 2 0.6333650 l "substring"
+2 1 0.8773773 l "substring"
+2 1 0.8773773 l "isa"
+1 2 0.6333650 l "isa"
+1 2 0.6333650 l "substring"
+2 1 0.8773773 l "substring"
+2 1 0.8773773 l "isa"
+1 2 0.6333650 l "isa"
+1 2 0.6333650 l "substring"
+2 1 0.8773773 l "substring"
+2 1 0.8773773 l "isa"
+1 2 0.6333650 l "isa"
+1 2 0.6333650 l "substring"
+2 1 0.8773773 l "substring"
+2 1 0.8773773 l "isa"
+1 2 0.6333650 l "isa"
+1 2 0.6333650 l "substring"
+2 1 0.8773773 l "substring"
+*Edges

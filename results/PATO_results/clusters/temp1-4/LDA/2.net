@@ -1,0 +1,9 @@
+*Vertices 2
+1 "RX3" ellipse
+2 "SRD" ellipse
+*Arcs
+1 2 0.0629647 l "distance"
+2 1 0.0461109 l "distance"
+1 2 0.0629647 l "distance"
+2 1 0.0461109 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 4
+1 "IL-17A" ellipse
+2 "STK17A" ellipse
+3 "TH17" ellipse
+4 "Th17" ellipse
+*Arcs
+3 4 0.0555556 l "substring"
+4 3 0.0540541 l "substring"
+1 2 0.0434783 l "distance"
+2 1 0.3333333 l "distance"
+2 3 0.3333333 l "distance"
+3 2 0.0277778 l "distance"
+2 4 0.3333333 l "distance"
+4 2 0.0270270 l "distance"
+3 4 0.0555556 l "distance"
+4 3 0.0540541 l "distance"
+*Edges

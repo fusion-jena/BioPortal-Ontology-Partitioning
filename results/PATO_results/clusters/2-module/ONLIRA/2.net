@@ -1,0 +1,84 @@
+*Vertices 17
+1 "Caudate Lobe" ellipse
+2 "Hepatic Artery" ellipse
+3 "Hepatic Portal Vein" ellipse
+4 "Hepatic Vascularity" ellipse
+5 "Hepatic Vein" ellipse
+6 "Left Hepatic Vein" ellipse
+7 "Left Portal Vein" ellipse
+8 "Liver" ellipse
+9 "Lobe" ellipse
+10 "Middle Hepatic Vein" ellipse
+11 "Parenchyma" ellipse
+12 "Right Hepatic Vein" ellipse
+13 "Venacava Inferior" ellipse
+14 "Density Type"
+15 "hasParenchymaDensityChange"
+16 "hasHepaticVascularity"
+17 "hasLobe"
+*Arcs
+1 9 0.3333333 l "isa"
+9 1 0.1333333 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 0.2000000 l "isa"
+4 3 0.1666667 l "isa"
+5 4 0.1250000 l "isa"
+4 5 0.1666667 l "isa"
+6 5 0.6666667 l "isa"
+5 6 0.2500000 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.2000000 l "isa"
+10 5 0.6666667 l "isa"
+5 10 0.2500000 l "isa"
+12 5 0.6666667 l "isa"
+5 12 0.2500000 l "isa"
+13 4 1.0000000 l "isa"
+4 13 0.1666667 l "isa"
+8 4 0.0370370 l "hasHepaticVascularity"
+4 8 0.1666667 l "hasHepaticVascularity"
+8 9 0.0740741 l "hasLobe"
+9 8 0.1333333 l "hasLobe"
+8 11 0.0370370 l "hasParenchyma"
+11 8 0.3333333 l "hasParenchyma"
+14 8 0.1428571 l "definition"
+8 14 0.0370370 l "definition"
+14 11 0.1428571 l "definition"
+11 14 0.3333333 l "definition"
+8 2 0.0370370 l "definition"
+2 8 0.5000000 l "definition"
+8 16 0.0370370 l "definition"
+16 8 1.0000000 l "definition"
+8 3 0.0370370 l "definition"
+3 8 0.2000000 l "definition"
+8 5 0.0370370 l "definition"
+5 8 0.1250000 l "definition"
+8 6 0.0370370 l "definition"
+6 8 0.3333333 l "definition"
+8 7 0.0370370 l "definition"
+7 8 0.5000000 l "definition"
+8 10 0.0370370 l "definition"
+10 8 0.3333333 l "definition"
+8 12 0.0370370 l "definition"
+12 8 0.3333333 l "definition"
+8 17 0.0370370 l "definition"
+17 8 0.3333333 l "definition"
+8 1 0.0370370 l "definition"
+1 8 0.1666667 l "definition"
+1 9 0.3333333 l "substring"
+9 1 0.1333333 l "substring"
+5 6 0.2500000 l "substring"
+6 5 0.6666667 l "substring"
+5 10 0.2500000 l "substring"
+10 5 0.6666667 l "substring"
+5 12 0.2500000 l "substring"
+12 5 0.6666667 l "substring"
+9 17 0.1333333 l "substring"
+17 9 0.6666667 l "substring"
+11 15 0.3333333 l "substring"
+15 11 0.2500000 l "substring"
+8 9 0.0740741 l "distance"
+9 8 0.1333333 l "distance"
+9 17 0.1333333 l "distance"
+17 9 0.6666667 l "distance"
+*Edges

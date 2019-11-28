@@ -1,0 +1,57 @@
+*Vertices 10
+1 "Human_With_DSM-5_Diagnosis_definition_B_1" ellipse
+2 "Human_with_DSm-IV_definition_A_2_c" ellipse
+3 "Neologisms_idiosyncratic_language" ellipse
+4 "Neologisms_idiosyncratic_language_NotAvailable" ellipse
+5 "Neologisms_idiosyncratic_language_UnknownOrNotAsked" ellipse
+6 "No_Use" ellipse
+7 "No_use_of_neologisms_or_idiosyncratic_language" ellipse
+8 "Occasional_use_of_neologisms_or_idiosyncratic_words_and_phrases" ellipse
+9 "Cinsges_No_Use"
+10 "neologidiolang_Occasional_use_of_neologisms_or_idiosyncratic_words_and_phrases"
+*Arcs
+4 3 0.5711716 l "isa"
+3 4 0.2270336 l "isa"
+5 3 0.5711716 l "isa"
+3 5 0.2270336 l "isa"
+7 3 0.2649296 l "isa"
+3 7 0.0960527 l "isa"
+8 3 0.4795918 l "isa"
+3 8 0.1026017 l "isa"
+1 10 0.0306285 l "definition"
+10 1 0.3123565 l "definition"
+2 10 0.0347807 l "definition"
+10 2 0.3128158 l "definition"
+3 4 0.2270336 l "substring"
+4 3 0.5711716 l "substring"
+3 5 0.2270336 l "substring"
+5 3 0.5711716 l "substring"
+6 7 0.1215043 l "substring"
+7 6 0.2649296 l "substring"
+6 9 0.1173621 l "substring"
+9 6 0.2569220 l "substring"
+8 10 0.5204082 l "substring"
+10 8 0.3748278 l "substring"
+4 3 0.5711716 l "isa"
+3 4 0.2270336 l "isa"
+5 3 0.5711716 l "isa"
+3 5 0.2270336 l "isa"
+7 3 0.2649296 l "isa"
+3 7 0.0960527 l "isa"
+8 3 0.4795918 l "isa"
+3 8 0.1026017 l "isa"
+1 10 0.0306285 l "definition"
+10 1 0.3123565 l "definition"
+2 10 0.0347807 l "definition"
+10 2 0.3128158 l "definition"
+3 4 0.2270336 l "substring"
+4 3 0.5711716 l "substring"
+3 5 0.2270336 l "substring"
+5 3 0.5711716 l "substring"
+6 7 0.1215043 l "substring"
+7 6 0.2649296 l "substring"
+6 9 0.1173621 l "substring"
+9 6 0.2569220 l "substring"
+8 10 0.5204082 l "substring"
+10 8 0.3748278 l "substring"
+*Edges

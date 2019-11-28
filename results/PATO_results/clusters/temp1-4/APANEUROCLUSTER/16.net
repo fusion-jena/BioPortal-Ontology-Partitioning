@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Blind" ellipse
+2 "Color_Blindness" ellipse
+*Arcs
+1 2 0.0477941 l "substring"
+2 1 0.5074431 l "substring"
+1 2 0.0477941 l "substring"
+2 1 0.5074431 l "substring"
+1 2 0.0477941 l "substring"
+2 1 0.5074431 l "substring"
+*Edges

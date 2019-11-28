@@ -1,0 +1,13 @@
+*Vertices 4
+1 "AbdominalObesity"
+2 "AfterHeartTransplantationPopulation"
+3 "Diabetes"
+4 "LowerPeakDiastolicBloodPressure"
+*Arcs
+1 2 0.1000000 l "definition"
+2 1 0.3333333 l "definition"
+3 2 0.0666667 l "definition"
+2 3 0.3333333 l "definition"
+4 2 0.1000000 l "definition"
+2 4 0.3333333 l "definition"
+*Edges

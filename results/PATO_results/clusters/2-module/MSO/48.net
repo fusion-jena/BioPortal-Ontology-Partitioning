@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Igfbp-3" ellipse
+2 "Igfbp3r" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

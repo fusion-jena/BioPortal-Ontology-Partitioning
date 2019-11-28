@@ -1,0 +1,29 @@
+*Vertices 8
+1 "Consistently_Nods_Spontaneously" ellipse
+2 "Never_Nods_Spontaneously" ellipse
+3 "Nodding" ellipse
+4 "Not_available_nodding" ellipse
+5 "Sometimes_Nods_Spotaneously" ellipse
+6 "Unknown_Nodding" ellipse
+7 "Sometimes_Nodes_Spontaneously"
+8 "Never_Nodes_Spontaneously"
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1250000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.1250000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2500000 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.1250000 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2500000 l "isa"
+3 4 0.2500000 l "substring"
+4 3 1.0000000 l "substring"
+3 6 0.2500000 l "substring"
+6 3 1.0000000 l "substring"
+2 8 0.5000000 l "distance"
+8 2 0.2500000 l "distance"
+5 7 0.5000000 l "distance"
+7 5 0.3333333 l "distance"
+*Edges

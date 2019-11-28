@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CoralDeposit" ellipse
+2 "Deposit" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.3333333 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

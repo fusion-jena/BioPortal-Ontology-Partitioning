@@ -1,0 +1,9 @@
+*Vertices 2
+1 "causal role" ellipse
+2 "consequence" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2659539 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2659539 l "isa"
+*Edges

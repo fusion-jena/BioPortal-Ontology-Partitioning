@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasNSide"
+2 "hasSize"
+*Arcs
+1 2 0.0735623 l "distance"
+2 1 0.0734099 l "distance"
+1 2 0.0735623 l "distance"
+2 1 0.0734099 l "distance"
+1 2 0.0735623 l "distance"
+2 1 0.0734099 l "distance"
+1 2 0.0735623 l "distance"
+2 1 0.0734099 l "distance"
+*Edges

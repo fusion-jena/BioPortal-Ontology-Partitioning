@@ -1,0 +1,18 @@
+*Vertices 3
+1 "bed" ellipse
+2 "radiation reflective quality" ellipse
+3 "albedo" ellipse
+*Arcs
+3 2 0.3171974 l "isa"
+2 3 0.1846105 l "isa"
+1 3 0.0314906 l "substring"
+3 1 0.6828025 l "substring"
+1 3 0.0314906 l "distance"
+3 1 0.6828025 l "distance"
+3 2 0.3171974 l "isa"
+2 3 0.1846105 l "isa"
+1 3 0.0314906 l "substring"
+3 1 0.6828025 l "substring"
+1 3 0.0314906 l "distance"
+3 1 0.6828025 l "distance"
+*Edges

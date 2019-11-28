@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Abstract_Entities" ellipse
+2 "Lemma_Id" ellipse
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 0.1111111 l "isa"
+1 2 0.1111111 l "definition"
+2 1 0.4000000 l "definition"
+*Edges

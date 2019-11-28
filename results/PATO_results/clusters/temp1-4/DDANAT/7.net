@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Eigenschaftsmenge" ellipse
+2 "Eigenschaftsmenge mit ICF-Klassifikation" ellipse
+3 "Eigenschaftsmenge mit ALSFRS-Skalierung" ellipse
+*Arcs
+2 1 0.2144830 l "isa"
+1 2 0.1781918 l "isa"
+3 1 0.2133027 l "isa"
+1 3 0.1781012 l "isa"
+1 2 0.1781918 l "substring"
+2 1 0.2144830 l "substring"
+1 3 0.1781012 l "substring"
+3 1 0.2133027 l "substring"
+2 1 0.2144830 l "isa"
+1 2 0.1781918 l "isa"
+3 1 0.2133027 l "isa"
+1 3 0.1781012 l "isa"
+1 2 0.1781918 l "substring"
+2 1 0.2144830 l "substring"
+1 3 0.1781012 l "substring"
+3 1 0.2133027 l "substring"
+2 1 0.2144830 l "isa"
+1 2 0.1781918 l "isa"
+3 1 0.2133027 l "isa"
+1 3 0.1781012 l "isa"
+1 2 0.1781918 l "substring"
+2 1 0.2144830 l "substring"
+1 3 0.1781012 l "substring"
+3 1 0.2133027 l "substring"
+*Edges

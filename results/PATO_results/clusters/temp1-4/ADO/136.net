@@ -1,0 +1,9 @@
+*Vertices 2
+1 "EGF" ellipse
+2 "VEGF" ellipse
+*Arcs
+1 2 0.0392157 l "substring"
+2 1 0.1176471 l "substring"
+1 2 0.0392157 l "distance"
+2 1 0.1176471 l "distance"
+*Edges

@@ -1,0 +1,61 @@
+*Vertices 18
+1 "Measure" ellipse
+2 "GF_AttributeType" ellipse
+3 "GF_FeatureType" ellipse
+4 "DQ_AccuracyOfATimeMeasurement" ellipse
+5 "DQ_Element" ellipse
+6 "DQ_TemporalAccuracy" ellipse
+7 "DQ_TemporalConsistency" ellipse
+8 "DQ_TemporalValidity" ellipse
+9 "EX_VerticalExtent" ellipse
+10 "MD_ScopeDescription" ellipse
+11 "MD_SpatialAttributeSupplement" ellipse
+12 "evaluationProcedure"
+13 "measureIdentification"
+14 "unitOfMeasure"
+15 "attributeInstances"
+16 "attributes"
+17 "featureInstances"
+18 "features"
+*Arcs
+4 6 0.5000000 l "isa"
+6 4 0.2500000 l "isa"
+6 5 0.2500000 l "isa"
+5 6 0.0434783 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.2500000 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.2500000 l "isa"
+10 2 0.1000000 l "attributeInstances"
+2 10 0.6666667 l "attributeInstances"
+10 2 0.1000000 l "attributes"
+2 10 0.6666667 l "attributes"
+10 3 0.1000000 l "featureInstances"
+3 10 0.6666667 l "featureInstances"
+10 3 0.1000000 l "features"
+3 10 0.6666667 l "features"
+5 12 0.0434783 l "definition"
+12 5 1.0000000 l "definition"
+5 13 0.0434783 l "definition"
+13 5 0.5000000 l "definition"
+9 14 0.0833333 l "definition"
+14 9 0.5000000 l "definition"
+10 15 0.0500000 l "definition"
+15 10 1.0000000 l "definition"
+10 16 0.0500000 l "definition"
+16 10 0.5000000 l "definition"
+10 17 0.0500000 l "definition"
+17 10 1.0000000 l "definition"
+10 18 0.0500000 l "definition"
+18 10 0.5000000 l "definition"
+1 4 0.1111111 l "substring"
+4 1 0.5000000 l "substring"
+1 13 0.1111111 l "substring"
+13 1 0.5000000 l "substring"
+1 14 0.1111111 l "substring"
+14 1 0.5000000 l "substring"
+11 16 0.2000000 l "substring"
+16 11 0.5000000 l "substring"
+1 18 0.1111111 l "distance"
+18 1 0.5000000 l "distance"
+*Edges

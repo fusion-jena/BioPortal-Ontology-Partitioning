@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Female" ellipse
+2 "FemaleHumanBeing" ellipse
+3 "Male" ellipse
+4 "OrganismalEpilation" ellipse
+*Arcs
+2 1 0.1153458 l "definition"
+1 2 0.2699179 l "definition"
+1 2 0.2699179 l "substring"
+2 1 0.1153458 l "substring"
+1 3 0.2592018 l "substring"
+3 1 0.0638347 l "substring"
+2 3 0.0452983 l "substring"
+3 2 0.0261054 l "substring"
+3 4 0.0311177 l "substring"
+4 3 0.2524643 l "substring"
+1 3 0.2592018 l "distance"
+3 1 0.0638347 l "distance"
+2 1 0.1153458 l "definition"
+1 2 0.2699179 l "definition"
+1 2 0.2699179 l "substring"
+2 1 0.1153458 l "substring"
+1 3 0.2592018 l "substring"
+3 1 0.0638347 l "substring"
+2 3 0.0452983 l "substring"
+3 2 0.0261054 l "substring"
+3 4 0.0311177 l "substring"
+4 3 0.2524643 l "substring"
+1 3 0.2592018 l "distance"
+3 1 0.0638347 l "distance"
+2 1 0.1153458 l "definition"
+1 2 0.2699179 l "definition"
+1 2 0.2699179 l "substring"
+2 1 0.1153458 l "substring"
+1 3 0.2592018 l "substring"
+3 1 0.0638347 l "substring"
+2 3 0.0452983 l "substring"
+3 2 0.0261054 l "substring"
+3 4 0.0311177 l "substring"
+4 3 0.2524643 l "substring"
+1 3 0.2592018 l "distance"
+3 1 0.0638347 l "distance"
+*Edges

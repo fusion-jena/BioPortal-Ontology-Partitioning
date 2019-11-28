@@ -1,0 +1,9 @@
+*Vertices 2
+1 "mass flow controller" ellipse
+2 "controller" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.2500000 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.2500000 l "substring"
+*Edges

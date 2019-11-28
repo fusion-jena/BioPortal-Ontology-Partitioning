@@ -1,0 +1,13 @@
+*Vertices 2
+1 "South Devon" ellipse
+2 "South Devon" ellipse
+*Arcs
+1 2 0.5667372 l "substring"
+2 1 0.5667286 l "substring"
+1 2 0.5667372 l "distance"
+2 1 0.5667286 l "distance"
+1 2 0.5667372 l "substring"
+2 1 0.5667286 l "substring"
+1 2 0.5667372 l "distance"
+2 1 0.5667286 l "distance"
+*Edges

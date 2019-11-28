@@ -1,0 +1,13 @@
+*Vertices 2
+1 "azanide" ellipse
+2 "hydridonitrate(2-)" ellipse
+*Arcs
+1 2 0.1810794 l "definition"
+2 1 0.2406076 l "definition"
+2 1 0.2406076 l "definition"
+1 2 0.1810794 l "definition"
+1 2 0.1810794 l "definition"
+2 1 0.2406076 l "definition"
+2 1 0.2406076 l "definition"
+1 2 0.1810794 l "definition"
+*Edges

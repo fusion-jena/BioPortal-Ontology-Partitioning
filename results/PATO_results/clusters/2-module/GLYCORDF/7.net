@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Adduct" ellipse
+2 "Adduct Ion" ellipse
+3 "MS Annotation" ellipse
+4 "MS Fragment Type" ellipse
+5 "MS Property" ellipse
+*Arcs
+1 5 0.2000000 l "isa"
+5 1 0.0909091 l "isa"
+2 5 0.3333333 l "isa"
+5 2 0.0909091 l "isa"
+3 5 0.1666667 l "isa"
+5 3 0.0909091 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.0909091 l "isa"
+3 1 0.1666667 l "has_adduct"
+1 3 0.2000000 l "has_adduct"
+3 4 0.1666667 l "has_fragment_type"
+4 3 0.5000000 l "has_fragment_type"
+1 2 0.4000000 l "has_ion"
+2 1 0.6666667 l "has_ion"
+1 2 0.4000000 l "substring"
+2 1 0.6666667 l "substring"
+*Edges

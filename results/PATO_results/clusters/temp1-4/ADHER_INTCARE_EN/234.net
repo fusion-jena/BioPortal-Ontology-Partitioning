@@ -1,0 +1,26 @@
+*Vertices 3
+1 "ELISA" ellipse
+2 "Elbow" ellipse
+3 "FreeUpperLimbSegment" ellipse
+*Arcs
+2 3 0.2330801 l "isa"
+3 2 0.1403157 l "isa"
+1 2 0.0781540 l "distance"
+2 1 0.2172918 l "distance"
+2 3 0.2330801 l "isa"
+3 2 0.1403157 l "isa"
+1 2 0.0781540 l "distance"
+2 1 0.2172918 l "distance"
+2 3 0.2330801 l "isa"
+3 2 0.1403157 l "isa"
+1 2 0.0781540 l "distance"
+2 1 0.2172918 l "distance"
+2 3 0.2330801 l "isa"
+3 2 0.1403157 l "isa"
+1 2 0.0781540 l "distance"
+2 1 0.2172918 l "distance"
+2 3 0.2330801 l "isa"
+3 2 0.1403157 l "isa"
+1 2 0.0781540 l "distance"
+2 1 0.2172918 l "distance"
+*Edges

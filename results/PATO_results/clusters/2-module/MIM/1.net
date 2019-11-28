@@ -1,0 +1,65 @@
+*Vertices 10
+1 "CatalyticInteraction" ellipse
+2 "Contingency" ellipse
+3 "IntermolecularInteraction" ellipse
+4 "SBO_0000169" ellipse
+5 "SBO_0000170" ellipse
+6 "SBO_0000171" ellipse
+7 "SBO_0000172" ellipse
+8 "SBO_0000178" ellipse
+9 "SBO_0000407" ellipse
+10 "Interaction"
+*Arcs
+1 10 0.5000000 l "isa"
+10 1 0.3333333 l "isa"
+2 10 0.3333333 l "isa"
+10 2 0.1666667 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.3333333 l "isa"
+4 2 0.1250000 l "isa"
+2 4 0.3333333 l "isa"
+5 2 0.1250000 l "isa"
+2 5 0.3333333 l "isa"
+6 5 0.2857143 l "isa"
+5 6 0.2500000 l "isa"
+7 1 0.1428571 l "isa"
+1 7 0.2500000 l "isa"
+8 1 0.1428571 l "isa"
+1 8 0.2500000 l "isa"
+9 4 0.2857143 l "isa"
+4 9 0.2500000 l "isa"
+1 10 0.5000000 l "substring"
+10 1 0.3333333 l "substring"
+3 10 1.0000000 l "substring"
+10 3 0.3333333 l "substring"
+4 5 0.1250000 l "distance"
+5 4 0.1250000 l "distance"
+4 6 0.1250000 l "distance"
+6 4 0.1428571 l "distance"
+4 7 0.1250000 l "distance"
+7 4 0.1428571 l "distance"
+4 8 0.1250000 l "distance"
+8 4 0.1428571 l "distance"
+4 9 0.2500000 l "distance"
+9 4 0.2857143 l "distance"
+5 6 0.2500000 l "distance"
+6 5 0.2857143 l "distance"
+5 7 0.1250000 l "distance"
+7 5 0.1428571 l "distance"
+5 8 0.1250000 l "distance"
+8 5 0.1428571 l "distance"
+5 9 0.1250000 l "distance"
+9 5 0.1428571 l "distance"
+6 7 0.1428571 l "distance"
+7 6 0.1428571 l "distance"
+6 8 0.1428571 l "distance"
+8 6 0.1428571 l "distance"
+6 9 0.1428571 l "distance"
+9 6 0.1428571 l "distance"
+7 8 0.1428571 l "distance"
+8 7 0.1428571 l "distance"
+7 9 0.1428571 l "distance"
+9 7 0.1428571 l "distance"
+8 9 0.1428571 l "distance"
+9 8 0.1428571 l "distance"
+*Edges

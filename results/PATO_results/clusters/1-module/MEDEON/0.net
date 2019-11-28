@@ -1,0 +1,19 @@
+*Vertices 10
+1 "ContributingFactor" ellipse
+2 "RiskFactor" ellipse
+3 "ClinicalProcess" ellipse
+4 "IncidentCharacteristic" ellipse
+5 "Management" ellipse
+6 "MedicalDevice-Equipment" ellipse
+7 "PatientAccident" ellipse
+8 "PatientBehaviour" ellipse
+9 "Process" ellipse
+10 "Resource-OrganizationalManagement" ellipse
+*Arcs
+9 4 0.5000000 l "isa"
+4 9 0.5000000 l "isa"
+3 9 0.5000000 l "substring"
+9 3 0.5000000 l "substring"
+5 10 0.5000000 l "substring"
+10 5 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ammonium compound" ellipse
+2 "onium compound" ellipse
+*Arcs
+1 2 0.2880163 l "substring"
+2 1 0.4279797 l "substring"
+1 2 0.2880163 l "distance"
+2 1 0.4279797 l "distance"
+1 2 0.2880163 l "substring"
+2 1 0.4279797 l "substring"
+1 2 0.2880163 l "distance"
+2 1 0.4279797 l "distance"
+*Edges

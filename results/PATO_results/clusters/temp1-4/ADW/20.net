@@ -1,0 +1,9 @@
+*Vertices 2
+1 "_Behavioral Symptoms of Mild cognitive impairment" ellipse
+2 "_Decrease in planning or organizational skills" ellipse
+*Arcs
+2 1 0.6129032 l "isa"
+1 2 0.1433962 l "isa"
+2 1 0.6129032 l "isa"
+1 2 0.1433962 l "isa"
+*Edges

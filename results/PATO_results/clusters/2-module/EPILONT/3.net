@@ -1,0 +1,58 @@
+*Vertices 19
+1 "Cerebral Hemisphere" ellipse
+2 "Cerebral Palsy" ellipse
+3 "Cognitive" ellipse
+4 "Consciousness" ellipse
+5 "Corpus Callosotomy" ellipse
+6 "Cortical Dyplasia" ellipse
+7 "Epileptogenic" ellipse
+8 "Epileptologist" ellipse
+9 "General_Concepts" ellipse
+10 "Idiopathic" ellipse
+11 "Dieta Ketogénica" ellipse
+12 "Magnetic resonance imaging" ellipse
+13 "Magnetic resonance spectroscopy" ellipse
+14 "Magnetoencephalography" ellipse
+15 "Positron emission tomography" ellipse
+16 "Prognosis" ellipse
+17 "Single-photon emission computed tomography" ellipse
+18 "Spell" ellipse
+19 "Sinapse" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.0344828 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.0344828 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.0344828 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.0344828 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.0344828 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0344828 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0344828 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.0344828 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.0344828 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.0344828 l "isa"
+12 9 1.0000000 l "isa"
+9 12 0.0344828 l "isa"
+13 9 1.0000000 l "isa"
+9 13 0.0344828 l "isa"
+14 9 1.0000000 l "isa"
+9 14 0.0344828 l "isa"
+15 9 1.0000000 l "isa"
+9 15 0.0344828 l "isa"
+16 9 1.0000000 l "isa"
+9 16 0.0344828 l "isa"
+17 9 1.0000000 l "isa"
+9 17 0.0344828 l "isa"
+18 9 1.0000000 l "isa"
+9 18 0.0344828 l "isa"
+19 9 1.0000000 l "isa"
+9 19 0.0344828 l "isa"
+*Edges

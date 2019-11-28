@@ -1,0 +1,13 @@
+*Vertices 2
+1 "halogen molecular entity" ellipse
+2 "halogen" ellipse
+*Arcs
+1 2 0.1818219 l "definition"
+2 1 0.2109490 l "definition"
+1 2 0.1818219 l "substring"
+2 1 0.2109490 l "substring"
+1 2 0.1818219 l "definition"
+2 1 0.2109490 l "definition"
+1 2 0.1818219 l "substring"
+2 1 0.2109490 l "substring"
+*Edges

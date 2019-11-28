@@ -1,0 +1,9 @@
+*Vertices 2
+1 "apoE3-BBB model" ellipse
+2 "apoE4-BBB model" ellipse
+*Arcs
+1 2 0.2194676 l "distance"
+2 1 0.2194676 l "distance"
+1 2 0.2194676 l "distance"
+2 1 0.2194676 l "distance"
+*Edges

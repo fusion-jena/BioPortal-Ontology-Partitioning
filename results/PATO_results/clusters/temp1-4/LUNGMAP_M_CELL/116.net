@@ -1,0 +1,39 @@
+*Vertices 8
+1 "lung" ellipse
+2 "autonomic neuron" ellipse
+3 "cell types" ellipse
+4 "Cell Ontology for Human Lung Maturation" ellipse
+5 "autonomic neuron" ellipse
+6 "cell type" ellipse
+7 "proliferative cell" ellipse
+8 "Cell Ontology for Mouse Lung Maturation" ellipse
+*Arcs
+3 4 0.0849842 l "isa"
+4 3 0.3405012 l "isa"
+2 3 0.1610946 l "isa"
+3 2 0.0809132 l "isa"
+1 4 0.0216453 l "substring"
+4 1 0.3304792 l "substring"
+3 4 0.0849842 l "isa"
+4 3 0.3405012 l "isa"
+2 3 0.1610946 l "isa"
+3 2 0.0809132 l "isa"
+5 6 0.3333333 l "isa"
+6 5 0.0666667 l "isa"
+6 8 0.0666667 l "isa"
+8 6 0.5000000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.0666667 l "isa"
+1 4 0.0216453 l "substring"
+4 1 0.3304792 l "substring"
+1 8 0.0183989 l "substring"
+8 1 0.5000000 l "substring"
+2 5 0.2791796 l "substring"
+5 2 0.6666667 l "substring"
+3 6 0.1402238 l "substring"
+6 3 0.1333333 l "substring"
+2 5 0.2791796 l "distance"
+5 2 0.6666667 l "distance"
+3 6 0.1402238 l "distance"
+6 3 0.1333333 l "distance"
+*Edges

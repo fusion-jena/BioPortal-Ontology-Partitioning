@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Anthropometrics" ellipse
+2 "Anthropometrics BMI" ellipse
+3 "Anthropometrics Height" ellipse
+4 "Anthropometrics Weight" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+3 1 0.7500000 l "isa"
+1 3 0.2500000 l "isa"
+4 1 0.7500000 l "isa"
+1 4 0.2500000 l "isa"
+1 2 0.2500000 l "definition"
+2 1 1.0000000 l "definition"
+1 4 0.2500000 l "definition"
+4 1 0.7500000 l "definition"
+1 3 0.2500000 l "definition"
+3 1 0.7500000 l "definition"
+1 2 0.2500000 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2500000 l "substring"
+3 1 0.7500000 l "substring"
+1 4 0.2500000 l "substring"
+4 1 0.7500000 l "substring"
+3 4 0.2500000 l "distance"
+4 3 0.2500000 l "distance"
+*Edges

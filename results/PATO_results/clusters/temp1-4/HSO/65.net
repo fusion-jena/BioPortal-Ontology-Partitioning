@@ -1,0 +1,7 @@
+*Vertices 2
+1 "anatomical conduit" ellipse
+2 "conduit for"
+*Arcs
+1 2 0.2000000 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

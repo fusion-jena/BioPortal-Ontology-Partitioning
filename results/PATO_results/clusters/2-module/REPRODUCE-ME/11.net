@@ -1,0 +1,34 @@
+*Vertices 11
+1 "CASNumber" ellipse
+2 "Causal Effect" ellipse
+3 "ControlComments" ellipse
+4 "GeneIdentifier" ellipse
+5 "GeneSymbol" ellipse
+6 "Molecular Formula" ellipse
+7 "Molecular Weight" ellipse
+8 "Precondition" ellipse
+9 "QualityControl" ellipse
+10 "Structural Formula" ellipse
+11 "Variable"
+*Arcs
+1 11 1.0000000 l "isa"
+11 1 0.0294118 l "isa"
+2 11 1.0000000 l "isa"
+11 2 0.0294118 l "isa"
+3 11 1.0000000 l "isa"
+11 3 0.0294118 l "isa"
+4 11 1.0000000 l "isa"
+11 4 0.0294118 l "isa"
+5 11 1.0000000 l "isa"
+11 5 0.0294118 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.0294118 l "isa"
+7 11 1.0000000 l "isa"
+11 7 0.0294118 l "isa"
+8 11 1.0000000 l "isa"
+11 8 0.0294118 l "isa"
+9 11 1.0000000 l "isa"
+11 9 0.0294118 l "isa"
+10 11 1.0000000 l "isa"
+11 10 0.0294118 l "isa"
+*Edges

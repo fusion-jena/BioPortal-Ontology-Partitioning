@@ -1,0 +1,26 @@
+*Vertices 5
+1 "Activity" ellipse
+2 "Activity_Alteration" ellipse
+3 "Activity_Intolerance" ellipse
+4 "Activity_Intolerance_Risk" ellipse
+5 "Diversional_Activity_Deficit" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.0952381 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.0952381 l "isa"
+4 1 0.2222222 l "isa"
+1 4 0.0952381 l "isa"
+5 1 0.2500000 l "isa"
+1 5 0.0952381 l "isa"
+1 2 0.0952381 l "substring"
+2 1 0.3333333 l "substring"
+1 3 0.0952381 l "substring"
+3 1 0.2500000 l "substring"
+1 4 0.0952381 l "substring"
+4 1 0.2222222 l "substring"
+1 5 0.0952381 l "substring"
+5 1 0.2500000 l "substring"
+3 4 0.1250000 l "substring"
+4 3 0.1111111 l "substring"
+*Edges

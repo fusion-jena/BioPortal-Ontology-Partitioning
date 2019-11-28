@@ -1,0 +1,13 @@
+*Vertices 2
+1 "lymphatic vessel tunica intima" ellipse
+2 "lymphatic endothelium" ellipse
+*Arcs
+2 1 0.2311543 l "definition"
+1 2 0.2320045 l "definition"
+2 1 0.2311543 l "definition"
+1 2 0.2320045 l "definition"
+2 1 0.2311543 l "definition"
+1 2 0.2320045 l "definition"
+2 1 0.2311543 l "definition"
+1 2 0.2320045 l "definition"
+*Edges

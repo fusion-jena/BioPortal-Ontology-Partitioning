@@ -1,0 +1,93 @@
+*Vertices 26
+1 "Antiparkinsonian" ellipse
+2 "Antipsychotics" ellipse
+3 "Antithyroid_agents" ellipse
+4 "Cardiovascular" ellipse
+5 "Cytostatics" ellipse
+6 "Gastrointestinal" ellipse
+7 "Integumentary" ellipse
+8 "Muscle_relaxants" ellipse
+9 "Musculoskeletal" ellipse
+10 "Neurological" ellipse
+11 "Respiratory" ellipse
+12 "Review_of_systems" ellipse
+13 "Topical_intranasal_drugs" ellipse
+14 "age" ellipse
+15 "allergic_immunologic" ellipse
+16 "anti-infectious_drugs" ellipse
+17 "anti-inflammatory_drugs" ellipse
+18 "antiepileptic_drugs" ellipse
+19 "antimigraine_drugs" ellipse
+20 "cardiovascular_drugs" ellipse
+21 "drugs" ellipse
+22 "endocrine" ellipse
+23 "hematologic_lymphatic" ellipse
+24 "medication" ellipse
+25 "psychiatric" ellipse
+26 "psychiatric_medication" ellipse
+*Arcs
+1 24 1.0000000 l "isa"
+24 1 0.0625000 l "isa"
+2 24 1.0000000 l "isa"
+24 2 0.0625000 l "isa"
+3 24 0.5000000 l "isa"
+24 3 0.0625000 l "isa"
+4 12 0.5000000 l "isa"
+12 4 0.0714286 l "isa"
+5 24 1.0000000 l "isa"
+24 5 0.0625000 l "isa"
+6 12 1.0000000 l "isa"
+12 6 0.0714286 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.0714286 l "isa"
+8 24 1.0000000 l "isa"
+24 8 0.0625000 l "isa"
+9 12 1.0000000 l "isa"
+12 9 0.0714286 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.0714286 l "isa"
+11 12 1.0000000 l "isa"
+12 11 0.0714286 l "isa"
+13 24 0.5000000 l "isa"
+24 13 0.0625000 l "isa"
+15 12 1.0000000 l "isa"
+12 15 0.0714286 l "isa"
+16 24 0.5000000 l "isa"
+24 16 0.0625000 l "isa"
+17 24 0.5000000 l "isa"
+24 17 0.0625000 l "isa"
+18 24 0.5000000 l "isa"
+24 18 0.0625000 l "isa"
+19 24 0.5000000 l "isa"
+24 19 0.0625000 l "isa"
+20 24 0.3333333 l "isa"
+24 20 0.0625000 l "isa"
+22 12 1.0000000 l "isa"
+12 22 0.0714286 l "isa"
+23 12 1.0000000 l "isa"
+12 23 0.0714286 l "isa"
+25 12 0.5000000 l "isa"
+12 25 0.0714286 l "isa"
+26 24 0.6666667 l "isa"
+24 26 0.1250000 l "isa"
+3 14 0.5000000 l "substring"
+14 3 0.0222222 l "substring"
+4 20 0.5000000 l "substring"
+20 4 0.3333333 l "substring"
+13 21 0.5000000 l "substring"
+21 13 0.1250000 l "substring"
+16 21 0.5000000 l "substring"
+21 16 0.1250000 l "substring"
+17 21 0.5000000 l "substring"
+21 17 0.1250000 l "substring"
+18 21 0.5000000 l "substring"
+21 18 0.1250000 l "substring"
+19 21 0.5000000 l "substring"
+21 19 0.1250000 l "substring"
+20 21 0.3333333 l "substring"
+21 20 0.1250000 l "substring"
+24 26 0.1250000 l "substring"
+26 24 0.6666667 l "substring"
+25 26 0.5000000 l "substring"
+26 25 0.3333333 l "substring"
+*Edges

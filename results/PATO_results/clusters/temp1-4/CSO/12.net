@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Human" ellipse
+2 "Tumor" ellipse
+*Arcs
+1 2 0.5763914 l "distance"
+2 1 0.3882440 l "distance"
+1 2 0.5763914 l "distance"
+2 1 0.3882440 l "distance"
+1 2 0.5763914 l "distance"
+2 1 0.3882440 l "distance"
+1 2 0.5763914 l "distance"
+2 1 0.3882440 l "distance"
+1 2 0.5763914 l "distance"
+2 1 0.3882440 l "distance"
+1 2 0.5763914 l "distance"
+2 1 0.3882440 l "distance"
+*Edges

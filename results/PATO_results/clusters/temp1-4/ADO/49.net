@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Crude incidence" ellipse
+2 "Incidence" ellipse
+3 "Incidence in non exposed" ellipse
+4 "Standardized incidence ratio" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1250000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.1250000 l "isa"
+4 2 0.4000000 l "isa"
+2 4 0.1250000 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.1250000 l "substring"
+2 3 0.1250000 l "substring"
+3 2 0.6666667 l "substring"
+2 4 0.1250000 l "substring"
+4 2 0.4000000 l "substring"
+*Edges

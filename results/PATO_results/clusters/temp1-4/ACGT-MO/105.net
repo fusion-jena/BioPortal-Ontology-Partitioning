@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Finding relating to aggressive behavior" ellipse
+2 "Aggressive behavior" ellipse
+*Arcs
+2 1 0.5486487 l "isa"
+1 2 0.4548402 l "isa"
+1 2 0.4548402 l "substring"
+2 1 0.5486487 l "substring"
+2 1 0.5486487 l "isa"
+1 2 0.4548402 l "isa"
+1 2 0.4548402 l "substring"
+2 1 0.5486487 l "substring"
+*Edges

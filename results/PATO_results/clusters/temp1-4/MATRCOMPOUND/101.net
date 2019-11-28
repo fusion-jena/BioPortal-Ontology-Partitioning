@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Modicana" ellipse
+2 "Comisana" ellipse
+*Arcs
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+1 2 0.5491883 l "distance"
+2 1 0.7132933 l "distance"
+*Edges

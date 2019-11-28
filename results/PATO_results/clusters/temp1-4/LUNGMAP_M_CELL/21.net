@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Morucha" ellipse
+2 "Moura" ellipse
+*Arcs
+1 2 0.5226644 l "distance"
+2 1 0.0733642 l "distance"
+1 2 0.5226644 l "distance"
+2 1 0.0733642 l "distance"
+1 2 0.5226644 l "distance"
+2 1 0.0733642 l "distance"
+1 2 0.5226644 l "distance"
+2 1 0.0733642 l "distance"
+1 2 0.5226644 l "distance"
+2 1 0.0733642 l "distance"
+*Edges

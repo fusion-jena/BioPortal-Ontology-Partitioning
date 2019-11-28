@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Diagnostic" ellipse
+2 "boolean"
+*Arcs
+1 2 0.3913043 l "autrephenomene"
+2 1 0.7500000 l "autrephenomene"
+1 2 0.3913043 l "dengue"
+2 1 0.7500000 l "dengue"
+1 2 0.3913043 l "diarrhee"
+2 1 0.7500000 l "diarrhee"
+1 2 0.3913043 l "fievreeruption"
+2 1 0.7500000 l "fievreeruption"
+1 2 0.3913043 l "fievrerespiratoire"
+2 1 0.7500000 l "fievrerespiratoire"
+1 2 0.3913043 l "paluautre"
+2 1 0.7500000 l "paluautre"
+1 2 0.3913043 l "palufalci"
+2 1 0.7500000 l "palufalci"
+1 2 0.3913043 l "serologiedengue"
+2 1 0.7500000 l "serologiedengue"
+1 2 0.3913043 l "toux"
+2 1 0.7500000 l "toux"
+*Edges

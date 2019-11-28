@@ -1,0 +1,36 @@
+*Vertices 9
+1 "Glycosylation Site" ellipse
+2 "Saccharide" ellipse
+3 "Amino Acid" ellipse
+4 "Glycoconjugate" ellipse
+5 "Glycolipid" ellipse
+6 "Glycoside" ellipse
+7 "Glycosylated Amino Acid" ellipse
+8 "Lipid" ellipse
+9 "Glycosylation Annotation" ellipse
+*Arcs
+1 9 0.3333333 l "isa"
+9 1 0.5000000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0416667 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0416667 l "isa"
+7 4 0.2500000 l "isa"
+4 7 0.0416667 l "isa"
+2 1 0.1000000 l "glycosylates"
+1 2 0.3333333 l "glycosylates"
+7 3 0.5000000 l "has_amino_acid_type"
+3 7 0.1818182 l "has_amino_acid_type"
+4 1 0.0416667 l "is glycosylated on"
+1 4 0.3333333 l "is glycosylated on"
+7 9 0.2500000 l "modification_type"
+9 7 0.5000000 l "modification_type"
+3 4 0.1818182 l "definition"
+4 3 0.0833333 l "definition"
+4 3 0.0833333 l "definition"
+3 4 0.1818182 l "definition"
+3 7 0.1818182 l "substring"
+7 3 0.5000000 l "substring"
+5 8 0.5000000 l "substring"
+8 5 0.1250000 l "substring"
+*Edges

@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Magnetic stirrer method for pooled sample digestion" ellipse
+2 "Magnetic stirrer method for pooled sample digestion/on filter isolation and larva detection by a latex agglutination test" ellipse
+3 "Artificial digestion test for in vivo detection of Trichinella spp. larvae in meat samples, PrioCheck Trichinella AAD Kit" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.6223718 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2653413 l "isa"
+1 2 0.6223718 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.6223718 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2653413 l "isa"
+1 2 0.6223718 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.6223718 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2653413 l "isa"
+1 2 0.6223718 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.6223718 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2653413 l "isa"
+1 2 0.6223718 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

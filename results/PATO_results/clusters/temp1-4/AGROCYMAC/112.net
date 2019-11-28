@@ -1,0 +1,17 @@
+*Vertices 2
+1 "ultraviolet-visible spectrophotometry" ellipse
+2 "visible spectrophotometry" ellipse
+*Arcs
+2 1 0.2920180 l "isa"
+1 2 0.1715321 l "isa"
+1 2 0.1715321 l "substring"
+2 1 0.2920180 l "substring"
+2 1 0.2920180 l "isa"
+1 2 0.1715321 l "isa"
+1 2 0.1715321 l "substring"
+2 1 0.2920180 l "substring"
+2 1 0.2920180 l "isa"
+1 2 0.1715321 l "isa"
+1 2 0.1715321 l "substring"
+2 1 0.2920180 l "substring"
+*Edges

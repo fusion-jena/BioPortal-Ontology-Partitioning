@@ -1,0 +1,31 @@
+*Vertices 4
+1 "CHRNA10" ellipse
+2 "CHRNA2" ellipse
+3 "CHRNB1" ellipse
+4 "CHRND" ellipse
+*Arcs
+1 2 0.2546301 l "distance"
+2 1 0.1346947 l "distance"
+1 3 0.2519497 l "distance"
+3 1 0.1079899 l "distance"
+1 4 0.2519497 l "distance"
+4 1 0.1077678 l "distance"
+2 3 0.1261877 l "distance"
+3 2 0.1022458 l "distance"
+2 4 0.1261877 l "distance"
+4 2 0.1020355 l "distance"
+3 4 0.1010969 l "distance"
+4 3 0.1008890 l "distance"
+1 2 0.2546301 l "distance"
+2 1 0.1346947 l "distance"
+1 3 0.2519497 l "distance"
+3 1 0.1079899 l "distance"
+1 4 0.2519497 l "distance"
+4 1 0.1077678 l "distance"
+2 3 0.1261877 l "distance"
+3 2 0.1022458 l "distance"
+2 4 0.1261877 l "distance"
+4 2 0.1020355 l "distance"
+3 4 0.1010969 l "distance"
+4 3 0.1008890 l "distance"
+*Edges

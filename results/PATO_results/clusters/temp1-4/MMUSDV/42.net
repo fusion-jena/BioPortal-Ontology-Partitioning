@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Andosol" ellipse
+2 "Anthrosol" ellipse
+*Arcs
+1 2 0.0876121 l "distance"
+2 1 0.2054194 l "distance"
+1 2 0.0876121 l "distance"
+2 1 0.2054194 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Fewer_Than_Five_Words_Total_or_Speech_Not_Used_on_a_Daily_Basis" ellipse
+2 "Fewer_Than_Five_Words_Total_or_Speech_Not_Used_on_a_Daily_Basiss"
+*Arcs
+1 2 0.5178987 l "substring"
+2 1 0.5263363 l "substring"
+1 2 0.5178987 l "distance"
+2 1 0.5263363 l "distance"
+1 2 0.5178987 l "substring"
+2 1 0.5263363 l "substring"
+1 2 0.5178987 l "distance"
+2 1 0.5263363 l "distance"
+1 2 0.5178987 l "substring"
+2 1 0.5263363 l "substring"
+1 2 0.5178987 l "distance"
+2 1 0.5263363 l "distance"
+*Edges

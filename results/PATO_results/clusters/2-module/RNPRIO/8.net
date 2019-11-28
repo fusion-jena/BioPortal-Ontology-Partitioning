@@ -1,0 +1,29 @@
+*Vertices 8
+1 "Data_sharing" ellipse
+2 "Governance_involvement_mechanisms" ellipse
+3 "Patient-related_policies" ellipse
+4 "Policies" ellipse
+5 "Policies_for_protecting_proprietary_data" ellipse
+6 "Re-contact_for_new_study_needed" ellipse
+7 "Requirements_for_institutional_investigators_to_collaborate_with_each_other" ellipse
+8 "Requirements_for_sharing_outside_the_network" ellipse
+*Arcs
+1 4 0.2500000 l "isa"
+4 1 0.2000000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2000000 l "isa"
+3 4 0.4000000 l "isa"
+4 3 0.4000000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.2500000 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2000000 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.2500000 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.2500000 l "isa"
+3 4 0.4000000 l "substring"
+4 3 0.4000000 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.5000000 l "substring"
+*Edges

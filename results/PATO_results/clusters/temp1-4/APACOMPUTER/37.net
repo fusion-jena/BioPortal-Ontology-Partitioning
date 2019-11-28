@@ -1,0 +1,22 @@
+*Vertices 3
+1 "airways responsiveness test" ellipse
+2 "airways responsiveness test" ellipse
+3 "history and investigations" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.8246074 l "isa"
+2 3 0.1753927 l "isa"
+3 2 0.1538386 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.8246074 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.8246074 l "distance"
+1 2 1.0000000 l "isa"
+2 1 0.8246074 l "isa"
+2 3 0.1753927 l "isa"
+3 2 0.1538386 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.8246074 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.8246074 l "distance"
+*Edges

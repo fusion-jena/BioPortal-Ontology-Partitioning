@@ -1,0 +1,42 @@
+*Vertices 11
+1 "Dopaminergic A13 group" ellipse
+2 "Fields of Forel" ellipse
+3 "Lateral hypothalamic area" ellipse
+4 "Lateral preoptic area" ellipse
+5 "Hypothalamic lateral zone" ellipse
+6 "Preparasubthalamic nucleus" ellipse
+7 "Parasubthalamic nucleus" ellipse
+8 "Retrochiasmatic area" ellipse
+9 "Subthalamic nucleus" ellipse
+10 "Tuberal nucleus" ellipse
+11 "Zona incerta" ellipse
+*Arcs
+1 11 1.0000000 l "isa"
+11 1 0.3333333 l "isa"
+2 11 1.0000000 l "isa"
+11 2 0.3333333 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1111111 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1111111 l "isa"
+6 5 0.2500000 l "isa"
+5 6 0.1111111 l "isa"
+7 5 0.2500000 l "isa"
+5 7 0.1111111 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.1111111 l "isa"
+9 5 0.3333333 l "isa"
+5 9 0.1111111 l "isa"
+10 5 1.0000000 l "isa"
+5 10 0.1111111 l "isa"
+11 5 0.3333333 l "isa"
+5 11 0.1111111 l "isa"
+6 7 0.5000000 l "substring"
+7 6 0.5000000 l "substring"
+6 9 0.2500000 l "substring"
+9 6 0.3333333 l "substring"
+7 9 0.2500000 l "substring"
+9 7 0.3333333 l "substring"
+6 7 0.5000000 l "distance"
+7 6 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,32 @@
+*Vertices 5
+1 "sessile spikelet of ear" ellipse
+2 "lemma of upper floret of sessile spikelet of ear" ellipse
+3 "lemma of lower floret of sessile spikelet of ear" ellipse
+4 "upper floret of sessile spikelet of ear" ellipse
+5 "lower floret of sessile spikelet of ear" ellipse
+*Arcs
+2 4 0.2222222 l "definition"
+4 2 0.2222222 l "definition"
+3 5 0.2222222 l "definition"
+5 3 0.2222222 l "definition"
+4 1 0.2222222 l "definition"
+1 4 0.2000000 l "definition"
+5 1 0.2222222 l "definition"
+1 5 0.2000000 l "definition"
+1 2 0.1000000 l "substring"
+2 1 0.1111111 l "substring"
+1 3 0.1000000 l "substring"
+3 1 0.1111111 l "substring"
+1 4 0.2000000 l "substring"
+4 1 0.2222222 l "substring"
+1 5 0.2000000 l "substring"
+5 1 0.2222222 l "substring"
+2 4 0.2222222 l "substring"
+4 2 0.2222222 l "substring"
+3 5 0.2222222 l "substring"
+5 3 0.2222222 l "substring"
+2 3 0.1111111 l "distance"
+3 2 0.1111111 l "distance"
+4 5 0.1111111 l "distance"
+5 4 0.1111111 l "distance"
+*Edges

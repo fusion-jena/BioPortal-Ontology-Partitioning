@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Some_Spontaneous_Offers_to_Share_Limited_in_Number" ellipse
+2 "oshare_Some_Spontaneous_Offers_to_Share_Limited_in_Number"
+*Arcs
+1 2 0.2636274 l "substring"
+2 1 0.2169637 l "substring"
+1 2 0.2636274 l "substring"
+2 1 0.2169637 l "substring"
+*Edges

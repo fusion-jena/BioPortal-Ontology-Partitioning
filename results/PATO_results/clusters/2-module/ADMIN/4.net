@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Bed_Occupancy" ellipse
+2 "Occupancy" ellipse
+*Arcs
+2 1 0.2857143 l "reports"
+1 2 0.5000000 l "reports"
+1 2 0.5000000 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

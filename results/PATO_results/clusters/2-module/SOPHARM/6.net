@@ -1,0 +1,45 @@
+*Vertices 10
+1 "Process" ellipse
+2 "ProcessAggregate" ellipse
+3 "essai clinique" ellipse
+4 "événement d'essai clinique" ellipse
+5 "protocole d'essai clinique" ellipse
+6 "enrolls"
+7 "is defined by"
+8 "enrolls panel"
+9 "is the moment of measurement of"
+10 "defines"
+*Arcs
+3 2 0.0384615 l "isa"
+2 3 0.5000000 l "isa"
+4 1 0.0588235 l "isa"
+1 4 0.5000000 l "isa"
+5 3 0.2941177 l "defines"
+3 5 0.1923077 l "defines"
+3 5 0.1923077 l "is defined by"
+5 3 0.2941177 l "is defined by"
+3 7 0.0384615 l "definition"
+7 3 1.0000000 l "definition"
+3 8 0.0384615 l "definition"
+8 3 0.5000000 l "definition"
+3 4 0.1153846 l "definition"
+4 3 0.1764706 l "definition"
+3 5 0.1923077 l "definition"
+5 3 0.2941177 l "definition"
+4 9 0.0588235 l "definition"
+9 4 1.0000000 l "definition"
+4 3 0.1764706 l "definition"
+3 4 0.1153846 l "definition"
+5 10 0.0588235 l "definition"
+10 5 1.0000000 l "definition"
+5 3 0.2941177 l "definition"
+3 5 0.1923077 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+3 4 0.1153846 l "substring"
+4 3 0.1764706 l "substring"
+3 5 0.1923077 l "substring"
+5 3 0.2941177 l "substring"
+6 8 0.2000000 l "substring"
+8 6 0.5000000 l "substring"
+*Edges

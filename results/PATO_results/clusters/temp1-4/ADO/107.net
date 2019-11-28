@@ -1,0 +1,20 @@
+*Vertices 5
+1 "GRO-alpha" ellipse
+2 "cytokine" ellipse
+3 "inflammatory marker cytokine" ellipse
+4 "entity used as an inflammatory marker" ellipse
+5 "eotaxin-3" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0454545 l "isa"
+3 4 0.2500000 l "isa"
+4 3 0.1428571 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0454545 l "isa"
+3 2 0.2500000 l "definition"
+2 3 0.0909091 l "definition"
+3 4 0.2500000 l "definition"
+4 3 0.1428571 l "definition"
+2 3 0.0909091 l "substring"
+3 2 0.2500000 l "substring"
+*Edges

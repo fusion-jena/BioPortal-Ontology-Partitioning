@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Party" ellipse
+2 "hasAffiliatedParty"
+3 "isLocatedAt"
+*Arcs
+1 1 0.0454545 l "hasAffiliatedParty"
+1 1 0.0454545 l "hasAffiliatedParty"
+1 2 0.0454545 l "definition"
+2 1 1.0000000 l "definition"
+1 3 0.0227273 l "definition"
+3 1 1.0000000 l "definition"
+1 2 0.0454545 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

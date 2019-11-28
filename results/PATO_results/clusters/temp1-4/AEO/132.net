@@ -1,0 +1,32 @@
+*Vertices 7
+1 "Restriction"
+2 "epithelial plexus" ellipse
+3 "blood vessel" ellipse
+4 "vascular plexus" ellipse
+5 "capillary bed" ellipse
+6 "blood vessel endothelial cell" ellipse
+7 "has_part"
+*Arcs
+4 2 0.2500000 l "isa"
+2 4 0.1428571 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1428571 l "isa"
+2 1 0.1428571 l "definition"
+1 2 0.0011944 l "definition"
+2 7 0.1428571 l "definition"
+7 2 0.0175439 l "definition"
+3 6 0.2500000 l "definition"
+6 3 0.2222222 l "definition"
+3 1 0.1250000 l "definition"
+1 3 0.0011944 l "definition"
+3 7 0.1250000 l "definition"
+7 3 0.0175439 l "definition"
+4 6 0.2500000 l "definition"
+6 4 0.1111111 l "definition"
+4 1 0.2500000 l "definition"
+1 4 0.0011944 l "definition"
+4 7 0.2500000 l "definition"
+7 4 0.0175439 l "definition"
+3 6 0.2500000 l "substring"
+6 3 0.2222222 l "substring"
+*Edges

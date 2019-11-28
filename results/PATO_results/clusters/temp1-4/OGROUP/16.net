@@ -1,0 +1,23 @@
+*Vertices 2
+1 "CssStyle" ellipse
+2 "Style" ellipse
+*Arcs
+1 2 0.8563008 l "isa"
+2 1 0.6545781 l "isa"
+1 2 0.8563008 l "substring"
+2 1 0.6545781 l "substring"
+1 2 0.8563008 l "distance"
+2 1 0.6545781 l "distance"
+1 2 0.8563008 l "isa"
+2 1 0.6545781 l "isa"
+1 2 0.8563008 l "substring"
+2 1 0.6545781 l "substring"
+1 2 0.8563008 l "distance"
+2 1 0.6545781 l "distance"
+1 2 0.8563008 l "isa"
+2 1 0.6545781 l "isa"
+1 2 0.8563008 l "substring"
+2 1 0.6545781 l "substring"
+1 2 0.8563008 l "distance"
+2 1 0.6545781 l "distance"
+*Edges

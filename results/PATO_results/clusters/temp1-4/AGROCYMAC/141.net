@@ -1,0 +1,13 @@
+*Vertices 2
+1 "agricultural process depth measurement protocol" ellipse
+2 "agricultural process depth measurement protocol using a penometer" ellipse
+*Arcs
+2 1 0.3192716 l "isa"
+1 2 0.2762638 l "isa"
+1 2 0.2762638 l "substring"
+2 1 0.3192716 l "substring"
+2 1 0.3192716 l "isa"
+1 2 0.2762638 l "isa"
+1 2 0.2762638 l "substring"
+2 1 0.3192716 l "substring"
+*Edges

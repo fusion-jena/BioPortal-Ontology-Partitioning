@@ -1,0 +1,17 @@
+*Vertices 2
+1 "GF_Constraint" ellipse
+2 "FC_Constraint" ellipse
+*Arcs
+2 1 0.2006430 l "isa"
+1 2 0.3635585 l "isa"
+1 2 0.3635585 l "distance"
+2 1 0.2006430 l "distance"
+2 1 0.2006430 l "isa"
+1 2 0.3635585 l "isa"
+1 2 0.3635585 l "distance"
+2 1 0.2006430 l "distance"
+2 1 0.2006430 l "isa"
+1 2 0.3635585 l "isa"
+1 2 0.3635585 l "distance"
+2 1 0.2006430 l "distance"
+*Edges

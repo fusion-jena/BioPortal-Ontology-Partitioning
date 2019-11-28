@@ -1,0 +1,93 @@
+*Vertices 20
+1 "shortness of breath" ellipse
+2 "wheeze on examination" ellipse
+3 "FEV1/FVC post bronchodilator" ellipse
+4 "cough" ellipse
+5 "post bronchodilator spirometry" ellipse
+6 "FEV1/FVC ratio" ellipse
+7 "shortness of breath" ellipse
+8 "FEV1 post bronchodilator" ellipse
+9 "smokers cough" ellipse
+10 "wheeze" ellipse
+11 "very severe wheeze" ellipse
+12 "FEV" ellipse
+13 "moderate wheeze" ellipse
+14 "severe wheeze" ellipse
+15 "cough" ellipse
+16 "investigation" ellipse
+17 "spirometry" ellipse
+18 "symptoms" ellipse
+19 "mild wheeze" ellipse
+20 "Thing"
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.7500000 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.1818182 l "isa"
+3 17 0.5000000 l "isa"
+17 3 0.1428571 l "isa"
+4 18 0.1666667 l "isa"
+18 4 0.2500000 l "isa"
+5 17 1.0000000 l "isa"
+17 5 0.2857143 l "isa"
+6 17 0.5000000 l "isa"
+17 6 0.1428571 l "isa"
+7 18 0.2500000 l "isa"
+18 7 0.2500000 l "isa"
+8 17 0.5000000 l "isa"
+17 8 0.1428571 l "isa"
+9 4 0.6666667 l "isa"
+4 9 0.3333333 l "isa"
+10 18 0.0909091 l "isa"
+18 10 0.2500000 l "isa"
+11 10 0.6666667 l "isa"
+10 11 0.1818182 l "isa"
+12 17 0.2500000 l "isa"
+17 12 0.1428571 l "isa"
+13 10 1.0000000 l "isa"
+10 13 0.1818182 l "isa"
+14 10 0.6666667 l "isa"
+10 14 0.1818182 l "isa"
+15 4 0.7500000 l "isa"
+4 15 0.5000000 l "isa"
+16 20 0.5000000 l "isa"
+20 16 0.2000000 l "isa"
+17 16 0.1428571 l "isa"
+16 17 0.5000000 l "isa"
+18 20 0.2500000 l "isa"
+20 18 0.2000000 l "isa"
+19 10 1.0000000 l "isa"
+10 19 0.1818182 l "isa"
+1 7 1.0000000 l "substring"
+7 1 0.7500000 l "substring"
+2 10 1.0000000 l "substring"
+10 2 0.1818182 l "substring"
+3 12 0.5000000 l "substring"
+12 3 0.2500000 l "substring"
+4 9 0.3333333 l "substring"
+9 4 0.6666667 l "substring"
+4 15 0.5000000 l "substring"
+15 4 0.7500000 l "substring"
+5 17 1.0000000 l "substring"
+17 5 0.2857143 l "substring"
+6 12 0.5000000 l "substring"
+12 6 0.2500000 l "substring"
+8 12 0.5000000 l "substring"
+12 8 0.2500000 l "substring"
+9 15 0.3333333 l "substring"
+15 9 0.2500000 l "substring"
+10 11 0.1818182 l "substring"
+11 10 0.6666667 l "substring"
+10 13 0.1818182 l "substring"
+13 10 1.0000000 l "substring"
+10 14 0.1818182 l "substring"
+14 10 0.6666667 l "substring"
+10 19 0.1818182 l "substring"
+19 10 1.0000000 l "substring"
+11 14 0.3333333 l "substring"
+14 11 0.3333333 l "substring"
+1 7 1.0000000 l "distance"
+7 1 0.7500000 l "distance"
+4 15 0.5000000 l "distance"
+15 4 0.7500000 l "distance"
+*Edges

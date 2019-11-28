@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Messagerie_électronique" ellipse
+2 "Site_internet" ellipse
+3 "Téléphone" ellipse
+4 "Nouvelles_Technologies_de_l'Information_et_de_la_Communication" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.3333333 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.3333333 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.3333333 l "isa"
+*Edges

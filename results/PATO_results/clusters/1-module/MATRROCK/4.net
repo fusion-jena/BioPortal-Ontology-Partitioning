@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Chondrite" ellipse
+2 "Meteor" ellipse
+3 "Meteorite" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.2500000 l "isa"
+3 2 0.7500000 l "isa"
+2 3 0.7500000 l "isa"
+2 3 0.7500000 l "substring"
+3 2 0.7500000 l "substring"
+2 3 0.7500000 l "distance"
+3 2 0.7500000 l "distance"
+*Edges

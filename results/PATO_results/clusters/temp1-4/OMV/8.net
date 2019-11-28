@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Concept" ellipse
+2 "Motivation" ellipse
+*Arcs
+2 1 0.4467473 l "isa"
+1 2 0.6213574 l "isa"
+2 1 0.4467473 l "isa"
+1 2 0.6213574 l "isa"
+2 1 0.4467473 l "isa"
+1 2 0.6213574 l "isa"
+2 1 0.4467473 l "isa"
+1 2 0.6213574 l "isa"
+2 1 0.4467473 l "isa"
+1 2 0.6213574 l "isa"
+*Edges

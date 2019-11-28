@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Amyotrophic lateral sclerosis" ellipse
+2 "neurodegenerative disease" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0833333 l "isa"
+*Edges

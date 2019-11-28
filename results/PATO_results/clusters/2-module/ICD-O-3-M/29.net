@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Mixed acidophil-basophil adenoma (C75.1)" ellipse
+2 "Basophil adenoma (C75.1)" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

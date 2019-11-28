@@ -1,0 +1,35 @@
+*Vertices 10
+1 "Often_usesOrUsed_stereotyped_itterances_with_productive_language_as_well" ellipse
+2 "Phrases_are_almost_exclusively_stereotyped_utterances" ellipse
+3 "Rarely_or_never_uses_stereotyped_phrases" ellipse
+4 "Speech_tendsOrTended_to_be_more_repetitive_than_most_subject" ellipse
+5 "Stereotyped_utterances_and_delayed_echolalia" ellipse
+6 "Stereotyped_utterances_and_delayed_echolalia_NotAvailable_or_No_Phrase" ellipse
+7 "Stereotyped_utterances_and_delayed_echolalia_UnknownOrNotAsked" ellipse
+8 "stereo_Phrases_are_almost_exclusively_stereotyped_utterances"
+9 "stereo_Often_usesOrUsed_stereotyped_itterances_with_productive_language_as_well"
+10 "stereo_Speech_tendsOrTended_to_be_more_repetitive_than_most_subject"
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.1000000 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.1000000 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1000000 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.1000000 l "isa"
+6 5 0.5000000 l "isa"
+5 6 0.2000000 l "isa"
+7 5 0.6666667 l "isa"
+5 7 0.2000000 l "isa"
+1 9 0.5000000 l "substring"
+9 1 0.3333333 l "substring"
+2 8 0.5000000 l "substring"
+8 2 0.3333333 l "substring"
+4 10 0.5000000 l "substring"
+10 4 0.3333333 l "substring"
+5 6 0.2000000 l "substring"
+6 5 0.5000000 l "substring"
+5 7 0.2000000 l "substring"
+7 5 0.6666667 l "substring"
+*Edges

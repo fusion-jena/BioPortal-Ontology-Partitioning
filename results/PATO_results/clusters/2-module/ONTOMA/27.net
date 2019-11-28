@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Accouchement" ellipse
+2 "Processus_physiologique" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 1.0000000 l "isa"
+*Edges

@@ -1,0 +1,43 @@
+*Vertices 4
+1 "LinearParticleAccelerator" ellipse
+2 "PlasterFrame" ellipse
+3 "Radiotherapy" ellipse
+4 "VacuumCushion" ellipse
+*Arcs
+1 3 0.2801578 l "definition"
+3 1 0.0833050 l "definition"
+2 3 0.3735368 l "definition"
+3 2 0.0889529 l "definition"
+3 1 0.0833050 l "definition"
+1 3 0.2801578 l "definition"
+3 2 0.0889529 l "definition"
+2 3 0.3735368 l "definition"
+3 4 0.0934136 l "definition"
+4 3 0.4460121 l "definition"
+4 3 0.4460121 l "definition"
+3 4 0.0934136 l "definition"
+1 3 0.2801578 l "definition"
+3 1 0.0833050 l "definition"
+2 3 0.3735368 l "definition"
+3 2 0.0889529 l "definition"
+3 1 0.0833050 l "definition"
+1 3 0.2801578 l "definition"
+3 2 0.0889529 l "definition"
+2 3 0.3735368 l "definition"
+3 4 0.0934136 l "definition"
+4 3 0.4460121 l "definition"
+4 3 0.4460121 l "definition"
+3 4 0.0934136 l "definition"
+1 3 0.2801578 l "definition"
+3 1 0.0833050 l "definition"
+2 3 0.3735368 l "definition"
+3 2 0.0889529 l "definition"
+3 1 0.0833050 l "definition"
+1 3 0.2801578 l "definition"
+3 2 0.0889529 l "definition"
+2 3 0.3735368 l "definition"
+3 4 0.0934136 l "definition"
+4 3 0.4460121 l "definition"
+4 3 0.4460121 l "definition"
+3 4 0.0934136 l "definition"
+*Edges

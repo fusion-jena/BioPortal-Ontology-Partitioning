@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Degree_of_Disability" ellipse
+2 "Disease" ellipse
+3 "Rejection_of_Disease" ellipse
+4 "Severity_of_Symptoms" ellipse
+5 "Speed_of_Progression" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0781989 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0781989 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0781989 l "isa"
+2 3 0.0611760 l "substring"
+3 2 0.3362255 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.0781989 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0781989 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0781989 l "isa"
+2 3 0.0611760 l "substring"
+3 2 0.3362255 l "substring"
+*Edges

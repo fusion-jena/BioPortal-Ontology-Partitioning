@@ -1,0 +1,22 @@
+*Vertices 3
+1 "higher-level landform" ellipse
+2 "mountain" ellipse
+3 "mount" ellipse
+*Arcs
+2 1 0.2195282 l "isa"
+1 2 0.1532908 l "isa"
+2 3 0.7804719 l "isa"
+3 2 0.1128929 l "isa"
+2 3 0.7804719 l "substring"
+3 2 0.1128929 l "substring"
+2 3 0.7804719 l "distance"
+3 2 0.1128929 l "distance"
+2 1 0.2195282 l "isa"
+1 2 0.1532908 l "isa"
+2 3 0.7804719 l "isa"
+3 2 0.1128929 l "isa"
+2 3 0.7804719 l "substring"
+3 2 0.1128929 l "substring"
+2 3 0.7804719 l "distance"
+3 2 0.1128929 l "distance"
+*Edges

@@ -1,0 +1,39 @@
+*Vertices 4
+1 "Lack of heat in house" ellipse
+2 "Housing unsuited to needs" ellipse
+3 "Lack of cooling in house" ellipse
+4 "Exposed_to_Inadequate_Temperatures" ellipse
+*Arcs
+1 2 0.5422058 l "isa"
+2 1 0.2938245 l "isa"
+3 2 0.5422058 l "isa"
+2 3 0.2938245 l "isa"
+4 3 0.1206264 l "definition"
+3 4 0.4577942 l "definition"
+4 1 0.1206264 l "definition"
+1 4 0.4577942 l "definition"
+1 2 0.5422058 l "isa"
+2 1 0.2938245 l "isa"
+3 2 0.5422058 l "isa"
+2 3 0.2938245 l "isa"
+4 3 0.1206264 l "definition"
+3 4 0.4577942 l "definition"
+4 1 0.1206264 l "definition"
+1 4 0.4577942 l "definition"
+1 2 0.5422058 l "isa"
+2 1 0.2938245 l "isa"
+3 2 0.5422058 l "isa"
+2 3 0.2938245 l "isa"
+4 3 0.1206264 l "definition"
+3 4 0.4577942 l "definition"
+4 1 0.1206264 l "definition"
+1 4 0.4577942 l "definition"
+1 2 0.5422058 l "isa"
+2 1 0.2938245 l "isa"
+3 2 0.5422058 l "isa"
+2 3 0.2938245 l "isa"
+4 3 0.1206264 l "definition"
+3 4 0.4577942 l "definition"
+4 1 0.1206264 l "definition"
+1 4 0.4577942 l "definition"
+*Edges

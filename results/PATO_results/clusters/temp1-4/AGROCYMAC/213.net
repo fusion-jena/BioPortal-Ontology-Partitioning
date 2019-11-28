@@ -1,0 +1,17 @@
+*Vertices 2
+1 "compost soil" ellipse
+2 "frozen compost soil" ellipse
+*Arcs
+2 1 0.2565131 l "isa"
+1 2 0.2527331 l "isa"
+2 1 0.2565131 l "definition"
+1 2 0.2527331 l "definition"
+1 2 0.2527331 l "substring"
+2 1 0.2565131 l "substring"
+2 1 0.2565131 l "isa"
+1 2 0.2527331 l "isa"
+2 1 0.2565131 l "definition"
+1 2 0.2527331 l "definition"
+1 2 0.2527331 l "substring"
+2 1 0.2565131 l "substring"
+*Edges

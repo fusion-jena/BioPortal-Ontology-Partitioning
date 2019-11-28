@@ -1,0 +1,7 @@
+*Vertices 2
+1 "left lung" ellipse
+2 "in_left_side_of"
+*Arcs
+1 2 0.1111111 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

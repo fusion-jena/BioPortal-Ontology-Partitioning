@@ -1,0 +1,24 @@
+*Vertices 5
+1 "_Depression and other mood disturbances can occur" ellipse
+2 "_Physiological Symptoms of Mild Cognitve Impairment" ellipse
+3 "_Problems with memory or concentration" ellipse
+4 "depression" ellipse
+5 "genetic depression scale score" ellipse
+*Arcs
+1 2 0.2989950 l "isa"
+2 1 0.2344828 l "isa"
+3 2 0.2844290 l "isa"
+2 3 0.2206897 l "isa"
+1 4 0.2788945 l "substring"
+4 1 0.1584418 l "substring"
+4 5 0.1484500 l "substring"
+5 4 0.2686277 l "substring"
+1 2 0.2989950 l "isa"
+2 1 0.2344828 l "isa"
+3 2 0.2844290 l "isa"
+2 3 0.2206897 l "isa"
+1 4 0.2788945 l "substring"
+4 1 0.1584418 l "substring"
+4 5 0.1484500 l "substring"
+5 4 0.2686277 l "substring"
+*Edges

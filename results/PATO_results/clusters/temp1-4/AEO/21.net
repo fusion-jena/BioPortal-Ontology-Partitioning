@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Memantine" ellipse
+2 "Mementine" ellipse
+*Arcs
+1 2 0.1761868 l "distance"
+2 1 0.3797153 l "distance"
+1 2 0.1761868 l "distance"
+2 1 0.3797153 l "distance"
+1 2 0.1761868 l "distance"
+2 1 0.3797153 l "distance"
+*Edges

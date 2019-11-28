@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Annual prevalence" ellipse
+2 "Life time prevalence" ellipse
+3 "Period Prevalence" ellipse
+4 "Point prevalence" ellipse
+5 "Prevalence rate" ellipse
+6 "prevalence" ellipse
+*Arcs
+1 6 0.4000000 l "isa"
+6 1 0.1111111 l "isa"
+2 6 0.4000000 l "isa"
+6 2 0.1111111 l "isa"
+3 6 0.4000000 l "isa"
+6 3 0.1111111 l "isa"
+4 6 0.4000000 l "isa"
+6 4 0.1111111 l "isa"
+5 6 0.2857143 l "isa"
+6 5 0.1111111 l "isa"
+1 6 0.4000000 l "substring"
+6 1 0.1111111 l "substring"
+2 6 0.4000000 l "substring"
+6 2 0.1111111 l "substring"
+3 6 0.4000000 l "substring"
+6 3 0.1111111 l "substring"
+4 6 0.4000000 l "substring"
+6 4 0.1111111 l "substring"
+5 6 0.2857143 l "substring"
+6 5 0.1111111 l "substring"
+*Edges

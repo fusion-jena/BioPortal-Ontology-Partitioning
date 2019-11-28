@@ -1,0 +1,10 @@
+*Vertices 3
+1 "FederalArea" ellipse
+2 "FederalLand" ellipse
+3 "VacantLand" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+*Edges

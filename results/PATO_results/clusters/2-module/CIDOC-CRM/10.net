@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Person" ellipse
+2 "Birth" ellipse
+*Arcs
+1 1 0.2500000 l "has parent"
+1 1 0.2500000 l "has parent"
+1 1 0.2500000 l "is parent of"
+1 1 0.2500000 l "is parent of"
+2 1 0.6000000 l "by mother"
+1 2 0.3750000 l "by mother"
+1 2 0.3750000 l "a donné naissance à"
+2 1 0.6000000 l "a donné naissance à"
+2 1 0.6000000 l "de père"
+1 2 0.3750000 l "de père"
+1 2 0.3750000 l "a été père dans"
+2 1 0.6000000 l "a été père dans"
+2 1 0.6000000 l "a donné vie à"
+1 2 0.3750000 l "a donné vie à"
+1 2 0.3750000 l "est né"
+2 1 0.6000000 l "est né"
+*Edges

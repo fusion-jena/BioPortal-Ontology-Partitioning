@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Dominant Hand" ellipse
+2 "right" ellipse
+3 "Niger" ellipse
+4 "Nigeria" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2500000 l "isa"
+3 4 0.1538462 l "substring"
+4 3 0.2857143 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.0769231 l "distance"
+3 4 0.1538462 l "distance"
+4 3 0.2857143 l "distance"
+*Edges

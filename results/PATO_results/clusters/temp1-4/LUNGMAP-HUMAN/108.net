@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Crioulo" ellipse
+2 "Créole" ellipse
+*Arcs
+1 2 0.3491770 l "distance"
+2 1 0.1938621 l "distance"
+1 2 0.3491770 l "distance"
+2 1 0.1938621 l "distance"
+1 2 0.3491770 l "distance"
+2 1 0.1938621 l "distance"
+*Edges

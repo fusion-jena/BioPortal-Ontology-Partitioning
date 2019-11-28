@@ -1,0 +1,43 @@
+*Vertices 10
+1 "Cell_function" ellipse
+2 "Fine_Motor_Skills" ellipse
+3 "Functional_Laterality" ellipse
+4 "Genetic_function" ellipse
+5 "Gross_Motor_Skills" ellipse
+6 "Molecular_function" ellipse
+7 "Motor_Skills" ellipse
+8 "Organ_or_tissue_function" ellipse
+9 "Physiologic_function" ellipse
+10 "function" ellipse
+*Arcs
+1 9 0.5000000 l "isa"
+9 1 0.1666667 l "isa"
+2 7 0.6666667 l "isa"
+7 2 0.1818182 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.0909091 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.3333333 l "isa"
+5 7 0.6666667 l "isa"
+7 5 0.1818182 l "isa"
+6 9 0.3333333 l "isa"
+9 6 0.1666667 l "isa"
+8 9 0.5000000 l "isa"
+9 8 0.1666667 l "isa"
+1 10 0.5000000 l "substring"
+10 1 0.0526316 l "substring"
+2 7 0.6666667 l "substring"
+7 2 0.1818182 l "substring"
+3 10 0.5000000 l "substring"
+10 3 0.0526316 l "substring"
+4 10 0.5000000 l "substring"
+10 4 0.0526316 l "substring"
+5 7 0.6666667 l "substring"
+7 5 0.1818182 l "substring"
+6 10 0.3333333 l "substring"
+10 6 0.0526316 l "substring"
+8 10 0.5000000 l "substring"
+10 8 0.0526316 l "substring"
+9 10 0.1666667 l "substring"
+10 9 0.0526316 l "substring"
+*Edges

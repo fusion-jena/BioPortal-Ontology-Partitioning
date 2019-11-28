@@ -1,0 +1,50 @@
+*Vertices 7
+1 "StagingInformation" ellipse
+2 "Age" ellipse
+3 "Receptor" ellipse
+4 "Severity" ellipse
+5 "TNMStage" ellipse
+6 "ClassOfUsageOfRepresentation" ellipse
+7 "UsageOfRepresentation" ellipse
+*Arcs
+3 1 1.0000000 l "isa"
+1 3 0.2204134 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2204134 l "isa"
+5 1 0.5060818 l "isa"
+1 5 0.1673563 l "isa"
+2 5 0.1214294 l "substring"
+5 2 0.4939182 l "substring"
+3 1 1.0000000 l "isa"
+1 3 0.2204134 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2204134 l "isa"
+5 1 0.5060818 l "isa"
+1 5 0.1673563 l "isa"
+6 7 0.3502254 l "definition"
+7 6 0.7082798 l "definition"
+2 5 0.1214294 l "substring"
+5 2 0.4939182 l "substring"
+2 6 0.0835883 l "substring"
+6 2 0.1329502 l "substring"
+2 7 0.0906913 l "substring"
+7 2 0.2917202 l "substring"
+6 7 0.3502254 l "substring"
+7 6 0.7082798 l "substring"
+3 1 1.0000000 l "isa"
+1 3 0.2204134 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2204134 l "isa"
+5 1 0.5060818 l "isa"
+1 5 0.1673563 l "isa"
+6 7 0.3502254 l "definition"
+7 6 0.7082798 l "definition"
+2 5 0.1214294 l "substring"
+5 2 0.4939182 l "substring"
+2 6 0.0835883 l "substring"
+6 2 0.1329502 l "substring"
+2 7 0.0906913 l "substring"
+7 2 0.2917202 l "substring"
+6 7 0.3502254 l "substring"
+7 6 0.7082798 l "substring"
+*Edges

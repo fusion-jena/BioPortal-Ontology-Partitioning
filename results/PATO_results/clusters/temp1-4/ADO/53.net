@@ -1,0 +1,42 @@
+*Vertices 13
+1 "Intervention" ellipse
+2 "blinded study" ellipse
+3 "comparative study" ellipse
+4 "dose ranging study" ellipse
+5 "double blinded study" ellipse
+6 "double masked study" ellipse
+7 "intervention study" ellipse
+8 "open label study" ellipse
+9 "randomized study" ellipse
+10 "single blind study" ellipse
+11 "single masked study" ellipse
+12 "Rat" ellipse
+13 "clinical trial study" ellipse
+*Arcs
+2 13 0.5000000 l "isa"
+13 2 0.0625000 l "isa"
+3 13 0.5000000 l "isa"
+13 3 0.0625000 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.0625000 l "isa"
+5 13 0.5000000 l "isa"
+13 5 0.0625000 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.0625000 l "isa"
+7 13 0.5000000 l "isa"
+13 7 0.0625000 l "isa"
+8 13 1.0000000 l "isa"
+13 8 0.0625000 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.0625000 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.0625000 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.0625000 l "isa"
+1 7 0.1428571 l "substring"
+7 1 0.5000000 l "substring"
+2 5 0.5000000 l "substring"
+5 2 0.5000000 l "substring"
+3 12 0.5000000 l "substring"
+12 3 0.0076923 l "substring"
+*Edges

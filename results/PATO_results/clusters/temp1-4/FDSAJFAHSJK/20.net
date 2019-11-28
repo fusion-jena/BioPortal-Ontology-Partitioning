@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Panipat, Battle of (Pānīpat, India : 1526)"
+2 "Panipat, Battle of (Pānīpat, India : 1556)"
+3 "Panipat, Battle of (Pānīpat, India : 1761)"
+*Arcs
+1 2 0.3477907 l "distance"
+2 1 0.3477907 l "distance"
+1 3 0.3477907 l "distance"
+3 1 0.3477907 l "distance"
+2 3 0.3477907 l "distance"
+3 2 0.3477907 l "distance"
+1 2 0.3477907 l "distance"
+2 1 0.3477907 l "distance"
+1 3 0.3477907 l "distance"
+3 1 0.3477907 l "distance"
+2 3 0.3477907 l "distance"
+3 2 0.3477907 l "distance"
+*Edges

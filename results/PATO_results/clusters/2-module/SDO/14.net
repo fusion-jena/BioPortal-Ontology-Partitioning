@@ -1,0 +1,21 @@
+*Vertices 6
+1 "Ethnic group" ellipse
+2 "Ethnicity finding" ellipse
+3 "Hispanic" ellipse
+4 "human population" ellipse
+5 "population" ellipse
+6 "hasGranularPart"
+*Arcs
+1 4 0.3333333 l "isa"
+4 1 0.1000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3333333 l "isa"
+2 1 0.2500000 l "definition"
+1 2 0.3333333 l "definition"
+4 5 0.2000000 l "definition"
+5 4 0.5000000 l "definition"
+4 6 0.1000000 l "definition"
+6 4 1.0000000 l "definition"
+4 5 0.2000000 l "substring"
+5 4 0.5000000 l "substring"
+*Edges

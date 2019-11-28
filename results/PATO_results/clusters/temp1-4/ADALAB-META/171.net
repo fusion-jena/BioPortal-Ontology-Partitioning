@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Suspicious" ellipse
+2 "Suspiciousness" ellipse
+3 "Unsuspicious" ellipse
+*Arcs
+1 2 0.4864865 l "isa"
+2 1 0.5525040 l "isa"
+3 2 0.2897196 l "isa"
+2 3 0.2378837 l "isa"
+1 2 0.4864865 l "substring"
+2 1 0.5525040 l "substring"
+1 3 0.5135135 l "substring"
+3 1 0.7102804 l "substring"
+1 3 0.5135135 l "distance"
+3 1 0.7102804 l "distance"
+1 2 0.4864865 l "isa"
+2 1 0.5525040 l "isa"
+3 2 0.2897196 l "isa"
+2 3 0.2378837 l "isa"
+1 2 0.4864865 l "substring"
+2 1 0.5525040 l "substring"
+1 3 0.5135135 l "substring"
+3 1 0.7102804 l "substring"
+1 3 0.5135135 l "distance"
+3 1 0.7102804 l "distance"
+*Edges

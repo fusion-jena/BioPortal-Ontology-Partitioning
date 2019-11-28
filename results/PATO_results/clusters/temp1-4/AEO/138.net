@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Heartburn" ellipse
+2 "cholesterol reducing drug side effect" ellipse
+*Arcs
+1 2 0.2629995 l "definition"
+2 1 0.0948864 l "definition"
+1 2 0.2629995 l "definition"
+2 1 0.0948864 l "definition"
+1 2 0.2629995 l "definition"
+2 1 0.0948864 l "definition"
+*Edges

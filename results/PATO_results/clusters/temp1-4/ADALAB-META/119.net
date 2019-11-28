@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Hormone" ellipse
+2 "IntracellReceptor" ellipse
+3 "SexHormone" ellipse
+4 "SteroidHormoneReceptor" ellipse
+*Arcs
+3 4 0.1031271 l "isa"
+4 3 0.2499527 l "isa"
+4 2 0.2605890 l "isa"
+2 4 0.2122321 l "isa"
+3 1 0.3422942 l "definition"
+1 3 0.3307554 l "definition"
+1 3 0.3307554 l "substring"
+3 1 0.3422942 l "substring"
+1 4 0.0996507 l "substring"
+4 1 0.2499527 l "substring"
+1 3 0.3307554 l "distance"
+3 1 0.3422942 l "distance"
+3 4 0.1031271 l "isa"
+4 3 0.2499527 l "isa"
+4 2 0.2605890 l "isa"
+2 4 0.2122321 l "isa"
+3 1 0.3422942 l "definition"
+1 3 0.3307554 l "definition"
+1 3 0.3307554 l "substring"
+3 1 0.3422942 l "substring"
+1 4 0.0996507 l "substring"
+4 1 0.2499527 l "substring"
+1 3 0.3307554 l "distance"
+3 1 0.3422942 l "distance"
+*Edges

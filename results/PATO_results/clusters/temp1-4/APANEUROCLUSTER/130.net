@@ -1,0 +1,38 @@
+*Vertices 5
+1 "Childhood_Neurosis" ellipse
+2 "Narcosis" ellipse
+3 "Necrosis" ellipse
+4 "Neurosis" ellipse
+5 "Occupational_Neurosis" ellipse
+*Arcs
+1 4 0.3564629 l "substring"
+4 1 0.1162309 l "substring"
+4 5 0.1162309 l "substring"
+5 4 0.3564629 l "substring"
+2 3 0.3591934 l "distance"
+3 2 0.2035989 l "distance"
+2 4 0.3371144 l "distance"
+4 2 0.1155166 l "distance"
+3 4 0.1724723 l "distance"
+4 3 0.1042652 l "distance"
+1 4 0.3564629 l "substring"
+4 1 0.1162309 l "substring"
+4 5 0.1162309 l "substring"
+5 4 0.3564629 l "substring"
+2 3 0.3591934 l "distance"
+3 2 0.2035989 l "distance"
+2 4 0.3371144 l "distance"
+4 2 0.1155166 l "distance"
+3 4 0.1724723 l "distance"
+4 3 0.1042652 l "distance"
+1 4 0.3564629 l "substring"
+4 1 0.1162309 l "substring"
+4 5 0.1162309 l "substring"
+5 4 0.3564629 l "substring"
+2 3 0.3591934 l "distance"
+3 2 0.2035989 l "distance"
+2 4 0.3371144 l "distance"
+4 2 0.1155166 l "distance"
+3 4 0.1724723 l "distance"
+4 3 0.1042652 l "distance"
+*Edges

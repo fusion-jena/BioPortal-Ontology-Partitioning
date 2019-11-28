@@ -1,0 +1,48 @@
+*Vertices 13
+1 "administrative region" ellipse
+2 "first-order administrative region" ellipse
+3 "subnational region" ellipse
+4 "Country" ellipse
+5 "Province" ellipse
+6 "Municipality" ellipse
+7 "Territory" ellipse
+8 "bodily gas" ellipse
+9 "air in respiratory system" ellipse
+10 "gas in respiratory system" ellipse
+11 "geopolitical region" ellipse
+12 "NUTS region" ellipse
+13 "located in"
+*Arcs
+2 1 0.2000000 l "isa"
+1 2 0.5000000 l "isa"
+2 11 0.1000000 l "isa"
+11 2 0.2500000 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.1000000 l "isa"
+4 11 0.5000000 l "isa"
+11 4 0.2500000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.1000000 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.2500000 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1000000 l "isa"
+9 10 0.6666667 l "isa"
+10 9 0.2000000 l "isa"
+10 8 0.2000000 l "isa"
+8 10 0.6666667 l "isa"
+12 3 1.0000000 l "isa"
+3 12 0.5000000 l "isa"
+2 13 0.1000000 l "definition"
+13 2 0.5000000 l "definition"
+2 4 0.1000000 l "definition"
+4 2 0.5000000 l "definition"
+10 13 0.1000000 l "definition"
+13 10 0.5000000 l "definition"
+10 8 0.2000000 l "definition"
+8 10 0.6666667 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.2000000 l "substring"
+9 10 0.6666667 l "distance"
+10 9 0.2000000 l "distance"
+*Edges

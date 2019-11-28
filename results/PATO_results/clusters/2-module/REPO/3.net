@@ -1,0 +1,52 @@
+*Vertices 17
+1 "abnormal estrous cycle" ellipse
+2 "age at first conception" ellipse
+3 "age at first parturition" ellipse
+4 "age at first service" ellipse
+5 "age at puberty" ellipse
+6 "anestrus" ellipse
+7 "calf crop" ellipse
+8 "calving index" ellipse
+9 "ease of parturition" ellipse
+10 "estrous cycle" ellipse
+11 "parturition percentage" ellipse
+12 "repeat breeder" ellipse
+13 "reproductive index" ellipse
+14 "reproductive performance" ellipse
+15 "services per conception" ellipse
+16 "silent estrus" ellipse
+17 "Voluntary waiting period" ellipse
+*Arcs
+2 14 1.0000000 l "isa"
+14 2 0.0714286 l "isa"
+3 14 1.0000000 l "isa"
+14 3 0.0714286 l "isa"
+4 14 1.0000000 l "isa"
+14 4 0.0714286 l "isa"
+5 14 1.0000000 l "isa"
+14 5 0.0714286 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.2500000 l "isa"
+7 14 1.0000000 l "isa"
+14 7 0.0714286 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.0714286 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.0714286 l "isa"
+10 14 0.5000000 l "isa"
+14 10 0.0714286 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.0714286 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.2500000 l "isa"
+13 14 1.0000000 l "isa"
+14 13 0.0714286 l "isa"
+15 14 1.0000000 l "isa"
+14 15 0.0714286 l "isa"
+16 6 1.0000000 l "isa"
+6 16 0.5000000 l "isa"
+17 14 1.0000000 l "isa"
+14 17 0.0714286 l "isa"
+1 10 0.2500000 l "substring"
+10 1 0.5000000 l "substring"
+*Edges

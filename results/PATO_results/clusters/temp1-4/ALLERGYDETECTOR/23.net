@@ -1,0 +1,53 @@
+*Vertices 6
+1 "JTPNR" ellipse
+2 "MDNPN" ellipse
+3 "OPNEU" ellipse
+4 "PN" ellipse
+5 "PNIGH" ellipse
+6 "TEMPN" ellipse
+*Arcs
+1 4 0.1071390 l "substring"
+4 1 0.0144292 l "substring"
+2 4 0.0674354 l "substring"
+4 2 0.0141664 l "substring"
+3 4 0.1132115 l "substring"
+4 3 0.0144690 l "substring"
+4 5 0.0143315 l "substring"
+5 4 0.0924187 l "substring"
+4 6 0.0141664 l "substring"
+6 4 0.0672024 l "substring"
+1 4 0.1071390 l "distance"
+4 1 0.0144292 l "distance"
+2 4 0.0674354 l "distance"
+4 2 0.0141664 l "distance"
+2 6 0.0334942 l "distance"
+6 2 0.0333784 l "distance"
+3 4 0.1132115 l "distance"
+4 3 0.0144690 l "distance"
+4 5 0.0143315 l "distance"
+5 4 0.0924187 l "distance"
+4 6 0.0141664 l "distance"
+6 4 0.0672024 l "distance"
+1 4 0.1071390 l "substring"
+4 1 0.0144292 l "substring"
+2 4 0.0674354 l "substring"
+4 2 0.0141664 l "substring"
+3 4 0.1132115 l "substring"
+4 3 0.0144690 l "substring"
+4 5 0.0143315 l "substring"
+5 4 0.0924187 l "substring"
+4 6 0.0141664 l "substring"
+6 4 0.0672024 l "substring"
+1 4 0.1071390 l "distance"
+4 1 0.0144292 l "distance"
+2 4 0.0674354 l "distance"
+4 2 0.0141664 l "distance"
+2 6 0.0334942 l "distance"
+6 2 0.0333784 l "distance"
+3 4 0.1132115 l "distance"
+4 3 0.0144690 l "distance"
+4 5 0.0143315 l "distance"
+5 4 0.0924187 l "distance"
+4 6 0.0141664 l "distance"
+6 4 0.0672024 l "distance"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "right middle lobe visceral pleura" ellipse
+2 "visceral connective tissue" ellipse
+3 "visceral mesothelium" ellipse
+*Arcs
+2 1 0.1221872 l "definition"
+1 2 0.1795614 l "definition"
+3 1 0.1204535 l "definition"
+1 3 0.1791661 l "definition"
+2 1 0.1221872 l "definition"
+1 2 0.1795614 l "definition"
+3 1 0.1204535 l "definition"
+1 3 0.1791661 l "definition"
+2 1 0.1221872 l "definition"
+1 2 0.1795614 l "definition"
+3 1 0.1204535 l "definition"
+1 3 0.1791661 l "definition"
+2 1 0.1221872 l "definition"
+1 2 0.1795614 l "definition"
+3 1 0.1204535 l "definition"
+1 3 0.1791661 l "definition"
+*Edges

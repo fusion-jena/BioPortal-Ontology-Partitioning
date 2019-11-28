@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Grey matter atrophy" ellipse
+2 "White matter atrophy" ellipse
+3 "Atrophy" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.5000000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.5000000 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.5000000 l "substring"
+2 3 1.0000000 l "substring"
+3 2 0.5000000 l "substring"
+*Edges

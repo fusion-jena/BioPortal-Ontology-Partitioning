@@ -1,0 +1,132 @@
+*Vertices 41
+1 "ICW-1:01.08.02.04 Handcraft" ellipse
+2 "ICW-1:01.04.01 Financial Wellness - NOS" ellipse
+3 "ICW-1:01.04.03.01 Individual Event - NOS" ellipse
+4 "ICW-1:01.02.04 Hospitality" ellipse
+5 "ICW-1:01.04.02.03 Financial Planning" ellipse
+6 "ICW-1:01.08 Vocational Wellness" ellipse
+7 "ICW-1:01.04.03.02 Stock Market" ellipse
+8 "ICW-1:01.08.02.02 Pottery" ellipse
+9 "ICW-1:01.08.04.03 Tutoring" ellipse
+10 "ICW-1:01.06.03 Group Event" ellipse
+11 "ICW-1:01.04.03 Individual Event" ellipse
+12 "ICW-1:01.06.02.02 Group Class - NOS" ellipse
+13 "ICW-1:01.02 Emotional Wellness" ellipse
+14 "ICW-1:01.04 Financial Wellness" ellipse
+15 "ICW-1:01.04.02.02 Stock Market" ellipse
+16 "ICW-1:01.06.02 Group Class" ellipse
+17 "ICW-1:01.04.02 Group Event" ellipse
+18 "ICW-1:01 Wellness" ellipse
+19 "ICW-1:01.06.02.01 Support Group" ellipse
+20 "ICW-1:01.04.03.03 Financial Planning" ellipse
+21 "ICW-1:01.06.03.01 Group Event - NOS" ellipse
+22 "ICW-1:01.06.03.04 Dining Event" ellipse
+23 "ICW-1:01.06 Social Wellness" ellipse
+24 "ICW-1:01.06.03.03 Televised Event" ellipse
+25 "ICW-1:01.08.04.01 Group Volunteering - NOS" ellipse
+26 "ICW-1:01.09 Wellness - NOS" ellipse
+27 "ICW-1:01.08.02.03 Creative Arts - NOS" ellipse
+28 "ICW-1:01.08.04 Group Volunteering" ellipse
+29 "ICW-1:01.04.02.01 Group Event - NOS" ellipse
+30 "ICW-1:01.02.03 Support Group" ellipse
+31 "ICW-1:01.08.04.04 Teaching" ellipse
+32 "ICW-1:01.06.01 Social Wellness - NOS" ellipse
+33 "ICW-1:01.08.02 Creative Arts" ellipse
+34 "ICW-1:01.06.03.02 Sporting Event" ellipse
+35 "ICW-1:01.08.03 Individual Volunteering" ellipse
+36 "ICW-1:01.08.02.01 Art" ellipse
+37 "ICW-1:01.02.01 Aromatherapy" ellipse
+38 "ICW-1:01.08.01 Vocational Wellness - NOS" ellipse
+39 "ICW-1:01.02.02 Emotional Wellness - NOS" ellipse
+40 "ICW-1:01.08.04.02 Mentoring" ellipse
+41 "Thing"
+*Arcs
+1 33 1.0000000 l "isa"
+33 1 0.2000000 l "isa"
+2 14 1.0000000 l "isa"
+14 2 0.2500000 l "isa"
+3 11 1.0000000 l "isa"
+11 3 0.2500000 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.2000000 l "isa"
+5 17 0.5000000 l "isa"
+17 5 0.2000000 l "isa"
+6 18 0.2000000 l "isa"
+18 6 0.1000000 l "isa"
+7 11 0.5000000 l "isa"
+11 7 0.2500000 l "isa"
+8 33 1.0000000 l "isa"
+33 8 0.2000000 l "isa"
+9 28 1.0000000 l "isa"
+28 9 0.2000000 l "isa"
+10 23 0.1666667 l "isa"
+23 10 0.2500000 l "isa"
+11 14 0.2500000 l "isa"
+14 11 0.2500000 l "isa"
+12 16 1.0000000 l "isa"
+16 12 0.3333333 l "isa"
+13 18 0.2000000 l "isa"
+18 13 0.1000000 l "isa"
+14 18 0.2500000 l "isa"
+18 14 0.1000000 l "isa"
+15 17 0.5000000 l "isa"
+17 15 0.2000000 l "isa"
+16 23 0.3333333 l "isa"
+23 16 0.2500000 l "isa"
+17 14 0.2000000 l "isa"
+14 17 0.2500000 l "isa"
+18 41 0.1000000 l "isa"
+41 18 1.0000000 l "isa"
+19 16 1.0000000 l "isa"
+16 19 0.3333333 l "isa"
+20 11 0.5000000 l "isa"
+11 20 0.2500000 l "isa"
+21 10 0.5000000 l "isa"
+10 21 0.1666667 l "isa"
+22 10 1.0000000 l "isa"
+10 22 0.1666667 l "isa"
+23 18 0.2500000 l "isa"
+18 23 0.1000000 l "isa"
+24 10 1.0000000 l "isa"
+10 24 0.1666667 l "isa"
+25 28 1.0000000 l "isa"
+28 25 0.2000000 l "isa"
+26 18 1.0000000 l "isa"
+18 26 0.1000000 l "isa"
+27 33 1.0000000 l "isa"
+33 27 0.2000000 l "isa"
+28 6 0.2000000 l "isa"
+6 28 0.2000000 l "isa"
+29 17 0.5000000 l "isa"
+17 29 0.2000000 l "isa"
+30 13 1.0000000 l "isa"
+13 30 0.2000000 l "isa"
+31 28 1.0000000 l "isa"
+28 31 0.2000000 l "isa"
+32 23 1.0000000 l "isa"
+23 32 0.2500000 l "isa"
+33 6 0.2000000 l "isa"
+6 33 0.2000000 l "isa"
+34 10 1.0000000 l "isa"
+10 34 0.1666667 l "isa"
+35 6 1.0000000 l "isa"
+6 35 0.2000000 l "isa"
+36 33 1.0000000 l "isa"
+33 36 0.2000000 l "isa"
+37 13 1.0000000 l "isa"
+13 37 0.2000000 l "isa"
+38 6 1.0000000 l "isa"
+6 38 0.2000000 l "isa"
+39 13 1.0000000 l "isa"
+13 39 0.2000000 l "isa"
+40 28 1.0000000 l "isa"
+28 40 0.2000000 l "isa"
+5 20 0.5000000 l "distance"
+20 5 0.5000000 l "distance"
+7 15 0.5000000 l "distance"
+15 7 0.5000000 l "distance"
+10 17 0.1666667 l "distance"
+17 10 0.2000000 l "distance"
+21 29 0.5000000 l "distance"
+29 21 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Brazilian Somali" ellipse
+2 "Somali" ellipse
+3 "Somali Pony" ellipse
+4 "Somali" ellipse
+*Arcs
+1 2 0.3354719 l "substring"
+2 1 0.0712033 l "substring"
+1 4 0.3354857 l "substring"
+4 1 0.0713029 l "substring"
+2 3 0.0712968 l "substring"
+3 2 0.3388938 l "substring"
+2 4 0.1266105 l "substring"
+4 2 0.1267822 l "substring"
+3 4 0.3389078 l "substring"
+4 3 0.0713965 l "substring"
+2 4 0.1266105 l "distance"
+4 2 0.1267822 l "distance"
+1 2 0.3354719 l "substring"
+2 1 0.0712033 l "substring"
+1 4 0.3354857 l "substring"
+4 1 0.0713029 l "substring"
+2 3 0.0712968 l "substring"
+3 2 0.3388938 l "substring"
+2 4 0.1266105 l "substring"
+4 2 0.1267822 l "substring"
+3 4 0.3389078 l "substring"
+4 3 0.0713965 l "substring"
+2 4 0.1266105 l "distance"
+4 2 0.1267822 l "distance"
+1 2 0.3354719 l "substring"
+2 1 0.0712033 l "substring"
+1 4 0.3354857 l "substring"
+4 1 0.0713029 l "substring"
+2 3 0.0712968 l "substring"
+3 2 0.3388938 l "substring"
+2 4 0.1266105 l "substring"
+4 2 0.1267822 l "substring"
+3 4 0.3389078 l "substring"
+4 3 0.0713965 l "substring"
+2 4 0.1266105 l "distance"
+4 2 0.1267822 l "distance"
+*Edges

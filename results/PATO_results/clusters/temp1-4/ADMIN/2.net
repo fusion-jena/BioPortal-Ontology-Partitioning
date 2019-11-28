@@ -1,0 +1,32 @@
+*Vertices 5
+1 "Percentage_adh_95-100" ellipse
+2 "Porcentaje_adh_95-100" ellipse
+3 "Porcentaje_adh_inferior_30" ellipse
+4 "SMAQ" ellipse
+5 "valor_adh_SMAQ_pregunta_5"
+*Arcs
+2 4 0.1418912 l "isa"
+4 2 0.0108437 l "isa"
+3 4 0.1427750 l "isa"
+4 3 0.0108437 l "isa"
+2 5 0.1444922 l "definition"
+5 2 0.0520834 l "definition"
+3 5 0.1453922 l "definition"
+5 3 0.0520834 l "definition"
+4 5 0.0103761 l "substring"
+5 4 0.0489404 l "substring"
+1 2 0.1006083 l "distance"
+2 1 0.1474386 l "distance"
+2 4 0.1418912 l "isa"
+4 2 0.0108437 l "isa"
+3 4 0.1427750 l "isa"
+4 3 0.0108437 l "isa"
+2 5 0.1444922 l "definition"
+5 2 0.0520834 l "definition"
+3 5 0.1453922 l "definition"
+5 3 0.0520834 l "definition"
+4 5 0.0103761 l "substring"
+5 4 0.0489404 l "substring"
+1 2 0.1006083 l "distance"
+2 1 0.1474386 l "distance"
+*Edges

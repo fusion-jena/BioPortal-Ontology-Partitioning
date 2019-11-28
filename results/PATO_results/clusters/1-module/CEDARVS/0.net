@@ -1,0 +1,11 @@
+*Vertices 4
+1 "Intervention_Longitudinal" ellipse
+2 "Interventional" ellipse
+3 "Interventions" ellipse
+4 "Longitudinal" ellipse
+*Arcs
+1 4 0.5000000 l "substring"
+4 1 0.5000000 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "homogeneous mixture" ellipse
+2 "portion of mixed material" ellipse
+*Arcs
+1 2 0.2274288 l "isa"
+2 1 0.1885048 l "isa"
+1 2 0.2274288 l "isa"
+2 1 0.1885048 l "isa"
+1 2 0.2274288 l "isa"
+2 1 0.1885048 l "isa"
+*Edges

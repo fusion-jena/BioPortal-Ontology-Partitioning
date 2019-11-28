@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Date of isolation"
+2 "Date of isolation"
+*Arcs
+1 2 0.3982852 l "substring"
+2 1 0.5604607 l "substring"
+1 2 0.3982852 l "distance"
+2 1 0.5604607 l "distance"
+1 2 0.3982852 l "substring"
+2 1 0.5604607 l "substring"
+1 2 0.3982852 l "distance"
+2 1 0.5604607 l "distance"
+1 2 0.3982852 l "substring"
+2 1 0.5604607 l "substring"
+1 2 0.3982852 l "distance"
+2 1 0.5604607 l "distance"
+1 2 0.3982852 l "substring"
+2 1 0.5604607 l "substring"
+1 2 0.3982852 l "distance"
+2 1 0.5604607 l "distance"
+*Edges

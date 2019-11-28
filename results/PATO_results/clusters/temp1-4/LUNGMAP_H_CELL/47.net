@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Old Norwegian" ellipse
+2 "Norwegian" ellipse
+*Arcs
+1 2 0.5508402 l "substring"
+2 1 0.2080772 l "substring"
+1 2 0.5508402 l "substring"
+2 1 0.2080772 l "substring"
+1 2 0.5508402 l "substring"
+2 1 0.2080772 l "substring"
+1 2 0.5508402 l "substring"
+2 1 0.2080772 l "substring"
+*Edges

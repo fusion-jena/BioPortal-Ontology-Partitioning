@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Site Initiation" ellipse
+2 "Site Training Documentation" ellipse
+3 "Site Training Material" ellipse
+4 "Trial Initiation Monitoring Report" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2808582 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2808582 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2808582 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2808582 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2808582 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2808582 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2808582 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2808582 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2808582 l "isa"
+*Edges

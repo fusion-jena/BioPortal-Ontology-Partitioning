@@ -1,0 +1,41 @@
+*Vertices 6
+1 "HTR1E" ellipse
+2 "HTR5A" ellipse
+3 "MKNK1" ellipse
+4 "MTNR1A" ellipse
+5 "MTNR1B" ellipse
+6 "SCNN1B" ellipse
+*Arcs
+1 2 0.0679630 l "distance"
+2 1 0.1008281 l "distance"
+1 4 0.0710998 l "distance"
+4 1 0.1988595 l "distance"
+1 5 0.0710998 l "distance"
+5 1 0.1995804 l "distance"
+2 4 0.1070330 l "distance"
+4 2 0.2017839 l "distance"
+3 4 0.0317397 l "distance"
+4 3 0.1955910 l "distance"
+3 5 0.0317397 l "distance"
+5 3 0.1963001 l "distance"
+4 5 0.2105571 l "distance"
+5 4 0.2113204 l "distance"
+5 6 0.1988898 l "distance"
+6 5 0.0632637 l "distance"
+1 2 0.0679630 l "distance"
+2 1 0.1008281 l "distance"
+1 4 0.0710998 l "distance"
+4 1 0.1988595 l "distance"
+1 5 0.0710998 l "distance"
+5 1 0.1995804 l "distance"
+2 4 0.1070330 l "distance"
+4 2 0.2017839 l "distance"
+3 4 0.0317397 l "distance"
+4 3 0.1955910 l "distance"
+3 5 0.0317397 l "distance"
+5 3 0.1963001 l "distance"
+4 5 0.2105571 l "distance"
+5 4 0.2113204 l "distance"
+5 6 0.1988898 l "distance"
+6 5 0.0632637 l "distance"
+*Edges

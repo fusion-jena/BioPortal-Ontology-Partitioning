@@ -1,0 +1,22 @@
+*Vertices 5
+1 "coat chaperon activity" ellipse
+2 "tail chaperon activity" ellipse
+3 "tail fiber chaperon activity" ellipse
+4 "capsid protein chaperon activity" ellipse
+5 "chaperon activity" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.2000000 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.2000000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.2000000 l "isa"
+1 5 0.5000000 l "substring"
+5 1 0.2000000 l "substring"
+2 5 0.5000000 l "substring"
+5 2 0.2000000 l "substring"
+3 5 0.5000000 l "substring"
+5 3 0.2000000 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.2000000 l "substring"
+*Edges

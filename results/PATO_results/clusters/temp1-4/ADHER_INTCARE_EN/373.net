@@ -1,0 +1,36 @@
+*Vertices 3
+1 "FirstStemCellHarvesting" ellipse
+2 "NumberOfCycles" ellipse
+3 "StemCellHarvesting" ellipse
+*Arcs
+1 3 0.6923852 l "isa"
+3 1 0.4417667 l "isa"
+3 2 0.1106324 l "definition"
+2 3 0.1616086 l "definition"
+1 3 0.6923852 l "substring"
+3 1 0.4417667 l "substring"
+1 3 0.6923852 l "isa"
+3 1 0.4417667 l "isa"
+3 2 0.1106324 l "definition"
+2 3 0.1616086 l "definition"
+1 3 0.6923852 l "substring"
+3 1 0.4417667 l "substring"
+1 3 0.6923852 l "isa"
+3 1 0.4417667 l "isa"
+3 2 0.1106324 l "definition"
+2 3 0.1616086 l "definition"
+1 3 0.6923852 l "substring"
+3 1 0.4417667 l "substring"
+1 3 0.6923852 l "isa"
+3 1 0.4417667 l "isa"
+3 2 0.1106324 l "definition"
+2 3 0.1616086 l "definition"
+1 3 0.6923852 l "substring"
+3 1 0.4417667 l "substring"
+1 3 0.6923852 l "isa"
+3 1 0.4417667 l "isa"
+3 2 0.1106324 l "definition"
+2 3 0.1616086 l "definition"
+1 3 0.6923852 l "substring"
+3 1 0.4417667 l "substring"
+*Edges

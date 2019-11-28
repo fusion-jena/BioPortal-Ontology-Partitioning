@@ -1,0 +1,30 @@
+*Vertices 3
+1 "FGLOM" ellipse
+2 "LIPOM" ellipse
+3 "WTLOS" ellipse
+*Arcs
+1 2 0.0695879 l "distance"
+2 1 0.0695123 l "distance"
+1 3 0.0695185 l "distance"
+3 1 0.0625804 l "distance"
+1 2 0.0695879 l "distance"
+2 1 0.0695123 l "distance"
+1 3 0.0695185 l "distance"
+3 1 0.0625804 l "distance"
+1 2 0.0695879 l "distance"
+2 1 0.0695123 l "distance"
+1 3 0.0695185 l "distance"
+3 1 0.0625804 l "distance"
+1 2 0.0695879 l "distance"
+2 1 0.0695123 l "distance"
+1 3 0.0695185 l "distance"
+3 1 0.0625804 l "distance"
+1 2 0.0695879 l "distance"
+2 1 0.0695123 l "distance"
+1 3 0.0695185 l "distance"
+3 1 0.0625804 l "distance"
+1 2 0.0695879 l "distance"
+2 1 0.0695123 l "distance"
+1 3 0.0695185 l "distance"
+3 1 0.0625804 l "distance"
+*Edges

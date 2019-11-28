@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Pythium damping-off" ellipse
+2 "Pythium" ellipse
+*Arcs
+1 2 0.0153846 l "definition"
+2 1 0.0161290 l "definition"
+1 2 0.0153846 l "substring"
+2 1 0.0161290 l "substring"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Chose matérielle" ellipse
+2 "Abschnittsdefinition" ellipse
+3 "Destruction" ellipse
+*Arcs
+3 1 0.5000000 l "a détruit"
+1 3 0.0408163 l "a détruit"
+1 3 0.0408163 l "a été détruite par"
+3 1 0.5000000 l "a été détruite par"
+1 1 0.0816327 l "est composée de"
+1 1 0.0816327 l "est composée de"
+1 1 0.0816327 l "bildet Teil von"
+1 1 0.0816327 l "bildet Teil von"
+1 2 0.0408163 l "a pour désignation de section"
+2 1 0.5000000 l "a pour désignation de section"
+2 1 0.5000000 l "define uma seção de"
+1 2 0.0408163 l "define uma seção de"
+*Edges

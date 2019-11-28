@@ -1,0 +1,31 @@
+*Vertices 6
+1 "MD_Scope" ellipse
+2 "MD_ScopeCode" ellipse
+3 "EX_Extent" ellipse
+4 "extent"
+5 "level"
+6 "levelDescription"
+*Arcs
+1 3 0.1538462 l "extent"
+3 1 0.4000000 l "extent"
+1 2 0.2307692 l "level"
+2 1 0.6000000 l "level"
+1 3 0.1538462 l "definition"
+3 1 0.4000000 l "definition"
+1 4 0.0769231 l "definition"
+4 1 0.3333333 l "definition"
+1 2 0.2307692 l "definition"
+2 1 0.6000000 l "definition"
+1 5 0.0769231 l "definition"
+5 1 0.5000000 l "definition"
+1 6 0.0769231 l "definition"
+6 1 0.3333333 l "definition"
+1 2 0.2307692 l "substring"
+2 1 0.6000000 l "substring"
+3 4 0.4000000 l "substring"
+4 3 0.6666667 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.3333333 l "substring"
+3 4 0.4000000 l "distance"
+4 3 0.6666667 l "distance"
+*Edges

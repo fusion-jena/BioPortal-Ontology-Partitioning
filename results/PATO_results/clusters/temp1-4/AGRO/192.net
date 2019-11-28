@@ -1,0 +1,24 @@
+*Vertices 5
+1 "distance" ellipse
+2 "membership" ellipse
+3 "relational quality" ellipse
+4 "plot spacing" ellipse
+5 "distance" ellipse
+*Arcs
+1 3 0.2835821 l "isa"
+3 1 0.1615576 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1615576 l "isa"
+1 3 0.2835821 l "isa"
+3 1 0.1615576 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1615576 l "isa"
+4 5 0.2500000 l "isa"
+5 4 0.1666667 l "isa"
+4 5 0.2500000 l "definition"
+5 4 0.1666667 l "definition"
+1 5 0.3582090 l "substring"
+5 1 0.1666667 l "substring"
+1 5 0.3582090 l "distance"
+5 1 0.1666667 l "distance"
+*Edges

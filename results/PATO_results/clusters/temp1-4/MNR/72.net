@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Democratic Republic of the Congo" ellipse
+2 "Republic of the Congo" ellipse
+*Arcs
+1 2 0.2295255 l "substring"
+2 1 0.2295255 l "substring"
+1 2 0.2295255 l "substring"
+2 1 0.2295255 l "substring"
+1 2 0.2295255 l "substring"
+2 1 0.2295255 l "substring"
+*Edges

@@ -1,0 +1,27 @@
+*Vertices 4
+1 "SEIZ" ellipse
+2 "Audiogenic_Seizures" ellipse
+3 "Petit_Mal_Seizures" ellipse
+4 "Seizures" ellipse
+*Arcs
+1 2 0.0167815 l "substring"
+2 1 0.2471434 l "substring"
+1 3 0.0167815 l "substring"
+3 1 0.2471434 l "substring"
+1 4 0.0159877 l "substring"
+4 1 0.1354693 l "substring"
+2 4 0.2610887 l "substring"
+4 2 0.1502190 l "substring"
+3 4 0.2610887 l "substring"
+4 3 0.1502190 l "substring"
+1 2 0.0167815 l "substring"
+2 1 0.2471434 l "substring"
+1 3 0.0167815 l "substring"
+3 1 0.2471434 l "substring"
+1 4 0.0159877 l "substring"
+4 1 0.1354693 l "substring"
+2 4 0.2610887 l "substring"
+4 2 0.1502190 l "substring"
+3 4 0.2610887 l "substring"
+4 3 0.1502190 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "School_Counseling" ellipse
+2 "School_Counselors" ellipse
+*Arcs
+1 2 0.3620951 l "distance"
+2 1 0.3623176 l "distance"
+1 2 0.3620951 l "distance"
+2 1 0.3623176 l "distance"
+*Edges

@@ -1,0 +1,127 @@
+*Vertices 50
+1 "other and unspecified asthma" ellipse
+2 "intrinsic asthma" ellipse
+3 "weather" ellipse
+4 "severe persistent asthma with (acute) exacerbation" ellipse
+5 "moderate persistent asthma with (acute) exacerbation" ellipse
+6 "mild persistent asthma with (acute) exacerbation" ellipse
+7 "unspecified asthma with (acute) exacerbation" ellipse
+8 "mild intermittent asthma with (acute) exacerbation" ellipse
+9 "asthma NOS" ellipse
+10 "intrinsic asthma NOS" ellipse
+11 "intrinsic asthma with status asthmaticus" ellipse
+12 "intrinsic asthma without status asthmaticus" ellipse
+13 "extrinsic asthma NOS" ellipse
+14 "extrinsic asthma with status asthmaticus" ellipse
+15 "extrinsic asthma without status asthmaticus" ellipse
+16 "risk factors" ellipse
+17 "chronic airway inflammation" ellipse
+18 "mould" ellipse
+19 "food" ellipse
+20 "diagnosis" ellipse
+21 "occupational asthma" ellipse
+22 "non-allergic asthma" ellipse
+23 "severe persistent asthma with status asthmaticus" ellipse
+24 "severe persistent asthma uncomplicated" ellipse
+25 "severe persistent asthma" ellipse
+26 "moderate persistent asthma with status asthmaticus" ellipse
+27 "moderate persistent asthma uncomplicated" ellipse
+28 "moderate persistent asthma" ellipse
+29 "mild persistent asthma with status asthmaticus" ellipse
+30 "mild persistent asthma uncomplicated" ellipse
+31 "mild persistent asthma" ellipse
+32 "allergic asthma" ellipse
+33 "unspecified asthma with status asthmaticus" ellipse
+34 "unspecified asthma uncomplicated" ellipse
+35 "unspecified asthma" ellipse
+36 "mild intermittent asthma with status asthmaticus" ellipse
+37 "mild intermittent asthma uncomplicated" ellipse
+38 "mild intermittent asthma" ellipse
+39 "mild asthma" ellipse
+40 "occasional asthma" ellipse
+41 "mixed asthma" ellipse
+42 "FEV1 pre steroids" ellipse
+43 "FEV1 post steroids" ellipse
+44 "positive reversibility to corticosteroids" ellipse
+45 "reversibility to corticosteroids" ellipse
+46 "PEFR post steroids" ellipse
+47 "PEFR pre steroids" ellipse
+48 "corticosteroids" ellipse
+49 "therapy" ellipse
+50 "process of care" ellipse
+*Arcs
+22 32 0.3333333 l "substring"
+32 22 0.3333333 l "substring"
+23 25 0.3333333 l "substring"
+25 23 0.2000000 l "substring"
+4 25 0.2500000 l "substring"
+25 4 0.2000000 l "substring"
+24 25 0.3333333 l "substring"
+25 24 0.2000000 l "substring"
+26 28 0.3333333 l "substring"
+28 26 0.2000000 l "substring"
+5 28 0.2500000 l "substring"
+28 5 0.2000000 l "substring"
+27 28 0.3333333 l "substring"
+28 27 0.2000000 l "substring"
+29 31 0.3333333 l "substring"
+31 29 0.2000000 l "substring"
+6 31 0.2500000 l "substring"
+31 6 0.2000000 l "substring"
+30 31 0.3333333 l "substring"
+31 30 0.2000000 l "substring"
+33 35 0.3333333 l "substring"
+35 33 0.1666667 l "substring"
+7 35 0.2500000 l "substring"
+35 7 0.1666667 l "substring"
+34 35 0.3333333 l "substring"
+35 34 0.1666667 l "substring"
+35 1 0.1666667 l "substring"
+1 35 0.1428571 l "substring"
+36 38 0.3333333 l "substring"
+38 36 0.2000000 l "substring"
+8 38 0.2500000 l "substring"
+38 8 0.2000000 l "substring"
+37 38 0.3333333 l "substring"
+38 37 0.2000000 l "substring"
+9 10 0.2500000 l "substring"
+10 9 0.2000000 l "substring"
+9 13 0.2500000 l "substring"
+13 9 0.2500000 l "substring"
+10 2 0.2000000 l "substring"
+2 10 0.2000000 l "substring"
+11 2 0.2000000 l "substring"
+2 11 0.2000000 l "substring"
+12 2 0.2000000 l "substring"
+2 12 0.2000000 l "substring"
+44 45 0.3333333 l "substring"
+45 44 0.3333333 l "substring"
+44 48 0.3333333 l "substring"
+48 44 0.3333333 l "substring"
+45 48 0.3333333 l "substring"
+48 45 0.3333333 l "substring"
+21 40 0.3333333 l "distance"
+40 21 0.3333333 l "distance"
+39 41 0.3333333 l "distance"
+41 39 0.3333333 l "distance"
+10 13 0.2000000 l "distance"
+13 10 0.2500000 l "distance"
+11 12 0.2000000 l "distance"
+12 11 0.2000000 l "distance"
+11 14 0.2000000 l "distance"
+14 11 0.2500000 l "distance"
+12 15 0.2000000 l "distance"
+15 12 0.2500000 l "distance"
+14 15 0.2500000 l "distance"
+15 14 0.2500000 l "distance"
+42 43 0.3333333 l "distance"
+43 42 0.3333333 l "distance"
+42 47 0.3333333 l "distance"
+47 42 0.3333333 l "distance"
+43 46 0.3333333 l "distance"
+46 43 0.3333333 l "distance"
+46 47 0.3333333 l "distance"
+47 46 0.3333333 l "distance"
+18 19 0.2000000 l "distance"
+19 18 0.2000000 l "distance"
+*Edges

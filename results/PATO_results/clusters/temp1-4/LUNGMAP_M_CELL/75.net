@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Pyrenean Tarpan" ellipse
+2 "Pyrenean" ellipse
+*Arcs
+1 2 0.4839315 l "substring"
+2 1 0.6277116 l "substring"
+1 2 0.4839315 l "substring"
+2 1 0.6277116 l "substring"
+1 2 0.4839315 l "substring"
+2 1 0.6277116 l "substring"
+1 2 0.4839315 l "substring"
+2 1 0.6277116 l "substring"
+1 2 0.4839315 l "substring"
+2 1 0.6277116 l "substring"
+*Edges

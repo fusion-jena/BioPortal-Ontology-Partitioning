@@ -1,0 +1,19 @@
+*Vertices 4
+1 "adult seminal receptacle" ellipse
+2 "adult seminal receptacle cuticular lining" ellipse
+3 "adult seminal receptacle epithelial lining" ellipse
+4 "adult seminal receptacle lumen" ellipse
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.1818182 l "definition"
+3 1 0.4000000 l "definition"
+1 3 0.1818182 l "definition"
+4 1 0.4000000 l "definition"
+1 4 0.1818182 l "definition"
+1 2 0.1818182 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.1818182 l "substring"
+3 1 0.4000000 l "substring"
+1 4 0.1818182 l "substring"
+4 1 0.4000000 l "substring"
+*Edges

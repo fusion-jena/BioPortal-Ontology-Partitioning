@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Ukrainian Beef" ellipse
+2 "Ukrainian Grey" ellipse
+*Arcs
+1 2 0.6305006 l "distance"
+2 1 0.6305006 l "distance"
+1 2 0.6305006 l "distance"
+2 1 0.6305006 l "distance"
+1 2 0.6305006 l "distance"
+2 1 0.6305006 l "distance"
+1 2 0.6305006 l "distance"
+2 1 0.6305006 l "distance"
+*Edges

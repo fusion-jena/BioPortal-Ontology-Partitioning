@@ -1,0 +1,13 @@
+*Vertices 2
+1 "GF_PropertyType" ellipse
+2 "FC_PropertyType" ellipse
+*Arcs
+2 1 0.0823637 l "isa"
+1 2 0.3640559 l "isa"
+1 2 0.3640559 l "distance"
+2 1 0.0823637 l "distance"
+2 1 0.0823637 l "isa"
+1 2 0.3640559 l "isa"
+1 2 0.3640559 l "distance"
+2 1 0.0823637 l "distance"
+*Edges

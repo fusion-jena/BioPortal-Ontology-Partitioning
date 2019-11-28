@@ -1,0 +1,19 @@
+*Vertices 4
+1 "quality of a gas" ellipse
+2 "quality of a liquid" ellipse
+3 "quality of a substance" ellipse
+4 "humidity" ellipse
+*Arcs
+1 3 0.0731918 l "isa"
+3 1 0.1688691 l "isa"
+2 3 0.0704817 l "isa"
+3 2 0.1685098 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1004441 l "isa"
+1 3 0.0731918 l "isa"
+3 1 0.1688691 l "isa"
+2 3 0.0704817 l "isa"
+3 2 0.1685098 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1004441 l "isa"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Collection" ellipse
+2 "Concept" ellipse
+3 "ConceptScheme" ellipse
+4 "Thing"
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0806305 l "isa"
+2 4 0.1066102 l "isa"
+4 2 0.0580363 l "isa"
+3 4 0.4919225 l "isa"
+4 3 0.0674505 l "isa"
+2 3 0.1279730 l "substring"
+3 2 0.5080776 l "substring"
+1 4 1.0000000 l "isa"
+4 1 0.0806305 l "isa"
+2 4 0.1066102 l "isa"
+4 2 0.0580363 l "isa"
+3 4 0.4919225 l "isa"
+4 3 0.0674505 l "isa"
+2 3 0.1279730 l "substring"
+3 2 0.5080776 l "substring"
+*Edges

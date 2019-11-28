@@ -1,0 +1,9 @@
+*Vertices 2
+1 "COMBConstruct" ellipse
+2 "Construct" ellipse
+*Arcs
+1 2 0.2500000 l "isa"
+2 1 0.5000000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

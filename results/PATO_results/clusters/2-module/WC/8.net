@@ -1,0 +1,21 @@
+*Vertices 6
+1 "dFBA terms" ellipse
+2 "species" ellipse
+3 "dFBA objective" ellipse
+4 "dFBA species" ellipse
+5 "pseudo species" ellipse
+6 "species_type" ellipse
+*Arcs
+3 1 1.0000000 l "isa"
+1 3 0.2500000 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.2500000 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.1250000 l "isa"
+2 4 0.2000000 l "substring"
+4 2 0.5000000 l "substring"
+2 5 0.2000000 l "substring"
+5 2 0.5000000 l "substring"
+2 6 0.2000000 l "substring"
+6 2 0.1250000 l "substring"
+*Edges

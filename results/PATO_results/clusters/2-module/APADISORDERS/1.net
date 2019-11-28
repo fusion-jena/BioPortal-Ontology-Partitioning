@@ -1,0 +1,139 @@
+*Vertices 40
+1 "Anatomically_Detailed_Dolls" ellipse
+2 "Biological_Markers" ellipse
+3 "Biopsy" ellipse
+4 "Body_Mass_Index" ellipse
+5 "Cognitive_Assessment" ellipse
+6 "Computer_Assisted_Diagnosis" ellipse
+7 "Dexamethasone_Suppression_Test" ellipse
+8 "Diagnosis_Related_Groups" ellipse
+9 "Diagnostic_Interview_Schedule" ellipse
+10 "Diagnostic_and_Statistical_Manual" ellipse
+11 "Differential_Diagnosis" ellipse
+12 "Electro_Oculography" ellipse
+13 "Electromyography" ellipse
+14 "Electronystagmography" ellipse
+15 "Electroretinography" ellipse
+16 "General_Health_Questionnaire" ellipse
+17 "Genetic_Testing" ellipse
+18 "Geriatric_Assessment" ellipse
+19 "Intake_Interview" ellipse
+20 "International_Classification_of_Diseases" ellipse
+21 "Magnetic_Resonance_Imaging" ellipse
+22 "Medical_Diagnosis" ellipse
+23 "Medical_Model" ellipse
+24 "Misdiagnosis" ellipse
+25 "Needs_Assessment" ellipse
+26 "Neuroimaging" ellipse
+27 "Ophthalmologic_Examination" ellipse
+28 "Physical_Examination" ellipse
+29 "Polysomnography" ellipse
+30 "Prenatal_Diagnosis" ellipse
+31 "Psychiatric_Evaluation" ellipse
+32 "Psychodiagnosis" ellipse
+33 "Psychodiagnostic_Interview" ellipse
+34 "Psychodiagnostic_Typologies" ellipse
+35 "Research_Diagnostic_Criteria" ellipse
+36 "Roentgenography" ellipse
+37 "Structured_Clinical_Interview" ellipse
+38 "Urinalysis" ellipse
+39 "Clinical_Judgment_(Not_Diagnosis)" ellipse
+40 "Diagnosis" ellipse
+*Arcs
+1 40 1.0000000 l "isa"
+40 1 0.0136986 l "isa"
+2 40 1.0000000 l "isa"
+40 2 0.0136986 l "isa"
+3 40 1.0000000 l "isa"
+40 3 0.0136986 l "isa"
+4 40 1.0000000 l "isa"
+40 4 0.0136986 l "isa"
+5 40 1.0000000 l "isa"
+40 5 0.0136986 l "isa"
+6 40 0.6666667 l "isa"
+40 6 0.0273973 l "isa"
+7 40 1.0000000 l "isa"
+40 7 0.0136986 l "isa"
+8 40 0.6666667 l "isa"
+40 8 0.0273973 l "isa"
+9 40 1.0000000 l "isa"
+40 9 0.0136986 l "isa"
+10 40 1.0000000 l "isa"
+40 10 0.0136986 l "isa"
+11 40 0.6666667 l "isa"
+40 11 0.0273973 l "isa"
+12 40 1.0000000 l "isa"
+40 12 0.0136986 l "isa"
+13 40 1.0000000 l "isa"
+40 13 0.0136986 l "isa"
+14 40 1.0000000 l "isa"
+40 14 0.0136986 l "isa"
+15 40 1.0000000 l "isa"
+40 15 0.0136986 l "isa"
+16 40 1.0000000 l "isa"
+40 16 0.0136986 l "isa"
+17 40 1.0000000 l "isa"
+40 17 0.0136986 l "isa"
+18 40 1.0000000 l "isa"
+40 18 0.0136986 l "isa"
+19 40 1.0000000 l "isa"
+40 19 0.0136986 l "isa"
+20 40 1.0000000 l "isa"
+40 20 0.0136986 l "isa"
+21 40 1.0000000 l "isa"
+40 21 0.0136986 l "isa"
+22 40 0.6666667 l "isa"
+40 22 0.0273973 l "isa"
+23 40 1.0000000 l "isa"
+40 23 0.0136986 l "isa"
+24 40 0.6000000 l "isa"
+40 24 0.0410959 l "isa"
+25 40 1.0000000 l "isa"
+40 25 0.0136986 l "isa"
+26 40 1.0000000 l "isa"
+40 26 0.0136986 l "isa"
+27 40 1.0000000 l "isa"
+40 27 0.0136986 l "isa"
+28 40 1.0000000 l "isa"
+40 28 0.0136986 l "isa"
+29 40 1.0000000 l "isa"
+40 29 0.0136986 l "isa"
+30 40 0.6666667 l "isa"
+40 30 0.0273973 l "isa"
+31 40 1.0000000 l "isa"
+40 31 0.0136986 l "isa"
+32 40 0.6666667 l "isa"
+40 32 0.0273973 l "isa"
+33 40 1.0000000 l "isa"
+40 33 0.0136986 l "isa"
+34 40 1.0000000 l "isa"
+40 34 0.0136986 l "isa"
+35 40 1.0000000 l "isa"
+40 35 0.0136986 l "isa"
+36 40 1.0000000 l "isa"
+40 36 0.0136986 l "isa"
+37 40 1.0000000 l "isa"
+40 37 0.0136986 l "isa"
+38 40 1.0000000 l "isa"
+40 38 0.0136986 l "isa"
+39 40 0.6666667 l "isa"
+40 39 0.0273973 l "isa"
+6 40 0.6666667 l "substring"
+40 6 0.0273973 l "substring"
+8 40 0.6666667 l "substring"
+40 8 0.0273973 l "substring"
+11 40 0.6666667 l "substring"
+40 11 0.0273973 l "substring"
+22 40 0.6666667 l "substring"
+40 22 0.0273973 l "substring"
+24 40 0.6000000 l "substring"
+40 24 0.0410959 l "substring"
+30 40 0.6666667 l "substring"
+40 30 0.0273973 l "substring"
+32 40 0.6666667 l "substring"
+40 32 0.0273973 l "substring"
+39 40 0.6666667 l "substring"
+40 39 0.0273973 l "substring"
+24 40 0.6000000 l "distance"
+40 24 0.0410959 l "distance"
+*Edges

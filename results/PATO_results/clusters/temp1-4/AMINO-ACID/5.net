@@ -1,0 +1,17 @@
+*Vertices 2
+1 "SLE" ellipse
+2 "SLEDX" ellipse
+*Arcs
+1 2 0.0146291 l "substring"
+2 1 0.0851718 l "substring"
+1 2 0.0146291 l "distance"
+2 1 0.0851718 l "distance"
+1 2 0.0146291 l "substring"
+2 1 0.0851718 l "substring"
+1 2 0.0146291 l "distance"
+2 1 0.0851718 l "distance"
+1 2 0.0146291 l "substring"
+2 1 0.0851718 l "substring"
+1 2 0.0146291 l "distance"
+2 1 0.0851718 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "gas chromatograph" ellipse
+2 "gas chromatography" ellipse
+*Arcs
+1 2 0.1983405 l "substring"
+2 1 0.1829897 l "substring"
+1 2 0.1983405 l "distance"
+2 1 0.1829897 l "distance"
+1 2 0.1983405 l "substring"
+2 1 0.1829897 l "substring"
+1 2 0.1983405 l "distance"
+2 1 0.1829897 l "distance"
+*Edges

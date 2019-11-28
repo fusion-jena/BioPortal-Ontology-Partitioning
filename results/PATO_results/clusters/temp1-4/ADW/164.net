@@ -1,0 +1,14 @@
+*Vertices 3
+1 "GLP-1" ellipse
+2 "MMP-10" ellipse
+3 "MMP9" ellipse
+*Arcs
+1 2 0.0810583 l "distance"
+2 1 0.2159650 l "distance"
+2 3 0.2129683 l "distance"
+3 2 0.0350480 l "distance"
+1 2 0.0810583 l "distance"
+2 1 0.2159650 l "distance"
+2 3 0.2129683 l "distance"
+3 2 0.0350480 l "distance"
+*Edges

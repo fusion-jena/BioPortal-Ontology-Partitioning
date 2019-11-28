@@ -1,0 +1,162 @@
+*Vertices 33
+1 "food content" ellipse
+2 "cholesterol content" ellipse
+3 "high cholesterol" ellipse
+4 "low cholesterol" ellipse
+5 "fat content" ellipse
+6 "high fat" ellipse
+7 "high saturated fat" ellipse
+8 "high monounsaturated fat" ellipse
+9 "low fat" ellipse
+10 "low trans fat" ellipse
+11 "low polyunsaturated fat" ellipse
+12 "protein content" ellipse
+13 "high protein" ellipse
+14 "low protein" ellipse
+15 "high sugar" ellipse
+16 "high fructose" ellipse
+17 "high glucose" ellipse
+18 "high sucrose" ellipse
+19 "low sugar" ellipse
+20 "low sucrose" ellipse
+21 "low fructose" ellipse
+22 "low glucose" ellipse
+23 "high polysunsaturated fat" ellipse
+24 "high trans fat" ellipse
+25 "low saturated fat" ellipse
+26 "low monounsaturated fat" ellipse
+27 "carbohydrate content" ellipse
+28 "high carbohydrate" ellipse
+29 "low carbohydrate" ellipse
+30 "nutrient decreased" ellipse
+31 "nutrient increased" ellipse
+32 "nil"
+33 "Class"
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1250000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.2500000 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.1250000 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.1250000 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.1250000 l "isa"
+11 9 0.5000000 l "isa"
+9 11 0.1250000 l "isa"
+12 1 0.3333333 l "isa"
+1 12 0.1250000 l "isa"
+15 28 0.2500000 l "isa"
+28 15 0.2000000 l "isa"
+16 15 0.3333333 l "isa"
+15 16 0.2500000 l "isa"
+17 15 0.3333333 l "isa"
+15 17 0.2500000 l "isa"
+18 15 0.3333333 l "isa"
+15 18 0.2500000 l "isa"
+19 29 0.2500000 l "isa"
+29 19 0.2000000 l "isa"
+20 19 0.3333333 l "isa"
+19 20 0.2500000 l "isa"
+21 19 0.3333333 l "isa"
+19 21 0.2500000 l "isa"
+22 19 0.3333333 l "isa"
+19 22 0.2500000 l "isa"
+23 6 1.0000000 l "isa"
+6 23 0.1250000 l "isa"
+24 6 1.0000000 l "isa"
+6 24 0.1250000 l "isa"
+25 9 1.0000000 l "isa"
+9 25 0.1250000 l "isa"
+26 9 0.5000000 l "isa"
+9 26 0.1250000 l "isa"
+27 1 0.3333333 l "isa"
+1 27 0.1250000 l "isa"
+30 1 0.1666667 l "isa"
+1 30 0.1250000 l "isa"
+31 1 0.1666667 l "isa"
+1 31 0.1250000 l "isa"
+3 32 0.2500000 l "definition"
+32 3 0.1000000 l "definition"
+3 31 0.2500000 l "definition"
+31 3 0.1666667 l "definition"
+3 2 0.2500000 l "definition"
+2 3 0.3333333 l "definition"
+3 33 0.2500000 l "definition"
+33 3 0.1250000 l "definition"
+4 32 0.2500000 l "definition"
+32 4 0.1000000 l "definition"
+4 30 0.2500000 l "definition"
+30 4 0.1666667 l "definition"
+4 2 0.2500000 l "definition"
+2 4 0.3333333 l "definition"
+4 33 0.2500000 l "definition"
+33 4 0.1250000 l "definition"
+6 32 0.1250000 l "definition"
+32 6 0.1000000 l "definition"
+6 5 0.1250000 l "definition"
+5 6 0.2500000 l "definition"
+6 31 0.1250000 l "definition"
+31 6 0.1666667 l "definition"
+6 33 0.1250000 l "definition"
+33 6 0.1250000 l "definition"
+9 32 0.1250000 l "definition"
+32 9 0.1000000 l "definition"
+9 5 0.1250000 l "definition"
+5 9 0.2500000 l "definition"
+9 30 0.1250000 l "definition"
+30 9 0.1666667 l "definition"
+9 33 0.1250000 l "definition"
+33 9 0.1250000 l "definition"
+13 32 0.2500000 l "definition"
+32 13 0.1000000 l "definition"
+13 12 0.2500000 l "definition"
+12 13 0.3333333 l "definition"
+13 31 0.2500000 l "definition"
+31 13 0.1666667 l "definition"
+13 33 0.2500000 l "definition"
+33 13 0.1250000 l "definition"
+14 32 0.2500000 l "definition"
+32 14 0.1000000 l "definition"
+14 12 0.2500000 l "definition"
+12 14 0.3333333 l "definition"
+14 30 0.2500000 l "definition"
+30 14 0.1666667 l "definition"
+14 33 0.2500000 l "definition"
+33 14 0.1250000 l "definition"
+28 32 0.2000000 l "definition"
+32 28 0.1000000 l "definition"
+28 27 0.2000000 l "definition"
+27 28 0.3333333 l "definition"
+28 31 0.2000000 l "definition"
+31 28 0.1666667 l "definition"
+28 33 0.2000000 l "definition"
+33 28 0.1250000 l "definition"
+29 32 0.2000000 l "definition"
+32 29 0.1000000 l "definition"
+29 30 0.2000000 l "definition"
+30 29 0.1666667 l "definition"
+29 27 0.2000000 l "definition"
+27 29 0.3333333 l "definition"
+29 33 0.2000000 l "definition"
+33 29 0.1250000 l "definition"
+1 5 0.2500000 l "distance"
+5 1 0.5000000 l "distance"
+11 26 0.5000000 l "distance"
+26 11 0.5000000 l "distance"
+16 17 0.3333333 l "distance"
+17 16 0.3333333 l "distance"
+16 18 0.3333333 l "distance"
+18 16 0.3333333 l "distance"
+17 18 0.3333333 l "distance"
+18 17 0.3333333 l "distance"
+20 21 0.3333333 l "distance"
+21 20 0.3333333 l "distance"
+20 22 0.3333333 l "distance"
+22 20 0.3333333 l "distance"
+21 22 0.3333333 l "distance"
+22 21 0.3333333 l "distance"
+30 31 0.1666667 l "distance"
+31 30 0.1666667 l "distance"
+*Edges

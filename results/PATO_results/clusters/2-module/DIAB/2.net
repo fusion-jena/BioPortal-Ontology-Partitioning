@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Glomerulosclerosis" ellipse
+2 "glomerulosclerosis" ellipse
+*Arcs
+1 2 0.1818182 l "substring"
+2 1 0.1818182 l "substring"
+1 2 0.1818182 l "distance"
+2 1 0.1818182 l "distance"
+*Edges

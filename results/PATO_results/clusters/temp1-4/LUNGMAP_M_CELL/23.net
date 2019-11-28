@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Channi" ellipse
+2 "Chianina" ellipse
+3 "Chapar" ellipse
+*Arcs
+1 2 0.1171334 l "distance"
+2 1 0.5363861 l "distance"
+1 3 0.1168718 l "distance"
+3 1 0.5331192 l "distance"
+1 2 0.1171334 l "distance"
+2 1 0.5363861 l "distance"
+1 3 0.1168718 l "distance"
+3 1 0.5331192 l "distance"
+1 2 0.1171334 l "distance"
+2 1 0.5363861 l "distance"
+1 3 0.1168718 l "distance"
+3 1 0.5331192 l "distance"
+1 2 0.1171334 l "distance"
+2 1 0.5363861 l "distance"
+1 3 0.1168718 l "distance"
+3 1 0.5331192 l "distance"
+1 2 0.1171334 l "distance"
+2 1 0.5363861 l "distance"
+1 3 0.1168718 l "distance"
+3 1 0.5331192 l "distance"
+*Edges

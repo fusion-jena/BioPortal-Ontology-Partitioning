@@ -1,0 +1,15 @@
+*Vertices 4
+1 "anterior-most region" ellipse
+2 "posterior-most region" ellipse
+3 "anterior region" ellipse
+4 "posterior region" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.0714286 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.0714286 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+3 4 0.0714286 l "distance"
+4 3 0.0714286 l "distance"
+*Edges

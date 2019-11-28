@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Iberian" ellipse
+2 "Tibetan" ellipse
+3 "Qinghai Black Tibetan" ellipse
+*Arcs
+2 3 0.3771608 l "substring"
+3 2 0.3933174 l "substring"
+1 2 0.1935795 l "distance"
+2 1 0.3322852 l "distance"
+2 3 0.3771608 l "substring"
+3 2 0.3933174 l "substring"
+1 2 0.1935795 l "distance"
+2 1 0.3322852 l "distance"
+2 3 0.3771608 l "substring"
+3 2 0.3933174 l "substring"
+1 2 0.1935795 l "distance"
+2 1 0.3322852 l "distance"
+*Edges

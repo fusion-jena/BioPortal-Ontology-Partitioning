@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Cultivos" ellipse
+2 "Sintomas" ellipse
+*Arcs
+2 1 0.6666667 l "es_sintoma_de"
+1 2 0.2857143 l "es_sintoma_de"
+1 2 0.2857143 l "presenta_sintomas"
+2 1 0.6666667 l "presenta_sintomas"
+*Edges

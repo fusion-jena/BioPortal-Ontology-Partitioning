@@ -1,0 +1,9 @@
+*Vertices 2
+1 "BinaryStatus" ellipse
+2 "Present"
+*Arcs
+1 2 0.1753609 l "definition"
+2 1 0.1740091 l "definition"
+1 2 0.1753609 l "definition"
+2 1 0.1740091 l "definition"
+*Edges

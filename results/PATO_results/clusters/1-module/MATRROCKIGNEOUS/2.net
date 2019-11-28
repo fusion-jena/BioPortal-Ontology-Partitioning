@@ -1,0 +1,93 @@
+*Vertices 22
+1 "Aa" ellipse
+2 "Andesite" ellipse
+3 "Basalt" ellipse
+4 "CinderCone" ellipse
+5 "CompositeCone" ellipse
+6 "Dacite" ellipse
+7 "ExtrusiveRock" ellipse
+8 "Lava" ellipse
+9 "Obsidian" ellipse
+10 "Pahoehoe" ellipse
+11 "PillowLava" ellipse
+12 "Pumice" ellipse
+13 "Rhyolite" ellipse
+14 "SpatterCone" ellipse
+15 "Tephra" ellipse
+16 "Trachyandesite" ellipse
+17 "Trachybasalt" ellipse
+18 "Trachyte" ellipse
+19 "Ultramaphic" ellipse
+20 "VolcanicCone" ellipse
+21 "VolcanicNeck" ellipse
+22 "VolcanicRock" ellipse
+*Arcs
+1 7 0.2500000 l "isa"
+7 1 0.0769231 l "isa"
+1 8 0.5000000 l "isa"
+8 1 0.2222222 l "isa"
+2 22 0.5000000 l "isa"
+22 2 0.0500000 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.0769231 l "isa"
+4 20 1.0000000 l "isa"
+20 4 0.2000000 l "isa"
+5 20 1.0000000 l "isa"
+20 5 0.2000000 l "isa"
+6 22 1.0000000 l "isa"
+22 6 0.0500000 l "isa"
+8 7 0.1111111 l "isa"
+7 8 0.0769231 l "isa"
+8 22 0.1111111 l "isa"
+22 8 0.0500000 l "isa"
+9 7 0.5000000 l "isa"
+7 9 0.0769231 l "isa"
+9 8 0.5000000 l "isa"
+8 9 0.1111111 l "isa"
+10 7 0.5000000 l "isa"
+7 10 0.0769231 l "isa"
+10 8 0.5000000 l "isa"
+8 10 0.1111111 l "isa"
+11 7 0.3333333 l "isa"
+7 11 0.0769231 l "isa"
+11 8 0.6666667 l "isa"
+8 11 0.2222222 l "isa"
+12 22 1.0000000 l "isa"
+22 12 0.0500000 l "isa"
+13 22 1.0000000 l "isa"
+22 13 0.0500000 l "isa"
+14 22 1.0000000 l "isa"
+22 14 0.0500000 l "isa"
+15 7 0.5000000 l "isa"
+7 15 0.0769231 l "isa"
+15 22 0.5000000 l "isa"
+22 15 0.0500000 l "isa"
+16 22 0.5000000 l "isa"
+22 16 0.0500000 l "isa"
+17 22 0.5000000 l "isa"
+22 17 0.0500000 l "isa"
+18 22 1.0000000 l "isa"
+22 18 0.0500000 l "isa"
+19 7 0.5000000 l "isa"
+7 19 0.0769231 l "isa"
+19 22 0.5000000 l "isa"
+22 19 0.0500000 l "isa"
+20 22 0.4000000 l "isa"
+22 20 0.1000000 l "isa"
+21 22 1.0000000 l "isa"
+22 21 0.1000000 l "isa"
+22 7 0.0500000 l "isa"
+7 22 0.0769231 l "isa"
+2 16 0.5000000 l "substring"
+16 2 0.5000000 l "substring"
+3 17 0.5000000 l "substring"
+17 3 0.5000000 l "substring"
+8 11 0.2222222 l "substring"
+11 8 0.6666667 l "substring"
+1 8 0.5000000 l "distance"
+8 1 0.2222222 l "distance"
+20 22 0.4000000 l "distance"
+22 20 0.1000000 l "distance"
+21 22 1.0000000 l "distance"
+22 21 0.1000000 l "distance"
+*Edges

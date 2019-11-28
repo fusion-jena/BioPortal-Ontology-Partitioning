@@ -1,0 +1,9 @@
+*Vertices 2
+1 "friction" ellipse
+2 "prediction" ellipse
+*Arcs
+1 2 0.1716703 l "distance"
+2 1 0.2035815 l "distance"
+1 2 0.1716703 l "distance"
+2 1 0.2035815 l "distance"
+*Edges

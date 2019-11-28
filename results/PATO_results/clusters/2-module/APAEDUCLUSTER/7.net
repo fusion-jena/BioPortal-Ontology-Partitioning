@@ -1,0 +1,106 @@
+*Vertices 35
+1 "Ability_Grouping" ellipse
+2 "Advance_Organizers" ellipse
+3 "Apprenticeship" ellipse
+4 "Audiovisual_Instruction" ellipse
+5 "Braille_Instruction" ellipse
+6 "Classroom_Discipline" ellipse
+7 "Classroom_Management" ellipse
+8 "Computer_Assisted_Instruction" ellipse
+9 "Constant_Time_Delay" ellipse
+10 "Feedback" ellipse
+11 "Films" ellipse
+12 "Group_Discussion" ellipse
+13 "Group_Instruction" ellipse
+14 "Home_Schooling" ellipse
+15 "Homework" ellipse
+16 "Individualized_Instruction" ellipse
+17 "Instructional_Media" ellipse
+18 "Interpreters" ellipse
+19 "Language_Laboratories" ellipse
+20 "Lecture_Method" ellipse
+21 "Lesson_Plans" ellipse
+22 "Montessori_Method" ellipse
+23 "On_the_Job_Training" ellipse
+24 "Open_Classroom_Method" ellipse
+25 "Programmed_Instruction" ellipse
+26 "Prompting" ellipse
+27 "Reading_Materials" ellipse
+28 "Remedial_Reading" ellipse
+29 "Scaffolding" ellipse
+30 "Self_Instructional_Training" ellipse
+31 "Sight_Vocabulary" ellipse
+32 "Silent_Reading" ellipse
+33 "Televised_Instruction" ellipse
+34 "Videotape_Instruction" ellipse
+35 "TeachingTeachingMethods" ellipse
+*Arcs
+1 35 1.0000000 l "isa"
+35 1 0.0149254 l "isa"
+2 35 1.0000000 l "isa"
+35 2 0.0149254 l "isa"
+3 35 1.0000000 l "isa"
+35 3 0.0149254 l "isa"
+4 35 1.0000000 l "isa"
+35 4 0.0149254 l "isa"
+5 35 1.0000000 l "isa"
+35 5 0.0149254 l "isa"
+6 35 1.0000000 l "isa"
+35 6 0.0149254 l "isa"
+7 35 1.0000000 l "isa"
+35 7 0.0149254 l "isa"
+8 35 1.0000000 l "isa"
+35 8 0.0149254 l "isa"
+9 35 1.0000000 l "isa"
+35 9 0.0149254 l "isa"
+10 35 1.0000000 l "isa"
+35 10 0.0149254 l "isa"
+11 35 1.0000000 l "isa"
+35 11 0.0149254 l "isa"
+12 35 1.0000000 l "isa"
+35 12 0.0149254 l "isa"
+13 35 1.0000000 l "isa"
+35 13 0.0149254 l "isa"
+14 35 1.0000000 l "isa"
+35 14 0.0149254 l "isa"
+15 35 1.0000000 l "isa"
+35 15 0.0149254 l "isa"
+16 35 1.0000000 l "isa"
+35 16 0.0149254 l "isa"
+17 35 1.0000000 l "isa"
+35 17 0.0149254 l "isa"
+18 35 1.0000000 l "isa"
+35 18 0.0149254 l "isa"
+19 35 1.0000000 l "isa"
+35 19 0.0149254 l "isa"
+20 35 1.0000000 l "isa"
+35 20 0.0149254 l "isa"
+21 35 1.0000000 l "isa"
+35 21 0.0149254 l "isa"
+22 35 1.0000000 l "isa"
+35 22 0.0149254 l "isa"
+23 35 1.0000000 l "isa"
+35 23 0.0149254 l "isa"
+24 35 1.0000000 l "isa"
+35 24 0.0149254 l "isa"
+25 35 1.0000000 l "isa"
+35 25 0.0149254 l "isa"
+26 35 1.0000000 l "isa"
+35 26 0.0149254 l "isa"
+27 35 1.0000000 l "isa"
+35 27 0.0149254 l "isa"
+28 35 1.0000000 l "isa"
+35 28 0.0149254 l "isa"
+29 35 1.0000000 l "isa"
+35 29 0.0149254 l "isa"
+30 35 1.0000000 l "isa"
+35 30 0.0149254 l "isa"
+31 35 1.0000000 l "isa"
+35 31 0.0149254 l "isa"
+32 35 1.0000000 l "isa"
+35 32 0.0149254 l "isa"
+33 35 1.0000000 l "isa"
+35 33 0.0149254 l "isa"
+34 35 1.0000000 l "isa"
+35 34 0.0149254 l "isa"
+*Edges

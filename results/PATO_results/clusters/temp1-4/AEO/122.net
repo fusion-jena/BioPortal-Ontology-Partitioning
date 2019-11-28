@@ -1,0 +1,14 @@
+*Vertices 3
+1 "epithelium" ellipse
+2 "multilaminar epithelium" ellipse
+3 "atypical epithelium" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.0769231 l "isa"
+3 1 0.2857143 l "isa"
+1 3 0.0769231 l "isa"
+1 2 0.0769231 l "substring"
+2 1 0.2857143 l "substring"
+1 3 0.0769231 l "substring"
+3 1 0.2857143 l "substring"
+*Edges

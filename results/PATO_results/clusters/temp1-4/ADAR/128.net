@@ -1,0 +1,22 @@
+*Vertices 3
+1 "AnatomicalSet" ellipse
+2 "SetOfNeuralTreeOrgans" ellipse
+3 "SetOfOrgans" ellipse
+*Arcs
+2 3 0.3024792 l "isa"
+3 2 0.3650496 l "isa"
+3 1 0.3611390 l "isa"
+1 3 0.2828680 l "isa"
+2 3 0.3024792 l "isa"
+3 2 0.3650496 l "isa"
+3 1 0.3611390 l "isa"
+1 3 0.2828680 l "isa"
+2 3 0.3024792 l "isa"
+3 2 0.3650496 l "isa"
+3 1 0.3611390 l "isa"
+1 3 0.2828680 l "isa"
+2 3 0.3024792 l "isa"
+3 2 0.3650496 l "isa"
+3 1 0.3611390 l "isa"
+1 3 0.2828680 l "isa"
+*Edges

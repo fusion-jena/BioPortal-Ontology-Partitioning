@@ -1,0 +1,9 @@
+*Vertices 2
+1 "observational study" ellipse
+2 "prospective observational study" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.3333333 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

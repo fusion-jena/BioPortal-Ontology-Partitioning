@@ -1,0 +1,13 @@
+*Vertices 2
+1 "inactive" ellipse
+2 "inactive asthma" ellipse
+*Arcs
+2 1 0.5703037 l "isa"
+1 2 0.5504587 l "isa"
+1 2 0.5504587 l "substring"
+2 1 0.5703037 l "substring"
+2 1 0.5703037 l "isa"
+1 2 0.5504587 l "isa"
+1 2 0.5504587 l "substring"
+2 1 0.5703037 l "substring"
+*Edges

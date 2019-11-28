@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Precocial" ellipse
+2 "precociality"
+*Arcs
+1 2 0.7344633 l "substring"
+2 1 0.7326007 l "substring"
+1 2 0.7344633 l "distance"
+2 1 0.7326007 l "distance"
+1 2 0.7344633 l "substring"
+2 1 0.7326007 l "substring"
+1 2 0.7344633 l "distance"
+2 1 0.7326007 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "complex partial seizure" ellipse
+2 "Seizure" ellipse
+*Arcs
+1 2 0.7857143 l "isa"
+2 1 0.7508533 l "isa"
+1 2 0.7857143 l "substring"
+2 1 0.7508533 l "substring"
+1 2 0.7857143 l "isa"
+2 1 0.7508533 l "isa"
+1 2 0.7857143 l "substring"
+2 1 0.7508533 l "substring"
+*Edges

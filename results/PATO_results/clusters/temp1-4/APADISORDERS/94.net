@@ -1,0 +1,30 @@
+*Vertices 3
+1 "ABPUL" ellipse
+2 "NEULO" ellipse
+3 "NODUL" ellipse
+*Arcs
+1 3 0.0673501 l "distance"
+3 1 0.1222173 l "distance"
+2 3 0.0592113 l "distance"
+3 2 0.1195693 l "distance"
+1 3 0.0673501 l "distance"
+3 1 0.1222173 l "distance"
+2 3 0.0592113 l "distance"
+3 2 0.1195693 l "distance"
+1 3 0.0673501 l "distance"
+3 1 0.1222173 l "distance"
+2 3 0.0592113 l "distance"
+3 2 0.1195693 l "distance"
+1 3 0.0673501 l "distance"
+3 1 0.1222173 l "distance"
+2 3 0.0592113 l "distance"
+3 2 0.1195693 l "distance"
+1 3 0.0673501 l "distance"
+3 1 0.1222173 l "distance"
+2 3 0.0592113 l "distance"
+3 2 0.1195693 l "distance"
+1 3 0.0673501 l "distance"
+3 1 0.1222173 l "distance"
+2 3 0.0592113 l "distance"
+3 2 0.1195693 l "distance"
+*Edges

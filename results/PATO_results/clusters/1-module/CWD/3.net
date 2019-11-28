@@ -1,0 +1,26 @@
+*Vertices 7
+1 "awakeningsCount" ellipse
+2 "minutesAfterWakeup" ellipse
+3 "minutesAsleep" ellipse
+4 "minutesAwake" ellipse
+5 "minutesToFallAsleep" ellipse
+6 "sleep" ellipse
+7 "timeInBed" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.1111111 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1111111 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.2222222 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1111111 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.2222222 l "isa"
+7 6 1.0000000 l "isa"
+6 7 0.1111111 l "isa"
+3 6 1.0000000 l "substring"
+6 3 0.2222222 l "substring"
+5 6 1.0000000 l "substring"
+6 5 0.2222222 l "substring"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 9
+1 "Chalcogen" ellipse
+2 "Halogen" ellipse
+3 "Chemical" ellipse
+4 "Atmophile" ellipse
+5 "Chalcophile" ellipse
+6 "ChemicalElement" ellipse
+7 "Ha" ellipse
+8 "Lithophile" ellipse
+9 "Metalloid" ellipse
+*Arcs
+3 6 0.5000000 l "substring"
+6 3 0.5000000 l "substring"
+1 7 0.3333333 l "substring"
+7 1 0.3333333 l "substring"
+5 7 0.5000000 l "substring"
+7 5 0.3333333 l "substring"
+7 2 0.3333333 l "substring"
+2 7 0.3333333 l "substring"
+4 8 0.5000000 l "distance"
+8 4 0.5000000 l "distance"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

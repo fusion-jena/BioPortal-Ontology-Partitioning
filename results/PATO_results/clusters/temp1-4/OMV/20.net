@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Antarctic_Regions" ellipse
+2 "Arctic_Regions" ellipse
+*Arcs
+1 2 0.6846611 l "substring"
+2 1 0.6846611 l "substring"
+1 2 0.6846611 l "distance"
+2 1 0.6846611 l "distance"
+1 2 0.6846611 l "substring"
+2 1 0.6846611 l "substring"
+1 2 0.6846611 l "distance"
+2 1 0.6846611 l "distance"
+1 2 0.6846611 l "substring"
+2 1 0.6846611 l "substring"
+1 2 0.6846611 l "distance"
+2 1 0.6846611 l "distance"
+1 2 0.6846611 l "substring"
+2 1 0.6846611 l "substring"
+1 2 0.6846611 l "distance"
+2 1 0.6846611 l "distance"
+*Edges

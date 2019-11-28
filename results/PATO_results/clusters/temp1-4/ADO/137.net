@@ -1,0 +1,11 @@
+*Vertices 2
+1 "sirtuin" ellipse
+2 "sirtuin 1" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+1 2 0.2500000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.2500000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

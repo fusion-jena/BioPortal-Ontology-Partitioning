@@ -1,0 +1,15 @@
+*Vertices 4
+1 "agent" ellipse
+2 "organization" ellipse
+3 "person" ellipse
+4 "software agent" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1666667 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.3333333 l "isa"
+1 4 0.3333333 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

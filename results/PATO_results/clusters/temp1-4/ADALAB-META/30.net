@@ -1,0 +1,24 @@
+*Vertices 5
+1 "BoneMarrow" ellipse
+2 "BoneMarrowProgenitorCellSample" ellipse
+3 "OrganRegion" ellipse
+4 "OrganZone" ellipse
+5 "ZoneOfBoneOrgan" ellipse
+*Arcs
+1 5 0.3493242 l "isa"
+5 1 0.2600095 l "isa"
+4 3 0.3391857 l "isa"
+3 4 0.2173729 l "isa"
+5 4 0.2600095 l "isa"
+4 5 0.3458802 l "isa"
+1 2 0.3348361 l "substring"
+2 1 0.1520756 l "substring"
+1 5 0.3493242 l "isa"
+5 1 0.2600095 l "isa"
+4 3 0.3391857 l "isa"
+3 4 0.2173729 l "isa"
+5 4 0.2600095 l "isa"
+4 5 0.3458802 l "isa"
+1 2 0.3348361 l "substring"
+2 1 0.1520756 l "substring"
+*Edges

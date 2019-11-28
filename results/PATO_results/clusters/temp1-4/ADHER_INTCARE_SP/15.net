@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Disease_or_Syndrome" ellipse
+2 "Obstetric_Complications" ellipse
+3 "Pathologic_Function_NOS" ellipse
+4 "Pathologic_function" ellipse
+*Arcs
+1 4 0.3815585 l "isa"
+4 1 0.1939334 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.3075086 l "isa"
+3 4 0.5246114 l "isa"
+4 3 0.4796812 l "isa"
+3 4 0.5246114 l "substring"
+4 3 0.4796812 l "substring"
+1 4 0.3815585 l "isa"
+4 1 0.1939334 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.3075086 l "isa"
+3 4 0.5246114 l "isa"
+4 3 0.4796812 l "isa"
+3 4 0.5246114 l "substring"
+4 3 0.4796812 l "substring"
+1 4 0.3815585 l "isa"
+4 1 0.1939334 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.3075086 l "isa"
+3 4 0.5246114 l "isa"
+4 3 0.4796812 l "isa"
+3 4 0.5246114 l "substring"
+4 3 0.4796812 l "substring"
+*Edges

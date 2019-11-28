@@ -1,0 +1,23 @@
+*Vertices 2
+1 "gametology" ellipse
+2 "chromosomal homology" ellipse
+*Arcs
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+1 2 0.8521199 l "isa"
+2 1 0.5823556 l "isa"
+*Edges

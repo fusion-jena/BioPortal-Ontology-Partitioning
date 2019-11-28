@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Learning_Disabilities" ellipse
+2 "Reading_Disabilities" ellipse
+*Arcs
+1 2 0.1904730 l "distance"
+2 1 0.2739101 l "distance"
+1 2 0.1904730 l "distance"
+2 1 0.2739101 l "distance"
+*Edges

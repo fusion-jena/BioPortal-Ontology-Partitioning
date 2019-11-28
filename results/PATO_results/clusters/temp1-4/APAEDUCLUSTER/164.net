@@ -1,0 +1,45 @@
+*Vertices 6
+1 "Aphagia" ellipse
+2 "Aphasia" ellipse
+3 "Dyspepsia" ellipse
+4 "Dysphagia" ellipse
+5 "Dysphasia" ellipse
+6 "Dysphonia" ellipse
+*Arcs
+1 2 0.2030998 l "distance"
+2 1 0.1316564 l "distance"
+1 4 0.2080535 l "distance"
+4 1 0.2032159 l "distance"
+2 5 0.1316564 l "distance"
+5 2 0.1700024 l "distance"
+3 4 0.2039133 l "distance"
+4 3 0.2032159 l "distance"
+3 5 0.2039133 l "distance"
+5 3 0.1741488 l "distance"
+3 6 0.2039133 l "distance"
+6 3 0.1741488 l "distance"
+4 5 0.2032159 l "distance"
+5 4 0.1741488 l "distance"
+4 6 0.2032159 l "distance"
+6 4 0.1741488 l "distance"
+5 6 0.1741488 l "distance"
+6 5 0.1741488 l "distance"
+1 2 0.2030998 l "distance"
+2 1 0.1316564 l "distance"
+1 4 0.2080535 l "distance"
+4 1 0.2032159 l "distance"
+2 5 0.1316564 l "distance"
+5 2 0.1700024 l "distance"
+3 4 0.2039133 l "distance"
+4 3 0.2032159 l "distance"
+3 5 0.2039133 l "distance"
+5 3 0.1741488 l "distance"
+3 6 0.2039133 l "distance"
+6 3 0.1741488 l "distance"
+4 5 0.2032159 l "distance"
+5 4 0.1741488 l "distance"
+4 6 0.2032159 l "distance"
+6 4 0.1741488 l "distance"
+5 6 0.1741488 l "distance"
+6 5 0.1741488 l "distance"
+*Edges

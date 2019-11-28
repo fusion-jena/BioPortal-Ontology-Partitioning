@@ -1,0 +1,7 @@
+*Vertices 2
+1 "response to chemical stimulus" ellipse
+2 "Chemical" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "anatomical entity environment" ellipse
+2 "anatomical entity" ellipse
+*Arcs
+1 2 0.1811389 l "definition"
+2 1 0.2148880 l "definition"
+1 2 0.1811389 l "substring"
+2 1 0.2148880 l "substring"
+1 2 0.1811389 l "definition"
+2 1 0.2148880 l "definition"
+1 2 0.1811389 l "substring"
+2 1 0.2148880 l "substring"
+*Edges

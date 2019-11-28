@@ -1,0 +1,34 @@
+*Vertices 3
+1 "aerosol environment" ellipse
+2 "saline aerosol environment" ellipse
+3 "non-saline aerosol environment" ellipse
+*Arcs
+2 1 0.2365998 l "isa"
+1 2 0.2165281 l "isa"
+3 1 0.2193664 l "isa"
+1 3 0.2152468 l "isa"
+2 1 0.2365998 l "definition"
+1 2 0.2165281 l "definition"
+3 1 0.2193664 l "definition"
+1 3 0.2152468 l "definition"
+1 2 0.2165281 l "substring"
+2 1 0.2365998 l "substring"
+1 3 0.2152468 l "substring"
+3 1 0.2193664 l "substring"
+2 3 0.0698444 l "substring"
+3 2 0.0651426 l "substring"
+2 1 0.2365998 l "isa"
+1 2 0.2165281 l "isa"
+3 1 0.2193664 l "isa"
+1 3 0.2152468 l "isa"
+2 1 0.2365998 l "definition"
+1 2 0.2165281 l "definition"
+3 1 0.2193664 l "definition"
+1 3 0.2152468 l "definition"
+1 2 0.2165281 l "substring"
+2 1 0.2365998 l "substring"
+1 3 0.2152468 l "substring"
+3 1 0.2193664 l "substring"
+2 3 0.0698444 l "substring"
+3 2 0.0651426 l "substring"
+*Edges

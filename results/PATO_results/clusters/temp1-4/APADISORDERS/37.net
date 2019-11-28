@@ -1,0 +1,17 @@
+*Vertices 2
+1 "airway inflammation" ellipse
+2 "airway inflammation" ellipse
+*Arcs
+1 2 0.4061679 l "substring"
+2 1 0.4366077 l "substring"
+1 2 0.4061679 l "distance"
+2 1 0.4366077 l "distance"
+1 2 0.4061679 l "substring"
+2 1 0.4366077 l "substring"
+1 2 0.4061679 l "distance"
+2 1 0.4366077 l "distance"
+1 2 0.4061679 l "substring"
+2 1 0.4366077 l "substring"
+1 2 0.4061679 l "distance"
+2 1 0.4366077 l "distance"
+*Edges

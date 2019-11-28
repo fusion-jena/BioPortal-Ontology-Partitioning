@@ -1,0 +1,10 @@
+*Vertices 3
+1 "ncbi_nucleotide" ellipse
+2 "nucleotide" ellipse
+3 "nucleotide_variation" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.5000000 l "substring"
+2 3 0.5000000 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

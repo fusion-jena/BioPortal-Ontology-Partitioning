@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Acarbose" ellipse
+2 "Alpha-glucosidase inhibitor" ellipse
+3 "Miglitol" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2500000 l "isa"
+*Edges

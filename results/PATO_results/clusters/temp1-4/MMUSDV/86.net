@@ -1,0 +1,9 @@
+*Vertices 2
+1 "American Samoa" ellipse
+2 "Samoa" ellipse
+*Arcs
+1 2 0.1710709 l "substring"
+2 1 0.0749171 l "substring"
+1 2 0.1710709 l "substring"
+2 1 0.0749171 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "celecoxib" ellipse
+2 "Cyclooxygenase 2 Inhibitors" ellipse
+*Arcs
+1 2 0.5242291 l "isa"
+2 1 0.3739717 l "isa"
+1 2 0.5242291 l "isa"
+2 1 0.3739717 l "isa"
+*Edges

@@ -1,0 +1,69 @@
+*Vertices 10
+1 "basal cell" ellipse
+2 "mast cell" ellipse
+3 "myeloid cell" ellipse
+4 "megakaryocyte" ellipse
+5 "platelet" ellipse
+6 "basal cell" ellipse
+7 "mast cell" ellipse
+8 "myeloid cell" ellipse
+9 "megakaryocyte" ellipse
+10 "platelet" ellipse
+*Arcs
+2 3 0.2618684 l "isa"
+3 2 0.1586238 l "isa"
+4 3 0.2610549 l "isa"
+3 4 0.1525304 l "isa"
+5 4 0.5621302 l "isa"
+4 5 0.4153833 l "isa"
+1 2 0.1594957 l "distance"
+2 1 0.2699785 l "distance"
+2 3 0.2618684 l "isa"
+3 2 0.1586238 l "isa"
+4 3 0.2610549 l "isa"
+3 4 0.1525304 l "isa"
+5 4 0.5621302 l "isa"
+4 5 0.4153833 l "isa"
+1 2 0.1594957 l "distance"
+2 1 0.2699785 l "distance"
+2 3 0.2618684 l "isa"
+3 2 0.1586238 l "isa"
+4 3 0.2610549 l "isa"
+3 4 0.1525304 l "isa"
+5 4 0.5621302 l "isa"
+4 5 0.4153833 l "isa"
+7 8 0.2000000 l "isa"
+8 7 0.1250000 l "isa"
+9 8 0.2500000 l "isa"
+8 9 0.1250000 l "isa"
+10 9 0.3333333 l "isa"
+9 10 0.2500000 l "isa"
+1 6 0.1843811 l "substring"
+6 1 0.2222222 l "substring"
+2 7 0.3121020 l "substring"
+7 2 0.4000000 l "substring"
+3 8 0.1890522 l "substring"
+8 3 0.2500000 l "substring"
+4 9 0.3235617 l "substring"
+9 4 0.5000000 l "substring"
+5 10 0.4378698 l "substring"
+10 5 0.6666667 l "substring"
+1 2 0.1594957 l "distance"
+2 1 0.2699785 l "distance"
+1 6 0.1843811 l "distance"
+6 1 0.2222222 l "distance"
+1 7 0.0921906 l "distance"
+7 1 0.2000000 l "distance"
+2 6 0.1560510 l "distance"
+6 2 0.1111111 l "distance"
+2 7 0.3121020 l "distance"
+7 2 0.4000000 l "distance"
+3 8 0.1890522 l "distance"
+8 3 0.2500000 l "distance"
+4 9 0.3235617 l "distance"
+9 4 0.5000000 l "distance"
+5 10 0.4378698 l "distance"
+10 5 0.6666667 l "distance"
+6 7 0.1111111 l "distance"
+7 6 0.2000000 l "distance"
+*Edges

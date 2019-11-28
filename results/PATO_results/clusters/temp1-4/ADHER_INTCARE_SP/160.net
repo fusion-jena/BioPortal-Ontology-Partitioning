@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Electronic_device" ellipse
+2 "Ingestible_Microsensor" ellipse
+3 "Has_Type_Style"
+*Arcs
+2 1 0.2548502 l "isa"
+1 2 0.0883173 l "isa"
+1 3 0.0802566 l "definition"
+3 1 0.0368985 l "definition"
+2 3 0.2497936 l "definition"
+3 2 0.0397988 l "definition"
+2 1 0.2548502 l "isa"
+1 2 0.0883173 l "isa"
+1 3 0.0802566 l "definition"
+3 1 0.0368985 l "definition"
+2 3 0.2497936 l "definition"
+3 2 0.0397988 l "definition"
+*Edges

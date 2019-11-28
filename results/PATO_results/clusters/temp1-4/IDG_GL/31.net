@@ -1,0 +1,21 @@
+*Vertices 2
+1 "is quality measurement of"
+2 "is quality measured as"
+*Arcs
+1 2 0.6840581 l "definition"
+2 1 0.8005390 l "definition"
+2 1 0.8005390 l "definition"
+1 2 0.6840581 l "definition"
+1 2 0.6840581 l "definition"
+2 1 0.8005390 l "definition"
+2 1 0.8005390 l "definition"
+1 2 0.6840581 l "definition"
+1 2 0.6840581 l "definition"
+2 1 0.8005390 l "definition"
+2 1 0.8005390 l "definition"
+1 2 0.6840581 l "definition"
+1 2 0.6840581 l "definition"
+2 1 0.8005390 l "definition"
+2 1 0.8005390 l "definition"
+1 2 0.6840581 l "definition"
+*Edges

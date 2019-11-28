@@ -1,0 +1,7 @@
+*Vertices 2
+1 "connective tissue cell" ellipse
+2 "reticular cell" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2500000 l "isa"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Engraftment" ellipse
+2 "hasOutcome"
+*Arcs
+1 2 0.2727983 l "definition"
+2 1 0.1651672 l "definition"
+1 2 0.2727983 l "definition"
+2 1 0.1651672 l "definition"
+1 2 0.2727983 l "definition"
+2 1 0.1651672 l "definition"
+*Edges

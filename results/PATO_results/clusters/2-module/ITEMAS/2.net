@@ -1,0 +1,57 @@
+*Vertices 14
+1 "Acuerdo" ellipse
+2 "Acuerdo_Exclusividad" ellipse
+3 "Alianza" ellipse
+4 "Convenio_Marco" ellipse
+5 "Instrumento_Legal" ellipse
+6 "Mecenazgo" ellipse
+7 "Resultado_Proyecto" ellipse
+8 "esUnInstrumento"
+9 "acuerdoProviene"
+10 "daLugarA"
+11 "daLugarAEBT"
+12 "resultadoDe"
+13 "daLugarADesarrollo"
+14 "esProtegidoPor"
+*Arcs
+2 1 0.1818182 l "isa"
+1 2 0.0909091 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0454545 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0454545 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0454545 l "isa"
+2 7 0.3636364 l "acuerdoProviene"
+7 2 0.1142857 l "acuerdoProviene"
+7 2 0.1142857 l "daLugarAcuerdo"
+2 7 0.3636364 l "daLugarAcuerdo"
+1 5 0.0909091 l "esUnInstrumento"
+5 1 1.0000000 l "esUnInstrumento"
+1 8 0.0454545 l "definition"
+8 1 1.0000000 l "definition"
+1 5 0.0909091 l "definition"
+5 1 1.0000000 l "definition"
+2 7 0.3636364 l "definition"
+7 2 0.1142857 l "definition"
+2 9 0.0909091 l "definition"
+9 2 0.5000000 l "definition"
+7 12 0.0285714 l "definition"
+12 7 1.0000000 l "definition"
+7 13 0.0285714 l "definition"
+13 7 0.5000000 l "definition"
+7 2 0.1142857 l "definition"
+2 7 0.3636364 l "definition"
+7 14 0.0285714 l "definition"
+14 7 1.0000000 l "definition"
+1 2 0.0909091 l "substring"
+2 1 0.1818182 l "substring"
+1 9 0.0454545 l "substring"
+9 1 0.5000000 l "substring"
+10 11 0.4000000 l "substring"
+11 10 0.5000000 l "substring"
+10 13 0.2000000 l "substring"
+13 10 0.5000000 l "substring"
+10 11 0.4000000 l "distance"
+11 10 0.5000000 l "distance"
+*Edges

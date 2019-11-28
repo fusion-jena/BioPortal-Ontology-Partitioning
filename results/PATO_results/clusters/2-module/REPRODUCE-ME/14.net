@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Calibrated Magnification" ellipse
+2 "Lens Numerical Aperture" ellipse
+3 "Nominal Magnification" ellipse
+4 "Objective Settings" ellipse
+5 "Refractive Index" ellipse
+6 "Working Distance" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.0769231 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.0769231 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0769231 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0769231 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0769231 l "isa"
+*Edges

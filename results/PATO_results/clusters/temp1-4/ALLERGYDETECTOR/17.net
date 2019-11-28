@@ -1,0 +1,23 @@
+*Vertices 4
+1 "FEVER" ellipse
+2 "FEVG5" ellipse
+3 "MESGL" ellipse
+4 "SNVGM" ellipse
+*Arcs
+2 1 0.1508556 l "isa"
+1 2 0.0974451 l "isa"
+1 2 0.0974451 l "distance"
+2 1 0.1508556 l "distance"
+2 3 0.0712449 l "distance"
+3 2 0.0394058 l "distance"
+2 4 0.0711105 l "distance"
+4 2 0.0351696 l "distance"
+2 1 0.1508556 l "isa"
+1 2 0.0974451 l "isa"
+1 2 0.0974451 l "distance"
+2 1 0.1508556 l "distance"
+2 3 0.0712449 l "distance"
+3 2 0.0394058 l "distance"
+2 4 0.0711105 l "distance"
+4 2 0.0351696 l "distance"
+*Edges

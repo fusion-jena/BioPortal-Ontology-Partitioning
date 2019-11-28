@@ -1,0 +1,13 @@
+*Vertices 2
+1 "plant density measurement protocol using quadrat" ellipse
+2 "plant density measurement protocol" ellipse
+*Arcs
+1 2 0.4475153 l "isa"
+2 1 0.3218015 l "isa"
+1 2 0.4475153 l "substring"
+2 1 0.3218015 l "substring"
+1 2 0.4475153 l "isa"
+2 1 0.3218015 l "isa"
+1 2 0.4475153 l "substring"
+2 1 0.3218015 l "substring"
+*Edges

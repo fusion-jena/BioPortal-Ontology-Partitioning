@@ -1,0 +1,26 @@
+*Vertices 9
+1 "db"
+2 "Restriction"
+3 "has_participant"
+4 "Amination" ellipse
+5 "DrugDrugInteraction" ellipse
+6 "Oxidation" ellipse
+7 "SmallMolecule" ellipse
+8 "UnificationXref" ellipse
+9 "structureFormat"
+*Arcs
+7 7 0.1818182 l "hasNeighbor"
+7 7 0.1818182 l "hasNeighbor"
+5 2 0.1250000 l "definition"
+2 5 0.1000000 l "definition"
+5 7 0.1250000 l "definition"
+7 5 0.0909091 l "definition"
+5 3 0.1250000 l "definition"
+3 5 0.2000000 l "definition"
+8 2 0.1250000 l "definition"
+2 8 0.1000000 l "definition"
+8 1 0.1250000 l "definition"
+1 8 0.1666667 l "definition"
+4 6 0.2500000 l "distance"
+6 4 0.2500000 l "distance"
+*Edges

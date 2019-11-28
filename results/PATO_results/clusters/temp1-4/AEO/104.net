@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Alzheimers disease Anti-inflamatory prevention trial" ellipse
+2 "Beta Amyloid control" ellipse
+*Arcs
+2 1 0.0932581 l "definition"
+1 2 0.2670695 l "definition"
+2 1 0.0932581 l "definition"
+1 2 0.2670695 l "definition"
+2 1 0.0932581 l "definition"
+1 2 0.2670695 l "definition"
+*Edges

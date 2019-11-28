@@ -1,0 +1,9 @@
+*Vertices 2
+1 "C2362326" ellipse
+2 "C2362503" ellipse
+*Arcs
+1 2 0.0434783 l "isa"
+2 1 0.0327869 l "isa"
+1 2 0.0434783 l "distance"
+2 1 0.0327869 l "distance"
+*Edges

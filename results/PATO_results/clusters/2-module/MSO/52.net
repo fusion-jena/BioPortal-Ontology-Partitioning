@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Kallikrein-1" ellipse
+2 "Kallikrein-6" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

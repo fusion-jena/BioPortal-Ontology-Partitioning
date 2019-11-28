@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Death_Anxiety" ellipse
+2 "Test_Anxiety" ellipse
+*Arcs
+1 2 0.1968061 l "distance"
+2 1 0.2617430 l "distance"
+1 2 0.1968061 l "distance"
+2 1 0.2617430 l "distance"
+*Edges

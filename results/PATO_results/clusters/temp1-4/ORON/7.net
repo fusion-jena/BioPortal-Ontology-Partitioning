@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Location" ellipse
+2 "country"
+*Arcs
+1 2 0.0795379 l "definition"
+2 1 0.5066305 l "definition"
+1 2 0.0795379 l "definition"
+2 1 0.5066305 l "definition"
+*Edges

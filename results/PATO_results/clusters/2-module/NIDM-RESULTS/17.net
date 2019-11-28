@@ -1,0 +1,22 @@
+*Vertices 5
+1 "MRI protocol" ellipse
+2 "Functional MRI protocol" ellipse
+3 "Structural MRI protocol" ellipse
+4 "Anatomical MRI protocol" ellipse
+5 "Diffusion-weighted imaging protocol" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2857143 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.2857143 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.2500000 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2500000 l "isa"
+1 2 0.2857143 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.2857143 l "substring"
+3 1 0.5000000 l "substring"
+1 4 0.1428571 l "substring"
+4 1 0.5000000 l "substring"
+*Edges

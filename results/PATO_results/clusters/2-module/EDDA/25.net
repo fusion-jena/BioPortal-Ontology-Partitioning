@@ -1,0 +1,10 @@
+*Vertices 3
+1 "community-based participatory study" ellipse
+2 "community study" ellipse
+3 "preventive community trial" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+*Edges

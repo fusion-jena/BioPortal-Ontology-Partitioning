@@ -1,0 +1,24 @@
+*Vertices 7
+1 "well plate" ellipse
+2 "reservoir" ellipse
+3 "container" ellipse
+4 "cell holder" ellipse
+5 "to count" ellipse
+6 "to count cells" ellipse
+7 "cell" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1428571 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.1428571 l "isa"
+6 5 0.6666667 l "isa"
+5 6 0.2000000 l "isa"
+4 7 0.5000000 l "substring"
+7 4 0.0238095 l "substring"
+5 6 0.2000000 l "substring"
+6 5 0.6666667 l "substring"
+6 7 0.3333333 l "substring"
+7 6 0.0238095 l "substring"
+*Edges

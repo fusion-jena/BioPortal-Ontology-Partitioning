@@ -1,0 +1,13 @@
+*Vertices 2
+1 "morphine" ellipse
+2 "morphine sulfate" ellipse
+*Arcs
+2 1 0.7239902 l "isa"
+1 2 0.4634761 l "isa"
+1 2 0.4634761 l "substring"
+2 1 0.7239902 l "substring"
+2 1 0.7239902 l "isa"
+1 2 0.4634761 l "isa"
+1 2 0.4634761 l "substring"
+2 1 0.7239902 l "substring"
+*Edges

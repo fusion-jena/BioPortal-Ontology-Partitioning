@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Scarce_Capacity_for_Self_Management" ellipse
+2 "Self_management" ellipse
+*Arcs
+1 2 0.3600765 l "substring"
+2 1 0.3570632 l "substring"
+1 2 0.3600765 l "substring"
+2 1 0.3570632 l "substring"
+*Edges

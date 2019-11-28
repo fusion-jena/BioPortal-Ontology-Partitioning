@@ -1,0 +1,26 @@
+*Vertices 3
+1 "19 weeks" ellipse
+2 "20 weeks" ellipse
+3 "21 weeks" ellipse
+*Arcs
+2 1 0.0498577 l "definition"
+1 2 0.0486338 l "definition"
+3 2 0.0486314 l "definition"
+2 3 0.0498577 l "definition"
+1 2 0.0486338 l "distance"
+2 1 0.0498577 l "distance"
+1 3 0.0237511 l "distance"
+3 1 0.0237499 l "distance"
+2 3 0.0498577 l "distance"
+3 2 0.0486314 l "distance"
+2 1 0.0498577 l "definition"
+1 2 0.0486338 l "definition"
+3 2 0.0486314 l "definition"
+2 3 0.0498577 l "definition"
+1 2 0.0486338 l "distance"
+2 1 0.0498577 l "distance"
+1 3 0.0237511 l "distance"
+3 1 0.0237499 l "distance"
+2 3 0.0498577 l "distance"
+3 2 0.0486314 l "distance"
+*Edges

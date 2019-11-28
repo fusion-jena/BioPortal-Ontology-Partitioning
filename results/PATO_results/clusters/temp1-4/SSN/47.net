@@ -1,0 +1,23 @@
+*Vertices 2
+1 "kinase inhibitor" ellipse
+2 "Janus kinase inhibitor" ellipse
+*Arcs
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+1 2 0.7039201 l "substring"
+2 1 0.7039201 l "substring"
+*Edges

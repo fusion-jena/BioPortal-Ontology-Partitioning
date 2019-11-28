@@ -1,0 +1,22 @@
+*Vertices 7
+1 "esOrganoDe"
+2 "TunicaCorazónSubendotelio" ellipse
+3 "TunicaVasosSanguineosAdventicia" ellipse
+4 "ConectivoLaxo" ellipse
+5 "EstructuraVasoVasorum" ellipse
+6 "Restriction"
+7 "estaCompuestoDe"
+*Arcs
+2 4 0.2500000 l "definition"
+4 2 0.2500000 l "definition"
+2 6 0.2500000 l "definition"
+6 2 0.0714286 l "definition"
+2 7 0.2500000 l "definition"
+7 2 0.1250000 l "definition"
+3 4 0.2500000 l "definition"
+4 3 0.2500000 l "definition"
+3 6 0.2500000 l "definition"
+6 3 0.0714286 l "definition"
+3 7 0.2500000 l "definition"
+7 3 0.1250000 l "definition"
+*Edges

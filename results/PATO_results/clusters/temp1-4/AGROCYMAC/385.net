@@ -1,0 +1,9 @@
+*Vertices 2
+1 "biological feature identification objective" ellipse
+2 "organism feature identification objective" ellipse
+*Arcs
+2 1 0.1498588 l "isa"
+1 2 0.1744280 l "isa"
+2 1 0.1498588 l "isa"
+1 2 0.1744280 l "isa"
+*Edges

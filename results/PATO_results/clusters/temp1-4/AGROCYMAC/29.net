@@ -1,0 +1,27 @@
+*Vertices 4
+1 "pot" ellipse
+2 "potassium molecular entity" ellipse
+3 "potassium(1+)" ellipse
+4 "elemental potassium" ellipse
+*Arcs
+3 4 0.1222159 l "isa"
+4 3 0.3379111 l "isa"
+4 2 0.3379111 l "isa"
+2 4 0.1238634 l "isa"
+1 2 0.0121317 l "substring"
+2 1 0.1075690 l "substring"
+1 3 0.0121317 l "substring"
+3 1 0.1061383 l "substring"
+1 4 0.0134017 l "substring"
+4 1 0.3241778 l "substring"
+3 4 0.1222159 l "isa"
+4 3 0.3379111 l "isa"
+4 2 0.3379111 l "isa"
+2 4 0.1238634 l "isa"
+1 2 0.0121317 l "substring"
+2 1 0.1075690 l "substring"
+1 3 0.0121317 l "substring"
+3 1 0.1061383 l "substring"
+1 4 0.0134017 l "substring"
+4 1 0.3241778 l "substring"
+*Edges

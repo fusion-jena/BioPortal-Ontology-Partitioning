@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Study Registry Documents" ellipse
+2 "Trial Approval" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1666667 l "isa"
+*Edges

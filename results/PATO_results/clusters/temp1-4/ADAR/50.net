@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Interactions_with_Friends_and_Family" ellipse
+2 "Poor_Treatment_by_Others_in_Social_Settings" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1666667 l "isa"
+*Edges

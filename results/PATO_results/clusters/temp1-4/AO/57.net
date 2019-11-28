@@ -1,0 +1,21 @@
+*Vertices 2
+1 "KNBAK" ellipse
+2 "KNOB" ellipse
+*Arcs
+1 2 0.0798120 l "isa"
+2 1 0.0330192 l "isa"
+1 2 0.0798120 l "distance"
+2 1 0.0330192 l "distance"
+1 2 0.0798120 l "isa"
+2 1 0.0330192 l "isa"
+1 2 0.0798120 l "distance"
+2 1 0.0330192 l "distance"
+1 2 0.0798120 l "isa"
+2 1 0.0330192 l "isa"
+1 2 0.0798120 l "distance"
+2 1 0.0330192 l "distance"
+1 2 0.0798120 l "isa"
+2 1 0.0330192 l "isa"
+1 2 0.0798120 l "distance"
+2 1 0.0330192 l "distance"
+*Edges

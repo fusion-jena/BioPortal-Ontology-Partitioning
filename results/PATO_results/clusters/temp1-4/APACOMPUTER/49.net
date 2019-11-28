@@ -1,0 +1,29 @@
+*Vertices 2
+1 "Slaughter" ellipse
+2 "Home slaughter" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.8918657 l "isa"
+1 2 0.8918657 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8918657 l "isa"
+1 2 0.8918657 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8918657 l "isa"
+1 2 0.8918657 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8918657 l "isa"
+1 2 0.8918657 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8918657 l "isa"
+1 2 0.8918657 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.8918657 l "isa"
+1 2 0.8918657 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

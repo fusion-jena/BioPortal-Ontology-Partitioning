@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Property Reification" ellipse
+2 "Property" ellipse
+*Arcs
+1 2 0.8333333 l "has object property"
+2 1 1.0000000 l "has object property"
+1 2 0.8333333 l "has shortcut"
+2 1 1.0000000 l "has shortcut"
+1 2 0.8333333 l "has shortcut property"
+2 1 1.0000000 l "has shortcut property"
+1 2 0.8333333 l "has subject property"
+2 1 1.0000000 l "has subject property"
+1 2 0.8333333 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

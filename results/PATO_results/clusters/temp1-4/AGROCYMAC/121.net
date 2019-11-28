@@ -1,0 +1,32 @@
+*Vertices 5
+1 "to support" ellipse
+2 "to provision" ellipse
+3 "to supply" ellipse
+4 "to stabilize" ellipse
+5 "to sample" ellipse
+*Arcs
+3 2 0.3394378 l "isa"
+2 3 0.2401917 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1769255 l "isa"
+1 3 0.1183868 l "distance"
+3 1 0.3121795 l "distance"
+3 5 0.3483827 l "distance"
+5 3 0.2757027 l "distance"
+3 2 0.3394378 l "isa"
+2 3 0.2401917 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1769255 l "isa"
+1 3 0.1183868 l "distance"
+3 1 0.3121795 l "distance"
+3 5 0.3483827 l "distance"
+5 3 0.2757027 l "distance"
+3 2 0.3394378 l "isa"
+2 3 0.2401917 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1769255 l "isa"
+1 3 0.1183868 l "distance"
+3 1 0.3121795 l "distance"
+3 5 0.3483827 l "distance"
+5 3 0.2757027 l "distance"
+*Edges

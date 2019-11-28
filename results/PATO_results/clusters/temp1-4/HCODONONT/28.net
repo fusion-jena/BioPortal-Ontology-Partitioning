@@ -1,0 +1,13 @@
+*Vertices 2
+1 "State" ellipse
+2 "State" ellipse
+*Arcs
+1 2 0.1963408 l "substring"
+2 1 0.2395331 l "substring"
+1 2 0.1963408 l "distance"
+2 1 0.2395331 l "distance"
+1 2 0.1963408 l "substring"
+2 1 0.2395331 l "substring"
+1 2 0.1963408 l "distance"
+2 1 0.2395331 l "distance"
+*Edges

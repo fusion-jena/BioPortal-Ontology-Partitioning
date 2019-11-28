@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Askanian" ellipse
+2 "Albanian" ellipse
+*Arcs
+1 2 0.2685263 l "distance"
+2 1 0.3520658 l "distance"
+1 2 0.2685263 l "distance"
+2 1 0.3520658 l "distance"
+*Edges

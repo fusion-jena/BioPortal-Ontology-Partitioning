@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Percentage_adh_lower_30" ellipse
+2 "Adh_SMAQ__Value_Question_5"
+*Arcs
+1 2 0.1135145 l "definition"
+2 1 0.0541454 l "definition"
+1 2 0.1135145 l "definition"
+2 1 0.0541454 l "definition"
+*Edges

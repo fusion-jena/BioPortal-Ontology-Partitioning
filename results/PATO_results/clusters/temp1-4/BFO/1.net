@@ -1,0 +1,19 @@
+*Vertices 6
+1 "disposition" ellipse
+2 "realizable entity" ellipse
+3 "role" ellipse
+4 "site" ellipse
+5 "function" ellipse
+6 "immaterial entity" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.2500000 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.1428571 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.5000000 l "isa"
+3 4 0.5000000 l "distance"
+4 3 0.5000000 l "distance"
+*Edges

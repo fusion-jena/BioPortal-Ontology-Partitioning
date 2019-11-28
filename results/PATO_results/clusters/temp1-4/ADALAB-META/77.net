@@ -1,0 +1,44 @@
+*Vertices 5
+1 "Behavior" ellipse
+2 "Personal Behavior" ellipse
+3 "Sexual Intercourse" ellipse
+4 "Difficult to manage behavior" ellipse
+5 "Behavior finding" ellipse
+*Arcs
+2 1 0.3123612 l "isa"
+1 2 0.1573564 l "isa"
+3 2 0.2919263 l "isa"
+2 3 0.1562919 l "isa"
+4 5 0.3827958 l "isa"
+5 4 0.2312400 l "isa"
+1 2 0.1573564 l "substring"
+2 1 0.3123612 l "substring"
+1 4 0.0778168 l "substring"
+4 1 0.3434044 l "substring"
+1 5 0.0683447 l "substring"
+5 1 0.1821935 l "substring"
+2 1 0.3123612 l "isa"
+1 2 0.1573564 l "isa"
+3 2 0.2919263 l "isa"
+2 3 0.1562919 l "isa"
+4 5 0.3827958 l "isa"
+5 4 0.2312400 l "isa"
+1 2 0.1573564 l "substring"
+2 1 0.3123612 l "substring"
+1 4 0.0778168 l "substring"
+4 1 0.3434044 l "substring"
+1 5 0.0683447 l "substring"
+5 1 0.1821935 l "substring"
+2 1 0.3123612 l "isa"
+1 2 0.1573564 l "isa"
+3 2 0.2919263 l "isa"
+2 3 0.1562919 l "isa"
+4 5 0.3827958 l "isa"
+5 4 0.2312400 l "isa"
+1 2 0.1573564 l "substring"
+2 1 0.3123612 l "substring"
+1 4 0.0778168 l "substring"
+4 1 0.3434044 l "substring"
+1 5 0.0683447 l "substring"
+5 1 0.1821935 l "substring"
+*Edges

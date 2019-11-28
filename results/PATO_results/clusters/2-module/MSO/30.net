@@ -1,0 +1,32 @@
+*Vertices 9
+1 "Adrenocorticotropic_Hormone" ellipse
+2 "Betamethasone" ellipse
+3 "Corticosteroids" ellipse
+4 "Cortisone" ellipse
+5 "therapy using Dexamethasone" ellipse
+6 "Glucocorticoids" ellipse
+7 "Methylprednisolone" ellipse
+8 "Prednisolone" ellipse
+9 "Prednisone" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1111111 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1111111 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1111111 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1111111 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.1111111 l "isa"
+8 3 0.3333333 l "isa"
+3 8 0.1111111 l "isa"
+9 3 0.5000000 l "isa"
+3 9 0.1111111 l "isa"
+7 8 0.5000000 l "substring"
+8 7 0.3333333 l "substring"
+8 9 0.3333333 l "distance"
+9 8 0.5000000 l "distance"
+*Edges

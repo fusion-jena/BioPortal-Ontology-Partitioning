@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Education" ellipse
+2 "Ethics" ellipse
+3 "Music" ellipse
+4 "Social Sciences/Humanities" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1250000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1250000 l "isa"
+*Edges

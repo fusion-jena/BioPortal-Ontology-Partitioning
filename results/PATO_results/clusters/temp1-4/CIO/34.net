@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Nuclear Medicine" ellipse
+2 "Study Subject Nuclear Medicine" ellipse
+3 "Study Subject Nuclear Medicine Report" ellipse
+*Arcs
+2 1 0.7251134 l "isa"
+1 2 0.4360255 l "isa"
+3 1 0.7251134 l "isa"
+1 3 0.4360255 l "isa"
+1 2 0.4360255 l "substring"
+2 1 0.7251134 l "substring"
+1 3 0.4360255 l "substring"
+3 1 0.7251134 l "substring"
+2 3 0.2748865 l "substring"
+3 2 0.2748865 l "substring"
+2 1 0.7251134 l "isa"
+1 2 0.4360255 l "isa"
+3 1 0.7251134 l "isa"
+1 3 0.4360255 l "isa"
+1 2 0.4360255 l "substring"
+2 1 0.7251134 l "substring"
+1 3 0.4360255 l "substring"
+3 1 0.7251134 l "substring"
+2 3 0.2748865 l "substring"
+3 2 0.2748865 l "substring"
+2 1 0.7251134 l "isa"
+1 2 0.4360255 l "isa"
+3 1 0.7251134 l "isa"
+1 3 0.4360255 l "isa"
+1 2 0.4360255 l "substring"
+2 1 0.7251134 l "substring"
+1 3 0.4360255 l "substring"
+3 1 0.7251134 l "substring"
+2 3 0.2748865 l "substring"
+3 2 0.2748865 l "substring"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Regional" ellipse
+2 "Regionality" ellipse
+*Arcs
+1 2 0.3750000 l "isa"
+2 1 0.4285714 l "isa"
+1 2 0.3750000 l "substring"
+2 1 0.4285714 l "substring"
+1 2 0.3750000 l "distance"
+2 1 0.4285714 l "distance"
+*Edges

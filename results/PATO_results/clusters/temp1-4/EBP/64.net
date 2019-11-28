@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Databases" ellipse
+2 "Parallel Database" ellipse
+3 "Relational Database" ellipse
+*Arcs
+2 1 0.1141166 l "isa"
+1 2 0.0687593 l "isa"
+3 1 0.1141166 l "isa"
+1 3 0.0687593 l "isa"
+2 1 0.1141166 l "isa"
+1 2 0.0687593 l "isa"
+3 1 0.1141166 l "isa"
+1 3 0.0687593 l "isa"
+*Edges

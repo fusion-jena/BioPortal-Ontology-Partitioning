@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Feature" ellipse
+2 "GeneralFeature" ellipse
+3 "ReasonArtificialLocation" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.0535714 l "isa"
+1 3 0.0357143 l "artificialLocation"
+3 1 0.2857143 l "artificialLocation"
+1 2 0.0535714 l "definition"
+2 1 0.5000000 l "definition"
+1 3 0.0357143 l "definition"
+3 1 0.2857143 l "definition"
+1 2 0.0535714 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

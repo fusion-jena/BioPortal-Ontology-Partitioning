@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Medication" ellipse
+2 "Surgery" ellipse
+3 "Procedure" ellipse
+4 "Treatment" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.2500000 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 0.2500000 l "isa"
+4 3 0.1666667 l "isa"
+*Edges

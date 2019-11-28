@@ -1,0 +1,18 @@
+*Vertices 15
+1 "Anchor" ellipse
+2 "Attribute" ellipse
+3 "Biopax" ellipse
+4 "Comment" ellipse
+5 "DataNode" ellipse
+6 "GraphicalLine" ellipse
+7 "Group" ellipse
+8 "InfoBox" ellipse
+9 "Interaction" ellipse
+10 "Label" ellipse
+11 "Legend" ellipse
+12 "Pathway" ellipse
+13 "Point" ellipse
+14 "RequiresCurationAttention" ellipse
+15 "ConceptScheme" ellipse
+*Arcs
+*Edges

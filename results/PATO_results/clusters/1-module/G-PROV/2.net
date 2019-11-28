@@ -1,0 +1,97 @@
+*Vertices 24
+1 "audio document" ellipse
+2 "audio-visual document" ellipse
+3 "book" ellipse
+4 "book Section" ellipse
+5 "chapter" ellipse
+6 "collected Document" ellipse
+7 "collection" ellipse
+8 "document" ellipse
+9 "document part" ellipse
+10 "document Status" ellipse
+11 "edited Book" ellipse
+12 "manual" ellipse
+13 "manuscript" ellipse
+14 "periodical" ellipse
+15 "proceedings" ellipse
+16 "report" ellipse
+17 "website" ellipse
+18 "author" ellipse
+19 "string"
+20 "decimal"
+21 "Literal"
+22 "anyURI"
+23 "nil"
+24 "uri"
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.0800000 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0800000 l "isa"
+3 8 0.2500000 l "isa"
+8 3 0.0400000 l "isa"
+4 9 0.3333333 l "isa"
+9 4 0.3333333 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.3333333 l "isa"
+6 8 0.5000000 l "isa"
+8 6 0.0800000 l "isa"
+9 8 0.6666667 l "isa"
+8 9 0.0800000 l "isa"
+11 6 0.5000000 l "isa"
+6 11 0.2500000 l "isa"
+12 8 1.0000000 l "isa"
+8 12 0.0400000 l "isa"
+13 8 1.0000000 l "isa"
+8 13 0.0400000 l "isa"
+14 7 0.2500000 l "isa"
+7 14 0.3333333 l "isa"
+15 3 1.0000000 l "isa"
+3 15 0.2500000 l "isa"
+16 8 1.0000000 l "isa"
+8 16 0.0400000 l "isa"
+17 7 1.0000000 l "isa"
+7 17 0.3333333 l "isa"
+8 19 0.0800000 l "title"
+19 8 1.0000000 l "title"
+8 18 0.0400000 l "contributor list"
+18 8 1.0000000 l "contributor list"
+8 19 0.0800000 l "presented at"
+19 8 1.0000000 l "presented at"
+8 20 0.0400000 l "issue"
+20 8 1.0000000 l "issue"
+8 21 0.1200000 l "page end"
+21 8 1.0000000 l "page end"
+8 21 0.1200000 l "page start"
+21 8 1.0000000 l "page start"
+8 22 0.0400000 l "uri"
+22 8 0.3333333 l "uri"
+8 21 0.1200000 l "volume"
+21 8 1.0000000 l "volume"
+24 7 0.1250000 l "definition"
+7 24 0.3333333 l "definition"
+24 23 0.2500000 l "definition"
+23 24 0.4000000 l "definition"
+24 8 0.1250000 l "definition"
+8 24 0.0400000 l "definition"
+1 8 1.0000000 l "substring"
+8 1 0.0800000 l "substring"
+2 8 1.0000000 l "substring"
+8 2 0.0800000 l "substring"
+3 4 0.2500000 l "substring"
+4 3 0.3333333 l "substring"
+3 11 0.2500000 l "substring"
+11 3 0.5000000 l "substring"
+6 8 0.5000000 l "substring"
+8 6 0.0800000 l "substring"
+8 9 0.0800000 l "substring"
+9 8 0.6666667 l "substring"
+8 10 0.0400000 l "substring"
+10 8 1.0000000 l "substring"
+22 24 0.6666667 l "substring"
+24 22 0.2500000 l "substring"
+22 24 0.6666667 l "distance"
+24 22 0.2500000 l "distance"
+23 24 0.4000000 l "distance"
+24 23 0.2500000 l "distance"
+*Edges

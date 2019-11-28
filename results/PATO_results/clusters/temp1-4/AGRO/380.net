@@ -1,0 +1,11 @@
+*Vertices 2
+1 "hydrographic feature" ellipse
+2 "saline hydrographic feature" ellipse
+*Arcs
+2 1 0.2000000 l "isa"
+1 2 0.1200000 l "isa"
+2 1 0.2000000 l "definition"
+1 2 0.1200000 l "definition"
+1 2 0.1200000 l "substring"
+2 1 0.2000000 l "substring"
+*Edges

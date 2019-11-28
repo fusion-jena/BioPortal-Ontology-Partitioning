@@ -1,0 +1,25 @@
+*Vertices 2
+1 "AdjuvantTherapy" ellipse
+2 "NeoadjuvantTherapy" ellipse
+*Arcs
+1 2 0.4261546 l "substring"
+2 1 0.4261546 l "substring"
+1 2 0.4261546 l "distance"
+2 1 0.4261546 l "distance"
+1 2 0.4261546 l "substring"
+2 1 0.4261546 l "substring"
+1 2 0.4261546 l "distance"
+2 1 0.4261546 l "distance"
+1 2 0.4261546 l "substring"
+2 1 0.4261546 l "substring"
+1 2 0.4261546 l "distance"
+2 1 0.4261546 l "distance"
+1 2 0.4261546 l "substring"
+2 1 0.4261546 l "substring"
+1 2 0.4261546 l "distance"
+2 1 0.4261546 l "distance"
+1 2 0.4261546 l "substring"
+2 1 0.4261546 l "substring"
+1 2 0.4261546 l "distance"
+2 1 0.4261546 l "distance"
+*Edges

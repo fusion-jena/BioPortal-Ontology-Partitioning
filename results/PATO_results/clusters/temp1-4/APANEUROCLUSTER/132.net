@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Intimate_Partner_Violence" ellipse
+2 "Violence" ellipse
+3 "Workplace_Violence" ellipse
+*Arcs
+1 2 0.3595672 l "substring"
+2 1 0.1585562 l "substring"
+2 3 0.1585562 l "substring"
+3 2 0.3595672 l "substring"
+1 2 0.3595672 l "substring"
+2 1 0.1585562 l "substring"
+2 3 0.1585562 l "substring"
+3 2 0.3595672 l "substring"
+1 2 0.3595672 l "substring"
+2 1 0.1585562 l "substring"
+2 3 0.1585562 l "substring"
+3 2 0.3595672 l "substring"
+*Edges

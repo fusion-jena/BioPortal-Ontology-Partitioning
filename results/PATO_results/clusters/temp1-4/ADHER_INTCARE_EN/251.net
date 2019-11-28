@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Loss_of_language_skills_after_acquisition_phenotype" ellipse
+2 "Lost_language_skills_after_acquisition" ellipse
+*Arcs
+2 1 0.2175959 l "isa"
+1 2 0.1823676 l "isa"
+2 1 0.2175959 l "isa"
+1 2 0.1823676 l "isa"
+*Edges

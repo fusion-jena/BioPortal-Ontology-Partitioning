@@ -1,0 +1,13 @@
+*Vertices 2
+1 "nitrogen use efficiency" ellipse
+2 "nitrogen use efficiency measurement protocol" ellipse
+*Arcs
+2 1 0.2925285 l "definition"
+1 2 0.5344129 l "definition"
+1 2 0.5344129 l "substring"
+2 1 0.2925285 l "substring"
+2 1 0.2925285 l "definition"
+1 2 0.5344129 l "definition"
+1 2 0.5344129 l "substring"
+2 1 0.2925285 l "substring"
+*Edges

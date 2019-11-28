@@ -1,0 +1,10 @@
+*Vertices 3
+1 "tube" ellipse
+2 "cleaning" ellipse
+3 "tube breeding" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.0833333 l "isa"
+1 3 0.0476190 l "substring"
+3 1 0.5000000 l "substring"
+*Edges

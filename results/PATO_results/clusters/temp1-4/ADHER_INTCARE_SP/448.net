@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Unusual_attachment_so_intrusive_that_it_prevents_many_everyday_activities" ellipse
+2 "uatt_Unusual_attachment_so_intrusive_that_it_prevents_many_everyday_activities"
+*Arcs
+1 2 0.1341758 l "substring"
+2 1 0.1212629 l "substring"
+1 2 0.1341758 l "substring"
+2 1 0.1212629 l "substring"
+1 2 0.1341758 l "substring"
+2 1 0.1212629 l "substring"
+*Edges

@@ -1,0 +1,74 @@
+*Vertices 11
+1 "Auditory areas" ellipse
+2 "Cerebral cortex, layer 2" ellipse
+3 "Cerebral cortex, layer 2-3" ellipse
+4 "Cerebral cortex, layer 6" ellipse
+5 "Cerebral cortex, layer 6a" ellipse
+6 "Cerebral cortex, layer 1" ellipse
+7 "Cerebral cortex, layer 3" ellipse
+8 "Cerebral cortex, layer 4" ellipse
+9 "Cerebral cortex, layer 5" ellipse
+10 "Cerebellum" ellipse
+11 "Hindbrain" ellipse
+*Arcs
+2 3 0.2000000 l "substring"
+3 2 0.2000000 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.2000000 l "substring"
+6 2 0.1111111 l "distance"
+2 6 0.1000000 l "distance"
+6 3 0.1111111 l "distance"
+3 6 0.1000000 l "distance"
+6 7 0.1111111 l "distance"
+7 6 0.1111111 l "distance"
+6 8 0.1111111 l "distance"
+8 6 0.1111111 l "distance"
+6 9 0.1111111 l "distance"
+9 6 0.1111111 l "distance"
+6 4 0.1111111 l "distance"
+4 6 0.1000000 l "distance"
+6 5 0.1111111 l "distance"
+5 6 0.1000000 l "distance"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+2 7 0.1000000 l "distance"
+7 2 0.1111111 l "distance"
+2 8 0.1000000 l "distance"
+8 2 0.1111111 l "distance"
+2 9 0.1000000 l "distance"
+9 2 0.1111111 l "distance"
+2 4 0.1000000 l "distance"
+4 2 0.1000000 l "distance"
+2 5 0.1000000 l "distance"
+5 2 0.1000000 l "distance"
+3 7 0.1000000 l "distance"
+7 3 0.1111111 l "distance"
+3 8 0.1000000 l "distance"
+8 3 0.1111111 l "distance"
+3 9 0.1000000 l "distance"
+9 3 0.1111111 l "distance"
+3 4 0.1000000 l "distance"
+4 3 0.1000000 l "distance"
+3 5 0.1000000 l "distance"
+5 3 0.1000000 l "distance"
+7 8 0.1111111 l "distance"
+8 7 0.1111111 l "distance"
+7 9 0.1111111 l "distance"
+9 7 0.1111111 l "distance"
+7 4 0.1111111 l "distance"
+4 7 0.1000000 l "distance"
+7 5 0.1111111 l "distance"
+5 7 0.1000000 l "distance"
+8 9 0.1111111 l "distance"
+9 8 0.1111111 l "distance"
+8 4 0.1111111 l "distance"
+4 8 0.1000000 l "distance"
+8 5 0.1111111 l "distance"
+5 8 0.1000000 l "distance"
+9 4 0.1111111 l "distance"
+4 9 0.1000000 l "distance"
+9 5 0.1111111 l "distance"
+5 9 0.1000000 l "distance"
+4 5 0.2000000 l "distance"
+5 4 0.2000000 l "distance"
+*Edges

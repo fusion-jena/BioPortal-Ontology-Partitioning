@@ -1,0 +1,34 @@
+*Vertices 7
+1 "manganese atom" ellipse
+2 "molybdenum atom" ellipse
+3 "copper atom" ellipse
+4 "chromium group element atom" ellipse
+5 "manganese group element atom" ellipse
+6 "copper group element atom" ellipse
+7 "d-block element atom" ellipse
+*Arcs
+1 5 0.1767322 l "isa"
+5 1 0.2091529 l "isa"
+2 4 0.2122405 l "isa"
+4 2 0.2114757 l "isa"
+3 6 0.1767322 l "isa"
+6 3 0.2091529 l "isa"
+4 7 0.2026643 l "isa"
+7 4 0.1029182 l "isa"
+5 7 0.2032613 l "isa"
+7 5 0.1029182 l "isa"
+6 7 0.2032613 l "isa"
+7 6 0.1029182 l "isa"
+1 5 0.1767322 l "isa"
+5 1 0.2091529 l "isa"
+2 4 0.2122405 l "isa"
+4 2 0.2114757 l "isa"
+3 6 0.1767322 l "isa"
+6 3 0.2091529 l "isa"
+4 7 0.2026643 l "isa"
+7 4 0.1029182 l "isa"
+5 7 0.2032613 l "isa"
+7 5 0.1029182 l "isa"
+6 7 0.2032613 l "isa"
+7 6 0.1029182 l "isa"
+*Edges

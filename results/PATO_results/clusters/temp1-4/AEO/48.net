@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Mental Status Exam" ellipse
+2 "Mini mental status examination" ellipse
+*Arcs
+1 2 0.4152156 l "substring"
+2 1 0.4134804 l "substring"
+1 2 0.4152156 l "substring"
+2 1 0.4134804 l "substring"
+1 2 0.4152156 l "substring"
+2 1 0.4134804 l "substring"
+*Edges

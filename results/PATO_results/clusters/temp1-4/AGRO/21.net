@@ -1,0 +1,19 @@
+*Vertices 4
+1 "stopping" ellipse
+2 "indicating" ellipse
+3 "inhibiting" ellipse
+4 "preventing" ellipse
+*Arcs
+3 1 0.3615635 l "isa"
+1 3 0.1257043 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1494861 l "isa"
+2 3 0.1833460 l "distance"
+3 2 0.3648208 l "distance"
+3 1 0.3615635 l "isa"
+1 3 0.1257043 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1494861 l "isa"
+2 3 0.1833460 l "distance"
+3 2 0.3648208 l "distance"
+*Edges

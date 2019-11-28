@@ -1,0 +1,35 @@
+*Vertices 10
+1 "mast cell" ellipse
+2 "monocyte" ellipse
+3 "myeloid cell" ellipse
+4 "natural killer cell" ellipse
+5 "nuocyte" ellipse
+6 "fetal monocyte" ellipse
+7 "megakaryocyte" ellipse
+8 "lymphoid cell" ellipse
+9 "innate lymphoid cell" ellipse
+10 "platelet" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 0.2500000 l "isa"
+3 2 0.1428571 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.2500000 l "isa"
+5 9 0.5000000 l "isa"
+9 5 0.2500000 l "isa"
+6 3 0.5000000 l "isa"
+3 6 0.1428571 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.1428571 l "isa"
+9 8 0.5000000 l "isa"
+8 9 0.5000000 l "isa"
+10 7 1.0000000 l "isa"
+7 10 0.5000000 l "isa"
+2 6 0.2500000 l "substring"
+6 2 0.5000000 l "substring"
+8 9 0.5000000 l "substring"
+9 8 0.5000000 l "substring"
+2 5 0.2500000 l "distance"
+5 2 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "manufacturing" ellipse
+2 "manufacturing objective" ellipse
+*Arcs
+1 2 0.2005800 l "definition"
+2 1 0.5343235 l "definition"
+1 2 0.2005800 l "substring"
+2 1 0.5343235 l "substring"
+1 2 0.2005800 l "definition"
+2 1 0.5343235 l "definition"
+1 2 0.2005800 l "substring"
+2 1 0.5343235 l "substring"
+*Edges

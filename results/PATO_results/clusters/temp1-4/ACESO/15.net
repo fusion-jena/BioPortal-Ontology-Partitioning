@@ -1,0 +1,20 @@
+*Vertices 5
+1 "Person" ellipse
+2 "Ethnic group" ellipse
+3 "Group" ellipse
+4 "Person categorized by age" ellipse
+5 "Social context" ellipse
+*Arcs
+1 5 0.1250000 l "isa"
+5 1 0.5000000 l "isa"
+2 3 0.6666667 l "isa"
+3 2 0.2857143 l "isa"
+3 5 0.1428571 l "isa"
+5 3 0.5000000 l "isa"
+4 1 0.6666667 l "isa"
+1 4 0.2500000 l "isa"
+1 4 0.2500000 l "substring"
+4 1 0.6666667 l "substring"
+2 3 0.6666667 l "substring"
+3 2 0.2857143 l "substring"
+*Edges

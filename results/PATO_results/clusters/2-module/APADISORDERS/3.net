@@ -1,0 +1,433 @@
+*Vertices 144
+1 "Addisons_Disease" ellipse
+2 "Albinism" ellipse
+3 "Alien_Limb_Syndrome" ellipse
+4 "Anencephaly" ellipse
+5 "Angina_Pectoris" ellipse
+6 "Athetosis" ellipse
+7 "Bradycardia" ellipse
+8 "Bradykinesia" ellipse
+9 "Brain_Concussion" ellipse
+10 "Brain_Damage" ellipse
+11 "Carbon_Monoxide_Poisoning" ellipse
+12 "Catabolism" ellipse
+13 "Cataracts" ellipse
+14 "Cerebral_Palsy" ellipse
+15 "Cerebrovascular_Accidents" ellipse
+16 "Chronic_Illness" ellipse
+17 "Chronic_Obstructive_Pulmonary_Disease" ellipse
+18 "Cleft_Palate" ellipse
+19 "Conversion_Disorder" ellipse
+20 "Cornelia_De_Lange_Syndrome" ellipse
+21 "Coronary_Prone_Behavior" ellipse
+22 "Crying_Cat_Syndrome" ellipse
+23 "Cushings_Syndrome" ellipse
+24 "Cystic_Fibrosis" ellipse
+25 "Diaschisis" ellipse
+26 "Drug_Allergies" ellipse
+27 "Dyspareunia" ellipse
+28 "Embolisms" ellipse
+29 "Encephalitis" ellipse
+30 "Epilepsy" ellipse
+31 "Epstein_Barr_Viral_Disorder" ellipse
+32 "Erectile_Dysfunction" ellipse
+33 "Failure_to_Thrive" ellipse
+34 "Female_Sexual_Dysfunction" ellipse
+35 "Fibromyalgia" ellipse
+36 "Food_Allergies" ellipse
+37 "Fragile_X_Syndrome" ellipse
+38 "Gastrointestinal_Ulcers" ellipse
+39 "General_Paresis" ellipse
+40 "Goiters" ellipse
+41 "Guillain-Barre_Syndrome" ellipse
+42 "Hay_Fever" ellipse
+43 "Health_Impairments" ellipse
+44 "Hemianopia" ellipse
+45 "Hemiparesis" ellipse
+46 "Hemiplegia" ellipse
+47 "Hermaphroditism" ellipse
+48 "Herpes_Genitalis" ellipse
+49 "Herpes_Simplex" ellipse
+50 "Huntingtons_Disease" ellipse
+51 "Hydrocephalus" ellipse
+52 "Hyperkinesis" ellipse
+53 "Hyperphagia" ellipse
+54 "Hypersexuality" ellipse
+55 "Hypochondriasis" ellipse
+56 "Hypogonadism" ellipse
+57 "Hypopituitarism" ellipse
+58 "Hysterical_Vision_Disturbances" ellipse
+59 "Infertility" ellipse
+60 "Influenza" ellipse
+61 "Irritable_Bowel_Syndrome" ellipse
+62 "Jaundice" ellipse
+63 "Kidney_Diseases" ellipse
+64 "Kleine_Levin_Syndrome" ellipse
+65 "Klinefelters_Syndrome" ellipse
+66 "Kwashiorkor" ellipse
+67 "Lead_Poisoning" ellipse
+68 "Leukemias" ellipse
+69 "Lyme_Disease" ellipse
+70 "Menieres_Disease" ellipse
+71 "Meningoradiculitis" ellipse
+72 "Mercury_Poisoning" ellipse
+73 "Metabolic_Syndrome" ellipse
+74 "Microcephaly" ellipse
+75 "Motion_Sickness" ellipse
+76 "Multiple_Sclerosis" ellipse
+77 "Myocardial_Infarctions" ellipse
+78 "Myoclonus" ellipse
+79 "Narcolepsy" ellipse
+80 "Neurodegenerative_Diseases" ellipse
+81 "Neuroleptic_Malignant_Syndrome" ellipse
+82 "Nutritional_Deficiencies" ellipse
+83 "Nystagmus" ellipse
+84 "Obstetrical_Complications" ellipse
+85 "Osteoporosis" ellipse
+86 "Paraplegia" ellipse
+87 "Partially_Hearing_Impaired" ellipse
+88 "Partially_Sighted" ellipse
+89 "Pellagra" ellipse
+90 "Perceptual_Disturbances" ellipse
+91 "Peripheral_Neuropathy" ellipse
+92 "Phantom_Limbs" ellipse
+93 "Phenylketonuria" ellipse
+94 "Physical_Disfigurement" ellipse
+95 "Pneumonia" ellipse
+96 "Porphyria" ellipse
+97 "Prader_Willi_Syndrome" ellipse
+98 "Premature_Ejaculation" ellipse
+99 "Premenstrual_Dysphoric_Disorder" ellipse
+100 "Premenstrual_Syndrome" ellipse
+101 "Priapism" ellipse
+102 "Progressive_Supranuclear_Palsy" ellipse
+103 "Pseudocyesis" ellipse
+104 "Pulmonary_Emphysema" ellipse
+105 "Quadriplegia" ellipse
+106 "Refraction_Errors" ellipse
+107 "Restless_Leg_Syndrome" ellipse
+108 "Rett_Syndrome" ellipse
+109 "Rheumatic_Fever" ellipse
+110 "Rubella" ellipse
+111 "Sexual_Function_Disturbances" ellipse
+112 "Sexually_Transmitted_Diseases" ellipse
+113 "Sickle_Cell_Disease" ellipse
+114 "Spina_Bifida" ellipse
+115 "Status_Epilepticus" ellipse
+116 "Sterility" ellipse
+117 "Strabismus" ellipse
+118 "Sudden_Infant_Death" ellipse
+119 "Synesthesia" ellipse
+120 "Tachycardia" ellipse
+121 "Tay_Sachs_Disease" ellipse
+122 "Terminal_Cancer" ellipse
+123 "Terminally_Ill_Patients" ellipse
+124 "Testicular_Feminization_Syndrome" ellipse
+125 "Thyrotoxicosis" ellipse
+126 "Tinnitus" ellipse
+127 "Torticollis" ellipse
+128 "Tourette_Syndrome" ellipse
+129 "Traumatic_Brain_Injury" ellipse
+130 "Tunnel_Vision" ellipse
+131 "Turners_Syndrome" ellipse
+132 "Vaginismus" ellipse
+133 "Whiplash" ellipse
+134 "Williams_Syndrome" ellipse
+135 "Arrhythmias_(Heart)" ellipse
+136 "Cirrhosis_(Liver)" ellipse
+137 "Disabled_(Attitudes_Toward)" ellipse
+138 "Down's_Syndrome" ellipse
+139 "Fibrillation_(Heart)" ellipse
+140 "Parkinson's_Disease" ellipse
+141 "Physical_Illness_(Attitudes_Toward)" ellipse
+142 "Sclerosis_(Nervous_System)" ellipse
+143 "Wernicke's_Syndrome" ellipse
+144 "PhysicalPsychosomaticDisorders" ellipse
+*Arcs
+1 144 1.0000000 l "isa"
+144 1 0.0030581 l "isa"
+2 144 1.0000000 l "isa"
+144 2 0.0030581 l "isa"
+3 144 1.0000000 l "isa"
+144 3 0.0030581 l "isa"
+4 144 1.0000000 l "isa"
+144 4 0.0030581 l "isa"
+5 144 1.0000000 l "isa"
+144 5 0.0030581 l "isa"
+6 144 1.0000000 l "isa"
+144 6 0.0030581 l "isa"
+7 144 1.0000000 l "isa"
+144 7 0.0030581 l "isa"
+8 144 1.0000000 l "isa"
+144 8 0.0030581 l "isa"
+9 144 1.0000000 l "isa"
+144 9 0.0030581 l "isa"
+10 144 1.0000000 l "isa"
+144 10 0.0030581 l "isa"
+11 144 1.0000000 l "isa"
+144 11 0.0030581 l "isa"
+12 144 1.0000000 l "isa"
+144 12 0.0030581 l "isa"
+13 144 1.0000000 l "isa"
+144 13 0.0030581 l "isa"
+14 144 1.0000000 l "isa"
+144 14 0.0030581 l "isa"
+15 144 1.0000000 l "isa"
+144 15 0.0030581 l "isa"
+16 144 1.0000000 l "isa"
+144 16 0.0030581 l "isa"
+17 144 1.0000000 l "isa"
+144 17 0.0030581 l "isa"
+18 144 1.0000000 l "isa"
+144 18 0.0030581 l "isa"
+19 144 1.0000000 l "isa"
+144 19 0.0030581 l "isa"
+20 144 1.0000000 l "isa"
+144 20 0.0030581 l "isa"
+21 144 1.0000000 l "isa"
+144 21 0.0030581 l "isa"
+22 144 1.0000000 l "isa"
+144 22 0.0030581 l "isa"
+23 144 1.0000000 l "isa"
+144 23 0.0030581 l "isa"
+24 144 1.0000000 l "isa"
+144 24 0.0030581 l "isa"
+25 144 1.0000000 l "isa"
+144 25 0.0030581 l "isa"
+26 144 1.0000000 l "isa"
+144 26 0.0030581 l "isa"
+27 144 1.0000000 l "isa"
+144 27 0.0030581 l "isa"
+28 144 1.0000000 l "isa"
+144 28 0.0030581 l "isa"
+29 144 1.0000000 l "isa"
+144 29 0.0030581 l "isa"
+30 144 1.0000000 l "isa"
+144 30 0.0030581 l "isa"
+31 144 1.0000000 l "isa"
+144 31 0.0030581 l "isa"
+32 144 1.0000000 l "isa"
+144 32 0.0030581 l "isa"
+33 144 1.0000000 l "isa"
+144 33 0.0030581 l "isa"
+34 144 1.0000000 l "isa"
+144 34 0.0030581 l "isa"
+35 144 1.0000000 l "isa"
+144 35 0.0030581 l "isa"
+36 144 1.0000000 l "isa"
+144 36 0.0030581 l "isa"
+37 144 1.0000000 l "isa"
+144 37 0.0030581 l "isa"
+38 144 1.0000000 l "isa"
+144 38 0.0030581 l "isa"
+39 144 1.0000000 l "isa"
+144 39 0.0030581 l "isa"
+40 144 1.0000000 l "isa"
+144 40 0.0030581 l "isa"
+41 144 1.0000000 l "isa"
+144 41 0.0030581 l "isa"
+42 144 1.0000000 l "isa"
+144 42 0.0030581 l "isa"
+43 144 1.0000000 l "isa"
+144 43 0.0030581 l "isa"
+44 144 1.0000000 l "isa"
+144 44 0.0030581 l "isa"
+45 144 1.0000000 l "isa"
+144 45 0.0030581 l "isa"
+46 144 1.0000000 l "isa"
+144 46 0.0030581 l "isa"
+47 144 1.0000000 l "isa"
+144 47 0.0030581 l "isa"
+48 144 1.0000000 l "isa"
+144 48 0.0030581 l "isa"
+49 144 1.0000000 l "isa"
+144 49 0.0030581 l "isa"
+50 144 1.0000000 l "isa"
+144 50 0.0030581 l "isa"
+51 144 1.0000000 l "isa"
+144 51 0.0030581 l "isa"
+52 144 1.0000000 l "isa"
+144 52 0.0030581 l "isa"
+53 144 1.0000000 l "isa"
+144 53 0.0030581 l "isa"
+54 144 1.0000000 l "isa"
+144 54 0.0030581 l "isa"
+55 144 1.0000000 l "isa"
+144 55 0.0030581 l "isa"
+56 144 1.0000000 l "isa"
+144 56 0.0030581 l "isa"
+57 144 1.0000000 l "isa"
+144 57 0.0030581 l "isa"
+58 144 1.0000000 l "isa"
+144 58 0.0030581 l "isa"
+59 144 1.0000000 l "isa"
+144 59 0.0030581 l "isa"
+60 144 1.0000000 l "isa"
+144 60 0.0030581 l "isa"
+61 144 1.0000000 l "isa"
+144 61 0.0030581 l "isa"
+62 144 1.0000000 l "isa"
+144 62 0.0030581 l "isa"
+63 144 1.0000000 l "isa"
+144 63 0.0030581 l "isa"
+64 144 1.0000000 l "isa"
+144 64 0.0030581 l "isa"
+65 144 1.0000000 l "isa"
+144 65 0.0030581 l "isa"
+66 144 1.0000000 l "isa"
+144 66 0.0030581 l "isa"
+67 144 1.0000000 l "isa"
+144 67 0.0030581 l "isa"
+68 144 1.0000000 l "isa"
+144 68 0.0030581 l "isa"
+69 144 1.0000000 l "isa"
+144 69 0.0030581 l "isa"
+70 144 1.0000000 l "isa"
+144 70 0.0030581 l "isa"
+71 144 1.0000000 l "isa"
+144 71 0.0030581 l "isa"
+72 144 1.0000000 l "isa"
+144 72 0.0030581 l "isa"
+73 144 1.0000000 l "isa"
+144 73 0.0030581 l "isa"
+74 144 1.0000000 l "isa"
+144 74 0.0030581 l "isa"
+75 144 1.0000000 l "isa"
+144 75 0.0030581 l "isa"
+76 144 1.0000000 l "isa"
+144 76 0.0030581 l "isa"
+77 144 1.0000000 l "isa"
+144 77 0.0030581 l "isa"
+78 144 1.0000000 l "isa"
+144 78 0.0030581 l "isa"
+79 144 1.0000000 l "isa"
+144 79 0.0030581 l "isa"
+80 144 1.0000000 l "isa"
+144 80 0.0030581 l "isa"
+81 144 1.0000000 l "isa"
+144 81 0.0030581 l "isa"
+82 144 1.0000000 l "isa"
+144 82 0.0030581 l "isa"
+83 144 1.0000000 l "isa"
+144 83 0.0030581 l "isa"
+84 144 1.0000000 l "isa"
+144 84 0.0030581 l "isa"
+85 144 1.0000000 l "isa"
+144 85 0.0030581 l "isa"
+86 144 1.0000000 l "isa"
+144 86 0.0030581 l "isa"
+87 144 1.0000000 l "isa"
+144 87 0.0030581 l "isa"
+88 144 1.0000000 l "isa"
+144 88 0.0030581 l "isa"
+89 144 1.0000000 l "isa"
+144 89 0.0030581 l "isa"
+90 144 1.0000000 l "isa"
+144 90 0.0030581 l "isa"
+91 144 1.0000000 l "isa"
+144 91 0.0030581 l "isa"
+92 144 1.0000000 l "isa"
+144 92 0.0030581 l "isa"
+93 144 1.0000000 l "isa"
+144 93 0.0030581 l "isa"
+94 144 1.0000000 l "isa"
+144 94 0.0030581 l "isa"
+95 144 1.0000000 l "isa"
+144 95 0.0030581 l "isa"
+96 144 1.0000000 l "isa"
+144 96 0.0030581 l "isa"
+97 144 1.0000000 l "isa"
+144 97 0.0030581 l "isa"
+98 144 1.0000000 l "isa"
+144 98 0.0030581 l "isa"
+99 144 1.0000000 l "isa"
+144 99 0.0030581 l "isa"
+100 144 1.0000000 l "isa"
+144 100 0.0030581 l "isa"
+101 144 1.0000000 l "isa"
+144 101 0.0030581 l "isa"
+102 144 1.0000000 l "isa"
+144 102 0.0030581 l "isa"
+103 144 1.0000000 l "isa"
+144 103 0.0030581 l "isa"
+104 144 1.0000000 l "isa"
+144 104 0.0030581 l "isa"
+105 144 1.0000000 l "isa"
+144 105 0.0030581 l "isa"
+106 144 1.0000000 l "isa"
+144 106 0.0030581 l "isa"
+107 144 1.0000000 l "isa"
+144 107 0.0030581 l "isa"
+108 144 1.0000000 l "isa"
+144 108 0.0030581 l "isa"
+109 144 1.0000000 l "isa"
+144 109 0.0030581 l "isa"
+110 144 1.0000000 l "isa"
+144 110 0.0030581 l "isa"
+111 144 1.0000000 l "isa"
+144 111 0.0030581 l "isa"
+112 144 1.0000000 l "isa"
+144 112 0.0030581 l "isa"
+113 144 1.0000000 l "isa"
+144 113 0.0030581 l "isa"
+114 144 1.0000000 l "isa"
+144 114 0.0030581 l "isa"
+115 144 1.0000000 l "isa"
+144 115 0.0030581 l "isa"
+116 144 1.0000000 l "isa"
+144 116 0.0030581 l "isa"
+117 144 1.0000000 l "isa"
+144 117 0.0030581 l "isa"
+118 144 1.0000000 l "isa"
+144 118 0.0030581 l "isa"
+119 144 1.0000000 l "isa"
+144 119 0.0030581 l "isa"
+120 144 1.0000000 l "isa"
+144 120 0.0030581 l "isa"
+121 144 1.0000000 l "isa"
+144 121 0.0030581 l "isa"
+122 144 1.0000000 l "isa"
+144 122 0.0030581 l "isa"
+123 144 1.0000000 l "isa"
+144 123 0.0030581 l "isa"
+124 144 1.0000000 l "isa"
+144 124 0.0030581 l "isa"
+125 144 1.0000000 l "isa"
+144 125 0.0030581 l "isa"
+126 144 1.0000000 l "isa"
+144 126 0.0030581 l "isa"
+127 144 1.0000000 l "isa"
+144 127 0.0030581 l "isa"
+128 144 1.0000000 l "isa"
+144 128 0.0030581 l "isa"
+129 144 1.0000000 l "isa"
+144 129 0.0030581 l "isa"
+130 144 1.0000000 l "isa"
+144 130 0.0030581 l "isa"
+131 144 1.0000000 l "isa"
+144 131 0.0030581 l "isa"
+132 144 1.0000000 l "isa"
+144 132 0.0030581 l "isa"
+133 144 1.0000000 l "isa"
+144 133 0.0030581 l "isa"
+134 144 1.0000000 l "isa"
+144 134 0.0030581 l "isa"
+135 144 1.0000000 l "isa"
+144 135 0.0030581 l "isa"
+136 144 1.0000000 l "isa"
+144 136 0.0030581 l "isa"
+137 144 1.0000000 l "isa"
+144 137 0.0030581 l "isa"
+138 144 1.0000000 l "isa"
+144 138 0.0030581 l "isa"
+139 144 1.0000000 l "isa"
+144 139 0.0030581 l "isa"
+140 144 1.0000000 l "isa"
+144 140 0.0030581 l "isa"
+141 144 1.0000000 l "isa"
+144 141 0.0030581 l "isa"
+142 144 1.0000000 l "isa"
+144 142 0.0030581 l "isa"
+143 144 1.0000000 l "isa"
+144 143 0.0030581 l "isa"
+*Edges

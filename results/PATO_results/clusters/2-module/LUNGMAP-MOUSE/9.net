@@ -1,0 +1,41 @@
+*Vertices 10
+1 "pulmonary distal venule" ellipse
+2 "pulmonary distal venule tunica adventitia" ellipse
+3 "pulmonary distal venule tunica intima" ellipse
+4 "pulmonary muscular venule" ellipse
+5 "pulmonary muscular venule tunica adventitia" ellipse
+6 "pulmonary muscular venule tunica intima" ellipse
+7 "pulmonary muscular venule tunica media" ellipse
+8 "pulmonary blood vessel" ellipse
+9 "pulmonary venule" ellipse
+10 "intra-parenchymal blood vessel" ellipse
+*Arcs
+4 9 0.1428571 l "isa"
+9 4 0.3333333 l "isa"
+9 8 0.3333333 l "isa"
+8 9 0.1666667 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.1666667 l "isa"
+1 9 0.1428571 l "definition"
+9 1 0.3333333 l "definition"
+2 1 0.5000000 l "definition"
+1 2 0.2857143 l "definition"
+3 1 0.3333333 l "definition"
+1 3 0.2857143 l "definition"
+5 4 0.5000000 l "definition"
+4 5 0.2857143 l "definition"
+6 4 0.3333333 l "definition"
+4 6 0.2857143 l "definition"
+7 4 0.3333333 l "definition"
+4 7 0.2857143 l "definition"
+1 2 0.2857143 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.2857143 l "substring"
+3 1 0.3333333 l "substring"
+4 5 0.2857143 l "substring"
+5 4 0.5000000 l "substring"
+4 6 0.2857143 l "substring"
+6 4 0.3333333 l "substring"
+4 7 0.2857143 l "substring"
+7 4 0.3333333 l "substring"
+*Edges

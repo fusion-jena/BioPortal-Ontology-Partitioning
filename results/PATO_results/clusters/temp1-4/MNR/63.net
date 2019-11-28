@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Jordan" ellipse
+2 "Norway" ellipse
+*Arcs
+1 2 0.1423580 l "distance"
+2 1 0.2181685 l "distance"
+1 2 0.1423580 l "distance"
+2 1 0.2181685 l "distance"
+1 2 0.1423580 l "distance"
+2 1 0.2181685 l "distance"
+*Edges

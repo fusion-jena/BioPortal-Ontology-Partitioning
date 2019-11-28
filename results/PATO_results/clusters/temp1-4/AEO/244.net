@@ -1,0 +1,18 @@
+*Vertices 3
+1 "chlorpromazine" ellipse
+2 "promazine" ellipse
+3 "triflupromazine" ellipse
+*Arcs
+1 2 0.1847513 l "substring"
+2 1 0.1384917 l "substring"
+2 3 0.1384917 l "substring"
+3 2 0.1847513 l "substring"
+1 2 0.1847513 l "substring"
+2 1 0.1384917 l "substring"
+2 3 0.1384917 l "substring"
+3 2 0.1847513 l "substring"
+1 2 0.1847513 l "substring"
+2 1 0.1384917 l "substring"
+2 3 0.1384917 l "substring"
+3 2 0.1847513 l "substring"
+*Edges

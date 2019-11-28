@@ -1,0 +1,119 @@
+*Vertices 24
+1 "causes"
+2 "Class"
+3 "ec-code" ellipse
+4 "ec" ellipse
+5 "iubmb" ellipse
+6 "molecular_function" ellipse
+7 "F31_Performance" ellipse
+8 "Event" ellipse
+9 "Audition" ellipse
+10 "BenefitConcert" ellipse
+11 "Ceremony" ellipse
+12 "Command performance" ellipse
+13 "Concert" ellipse
+14 "Concert series" ellipse
+15 "Concert tour" ellipse
+16 "Declared medium" ellipse
+17 "Event name" ellipse
+18 "First performance" ellipse
+19 "Live performance" ellipse
+20 "Master class" ellipse
+21 "Open mic performance" ellipse
+22 "Performance" ellipse
+23 "Recording session" ellipse
+24 "Rehearsal" ellipse
+*Arcs
+1 2 0.5352526 l "distance"
+2 1 0.2333327 l "distance"
+3 6 0.5034803 l "isa"
+6 3 0.0945679 l "isa"
+4 6 0.1371497 l "isa"
+6 4 0.2627854 l "isa"
+5 6 0.2357186 l "isa"
+6 5 0.0854162 l "isa"
+4 5 0.0991663 l "hasIubmb"
+5 4 0.5243536 l "hasIubmb"
+5 4 0.5243536 l "inEc"
+4 5 0.0991663 l "inEc"
+6 4 0.2627854 l "inEc"
+4 6 0.1371497 l "inEc"
+3 4 0.4965197 l "substring"
+4 3 0.0486734 l "substring"
+4 6 0.1371497 l "substring"
+6 4 0.2627854 l "substring"
+1 2 0.5352526 l "distance"
+2 1 0.2333327 l "distance"
+3 6 0.5034803 l "isa"
+6 3 0.0945679 l "isa"
+4 6 0.1371497 l "isa"
+6 4 0.2627854 l "isa"
+5 6 0.2357186 l "isa"
+6 5 0.0854162 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0769231 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.3333333 l "isa"
+11 8 1.0000000 l "isa"
+8 11 0.0769231 l "isa"
+12 13 0.5000000 l "isa"
+13 12 0.1666667 l "isa"
+13 8 0.1666667 l "isa"
+8 13 0.0769231 l "isa"
+14 8 0.5000000 l "isa"
+8 14 0.0769231 l "isa"
+15 8 0.5000000 l "isa"
+8 15 0.0769231 l "isa"
+18 22 1.0000000 l "isa"
+22 18 0.1538462 l "isa"
+19 22 1.0000000 l "isa"
+22 19 0.1538462 l "isa"
+20 8 0.5000000 l "isa"
+8 20 0.0769231 l "isa"
+21 22 1.0000000 l "isa"
+22 21 0.1538462 l "isa"
+22 7 0.1538462 l "isa"
+7 22 1.0000000 l "isa"
+22 8 0.0769231 l "isa"
+8 22 0.0769231 l "isa"
+23 8 0.5000000 l "isa"
+8 23 0.0769231 l "isa"
+24 8 1.0000000 l "isa"
+8 24 0.0769231 l "isa"
+4 5 0.0991663 l "hasIubmb"
+5 4 0.5243536 l "hasIubmb"
+5 4 0.5243536 l "inEc"
+4 5 0.0991663 l "inEc"
+6 4 0.2627854 l "inEc"
+4 6 0.1371497 l "inEc"
+2 20 0.1300386 l "substring"
+20 2 0.5000000 l "substring"
+3 4 0.4965197 l "substring"
+4 3 0.0486734 l "substring"
+4 6 0.1371497 l "substring"
+6 4 0.2627854 l "substring"
+4 16 0.0382109 l "substring"
+16 4 1.0000000 l "substring"
+4 23 0.0382109 l "substring"
+23 4 0.5000000 l "substring"
+7 22 1.0000000 l "substring"
+22 7 0.1538462 l "substring"
+8 17 0.0769231 l "substring"
+17 8 1.0000000 l "substring"
+10 13 1.0000000 l "substring"
+13 10 0.3333333 l "substring"
+12 22 0.5000000 l "substring"
+22 12 0.0769231 l "substring"
+13 14 0.1666667 l "substring"
+14 13 0.5000000 l "substring"
+13 15 0.1666667 l "substring"
+15 13 0.5000000 l "substring"
+18 22 1.0000000 l "substring"
+22 18 0.1538462 l "substring"
+19 22 1.0000000 l "substring"
+22 19 0.1538462 l "substring"
+21 22 1.0000000 l "substring"
+22 21 0.1538462 l "substring"
+1 2 0.5352526 l "distance"
+2 1 0.2333327 l "distance"
+*Edges

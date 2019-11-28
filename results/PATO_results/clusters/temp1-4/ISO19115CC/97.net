@@ -1,0 +1,13 @@
+*Vertices 2
+1 "SC_VerticalDatum" ellipse
+2 "verticalDatum"
+*Arcs
+1 2 0.5642633 l "substring"
+2 1 0.5642633 l "substring"
+1 2 0.5642633 l "distance"
+2 1 0.5642633 l "distance"
+1 2 0.5642633 l "substring"
+2 1 0.5642633 l "substring"
+1 2 0.5642633 l "distance"
+2 1 0.5642633 l "distance"
+*Edges

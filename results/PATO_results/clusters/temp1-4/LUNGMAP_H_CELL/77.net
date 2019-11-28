@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Vendeen" ellipse
+2 "Rendena" ellipse
+*Arcs
+1 2 0.4382372 l "distance"
+2 1 0.5964686 l "distance"
+1 2 0.4382372 l "distance"
+2 1 0.5964686 l "distance"
+1 2 0.4382372 l "distance"
+2 1 0.5964686 l "distance"
+1 2 0.4382372 l "distance"
+2 1 0.5964686 l "distance"
+*Edges

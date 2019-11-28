@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Medicine/Healthcare" ellipse
+2 "Public Health Epidemiology" ellipse
+*Arcs
+2 1 0.1474633 l "isa"
+1 2 0.0875505 l "isa"
+2 1 0.1474633 l "isa"
+1 2 0.0875505 l "isa"
+*Edges

@@ -1,0 +1,29 @@
+*Vertices 2
+1 "ribosylation" ellipse
+2 "ADP-ribosylation" ellipse
+*Arcs
+2 1 0.8868691 l "isa"
+1 2 0.7939501 l "isa"
+1 2 0.7939501 l "substring"
+2 1 0.8868691 l "substring"
+2 1 0.8868691 l "isa"
+1 2 0.7939501 l "isa"
+1 2 0.7939501 l "substring"
+2 1 0.8868691 l "substring"
+2 1 0.8868691 l "isa"
+1 2 0.7939501 l "isa"
+1 2 0.7939501 l "substring"
+2 1 0.8868691 l "substring"
+2 1 0.8868691 l "isa"
+1 2 0.7939501 l "isa"
+1 2 0.7939501 l "substring"
+2 1 0.8868691 l "substring"
+2 1 0.8868691 l "isa"
+1 2 0.7939501 l "isa"
+1 2 0.7939501 l "substring"
+2 1 0.8868691 l "substring"
+2 1 0.8868691 l "isa"
+1 2 0.7939501 l "isa"
+1 2 0.7939501 l "substring"
+2 1 0.8868691 l "substring"
+*Edges

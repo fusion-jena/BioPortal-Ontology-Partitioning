@@ -1,0 +1,61 @@
+*Vertices 16
+1 "Binding" ellipse
+2 "Catalysis" ellipse
+3 "Complex" ellipse
+4 "ComplexBinding" ellipse
+5 "Conversion" ellipse
+6 "DataNode" ellipse
+7 "DirectedInteraction" ellipse
+8 "GeneProduct" ellipse
+9 "Inhibition" ellipse
+10 "Interaction" ellipse
+11 "Metabolite" ellipse
+12 "Protein" ellipse
+13 "Stimulation" ellipse
+14 "Transcription Translation" ellipse
+15 "Gene" ellipse
+16 "Protein" ellipse
+*Arcs
+1 7 0.5000000 l "isa"
+7 1 0.1000000 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1000000 l "isa"
+3 6 0.5000000 l "isa"
+6 3 0.1666667 l "isa"
+4 7 0.3333333 l "isa"
+7 4 0.1000000 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1000000 l "isa"
+7 10 0.2000000 l "isa"
+10 7 1.0000000 l "isa"
+8 6 0.1666667 l "isa"
+6 8 0.1666667 l "isa"
+9 7 1.0000000 l "isa"
+7 9 0.1000000 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.1666667 l "isa"
+12 6 0.3333333 l "isa"
+6 12 0.1666667 l "isa"
+13 7 1.0000000 l "isa"
+7 13 0.1000000 l "isa"
+14 7 1.0000000 l "isa"
+7 14 0.1000000 l "isa"
+15 8 0.4000000 l "isa"
+8 15 0.3333333 l "isa"
+16 8 0.3333333 l "isa"
+8 16 0.1666667 l "isa"
+7 6 0.1000000 l "source"
+6 7 0.1666667 l "source"
+1 4 0.5000000 l "substring"
+4 1 0.3333333 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.3333333 l "substring"
+7 10 0.2000000 l "substring"
+10 7 1.0000000 l "substring"
+8 15 0.3333333 l "substring"
+15 8 0.4000000 l "substring"
+12 16 0.6666667 l "substring"
+16 12 0.6666667 l "substring"
+12 16 0.6666667 l "distance"
+16 12 0.6666667 l "distance"
+*Edges

@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Detection method of microorganisms" ellipse
+2 "Detection method presence in x g" ellipse
+*Arcs
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+2 1 0.8292494 l "isa"
+1 2 0.4925348 l "isa"
+*Edges

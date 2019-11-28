@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Psychoeducation" ellipse
+2 "Woodcock_Johnson_Psychoeducational_Battery" ellipse
+*Arcs
+1 2 0.2111670 l "substring"
+2 1 0.1784741 l "substring"
+1 2 0.2111670 l "substring"
+2 1 0.1784741 l "substring"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Sumavska" ellipse
+2 "Pulawska" ellipse
+*Arcs
+1 2 0.4442738 l "distance"
+2 1 0.6220391 l "distance"
+1 2 0.4442738 l "distance"
+2 1 0.6220391 l "distance"
+1 2 0.4442738 l "distance"
+2 1 0.6220391 l "distance"
+1 2 0.4442738 l "distance"
+2 1 0.6220391 l "distance"
+1 2 0.4442738 l "distance"
+2 1 0.6220391 l "distance"
+*Edges

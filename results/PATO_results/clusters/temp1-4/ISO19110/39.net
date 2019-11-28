@@ -1,0 +1,39 @@
+*Vertices 4
+1 "HCAR1" ellipse
+2 "NEK1" ellipse
+3 "OXER1" ellipse
+4 "OXGR1" ellipse
+*Arcs
+1 3 0.0556059 l "distance"
+3 1 0.2509546 l "distance"
+1 4 0.0466797 l "distance"
+4 1 0.1000116 l "distance"
+2 3 0.0197351 l "distance"
+3 2 0.2406830 l "distance"
+3 4 0.2726140 l "distance"
+4 3 0.1294184 l "distance"
+1 3 0.0556059 l "distance"
+3 1 0.2509546 l "distance"
+1 4 0.0466797 l "distance"
+4 1 0.1000116 l "distance"
+2 3 0.0197351 l "distance"
+3 2 0.2406830 l "distance"
+3 4 0.2726140 l "distance"
+4 3 0.1294184 l "distance"
+1 3 0.0556059 l "distance"
+3 1 0.2509546 l "distance"
+1 4 0.0466797 l "distance"
+4 1 0.1000116 l "distance"
+2 3 0.0197351 l "distance"
+3 2 0.2406830 l "distance"
+3 4 0.2726140 l "distance"
+4 3 0.1294184 l "distance"
+1 3 0.0556059 l "distance"
+3 1 0.2509546 l "distance"
+1 4 0.0466797 l "distance"
+4 1 0.1000116 l "distance"
+2 3 0.0197351 l "distance"
+3 2 0.2406830 l "distance"
+3 4 0.2726140 l "distance"
+4 3 0.1294184 l "distance"
+*Edges

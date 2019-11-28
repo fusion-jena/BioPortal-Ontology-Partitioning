@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Sensible" ellipse
+2 "Linear (1D)" ellipse
+3 "Trina dimensio (3D)" ellipse
+4 "Superficial (2D)" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2635135 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2635135 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2635135 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2635135 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2635135 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2635135 l "isa"
+*Edges

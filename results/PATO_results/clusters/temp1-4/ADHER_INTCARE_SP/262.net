@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Markedly_Limited_Facial_Expression_Range" ellipse
+2 "rfacex_Markedly_Limited_Facial_Expression_Range"
+*Arcs
+1 2 0.2156525 l "substring"
+2 1 0.1635181 l "substring"
+1 2 0.2156525 l "substring"
+2 1 0.1635181 l "substring"
+1 2 0.2156525 l "substring"
+2 1 0.1635181 l "substring"
+*Edges

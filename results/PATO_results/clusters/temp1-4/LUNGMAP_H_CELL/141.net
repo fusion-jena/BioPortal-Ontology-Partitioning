@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Glan" ellipse
+2 "Lleyn" ellipse
+3 "Luzein" ellipse
+*Arcs
+1 2 0.0389982 l "distance"
+2 1 0.3054023 l "distance"
+2 3 0.4018404 l "distance"
+3 2 0.3215736 l "distance"
+1 2 0.0389982 l "distance"
+2 1 0.3054023 l "distance"
+2 3 0.4018404 l "distance"
+3 2 0.3215736 l "distance"
+1 2 0.0389982 l "distance"
+2 1 0.3054023 l "distance"
+2 3 0.4018404 l "distance"
+3 2 0.3215736 l "distance"
+1 2 0.0389982 l "distance"
+2 1 0.3054023 l "distance"
+2 3 0.4018404 l "distance"
+3 2 0.3215736 l "distance"
+*Edges

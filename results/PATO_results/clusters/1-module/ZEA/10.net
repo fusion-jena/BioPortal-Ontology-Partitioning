@@ -1,0 +1,18 @@
+*Vertices 5
+1 "bulliform cell" ellipse
+2 "short cell" ellipse
+3 "intercostal long cell" ellipse
+4 "costal long cell" ellipse
+5 "cell type" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1111111 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1111111 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.1111111 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.1111111 l "isa"
+3 4 0.5000000 l "substring"
+4 3 0.5000000 l "substring"
+*Edges

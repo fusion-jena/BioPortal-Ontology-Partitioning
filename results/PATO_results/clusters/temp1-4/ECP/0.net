@@ -1,0 +1,105 @@
+*Vertices 34
+1 "ICD-10 code" ellipse
+2 "Organization" ellipse
+3 "instruction" ellipse
+4 "Restriction"
+5 "value"
+6 "nil"
+7 "url"
+8 "type" ellipse
+9 "title" ellipse
+10 "quality and level of recommendation" ellipse
+11 "has type"
+12 "has related health issue"
+13 "has source file"
+14 "has title"
+15 "file"
+16 "health issue" ellipse
+17 "related health issue" ellipse
+18 "dateTime"
+19 "observable_expression" ellipse
+20 "genre" ellipse
+21 "drug" ellipse
+22 "description" ellipse
+23 "observable condition" ellipse
+24 "outcome" ellipse
+25 "quality of evidence" ellipse
+26 "strength of recommendation" ellipse
+27 "Clinical Drug" ellipse
+28 "has outcome"
+29 "requires resource"
+30 "has genre"
+31 "has deviation reason"
+32 "has quality of evidence"
+33 "has strength of recommendation"
+34 "has description"
+*Arcs
+16 24 0.2000000 l "isa"
+24 16 0.2500000 l "isa"
+3 24 0.1250000 l "isa"
+24 3 0.2500000 l "isa"
+25 10 0.2500000 l "isa"
+10 25 0.3333333 l "isa"
+26 10 0.2500000 l "isa"
+10 26 0.3333333 l "isa"
+22 4 0.2222222 l "definition"
+4 22 0.2000000 l "definition"
+22 5 0.1111111 l "definition"
+5 22 0.2500000 l "definition"
+9 4 0.0909091 l "definition"
+4 9 0.1000000 l "definition"
+9 5 0.0909091 l "definition"
+5 9 0.2500000 l "definition"
+3 4 0.2500000 l "definition"
+4 3 0.2000000 l "definition"
+3 5 0.1250000 l "definition"
+5 3 0.2500000 l "definition"
+20 30 0.2500000 l "substring"
+30 20 0.5000000 l "substring"
+8 11 0.1666667 l "substring"
+11 8 0.3333333 l "substring"
+21 27 0.2000000 l "substring"
+27 21 0.5000000 l "substring"
+22 34 0.1111111 l "substring"
+34 22 0.5000000 l "substring"
+9 14 0.0909091 l "substring"
+14 9 0.3333333 l "substring"
+16 17 0.2000000 l "substring"
+17 16 0.2000000 l "substring"
+16 12 0.2000000 l "substring"
+12 16 0.3333333 l "substring"
+24 28 0.2500000 l "substring"
+28 24 0.5000000 l "substring"
+25 32 0.2500000 l "substring"
+32 25 0.5000000 l "substring"
+17 12 0.2000000 l "substring"
+12 17 0.3333333 l "substring"
+26 33 0.2500000 l "substring"
+33 26 0.5000000 l "substring"
+13 15 0.3333333 l "substring"
+15 13 0.1250000 l "substring"
+8 9 0.1666667 l "distance"
+9 8 0.0909091 l "distance"
+8 15 0.1666667 l "distance"
+15 8 0.1250000 l "distance"
+21 7 0.2000000 l "distance"
+7 21 0.2500000 l "distance"
+22 4 0.2222222 l "distance"
+4 22 0.2000000 l "distance"
+9 6 0.0909091 l "distance"
+6 9 0.2500000 l "distance"
+9 15 0.0909091 l "distance"
+15 9 0.1250000 l "distance"
+3 4 0.2500000 l "distance"
+4 3 0.2000000 l "distance"
+11 14 0.3333333 l "distance"
+14 11 0.3333333 l "distance"
+5 15 0.2500000 l "distance"
+15 5 0.1250000 l "distance"
+6 7 0.2500000 l "distance"
+7 6 0.2500000 l "distance"
+6 15 0.2500000 l "distance"
+15 6 0.1250000 l "distance"
+7 15 0.2500000 l "distance"
+15 7 0.1250000 l "distance"
+*Edges

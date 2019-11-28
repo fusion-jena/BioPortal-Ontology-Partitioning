@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Binge_Eating" ellipse
+2 "Binge_Eating_Disorder" ellipse
+*Arcs
+1 2 0.5444546 l "substring"
+2 1 0.5448505 l "substring"
+1 2 0.5444546 l "substring"
+2 1 0.5448505 l "substring"
+*Edges

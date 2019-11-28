@@ -1,0 +1,9 @@
+*Vertices 2
+1 "randomized complete block design" ellipse
+2 "latin square design" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3177307 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3177307 l "isa"
+*Edges

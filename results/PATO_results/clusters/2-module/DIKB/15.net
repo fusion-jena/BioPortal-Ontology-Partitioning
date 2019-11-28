@@ -1,0 +1,55 @@
+*Vertices 12
+1 "Antibody" ellipse
+2 "Antibody_Inhibitor" ellipse
+3 "Chemical_Inhibitor" ellipse
+4 "EV_EX_Met_Enz_ID_CYP450_Hum_Liver_Microsome_Chem" ellipse
+5 "EV_EX_Met_Enz_ID_CYP450_Hum_Recom_Chem" ellipse
+6 "Induction" ellipse
+7 "Inhibition" ellipse
+8 "Inhibitor" ellipse
+9 "Control" ellipse
+10 "Modulation" ellipse
+11 "controller"
+12 "controller_of"
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.4000000 l "isa"
+2 8 0.3333333 l "isa"
+8 2 0.1666667 l "isa"
+3 8 0.5000000 l "isa"
+8 3 0.1666667 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.1250000 l "isa"
+7 10 0.3333333 l "isa"
+10 7 0.1250000 l "isa"
+10 9 0.1250000 l "isa"
+9 10 0.0833333 l "isa"
+4 3 0.1000000 l "definition"
+3 4 0.2500000 l "definition"
+5 3 0.1000000 l "definition"
+3 5 0.2500000 l "definition"
+8 7 0.1666667 l "definition"
+7 8 0.6666667 l "definition"
+8 12 0.0833333 l "definition"
+12 8 0.2500000 l "definition"
+10 11 0.1250000 l "definition"
+11 10 0.0909091 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.3333333 l "substring"
+2 8 0.3333333 l "substring"
+8 2 0.1666667 l "substring"
+3 8 0.5000000 l "substring"
+8 3 0.1666667 l "substring"
+9 11 0.1666667 l "substring"
+11 9 0.1818182 l "substring"
+9 12 0.0833333 l "substring"
+12 9 0.2500000 l "substring"
+11 12 0.1818182 l "substring"
+12 11 0.5000000 l "substring"
+7 8 0.6666667 l "distance"
+8 7 0.1666667 l "distance"
+9 11 0.1666667 l "distance"
+11 9 0.1818182 l "distance"
+11 12 0.1818182 l "distance"
+12 11 0.5000000 l "distance"
+*Edges

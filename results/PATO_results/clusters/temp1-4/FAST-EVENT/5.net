@@ -1,0 +1,13 @@
+*Vertices 2
+1 "boolean"
+2 "Boolean" ellipse
+*Arcs
+1 2 0.3843168 l "substring"
+2 1 0.6962526 l "substring"
+1 2 0.3843168 l "distance"
+2 1 0.6962526 l "distance"
+1 2 0.3843168 l "substring"
+2 1 0.6962526 l "substring"
+1 2 0.3843168 l "distance"
+2 1 0.6962526 l "distance"
+*Edges

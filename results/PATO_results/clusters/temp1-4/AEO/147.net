@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Acetyl-L-Carnatine" ellipse
+2 "drug for moderate to severe alzheimer" ellipse
+*Arcs
+1 2 0.2645048 l "isa"
+2 1 0.1058476 l "isa"
+1 2 0.2645048 l "isa"
+2 1 0.1058476 l "isa"
+1 2 0.2645048 l "isa"
+2 1 0.1058476 l "isa"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 3
+1 "phosphoric acid" ellipse
+2 "phosphoric acid derivative" ellipse
+3 "phosphoric acids" ellipse
+*Arcs
+1 3 0.1659822 l "isa"
+3 1 0.3007647 l "isa"
+2 1 0.2116848 l "definition"
+1 2 0.1050494 l "definition"
+1 2 0.1050494 l "substring"
+2 1 0.2116848 l "substring"
+1 3 0.1659822 l "substring"
+3 1 0.3007647 l "substring"
+1 3 0.1659822 l "distance"
+3 1 0.3007647 l "distance"
+1 3 0.1659822 l "isa"
+3 1 0.3007647 l "isa"
+2 1 0.2116848 l "definition"
+1 2 0.1050494 l "definition"
+1 2 0.1050494 l "substring"
+2 1 0.2116848 l "substring"
+1 3 0.1659822 l "substring"
+3 1 0.3007647 l "substring"
+1 3 0.1659822 l "distance"
+3 1 0.3007647 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "direct wellbeing service" ellipse
+2 "indirect wellbeing service" ellipse
+*Arcs
+1 2 0.3819978 l "substring"
+2 1 0.4566929 l "substring"
+1 2 0.3819978 l "distance"
+2 1 0.4566929 l "distance"
+1 2 0.3819978 l "substring"
+2 1 0.4566929 l "substring"
+1 2 0.3819978 l "distance"
+2 1 0.4566929 l "distance"
+*Edges

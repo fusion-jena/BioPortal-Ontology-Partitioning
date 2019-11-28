@@ -1,0 +1,15 @@
+*Vertices 2
+1 "ICDClass" ellipse
+2 "ICDOClass" ellipse
+*Arcs
+1 2 0.1122631 l "distance"
+2 1 0.2762328 l "distance"
+1 2 0.1122631 l "distance"
+2 1 0.2762328 l "distance"
+1 2 0.1122631 l "distance"
+2 1 0.2762328 l "distance"
+1 2 0.1122631 l "distance"
+2 1 0.2762328 l "distance"
+1 2 0.1122631 l "distance"
+2 1 0.2762328 l "distance"
+*Edges

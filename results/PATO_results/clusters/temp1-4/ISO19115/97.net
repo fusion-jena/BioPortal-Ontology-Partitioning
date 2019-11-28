@@ -1,0 +1,21 @@
+*Vertices 2
+1 "placenta" ellipse
+2 "mesoderm-derived structure" ellipse
+*Arcs
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+1 2 0.2225632 l "isa"
+2 1 0.2280113 l "isa"
+*Edges

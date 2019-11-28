@@ -1,0 +1,9 @@
+*Vertices 2
+1 "dibbling stick" ellipse
+2 "dibbling" ellipse
+*Arcs
+1 2 0.2032454 l "substring"
+2 1 0.0759726 l "substring"
+1 2 0.2032454 l "substring"
+2 1 0.0759726 l "substring"
+*Edges

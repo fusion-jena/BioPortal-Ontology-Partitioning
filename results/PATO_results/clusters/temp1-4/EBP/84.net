@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Information for experienced person" ellipse
+2 "special information for experienced person" ellipse
+*Arcs
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+1 2 0.1005490 l "substring"
+2 1 0.1005490 l "substring"
+*Edges

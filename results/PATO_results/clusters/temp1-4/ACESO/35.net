@@ -1,0 +1,30 @@
+*Vertices 9
+1 "Housing problem" ellipse
+2 "Bug_Infestation" ellipse
+3 "Exposed_to_Bug_Infestation" ellipse
+4 "Exposed_to_Lead_Pipes" ellipse
+5 "Exposed_to_Mold" ellipse
+6 "Exposed_to_Water_Leaks" ellipse
+7 "Presence_of_Lead_Pipes" ellipse
+8 "Presence_of_Mold" ellipse
+9 "Presence_of_Water_Leaks" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1666667 l "isa"
+7 1 0.5000000 l "isa"
+1 7 0.1666667 l "isa"
+8 1 0.5000000 l "isa"
+1 8 0.1666667 l "isa"
+9 1 0.5000000 l "isa"
+1 9 0.1666667 l "isa"
+3 2 0.1818182 l "definition"
+2 3 0.6666667 l "definition"
+4 7 0.1000000 l "definition"
+7 4 0.5000000 l "definition"
+5 8 0.1000000 l "definition"
+8 5 0.5000000 l "definition"
+6 9 0.1000000 l "definition"
+9 6 0.5000000 l "definition"
+2 3 0.6666667 l "substring"
+3 2 0.1818182 l "substring"
+*Edges

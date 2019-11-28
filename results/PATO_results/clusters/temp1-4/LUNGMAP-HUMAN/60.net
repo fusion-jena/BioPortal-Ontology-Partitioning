@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Rygja" ellipse
+2 "Pygmy" ellipse
+*Arcs
+1 2 0.3213182 l "distance"
+2 1 0.5485876 l "distance"
+1 2 0.3213182 l "distance"
+2 1 0.5485876 l "distance"
+1 2 0.3213182 l "distance"
+2 1 0.5485876 l "distance"
+*Edges

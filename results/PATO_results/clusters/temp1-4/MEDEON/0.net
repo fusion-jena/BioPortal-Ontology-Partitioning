@@ -1,0 +1,109 @@
+*Vertices 34
+1 "Restriction"
+2 "IntrusiveRock" ellipse
+3 "AnorogenicIgneousRock" ellipse
+4 "isolated from"
+5 "isolated organism"
+6 "type" ellipse
+7 "Resource" ellipse
+8 "Solution" ellipse
+9 "Time" ellipse
+10 "Timing" ellipse
+11 "Site" ellipse
+12 "Sample" ellipse
+13 "Mixture" ellipse
+14 "Class"
+15 "Status"
+16 "ClinicalProcess" ellipse
+17 "DeviceCharacteristic" ellipse
+18 "DeviceName" ellipse
+19 "DeviceType" ellipse
+20 "IncidentCharacteristic" ellipse
+21 "Management" ellipse
+22 "MedicalDevice-Equipment" ellipse
+23 "MentalStatus" ellipse
+24 "Patient" ellipse
+25 "PatientAccident" ellipse
+26 "PatientBehaviour" ellipse
+27 "Person" ellipse
+28 "Process" ellipse
+29 "Resource-OrganizationalManagement" ellipse
+30 "StopUse" ellipse
+31 "involvesActivity"
+32 "Aa" ellipse
+33 "Algae" ellipse
+34 "Yeasts" ellipse
+*Arcs
+3 2 0.2152034 l "isa"
+2 3 0.1811136 l "isa"
+3 2 0.2152034 l "isa"
+2 3 0.1811136 l "isa"
+7 7 0.6056645 l "hostCondition"
+7 7 0.6056645 l "hostCondition"
+4 14 0.1197830 l "definition"
+14 4 0.0213302 l "definition"
+4 12 0.1325194 l "definition"
+12 4 0.2498108 l "definition"
+15 14 0.1472465 l "definition"
+14 15 0.0220754 l "definition"
+5 14 0.1197830 l "definition"
+14 5 0.0213302 l "definition"
+5 12 0.1325194 l "definition"
+12 5 0.2498108 l "definition"
+32 33 0.1104105 l "distance"
+33 32 0.3364956 l "distance"
+34 14 0.3283800 l "distance"
+14 34 0.0234002 l "distance"
+3 2 0.2152034 l "isa"
+2 3 0.1811136 l "isa"
+18 17 0.3333333 l "isa"
+17 18 0.3333333 l "isa"
+19 17 0.2500000 l "isa"
+17 19 0.3333333 l "isa"
+24 27 0.1250000 l "isa"
+27 24 0.3333333 l "isa"
+28 20 0.3333333 l "isa"
+20 28 0.3333333 l "isa"
+7 7 0.6056645 l "hostCondition"
+7 7 0.6056645 l "hostCondition"
+4 14 0.1197830 l "definition"
+14 4 0.0213302 l "definition"
+4 12 0.1325194 l "definition"
+12 4 0.2498108 l "definition"
+15 14 0.1472465 l "definition"
+14 15 0.0220754 l "definition"
+5 14 0.1197830 l "definition"
+14 5 0.0213302 l "definition"
+5 12 0.1325194 l "definition"
+12 5 0.2498108 l "definition"
+6 19 0.1035373 l "substring"
+19 6 0.2500000 l "substring"
+7 29 0.1816993 l "substring"
+29 7 0.2500000 l "substring"
+15 23 0.1325507 l "substring"
+23 15 0.3333333 l "substring"
+16 28 0.3333333 l "substring"
+28 16 0.3333333 l "substring"
+21 29 0.3333333 l "substring"
+29 21 0.2500000 l "substring"
+24 25 0.1250000 l "substring"
+25 24 0.3333333 l "substring"
+24 26 0.1250000 l "substring"
+26 24 0.3333333 l "substring"
+32 33 0.1104105 l "distance"
+33 32 0.3364956 l "distance"
+34 14 0.3283800 l "distance"
+14 34 0.0234002 l "distance"
+6 11 0.1035373 l "distance"
+11 6 0.1000000 l "distance"
+6 9 0.1035373 l "distance"
+9 6 0.1250000 l "distance"
+15 30 0.1325507 l "distance"
+30 15 0.3333333 l "distance"
+18 19 0.3333333 l "distance"
+19 18 0.2500000 l "distance"
+11 9 0.1000000 l "distance"
+9 11 0.1250000 l "distance"
+9 10 0.1250000 l "distance"
+10 9 0.2000000 l "distance"
+*Edges

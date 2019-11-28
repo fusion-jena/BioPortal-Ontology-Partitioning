@@ -1,0 +1,129 @@
+*Vertices 34
+1 "Analyzed Population" ellipse
+2 "ClinicalCharacteristics" ellipse
+3 "CoIntervention" ellipse
+4 "Concept" ellipse
+5 "DemographicCharacteristics" ellipse
+6 "Design concept" ellipse
+7 "DiagnosticAccuracy" ellipse
+8 "Excluded Population" ellipse
+9 "Generic Concept" ellipse
+10 "Hypothesis Concept" ellipse
+11 "Intervention Concept" ellipse
+12 "MethodsQuantifyUncertainity" ellipse
+13 "NotEligible" ellipse
+14 "NotEnrolled" ellipse
+15 "OffAssignedIntervention" ellipse
+16 "OutcomeNotAssessed" ellipse
+17 "Population" ellipse
+18 "PopulationCharacteristics" ellipse
+19 "Primary Hypothesis" ellipse
+20 "Primary Recruitment Flow Chart" ellipse
+21 "Procedure" ellipse
+22 "ProtocolChange" ellipse
+23 "Reason" ellipse
+24 "Recruited Population" ellipse
+25 "RecruitmentSetting" ellipse
+26 "Secondary Hypothesis" ellipse
+27 "StatisticalMethods" ellipse
+28 "StatisticalUncertainity" ellipse
+29 "StudyObjective" ellipse
+30 "TestReproducibility" ellipse
+31 "UsualCare" ellipse
+32 "WithdrawalReason" ellipse
+33 "int"
+34 "isEnrolled"
+*Arcs
+1 17 0.6666667 l "isa"
+17 1 0.1538462 l "isa"
+2 18 1.0000000 l "isa"
+18 2 0.2500000 l "isa"
+3 11 0.5000000 l "isa"
+11 3 0.1428571 l "isa"
+5 18 1.0000000 l "isa"
+18 5 0.2500000 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.1250000 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.3333333 l "isa"
+8 17 0.6666667 l "isa"
+17 8 0.1538462 l "isa"
+9 4 0.4000000 l "isa"
+4 9 0.1250000 l "isa"
+10 4 0.5000000 l "isa"
+4 10 0.1250000 l "isa"
+11 4 0.2857143 l "isa"
+4 11 0.1250000 l "isa"
+12 27 0.3333333 l "isa"
+27 12 0.3333333 l "isa"
+13 23 1.0000000 l "isa"
+23 13 0.1428571 l "isa"
+14 23 0.5000000 l "isa"
+23 14 0.1428571 l "isa"
+15 23 0.5000000 l "isa"
+23 15 0.1428571 l "isa"
+16 23 1.0000000 l "isa"
+23 16 0.1428571 l "isa"
+18 17 0.5000000 l "isa"
+17 18 0.1538462 l "isa"
+19 10 1.0000000 l "isa"
+10 19 0.2500000 l "isa"
+21 11 1.0000000 l "isa"
+11 21 0.1428571 l "isa"
+22 29 1.0000000 l "isa"
+29 22 0.3333333 l "isa"
+23 29 0.1428571 l "isa"
+29 23 0.3333333 l "isa"
+24 17 0.5000000 l "isa"
+17 24 0.1538462 l "isa"
+25 24 1.0000000 l "isa"
+24 25 0.2500000 l "isa"
+26 10 1.0000000 l "isa"
+10 26 0.2500000 l "isa"
+27 4 0.3333333 l "isa"
+4 27 0.0625000 l "isa"
+28 12 1.0000000 l "isa"
+12 28 0.3333333 l "isa"
+29 4 0.3333333 l "isa"
+4 29 0.0625000 l "isa"
+30 27 1.0000000 l "isa"
+27 30 0.3333333 l "isa"
+31 11 1.0000000 l "isa"
+11 31 0.1428571 l "isa"
+32 23 1.0000000 l "isa"
+23 32 0.2857143 l "isa"
+17 34 0.0769231 l "definition"
+34 17 0.5000000 l "definition"
+20 1 0.1666667 l "definition"
+1 20 0.3333333 l "definition"
+20 8 0.1666667 l "definition"
+8 20 0.3333333 l "definition"
+20 24 0.1666667 l "definition"
+24 20 0.2500000 l "definition"
+1 17 0.6666667 l "substring"
+17 1 0.1538462 l "substring"
+3 33 0.5000000 l "substring"
+33 3 0.1000000 l "substring"
+4 6 0.1250000 l "substring"
+6 4 0.5000000 l "substring"
+4 9 0.1250000 l "substring"
+9 4 0.4000000 l "substring"
+4 10 0.1250000 l "substring"
+10 4 0.5000000 l "substring"
+4 11 0.1250000 l "substring"
+11 4 0.2857143 l "substring"
+8 17 0.6666667 l "substring"
+17 8 0.1538462 l "substring"
+11 33 0.1428571 l "substring"
+33 11 0.1000000 l "substring"
+15 33 0.5000000 l "substring"
+33 15 0.1000000 l "substring"
+17 18 0.1538462 l "substring"
+18 17 0.5000000 l "substring"
+17 24 0.1538462 l "substring"
+24 17 0.5000000 l "substring"
+23 32 0.2857143 l "substring"
+32 23 1.0000000 l "substring"
+14 34 0.5000000 l "distance"
+34 14 0.5000000 l "distance"
+*Edges

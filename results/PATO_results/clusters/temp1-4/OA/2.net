@@ -1,0 +1,38 @@
+*Vertices 7
+1 "DataPositionSelector" ellipse
+2 "FragmentSelector" ellipse
+3 "RangeSelector" ellipse
+4 "Selector" ellipse
+5 "TextPositionSelector" ellipse
+6 "TextQuoteSelector" ellipse
+7 "XPathSelector" ellipse
+*Arcs
+1 4 0.6666667 l "isa"
+4 1 0.0909091 l "isa"
+2 4 0.6666667 l "isa"
+4 2 0.0909091 l "isa"
+3 4 0.8000000 l "isa"
+4 3 0.1818182 l "isa"
+5 4 0.6666667 l "isa"
+4 5 0.0909091 l "isa"
+6 4 0.6666667 l "isa"
+4 6 0.0909091 l "isa"
+7 4 0.6666667 l "isa"
+4 7 0.0909091 l "isa"
+3 4 0.8000000 l "hasEndSelector"
+4 3 0.1818182 l "hasEndSelector"
+3 4 0.8000000 l "hasStartSelector"
+4 3 0.1818182 l "hasStartSelector"
+1 4 0.6666667 l "substring"
+4 1 0.0909091 l "substring"
+2 4 0.6666667 l "substring"
+4 2 0.0909091 l "substring"
+3 4 0.8000000 l "substring"
+4 3 0.1818182 l "substring"
+4 5 0.0909091 l "substring"
+5 4 0.6666667 l "substring"
+4 6 0.0909091 l "substring"
+6 4 0.6666667 l "substring"
+4 7 0.0909091 l "substring"
+7 4 0.6666667 l "substring"
+*Edges

@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Emotional Neglect" ellipse
+2 "Physical Neglect" ellipse
+3 "Adverse_Childhood_Experiences" ellipse
+4 "Neglect" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.4276730 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.4276730 l "isa"
+4 3 0.1446541 l "isa"
+3 4 0.0954930 l "isa"
+1 4 1.0000000 l "substring"
+4 1 0.4276730 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.4276730 l "substring"
+1 4 1.0000000 l "isa"
+4 1 0.4276730 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.4276730 l "isa"
+4 3 0.1446541 l "isa"
+3 4 0.0954930 l "isa"
+1 4 1.0000000 l "substring"
+4 1 0.4276730 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.4276730 l "substring"
+*Edges

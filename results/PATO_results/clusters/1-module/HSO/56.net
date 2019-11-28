@@ -1,0 +1,19 @@
+*Vertices 4
+1 "exocrine pancreas" ellipse
+2 "pancreas" ellipse
+3 "dorsal pancreas" ellipse
+4 "ventral pancreas" ellipse
+*Arcs
+1 2 0.2500000 l "definition"
+2 1 0.2857143 l "definition"
+3 2 0.2857143 l "definition"
+2 3 0.2857143 l "definition"
+4 2 0.2857143 l "definition"
+2 4 0.2857143 l "definition"
+1 2 0.2500000 l "substring"
+2 1 0.2857143 l "substring"
+2 3 0.2857143 l "substring"
+3 2 0.2857143 l "substring"
+2 4 0.2857143 l "substring"
+4 2 0.2857143 l "substring"
+*Edges

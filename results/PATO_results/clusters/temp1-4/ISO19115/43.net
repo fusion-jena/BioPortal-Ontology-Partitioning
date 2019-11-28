@@ -1,0 +1,21 @@
+*Vertices 2
+1 "scalar measurement datum" ellipse
+2 "time measurement datum" ellipse
+*Arcs
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+2 1 0.2840830 l "isa"
+1 2 0.1425769 l "isa"
+*Edges

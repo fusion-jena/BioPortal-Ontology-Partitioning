@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Retention" ellipse
+2 "School_Retention" ellipse
+*Arcs
+1 2 0.2656395 l "substring"
+2 1 0.2173858 l "substring"
+1 2 0.2656395 l "substring"
+2 1 0.2173858 l "substring"
+*Edges

@@ -1,0 +1,68 @@
+*Vertices 15
+1 "qualifier" ellipse
+2 "abnormal" ellipse
+3 "decreased" ellipse
+4 "increased" ellipse
+5 "absent" ellipse
+6 "normal" ellipse
+7 "decreased rate" ellipse
+8 "increased rate" ellipse
+9 "decreased duration" ellipse
+10 "increased duration" ellipse
+11 "delayed" ellipse
+12 "arrested" ellipse
+13 "premature" ellipse
+14 "normal rate" ellipse
+15 "normal duration" ellipse
+*Arcs
+2 1 0.0833333 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.2000000 l "isa"
+2 3 0.0833333 l "isa"
+4 2 0.2500000 l "isa"
+2 4 0.0833333 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2000000 l "isa"
+6 1 0.1428571 l "isa"
+1 6 0.5000000 l "isa"
+7 2 0.3333333 l "isa"
+2 7 0.0833333 l "isa"
+8 2 0.3333333 l "isa"
+2 8 0.0833333 l "isa"
+9 2 0.3333333 l "isa"
+2 9 0.0833333 l "isa"
+10 2 0.3333333 l "isa"
+2 10 0.0833333 l "isa"
+11 2 1.0000000 l "isa"
+2 11 0.0833333 l "isa"
+12 2 1.0000000 l "isa"
+2 12 0.0833333 l "isa"
+13 2 1.0000000 l "isa"
+2 13 0.0833333 l "isa"
+14 6 1.0000000 l "isa"
+6 14 0.2857143 l "isa"
+15 6 1.0000000 l "isa"
+6 15 0.2857143 l "isa"
+2 6 0.1666667 l "substring"
+6 2 0.2857143 l "substring"
+3 7 0.2000000 l "substring"
+7 3 0.3333333 l "substring"
+3 9 0.2000000 l "substring"
+9 3 0.3333333 l "substring"
+4 8 0.2500000 l "substring"
+8 4 0.3333333 l "substring"
+4 10 0.2500000 l "substring"
+10 4 0.3333333 l "substring"
+6 14 0.2857143 l "substring"
+14 6 1.0000000 l "substring"
+6 15 0.2857143 l "substring"
+15 6 1.0000000 l "substring"
+2 6 0.1666667 l "distance"
+6 2 0.2857143 l "distance"
+3 4 0.2000000 l "distance"
+4 3 0.2500000 l "distance"
+7 8 0.3333333 l "distance"
+8 7 0.3333333 l "distance"
+9 10 0.3333333 l "distance"
+10 9 0.3333333 l "distance"
+*Edges

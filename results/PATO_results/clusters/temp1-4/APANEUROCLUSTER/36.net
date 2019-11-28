@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Amblyopia" ellipse
+2 "Myopia" ellipse
+3 "Myotonia" ellipse
+*Arcs
+1 2 0.5296603 l "distance"
+2 1 0.1830432 l "distance"
+2 3 0.1830432 l "distance"
+3 2 0.5296603 l "distance"
+1 2 0.5296603 l "distance"
+2 1 0.1830432 l "distance"
+2 3 0.1830432 l "distance"
+3 2 0.5296603 l "distance"
+1 2 0.5296603 l "distance"
+2 1 0.1830432 l "distance"
+2 3 0.1830432 l "distance"
+3 2 0.5296603 l "distance"
+*Edges

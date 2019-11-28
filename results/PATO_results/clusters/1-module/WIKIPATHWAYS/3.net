@@ -1,0 +1,55 @@
+*Vertices 12
+1 "Pathway" ellipse
+2 "Pathway" ellipse
+3 "cell type ontology tag" ellipse
+4 "disease ontology tag" ellipse
+5 "participants" ellipse
+6 "pathway ontology tag" ellipse
+7 "source" ellipse
+8 "target" ellipse
+9 "Class" ellipse
+10 "Resource" ellipse
+11 "ontology tag"
+12 "string"
+*Arcs
+3 11 1.0000000 l "isa"
+11 3 0.3333333 l "isa"
+4 11 1.0000000 l "isa"
+11 4 0.3333333 l "isa"
+6 11 0.5000000 l "isa"
+11 6 0.3333333 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.5000000 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.5000000 l "isa"
+1 10 0.3333333 l "cell type ontology tag"
+10 1 0.6000000 l "cell type ontology tag"
+1 10 0.3333333 l "disease ontology tag"
+10 1 0.6000000 l "disease ontology tag"
+1 12 0.2222222 l "ontology tag"
+12 1 1.0000000 l "ontology tag"
+1 9 0.1111111 l "organism"
+9 1 1.0000000 l "organism"
+1 10 0.3333333 l "pathway ontology tag"
+10 1 0.6000000 l "pathway ontology tag"
+1 12 0.2222222 l "organism name"
+12 1 1.0000000 l "organism name"
+1 2 0.2222222 l "substring"
+2 1 0.6666667 l "substring"
+1 6 0.1111111 l "substring"
+6 1 0.2500000 l "substring"
+2 6 0.3333333 l "substring"
+6 2 0.2500000 l "substring"
+3 11 1.0000000 l "substring"
+11 3 0.3333333 l "substring"
+4 11 1.0000000 l "substring"
+11 4 0.3333333 l "substring"
+6 11 0.5000000 l "substring"
+11 6 0.3333333 l "substring"
+7 10 0.6666667 l "substring"
+10 7 0.4000000 l "substring"
+1 2 0.2222222 l "distance"
+2 1 0.6666667 l "distance"
+7 10 0.6666667 l "distance"
+10 7 0.4000000 l "distance"
+*Edges

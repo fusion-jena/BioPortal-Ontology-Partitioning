@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Xinjiang Brown" ellipse
+2 "Ningxiang" ellipse
+3 "Xinjiang Finewool" ellipse
+4 "Xinjiang" ellipse
+*Arcs
+1 4 0.5711784 l "substring"
+4 1 0.1766685 l "substring"
+3 4 0.5711336 l "substring"
+4 3 0.1766611 l "substring"
+2 4 0.5670570 l "distance"
+4 2 0.1760872 l "distance"
+1 4 0.5711784 l "substring"
+4 1 0.1766685 l "substring"
+3 4 0.5711336 l "substring"
+4 3 0.1766611 l "substring"
+2 4 0.5670570 l "distance"
+4 2 0.1760872 l "distance"
+1 4 0.5711784 l "substring"
+4 1 0.1766685 l "substring"
+3 4 0.5711336 l "substring"
+4 3 0.1766611 l "substring"
+2 4 0.5670570 l "distance"
+4 2 0.1760872 l "distance"
+1 4 0.5711784 l "substring"
+4 1 0.1766685 l "substring"
+3 4 0.5711336 l "substring"
+4 3 0.1766611 l "substring"
+2 4 0.5670570 l "distance"
+4 2 0.1760872 l "distance"
+1 4 0.5711784 l "substring"
+4 1 0.1766685 l "substring"
+3 4 0.5711336 l "substring"
+4 3 0.1766611 l "substring"
+2 4 0.5670570 l "distance"
+4 2 0.1760872 l "distance"
+1 4 0.5711784 l "substring"
+4 1 0.1766685 l "substring"
+3 4 0.5711336 l "substring"
+4 3 0.1766611 l "substring"
+2 4 0.5670570 l "distance"
+4 2 0.1760872 l "distance"
+*Edges

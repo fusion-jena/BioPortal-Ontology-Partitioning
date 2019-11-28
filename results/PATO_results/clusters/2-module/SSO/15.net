@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Viral_symptoms" ellipse
+2 "viral_symptoms" ellipse
+*Arcs
+1 2 0.6666667 l "substring"
+2 1 0.6666667 l "substring"
+1 2 0.6666667 l "distance"
+2 1 0.6666667 l "distance"
+*Edges

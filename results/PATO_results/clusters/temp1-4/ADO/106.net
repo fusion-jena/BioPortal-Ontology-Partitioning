@@ -1,0 +1,31 @@
+*Vertices 6
+1 "Acetylation" ellipse
+2 "De-acetylation" ellipse
+3 "De-methylation" ellipse
+4 "Epigenetics" ellipse
+5 "Methylation" ellipse
+6 "Sumoylation" ellipse
+*Arcs
+1 4 0.2000000 l "isa"
+4 1 0.1428571 l "isa"
+2 4 0.2000000 l "isa"
+4 2 0.1428571 l "isa"
+3 4 0.2500000 l "isa"
+4 3 0.1428571 l "isa"
+5 4 0.2500000 l "isa"
+4 5 0.1428571 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1428571 l "isa"
+1 2 0.4000000 l "substring"
+2 1 0.4000000 l "substring"
+3 5 0.5000000 l "substring"
+5 3 0.5000000 l "substring"
+1 2 0.4000000 l "distance"
+2 1 0.4000000 l "distance"
+1 5 0.2000000 l "distance"
+5 1 0.2500000 l "distance"
+2 3 0.2000000 l "distance"
+3 2 0.2500000 l "distance"
+3 5 0.5000000 l "distance"
+5 3 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Wall of respiratory bronchiole" ellipse
+2 "Wall of terminal bronchiole" ellipse
+3 "Wall of lobular bronchiole" ellipse
+4 "Wall of trachea" ellipse
+5 "Region of wall of tracheobronchial tree" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1666667 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1666667 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1666667 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1666667 l "isa"
+*Edges

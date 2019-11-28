@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Facial_expressions_almost_always_appropriate_to_mood_situation_and_context" ellipse
+2 "Inappropriate_facial_expressions" ellipse
+3 "Inappropriate_facial_expressions_NotAvailable" ellipse
+4 "Inappropriate_facial_expressions_UnknownOrNotAsked" ellipse
+*Arcs
+1 2 0.2553511 l "isa"
+2 1 0.0956508 l "isa"
+3 2 0.5417047 l "isa"
+2 3 0.2197934 l "isa"
+4 2 0.5417047 l "isa"
+2 4 0.2197934 l "isa"
+2 3 0.2197934 l "substring"
+3 2 0.5417047 l "substring"
+2 4 0.2197934 l "substring"
+4 2 0.5417047 l "substring"
+1 2 0.2553511 l "isa"
+2 1 0.0956508 l "isa"
+3 2 0.5417047 l "isa"
+2 3 0.2197934 l "isa"
+4 2 0.5417047 l "isa"
+2 4 0.2197934 l "isa"
+2 3 0.2197934 l "substring"
+3 2 0.5417047 l "substring"
+2 4 0.2197934 l "substring"
+4 2 0.5417047 l "substring"
+*Edges

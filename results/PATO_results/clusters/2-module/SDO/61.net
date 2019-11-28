@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Abdominal respiratory excursion finding" ellipse
+2 "Respiratory movement excursion finding" ellipse
+3 "Thoracic respiratory excursion finding" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1666667 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1666667 l "isa"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Benign_Neoplasms" ellipse
+2 "Brain_Neoplasms" ellipse
+3 "Breast_Neoplasms" ellipse
+*Arcs
+1 2 0.2694186 l "distance"
+2 1 0.1485387 l "distance"
+2 3 0.1485387 l "distance"
+3 2 0.2694186 l "distance"
+1 2 0.2694186 l "distance"
+2 1 0.1485387 l "distance"
+2 3 0.1485387 l "distance"
+3 2 0.2694186 l "distance"
+1 2 0.2694186 l "distance"
+2 1 0.1485387 l "distance"
+2 3 0.1485387 l "distance"
+3 2 0.2694186 l "distance"
+*Edges

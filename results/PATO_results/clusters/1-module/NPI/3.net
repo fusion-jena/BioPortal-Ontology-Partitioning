@@ -1,0 +1,47 @@
+*Vertices 14
+1 "Nutritional Health Interventions" ellipse
+2 "Dietary Supplements" ellipse
+3 "Virtual Reality Therapy" ellipse
+4 "Non-Pharmacological Interventions" ellipse
+5 "Dietary Supplement related terms" ellipse
+6 "Nutritional Therapy related terms" ellipse
+7 "eHealth Device related terms" ellipse
+8 "Therapeutic related terms" ellipse
+9 "Virtual Reality Therapy related terms" ellipse
+10 "Digital Health Interventions" ellipse
+11 "Therapeutic Games" ellipse
+12 "Nutritional Therapy" ellipse
+13 "eHealth Devices" ellipse
+14 "Thing"
+*Arcs
+1 4 0.3333333 l "isa"
+4 1 0.1666667 l "isa"
+2 1 0.5000000 l "isa"
+1 2 0.3333333 l "isa"
+3 10 0.3333333 l "isa"
+10 3 0.2500000 l "isa"
+4 14 0.1666667 l "isa"
+14 4 1.0000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.5000000 l "isa"
+6 12 1.0000000 l "isa"
+12 6 0.6666667 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.5000000 l "isa"
+8 11 1.0000000 l "isa"
+11 8 0.5000000 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.6666667 l "isa"
+10 4 0.2500000 l "isa"
+4 10 0.1666667 l "isa"
+11 10 0.5000000 l "isa"
+10 11 0.2500000 l "isa"
+12 1 0.3333333 l "isa"
+1 12 0.3333333 l "isa"
+13 10 0.5000000 l "isa"
+10 13 0.2500000 l "isa"
+3 9 0.6666667 l "substring"
+9 3 1.0000000 l "substring"
+6 12 1.0000000 l "substring"
+12 6 0.6666667 l "substring"
+*Edges

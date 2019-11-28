@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Signet ring cell carcinoma" ellipse
+2 "Metastatic signet ring cell carcinoma" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

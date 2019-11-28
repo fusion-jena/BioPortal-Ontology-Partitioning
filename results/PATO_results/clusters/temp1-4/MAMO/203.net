@@ -1,0 +1,13 @@
+*Vertices 2
+1 "unclassified fibroblast" ellipse
+2 "unclassified fibroblast" ellipse
+*Arcs
+1 2 0.2539016 l "substring"
+2 1 0.1998476 l "substring"
+1 2 0.2539016 l "distance"
+2 1 0.1998476 l "distance"
+1 2 0.2539016 l "substring"
+2 1 0.1998476 l "substring"
+1 2 0.2539016 l "distance"
+2 1 0.1998476 l "distance"
+*Edges

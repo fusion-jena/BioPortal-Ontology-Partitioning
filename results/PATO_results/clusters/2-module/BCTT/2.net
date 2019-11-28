@@ -1,0 +1,66 @@
+*Vertices 21
+1 "Shaping knowledge" ellipse
+2 "Instruction on how to perform the behavior" ellipse
+3 "Information about Antecedents" ellipse
+4 "Re-attribution" ellipse
+5 "Behavioral experiments" ellipse
+6 "Associations" ellipse
+7 "Prompts-cues" ellipse
+8 "Cue signalling reward" ellipse
+9 "Reduce prompts-cues" ellipse
+10 "Remove access to the reward" ellipse
+11 "Remove aversive stimulus" ellipse
+12 "Satiation" ellipse
+13 "Exposure" ellipse
+14 "Associative learning" ellipse
+15 "Antecedents" ellipse
+16 "Restructuring the physical environment" ellipse
+17 "Restructuring the social environment" ellipse
+18 "Avoidance-reducing exposure to cues for the behavior" ellipse
+19 "Distraction" ellipse
+20 "Adding objects to the environment" ellipse
+21 "Body changes" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2000000 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.1111111 l "isa"
+8 6 1.0000000 l "isa"
+6 8 0.1111111 l "isa"
+9 6 0.5000000 l "isa"
+6 9 0.1111111 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.1111111 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.1111111 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.1111111 l "isa"
+13 6 0.5000000 l "isa"
+6 13 0.1111111 l "isa"
+14 6 1.0000000 l "isa"
+6 14 0.1111111 l "isa"
+16 15 1.0000000 l "isa"
+15 16 0.1250000 l "isa"
+17 15 1.0000000 l "isa"
+15 17 0.1250000 l "isa"
+18 15 0.5000000 l "isa"
+15 18 0.1250000 l "isa"
+19 15 1.0000000 l "isa"
+15 19 0.1250000 l "isa"
+20 15 1.0000000 l "isa"
+15 20 0.1250000 l "isa"
+21 15 1.0000000 l "isa"
+15 21 0.1250000 l "isa"
+3 15 0.5000000 l "substring"
+15 3 0.1250000 l "substring"
+7 9 0.5000000 l "substring"
+9 7 0.5000000 l "substring"
+13 18 0.5000000 l "substring"
+18 13 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 3
+1 "Canchim" ellipse
+2 "Cochin" ellipse
+3 "Nachi" ellipse
+*Arcs
+1 2 0.3619018 l "distance"
+2 1 0.1980858 l "distance"
+1 3 0.3239431 l "distance"
+3 1 0.0443392 l "distance"
+2 3 0.1551782 l "distance"
+3 2 0.0388050 l "distance"
+1 2 0.3619018 l "distance"
+2 1 0.1980858 l "distance"
+1 3 0.3239431 l "distance"
+3 1 0.0443392 l "distance"
+2 3 0.1551782 l "distance"
+3 2 0.0388050 l "distance"
+1 2 0.3619018 l "distance"
+2 1 0.1980858 l "distance"
+1 3 0.3239431 l "distance"
+3 1 0.0443392 l "distance"
+2 3 0.1551782 l "distance"
+3 2 0.0388050 l "distance"
+*Edges

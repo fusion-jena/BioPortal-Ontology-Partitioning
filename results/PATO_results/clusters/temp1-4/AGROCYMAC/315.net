@@ -1,0 +1,36 @@
+*Vertices 5
+1 "adding a material entity into a target" ellipse
+2 "adding material objective" ellipse
+3 "material combination" ellipse
+4 "material combination objective" ellipse
+5 "administering substance in vivo" ellipse
+*Arcs
+1 3 0.0559495 l "isa"
+3 1 0.0820911 l "isa"
+2 4 0.2072521 l "isa"
+4 2 0.1466116 l "isa"
+5 1 0.0712557 l "isa"
+1 5 0.0556381 l "isa"
+1 2 0.0590013 l "definition"
+2 1 0.1995293 l "definition"
+3 4 0.1882460 l "definition"
+4 3 0.3069308 l "definition"
+5 2 0.0760947 l "definition"
+2 5 0.2009334 l "definition"
+3 4 0.1882460 l "substring"
+4 3 0.3069308 l "substring"
+1 3 0.0559495 l "isa"
+3 1 0.0820911 l "isa"
+2 4 0.2072521 l "isa"
+4 2 0.1466116 l "isa"
+5 1 0.0712557 l "isa"
+1 5 0.0556381 l "isa"
+1 2 0.0590013 l "definition"
+2 1 0.1995293 l "definition"
+3 4 0.1882460 l "definition"
+4 3 0.3069308 l "definition"
+5 2 0.0760947 l "definition"
+2 5 0.2009334 l "definition"
+3 4 0.1882460 l "substring"
+4 3 0.3069308 l "substring"
+*Edges

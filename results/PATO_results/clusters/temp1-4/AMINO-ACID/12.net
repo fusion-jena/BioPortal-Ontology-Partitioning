@@ -1,0 +1,24 @@
+*Vertices 3
+1 "FMHXA" ellipse
+2 "FMHXG" ellipse
+3 "RFVHX" ellipse
+*Arcs
+1 2 0.0802473 l "distance"
+2 1 0.0799008 l "distance"
+1 3 0.0792052 l "distance"
+3 1 0.0653187 l "distance"
+2 3 0.0788511 l "distance"
+3 2 0.0653088 l "distance"
+1 2 0.0802473 l "distance"
+2 1 0.0799008 l "distance"
+1 3 0.0792052 l "distance"
+3 1 0.0653187 l "distance"
+2 3 0.0788511 l "distance"
+3 2 0.0653088 l "distance"
+1 2 0.0802473 l "distance"
+2 1 0.0799008 l "distance"
+1 3 0.0792052 l "distance"
+3 1 0.0653187 l "distance"
+2 3 0.0788511 l "distance"
+3 2 0.0653088 l "distance"
+*Edges

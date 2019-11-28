@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Assesment Risk Bias" ellipse
+2 "SelectionBias" ellipse
+3 "SelectiveReportingRisk" ellipse
+*Arcs
+2 1 0.1519842 l "isa"
+1 2 0.0584864 l "isa"
+3 1 0.1551070 l "isa"
+1 3 0.0587801 l "isa"
+2 1 0.1519842 l "isa"
+1 2 0.0584864 l "isa"
+3 1 0.1551070 l "isa"
+1 3 0.0587801 l "isa"
+2 1 0.1519842 l "isa"
+1 2 0.0584864 l "isa"
+3 1 0.1551070 l "isa"
+1 3 0.0587801 l "isa"
+2 1 0.1519842 l "isa"
+1 2 0.0584864 l "isa"
+3 1 0.1551070 l "isa"
+1 3 0.0587801 l "isa"
+*Edges

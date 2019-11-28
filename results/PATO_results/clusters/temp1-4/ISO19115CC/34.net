@@ -1,0 +1,23 @@
+*Vertices 2
+1 "Catering" ellipse
+2 "Catering on aircraft or ship or train" ellipse
+*Arcs
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+1 2 0.5437365 l "substring"
+2 1 0.6013988 l "substring"
+*Edges

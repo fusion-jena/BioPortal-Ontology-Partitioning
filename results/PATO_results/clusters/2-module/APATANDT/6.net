@@ -1,0 +1,60 @@
+*Vertices 19
+1 "Culture_Fair_Intelligence_Test" ellipse
+2 "Frostig_Developmental_Test_of_Visual_Perception" ellipse
+3 "Goodenough_Harris_Draw_A_Person_Test" ellipse
+4 "Illinois_Test_of_Psycholinguistic_Abilities" ellipse
+5 "Intelligence_Measures" ellipse
+6 "Kaufman_Assessment_Battery_for_Children" ellipse
+7 "Kohs_Block_Design_Test" ellipse
+8 "Miller_Analogies_Test" ellipse
+9 "Peabody_Picture_Vocabulary_Test" ellipse
+10 "Porteus_Maze_Test" ellipse
+11 "Raven_Coloured_Progressive_Matrices" ellipse
+12 "Raven_Progressive_Matrices" ellipse
+13 "Slosson_Intelligence_Test" ellipse
+14 "Stanford_Binet_Intelligence_Scale" ellipse
+15 "Wechsler_Adult_Intelligence_Scale" ellipse
+16 "Wechsler_Bellevue_Intelligence_Scale" ellipse
+17 "Wechsler_Intelligence_Scale_for_Children" ellipse
+18 "Wechsler_Preschool_Primary_Scale" ellipse
+19 "IntelligenceMeasures" ellipse
+*Arcs
+1 19 1.0000000 l "isa"
+19 1 0.0500000 l "isa"
+2 19 1.0000000 l "isa"
+19 2 0.0500000 l "isa"
+3 19 1.0000000 l "isa"
+19 3 0.0500000 l "isa"
+4 19 1.0000000 l "isa"
+19 4 0.0500000 l "isa"
+5 19 1.0000000 l "isa"
+19 5 0.1000000 l "isa"
+6 19 1.0000000 l "isa"
+19 6 0.0500000 l "isa"
+7 19 1.0000000 l "isa"
+19 7 0.0500000 l "isa"
+8 19 1.0000000 l "isa"
+19 8 0.0500000 l "isa"
+9 19 1.0000000 l "isa"
+19 9 0.0500000 l "isa"
+10 19 1.0000000 l "isa"
+19 10 0.0500000 l "isa"
+11 19 1.0000000 l "isa"
+19 11 0.0500000 l "isa"
+12 19 1.0000000 l "isa"
+19 12 0.0500000 l "isa"
+13 19 1.0000000 l "isa"
+19 13 0.0500000 l "isa"
+14 19 1.0000000 l "isa"
+19 14 0.0500000 l "isa"
+15 19 1.0000000 l "isa"
+19 15 0.0500000 l "isa"
+16 19 1.0000000 l "isa"
+19 16 0.0500000 l "isa"
+17 19 1.0000000 l "isa"
+19 17 0.0500000 l "isa"
+18 19 1.0000000 l "isa"
+19 18 0.0500000 l "isa"
+5 19 1.0000000 l "distance"
+19 5 0.1000000 l "distance"
+*Edges

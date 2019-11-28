@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Alberes" ellipse
+2 "Salers" ellipse
+*Arcs
+1 2 0.6591164 l "distance"
+2 1 0.4976803 l "distance"
+1 2 0.6591164 l "distance"
+2 1 0.4976803 l "distance"
+1 2 0.6591164 l "distance"
+2 1 0.4976803 l "distance"
+1 2 0.6591164 l "distance"
+2 1 0.4976803 l "distance"
+1 2 0.6591164 l "distance"
+2 1 0.4976803 l "distance"
+1 2 0.6591164 l "distance"
+2 1 0.4976803 l "distance"
+*Edges

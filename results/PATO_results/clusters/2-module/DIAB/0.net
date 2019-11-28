@@ -1,0 +1,318 @@
+*Vertices 213
+1 "Focal segmental glomerulosclerosis" ellipse
+2 "Anhidrosis" ellipse
+3 "Angina pectoris" ellipse
+4 "Diabetic ketoacidosis" ellipse
+5 "Ketoacidosis" ellipse
+6 "Arteriosclerosis" ellipse
+7 "Coronary atherosclerosis" ellipse
+8 "Accelerated atherosclerosis" ellipse
+9 "Combined hyperlipidemia" ellipse
+10 "increased body size" ellipse
+11 "angina" ellipse
+12 "Nocturia" ellipse
+13 "Polyuria" ellipse
+14 "Carious teeth" ellipse
+15 "Dementia" ellipse
+16 "Decreased nerve conduction velocity" ellipse
+17 "Impotence" ellipse
+18 "Hyperinsulinemic hypoglycemia" ellipse
+19 "Coma" ellipse
+20 "Polyneuropathy" ellipse
+21 "Familial predisposition" ellipse
+22 "Intrauterine growth retardation" ellipse
+23 "Small for gestational age" ellipse
+24 "Large for gestational age" ellipse
+25 "Mood changes" ellipse
+26 "Coronary artery disease" ellipse
+27 "Coronary artery calcification" ellipse
+28 "Metabolic acidosis" ellipse
+29 "Hypoglycemia" ellipse
+30 "Recurrent hypoglycemia" ellipse
+31 "Neonatal hypoglycemia" ellipse
+32 "Nausea" ellipse
+33 "Dyspnea" ellipse
+34 "Ischemic stroke" ellipse
+35 "Dysautonomia" ellipse
+36 "Alzheimer disease" ellipse
+37 "Arterial calcification" ellipse
+38 "Paresthesia" ellipse
+39 "Elevated systolic blood pressure" ellipse
+40 "focal glomerulosclerosis" ellipse
+41 "Peripheral arterial disease" ellipse
+42 "Coronary artery stenosis" ellipse
+43 "Aortic arch calcification" ellipse
+44 "Chronic pancreatitis" ellipse
+45 "Mononeuropathy" ellipse
+46 "Childhood onset" ellipse
+47 "Postprandial hyperglycemia" ellipse
+48 "Dysuria" ellipse
+49 "Chest pain" ellipse
+50 "Abnormal fear/anxiety-related behavior" ellipse
+51 "Hyperesthesia" ellipse
+52 "abnormal muscle regeneration" ellipse
+53 "increased circulating triglyceride level" ellipse
+54 "increased circulating free fatty acid level" ellipse
+55 "hypopnea" ellipse
+56 "increased systemic arterial blood pressure" ellipse
+57 "decreased systemic arterial blood pressure" ellipse
+58 "albuminuria" ellipse
+59 "delayed wound healing" ellipse
+60 "liver fibrosis" ellipse
+61 "renal fibrosis" ellipse
+62 "hypoxia" ellipse
+63 "atherosclerotic lesions" ellipse
+64 "decreased renal glomerular filtration rate" ellipse
+65 "decreased creatinine clearance" ellipse
+66 "increased circulating glucose level" ellipse
+67 "increased glycosylated hemoglobin level" ellipse
+68 "decreased survivor rate" ellipse
+69 "uremia" ellipse
+70 "increased birth weight" ellipse
+71 "decreased birth weight" ellipse
+72 "decreased bone mineral content" ellipse
+73 "calcified aorta" ellipse
+74 "renal glomerulus fibrosis" ellipse
+75 "macular edema" ellipse
+76 "Renal insufficiency" ellipse
+77 "Nephrotic syndrome" ellipse
+78 "Progressive renal insufficiency" ellipse
+79 "Nephropathy" ellipse
+80 "Polycystic ovaries" ellipse
+81 "Severe periodontitis" ellipse
+82 "Visual impairment" ellipse
+83 "Cataract" ellipse
+84 "Visual loss" ellipse
+85 "Blindness" ellipse
+86 "Periodontitis" ellipse
+87 "Sensory neuropathy" ellipse
+88 "Hypertension" ellipse
+89 "Primary hypothyroidism" ellipse
+90 "Glucose intolerance" ellipse
+91 "Hyperinsulinemia" ellipse
+92 "Growth hormone excess" ellipse
+93 "Acanthosis nigricans" ellipse
+94 "Edema" ellipse
+95 "Pruritus" ellipse
+96 "Eruptive xanthomas" ellipse
+97 "Intellectual disability, mild" ellipse
+98 "Mental deterioration" ellipse
+99 "Orthostatic hypotension" ellipse
+100 "Confusion" ellipse
+101 "Stroke" ellipse
+102 "Limitation of joint mobility" ellipse
+103 "Cirrhosis" ellipse
+104 "Hepatic fibrosis" ellipse
+105 "Hepatic steatosis" ellipse
+106 "Decreased liver function" ellipse
+107 "Multifactorial inheritance" ellipse
+108 "Obesity" ellipse
+109 "Cardiomyopathy" ellipse
+110 "Hypertrophic cardiomyopathy" ellipse
+111 "Myocardial infarction" ellipse
+112 "Pancreatitis" ellipse
+113 "Acute pancreatitis" ellipse
+114 "Abnormality of the foot" ellipse
+115 "Weight loss" ellipse
+116 "Dehydration" ellipse
+117 "Ketosis" ellipse
+118 "Abnormal glucose tolerance" ellipse
+119 "Truncal obesity" ellipse
+120 "Polydipsia" ellipse
+121 "Diarrhea" ellipse
+122 "Chronic diarrhea" ellipse
+123 "Anorexia" ellipse
+124 "Hyperuricemia" ellipse
+125 "Hypertriglyceridemia" ellipse
+126 "Azotemia" ellipse
+127 "Hemiplegia" ellipse
+128 "Memory impairment" ellipse
+129 "Stroke-like episodes" ellipse
+130 "Impaired vibratory sensation" ellipse
+131 "Hepatic necrosis" ellipse
+132 "Atherosclerosis" ellipse
+133 "Cerebral ischemia" ellipse
+134 "Abnormality of the immune system" ellipse
+135 "Recurrent fractures" ellipse
+136 "Osteoarthritis" ellipse
+137 "Recurrent upper respiratory tract infections" ellipse
+138 "Osteolysis" ellipse
+139 "Obstructive sleep apnea" ellipse
+140 "Elevated hepatic transaminases" ellipse
+141 "Hypomagnesemia" ellipse
+142 "Ketonuria" ellipse
+143 "Immune dysregulation" ellipse
+144 "Hyperglycemia" ellipse
+145 "Glycosuria" ellipse
+146 "Abnormality of lipid metabolism" ellipse
+147 "Myopathy" ellipse
+148 "Back pain" ellipse
+149 "End stage renal disease" ellipse
+150 "Increased body weight" ellipse
+151 "Precocious atherosclerosis" ellipse
+152 "Intermittent claudication" ellipse
+153 "Abnormal oral glucose tolerance" ellipse
+154 "Beta-cell dysfunction" ellipse
+155 "Chronic obstructive pulmonary disease" ellipse
+156 "Chronic lung disease" ellipse
+157 "Diffuse hepatic steatosis" ellipse
+158 "Age-related macular degeneration" ellipse
+159 "Fasting hyperinsulinemia" ellipse
+160 "Increased muscle lipid content" ellipse
+161 "Lipodystrophy" ellipse
+162 "Increased adipose tissue" ellipse
+163 "Maternal diabetes" ellipse
+164 "Peripheral neuropathy" ellipse
+165 "Sleep apnea" ellipse
+166 "Hyperlipoproteinemia" ellipse
+167 "Polygenic inheritance" ellipse
+168 "Abnormal glucose homeostasis" ellipse
+169 "Respiratory tract infection" ellipse
+170 "Cerebral amyloid angiopathy" ellipse
+171 "Cognitive impairment" ellipse
+172 "Eclampsia" ellipse
+173 "Pancreatic fibrosis" ellipse
+174 "Sepsis" ellipse
+175 "Renovascular hypertension" ellipse
+176 "loss of subcutaneous adipose tissue" ellipse
+177 "decreased bone mineral density" ellipse
+178 "increased leukocyte cell number" ellipse
+179 "nervous system abnormalities" ellipse
+180 "impaired wound healing" ellipse
+181 "abnormal inflammatory response" ellipse
+182 "increased inflammatory response" ellipse
+183 "acanthosis" ellipse
+184 "increased thermal nociceptive threshold" ellipse
+185 "abnormal acute inflammation" ellipse
+186 "abnormal inflammatory mediator physiology" ellipse
+187 "glucose homeostasis traits" ellipse
+188 "fatigue" ellipse
+189 "increased circulating alanine transaminase level" ellipse
+190 "hypoalgesia" ellipse
+191 "fibrosis" ellipse
+192 "increased vascular permeability" ellipse
+193 "cardiac fibrosis" ellipse
+194 "prolonged QT interval" ellipse
+195 "abnormal insulin secretion" ellipse
+196 "abnormal glucagon secretion" ellipse
+197 "muscle fatigue" ellipse
+198 "oxidative stress" ellipse
+199 "decreased lean body mass" ellipse
+200 "thrombosis" ellipse
+201 "axon degeneration" ellipse
+202 "increased angiogenesis" ellipse
+203 "increased body mass index" ellipse
+204 "decreased systemic arterial systolic blood pressure" ellipse
+205 "increased interleukin-6 secretion" ellipse
+206 "adenocarcinoma" ellipse
+207 "ventricular premature beat" ellipse
+208 "impaired gastric peristalsis" ellipse
+209 "increased total body fat amount" ellipse
+210 "abnormal lipid oxidation" ellipse
+211 "pulmonary alveolar proteinosis" ellipse
+212 "increased urination frequency" ellipse
+213 "dilated mitochondria" ellipse
+*Arcs
+75 94 0.1250000 l "substring"
+94 75 0.0909091 l "substring"
+76 78 0.1250000 l "substring"
+78 76 0.1250000 l "substring"
+81 86 0.1250000 l "substring"
+86 81 0.1250000 l "substring"
+88 175 0.1000000 l "substring"
+175 88 0.1250000 l "substring"
+18 29 0.1111111 l "substring"
+29 18 0.0833333 l "substring"
+91 159 0.1250000 l "substring"
+159 91 0.1250000 l "substring"
+93 183 0.1250000 l "substring"
+183 93 0.1250000 l "substring"
+101 34 0.1111111 l "substring"
+34 101 0.1000000 l "substring"
+101 129 0.1111111 l "substring"
+129 101 0.1250000 l "substring"
+104 191 0.1111111 l "substring"
+191 104 0.0714286 l "substring"
+105 157 0.1250000 l "substring"
+157 105 0.1111111 l "substring"
+108 119 0.1111111 l "substring"
+119 108 0.1250000 l "substring"
+109 110 0.1111111 l "substring"
+110 109 0.1250000 l "substring"
+109 147 0.1111111 l "substring"
+147 109 0.1000000 l "substring"
+110 147 0.1250000 l "substring"
+147 110 0.1000000 l "substring"
+3 11 0.1000000 l "substring"
+11 3 0.1000000 l "substring"
+112 113 0.1111111 l "substring"
+113 112 0.1250000 l "substring"
+112 44 0.1111111 l "substring"
+44 112 0.1111111 l "substring"
+29 30 0.0833333 l "substring"
+30 29 0.1111111 l "substring"
+29 31 0.0833333 l "substring"
+31 29 0.1111111 l "substring"
+4 5 0.1000000 l "substring"
+5 4 0.1000000 l "substring"
+121 122 0.1111111 l "substring"
+122 121 0.1250000 l "substring"
+132 151 0.0769231 l "substring"
+151 132 0.1250000 l "substring"
+132 7 0.0769231 l "substring"
+7 132 0.1000000 l "substring"
+132 8 0.0769231 l "substring"
+8 132 0.1000000 l "substring"
+137 169 0.1250000 l "substring"
+169 137 0.1250000 l "substring"
+139 165 0.1250000 l "substring"
+165 139 0.1250000 l "substring"
+144 47 0.0769231 l "substring"
+47 144 0.1111111 l "substring"
+173 191 0.1250000 l "substring"
+191 173 0.0714286 l "substring"
+188 197 0.1250000 l "substring"
+197 188 0.1111111 l "substring"
+191 193 0.0714286 l "substring"
+193 191 0.1250000 l "substring"
+191 60 0.0714286 l "substring"
+60 191 0.1111111 l "substring"
+191 61 0.0714286 l "substring"
+61 191 0.1111111 l "substring"
+191 74 0.0714286 l "substring"
+74 191 0.1111111 l "substring"
+12 13 0.1111111 l "distance"
+13 12 0.1111111 l "distance"
+94 19 0.0909091 l "distance"
+19 94 0.1111111 l "distance"
+94 69 0.0909091 l "distance"
+69 94 0.1111111 l "distance"
+20 45 0.1111111 l "distance"
+45 20 0.1111111 l "distance"
+103 191 0.1250000 l "distance"
+191 103 0.0714286 l "distance"
+104 131 0.1111111 l "distance"
+131 104 0.1250000 l "distance"
+29 144 0.0833333 l "distance"
+144 29 0.0769231 l "distance"
+117 174 0.1111111 l "distance"
+174 117 0.1250000 l "distance"
+123 126 0.1250000 l "distance"
+126 123 0.1111111 l "distance"
+33 48 0.1000000 l "distance"
+48 33 0.1111111 l "distance"
+33 55 0.1000000 l "distance"
+55 33 0.1000000 l "distance"
+124 144 0.1250000 l "distance"
+144 124 0.0769231 l "distance"
+132 6 0.0769231 l "distance"
+6 132 0.1000000 l "distance"
+38 51 0.1000000 l "distance"
+51 38 0.1111111 l "distance"
+55 62 0.1000000 l "distance"
+62 55 0.1111111 l "distance"
+56 57 0.1000000 l "distance"
+57 56 0.1111111 l "distance"
+70 71 0.1000000 l "distance"
+71 70 0.1111111 l "distance"
+*Edges

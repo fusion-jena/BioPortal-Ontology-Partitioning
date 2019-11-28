@@ -1,0 +1,9 @@
+*Vertices 2
+1 "cellular assay" ellipse
+2 "biological measurement method" ellipse
+*Arcs
+1 2 0.1846884 l "isa"
+2 1 0.2667581 l "isa"
+1 2 0.1846884 l "isa"
+2 1 0.2667581 l "isa"
+*Edges

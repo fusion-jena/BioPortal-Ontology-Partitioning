@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Action potential" ellipse
+2 "Mitophagia" ellipse
+3 "Saltatory conduction" ellipse
+4 "Spine formation" ellipse
+5 "Spine retraction" ellipse
+6 "Synaptic release" ellipse
+7 "Synaptic transmission" ellipse
+8 "Synaptic transport" ellipse
+9 "process related to neurons" ellipse
+10 "Sprouting" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.0454545 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.0454545 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.0454545 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.0454545 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.0454545 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0454545 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0454545 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.0454545 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.0454545 l "isa"
+*Edges

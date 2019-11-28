@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Some_clear_positive_responses_and_interactions" ellipse
+2 "cresp_Some_clear_positive_responses_and_interactions"
+*Arcs
+1 2 0.2304230 l "substring"
+2 1 0.1977532 l "substring"
+1 2 0.2304230 l "substring"
+2 1 0.1977532 l "substring"
+1 2 0.2304230 l "substring"
+2 1 0.1977532 l "substring"
+*Edges

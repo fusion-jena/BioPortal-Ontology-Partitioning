@@ -1,0 +1,29 @@
+*Vertices 4
+1 "MobileElement" ellipse
+2 "MobileElementType" ellipse
+3 "mobileElementType"
+4 "mobileElementName"
+*Arcs
+1 2 0.2307692 l "mobileElementType"
+2 1 0.3750000 l "mobileElementType"
+1 2 0.2307692 l "definition"
+2 1 0.3750000 l "definition"
+1 3 0.1538462 l "definition"
+3 1 0.3333333 l "definition"
+1 4 0.1538462 l "definition"
+4 1 0.3333333 l "definition"
+1 2 0.2307692 l "substring"
+2 1 0.3750000 l "substring"
+1 3 0.1538462 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.1538462 l "substring"
+4 1 0.3333333 l "substring"
+2 3 0.2500000 l "substring"
+3 2 0.3333333 l "substring"
+2 3 0.2500000 l "distance"
+3 2 0.3333333 l "distance"
+2 4 0.1250000 l "distance"
+4 2 0.1666667 l "distance"
+3 4 0.1666667 l "distance"
+4 3 0.1666667 l "distance"
+*Edges

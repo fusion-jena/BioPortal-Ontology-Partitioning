@@ -1,0 +1,10 @@
+*Vertices 3
+1 "IL7R" ellipse
+2 "NPTXR" ellipse
+3 "P2x7r" ellipse
+*Arcs
+1 3 0.0175439 l "distance"
+3 1 0.5000000 l "distance"
+2 3 0.1250000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

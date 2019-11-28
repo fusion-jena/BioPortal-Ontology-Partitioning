@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Literal"
+2 "Literal"
+*Arcs
+1 2 0.2200675 l "substring"
+2 1 0.7079887 l "substring"
+1 2 0.2200675 l "distance"
+2 1 0.7079887 l "distance"
+1 2 0.2200675 l "substring"
+2 1 0.7079887 l "substring"
+1 2 0.2200675 l "distance"
+2 1 0.7079887 l "distance"
+*Edges

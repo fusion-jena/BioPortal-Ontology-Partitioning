@@ -1,0 +1,9 @@
+*Vertices 2
+1 "FEVER" ellipse
+2 "hay fever with asthma" ellipse
+*Arcs
+1 2 0.0371685 l "substring"
+2 1 0.2514322 l "substring"
+1 2 0.0371685 l "substring"
+2 1 0.2514322 l "substring"
+*Edges

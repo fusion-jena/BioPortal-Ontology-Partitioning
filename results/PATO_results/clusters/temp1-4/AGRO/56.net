@@ -1,0 +1,18 @@
+*Vertices 3
+1 "detection stimulant role" ellipse
+2 "detection role" ellipse
+3 "detector role" ellipse
+*Arcs
+1 2 0.2875372 l "isa"
+2 1 0.1120068 l "isa"
+3 2 0.3783706 l "isa"
+2 3 0.2261471 l "isa"
+2 3 0.2261471 l "distance"
+3 2 0.3783706 l "distance"
+1 2 0.2875372 l "isa"
+2 1 0.1120068 l "isa"
+3 2 0.3783706 l "isa"
+2 3 0.2261471 l "isa"
+2 3 0.2261471 l "distance"
+3 2 0.3783706 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Bahamas" ellipse
+2 "Panama" ellipse
+*Arcs
+1 2 0.2615080 l "distance"
+2 1 0.1544936 l "distance"
+1 2 0.2615080 l "distance"
+2 1 0.1544936 l "distance"
+*Edges

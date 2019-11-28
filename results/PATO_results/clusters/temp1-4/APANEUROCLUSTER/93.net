@@ -1,0 +1,11 @@
+*Vertices 2
+1 "MYAL" ellipse
+2 "Fibromyalgia" ellipse
+*Arcs
+1 2 0.0122350 l "substring"
+2 1 0.3342769 l "substring"
+1 2 0.0122350 l "substring"
+2 1 0.3342769 l "substring"
+1 2 0.0122350 l "substring"
+2 1 0.3342769 l "substring"
+*Edges

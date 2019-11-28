@@ -1,0 +1,11 @@
+*Vertices 2
+1 "peak group" ellipse
+2 "peak list" ellipse
+*Arcs
+1 2 0.2257746 l "isa"
+2 1 0.1435248 l "isa"
+1 2 0.2257746 l "isa"
+2 1 0.1435248 l "isa"
+1 2 0.2257746 l "isa"
+2 1 0.1435248 l "isa"
+*Edges

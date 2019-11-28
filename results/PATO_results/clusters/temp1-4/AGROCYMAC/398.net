@@ -1,0 +1,13 @@
+*Vertices 2
+1 "maturity" ellipse
+2 "mature" ellipse
+*Arcs
+2 1 0.1429536 l "isa"
+1 2 0.3558729 l "isa"
+1 2 0.3558729 l "distance"
+2 1 0.1429536 l "distance"
+2 1 0.1429536 l "isa"
+1 2 0.3558729 l "isa"
+1 2 0.3558729 l "distance"
+2 1 0.1429536 l "distance"
+*Edges

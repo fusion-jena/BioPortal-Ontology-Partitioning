@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Cholinergic" ellipse
+2 "cholinergic stress reaction" ellipse
+*Arcs
+1 2 0.2967918 l "substring"
+2 1 0.3980193 l "substring"
+1 2 0.2967918 l "substring"
+2 1 0.3980193 l "substring"
+1 2 0.2967918 l "substring"
+2 1 0.3980193 l "substring"
+*Edges

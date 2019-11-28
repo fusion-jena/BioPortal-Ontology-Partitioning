@@ -1,0 +1,26 @@
+*Vertices 3
+1 "calories" ellipse
+2 "elevation" ellipse
+3 "gps" ellipse
+*Arcs
+1 2 0.0638565 l "isa"
+2 1 0.1666354 l "isa"
+2 3 0.1644900 l "isa"
+3 2 0.0532481 l "isa"
+1 2 0.0638565 l "isa"
+2 1 0.1666354 l "isa"
+2 3 0.1644900 l "isa"
+3 2 0.0532481 l "isa"
+1 2 0.0638565 l "isa"
+2 1 0.1666354 l "isa"
+2 3 0.1644900 l "isa"
+3 2 0.0532481 l "isa"
+1 2 0.0638565 l "isa"
+2 1 0.1666354 l "isa"
+2 3 0.1644900 l "isa"
+3 2 0.0532481 l "isa"
+1 2 0.0638565 l "isa"
+2 1 0.1666354 l "isa"
+2 3 0.1644900 l "isa"
+3 2 0.0532481 l "isa"
+*Edges

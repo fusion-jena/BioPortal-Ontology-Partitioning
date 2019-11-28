@@ -1,0 +1,50 @@
+*Vertices 13
+1 "Nurse" ellipse
+2 "Nurses_Independent_Role" ellipse
+3 "Patient" ellipse
+4 "Answer_Phones" ellipse
+5 "Family" ellipse
+6 "Patient_Education" ellipse
+7 "Pick_patients_Up_From_Theatre" ellipse
+8 "Prepare_Patient_for_Theatre" ellipse
+9 "Supervise_Student_Nurse" ellipse
+10 "Take_Blood" ellipse
+11 "Take_Patients_to_Theatre" ellipse
+12 "Thing" ellipse
+13 "string"
+*Arcs
+3 2 0.1111111 l "isa"
+2 3 0.0714286 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0714286 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2222222 l "isa"
+7 2 0.5000000 l "isa"
+2 7 0.0714286 l "isa"
+8 2 0.5000000 l "isa"
+2 8 0.0714286 l "isa"
+9 2 0.5000000 l "isa"
+2 9 0.0714286 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.0714286 l "isa"
+11 2 0.5000000 l "isa"
+2 11 0.0714286 l "isa"
+3 13 0.1111111 l "patient_name"
+13 3 0.5000000 l "patient_name"
+1 2 0.2000000 l "substring"
+2 1 0.0714286 l "substring"
+1 9 0.2000000 l "substring"
+9 1 0.5000000 l "substring"
+3 6 0.2222222 l "substring"
+6 3 1.0000000 l "substring"
+3 7 0.1111111 l "substring"
+7 3 0.5000000 l "substring"
+3 8 0.1111111 l "substring"
+8 3 0.5000000 l "substring"
+3 11 0.1111111 l "substring"
+11 3 0.5000000 l "substring"
+12 13 0.2500000 l "distance"
+13 12 0.5000000 l "distance"
+*Edges

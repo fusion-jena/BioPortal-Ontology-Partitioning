@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Audiovisual_Communications_Media" ellipse
+2 "Communications_Media" ellipse
+*Arcs
+1 2 0.5354746 l "substring"
+2 1 0.3836223 l "substring"
+1 2 0.5354746 l "substring"
+2 1 0.3836223 l "substring"
+1 2 0.5354746 l "substring"
+2 1 0.3836223 l "substring"
+*Edges

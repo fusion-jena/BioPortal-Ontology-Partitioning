@@ -1,0 +1,23 @@
+*Vertices 4
+1 "F1_Iniciacion" ellipse
+2 "F2_Implementacion" ellipse
+3 "Persistencia" ellipse
+4 "abarcada_por"
+*Arcs
+4 1 0.2500000 l "definition"
+1 4 0.2500000 l "definition"
+4 2 0.2500000 l "definition"
+2 4 0.1176471 l "definition"
+1 4 0.2500000 l "definition"
+4 1 0.2500000 l "definition"
+1 3 0.2500000 l "definition"
+3 1 0.2222222 l "definition"
+2 4 0.1176471 l "definition"
+4 2 0.2500000 l "definition"
+2 3 0.1176471 l "definition"
+3 2 0.2222222 l "definition"
+3 1 0.2222222 l "definition"
+1 3 0.2500000 l "definition"
+3 2 0.2222222 l "definition"
+2 3 0.1176471 l "definition"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Efectos_no_deseados" ellipse
+2 "Frecuencia_ocurrencia" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+*Edges

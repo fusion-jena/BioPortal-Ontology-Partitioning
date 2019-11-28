@@ -1,0 +1,11 @@
+*Vertices 6
+1 "Collection" ellipse
+2 "Restriction"
+3 "MD_RestrictionCode" ellipse
+4 "CI_Responsibility" ellipse
+5 "graphic"
+6 "useConstraints"
+*Arcs
+3 2 0.1428571 l "substring"
+2 3 0.2000000 l "substring"
+*Edges

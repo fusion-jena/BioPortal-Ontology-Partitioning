@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Beta secretase" ellipse
+2 "beta amyloid pathway function" ellipse
+3 "beta secretase activity" ellipse
+*Arcs
+3 2 0.3353634 l "isa"
+2 3 0.1198496 l "isa"
+1 3 0.1539248 l "substring"
+3 1 0.3377995 l "substring"
+3 2 0.3353634 l "isa"
+2 3 0.1198496 l "isa"
+1 3 0.1539248 l "substring"
+3 1 0.3377995 l "substring"
+*Edges

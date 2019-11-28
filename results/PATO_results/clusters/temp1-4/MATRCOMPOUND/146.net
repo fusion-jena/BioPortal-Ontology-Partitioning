@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Lincoln Red" ellipse
+2 "Lincoln" ellipse
+*Arcs
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+1 2 0.7592507 l "substring"
+2 1 0.7592288 l "substring"
+*Edges

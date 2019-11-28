@@ -1,0 +1,13 @@
+*Vertices 2
+1 "sulfuric acid" ellipse
+2 "sulfuric acid derivative" ellipse
+*Arcs
+2 1 0.3062110 l "definition"
+1 2 0.2177894 l "definition"
+1 2 0.2177894 l "substring"
+2 1 0.3062110 l "substring"
+2 1 0.3062110 l "definition"
+1 2 0.2177894 l "definition"
+1 2 0.2177894 l "substring"
+2 1 0.3062110 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Learning_Ability" ellipse
+2 "Reading_Ability" ellipse
+*Arcs
+1 2 0.2885225 l "distance"
+2 1 0.5226782 l "distance"
+1 2 0.2885225 l "distance"
+2 1 0.5226782 l "distance"
+*Edges

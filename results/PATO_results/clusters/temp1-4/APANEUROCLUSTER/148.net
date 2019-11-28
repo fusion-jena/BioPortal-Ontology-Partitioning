@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Cerebral_Hemorrhage" ellipse
+2 "Hemorrhage" ellipse
+*Arcs
+1 2 0.2563167 l "substring"
+2 1 0.3801990 l "substring"
+1 2 0.2563167 l "substring"
+2 1 0.3801990 l "substring"
+1 2 0.2563167 l "substring"
+2 1 0.3801990 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "peak analyte amount" ellipse
+2 "relative peak analyte amount" ellipse
+*Arcs
+1 2 0.1624507 l "substring"
+2 1 0.1624507 l "substring"
+1 2 0.1624507 l "substring"
+2 1 0.1624507 l "substring"
+*Edges

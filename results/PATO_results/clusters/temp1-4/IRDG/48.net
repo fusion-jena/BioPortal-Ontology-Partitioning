@@ -1,0 +1,37 @@
+*Vertices 4
+1 "CDKL2" ellipse
+2 "PKD1L2" ellipse
+3 "PKD1L3" ellipse
+4 "PKD2L2" ellipse
+*Arcs
+1 2 0.0348707 l "distance"
+2 1 0.2311137 l "distance"
+1 4 0.0348707 l "distance"
+4 1 0.2311137 l "distance"
+2 3 0.2667836 l "distance"
+3 2 0.2234417 l "distance"
+2 4 0.2771181 l "distance"
+4 2 0.2771181 l "distance"
+3 4 0.2234417 l "distance"
+4 3 0.2667836 l "distance"
+1 2 0.0348707 l "distance"
+2 1 0.2311137 l "distance"
+1 4 0.0348707 l "distance"
+4 1 0.2311137 l "distance"
+2 3 0.2667836 l "distance"
+3 2 0.2234417 l "distance"
+2 4 0.2771181 l "distance"
+4 2 0.2771181 l "distance"
+3 4 0.2234417 l "distance"
+4 3 0.2667836 l "distance"
+1 2 0.0348707 l "distance"
+2 1 0.2311137 l "distance"
+1 4 0.0348707 l "distance"
+4 1 0.2311137 l "distance"
+2 3 0.2667836 l "distance"
+3 2 0.2234417 l "distance"
+2 4 0.2771181 l "distance"
+4 2 0.2771181 l "distance"
+3 4 0.2234417 l "distance"
+4 3 0.2667836 l "distance"
+*Edges

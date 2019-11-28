@@ -1,0 +1,27 @@
+*Vertices 4
+1 "environmental condition" ellipse
+2 "tropical" ellipse
+3 "tropical marine condition" ellipse
+4 "tropical mangrove" ellipse
+*Arcs
+2 1 0.1557872 l "isa"
+1 2 0.2101960 l "isa"
+3 2 0.4470243 l "isa"
+2 3 0.3598464 l "isa"
+4 2 0.2248470 l "definition"
+2 4 0.3335162 l "definition"
+2 3 0.3598464 l "substring"
+3 2 0.4470243 l "substring"
+2 4 0.3335162 l "substring"
+4 2 0.2248470 l "substring"
+2 1 0.1557872 l "isa"
+1 2 0.2101960 l "isa"
+3 2 0.4470243 l "isa"
+2 3 0.3598464 l "isa"
+4 2 0.2248470 l "definition"
+2 4 0.3335162 l "definition"
+2 3 0.3598464 l "substring"
+3 2 0.4470243 l "substring"
+2 4 0.3335162 l "substring"
+4 2 0.2248470 l "substring"
+*Edges

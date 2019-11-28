@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Self_Inflicted_Wounds" ellipse
+2 "Wounds" ellipse
+*Arcs
+1 2 0.5504196 l "substring"
+2 1 0.2754318 l "substring"
+1 2 0.5504196 l "substring"
+2 1 0.2754318 l "substring"
+1 2 0.5504196 l "substring"
+2 1 0.2754318 l "substring"
+*Edges

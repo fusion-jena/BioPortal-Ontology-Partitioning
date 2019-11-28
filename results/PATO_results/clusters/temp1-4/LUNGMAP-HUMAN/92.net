@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Swedish Warmblood" ellipse
+2 "Swiss Warmblood" ellipse
+*Arcs
+1 2 0.5888781 l "distance"
+2 1 0.5888781 l "distance"
+1 2 0.5888781 l "distance"
+2 1 0.5888781 l "distance"
+1 2 0.5888781 l "distance"
+2 1 0.5888781 l "distance"
+*Edges

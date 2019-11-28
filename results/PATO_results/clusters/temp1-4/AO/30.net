@@ -1,0 +1,39 @@
+*Vertices 4
+1 "NCHON" ellipse
+2 "NDCIN" ellipse
+3 "NUJSN" ellipse
+4 "XRAYS" ellipse
+*Arcs
+3 4 0.1124146 l "isa"
+4 3 0.0369450 l "isa"
+1 2 0.0439187 l "distance"
+2 1 0.0676161 l "distance"
+1 3 0.0465958 l "distance"
+3 1 0.1138081 l "distance"
+2 3 0.0742922 l "distance"
+3 2 0.1178610 l "distance"
+3 4 0.1124146 l "isa"
+4 3 0.0369450 l "isa"
+1 2 0.0439187 l "distance"
+2 1 0.0676161 l "distance"
+1 3 0.0465958 l "distance"
+3 1 0.1138081 l "distance"
+2 3 0.0742922 l "distance"
+3 2 0.1178610 l "distance"
+3 4 0.1124146 l "isa"
+4 3 0.0369450 l "isa"
+1 2 0.0439187 l "distance"
+2 1 0.0676161 l "distance"
+1 3 0.0465958 l "distance"
+3 1 0.1138081 l "distance"
+2 3 0.0742922 l "distance"
+3 2 0.1178610 l "distance"
+3 4 0.1124146 l "isa"
+4 3 0.0369450 l "isa"
+1 2 0.0439187 l "distance"
+2 1 0.0676161 l "distance"
+1 3 0.0465958 l "distance"
+3 1 0.1138081 l "distance"
+2 3 0.0742922 l "distance"
+3 2 0.1178610 l "distance"
+*Edges

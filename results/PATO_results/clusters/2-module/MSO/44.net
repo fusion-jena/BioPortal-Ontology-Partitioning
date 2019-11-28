@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Dynorphin" ellipse
+2 "Endorphine" ellipse
+3 "Enkephalin" ellipse
+4 "Neuropeptide" ellipse
+5 "Substance_P" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+2 4 0.3333333 l "isa"
+4 2 0.5000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.5000000 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Greenland" ellipse
+2 "Ireland" ellipse
+*Arcs
+1 2 0.2078345 l "distance"
+2 1 0.1174044 l "distance"
+1 2 0.2078345 l "distance"
+2 1 0.1174044 l "distance"
+*Edges

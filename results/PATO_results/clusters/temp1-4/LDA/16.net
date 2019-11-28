@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Czech Improved White" ellipse
+2 "Provençale" ellipse
+3 "Rove" ellipse
+*Arcs
+1 3 0.5026003 l "substring"
+3 1 0.0454957 l "substring"
+2 3 0.5027082 l "substring"
+3 2 0.0454957 l "substring"
+1 3 0.5026003 l "substring"
+3 1 0.0454957 l "substring"
+2 3 0.5027082 l "substring"
+3 2 0.0454957 l "substring"
+*Edges

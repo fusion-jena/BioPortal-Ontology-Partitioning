@@ -1,0 +1,66 @@
+*Vertices 21
+1 "Central Nervous System Hemmorhage" ellipse
+2 "Cerebral Edema" ellipse
+3 "Cerebral Venous Infarction" ellipse
+4 "Cerebrospinal Fluid Leak" ellipse
+5 "Cerebrovascular Accident" ellipse
+6 "Delirium Tremens" ellipse
+7 "Depressed Level of Consciousness" ellipse
+8 "Facial nerve (CN VII) Palsy" ellipse
+9 "Failed Spinal Instrumentation" ellipse
+10 "Iatrogenic Nerve Injury" ellipse
+11 "Intra-operative Cerebral Stroke" ellipse
+12 "Nervous System" ellipse
+13 "Neuropathy, Cranial" ellipse
+14 "Neuropathy, Motor" ellipse
+15 "Neuropathy, Sensory" ellipse
+16 "Psychosis, Confusion or Depression" ellipse
+17 "Seizure" ellipse
+18 "Shunt Malfunction" ellipse
+19 "Syncope" ellipse
+20 "Transient Ischemic Attack" ellipse
+21 "Vagus Nerve (CN X) Palsy" ellipse
+*Arcs
+1 12 1.0000000 l "isa"
+12 1 0.0833333 l "isa"
+2 12 1.0000000 l "isa"
+12 2 0.0416667 l "isa"
+3 12 1.0000000 l "isa"
+12 3 0.0416667 l "isa"
+4 12 1.0000000 l "isa"
+12 4 0.0416667 l "isa"
+5 12 1.0000000 l "isa"
+12 5 0.0416667 l "isa"
+6 12 1.0000000 l "isa"
+12 6 0.0416667 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.0416667 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.0416667 l "isa"
+9 12 1.0000000 l "isa"
+12 9 0.0416667 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.0416667 l "isa"
+11 12 1.0000000 l "isa"
+12 11 0.0416667 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.0416667 l "isa"
+14 12 1.0000000 l "isa"
+12 14 0.0416667 l "isa"
+15 12 1.0000000 l "isa"
+12 15 0.0416667 l "isa"
+16 12 1.0000000 l "isa"
+12 16 0.0416667 l "isa"
+17 12 1.0000000 l "isa"
+12 17 0.0416667 l "isa"
+18 12 1.0000000 l "isa"
+12 18 0.0416667 l "isa"
+19 12 1.0000000 l "isa"
+12 19 0.0416667 l "isa"
+20 12 1.0000000 l "isa"
+12 20 0.0416667 l "isa"
+21 12 1.0000000 l "isa"
+12 21 0.0416667 l "isa"
+1 12 1.0000000 l "substring"
+12 1 0.0833333 l "substring"
+*Edges

@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Teaching Hospital Entities" ellipse
+2 "Community Hospital Entities" ellipse
+3 "Small Hospital Entities" ellipse
+4 "CCC / Rehab Hospital Entities" ellipse
+5 "Mental Health Hospital Entities" ellipse
+6 "Hospital Entities" ellipse
+*Arcs
+1 6 0.3333333 l "definition"
+6 1 0.1333333 l "definition"
+2 6 0.3333333 l "definition"
+6 2 0.1333333 l "definition"
+3 6 0.3333333 l "definition"
+6 3 0.1333333 l "definition"
+4 6 0.3333333 l "definition"
+6 4 0.1333333 l "definition"
+5 6 0.3333333 l "definition"
+6 5 0.1333333 l "definition"
+1 6 0.3333333 l "substring"
+6 1 0.1333333 l "substring"
+2 6 0.3333333 l "substring"
+6 2 0.1333333 l "substring"
+3 6 0.3333333 l "substring"
+6 3 0.1333333 l "substring"
+4 6 0.3333333 l "substring"
+6 4 0.1333333 l "substring"
+5 6 0.3333333 l "substring"
+6 5 0.1333333 l "substring"
+*Edges

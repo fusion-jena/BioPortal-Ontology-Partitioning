@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Affective_Psychosis" ellipse
+2 "Childhood_Psychosis" ellipse
+3 "Korsakoffs_Psychosis" ellipse
+4 "Postpartum_Psychosis" ellipse
+5 "Psychosis" ellipse
+6 "Reactive_Psychosis" ellipse
+*Arcs
+1 5 0.2551332 l "substring"
+5 1 0.0739054 l "substring"
+2 5 0.2551332 l "substring"
+5 2 0.0739054 l "substring"
+3 5 0.2551332 l "substring"
+5 3 0.0739054 l "substring"
+4 5 0.2551332 l "substring"
+5 4 0.0739054 l "substring"
+5 6 0.0739054 l "substring"
+6 5 0.2551332 l "substring"
+1 5 0.2551332 l "substring"
+5 1 0.0739054 l "substring"
+2 5 0.2551332 l "substring"
+5 2 0.0739054 l "substring"
+3 5 0.2551332 l "substring"
+5 3 0.0739054 l "substring"
+4 5 0.2551332 l "substring"
+5 4 0.0739054 l "substring"
+5 6 0.0739054 l "substring"
+6 5 0.2551332 l "substring"
+*Edges

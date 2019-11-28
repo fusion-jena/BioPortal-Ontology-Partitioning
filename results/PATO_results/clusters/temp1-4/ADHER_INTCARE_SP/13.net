@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Possible_Showing_by_Bringing_and_Directing_Attention_But_Not_Sufficient_Frequent" ellipse
+2 "show_Possible_Showing_by_Bringing_and_Directing_Attention_But_Not_Sufficient_Frequent"
+*Arcs
+1 2 0.3947299 l "substring"
+2 1 0.3140770 l "substring"
+1 2 0.3947299 l "substring"
+2 1 0.3140770 l "substring"
+1 2 0.3947299 l "substring"
+2 1 0.3140770 l "substring"
+*Edges

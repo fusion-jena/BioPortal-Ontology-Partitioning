@@ -1,0 +1,11 @@
+*Vertices 2
+1 "altimeter" ellipse
+2 "floors" ellipse
+*Arcs
+2 1 0.2098292 l "isa"
+1 2 0.1862170 l "isa"
+2 1 0.2098292 l "isa"
+1 2 0.1862170 l "isa"
+2 1 0.2098292 l "isa"
+1 2 0.1862170 l "isa"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Contraception_Risk" ellipse
+2 "Life_Cycle" ellipse
+3 "Perinatal_Risk" ellipse
+4 "Postpartum_Risk" ellipse
+5 "Pregnancy_Risk" ellipse
+*Arcs
+1 2 0.1481496 l "isa"
+2 1 0.0686365 l "isa"
+3 2 0.1481496 l "isa"
+2 3 0.0686365 l "isa"
+4 2 0.1481496 l "isa"
+2 4 0.0686365 l "isa"
+5 2 0.1481496 l "isa"
+2 5 0.0686365 l "isa"
+1 2 0.1481496 l "isa"
+2 1 0.0686365 l "isa"
+3 2 0.1481496 l "isa"
+2 3 0.0686365 l "isa"
+4 2 0.1481496 l "isa"
+2 4 0.0686365 l "isa"
+5 2 0.1481496 l "isa"
+2 5 0.0686365 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "firstName"
+2 "lastName"
+*Arcs
+1 2 0.3082031 l "distance"
+2 1 0.3082031 l "distance"
+1 2 0.3082031 l "distance"
+2 1 0.3082031 l "distance"
+1 2 0.3082031 l "distance"
+2 1 0.3082031 l "distance"
+1 2 0.3082031 l "distance"
+2 1 0.3082031 l "distance"
+*Edges

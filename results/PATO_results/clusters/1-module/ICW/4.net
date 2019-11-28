@@ -1,0 +1,37 @@
+*Vertices 12
+1 "ICW-1:01.01.03 Therapy" ellipse
+2 "ICW-1:01.01.03.04 Massage Therapy" ellipse
+3 "ICW-1:01.01.05.03 Immunization" ellipse
+4 "ICW-1:01.01.03.01 Physical Therapy" ellipse
+5 "ICW-1:01.01.05.02 Health Screening" ellipse
+6 "ICW-1:01.01.03.03 Therapy - NOS" ellipse
+7 "ICW-1:01.01.04 Physical Wellness - NOS" ellipse
+8 "ICW-1:01.01.05.01 Prevention - NOS" ellipse
+9 "ICW-1:01.01.03.02 Occupational Therapy" ellipse
+10 "ICW-1:01.01 Physical Wellness" ellipse
+11 "ICW-1:01.01.01 Diet" ellipse
+12 "ICW-1:01.01.05 Prevention" ellipse
+*Arcs
+1 10 0.2000000 l "isa"
+10 1 0.1666667 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 12 1.0000000 l "isa"
+12 3 0.2500000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+5 12 1.0000000 l "isa"
+12 5 0.2500000 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.2000000 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.1666667 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.2500000 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.2000000 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.1666667 l "isa"
+12 10 0.2500000 l "isa"
+10 12 0.1666667 l "isa"
+*Edges

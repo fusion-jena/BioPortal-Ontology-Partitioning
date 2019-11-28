@@ -1,0 +1,65 @@
+*Vertices 10
+1 "Property vs Common" ellipse
+2 "Proper" ellipse
+3 "Common" ellipse
+4 "Operative" ellipse
+5 "Power" ellipse
+6 "Function" ellipse
+7 "Faculty" ellipse
+8 "Force" ellipse
+9 "Action" ellipse
+10 "Motion" ellipse
+*Arcs
+2 1 0.6840148 l "isa"
+1 2 0.4299065 l "isa"
+3 1 0.4269377 l "isa"
+1 3 0.3925234 l "isa"
+5 4 0.4879518 l "isa"
+4 5 0.1905882 l "isa"
+6 4 0.5031056 l "isa"
+4 6 0.1905882 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.2258824 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.2258824 l "isa"
+10 9 0.5295951 l "isa"
+9 10 0.3560210 l "isa"
+1 2 0.4299065 l "substring"
+2 1 0.6840148 l "substring"
+1 3 0.3925234 l "substring"
+3 1 0.4269377 l "substring"
+2 5 0.3159851 l "distance"
+5 2 0.5120482 l "distance"
+3 10 0.1867853 l "distance"
+10 3 0.2289720 l "distance"
+6 9 0.4968944 l "distance"
+9 6 0.1675393 l "distance"
+9 10 0.3560210 l "distance"
+10 9 0.5295951 l "distance"
+2 1 0.6840148 l "isa"
+1 2 0.4299065 l "isa"
+3 1 0.4269377 l "isa"
+1 3 0.3925234 l "isa"
+5 4 0.4879518 l "isa"
+4 5 0.1905882 l "isa"
+6 4 0.5031056 l "isa"
+4 6 0.1905882 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.2258824 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.2258824 l "isa"
+10 9 0.5295951 l "isa"
+9 10 0.3560210 l "isa"
+1 2 0.4299065 l "substring"
+2 1 0.6840148 l "substring"
+1 3 0.3925234 l "substring"
+3 1 0.4269377 l "substring"
+2 5 0.3159851 l "distance"
+5 2 0.5120482 l "distance"
+3 10 0.1867853 l "distance"
+10 3 0.2289720 l "distance"
+6 9 0.4968944 l "distance"
+9 6 0.1675393 l "distance"
+9 10 0.3560210 l "distance"
+10 9 0.5295951 l "distance"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Romagnola" ellipse
+2 "Mora Romagnola" ellipse
+3 "Romanov" ellipse
+*Arcs
+1 2 0.4322768 l "substring"
+2 1 0.6199762 l "substring"
+1 3 0.3544213 l "distance"
+3 1 0.3911122 l "distance"
+1 2 0.4322768 l "substring"
+2 1 0.6199762 l "substring"
+1 3 0.3544213 l "distance"
+3 1 0.3911122 l "distance"
+1 2 0.4322768 l "substring"
+2 1 0.6199762 l "substring"
+1 3 0.3544213 l "distance"
+3 1 0.3911122 l "distance"
+1 2 0.4322768 l "substring"
+2 1 0.6199762 l "substring"
+1 3 0.3544213 l "distance"
+3 1 0.3911122 l "distance"
+1 2 0.4322768 l "substring"
+2 1 0.6199762 l "substring"
+1 3 0.3544213 l "distance"
+3 1 0.3911122 l "distance"
+*Edges

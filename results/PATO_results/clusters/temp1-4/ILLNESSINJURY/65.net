@@ -1,0 +1,36 @@
+*Vertices 3
+1 "reproductive structure" ellipse
+2 "multicellular anatomical structure" ellipse
+3 "cell cluster" ellipse
+*Arcs
+1 2 0.2827313 l "isa"
+2 1 0.1917452 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1667591 l "isa"
+1 2 0.2827313 l "definition"
+2 1 0.1917452 l "definition"
+1 2 0.2827313 l "isa"
+2 1 0.1917452 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1667591 l "isa"
+1 2 0.2827313 l "definition"
+2 1 0.1917452 l "definition"
+1 2 0.2827313 l "isa"
+2 1 0.1917452 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1667591 l "isa"
+1 2 0.2827313 l "definition"
+2 1 0.1917452 l "definition"
+1 2 0.2827313 l "isa"
+2 1 0.1917452 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1667591 l "isa"
+1 2 0.2827313 l "definition"
+2 1 0.1917452 l "definition"
+1 2 0.2827313 l "isa"
+2 1 0.1917452 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1667591 l "isa"
+1 2 0.2827313 l "definition"
+2 1 0.1917452 l "definition"
+*Edges

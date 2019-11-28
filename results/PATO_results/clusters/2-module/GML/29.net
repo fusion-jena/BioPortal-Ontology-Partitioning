@@ -1,0 +1,9 @@
+*Vertices 2
+1 "LineString" ellipse
+2 "MultiLineString" ellipse
+*Arcs
+2 1 0.2857143 l "lineStringMember"
+1 2 0.2500000 l "lineStringMember"
+1 2 0.2500000 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

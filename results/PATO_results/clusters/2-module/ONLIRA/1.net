@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Area" ellipse
+2 "sizeMM"
+3 "boolean"
+4 "Area Calcification"
+*Arcs
+1 2 0.1052632 l "Area Width"
+2 1 1.0000000 l "Area Width"
+1 2 0.1052632 l "Area Height"
+2 1 1.0000000 l "Area Height"
+1 3 0.2105263 l "is Central Localized"
+3 1 0.5000000 l "is Central Localized"
+1 3 0.2105263 l "is Lesion Gallbladder Adjante"
+3 1 0.5000000 l "is Lesion Gallbladder Adjante"
+1 3 0.2105263 l "is Lesion Peripherical Localized"
+3 1 0.5000000 l "is Lesion Peripherical Localized"
+1 3 0.2105263 l "is Lesion Subcupsular Localized"
+3 1 0.5000000 l "is Lesion Subcupsular Localized"
+4 1 0.2857143 l "definition"
+1 4 0.1052632 l "definition"
+1 4 0.1052632 l "substring"
+4 1 0.2857143 l "substring"
+*Edges

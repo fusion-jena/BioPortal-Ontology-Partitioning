@@ -1,0 +1,21 @@
+*Vertices 6
+1 "Perceptual_Measures" ellipse
+2 "Rod_and_Frame_Test" ellipse
+3 "Sensorimotor_Measures" ellipse
+4 "Speech_and_Hearing_Measures" ellipse
+5 "Stroop_Color_Word_Test" ellipse
+6 "PerceptualMeasures" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.2000000 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.1000000 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.1000000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1000000 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.1000000 l "isa"
+1 6 1.0000000 l "distance"
+6 1 0.2000000 l "distance"
+*Edges

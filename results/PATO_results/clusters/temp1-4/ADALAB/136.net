@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Coagulopathy" ellipse
+2 "CoagulopathyProcess" ellipse
+3 "HematologicalDisease" ellipse
+4 "HematologicalDiseaseProcess" ellipse
+*Arcs
+1 3 0.4796722 l "isa"
+3 1 0.1851695 l "isa"
+2 4 0.2403367 l "isa"
+4 2 0.1152930 l "isa"
+1 2 0.5203278 l "substring"
+2 1 0.3191307 l "substring"
+3 4 0.1390969 l "substring"
+4 3 0.1060148 l "substring"
+1 3 0.4796722 l "isa"
+3 1 0.1851695 l "isa"
+2 4 0.2403367 l "isa"
+4 2 0.1152930 l "isa"
+1 2 0.5203278 l "substring"
+2 1 0.3191307 l "substring"
+3 4 0.1390969 l "substring"
+4 3 0.1060148 l "substring"
+1 3 0.4796722 l "isa"
+3 1 0.1851695 l "isa"
+2 4 0.2403367 l "isa"
+4 2 0.1152930 l "isa"
+1 2 0.5203278 l "substring"
+2 1 0.3191307 l "substring"
+3 4 0.1390969 l "substring"
+4 3 0.1060148 l "substring"
+*Edges

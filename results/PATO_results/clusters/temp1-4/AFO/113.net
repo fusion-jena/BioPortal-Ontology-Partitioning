@@ -1,0 +1,28 @@
+*Vertices 5
+1 "mass chromatogram" ellipse
+2 "chromatogram" ellipse
+3 "electromagnetic radiation chromatogram" ellipse
+4 "size-exclusion chromatogram" ellipse
+5 "ion chromatogram" ellipse
+*Arcs
+1 2 0.4000000 l "isa"
+2 1 0.1176471 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.1176471 l "isa"
+4 2 0.4000000 l "isa"
+2 4 0.1176471 l "isa"
+5 1 0.1666667 l "isa"
+1 5 0.2000000 l "isa"
+1 2 0.4000000 l "substring"
+2 1 0.1176471 l "substring"
+2 3 0.1176471 l "substring"
+3 2 0.6666667 l "substring"
+2 4 0.1176471 l "substring"
+4 2 0.4000000 l "substring"
+2 5 0.0588235 l "substring"
+5 2 0.1666667 l "substring"
+3 5 0.3333333 l "substring"
+5 3 0.1666667 l "substring"
+4 5 0.2000000 l "substring"
+5 4 0.1666667 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Presenile_Dementia" ellipse
+2 "Senile_Dementia" ellipse
+*Arcs
+1 2 0.3257508 l "substring"
+2 1 0.3257508 l "substring"
+1 2 0.3257508 l "distance"
+2 1 0.3257508 l "distance"
+1 2 0.3257508 l "substring"
+2 1 0.3257508 l "substring"
+1 2 0.3257508 l "distance"
+2 1 0.3257508 l "distance"
+1 2 0.3257508 l "substring"
+2 1 0.3257508 l "substring"
+1 2 0.3257508 l "distance"
+2 1 0.3257508 l "distance"
+*Edges

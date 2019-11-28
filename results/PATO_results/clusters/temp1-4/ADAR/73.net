@@ -1,0 +1,23 @@
+*Vertices 6
+1 "Appropriate_and_Spontaneous_Use" ellipse
+2 "Conventional_or_Instrumental_Gestures" ellipse
+3 "Inconsistent_Spontaneous_Use" ellipse
+4 "Limited_Spontaneous_Use" ellipse
+5 "NotAvailable_Conventional_or_instrumental_gestures" ellipse
+6 "Unknown_Conventional_or_Instrumental_Gestures" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0909091 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0909091 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0909091 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.1818182 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.1818182 l "isa"
+2 5 0.1818182 l "substring"
+5 2 0.5000000 l "substring"
+2 6 0.1818182 l "substring"
+6 2 0.5000000 l "substring"
+*Edges

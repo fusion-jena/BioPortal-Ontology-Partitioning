@@ -1,0 +1,108 @@
+*Vertices 31
+1 "abdomen_gi_abnormality" ellipse
+2 "abnormal_connective_tissue" ellipse
+3 "autoimmune_disorder" ellipse
+4 "back_abnormality" ellipse
+5 "cardiovascular_abnormality" ellipse
+6 "chest_breast_abnormality" ellipse
+7 "constitutional" ellipse
+8 "coordination_abnormality" ellipse
+9 "cranial_nerves_abnormality" ellipse
+10 "cushings_syndrome" ellipse
+11 "disease_or_disorder" ellipse
+12 "ear_nose_mouth_throat_abnormality" ellipse
+13 "extremities_abnormality" ellipse
+14 "eye_abnormality" ellipse
+15 "gait_abnormality" ellipse
+16 "genitourinary_abnormality" ellipse
+17 "glioblastoma" ellipse
+18 "head_appearance" ellipse
+19 "lymphatic_abnormality" ellipse
+20 "mental_status" ellipse
+21 "motor_abnormality" ellipse
+22 "neck_abnormality" ellipse
+23 "other_disease_or_disorder" ellipse
+24 "physical_finding" ellipse
+25 "psychiatric_abnormality" ellipse
+26 "reflexes_abnormality" ellipse
+27 "relative" ellipse
+28 "respiratory_abnormality" ellipse
+29 "sensation_abnormality" ellipse
+30 "skin_abnormality" ellipse
+31 "has_associated_disorder"
+*Arcs
+1 24 1.0000000 l "isa"
+24 1 0.0400000 l "isa"
+2 23 1.0000000 l "isa"
+23 2 0.0833333 l "isa"
+3 23 1.0000000 l "isa"
+23 3 0.0833333 l "isa"
+4 24 0.3333333 l "isa"
+24 4 0.0400000 l "isa"
+5 24 1.0000000 l "isa"
+24 5 0.0400000 l "isa"
+6 24 1.0000000 l "isa"
+24 6 0.0400000 l "isa"
+7 24 1.0000000 l "isa"
+24 7 0.0400000 l "isa"
+8 24 1.0000000 l "isa"
+24 8 0.0400000 l "isa"
+9 24 1.0000000 l "isa"
+24 9 0.0400000 l "isa"
+10 23 1.0000000 l "isa"
+23 10 0.0833333 l "isa"
+12 24 1.0000000 l "isa"
+24 12 0.0400000 l "isa"
+13 24 1.0000000 l "isa"
+24 13 0.0400000 l "isa"
+14 24 0.5000000 l "isa"
+24 14 0.0400000 l "isa"
+15 24 0.3333333 l "isa"
+24 15 0.0400000 l "isa"
+16 24 1.0000000 l "isa"
+24 16 0.0400000 l "isa"
+17 11 0.5000000 l "isa"
+11 17 0.1428571 l "isa"
+18 24 1.0000000 l "isa"
+24 18 0.0400000 l "isa"
+19 24 1.0000000 l "isa"
+24 19 0.0400000 l "isa"
+20 24 1.0000000 l "isa"
+24 20 0.0400000 l "isa"
+21 24 1.0000000 l "isa"
+24 21 0.0400000 l "isa"
+22 24 0.3333333 l "isa"
+24 22 0.0400000 l "isa"
+23 11 0.1666667 l "isa"
+11 23 0.2857143 l "isa"
+25 24 1.0000000 l "isa"
+24 25 0.0400000 l "isa"
+26 24 1.0000000 l "isa"
+24 26 0.0400000 l "isa"
+28 24 1.0000000 l "isa"
+24 28 0.0400000 l "isa"
+29 24 1.0000000 l "isa"
+24 29 0.0400000 l "isa"
+30 24 0.5000000 l "isa"
+24 30 0.0400000 l "isa"
+11 11 0.2857143 l "has_associated_disorder"
+11 11 0.2857143 l "has_associated_disorder"
+11 24 0.2857143 l "has_finding"
+24 11 0.0800000 l "has_finding"
+24 11 0.0800000 l "has_predisposition"
+11 24 0.2857143 l "has_predisposition"
+27 17 0.0555556 l "definition"
+17 27 0.5000000 l "definition"
+27 31 0.0555556 l "definition"
+31 27 1.0000000 l "definition"
+11 23 0.2857143 l "substring"
+23 11 0.1666667 l "substring"
+4 15 0.3333333 l "distance"
+15 4 0.3333333 l "distance"
+4 22 0.3333333 l "distance"
+22 4 0.3333333 l "distance"
+14 22 0.5000000 l "distance"
+22 14 0.3333333 l "distance"
+15 30 0.3333333 l "distance"
+30 15 0.5000000 l "distance"
+*Edges

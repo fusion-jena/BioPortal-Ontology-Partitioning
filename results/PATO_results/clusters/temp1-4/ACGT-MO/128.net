@@ -1,0 +1,48 @@
+*Vertices 9
+1 "CompleteTumorRemission" ellipse
+2 "LocalTumorRelapse" ellipse
+3 "PartialTumorRemission" ellipse
+4 "TumorDevelopment" ellipse
+5 "TumorProgress" ellipse
+6 "TumorRegression" ellipse
+7 "TumorRelapse" ellipse
+8 "TumorRemission" ellipse
+9 "TumorStagnation" ellipse
+*Arcs
+1 8 0.7500000 l "isa"
+8 1 0.2727273 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.6666667 l "isa"
+3 8 0.6000000 l "isa"
+8 3 0.2727273 l "isa"
+5 4 0.1111111 l "isa"
+4 5 0.1000000 l "isa"
+6 4 0.3333333 l "isa"
+4 6 0.1000000 l "isa"
+7 4 0.3333333 l "isa"
+4 7 0.1000000 l "isa"
+8 4 0.0909091 l "isa"
+4 8 0.1000000 l "isa"
+9 4 0.5000000 l "isa"
+4 9 0.1000000 l "isa"
+5 6 0.1111111 l "definition"
+6 5 0.3333333 l "definition"
+5 5 0.2222222 l "definition"
+5 5 0.2222222 l "definition"
+5 8 0.1111111 l "definition"
+8 5 0.0909091 l "definition"
+5 9 0.1111111 l "definition"
+9 5 0.5000000 l "definition"
+8 3 0.2727273 l "definition"
+3 8 0.6000000 l "definition"
+8 1 0.2727273 l "definition"
+1 8 0.7500000 l "definition"
+1 8 0.7500000 l "substring"
+8 1 0.2727273 l "substring"
+2 7 1.0000000 l "substring"
+7 2 0.6666667 l "substring"
+3 8 0.6000000 l "substring"
+8 3 0.2727273 l "substring"
+6 8 0.3333333 l "distance"
+8 6 0.0909091 l "distance"
+*Edges

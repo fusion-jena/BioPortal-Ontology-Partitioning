@@ -1,0 +1,30 @@
+*Vertices 3
+1 "CinderCone" ellipse
+2 "CompositeCone" ellipse
+3 "VolcanicCone" ellipse
+*Arcs
+1 3 0.6407848 l "isa"
+3 1 0.2402427 l "isa"
+2 3 0.4549748 l "isa"
+3 2 0.2000519 l "isa"
+1 3 0.6407848 l "isa"
+3 1 0.2402427 l "isa"
+2 3 0.4549748 l "isa"
+3 2 0.2000519 l "isa"
+1 3 0.6407848 l "isa"
+3 1 0.2402427 l "isa"
+2 3 0.4549748 l "isa"
+3 2 0.2000519 l "isa"
+1 3 0.6407848 l "isa"
+3 1 0.2402427 l "isa"
+2 3 0.4549748 l "isa"
+3 2 0.2000519 l "isa"
+1 3 0.6407848 l "isa"
+3 1 0.2402427 l "isa"
+2 3 0.4549748 l "isa"
+3 2 0.2000519 l "isa"
+1 3 0.6407848 l "isa"
+3 1 0.2402427 l "isa"
+2 3 0.4549748 l "isa"
+3 2 0.2000519 l "isa"
+*Edges

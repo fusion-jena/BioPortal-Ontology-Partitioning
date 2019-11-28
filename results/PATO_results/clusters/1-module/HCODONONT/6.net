@@ -1,0 +1,48 @@
+*Vertices 15
+1 "OWLClass_00000010497151035816" ellipse
+2 "OWLClass_00000010521384710905" ellipse
+3 "OWLClass_00000018672345688278" ellipse
+4 "OWLClass_2e66de4c_93e8_43fe_afe7_9d22d3ab5b41" ellipse
+5 "OWLClass_33522a90_6faa_4fb7_ba26_d81c959b24bd" ellipse
+6 "OWLClass_69bd2819_a7c4_4a5d_9df9_8ab2b5b4f215" ellipse
+7 "OWLClass_8f0405db_2c65_46c5_8736_5bb58556b2b9" ellipse
+8 "OWLClass_9a34bc0d_0b51_4ced_ae74_a561a53d043f" ellipse
+9 "OWLClass_a09cf7cc_4640_4d14_9aec_26de7368a945" ellipse
+10 "OWLClass_a6ba70ad_406b_4ecf_89ec_2d98cda98fc6" ellipse
+11 "OWLClass_b4034cb4_ead9_444f_b8d9_c101eff46b8f" ellipse
+12 "OWLClass_b78bf819_ffa9_4892_96b9_3ddd6bd351c5" ellipse
+13 "OWLClass_e351b7a2_7ad4_4cf7_b256_3801efc7bbab" ellipse
+14 "OWLClass_fc376ed6_b483_401a_856b_01efdb9f1b8f" ellipse
+15 "OWLClass_fe03dc13_223e_4dce_be0c_cd12361f79a6" ellipse
+*Arcs
+1 4 0.0833333 l "definition"
+4 1 1.0000000 l "definition"
+1 5 0.0833333 l "definition"
+5 1 0.5000000 l "definition"
+1 6 0.0833333 l "definition"
+6 1 0.5000000 l "definition"
+1 7 0.0833333 l "definition"
+7 1 1.0000000 l "definition"
+1 10 0.0833333 l "definition"
+10 1 1.0000000 l "definition"
+1 14 0.0833333 l "definition"
+14 1 0.5000000 l "definition"
+2 6 0.0909091 l "definition"
+6 2 0.5000000 l "definition"
+2 12 0.0909091 l "definition"
+12 2 1.0000000 l "definition"
+2 14 0.0909091 l "definition"
+14 2 0.5000000 l "definition"
+2 15 0.0909091 l "definition"
+15 2 1.0000000 l "definition"
+3 5 0.1428571 l "definition"
+5 3 0.5000000 l "definition"
+3 8 0.1428571 l "definition"
+8 3 1.0000000 l "definition"
+3 9 0.1428571 l "definition"
+9 3 1.0000000 l "definition"
+3 11 0.1428571 l "definition"
+11 3 1.0000000 l "definition"
+3 13 0.1428571 l "definition"
+13 3 1.0000000 l "definition"
+*Edges

@@ -1,0 +1,34 @@
+*Vertices 7
+1 "B Lymphocyte" ellipse
+2 "lymphocyte" ellipse
+3 "T Lymphocyte" ellipse
+4 "erythrocyte" ellipse
+5 "plasma cell" ellipse
+6 "blood cell" ellipse
+7 "peripheral blood lymphocytes" ellipse
+*Arcs
+1 2 0.3000000 l "isa"
+2 1 0.3000000 l "isa"
+3 2 0.3750000 l "isa"
+2 3 0.3000000 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1428571 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1000000 l "isa"
+7 2 0.6666667 l "isa"
+2 7 0.2000000 l "isa"
+7 6 0.3333333 l "isa"
+6 7 0.1428571 l "isa"
+1 2 0.3000000 l "substring"
+2 1 0.3000000 l "substring"
+2 3 0.3000000 l "substring"
+3 2 0.3750000 l "substring"
+2 7 0.2000000 l "substring"
+7 2 0.6666667 l "substring"
+1 2 0.3000000 l "distance"
+2 1 0.3000000 l "distance"
+1 3 0.1000000 l "distance"
+3 1 0.1250000 l "distance"
+2 3 0.3000000 l "distance"
+3 2 0.3750000 l "distance"
+*Edges

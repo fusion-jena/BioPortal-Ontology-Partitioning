@@ -1,0 +1,15 @@
+*Vertices 2
+1 "OrderedCollection" ellipse
+2 "Choice" ellipse
+*Arcs
+2 1 0.6643848 l "isa"
+1 2 0.6643848 l "isa"
+2 1 0.6643848 l "isa"
+1 2 0.6643848 l "isa"
+2 1 0.6643848 l "isa"
+1 2 0.6643848 l "isa"
+2 1 0.6643848 l "isa"
+1 2 0.6643848 l "isa"
+2 1 0.6643848 l "isa"
+1 2 0.6643848 l "isa"
+*Edges

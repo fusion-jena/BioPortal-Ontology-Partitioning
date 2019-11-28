@@ -1,0 +1,19 @@
+*Vertices 4
+1 "G10P1" ellipse
+2 "G10P2" ellipse
+3 "S100a" ellipse
+4 "S100b" ellipse
+*Arcs
+1 2 0.1111111 l "distance"
+2 1 0.1428571 l "distance"
+1 3 0.1111111 l "distance"
+3 1 0.2000000 l "distance"
+1 4 0.1111111 l "distance"
+4 1 0.3333333 l "distance"
+2 3 0.1428571 l "distance"
+3 2 0.2000000 l "distance"
+2 4 0.1428571 l "distance"
+4 2 0.3333333 l "distance"
+3 4 0.2000000 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

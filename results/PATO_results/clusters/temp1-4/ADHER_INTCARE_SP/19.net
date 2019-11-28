@@ -1,0 +1,28 @@
+*Vertices 9
+1 "Disponibilidad_tratamientos_efectivos" ellipse
+2 "Enfermedad" ellipse
+3 "Enfermeros" ellipse
+4 "Farmaceuticos" ellipse
+5 "Grado_Discapacidad" ellipse
+6 "Medicos" ellipse
+7 "Nutricionistas" ellipse
+8 "Profesionales" ellipse
+9 "Velocidad_progresion" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0666667 l "isa"
+3 8 0.5000000 l "isa"
+8 3 0.1666667 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1666667 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.0666667 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.1666667 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1666667 l "isa"
+9 2 1.0000000 l "isa"
+2 9 0.0666667 l "isa"
+2 3 0.0666667 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

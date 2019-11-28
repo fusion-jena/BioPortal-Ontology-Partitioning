@@ -1,0 +1,18 @@
+*Vertices 3
+1 "developmental stage" ellipse
+2 "Medaka stage 2a" ellipse
+3 "Medaka stage 2b" ellipse
+*Arcs
+2 1 0.0212994 l "isa"
+1 2 0.0212994 l "isa"
+3 1 0.0212994 l "isa"
+1 3 0.0212994 l "isa"
+2 3 0.0212994 l "distance"
+3 2 0.0212994 l "distance"
+2 1 0.0212994 l "isa"
+1 2 0.0212994 l "isa"
+3 1 0.0212994 l "isa"
+1 3 0.0212994 l "isa"
+2 3 0.0212994 l "distance"
+3 2 0.0212994 l "distance"
+*Edges

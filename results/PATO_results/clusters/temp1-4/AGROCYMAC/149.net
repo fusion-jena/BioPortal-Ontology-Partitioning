@@ -1,0 +1,9 @@
+*Vertices 2
+1 "performance status value specification" ellipse
+2 "Karnofsky score vaue specification" ellipse
+*Arcs
+2 1 0.2609414 l "isa"
+1 2 0.1543141 l "isa"
+2 1 0.2609414 l "isa"
+1 2 0.1543141 l "isa"
+*Edges

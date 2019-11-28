@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Perlman" ellipse
+2 "PerlmanProcess" ellipse
+*Arcs
+1 2 0.2417707 l "substring"
+2 1 0.2419381 l "substring"
+1 2 0.2417707 l "substring"
+2 1 0.2419381 l "substring"
+1 2 0.2417707 l "substring"
+2 1 0.2419381 l "substring"
+1 2 0.2417707 l "substring"
+2 1 0.2419381 l "substring"
+*Edges

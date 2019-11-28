@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Behavioral Experimental Paradigm Condition" ellipse
+2 "proper_part_of"
+*Arcs
+1 2 0.0588235 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

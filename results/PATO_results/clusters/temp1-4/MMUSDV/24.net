@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Cambodia" ellipse
+2 "Gambia" ellipse
+3 "Jamaica" ellipse
+4 "Zambia" ellipse
+*Arcs
+1 2 0.2549939 l "distance"
+2 1 0.1052387 l "distance"
+1 4 0.2561996 l "distance"
+4 1 0.1170245 l "distance"
+2 3 0.1052387 l "distance"
+3 2 0.2549939 l "distance"
+2 4 0.0990189 l "distance"
+4 2 0.1095900 l "distance"
+3 4 0.2561996 l "distance"
+4 3 0.1170245 l "distance"
+1 2 0.2549939 l "distance"
+2 1 0.1052387 l "distance"
+1 4 0.2561996 l "distance"
+4 1 0.1170245 l "distance"
+2 3 0.1052387 l "distance"
+3 2 0.2549939 l "distance"
+2 4 0.0990189 l "distance"
+4 2 0.1095900 l "distance"
+3 4 0.2561996 l "distance"
+4 3 0.1170245 l "distance"
+*Edges

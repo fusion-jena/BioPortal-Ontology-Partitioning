@@ -1,0 +1,10 @@
+*Vertices 2
+1 "Theileria infection
+Bovine anaemia" ellipse
+2 "Theileria" ellipse
+*Arcs
+1 2 0.0151515 l "definition"
+2 1 0.0160000 l "definition"
+1 2 0.0151515 l "substring"
+2 1 0.0160000 l "substring"
+*Edges

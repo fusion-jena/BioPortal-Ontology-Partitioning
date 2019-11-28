@@ -1,0 +1,88 @@
+*Vertices 13
+1 "Analog_Computers" ellipse
+2 "Computer_Assisted_Instruction" ellipse
+3 "Digital_Computers" ellipse
+4 "Digital_Divide" ellipse
+5 "Digital_Video" ellipse
+6 "Keyboards" ellipse
+7 "Microcomputers" ellipse
+8 "Robotics" ellipse
+9 "Video_Display_Units" ellipse
+10 "Virtual_Teams" ellipse
+11 "Visual_Displays" ellipse
+12 "EducationTraining" ellipse
+13 "Equipment" ellipse
+*Arcs
+1 13 1.0000000 l "isa"
+13 1 0.1081280 l "isa"
+2 12 0.6781652 l "isa"
+12 2 0.1117508 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.1081280 l "isa"
+4 12 0.4283165 l "isa"
+12 4 0.0823744 l "isa"
+5 13 0.4273928 l "isa"
+13 5 0.0796676 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.1081280 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.1081280 l "isa"
+8 13 0.5874791 l "isa"
+13 8 0.0879019 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.1081280 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.1117508 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.1081280 l "isa"
+4 5 0.5716835 l "distance"
+5 4 0.5726072 l "distance"
+1 13 1.0000000 l "isa"
+13 1 0.1081280 l "isa"
+2 12 0.6781652 l "isa"
+12 2 0.1117508 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.1081280 l "isa"
+4 12 0.4283165 l "isa"
+12 4 0.0823744 l "isa"
+5 13 0.4273928 l "isa"
+13 5 0.0796676 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.1081280 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.1081280 l "isa"
+8 13 0.5874791 l "isa"
+13 8 0.0879019 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.1081280 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.1117508 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.1081280 l "isa"
+4 5 0.5716835 l "distance"
+5 4 0.5726072 l "distance"
+1 13 1.0000000 l "isa"
+13 1 0.1081280 l "isa"
+2 12 0.6781652 l "isa"
+12 2 0.1117508 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.1081280 l "isa"
+4 12 0.4283165 l "isa"
+12 4 0.0823744 l "isa"
+5 13 0.4273928 l "isa"
+13 5 0.0796676 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.1081280 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.1081280 l "isa"
+8 13 0.5874791 l "isa"
+13 8 0.0879019 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.1081280 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.1117508 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.1081280 l "isa"
+4 5 0.5716835 l "distance"
+5 4 0.5726072 l "distance"
+*Edges

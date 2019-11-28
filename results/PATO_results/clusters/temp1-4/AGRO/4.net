@@ -1,0 +1,9 @@
+*Vertices 2
+1 "idle state" ellipse
+2 "held state" ellipse
+*Arcs
+1 2 0.3578691 l "distance"
+2 1 0.3578691 l "distance"
+1 2 0.3578691 l "distance"
+2 1 0.3578691 l "distance"
+*Edges

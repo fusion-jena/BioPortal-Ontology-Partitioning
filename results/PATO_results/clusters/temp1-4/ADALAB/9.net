@@ -1,0 +1,11 @@
+*Vertices 2
+1 "CRFNumber" ellipse
+2 "FaxNumber" ellipse
+*Arcs
+1 2 0.3023387 l "distance"
+2 1 0.3788457 l "distance"
+1 2 0.3023387 l "distance"
+2 1 0.3788457 l "distance"
+1 2 0.3023387 l "distance"
+2 1 0.3788457 l "distance"
+*Edges

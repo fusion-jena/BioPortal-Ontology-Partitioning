@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Protocol" ellipse
+2 "Protocol Identifier" ellipse
+3 "Screen Setting" ellipse
+*Arcs
+2 3 0.5000000 l "isa"
+3 2 0.1428571 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

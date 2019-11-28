@@ -1,0 +1,9 @@
+*Vertices 2
+1 "secretase" ellipse
+2 "stimulation of alpha-secretase" ellipse
+*Arcs
+1 2 0.0673710 l "substring"
+2 1 0.3610689 l "substring"
+1 2 0.0673710 l "substring"
+2 1 0.3610689 l "substring"
+*Edges

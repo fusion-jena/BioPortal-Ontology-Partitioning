@@ -1,0 +1,41 @@
+*Vertices 10
+1 "Family_Relation" ellipse
+2 "Female_Fictive_Kin" ellipse
+3 "Female_Partner" ellipse
+4 "Fictive_Kin_Relation" ellipse
+5 "Male_Fictive_Kin" ellipse
+6 "Male_Partner" ellipse
+7 "Organ_Donor" ellipse
+8 "Organ_Recipient" ellipse
+9 "Parent_Relation" ellipse
+10 "Partner_Relation" ellipse
+*Arcs
+4 1 0.3333333 l "isa"
+1 4 0.0833333 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0833333 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0833333 l "isa"
+9 1 0.1666667 l "isa"
+1 9 0.0833333 l "isa"
+10 1 0.2500000 l "isa"
+1 10 0.0833333 l "isa"
+2 4 0.1666667 l "definition"
+4 2 0.3333333 l "definition"
+3 10 0.1666667 l "definition"
+10 3 0.2500000 l "definition"
+5 4 0.1666667 l "definition"
+4 5 0.3333333 l "definition"
+6 10 0.1666667 l "definition"
+10 6 0.2500000 l "definition"
+2 5 0.3333333 l "substring"
+5 2 0.3333333 l "substring"
+3 6 0.3333333 l "substring"
+6 3 0.3333333 l "substring"
+2 5 0.3333333 l "distance"
+5 2 0.3333333 l "distance"
+3 6 0.3333333 l "distance"
+6 3 0.3333333 l "distance"
+9 10 0.1666667 l "distance"
+10 9 0.2500000 l "distance"
+*Edges

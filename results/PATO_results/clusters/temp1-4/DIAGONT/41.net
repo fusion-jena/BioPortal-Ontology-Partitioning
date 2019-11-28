@@ -1,0 +1,39 @@
+*Vertices 4
+1 "upper cup region of the early culminant" ellipse
+2 "upper cup region of the mid culminant" ellipse
+3 "upper cup of the late culminant" ellipse
+4 "upper cup" ellipse
+*Arcs
+1 4 0.1794350 l "isa"
+4 1 0.1415029 l "isa"
+2 4 0.1532740 l "isa"
+4 2 0.1400381 l "isa"
+3 4 0.1529714 l "isa"
+4 3 0.1400381 l "isa"
+2 1 0.0725486 l "definition"
+1 2 0.0840521 l "definition"
+3 2 0.0720054 l "definition"
+2 3 0.0721478 l "definition"
+1 4 0.1794350 l "substring"
+4 1 0.1415029 l "substring"
+2 4 0.1532740 l "substring"
+4 2 0.1400381 l "substring"
+3 4 0.1529714 l "substring"
+4 3 0.1400381 l "substring"
+1 4 0.1794350 l "isa"
+4 1 0.1415029 l "isa"
+2 4 0.1532740 l "isa"
+4 2 0.1400381 l "isa"
+3 4 0.1529714 l "isa"
+4 3 0.1400381 l "isa"
+2 1 0.0725486 l "definition"
+1 2 0.0840521 l "definition"
+3 2 0.0720054 l "definition"
+2 3 0.0721478 l "definition"
+1 4 0.1794350 l "substring"
+4 1 0.1415029 l "substring"
+2 4 0.1532740 l "substring"
+4 2 0.1400381 l "substring"
+3 4 0.1529714 l "substring"
+4 3 0.1400381 l "substring"
+*Edges

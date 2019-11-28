@@ -1,0 +1,17 @@
+*Vertices 2
+1 "relaxation" ellipse
+2 "Relaxation Therapy" ellipse
+*Arcs
+1 2 0.4854347 l "substring"
+2 1 0.6560872 l "substring"
+1 2 0.4854347 l "substring"
+2 1 0.6560872 l "substring"
+1 2 0.4854347 l "substring"
+2 1 0.6560872 l "substring"
+1 2 0.4854347 l "substring"
+2 1 0.6560872 l "substring"
+1 2 0.4854347 l "substring"
+2 1 0.6560872 l "substring"
+1 2 0.4854347 l "substring"
+2 1 0.6560872 l "substring"
+*Edges

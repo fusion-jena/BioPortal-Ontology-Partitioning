@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Wagyu" ellipse
+2 "Shagya" ellipse
+*Arcs
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+1 2 0.2806990 l "distance"
+2 1 0.3381769 l "distance"
+*Edges

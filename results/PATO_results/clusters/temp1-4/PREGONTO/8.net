@@ -1,0 +1,39 @@
+*Vertices 6
+1 "Event" ellipse
+2 "Audition" ellipse
+3 "Ceremony" ellipse
+4 "Event name" ellipse
+5 "Recording session" ellipse
+6 "Rehearsal" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0956947 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0956947 l "isa"
+5 1 0.5061851 l "isa"
+1 5 0.0722890 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0956947 l "isa"
+1 4 0.0956947 l "substring"
+4 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.0956947 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0956947 l "isa"
+5 1 0.5061851 l "isa"
+1 5 0.0722890 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0956947 l "isa"
+1 4 0.0956947 l "substring"
+4 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.0956947 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0956947 l "isa"
+5 1 0.5061851 l "isa"
+1 5 0.0722890 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0956947 l "isa"
+1 4 0.0956947 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

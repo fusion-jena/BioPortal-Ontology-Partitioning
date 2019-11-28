@@ -1,0 +1,44 @@
+*Vertices 9
+1 "Computer_Assisted_Instruction" ellipse
+2 "Computer_Assisted_Testing" ellipse
+3 "Computer_Literacy" ellipse
+4 "Computer_Training" ellipse
+5 "Educational_Television" ellipse
+6 "Televised_Instruction" ellipse
+7 "Virtual_Classrooms" ellipse
+8 "Virtual_Teams" ellipse
+9 "EducationTraining" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.1071843 l "isa"
+2 9 0.5083129 l "isa"
+9 2 0.0898456 l "isa"
+3 9 0.5085290 l "isa"
+9 3 0.0898456 l "isa"
+4 9 0.5085290 l "isa"
+9 4 0.0898456 l "isa"
+5 9 0.5084543 l "isa"
+9 5 0.0898456 l "isa"
+6 9 0.5084543 l "isa"
+9 6 0.0898456 l "isa"
+7 9 0.5062323 l "isa"
+9 7 0.0898456 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.1071843 l "isa"
+1 9 1.0000000 l "isa"
+9 1 0.1071843 l "isa"
+2 9 0.5083129 l "isa"
+9 2 0.0898456 l "isa"
+3 9 0.5085290 l "isa"
+9 3 0.0898456 l "isa"
+4 9 0.5085290 l "isa"
+9 4 0.0898456 l "isa"
+5 9 0.5084543 l "isa"
+9 5 0.0898456 l "isa"
+6 9 0.5084543 l "isa"
+9 6 0.0898456 l "isa"
+7 9 0.5062323 l "isa"
+9 7 0.0898456 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.1071843 l "isa"
+*Edges

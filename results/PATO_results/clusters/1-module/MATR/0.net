@@ -1,0 +1,12 @@
+*Vertices 5
+1 "hasState"
+2 "Restriction"
+3 "DissolvedSolid" ellipse
+4 "SuspendedSolid" ellipse
+5 "DissolvedGas" ellipse
+*Arcs
+5 1 0.1428571 l "definition"
+1 5 0.1250000 l "definition"
+5 2 0.1428571 l "definition"
+2 5 0.1111111 l "definition"
+*Edges

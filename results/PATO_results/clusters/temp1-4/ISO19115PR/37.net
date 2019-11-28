@@ -1,0 +1,15 @@
+*Vertices 2
+1 "last Update" ellipse
+2 "next Update" ellipse
+*Arcs
+1 2 0.3248229 l "distance"
+2 1 0.3248229 l "distance"
+1 2 0.3248229 l "distance"
+2 1 0.3248229 l "distance"
+1 2 0.3248229 l "distance"
+2 1 0.3248229 l "distance"
+1 2 0.3248229 l "distance"
+2 1 0.3248229 l "distance"
+1 2 0.3248229 l "distance"
+2 1 0.3248229 l "distance"
+*Edges

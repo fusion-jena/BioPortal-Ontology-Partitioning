@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Agent" ellipse
+2 "Agent Class" ellipse
+3 "Class" ellipse
+*Arcs
+2 3 0.6666667 l "isa"
+3 2 1.0000000 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.3333333 l "substring"
+2 3 0.6666667 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

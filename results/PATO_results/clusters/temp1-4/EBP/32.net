@@ -1,0 +1,30 @@
+*Vertices 3
+1 "Clinical Rule" ellipse
+2 "Exclusion Rule" ellipse
+3 "Inclusion Rule" ellipse
+*Arcs
+2 1 0.1441640 l "isa"
+1 2 0.1417825 l "isa"
+3 1 0.1441640 l "isa"
+1 3 0.1417825 l "isa"
+2 3 0.1444563 l "distance"
+3 2 0.1444563 l "distance"
+2 1 0.1441640 l "isa"
+1 2 0.1417825 l "isa"
+3 1 0.1441640 l "isa"
+1 3 0.1417825 l "isa"
+2 3 0.1444563 l "distance"
+3 2 0.1444563 l "distance"
+2 1 0.1441640 l "isa"
+1 2 0.1417825 l "isa"
+3 1 0.1441640 l "isa"
+1 3 0.1417825 l "isa"
+2 3 0.1444563 l "distance"
+3 2 0.1444563 l "distance"
+2 1 0.1441640 l "isa"
+1 2 0.1417825 l "isa"
+3 1 0.1441640 l "isa"
+1 3 0.1417825 l "isa"
+2 3 0.1444563 l "distance"
+3 2 0.1444563 l "distance"
+*Edges

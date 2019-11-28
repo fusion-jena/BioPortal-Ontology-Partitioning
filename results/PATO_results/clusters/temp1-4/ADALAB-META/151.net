@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Hemiparesis" ellipse
+2 "LeftHemiparesis" ellipse
+3 "RightHemiparesis" ellipse
+*Arcs
+2 1 0.5460164 l "isa"
+1 2 0.2525710 l "isa"
+3 1 0.5439376 l "isa"
+1 3 0.2525710 l "isa"
+1 2 0.2525710 l "substring"
+2 1 0.5460164 l "substring"
+1 3 0.2525710 l "substring"
+3 1 0.5439376 l "substring"
+2 1 0.5460164 l "isa"
+1 2 0.2525710 l "isa"
+3 1 0.5439376 l "isa"
+1 3 0.2525710 l "isa"
+1 2 0.2525710 l "substring"
+2 1 0.5460164 l "substring"
+1 3 0.2525710 l "substring"
+3 1 0.5439376 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasFilename"
+2 "hasGeneName"
+*Arcs
+1 2 0.4045416 l "distance"
+2 1 0.4019154 l "distance"
+1 2 0.4045416 l "distance"
+2 1 0.4019154 l "distance"
+1 2 0.4045416 l "distance"
+2 1 0.4019154 l "distance"
+1 2 0.4045416 l "distance"
+2 1 0.4019154 l "distance"
+*Edges

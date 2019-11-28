@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Inorganic" ellipse
+2 "InorganicSubstance" ellipse
+*Arcs
+1 2 0.3111111 l "substring"
+2 1 0.5384616 l "substring"
+1 2 0.3111111 l "substring"
+2 1 0.5384616 l "substring"
+*Edges

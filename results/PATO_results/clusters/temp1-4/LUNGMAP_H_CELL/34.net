@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Kerry" ellipse
+2 "Kerry Hill" ellipse
+3 "Kerry Bog Pony" ellipse
+*Arcs
+1 2 0.1425346 l "substring"
+2 1 0.5339811 l "substring"
+1 3 0.1425228 l "substring"
+3 1 0.5338311 l "substring"
+1 2 0.1425346 l "substring"
+2 1 0.5339811 l "substring"
+1 3 0.1425228 l "substring"
+3 1 0.5338311 l "substring"
+1 2 0.1425346 l "substring"
+2 1 0.5339811 l "substring"
+1 3 0.1425228 l "substring"
+3 1 0.5338311 l "substring"
+1 2 0.1425346 l "substring"
+2 1 0.5339811 l "substring"
+1 3 0.1425228 l "substring"
+3 1 0.5338311 l "substring"
+*Edges

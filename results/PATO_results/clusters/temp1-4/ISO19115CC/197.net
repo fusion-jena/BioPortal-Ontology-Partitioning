@@ -1,0 +1,9 @@
+*Vertices 2
+1 "fileType"
+2 "fileType"
+*Arcs
+1 2 0.1698617 l "substring"
+2 1 0.1818182 l "substring"
+1 2 0.1698617 l "distance"
+2 1 0.1818182 l "distance"
+*Edges

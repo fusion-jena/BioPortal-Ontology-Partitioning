@@ -1,0 +1,24 @@
+*Vertices 3
+1 "viability" ellipse
+2 "viable" ellipse
+3 "semi-viable" ellipse
+*Arcs
+2 1 0.0706648 l "isa"
+1 2 0.1556611 l "isa"
+3 1 0.5189791 l "isa"
+1 3 0.2148270 l "isa"
+2 3 0.0903912 l "substring"
+3 2 0.4810209 l "substring"
+2 1 0.0706648 l "isa"
+1 2 0.1556611 l "isa"
+3 1 0.5189791 l "isa"
+1 3 0.2148270 l "isa"
+2 3 0.0903912 l "substring"
+3 2 0.4810209 l "substring"
+2 1 0.0706648 l "isa"
+1 2 0.1556611 l "isa"
+3 1 0.5189791 l "isa"
+1 3 0.2148270 l "isa"
+2 3 0.0903912 l "substring"
+3 2 0.4810209 l "substring"
+*Edges

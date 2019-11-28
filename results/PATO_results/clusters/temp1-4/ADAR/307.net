@@ -1,0 +1,13 @@
+*Vertices 2
+1 "TumorClassAssessment" ellipse
+2 "TumorGradeAssessment" ellipse
+*Arcs
+2 1 0.1652086 l "isa"
+1 2 0.1845595 l "isa"
+2 1 0.1652086 l "isa"
+1 2 0.1845595 l "isa"
+2 1 0.1652086 l "isa"
+1 2 0.1845595 l "isa"
+2 1 0.1652086 l "isa"
+1 2 0.1845595 l "isa"
+*Edges

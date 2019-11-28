@@ -1,0 +1,11 @@
+*Vertices 2
+1 "resting-state functional connectivity MRI" ellipse
+2 "functional MRI" ellipse
+*Arcs
+1 2 0.3000614 l "isa"
+2 1 0.2293057 l "isa"
+1 2 0.3000614 l "isa"
+2 1 0.2293057 l "isa"
+1 2 0.3000614 l "isa"
+2 1 0.2293057 l "isa"
+*Edges

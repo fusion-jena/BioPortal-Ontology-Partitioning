@@ -1,0 +1,14 @@
+*Vertices 3
+1 "integron" ellipse
+2 "integron platform" ellipse
+3 "gene cassette (sensu integrons)" ellipse
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.4000000 l "definition"
+3 1 0.4000000 l "definition"
+1 3 0.4000000 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.4000000 l "substring"
+3 1 0.4000000 l "substring"
+*Edges

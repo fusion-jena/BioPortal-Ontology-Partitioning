@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Superior colliculus, optic layer" ellipse
+2 "Superior colliculus, sensory related" ellipse
+3 "Superior colliculus, superficial gray layer" ellipse
+4 "Superior colliculus, zonal layer" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2500000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2500000 l "isa"
+*Edges

@@ -1,0 +1,48 @@
+*Vertices 15
+1 "Astrocyte associated with amyloid beta deposits" ellipse
+2 "Astrocyte" ellipse
+3 "Difficulty in learning new things" ellipse
+4 "Early Sign of AD" ellipse
+5 "Getting lost" ellipse
+6 "Loosing things or misplacing them" ellipse
+7 "Memory problem starts" ellipse
+8 "Poor judgment" ellipse
+9 "Repeating questions" ellipse
+10 "Spends a lot of time observing" ellipse
+11 "Symptom of MILD AD" ellipse
+12 "Taking longer than before to complete normal daily tasks" ellipse
+13 "Trouble handling money and paying bills" ellipse
+14 "astrocyte activation" ellipse
+15 "Thing" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1666667 l "isa"
+5 11 1.0000000 l "isa"
+11 5 0.1250000 l "isa"
+6 11 0.5000000 l "isa"
+11 6 0.1250000 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.1666667 l "isa"
+8 11 1.0000000 l "isa"
+11 8 0.1250000 l "isa"
+9 11 1.0000000 l "isa"
+11 9 0.1250000 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.1666667 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.1250000 l "isa"
+13 11 1.0000000 l "isa"
+11 13 0.1250000 l "isa"
+14 4 0.5000000 l "isa"
+4 14 0.1666667 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.3333333 l "substring"
+2 14 0.1666667 l "substring"
+14 2 0.5000000 l "substring"
+3 15 0.5000000 l "substring"
+15 3 0.0238095 l "substring"
+6 15 0.5000000 l "substring"
+15 6 0.0238095 l "substring"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Feedback and monitoring" ellipse
+2 "Monitoring of behavior by others without feedback" ellipse
+3 "Feedback on behaviour" ellipse
+4 "Self-monitoring of behaviour" ellipse
+5 "Self-monitoring of outcome(s) of behaviour" ellipse
+6 "Monitoring of outcome(s) of behavior without feedback" ellipse
+7 "Biofeedback" ellipse
+8 "Feedback on outcome(s) of behavior" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1250000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1250000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1250000 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1250000 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1250000 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.1250000 l "isa"
+*Edges

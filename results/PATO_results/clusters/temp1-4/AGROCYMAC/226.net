@@ -1,0 +1,54 @@
+*Vertices 7
+1 "ovule primordium" ellipse
+2 "gynoecium primordium" ellipse
+3 "gynoecium" ellipse
+4 "plant ovule" ellipse
+5 "primordium" ellipse
+6 "phyllome primordium" ellipse
+7 "floral organ primordium" ellipse
+*Arcs
+1 7 0.3306646 l "isa"
+7 1 0.1308347 l "isa"
+2 7 0.2313044 l "isa"
+7 2 0.1263996 l "isa"
+6 5 0.1844885 l "isa"
+5 6 0.2874162 l "isa"
+7 5 0.2699059 l "isa"
+5 7 0.2971827 l "isa"
+3 2 0.2955157 l "definition"
+2 3 0.5356522 l "definition"
+4 1 0.1846486 l "definition"
+1 4 0.3362690 l "definition"
+1 5 0.3330665 l "substring"
+5 1 0.1451033 l "substring"
+2 3 0.5356522 l "substring"
+3 2 0.2955157 l "substring"
+2 5 0.2330435 l "substring"
+5 2 0.1402200 l "substring"
+5 6 0.2874162 l "substring"
+6 5 0.1844885 l "substring"
+5 7 0.2971827 l "substring"
+7 5 0.2699059 l "substring"
+1 7 0.3306646 l "isa"
+7 1 0.1308347 l "isa"
+2 7 0.2313044 l "isa"
+7 2 0.1263996 l "isa"
+6 5 0.1844885 l "isa"
+5 6 0.2874162 l "isa"
+7 5 0.2699059 l "isa"
+5 7 0.2971827 l "isa"
+3 2 0.2955157 l "definition"
+2 3 0.5356522 l "definition"
+4 1 0.1846486 l "definition"
+1 4 0.3362690 l "definition"
+1 5 0.3330665 l "substring"
+5 1 0.1451033 l "substring"
+2 3 0.5356522 l "substring"
+3 2 0.2955157 l "substring"
+2 5 0.2330435 l "substring"
+5 2 0.1402200 l "substring"
+5 6 0.2874162 l "substring"
+6 5 0.1844885 l "substring"
+5 7 0.2971827 l "substring"
+7 5 0.2699059 l "substring"
+*Edges

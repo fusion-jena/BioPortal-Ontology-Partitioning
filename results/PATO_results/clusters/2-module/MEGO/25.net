@@ -1,0 +1,40 @@
+*Vertices 11
+1 "phage genome replication" ellipse
+2 "phage RNA replication" ellipse
+3 "phage DNA replication" ellipse
+4 "protein primed DNA replication" ellipse
+5 "sigma DNA replication" ellipse
+6 "theta DNA replication" ellipse
+7 "transpositional DNA replication" ellipse
+8 "recombination directed DNA replication" ellipse
+9 "regulation of DNA transposition" ellipse
+10 "positive regulation of DNA transposition" ellipse
+11 "negative regulation of DNA transposition" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 0.1428571 l "isa"
+1 3 0.1250000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.1428571 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.1428571 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1428571 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.1428571 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.1428571 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.2500000 l "isa"
+11 9 1.0000000 l "isa"
+9 11 0.2500000 l "isa"
+9 7 0.1250000 l "definition"
+7 9 0.5000000 l "definition"
+9 10 0.2500000 l "substring"
+10 9 1.0000000 l "substring"
+9 11 0.2500000 l "substring"
+11 9 1.0000000 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.1428571 l "distance"
+*Edges

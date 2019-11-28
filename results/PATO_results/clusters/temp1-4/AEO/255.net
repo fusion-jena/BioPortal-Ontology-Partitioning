@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Geographic range" ellipse
+2 "Geographic range text" ellipse
+*Arcs
+2 1 0.3788050 l "definition"
+1 2 0.3749210 l "definition"
+1 2 0.3749210 l "substring"
+2 1 0.3788050 l "substring"
+2 1 0.3788050 l "definition"
+1 2 0.3749210 l "definition"
+1 2 0.3749210 l "substring"
+2 1 0.3788050 l "substring"
+*Edges

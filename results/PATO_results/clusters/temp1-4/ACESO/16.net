@@ -1,0 +1,15 @@
+*Vertices 4
+1 "disposition" ellipse
+2 "realizable entity" ellipse
+3 "mental disease" ellipse
+4 "disease" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.3333333 l "isa"
+3 4 0.6666667 l "isa"
+4 3 0.2222222 l "isa"
+4 1 0.1111111 l "isa"
+1 4 0.5000000 l "isa"
+3 4 0.6666667 l "substring"
+4 3 0.2222222 l "substring"
+*Edges

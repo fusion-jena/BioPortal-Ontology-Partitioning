@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ATMYX" ellipse
+2 "OSTMY" ellipse
+*Arcs
+1 2 0.0769169 l "distance"
+2 1 0.0837969 l "distance"
+1 2 0.0769169 l "distance"
+2 1 0.0837969 l "distance"
+1 2 0.0769169 l "distance"
+2 1 0.0837969 l "distance"
+1 2 0.0769169 l "distance"
+2 1 0.0837969 l "distance"
+*Edges

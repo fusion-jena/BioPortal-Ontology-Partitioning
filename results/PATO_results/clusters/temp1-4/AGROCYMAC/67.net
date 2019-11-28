@@ -1,0 +1,30 @@
+*Vertices 3
+1 "intensity" ellipse
+2 "atmospheric wind intensity" ellipse
+3 "intensity" ellipse
+*Arcs
+2 3 0.2757863 l "isa"
+3 2 0.5069697 l "isa"
+2 3 0.2757863 l "definition"
+3 2 0.5069697 l "definition"
+1 2 0.2154379 l "substring"
+2 1 0.0773551 l "substring"
+1 3 0.5203829 l "substring"
+3 1 0.3434781 l "substring"
+2 3 0.2757863 l "substring"
+3 2 0.5069697 l "substring"
+1 3 0.5203829 l "distance"
+3 1 0.3434781 l "distance"
+2 3 0.2757863 l "isa"
+3 2 0.5069697 l "isa"
+2 3 0.2757863 l "definition"
+3 2 0.5069697 l "definition"
+1 2 0.2154379 l "substring"
+2 1 0.0773551 l "substring"
+1 3 0.5203829 l "substring"
+3 1 0.3434781 l "substring"
+2 3 0.2757863 l "substring"
+3 2 0.5069697 l "substring"
+1 3 0.5203829 l "distance"
+3 1 0.3434781 l "distance"
+*Edges

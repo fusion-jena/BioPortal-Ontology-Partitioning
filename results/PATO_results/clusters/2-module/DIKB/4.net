@@ -1,0 +1,27 @@
+*Vertices 8
+1 "QualifiedStatement" ellipse
+2 "ReferencedStatement" ellipse
+3 "EV_Non_Tracable_Statement" ellipse
+4 "EV_Non_traceable_Drug_Label_Statement" ellipse
+5 "EV_Statement" ellipse
+6 "EV_Traceable_Drug_Label_Statement" ellipse
+7 "EV_Traceable_Statement" ellipse
+8 "is_stated_in"
+*Arcs
+3 5 0.5000000 l "isa"
+5 3 0.2500000 l "isa"
+5 1 0.2500000 l "isa"
+1 5 1.0000000 l "isa"
+7 2 0.3333333 l "isa"
+2 7 1.0000000 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.2500000 l "isa"
+4 3 0.1250000 l "definition"
+3 4 0.5000000 l "definition"
+4 8 0.1250000 l "definition"
+8 4 0.5000000 l "definition"
+6 7 0.1250000 l "definition"
+7 6 0.3333333 l "definition"
+6 8 0.1250000 l "definition"
+8 6 0.5000000 l "definition"
+*Edges

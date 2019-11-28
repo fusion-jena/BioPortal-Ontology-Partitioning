@@ -1,0 +1,18 @@
+*Vertices 3
+1 "SUGGESTION" ellipse
+2 "SUGGESTION_ID" ellipse
+3 "SUGGESTION_NAME" ellipse
+*Arcs
+2 1 0.3750000 l "isa"
+1 2 0.5000000 l "isa"
+3 1 0.4000000 l "isa"
+1 3 0.3333333 l "isa"
+2 3 0.1250000 l "HAS_SUGGESTION_NAME"
+3 2 0.2000000 l "HAS_SUGGESTION_NAME"
+1 2 0.5000000 l "substring"
+2 1 0.3750000 l "substring"
+1 3 0.3333333 l "substring"
+3 1 0.4000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.3750000 l "distance"
+*Edges

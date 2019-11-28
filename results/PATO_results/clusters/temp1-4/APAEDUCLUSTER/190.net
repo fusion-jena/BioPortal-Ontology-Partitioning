@@ -1,0 +1,21 @@
+*Vertices 2
+1 "HELIO" ellipse
+2 "Heliox" ellipse
+*Arcs
+1 2 0.0793636 l "substring"
+2 1 0.3355786 l "substring"
+1 2 0.0793636 l "distance"
+2 1 0.3355786 l "distance"
+1 2 0.0793636 l "substring"
+2 1 0.3355786 l "substring"
+1 2 0.0793636 l "distance"
+2 1 0.3355786 l "distance"
+1 2 0.0793636 l "substring"
+2 1 0.3355786 l "substring"
+1 2 0.0793636 l "distance"
+2 1 0.3355786 l "distance"
+1 2 0.0793636 l "substring"
+2 1 0.3355786 l "substring"
+1 2 0.0793636 l "distance"
+2 1 0.3355786 l "distance"
+*Edges

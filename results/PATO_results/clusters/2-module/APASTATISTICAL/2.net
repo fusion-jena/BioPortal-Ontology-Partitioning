@@ -1,0 +1,199 @@
+*Vertices 66
+1 "Algorithms" ellipse
+2 "Between_Groups_Design" ellipse
+3 "Causal_Analysis" ellipse
+4 "Central_Tendency_Measures" ellipse
+5 "Chi_Square_Test" ellipse
+6 "Cluster_Analysis" ellipse
+7 "Cohort_Analysis" ellipse
+8 "Decision_Theory" ellipse
+9 "Error_Analysis" ellipse
+10 "Error_of_Measurement" ellipse
+11 "Evaluation_Criteria" ellipse
+12 "Experimental_Design" ellipse
+13 "Factor_Analysis" ellipse
+14 "Factor_Structure" ellipse
+15 "Fuzzy_Set_Theory" ellipse
+16 "Goodness_of_Fit" ellipse
+17 "Heuristic_Modeling" ellipse
+18 "Homogeneity_of_Variance" ellipse
+19 "Interaction_Variance" ellipse
+20 "Item_Response_Theory" ellipse
+21 "Least_Squares" ellipse
+22 "Logistic_Regression" ellipse
+23 "Mann_Whitney_U_Test" ellipse
+24 "Markov_Chains" ellipse
+25 "Mathematical_Modeling" ellipse
+26 "Maximum_Likelihood" ellipse
+27 "Multidimensional_Scaling" ellipse
+28 "Multiple_Regression" ellipse
+29 "Multivariate_Analysis" ellipse
+30 "Oblique_Rotation" ellipse
+31 "Orthogonal_Rotation" ellipse
+32 "Phi_Coefficient" ellipse
+33 "Point_Biserial_Correlation" ellipse
+34 "Rank_Difference_Correlation" ellipse
+35 "Rank_Order_Correlation" ellipse
+36 "Repeated_Measures" ellipse
+37 "Score_Equating" ellipse
+38 "Sign_Test" ellipse
+39 "Spearman_Brown_Test" ellipse
+40 "Standard_Deviation" ellipse
+41 "Standard_Scores" ellipse
+42 "Statistical_Analysis" ellipse
+43 "Statistical_Correlation" ellipse
+44 "Statistical_Data" ellipse
+45 "Statistical_Estimation" ellipse
+46 "Statistical_Measurement" ellipse
+47 "Statistical_Norms" ellipse
+48 "Statistical_Regression" ellipse
+49 "Statistical_Reliability" ellipse
+50 "Statistical_Rotation" ellipse
+51 "Statistical_Significance" ellipse
+52 "Statistical_Validity" ellipse
+53 "Statistical_Variables" ellipse
+54 "Statistical_Weighting" ellipse
+55 "Stochastic_Modeling" ellipse
+56 "Structural_Equation_Modeling" ellipse
+57 "Tetrachoric_Correlation" ellipse
+58 "Time_Series" ellipse
+59 "Variability_Measurement" ellipse
+60 "Varimax_Rotation" ellipse
+61 "Wilcoxon_Sign_Rank_Test" ellipse
+62 "Zulliger_Z_Test" ellipse
+63 "Item_Analysis_(Statistical)" ellipse
+64 "Item_Analysis_(Test)" ellipse
+65 "Pattern_Recognition_(Computer_Science)" ellipse
+66 "DesignAnalysisInterpretation" ellipse
+*Arcs
+1 66 1.0000000 l "isa"
+66 1 0.0114943 l "isa"
+2 66 1.0000000 l "isa"
+66 2 0.0114943 l "isa"
+3 66 1.0000000 l "isa"
+66 3 0.0114943 l "isa"
+4 66 1.0000000 l "isa"
+66 4 0.0114943 l "isa"
+5 66 1.0000000 l "isa"
+66 5 0.0114943 l "isa"
+6 66 1.0000000 l "isa"
+66 6 0.0114943 l "isa"
+7 66 1.0000000 l "isa"
+66 7 0.0114943 l "isa"
+8 66 1.0000000 l "isa"
+66 8 0.0114943 l "isa"
+9 66 1.0000000 l "isa"
+66 9 0.0114943 l "isa"
+10 66 1.0000000 l "isa"
+66 10 0.0114943 l "isa"
+11 66 1.0000000 l "isa"
+66 11 0.0114943 l "isa"
+12 66 1.0000000 l "isa"
+66 12 0.0114943 l "isa"
+13 66 1.0000000 l "isa"
+66 13 0.0114943 l "isa"
+14 66 1.0000000 l "isa"
+66 14 0.0114943 l "isa"
+15 66 1.0000000 l "isa"
+66 15 0.0114943 l "isa"
+16 66 1.0000000 l "isa"
+66 16 0.0114943 l "isa"
+17 66 1.0000000 l "isa"
+66 17 0.0114943 l "isa"
+18 66 1.0000000 l "isa"
+66 18 0.0114943 l "isa"
+19 66 1.0000000 l "isa"
+66 19 0.0114943 l "isa"
+20 66 1.0000000 l "isa"
+66 20 0.0114943 l "isa"
+21 66 1.0000000 l "isa"
+66 21 0.0114943 l "isa"
+22 66 1.0000000 l "isa"
+66 22 0.0114943 l "isa"
+23 66 1.0000000 l "isa"
+66 23 0.0114943 l "isa"
+24 66 1.0000000 l "isa"
+66 24 0.0114943 l "isa"
+25 66 1.0000000 l "isa"
+66 25 0.0114943 l "isa"
+26 66 1.0000000 l "isa"
+66 26 0.0114943 l "isa"
+27 66 1.0000000 l "isa"
+66 27 0.0114943 l "isa"
+28 66 1.0000000 l "isa"
+66 28 0.0114943 l "isa"
+29 66 1.0000000 l "isa"
+66 29 0.0114943 l "isa"
+30 66 1.0000000 l "isa"
+66 30 0.0114943 l "isa"
+31 66 1.0000000 l "isa"
+66 31 0.0114943 l "isa"
+32 66 1.0000000 l "isa"
+66 32 0.0114943 l "isa"
+33 66 1.0000000 l "isa"
+66 33 0.0114943 l "isa"
+34 66 1.0000000 l "isa"
+66 34 0.0114943 l "isa"
+35 66 1.0000000 l "isa"
+66 35 0.0114943 l "isa"
+36 66 1.0000000 l "isa"
+66 36 0.0114943 l "isa"
+37 66 1.0000000 l "isa"
+66 37 0.0114943 l "isa"
+38 66 1.0000000 l "isa"
+66 38 0.0114943 l "isa"
+39 66 1.0000000 l "isa"
+66 39 0.0114943 l "isa"
+40 66 1.0000000 l "isa"
+66 40 0.0114943 l "isa"
+41 66 1.0000000 l "isa"
+66 41 0.0114943 l "isa"
+42 66 1.0000000 l "isa"
+66 42 0.0114943 l "isa"
+43 66 1.0000000 l "isa"
+66 43 0.0114943 l "isa"
+44 66 1.0000000 l "isa"
+66 44 0.0114943 l "isa"
+45 66 1.0000000 l "isa"
+66 45 0.0114943 l "isa"
+46 66 1.0000000 l "isa"
+66 46 0.0114943 l "isa"
+47 66 1.0000000 l "isa"
+66 47 0.0114943 l "isa"
+48 66 1.0000000 l "isa"
+66 48 0.0114943 l "isa"
+49 66 1.0000000 l "isa"
+66 49 0.0114943 l "isa"
+50 66 1.0000000 l "isa"
+66 50 0.0114943 l "isa"
+51 66 1.0000000 l "isa"
+66 51 0.0114943 l "isa"
+52 66 1.0000000 l "isa"
+66 52 0.0114943 l "isa"
+53 66 1.0000000 l "isa"
+66 53 0.0114943 l "isa"
+54 66 1.0000000 l "isa"
+66 54 0.0114943 l "isa"
+55 66 1.0000000 l "isa"
+66 55 0.0114943 l "isa"
+56 66 1.0000000 l "isa"
+66 56 0.0114943 l "isa"
+57 66 1.0000000 l "isa"
+66 57 0.0114943 l "isa"
+58 66 1.0000000 l "isa"
+66 58 0.0114943 l "isa"
+59 66 1.0000000 l "isa"
+66 59 0.0114943 l "isa"
+60 66 1.0000000 l "isa"
+66 60 0.0114943 l "isa"
+61 66 1.0000000 l "isa"
+66 61 0.0114943 l "isa"
+62 66 1.0000000 l "isa"
+66 62 0.0114943 l "isa"
+63 66 1.0000000 l "isa"
+66 63 0.0114943 l "isa"
+64 66 1.0000000 l "isa"
+66 64 0.0114943 l "isa"
+65 66 1.0000000 l "isa"
+66 65 0.0114943 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "mesothelial cell" ellipse
+2 "mesothelial cell" ellipse
+*Arcs
+1 2 0.1812921 l "substring"
+2 1 0.2857143 l "substring"
+1 2 0.1812921 l "distance"
+2 1 0.2857143 l "distance"
+*Edges

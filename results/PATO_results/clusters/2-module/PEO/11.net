@@ -1,0 +1,7 @@
+*Vertices 2
+1 "strain_creation_protocol" ellipse
+2 "boolean"
+*Arcs
+1 2 0.0666667 l "is_null_mutant"
+2 1 1.0000000 l "is_null_mutant"
+*Edges

@@ -1,0 +1,37 @@
+*Vertices 10
+1 "Consultation" ellipse
+2 "Medical_consultation" ellipse
+3 "adding___between" ellipse
+4 "create_attribute" ellipse
+5 "create_sequential_id" ellipse
+6 "newattack_from_palu" ellipse
+7 "sex_from_char_to_int" ellipse
+8 "type_change" ellipse
+9 "cod_noti_&_dt_notif_&_cod_unin" ellipse
+10 "float"
+*Arcs
+2 1 0.0571429 l "isa"
+1 2 0.4000000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1111111 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.1111111 l "isa"
+7 8 0.5000000 l "isa"
+8 7 0.2000000 l "isa"
+9 3 0.5000000 l "isa"
+3 9 0.2000000 l "isa"
+2 2 0.0571429 l "id_center"
+2 2 0.0571429 l "id_center"
+2 10 0.0285714 l "patient_age"
+10 2 1.0000000 l "patient_age"
+2 5 0.0285714 l "definition"
+5 2 0.5000000 l "definition"
+2 7 0.0285714 l "definition"
+7 2 0.5000000 l "definition"
+2 6 0.0285714 l "definition"
+6 2 0.5000000 l "definition"
+2 9 0.0285714 l "definition"
+9 2 0.5000000 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.0571429 l "substring"
+*Edges

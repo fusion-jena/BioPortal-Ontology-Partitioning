@@ -1,0 +1,30 @@
+*Vertices 3
+1 "ICW-1:01.03.03.02 Individual Hike" ellipse
+2 "ICW-1:01.03.03 Individual Outing" ellipse
+3 "ICW-1:01.03.03.01 Individual Outing - NOS" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.4061788 l "isa"
+3 2 0.7452164 l "isa"
+2 3 0.3356511 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4061788 l "isa"
+3 2 0.7452164 l "isa"
+2 3 0.3356511 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4061788 l "isa"
+3 2 0.7452164 l "isa"
+2 3 0.3356511 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4061788 l "isa"
+3 2 0.7452164 l "isa"
+2 3 0.3356511 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4061788 l "isa"
+3 2 0.7452164 l "isa"
+2 3 0.3356511 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.4061788 l "isa"
+3 2 0.7452164 l "isa"
+2 3 0.3356511 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "fertilizer area density" ellipse
+2 "fertilizer area density over a cropping season" ellipse
+*Arcs
+2 1 0.3221664 l "isa"
+1 2 0.3152828 l "isa"
+1 2 0.3152828 l "substring"
+2 1 0.3221664 l "substring"
+2 1 0.3221664 l "isa"
+1 2 0.3152828 l "isa"
+1 2 0.3152828 l "substring"
+2 1 0.3221664 l "substring"
+*Edges

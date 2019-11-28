@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hysteria" ellipse
+2 "Mass_Hysteria" ellipse
+*Arcs
+1 2 0.4045958 l "substring"
+2 1 0.5628800 l "substring"
+1 2 0.4045958 l "substring"
+2 1 0.5628800 l "substring"
+1 2 0.4045958 l "substring"
+2 1 0.5628800 l "substring"
+*Edges

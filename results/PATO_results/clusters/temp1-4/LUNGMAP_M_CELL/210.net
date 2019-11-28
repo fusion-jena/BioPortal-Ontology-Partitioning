@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Oropa" ellipse
+2 "Yoroo" ellipse
+*Arcs
+1 2 0.1859059 l "distance"
+2 1 0.1309044 l "distance"
+1 2 0.1859059 l "distance"
+2 1 0.1309044 l "distance"
+1 2 0.1859059 l "distance"
+2 1 0.1309044 l "distance"
+1 2 0.1859059 l "distance"
+2 1 0.1309044 l "distance"
+1 2 0.1859059 l "distance"
+2 1 0.1309044 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "left anterior bronchus" ellipse
+2 "left posterior bronchus" ellipse
+*Arcs
+1 2 0.1412419 l "distance"
+2 1 0.1412419 l "distance"
+1 2 0.1412419 l "distance"
+2 1 0.1412419 l "distance"
+1 2 0.1412419 l "distance"
+2 1 0.1412419 l "distance"
+1 2 0.1412419 l "distance"
+2 1 0.1412419 l "distance"
+*Edges

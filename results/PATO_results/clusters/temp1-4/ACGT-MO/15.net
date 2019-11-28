@@ -1,0 +1,14 @@
+*Vertices 3
+1 "CardiacCycle" ellipse
+2 "Cycle" ellipse
+3 "MenstrualCycle" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.0952381 l "isa"
+3 2 0.4000000 l "isa"
+2 3 0.0952381 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.0952381 l "substring"
+2 3 0.0952381 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

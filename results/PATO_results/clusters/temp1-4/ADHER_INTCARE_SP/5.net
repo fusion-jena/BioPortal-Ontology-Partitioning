@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Apps" ellipse
+2 "Indicator_types" ellipse
+3 "Types" ellipse
+*Arcs
+2 3 0.1205885 l "substring"
+3 2 0.2169237 l "substring"
+1 3 0.0610802 l "distance"
+3 1 0.2151309 l "distance"
+2 3 0.1205885 l "substring"
+3 2 0.2169237 l "substring"
+1 3 0.0610802 l "distance"
+3 1 0.2151309 l "distance"
+*Edges

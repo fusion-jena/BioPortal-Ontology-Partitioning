@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Increased muscle tone" ellipse
+2 "antipsychotic side effect" ellipse
+*Arcs
+1 2 0.2158683 l "definition"
+2 1 0.1761125 l "definition"
+1 2 0.2158683 l "definition"
+2 1 0.1761125 l "definition"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "circulatory system" ellipse
+2 "Circulatory System (Cardiovascular System)" ellipse
+*Arcs
+1 2 0.2567758 l "substring"
+2 1 0.2830088 l "substring"
+1 2 0.2567758 l "substring"
+2 1 0.2830088 l "substring"
+1 2 0.2567758 l "substring"
+2 1 0.2830088 l "substring"
+1 2 0.2567758 l "substring"
+2 1 0.2830088 l "substring"
+*Edges

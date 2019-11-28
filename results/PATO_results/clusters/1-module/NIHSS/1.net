@@ -1,0 +1,24 @@
+*Vertices 7
+1 "Hodnocení dle NIHSS" ellipse
+2 "float"
+3 "dateTime"
+4 "string"
+5 "boolean"
+6 "datum a čas vyšetření"
+7 "identifikátor pacienta"
+*Arcs
+1 2 0.0400000 l "computed average score"
+2 1 1.0000000 l "computed average score"
+1 3 0.0400000 l "datum a čas vyšetření"
+3 1 1.0000000 l "datum a čas vyšetření"
+1 4 0.0800000 l "explain"
+4 1 1.0000000 l "explain"
+1 5 0.0400000 l "dostupné pouze celkové skóre"
+5 1 1.0000000 l "dostupné pouze celkové skóre"
+1 4 0.0800000 l "identifikátor pacienta"
+4 1 1.0000000 l "identifikátor pacienta"
+1 6 0.0400000 l "definition"
+6 1 1.0000000 l "definition"
+1 7 0.0400000 l "definition"
+7 1 1.0000000 l "definition"
+*Edges

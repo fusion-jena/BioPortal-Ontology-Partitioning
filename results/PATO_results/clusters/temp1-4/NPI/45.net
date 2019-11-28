@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Named Regional Part of Nervous System" ellipse
+2 "3D Neuroanatomical Volume" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+2 2 0.6666667 l "RCC8 spatial-relation"
+2 2 0.6666667 l "RCC8 spatial-relation"
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+2 2 0.6666667 l "RCC8 spatial-relation"
+2 2 0.6666667 l "RCC8 spatial-relation"
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+2 2 0.6666667 l "RCC8 spatial-relation"
+2 2 0.6666667 l "RCC8 spatial-relation"
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+2 2 0.6666667 l "RCC8 spatial-relation"
+2 2 0.6666667 l "RCC8 spatial-relation"
+*Edges

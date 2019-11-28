@@ -1,0 +1,13 @@
+*Vertices 2
+1 "member of"
+2 "has member"
+*Arcs
+1 2 0.5588850 l "definition"
+2 1 0.5524994 l "definition"
+2 1 0.5524994 l "definition"
+1 2 0.5588850 l "definition"
+1 2 0.5588850 l "definition"
+2 1 0.5524994 l "definition"
+2 1 0.5524994 l "definition"
+1 2 0.5588850 l "definition"
+*Edges

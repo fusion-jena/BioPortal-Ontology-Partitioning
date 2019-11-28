@@ -1,0 +1,11 @@
+*Vertices 2
+1 "One_or_More_Relationships_That_Involve_Some_Personal_Shared_Activities" ellipse
+2 "friend_One_or_More_Relationships_That_Involve_Some_Personal_Shared_Activities"
+*Arcs
+1 2 0.1849949 l "substring"
+2 1 0.1867004 l "substring"
+1 2 0.1849949 l "substring"
+2 1 0.1867004 l "substring"
+1 2 0.1849949 l "substring"
+2 1 0.1867004 l "substring"
+*Edges

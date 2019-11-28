@@ -1,0 +1,9 @@
+*Vertices 2
+1 "French Saddlebred" ellipse
+2 "Saddlebred" ellipse
+*Arcs
+1 2 0.5233798 l "substring"
+2 1 0.2726108 l "substring"
+1 2 0.5233798 l "substring"
+2 1 0.2726108 l "substring"
+*Edges

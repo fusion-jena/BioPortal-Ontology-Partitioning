@@ -1,0 +1,47 @@
+*Vertices 8
+1 "Color_Perception" ellipse
+2 "Form_Perception" ellipse
+3 "Pattern_Recognition_and_Rendering" ellipse
+4 "Space_Perception" ellipse
+5 "Visual_Perception" ellipse
+6 "Agreement" ellipse
+7 "Data_analisys_derived_patterns" ellipse
+8 "Pattern" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.2262674 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.2262674 l "isa"
+3 5 0.5887702 l "isa"
+5 3 0.1869068 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.2262674 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.2262674 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.2262674 l "isa"
+3 5 0.5887702 l "isa"
+5 3 0.1869068 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.2262674 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.2125776 l "isa"
+3 8 0.4112298 l "substring"
+8 3 0.1712670 l "substring"
+7 8 0.2543859 l "substring"
+8 7 0.1622303 l "substring"
+1 5 1.0000000 l "isa"
+5 1 0.2262674 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.2262674 l "isa"
+3 5 0.5887702 l "isa"
+5 3 0.1869068 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.2262674 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.2125776 l "isa"
+3 8 0.4112298 l "substring"
+8 3 0.1712670 l "substring"
+7 8 0.2543859 l "substring"
+8 7 0.1622303 l "substring"
+*Edges

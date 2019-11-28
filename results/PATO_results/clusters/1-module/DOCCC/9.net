@@ -1,0 +1,34 @@
+*Vertices 9
+1 "Autonomic_Dysreflexia" ellipse
+2 "Hyperthermia" ellipse
+3 "Hypothermia" ellipse
+4 "Infection" ellipse
+5 "Infection_Risk" ellipse
+6 "Intracranial_Adaptive_Capacity_Impairment" ellipse
+7 "Physical_Regulation" ellipse
+8 "Physical_Regulation_Alteration" ellipse
+9 "Thermoregulation_Impairment" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1000000 l "isa"
+2 7 0.5000000 l "isa"
+7 2 0.1000000 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.1000000 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.1000000 l "isa"
+5 7 0.5000000 l "isa"
+7 5 0.1000000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1000000 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2000000 l "isa"
+9 7 1.0000000 l "isa"
+7 9 0.1000000 l "isa"
+4 5 0.5000000 l "substring"
+5 4 0.5000000 l "substring"
+7 8 0.2000000 l "substring"
+8 7 1.0000000 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

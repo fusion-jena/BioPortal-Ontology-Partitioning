@@ -1,0 +1,16 @@
+*Vertices 5
+1 "blood" ellipse
+2 "media" ellipse
+3 "solvent" ellipse
+4 "boy" ellipse
+5 "plasma" ellipse
+*Arcs
+1 2 0.3333333 l "isa"
+2 1 0.1000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1000000 l "isa"
+5 1 0.2000000 l "isa"
+1 5 0.3333333 l "isa"
+1 4 0.3333333 l "distance"
+4 1 0.0625000 l "distance"
+*Edges

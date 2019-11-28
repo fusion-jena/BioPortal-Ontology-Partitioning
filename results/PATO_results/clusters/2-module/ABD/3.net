@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Rickettsia" ellipse
+2 "Neorickettsia" ellipse
+*Arcs
+1 2 0.0156250 l "substring"
+2 1 0.0160000 l "substring"
+1 2 0.0156250 l "distance"
+2 1 0.0160000 l "distance"
+*Edges

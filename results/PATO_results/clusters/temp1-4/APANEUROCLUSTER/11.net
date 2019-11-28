@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ALCOH" ellipse
+2 "Alcohol_Abuse" ellipse
+*Arcs
+1 2 0.0409715 l "substring"
+2 1 0.5048521 l "substring"
+1 2 0.0409715 l "substring"
+2 1 0.5048521 l "substring"
+1 2 0.0409715 l "substring"
+2 1 0.5048521 l "substring"
+*Edges

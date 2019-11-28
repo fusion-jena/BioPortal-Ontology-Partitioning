@@ -1,0 +1,23 @@
+*Vertices 4
+1 "Sakiz" ellipse
+2 "Paint" ellipse
+3 "Yakut" ellipse
+4 "Bagot" ellipse
+*Arcs
+1 3 0.1327319 l "distance"
+3 1 0.2051474 l "distance"
+2 3 0.0758456 l "distance"
+3 2 0.2004205 l "distance"
+2 4 0.0722029 l "distance"
+4 2 0.0907431 l "distance"
+3 4 0.2021394 l "distance"
+4 3 0.0961386 l "distance"
+1 3 0.1327319 l "distance"
+3 1 0.2051474 l "distance"
+2 3 0.0758456 l "distance"
+3 2 0.2004205 l "distance"
+2 4 0.0722029 l "distance"
+4 2 0.0907431 l "distance"
+3 4 0.2021394 l "distance"
+4 3 0.0961386 l "distance"
+*Edges

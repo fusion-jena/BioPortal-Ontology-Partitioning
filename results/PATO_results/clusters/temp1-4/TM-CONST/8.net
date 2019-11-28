@@ -1,0 +1,13 @@
+*Vertices 2
+1 "gDay"
+2 "day"
+*Arcs
+1 2 0.2343041 l "substring"
+2 1 0.1528688 l "substring"
+1 2 0.2343041 l "distance"
+2 1 0.1528688 l "distance"
+1 2 0.2343041 l "substring"
+2 1 0.1528688 l "substring"
+1 2 0.2343041 l "distance"
+2 1 0.1528688 l "distance"
+*Edges

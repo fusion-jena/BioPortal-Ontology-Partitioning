@@ -1,0 +1,23 @@
+*Vertices 2
+1 "is input of"
+2 "is output of"
+*Arcs
+1 1 0.4939588 l "definition"
+1 1 0.4939588 l "definition"
+2 2 0.4939588 l "definition"
+2 2 0.4939588 l "definition"
+1 2 0.1803853 l "distance"
+2 1 0.1803853 l "distance"
+1 1 0.4939588 l "definition"
+1 1 0.4939588 l "definition"
+2 2 0.4939588 l "definition"
+2 2 0.4939588 l "definition"
+1 2 0.1803853 l "distance"
+2 1 0.1803853 l "distance"
+1 1 0.4939588 l "definition"
+1 1 0.4939588 l "definition"
+2 2 0.4939588 l "definition"
+2 2 0.4939588 l "definition"
+1 2 0.1803853 l "distance"
+2 1 0.1803853 l "distance"
+*Edges

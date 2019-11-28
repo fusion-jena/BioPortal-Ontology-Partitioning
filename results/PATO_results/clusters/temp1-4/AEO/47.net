@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Polygynous" ellipse
+2 "Protogynous" ellipse
+*Arcs
+1 2 0.3591059 l "distance"
+2 1 0.2782142 l "distance"
+1 2 0.3591059 l "distance"
+2 1 0.2782142 l "distance"
+*Edges

@@ -1,0 +1,903 @@
+*Vertices 220
+1 "educational assessment" ellipse
+2 "educational needs assessment" ellipse
+3 "cross-cultural study" ellipse
+4 "adaptive design" ellipse
+5 "adverse effect mitigation study" ellipse
+6 "analytical study" ellipse
+7 "ancillary study" ellipse
+8 "animal study" ellipse
+9 "applied study" ellipse
+10 "article review" ellipse
+11 "authors review" ellipse
+12 "baseline survey" ellipse
+13 "behaviour assessment" ellipse
+14 "benchmark study" ellipse
+15 "bibliometric study" ellipse
+16 "bioavailability study" ellipse
+17 "biomedical technology assessment" ellipse
+18 "chemoprevention study" ellipse
+19 "child development study" ellipse
+20 "clinical evaluation" ellipse
+21 "clinical review" ellipse
+22 "closed cohort study" ellipse
+23 "cognitive assessment" ellipse
+24 "cohort study" ellipse
+25 "community survey" ellipse
+26 "comparative effectiveness study" ellipse
+27 "comparative evaluation" ellipse
+28 "comparative qualitative study" ellipse
+29 "comparative study" ellipse
+30 "compilation of literature" ellipse
+31 "complete review" ellipse
+32 "comprehensive review" ellipse
+33 "concurrent design" ellipse
+34 "correlational design" ellipse
+35 "cost-effective assessment" ellipse
+36 "cost-effectiveness evaluation" ellipse
+37 "critical review" ellipse
+38 "cross-sectional prevalence survey" ellipse
+39 "current review" ellipse
+40 "data representativeness study" ellipse
+41 "database study" ellipse
+42 "delphi study" ellipse
+43 "demographic and health survey" ellipse
+44 "demographic survey" ellipse
+45 "descriptive review" ellipse
+46 "descriptive study" ellipse
+47 "developmental neuropsychological assessment" ellipse
+48 "device evaluation" ellipse
+49 "device process evaluation method" ellipse
+50 "diagnostic evaluation" ellipse
+51 "diagnostic self evaluation" ellipse
+52 "diagnostic study" ellipse
+53 "disease frequency survey" ellipse
+54 "double blind placebo-controlled parallel arm trial" ellipse
+55 "double blind placebo-controlled trial" ellipse
+56 "double blind randomized controlled trial" ellipse
+57 "double blind randomized placebo-controlled parallel study" ellipse
+58 "double blind randomized placebo-controlled trial" ellipse
+59 "drug evaluation" ellipse
+60 "drug utilization evaluation" ellipse
+61 "ecological study" ellipse
+62 "empirical evaluation" ellipse
+63 "epidemiological review" ellipse
+64 "epidemiological study" ellipse
+65 "evaluation" ellipse
+66 "evidence-based evaluation" ellipse
+67 "evidence report" ellipse
+68 "exercise evaluation" ellipse
+69 "experimental design" ellipse
+70 "factorial design" ellipse
+71 "feasibility assessment" ellipse
+72 "fetal assessment" ellipse
+73 "field survey" ellipse
+74 "focus group" ellipse
+75 "formative evaluation" ellipse
+76 "functional assessment" ellipse
+77 "genetic population study" ellipse
+78 "geriatric assessment" ellipse
+79 "head-to-head design" ellipse
+80 "health care delivery study" ellipse
+81 "health care needs assessment" ellipse
+82 "health care survey" ellipse
+83 "health services evaluation" ellipse
+84 "health survey" ellipse
+85 "health technology assessment" ellipse
+86 "histopathologic study" ellipse
+87 "human study" ellipse
+88 "imaging study" ellipse
+89 "in silico study" ellipse
+90 "in vitro study" ellipse
+91 "in vivo study" ellipse
+92 "incidence cohort study" ellipse
+93 "incidence study" ellipse
+94 "individual patient data meta-analysis" ellipse
+95 "integrated fitness assessment" ellipse
+96 "integrative research review" ellipse
+97 "integrative review" ellipse
+98 "interdisciplinary study" ellipse
+99 "international review" ellipse
+100 "label comprehension study" ellipse
+101 "laboratory study" ellipse
+102 "library survey" ellipse
+103 "literature-based study" ellipse
+104 "literature review" ellipse
+105 "longitudinal cohort study" ellipse
+106 "mapping study" ellipse
+107 "medical assessment" ellipse
+108 "medical device usage and evaluation" ellipse
+109 "medical product usage and evaluation" ellipse
+110 "meta-analysis" ellipse
+111 "meta-epidemiological study" ellipse
+112 "overview of reviews" ellipse
+113 "metabolic assessment" ellipse
+114 "methodological study" ellipse
+115 "mixed-method evaluation" ellipse
+116 "mixed-methods feasibility study" ellipse
+117 "multi-center retrospective cohort study" ellipse
+118 "multicentre survey" ellipse
+119 "multi-center randomized controlled trial" ellipse
+120 "multidisciplinary study" ellipse
+121 "narrative review" ellipse
+122 "national survey" ellipse
+123 "natural experiment" ellipse
+124 "needs assessment" ellipse
+125 "network meta-analysis" ellipse
+126 "neuromuscular maturity assessment" ellipse
+127 "non-comparative study" ellipse
+128 "non-experimental design" ellipse
+129 "non-randomized comparative design" ellipse
+130 "nonconcurrent cohort study" ellipse
+131 "nursing assessment" ellipse
+132 "nursing evaluation study" ellipse
+133 "nutritional assessment" ellipse
+134 "nutritional study" ellipse
+135 "nutritional survey" ellipse
+136 "observation-based evaluation" ellipse
+137 "observation outcome assessment" ellipse
+138 "open label randomized controlled trial" ellipse
+139 "outcome study" ellipse
+140 "pain assessment" ellipse
+141 "parallel design" ellipse
+142 "participation study" ellipse
+143 "patient-related assessment" ellipse
+144 "performance assessment" ellipse
+145 "personnel survey" ellipse
+146 "physical assessment" ellipse
+147 "pilot assessment" ellipse
+148 "feasibility study" ellipse
+149 "population study" ellipse
+150 "post-cardiac transplant evaluation" ellipse
+151 "postmarketing evaluation study" ellipse
+152 "pragmatic adaptive randomized controlled trial" ellipse
+153 "pragmatic randomized controlled trial" ellipse
+154 "pragmatic single blind randomized controlled trial" ellipse
+155 "preclinical drug evaluation" ellipse
+156 "preclinical study" ellipse
+157 "preliminary evaluation" ellipse
+158 "prevalence study" ellipse
+159 "prevention and treatment evaluation" ellipse
+160 "program evaluation" ellipse
+161 "prospective cohort study" ellipse
+162 "prospective randomized controlled trial" ellipse
+163 "psychometric development study" ellipse
+164 "psychometric study" ellipse
+165 "psychosocial assessment" ellipse
+166 "qualitative evaluation" ellipse
+167 "qualitative review" ellipse
+168 "qualitative study" ellipse
+169 "quantitative evaluation" ellipse
+170 "quantitative review" ellipse
+171 "quantitative study" ellipse
+172 "questionnaire" ellipse
+173 "questionnaire survey" ellipse
+174 "randomized controlled equivalence trial" ellipse
+175 "randomized controlled trial" ellipse
+176 "randomized evaluation" ellipse
+177 "randomized placebo-controlled trial" ellipse
+178 "rapid assessment" ellipse
+179 "rapid health technology assessment" ellipse
+180 "rapid realist review" ellipse
+181 "rapid review" ellipse
+182 "realist review" ellipse
+183 "reassessment study" ellipse
+184 "receptive vocabulary assessment" ellipse
+185 "record-linkage population cohort study" ellipse
+186 "record-linkage study" ellipse
+187 "registry study" ellipse
+188 "regulatory assessment" ellipse
+189 "reliability study" ellipse
+190 "retrospective cohort study" ellipse
+191 "review of current evidence" ellipse
+192 "review of research" ellipse
+193 "safety study" ellipse
+194 "scientific evaluation" ellipse
+195 "scoping review" ellipse
+196 "secondary study" ellipse
+197 "selective review" ellipse
+198 "self-assessment" ellipse
+199 "seroepidemiologic study" ellipse
+200 "single blind randomized controlled trial" ellipse
+201 "sociological study" ellipse
+202 "stepped wedge design" ellipse
+203 "structured review" ellipse
+204 "study design" ellipse
+205 "summative evaluation" ellipse
+206 "survey" ellipse
+207 "symptom assessment" ellipse
+208 "systematic overview" ellipse
+209 "systematic review" ellipse
+210 "technology assessment" ellipse
+211 "technology development study" ellipse
+212 "theoretical design" ellipse
+213 "theory-driven review" ellipse
+214 "therapy evaluation" ellipse
+215 "time and motion study" ellipse
+216 "titration study" ellipse
+217 "tolerability study" ellipse
+218 "treatment assessment" ellipse
+219 "validity study" ellipse
+220 "work capacity evaluation" ellipse
+*Arcs
+1 65 0.5000000 l "isa"
+65 1 0.0092593 l "isa"
+2 1 0.3333333 l "isa"
+1 2 0.5000000 l "isa"
+2 124 0.6666667 l "isa"
+124 2 0.3333333 l "isa"
+3 204 1.0000000 l "isa"
+204 3 0.0107527 l "isa"
+4 204 0.5000000 l "isa"
+204 4 0.0107527 l "isa"
+5 204 1.0000000 l "isa"
+204 5 0.0107527 l "isa"
+6 204 1.0000000 l "isa"
+204 6 0.0107527 l "isa"
+7 204 1.0000000 l "isa"
+204 7 0.0107527 l "isa"
+8 204 0.5000000 l "isa"
+204 8 0.0107527 l "isa"
+9 204 1.0000000 l "isa"
+204 9 0.0107527 l "isa"
+10 104 1.0000000 l "isa"
+104 10 0.0357143 l "isa"
+11 104 1.0000000 l "isa"
+104 11 0.0357143 l "isa"
+12 206 1.0000000 l "isa"
+206 12 0.0625000 l "isa"
+13 65 1.0000000 l "isa"
+65 13 0.0092593 l "isa"
+14 204 1.0000000 l "isa"
+204 14 0.0107527 l "isa"
+15 103 1.0000000 l "isa"
+103 15 0.5000000 l "isa"
+16 204 1.0000000 l "isa"
+204 16 0.0107527 l "isa"
+17 210 1.0000000 l "isa"
+210 17 0.2857143 l "isa"
+18 204 1.0000000 l "isa"
+204 18 0.0107527 l "isa"
+19 204 1.0000000 l "isa"
+204 19 0.0107527 l "isa"
+20 65 1.0000000 l "isa"
+65 20 0.0185185 l "isa"
+21 104 0.5000000 l "isa"
+104 21 0.0357143 l "isa"
+22 24 1.0000000 l "isa"
+24 22 0.1052632 l "isa"
+23 65 1.0000000 l "isa"
+65 23 0.0092593 l "isa"
+24 204 0.0526316 l "isa"
+204 24 0.0107527 l "isa"
+25 206 0.6666667 l "isa"
+206 25 0.0625000 l "isa"
+26 29 1.0000000 l "isa"
+29 26 0.1666667 l "isa"
+27 29 0.3333333 l "isa"
+29 27 0.1666667 l "isa"
+27 65 0.6666667 l "isa"
+65 27 0.0185185 l "isa"
+28 29 0.3333333 l "isa"
+29 28 0.1666667 l "isa"
+28 168 0.6666667 l "isa"
+168 28 0.3333333 l "isa"
+29 204 0.1666667 l "isa"
+204 29 0.0107527 l "isa"
+30 104 1.0000000 l "isa"
+104 30 0.0357143 l "isa"
+31 104 1.0000000 l "isa"
+104 31 0.0357143 l "isa"
+32 104 1.0000000 l "isa"
+104 32 0.0357143 l "isa"
+33 24 1.0000000 l "isa"
+24 33 0.0526316 l "isa"
+34 204 1.0000000 l "isa"
+204 34 0.0107527 l "isa"
+35 65 1.0000000 l "isa"
+65 35 0.0092593 l "isa"
+36 65 0.6666667 l "isa"
+65 36 0.0185185 l "isa"
+37 104 0.5000000 l "isa"
+104 37 0.0357143 l "isa"
+38 158 0.2500000 l "isa"
+158 38 0.5000000 l "isa"
+38 206 0.5000000 l "isa"
+206 38 0.0625000 l "isa"
+39 104 0.5000000 l "isa"
+104 39 0.0357143 l "isa"
+40 204 1.0000000 l "isa"
+204 40 0.0107527 l "isa"
+41 204 1.0000000 l "isa"
+204 41 0.0107527 l "isa"
+42 172 0.5000000 l "isa"
+172 42 0.2500000 l "isa"
+42 206 0.5000000 l "isa"
+206 42 0.0312500 l "isa"
+43 44 0.2500000 l "isa"
+44 43 0.3333333 l "isa"
+43 84 0.5000000 l "isa"
+84 43 0.4000000 l "isa"
+44 206 0.6666667 l "isa"
+206 44 0.0625000 l "isa"
+45 46 0.5000000 l "isa"
+46 45 0.5000000 l "isa"
+45 104 0.5000000 l "isa"
+104 45 0.0357143 l "isa"
+46 204 0.5000000 l "isa"
+204 46 0.0107527 l "isa"
+47 65 1.0000000 l "isa"
+65 47 0.0092593 l "isa"
+48 65 0.5000000 l "isa"
+65 48 0.0185185 l "isa"
+49 48 0.5000000 l "isa"
+48 49 0.2500000 l "isa"
+50 52 0.2500000 l "isa"
+52 50 0.2000000 l "isa"
+50 65 0.5000000 l "isa"
+65 50 0.0185185 l "isa"
+51 50 0.5000000 l "isa"
+50 51 0.2500000 l "isa"
+52 204 0.2000000 l "isa"
+204 52 0.0107527 l "isa"
+53 206 1.0000000 l "isa"
+206 53 0.0625000 l "isa"
+54 55 0.5000000 l "isa"
+55 54 0.2500000 l "isa"
+54 141 0.5000000 l "isa"
+141 54 0.3333333 l "isa"
+56 175 0.4000000 l "isa"
+175 56 0.1111111 l "isa"
+57 56 0.5000000 l "isa"
+56 57 0.2000000 l "isa"
+57 141 0.5000000 l "isa"
+141 57 0.3333333 l "isa"
+58 55 0.3333333 l "isa"
+55 58 0.2500000 l "isa"
+58 56 0.3333333 l "isa"
+56 58 0.2000000 l "isa"
+59 65 0.3333333 l "isa"
+65 59 0.0185185 l "isa"
+60 59 0.5000000 l "isa"
+59 60 0.1666667 l "isa"
+61 204 0.3333333 l "isa"
+204 61 0.0107527 l "isa"
+62 65 1.0000000 l "isa"
+65 62 0.0185185 l "isa"
+63 64 0.5000000 l "isa"
+64 63 0.2500000 l "isa"
+63 104 0.5000000 l "isa"
+104 63 0.0357143 l "isa"
+64 204 0.2500000 l "isa"
+204 64 0.0107527 l "isa"
+65 204 0.0092593 l "isa"
+204 65 0.0107527 l "isa"
+66 65 1.0000000 l "isa"
+65 66 0.0185185 l "isa"
+67 104 0.3333333 l "isa"
+104 67 0.0357143 l "isa"
+68 65 1.0000000 l "isa"
+65 68 0.0185185 l "isa"
+70 204 1.0000000 l "isa"
+204 70 0.0107527 l "isa"
+71 65 0.5000000 l "isa"
+65 71 0.0092593 l "isa"
+71 148 0.5000000 l "isa"
+148 71 0.2500000 l "isa"
+72 65 1.0000000 l "isa"
+65 72 0.0092593 l "isa"
+73 206 1.0000000 l "isa"
+206 73 0.0625000 l "isa"
+74 204 1.0000000 l "isa"
+204 74 0.0107527 l "isa"
+75 65 0.6666667 l "isa"
+65 75 0.0185185 l "isa"
+76 65 1.0000000 l "isa"
+65 76 0.0092593 l "isa"
+77 149 0.6666667 l "isa"
+149 77 0.2500000 l "isa"
+78 65 1.0000000 l "isa"
+65 78 0.0092593 l "isa"
+79 204 1.0000000 l "isa"
+204 79 0.0107527 l "isa"
+80 204 1.0000000 l "isa"
+204 80 0.0107527 l "isa"
+81 124 1.0000000 l "isa"
+124 81 0.3333333 l "isa"
+82 206 1.0000000 l "isa"
+206 82 0.0625000 l "isa"
+83 65 1.0000000 l "isa"
+65 83 0.0185185 l "isa"
+84 206 0.4000000 l "isa"
+206 84 0.0625000 l "isa"
+85 210 0.4000000 l "isa"
+210 85 0.2857143 l "isa"
+86 204 1.0000000 l "isa"
+204 86 0.0107527 l "isa"
+87 204 1.0000000 l "isa"
+204 87 0.0107527 l "isa"
+88 52 0.5000000 l "isa"
+52 88 0.2000000 l "isa"
+89 204 1.0000000 l "isa"
+204 89 0.0107527 l "isa"
+90 204 0.5000000 l "isa"
+204 90 0.0107527 l "isa"
+91 204 0.5000000 l "isa"
+204 91 0.0107527 l "isa"
+92 24 0.6666667 l "isa"
+24 92 0.1052632 l "isa"
+92 93 0.3333333 l "isa"
+93 92 0.5000000 l "isa"
+93 149 0.5000000 l "isa"
+149 93 0.1250000 l "isa"
+94 110 1.0000000 l "isa"
+110 94 0.2857143 l "isa"
+95 65 1.0000000 l "isa"
+65 95 0.0092593 l "isa"
+96 97 1.0000000 l "isa"
+97 96 0.5000000 l "isa"
+97 104 0.5000000 l "isa"
+104 97 0.0357143 l "isa"
+98 204 1.0000000 l "isa"
+204 98 0.0107527 l "isa"
+99 104 1.0000000 l "isa"
+104 99 0.0357143 l "isa"
+100 188 0.5000000 l "isa"
+188 100 0.5000000 l "isa"
+100 204 0.5000000 l "isa"
+204 100 0.0107527 l "isa"
+101 204 1.0000000 l "isa"
+204 101 0.0107527 l "isa"
+102 206 1.0000000 l "isa"
+206 102 0.0625000 l "isa"
+103 196 0.5000000 l "isa"
+196 103 0.5000000 l "isa"
+104 204 0.0357143 l "isa"
+204 104 0.0107527 l "isa"
+105 24 0.6666667 l "isa"
+24 105 0.1052632 l "isa"
+106 104 0.3333333 l "isa"
+104 106 0.0357143 l "isa"
+107 65 1.0000000 l "isa"
+65 107 0.0092593 l "isa"
+108 48 0.5000000 l "isa"
+48 108 0.2500000 l "isa"
+109 85 0.5000000 l "isa"
+85 109 0.2000000 l "isa"
+111 110 0.5000000 l "isa"
+110 111 0.1428571 l "isa"
+112 104 0.5000000 l "isa"
+104 112 0.0357143 l "isa"
+113 65 1.0000000 l "isa"
+65 113 0.0092593 l "isa"
+114 204 1.0000000 l "isa"
+204 114 0.0107527 l "isa"
+115 65 1.0000000 l "isa"
+65 115 0.0185185 l "isa"
+116 148 1.0000000 l "isa"
+148 116 0.5000000 l "isa"
+117 190 0.6666667 l "isa"
+190 117 0.4000000 l "isa"
+118 206 1.0000000 l "isa"
+206 118 0.0625000 l "isa"
+119 175 0.6666667 l "isa"
+175 119 0.1111111 l "isa"
+120 204 1.0000000 l "isa"
+204 120 0.0107527 l "isa"
+121 104 1.0000000 l "isa"
+104 121 0.0357143 l "isa"
+122 206 1.0000000 l "isa"
+206 122 0.0625000 l "isa"
+123 204 1.0000000 l "isa"
+204 123 0.0107527 l "isa"
+124 65 0.1666667 l "isa"
+65 124 0.0092593 l "isa"
+124 149 0.1666667 l "isa"
+149 124 0.1250000 l "isa"
+125 110 1.0000000 l "isa"
+110 125 0.2857143 l "isa"
+126 65 1.0000000 l "isa"
+65 126 0.0092593 l "isa"
+127 204 0.5000000 l "isa"
+204 127 0.0107527 l "isa"
+128 204 0.5000000 l "isa"
+204 128 0.0107527 l "isa"
+129 29 1.0000000 l "isa"
+29 129 0.1666667 l "isa"
+130 24 1.0000000 l "isa"
+24 130 0.1052632 l "isa"
+131 65 1.0000000 l "isa"
+65 131 0.0092593 l "isa"
+132 65 1.0000000 l "isa"
+65 132 0.0185185 l "isa"
+133 65 0.5000000 l "isa"
+65 133 0.0092593 l "isa"
+133 134 0.5000000 l "isa"
+134 133 0.2000000 l "isa"
+134 204 0.2000000 l "isa"
+204 134 0.0107527 l "isa"
+135 134 0.3333333 l "isa"
+134 135 0.2000000 l "isa"
+135 206 0.6666667 l "isa"
+206 135 0.0625000 l "isa"
+136 65 0.6666667 l "isa"
+65 136 0.0185185 l "isa"
+137 65 0.5000000 l "isa"
+65 137 0.0092593 l "isa"
+137 139 0.5000000 l "isa"
+139 137 0.2000000 l "isa"
+138 175 0.6666667 l "isa"
+175 138 0.1111111 l "isa"
+139 204 0.2000000 l "isa"
+204 139 0.0107527 l "isa"
+140 65 0.5000000 l "isa"
+65 140 0.0092593 l "isa"
+141 204 0.3333333 l "isa"
+204 141 0.0107527 l "isa"
+142 204 1.0000000 l "isa"
+204 142 0.0107527 l "isa"
+143 65 1.0000000 l "isa"
+65 143 0.0092593 l "isa"
+144 65 1.0000000 l "isa"
+65 144 0.0092593 l "isa"
+145 206 1.0000000 l "isa"
+206 145 0.0625000 l "isa"
+146 65 1.0000000 l "isa"
+65 146 0.0092593 l "isa"
+147 65 1.0000000 l "isa"
+65 147 0.0092593 l "isa"
+148 204 0.2500000 l "isa"
+204 148 0.0107527 l "isa"
+149 204 0.1250000 l "isa"
+204 149 0.0107527 l "isa"
+150 65 1.0000000 l "isa"
+65 150 0.0185185 l "isa"
+151 65 1.0000000 l "isa"
+65 151 0.0185185 l "isa"
+152 4 0.2500000 l "isa"
+4 152 0.5000000 l "isa"
+152 153 0.2500000 l "isa"
+153 152 0.2000000 l "isa"
+152 175 0.5000000 l "isa"
+175 152 0.1111111 l "isa"
+153 175 0.4000000 l "isa"
+175 153 0.1111111 l "isa"
+154 153 0.2500000 l "isa"
+153 154 0.2000000 l "isa"
+154 200 0.5000000 l "isa"
+200 154 0.5000000 l "isa"
+155 59 0.6666667 l "isa"
+59 155 0.3333333 l "isa"
+156 8 1.0000000 l "isa"
+8 156 0.5000000 l "isa"
+157 65 0.5000000 l "isa"
+65 157 0.0185185 l "isa"
+158 149 0.5000000 l "isa"
+149 158 0.1250000 l "isa"
+159 65 1.0000000 l "isa"
+65 159 0.0185185 l "isa"
+160 65 1.0000000 l "isa"
+65 160 0.0185185 l "isa"
+161 24 0.6666667 l "isa"
+24 161 0.1052632 l "isa"
+162 175 0.6666667 l "isa"
+175 162 0.1111111 l "isa"
+163 164 1.0000000 l "isa"
+164 163 0.5000000 l "isa"
+164 204 0.5000000 l "isa"
+204 164 0.0107527 l "isa"
+165 65 1.0000000 l "isa"
+65 165 0.0092593 l "isa"
+166 65 0.6666667 l "isa"
+65 166 0.0185185 l "isa"
+167 104 0.5000000 l "isa"
+104 167 0.0357143 l "isa"
+168 204 0.1666667 l "isa"
+204 168 0.0107527 l "isa"
+169 65 0.6666667 l "isa"
+65 169 0.0185185 l "isa"
+170 104 0.5000000 l "isa"
+104 170 0.0357143 l "isa"
+171 204 0.5000000 l "isa"
+204 171 0.0107527 l "isa"
+172 204 0.2500000 l "isa"
+204 172 0.0107527 l "isa"
+173 172 0.5000000 l "isa"
+172 173 0.5000000 l "isa"
+173 206 0.5000000 l "isa"
+206 173 0.0625000 l "isa"
+174 175 1.0000000 l "isa"
+175 174 0.0555556 l "isa"
+176 65 1.0000000 l "isa"
+65 176 0.0185185 l "isa"
+177 175 0.5000000 l "isa"
+175 177 0.0555556 l "isa"
+178 65 0.3333333 l "isa"
+65 178 0.0092593 l "isa"
+179 85 0.6666667 l "isa"
+85 179 0.4000000 l "isa"
+180 181 0.3333333 l "isa"
+181 180 0.5000000 l "isa"
+180 182 0.6666667 l "isa"
+182 180 0.6666667 l "isa"
+181 104 0.5000000 l "isa"
+104 181 0.0357143 l "isa"
+182 104 0.3333333 l "isa"
+104 182 0.0357143 l "isa"
+183 65 1.0000000 l "isa"
+65 183 0.0092593 l "isa"
+184 65 1.0000000 l "isa"
+65 184 0.0092593 l "isa"
+185 24 0.5000000 l "isa"
+24 185 0.1052632 l "isa"
+185 149 0.2500000 l "isa"
+149 185 0.1250000 l "isa"
+185 186 0.2500000 l "isa"
+186 185 0.5000000 l "isa"
+186 204 0.5000000 l "isa"
+204 186 0.0107527 l "isa"
+187 204 1.0000000 l "isa"
+204 187 0.0107527 l "isa"
+188 65 0.5000000 l "isa"
+65 188 0.0092593 l "isa"
+189 204 1.0000000 l "isa"
+204 189 0.0107527 l "isa"
+190 24 0.4000000 l "isa"
+24 190 0.1052632 l "isa"
+191 39 0.5000000 l "isa"
+39 191 0.5000000 l "isa"
+191 67 0.5000000 l "isa"
+67 191 0.3333333 l "isa"
+192 104 1.0000000 l "isa"
+104 192 0.0357143 l "isa"
+193 204 0.5000000 l "isa"
+204 193 0.0107527 l "isa"
+194 65 1.0000000 l "isa"
+65 194 0.0185185 l "isa"
+195 104 1.0000000 l "isa"
+104 195 0.0357143 l "isa"
+196 204 0.5000000 l "isa"
+204 196 0.0107527 l "isa"
+197 104 1.0000000 l "isa"
+104 197 0.0357143 l "isa"
+198 65 1.0000000 l "isa"
+65 198 0.0092593 l "isa"
+199 64 1.0000000 l "isa"
+64 199 0.2500000 l "isa"
+200 175 0.5000000 l "isa"
+175 200 0.1111111 l "isa"
+201 204 0.5000000 l "isa"
+204 201 0.0107527 l "isa"
+202 204 1.0000000 l "isa"
+204 202 0.0107527 l "isa"
+203 104 1.0000000 l "isa"
+104 203 0.0357143 l "isa"
+205 65 0.6666667 l "isa"
+65 205 0.0185185 l "isa"
+206 204 0.0312500 l "isa"
+204 206 0.0107527 l "isa"
+207 65 1.0000000 l "isa"
+65 207 0.0092593 l "isa"
+208 112 0.3333333 l "isa"
+112 208 0.5000000 l "isa"
+208 209 0.6666667 l "isa"
+209 208 0.6666667 l "isa"
+209 104 0.3333333 l "isa"
+104 209 0.0357143 l "isa"
+210 65 0.1428571 l "isa"
+65 210 0.0092593 l "isa"
+211 52 0.5000000 l "isa"
+52 211 0.2000000 l "isa"
+211 210 0.5000000 l "isa"
+210 211 0.1428571 l "isa"
+212 204 0.5000000 l "isa"
+204 212 0.0107527 l "isa"
+213 104 0.5000000 l "isa"
+104 213 0.0357143 l "isa"
+213 212 0.5000000 l "isa"
+212 213 0.5000000 l "isa"
+214 65 0.6666667 l "isa"
+65 214 0.0185185 l "isa"
+215 204 1.0000000 l "isa"
+204 215 0.0107527 l "isa"
+216 204 1.0000000 l "isa"
+204 216 0.0107527 l "isa"
+217 193 1.0000000 l "isa"
+193 217 0.5000000 l "isa"
+218 65 1.0000000 l "isa"
+65 218 0.0092593 l "isa"
+219 204 1.0000000 l "isa"
+204 219 0.0107527 l "isa"
+220 65 1.0000000 l "isa"
+65 220 0.0185185 l "isa"
+2 124 0.6666667 l "substring"
+124 2 0.3333333 l "substring"
+12 206 1.0000000 l "substring"
+206 12 0.0625000 l "substring"
+17 210 1.0000000 l "substring"
+210 17 0.2857143 l "substring"
+20 65 1.0000000 l "substring"
+65 20 0.0185185 l "substring"
+22 24 1.0000000 l "substring"
+24 22 0.1052632 l "substring"
+24 92 0.1052632 l "substring"
+92 24 0.6666667 l "substring"
+24 105 0.1052632 l "substring"
+105 24 0.6666667 l "substring"
+24 117 0.0526316 l "substring"
+117 24 0.3333333 l "substring"
+24 130 0.1052632 l "substring"
+130 24 1.0000000 l "substring"
+24 161 0.1052632 l "substring"
+161 24 0.6666667 l "substring"
+24 185 0.1052632 l "substring"
+185 24 0.5000000 l "substring"
+24 190 0.1052632 l "substring"
+190 24 0.4000000 l "substring"
+25 206 0.6666667 l "substring"
+206 25 0.0625000 l "substring"
+27 65 0.6666667 l "substring"
+65 27 0.0185185 l "substring"
+28 168 0.6666667 l "substring"
+168 28 0.3333333 l "substring"
+29 127 0.1666667 l "substring"
+127 29 0.5000000 l "substring"
+36 65 0.6666667 l "substring"
+65 36 0.0185185 l "substring"
+38 206 0.5000000 l "substring"
+206 38 0.0625000 l "substring"
+43 84 0.5000000 l "substring"
+84 43 0.4000000 l "substring"
+43 206 0.2500000 l "substring"
+206 43 0.0312500 l "substring"
+44 206 0.6666667 l "substring"
+206 44 0.0625000 l "substring"
+48 65 0.5000000 l "substring"
+65 48 0.0185185 l "substring"
+49 65 0.5000000 l "substring"
+65 49 0.0092593 l "substring"
+50 65 0.5000000 l "substring"
+65 50 0.0185185 l "substring"
+51 65 0.5000000 l "substring"
+65 51 0.0092593 l "substring"
+53 206 1.0000000 l "substring"
+206 53 0.0625000 l "substring"
+56 175 0.4000000 l "substring"
+175 56 0.1111111 l "substring"
+58 177 0.3333333 l "substring"
+177 58 0.5000000 l "substring"
+59 65 0.3333333 l "substring"
+65 59 0.0185185 l "substring"
+59 155 0.3333333 l "substring"
+155 59 0.6666667 l "substring"
+60 65 0.5000000 l "substring"
+65 60 0.0092593 l "substring"
+62 65 1.0000000 l "substring"
+65 62 0.0185185 l "substring"
+64 111 0.2500000 l "substring"
+111 64 0.5000000 l "substring"
+65 66 0.0185185 l "substring"
+66 65 1.0000000 l "substring"
+65 68 0.0185185 l "substring"
+68 65 1.0000000 l "substring"
+65 75 0.0185185 l "substring"
+75 65 0.6666667 l "substring"
+65 83 0.0185185 l "substring"
+83 65 1.0000000 l "substring"
+65 108 0.0092593 l "substring"
+108 65 0.5000000 l "substring"
+65 109 0.0092593 l "substring"
+109 65 0.5000000 l "substring"
+65 115 0.0185185 l "substring"
+115 65 1.0000000 l "substring"
+65 132 0.0185185 l "substring"
+132 65 1.0000000 l "substring"
+65 136 0.0185185 l "substring"
+136 65 0.6666667 l "substring"
+65 150 0.0185185 l "substring"
+150 65 1.0000000 l "substring"
+65 151 0.0185185 l "substring"
+151 65 1.0000000 l "substring"
+65 155 0.0092593 l "substring"
+155 65 0.3333333 l "substring"
+65 157 0.0185185 l "substring"
+157 65 0.5000000 l "substring"
+65 159 0.0185185 l "substring"
+159 65 1.0000000 l "substring"
+65 160 0.0185185 l "substring"
+160 65 1.0000000 l "substring"
+65 166 0.0185185 l "substring"
+166 65 0.6666667 l "substring"
+65 169 0.0185185 l "substring"
+169 65 0.6666667 l "substring"
+65 176 0.0185185 l "substring"
+176 65 1.0000000 l "substring"
+65 194 0.0185185 l "substring"
+194 65 1.0000000 l "substring"
+65 205 0.0185185 l "substring"
+205 65 0.6666667 l "substring"
+65 214 0.0185185 l "substring"
+214 65 0.6666667 l "substring"
+65 220 0.0185185 l "substring"
+220 65 1.0000000 l "substring"
+69 128 0.3333333 l "substring"
+128 69 0.5000000 l "substring"
+73 206 1.0000000 l "substring"
+206 73 0.0625000 l "substring"
+77 149 0.6666667 l "substring"
+149 77 0.2500000 l "substring"
+81 124 1.0000000 l "substring"
+124 81 0.3333333 l "substring"
+82 206 1.0000000 l "substring"
+206 82 0.0625000 l "substring"
+84 206 0.4000000 l "substring"
+206 84 0.0625000 l "substring"
+85 179 0.4000000 l "substring"
+179 85 0.6666667 l "substring"
+85 210 0.4000000 l "substring"
+210 85 0.2857143 l "substring"
+94 110 1.0000000 l "substring"
+110 94 0.2857143 l "substring"
+102 206 1.0000000 l "substring"
+206 102 0.0625000 l "substring"
+110 125 0.2857143 l "substring"
+125 110 1.0000000 l "substring"
+116 148 1.0000000 l "substring"
+148 116 0.5000000 l "substring"
+117 190 0.6666667 l "substring"
+190 117 0.4000000 l "substring"
+118 206 1.0000000 l "substring"
+206 118 0.0625000 l "substring"
+119 175 0.6666667 l "substring"
+175 119 0.1111111 l "substring"
+122 206 1.0000000 l "substring"
+206 122 0.0625000 l "substring"
+135 206 0.6666667 l "substring"
+206 135 0.0625000 l "substring"
+138 175 0.6666667 l "substring"
+175 138 0.1111111 l "substring"
+145 206 1.0000000 l "substring"
+206 145 0.0625000 l "substring"
+152 175 0.5000000 l "substring"
+175 152 0.1111111 l "substring"
+153 175 0.4000000 l "substring"
+175 153 0.1111111 l "substring"
+154 175 0.2500000 l "substring"
+175 154 0.0555556 l "substring"
+154 200 0.5000000 l "substring"
+200 154 0.5000000 l "substring"
+162 175 0.6666667 l "substring"
+175 162 0.1111111 l "substring"
+172 173 0.5000000 l "substring"
+173 172 0.5000000 l "substring"
+173 206 0.5000000 l "substring"
+206 173 0.0625000 l "substring"
+175 200 0.1111111 l "substring"
+200 175 0.5000000 l "substring"
+179 210 0.3333333 l "substring"
+210 179 0.1428571 l "substring"
+180 182 0.6666667 l "substring"
+182 180 0.6666667 l "substring"
+21 37 0.5000000 l "distance"
+37 21 0.5000000 l "distance"
+61 201 0.3333333 l "distance"
+201 61 0.5000000 l "distance"
+75 205 0.3333333 l "distance"
+205 75 0.3333333 l "distance"
+88 106 0.5000000 l "distance"
+106 88 0.3333333 l "distance"
+90 91 0.5000000 l "distance"
+91 90 0.5000000 l "distance"
+140 178 0.5000000 l "distance"
+178 140 0.3333333 l "distance"
+161 190 0.3333333 l "distance"
+190 161 0.2000000 l "distance"
+166 169 0.3333333 l "distance"
+169 166 0.3333333 l "distance"
+167 170 0.5000000 l "distance"
+170 167 0.5000000 l "distance"
+168 171 0.1666667 l "distance"
+171 168 0.5000000 l "distance"
+208 209 0.6666667 l "distance"
+209 208 0.6666667 l "distance"
+*Edges

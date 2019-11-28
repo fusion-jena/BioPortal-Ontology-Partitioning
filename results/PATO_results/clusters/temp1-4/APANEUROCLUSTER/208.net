@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Lipid_Metabolism_Disorders" ellipse
+2 "Metabolism_Disorders" ellipse
+*Arcs
+1 2 0.2912168 l "substring"
+2 1 0.2912168 l "substring"
+1 2 0.2912168 l "substring"
+2 1 0.2912168 l "substring"
+1 2 0.2912168 l "substring"
+2 1 0.2912168 l "substring"
+*Edges

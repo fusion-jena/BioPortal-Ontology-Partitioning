@@ -1,0 +1,28 @@
+*Vertices 9
+1 "Emergency_Services" ellipse
+2 "Facility_Admission" ellipse
+3 "Facility_Discharge" ellipse
+4 "Institution_Visitation" ellipse
+5 "Institutional_Release" ellipse
+6 "Outpatient_Commitment" ellipse
+7 "Patient_Seclusion" ellipse
+8 "Commitment_(Psychiatric)" ellipse
+9 "HospitalizationInstitutionalization" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.0384615 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.0384615 l "isa"
+3 9 1.0000000 l "isa"
+9 3 0.0384615 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.0384615 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.0384615 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.0384615 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0384615 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.0384615 l "isa"
+*Edges

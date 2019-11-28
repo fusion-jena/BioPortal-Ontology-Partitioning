@@ -1,0 +1,94 @@
+*Vertices 25
+1 "ADP-ribosylation" ellipse
+2 "Acylation" ellipse
+3 "Alkylation" ellipse
+4 "Carbamoylation" ellipse
+5 "Carboxylation" ellipse
+6 "Cleavage" ellipse
+7 "Degradation" ellipse
+8 "Glucuronidation" ellipse
+9 "Glutathionylation" ellipse
+10 "Glycation" ellipse
+11 "Glycosylation" ellipse
+12 "Hydrolysis" ellipse
+13 "Hydroxylation" ellipse
+14 "MacromoleculeMetabolicProcess" ellipse
+15 "N-linkedGlycosylation" ellipse
+16 "Nitrosation" ellipse
+17 "Nucleotidylation" ellipse
+18 "O-linkedGlycosylation" ellipse
+19 "Phosphorylation" ellipse
+20 "Reduction" ellipse
+21 "Ribosylation" ellipse
+22 "Sulfation" ellipse
+23 "Sumoylation" ellipse
+24 "Ubiquitination" ellipse
+25 "id"
+*Arcs
+1 21 1.0000000 l "isa"
+21 1 0.6666667 l "isa"
+2 14 0.1428571 l "isa"
+14 2 0.0434783 l "isa"
+3 14 0.2000000 l "isa"
+14 3 0.0434783 l "isa"
+4 14 0.5000000 l "isa"
+14 4 0.0434783 l "isa"
+5 14 0.5000000 l "isa"
+14 5 0.0434783 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.5000000 l "isa"
+7 14 0.5000000 l "isa"
+14 7 0.0434783 l "isa"
+8 11 0.5000000 l "isa"
+11 8 0.1666667 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.0434783 l "isa"
+10 14 0.3333333 l "isa"
+14 10 0.0434783 l "isa"
+11 14 0.1666667 l "isa"
+14 11 0.0434783 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.5000000 l "isa"
+13 14 1.0000000 l "isa"
+14 13 0.0434783 l "isa"
+15 11 0.6666667 l "isa"
+11 15 0.3333333 l "isa"
+16 14 1.0000000 l "isa"
+14 16 0.0434783 l "isa"
+17 14 0.5000000 l "isa"
+14 17 0.0434783 l "isa"
+18 11 0.6666667 l "isa"
+11 18 0.3333333 l "isa"
+19 14 1.0000000 l "isa"
+14 19 0.0434783 l "isa"
+20 14 1.0000000 l "isa"
+14 20 0.0434783 l "isa"
+21 14 0.3333333 l "isa"
+14 21 0.0434783 l "isa"
+22 14 1.0000000 l "isa"
+14 22 0.0434783 l "isa"
+23 14 1.0000000 l "isa"
+14 23 0.0434783 l "isa"
+24 14 1.0000000 l "isa"
+14 24 0.0434783 l "isa"
+1 21 1.0000000 l "substring"
+21 1 0.6666667 l "substring"
+8 25 0.5000000 l "substring"
+25 8 0.0666667 l "substring"
+11 15 0.3333333 l "substring"
+15 11 0.6666667 l "substring"
+11 18 0.3333333 l "substring"
+18 11 0.6666667 l "substring"
+17 25 0.5000000 l "substring"
+25 17 0.0666667 l "substring"
+2 3 0.1428571 l "distance"
+3 2 0.2000000 l "distance"
+2 10 0.1428571 l "distance"
+10 2 0.3333333 l "distance"
+3 10 0.2000000 l "distance"
+10 3 0.3333333 l "distance"
+4 5 0.5000000 l "distance"
+5 4 0.5000000 l "distance"
+15 18 0.3333333 l "distance"
+18 15 0.3333333 l "distance"
+*Edges

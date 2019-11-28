@@ -1,0 +1,9 @@
+*Vertices 2
+1 "study nurse" ellipse
+2 "Study phase" ellipse
+*Arcs
+1 2 0.2054101 l "distance"
+2 1 0.1041739 l "distance"
+1 2 0.2054101 l "distance"
+2 1 0.1041739 l "distance"
+*Edges

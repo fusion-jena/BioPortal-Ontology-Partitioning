@@ -1,0 +1,30 @@
+*Vertices 3
+1 "5' overhang symbol" ellipse
+2 "3' overhang symbol" ellipse
+3 "restriction_enzyme_single_strand_overhang" ellipse
+*Arcs
+1 3 0.1950930 l "definition"
+3 1 0.1965450 l "definition"
+2 3 0.1950930 l "definition"
+3 2 0.1965450 l "definition"
+1 2 0.1948078 l "distance"
+2 1 0.1948078 l "distance"
+1 3 0.1950930 l "definition"
+3 1 0.1965450 l "definition"
+2 3 0.1950930 l "definition"
+3 2 0.1965450 l "definition"
+1 2 0.1948078 l "distance"
+2 1 0.1948078 l "distance"
+1 3 0.1950930 l "definition"
+3 1 0.1965450 l "definition"
+2 3 0.1950930 l "definition"
+3 2 0.1965450 l "definition"
+1 2 0.1948078 l "distance"
+2 1 0.1948078 l "distance"
+1 3 0.1950930 l "definition"
+3 1 0.1965450 l "definition"
+2 3 0.1950930 l "definition"
+3 2 0.1965450 l "definition"
+1 2 0.1948078 l "distance"
+2 1 0.1948078 l "distance"
+*Edges

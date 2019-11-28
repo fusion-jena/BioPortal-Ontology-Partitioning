@@ -1,0 +1,13 @@
+*Vertices 2
+1 "StartOfPressureMeasuringProcess" ellipse
+2 "StartOfTirePressureMeasuringProcess" ellipse
+*Arcs
+2 1 0.1874228 l "isa"
+1 2 0.1279205 l "isa"
+2 1 0.1874228 l "isa"
+1 2 0.1279205 l "isa"
+2 1 0.1874228 l "isa"
+1 2 0.1279205 l "isa"
+2 1 0.1874228 l "isa"
+1 2 0.1279205 l "isa"
+*Edges

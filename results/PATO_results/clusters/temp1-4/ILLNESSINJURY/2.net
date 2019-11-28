@@ -1,0 +1,9 @@
+*Vertices 2
+1 "ADGRG6" ellipse
+2 "ADGRG7" ellipse
+*Arcs
+1 2 0.0417493 l "distance"
+2 1 0.0417493 l "distance"
+1 2 0.0417493 l "distance"
+2 1 0.0417493 l "distance"
+*Edges

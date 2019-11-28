@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Cayuse" ellipse
+2 "Danube" ellipse
+*Arcs
+1 2 0.3806172 l "distance"
+2 1 0.2037527 l "distance"
+1 2 0.3806172 l "distance"
+2 1 0.2037527 l "distance"
+1 2 0.3806172 l "distance"
+2 1 0.2037527 l "distance"
+1 2 0.3806172 l "distance"
+2 1 0.2037527 l "distance"
+1 2 0.3806172 l "distance"
+2 1 0.2037527 l "distance"
+*Edges

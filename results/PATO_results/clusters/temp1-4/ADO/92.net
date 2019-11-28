@@ -1,0 +1,78 @@
+*Vertices 21
+1 "Agranulocyte" ellipse
+2 "Astrocyte related to primary glial cell culture" ellipse
+3 "Basophil" ellipse
+4 "Endothelium" ellipse
+5 "Eosinophil" ellipse
+6 "Ependymal cell" ellipse
+7 "Granulocyte" ellipse
+8 "Leucocyte" ellipse
+9 "Microglia related to primary glial cell culture" ellipse
+10 "Neutrophil" ellipse
+11 "Oligodendrocyte related to primary glial cell culture" ellipse
+12 "Oligodendrocyte" ellipse
+13 "Pericyte" ellipse
+14 "Perivascular cell" ellipse
+15 "Primary glial cell culture" ellipse
+16 "Primate" ellipse
+17 "fosinopril" ellipse
+18 "lisinopril" ellipse
+19 "non human primate" ellipse
+20 "Cellular and subcellular entity" ellipse
+21 "Monkey" ellipse
+*Arcs
+1 8 0.2000000 l "isa"
+8 1 0.3333333 l "isa"
+2 15 0.4000000 l "isa"
+15 2 0.2222222 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1666667 l "isa"
+4 20 1.0000000 l "isa"
+20 4 0.0625000 l "isa"
+5 7 0.3333333 l "isa"
+7 5 0.1666667 l "isa"
+6 20 1.0000000 l "isa"
+20 6 0.0625000 l "isa"
+7 8 0.1666667 l "isa"
+8 7 0.3333333 l "isa"
+8 20 0.3333333 l "isa"
+20 8 0.0625000 l "isa"
+9 15 0.4000000 l "isa"
+15 9 0.2222222 l "isa"
+10 7 1.0000000 l "isa"
+7 10 0.1666667 l "isa"
+11 15 0.4000000 l "isa"
+15 11 0.2222222 l "isa"
+12 20 0.5000000 l "isa"
+20 12 0.0625000 l "isa"
+13 14 0.5000000 l "isa"
+14 13 0.5000000 l "isa"
+14 20 0.5000000 l "isa"
+20 14 0.0625000 l "isa"
+16 21 0.2500000 l "isa"
+21 16 0.2000000 l "isa"
+19 21 0.5000000 l "isa"
+21 19 0.2000000 l "isa"
+1 7 0.4000000 l "substring"
+7 1 0.3333333 l "substring"
+2 15 0.4000000 l "substring"
+15 2 0.2222222 l "substring"
+9 15 0.4000000 l "substring"
+15 9 0.2222222 l "substring"
+11 12 0.2000000 l "substring"
+12 11 0.5000000 l "substring"
+11 15 0.4000000 l "substring"
+15 11 0.2222222 l "substring"
+16 19 0.2500000 l "substring"
+19 16 0.5000000 l "substring"
+1 7 0.4000000 l "distance"
+7 1 0.3333333 l "distance"
+5 17 0.3333333 l "distance"
+17 5 0.1666667 l "distance"
+5 18 0.3333333 l "distance"
+18 5 0.1666667 l "distance"
+13 16 0.5000000 l "distance"
+16 13 0.2500000 l "distance"
+17 18 0.1666667 l "distance"
+18 17 0.1666667 l "distance"
+*Edges

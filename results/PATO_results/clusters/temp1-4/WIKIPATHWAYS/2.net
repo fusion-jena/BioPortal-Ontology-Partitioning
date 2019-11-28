@@ -1,0 +1,31 @@
+*Vertices 4
+1 "ear pain / 耳痛" ellipse
+2 "eye pain / 目痛" ellipse
+3 "Heart pain / 心痛" ellipse
+4 "heavy pain / 重痛" ellipse
+*Arcs
+1 2 0.5938931 l "distance"
+2 1 1.0000000 l "distance"
+1 3 0.4061069 l "distance"
+3 1 0.4061069 l "distance"
+3 4 0.5938932 l "distance"
+4 3 1.0000000 l "distance"
+1 2 0.5938931 l "distance"
+2 1 1.0000000 l "distance"
+1 3 0.4061069 l "distance"
+3 1 0.4061069 l "distance"
+3 4 0.5938932 l "distance"
+4 3 1.0000000 l "distance"
+1 2 0.5938931 l "distance"
+2 1 1.0000000 l "distance"
+1 3 0.4061069 l "distance"
+3 1 0.4061069 l "distance"
+3 4 0.5938932 l "distance"
+4 3 1.0000000 l "distance"
+1 2 0.5938931 l "distance"
+2 1 1.0000000 l "distance"
+1 3 0.4061069 l "distance"
+3 1 0.4061069 l "distance"
+3 4 0.5938932 l "distance"
+4 3 1.0000000 l "distance"
+*Edges

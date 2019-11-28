@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Proposal description" ellipse
+2 "Organization" ellipse
+*Arcs
+1 2 0.0909091 l "nützlich für"
+2 1 1.0000000 l "nützlich für"
+*Edges

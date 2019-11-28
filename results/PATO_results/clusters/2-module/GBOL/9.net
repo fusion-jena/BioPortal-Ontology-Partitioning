@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ProteinDomain" ellipse
+2 "ProteinDomainType" ellipse
+*Arcs
+1 2 0.1578947 l "domainType"
+2 1 0.3333333 l "domainType"
+1 2 0.1578947 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.1578947 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

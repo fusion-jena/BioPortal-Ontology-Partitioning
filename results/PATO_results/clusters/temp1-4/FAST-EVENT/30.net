@@ -1,0 +1,49 @@
+*Vertices 6
+1 "Other" ellipse
+2 "Agar_medium" ellipse
+3 "Broth_medium" ellipse
+4 "Culture_medium" ellipse
+5 "Other_medium" ellipse
+6 "Trypticase_soy_agar_and_derivatives" ellipse
+*Arcs
+2 4 0.3776312 l "isa"
+4 2 0.2769538 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4171186 l "isa"
+5 4 0.5510688 l "isa"
+4 5 0.3059275 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.6223689 l "isa"
+1 5 0.1160238 l "substring"
+5 1 0.4489311 l "substring"
+2 4 0.3776312 l "isa"
+4 2 0.2769538 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4171186 l "isa"
+5 4 0.5510688 l "isa"
+4 5 0.3059275 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.6223689 l "isa"
+1 5 0.1160238 l "substring"
+5 1 0.4489311 l "substring"
+2 4 0.3776312 l "isa"
+4 2 0.2769538 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4171186 l "isa"
+5 4 0.5510688 l "isa"
+4 5 0.3059275 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.6223689 l "isa"
+1 5 0.1160238 l "substring"
+5 1 0.4489311 l "substring"
+2 4 0.3776312 l "isa"
+4 2 0.2769538 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4171186 l "isa"
+5 4 0.5510688 l "isa"
+4 5 0.3059275 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.6223689 l "isa"
+1 5 0.1160238 l "substring"
+5 1 0.4489311 l "substring"
+*Edges

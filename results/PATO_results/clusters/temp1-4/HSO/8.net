@@ -1,0 +1,249 @@
+*Vertices 72
+1 "fiat object part" ellipse
+2 "object aggregate" ellipse
+3 "site" ellipse
+4 "object" ellipse
+5 "material entity" ellipse
+6 "portion of material" ellipse
+7 "matrix" ellipse
+8 "unknown source" ellipse
+9 "assay" ellipse
+10 "milk" ellipse
+11 "Classification not possible" ellipse
+12 "High Performance Liquid Chromatography (HPLC)/Liquid Chromatography (LC)" ellipse
+13 "Immunological detection or quantification method" ellipse
+14 "Milk ring-test" ellipse
+15 "Enzyme-linked immunosorbent assay (ELISA)" ellipse
+16 "ELISA, Competitive ELISA (C-ELISA)" ellipse
+17 "PCR" ellipse
+18 "Real-time PCR (CEN TC275/WG6)" ellipse
+19 "Reverse-transcription PCR (RT-PCR)" ellipse
+20 "Simplex PCR" ellipse
+21 "Duplex PCR" ellipse
+22 "Multiplex PCR" ellipse
+23 "Microscopical and histometrical tests" ellipse
+24 "Trichinoscopic examination" ellipse
+25 "Microbiological special tests" ellipse
+26 "Molecular detection or quantification method" ellipse
+27 "Pulsed field gel electrophoresis (PFGE)" ellipse
+28 "Morphological identification" ellipse
+29 "Indirect Immunofluorescent Antibody test (IFAT)" ellipse
+30 "Enumeration method" ellipse
+31 "Complement fixation test (CFT)" ellipse
+32 "Modified agglutination test (MAT)" ellipse
+33 "Latex agglutination test (LAT)" ellipse
+34 "Immunoblotting (IB)" ellipse
+35 "Indirect ELISA (I-ELISA)" ellipse
+36 "Fluorescent in situ hybridization (FISH)" ellipse
+37 "Isolation (Cell, Egg, Mouse)" ellipse
+38 "Immuno Histo Chemistry (IHC)" ellipse
+39 "Immunofluorenscence assay tests (IFA)" ellipse
+40 "Staining" ellipse
+41 "EU RL method_food_2. Rev. 2 - O104:H4" ellipse
+42 "IgG ELISA" ellipse
+43 "IgM-capture ELISA (MAC-ELISA)" ellipse
+44 "Indirect hemoagglutination test (IHA)" ellipse
+45 "Seroneutralisation test" ellipse
+46 "Multiple-locus variable-number tandem repeat analysis (MLVA)" ellipse
+47 "Spa-typing" ellipse
+48 "Multi locus sequence typing (MLST)" ellipse
+49 "Unknown" ellipse
+50 "Whole genome sequencing" ellipse
+51 "Macroscopic identification method" ellipse
+52 "Immunofluorescence method" ellipse
+53 "Automatic digestion method for pooled samples of up to 35 g" ellipse
+54 "Mechanically assisted pooled sample digestion method / on filter isolation technique" ellipse
+55 "Mechanically assisted pooled sample digestion method/sedimentation technique" ellipse
+56 "Skin test" ellipse
+57 "In house real time PCR methods based on ISO/TS 13136:2012" ellipse
+58 "Other methods based on PCR detection of vtx genes" ellipse
+59 "DIN 10118:2004" ellipse
+60 "Other methods based on the immunochemical detection of VT" ellipse
+61 "Unspecified" ellipse
+62 "OIE method for E.coli O157 in animal faecal samples" ellipse
+63 "ISO 19343:2017 Histamine" ellipse
+64 "Visual inspection" ellipse
+65 "Slide agglutination according White Kauffmann Le Minor Scheme" ellipse
+66 "Slide agglutination followed by molecular serotyping (PCR or WGS)" ellipse
+67 "Flotation technique for faecal parasites" ellipse
+68 "Real-time PCR (BAX): detection of STEC and identification of serogroups O26, O111, O121, O145, O103 and O45" ellipse
+69 "Sedimentation and Counting Technique" ellipse
+70 "Fluorescence polarisation assay (FPA)" ellipse
+71 "zObsolete / deprecated / not in use classes" ellipse
+72 "Class"
+*Arcs
+1 5 0.5000000 l "isa"
+5 1 0.0666667 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.0666667 l "isa"
+4 5 0.3333333 l "isa"
+5 4 0.0666667 l "isa"
+6 5 0.5000000 l "isa"
+5 6 0.0666667 l "isa"
+7 6 0.2500000 l "isa"
+6 7 0.5000000 l "isa"
+8 7 0.5000000 l "isa"
+7 8 0.2500000 l "isa"
+11 9 0.5000000 l "isa"
+9 11 0.0158730 l "isa"
+12 9 1.0000000 l "isa"
+9 12 0.0158730 l "isa"
+13 9 0.5000000 l "isa"
+9 13 0.0158730 l "isa"
+14 13 0.5000000 l "isa"
+13 14 0.5000000 l "isa"
+15 9 0.6666667 l "isa"
+9 15 0.0317460 l "isa"
+16 15 1.0000000 l "isa"
+15 16 0.3333333 l "isa"
+17 9 0.0500000 l "isa"
+9 17 0.0158730 l "isa"
+18 17 1.0000000 l "isa"
+17 18 0.1000000 l "isa"
+19 17 1.0000000 l "isa"
+17 19 0.1000000 l "isa"
+20 17 0.6666667 l "isa"
+17 20 0.1000000 l "isa"
+21 17 0.6666667 l "isa"
+17 21 0.1000000 l "isa"
+22 17 1.0000000 l "isa"
+17 22 0.1000000 l "isa"
+23 9 0.5000000 l "isa"
+9 23 0.0158730 l "isa"
+24 23 1.0000000 l "isa"
+23 24 0.5000000 l "isa"
+25 9 1.0000000 l "isa"
+9 25 0.0158730 l "isa"
+26 9 0.5000000 l "isa"
+9 26 0.0158730 l "isa"
+27 26 1.0000000 l "isa"
+26 27 0.5000000 l "isa"
+28 9 1.0000000 l "isa"
+9 28 0.0158730 l "isa"
+29 9 1.0000000 l "isa"
+9 29 0.0158730 l "isa"
+30 9 1.0000000 l "isa"
+9 30 0.0158730 l "isa"
+31 9 1.0000000 l "isa"
+9 31 0.0158730 l "isa"
+32 9 1.0000000 l "isa"
+9 32 0.0158730 l "isa"
+33 9 1.0000000 l "isa"
+9 33 0.0158730 l "isa"
+34 9 1.0000000 l "isa"
+9 34 0.0158730 l "isa"
+35 9 1.0000000 l "isa"
+9 35 0.0158730 l "isa"
+36 9 1.0000000 l "isa"
+9 36 0.0158730 l "isa"
+37 9 1.0000000 l "isa"
+9 37 0.0158730 l "isa"
+38 9 1.0000000 l "isa"
+9 38 0.0158730 l "isa"
+39 9 1.0000000 l "isa"
+9 39 0.0317460 l "isa"
+40 9 1.0000000 l "isa"
+9 40 0.0158730 l "isa"
+41 9 1.0000000 l "isa"
+9 41 0.0158730 l "isa"
+42 9 1.0000000 l "isa"
+9 42 0.0158730 l "isa"
+43 9 1.0000000 l "isa"
+9 43 0.0158730 l "isa"
+44 9 1.0000000 l "isa"
+9 44 0.0158730 l "isa"
+45 9 1.0000000 l "isa"
+9 45 0.0158730 l "isa"
+46 9 1.0000000 l "isa"
+9 46 0.0158730 l "isa"
+47 9 1.0000000 l "isa"
+9 47 0.0158730 l "isa"
+48 9 1.0000000 l "isa"
+9 48 0.0158730 l "isa"
+49 9 0.5000000 l "isa"
+9 49 0.0158730 l "isa"
+50 9 1.0000000 l "isa"
+9 50 0.0158730 l "isa"
+51 9 0.5000000 l "isa"
+9 51 0.0158730 l "isa"
+52 9 0.5000000 l "isa"
+9 52 0.0158730 l "isa"
+53 9 1.0000000 l "isa"
+9 53 0.0158730 l "isa"
+54 9 1.0000000 l "isa"
+9 54 0.0158730 l "isa"
+55 9 1.0000000 l "isa"
+9 55 0.0158730 l "isa"
+56 9 1.0000000 l "isa"
+9 56 0.0158730 l "isa"
+57 9 0.5000000 l "isa"
+9 57 0.0158730 l "isa"
+58 9 0.5000000 l "isa"
+9 58 0.0158730 l "isa"
+59 9 1.0000000 l "isa"
+9 59 0.0158730 l "isa"
+60 9 1.0000000 l "isa"
+9 60 0.0158730 l "isa"
+61 9 1.0000000 l "isa"
+9 61 0.0158730 l "isa"
+62 9 1.0000000 l "isa"
+9 62 0.0158730 l "isa"
+63 9 1.0000000 l "isa"
+9 63 0.0158730 l "isa"
+64 9 1.0000000 l "isa"
+9 64 0.0158730 l "isa"
+65 9 1.0000000 l "isa"
+9 65 0.0158730 l "isa"
+66 9 0.5000000 l "isa"
+9 66 0.0158730 l "isa"
+67 9 0.5000000 l "isa"
+9 67 0.0158730 l "isa"
+68 9 0.5000000 l "isa"
+9 68 0.0158730 l "isa"
+69 51 1.0000000 l "isa"
+51 69 0.5000000 l "isa"
+70 52 0.5000000 l "isa"
+52 70 0.5000000 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.3333333 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.3333333 l "substring"
+3 67 0.1111111 l "substring"
+67 3 0.5000000 l "substring"
+8 49 0.5000000 l "substring"
+49 8 0.5000000 l "substring"
+9 15 0.0317460 l "substring"
+15 9 0.6666667 l "substring"
+9 39 0.0317460 l "substring"
+39 9 1.0000000 l "substring"
+9 70 0.0158730 l "substring"
+70 9 0.5000000 l "substring"
+10 14 0.1000000 l "substring"
+14 10 0.5000000 l "substring"
+11 72 0.5000000 l "substring"
+72 11 0.0370370 l "substring"
+17 18 0.1000000 l "substring"
+18 17 1.0000000 l "substring"
+17 19 0.1000000 l "substring"
+19 17 1.0000000 l "substring"
+17 20 0.1000000 l "substring"
+20 17 0.6666667 l "substring"
+17 21 0.1000000 l "substring"
+21 17 0.6666667 l "substring"
+17 22 0.1000000 l "substring"
+22 17 1.0000000 l "substring"
+17 57 0.0500000 l "substring"
+57 17 0.5000000 l "substring"
+17 58 0.0500000 l "substring"
+58 17 0.5000000 l "substring"
+17 66 0.0500000 l "substring"
+66 17 0.5000000 l "substring"
+17 68 0.0500000 l "substring"
+68 17 0.5000000 l "substring"
+71 72 1.0000000 l "substring"
+72 71 0.0370370 l "substring"
+3 10 0.1111111 l "distance"
+10 3 0.1000000 l "distance"
+20 21 0.3333333 l "distance"
+21 20 0.3333333 l "distance"
+*Edges

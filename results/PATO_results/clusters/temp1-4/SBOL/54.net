@@ -1,0 +1,29 @@
+*Vertices 2
+1 "rituximab" ellipse
+2 "Rituxan" ellipse
+*Arcs
+2 1 0.8799584 l "isa"
+1 2 0.7778469 l "isa"
+1 2 0.7778469 l "distance"
+2 1 0.8799584 l "distance"
+2 1 0.8799584 l "isa"
+1 2 0.7778469 l "isa"
+1 2 0.7778469 l "distance"
+2 1 0.8799584 l "distance"
+2 1 0.8799584 l "isa"
+1 2 0.7778469 l "isa"
+1 2 0.7778469 l "distance"
+2 1 0.8799584 l "distance"
+2 1 0.8799584 l "isa"
+1 2 0.7778469 l "isa"
+1 2 0.7778469 l "distance"
+2 1 0.8799584 l "distance"
+2 1 0.8799584 l "isa"
+1 2 0.7778469 l "isa"
+1 2 0.7778469 l "distance"
+2 1 0.8799584 l "distance"
+2 1 0.8799584 l "isa"
+1 2 0.7778469 l "isa"
+1 2 0.7778469 l "distance"
+2 1 0.8799584 l "distance"
+*Edges

@@ -1,0 +1,75 @@
+*Vertices 12
+1 "Kolliker-Fuse subnucleus" ellipse
+2 "Parabrachial nucleus" ellipse
+3 "Parabrachial nucleus, lateral division" ellipse
+4 "Parabrachial nucleus, lateral division, central lateral part" ellipse
+5 "Parabrachial nucleus, lateral division, dorsal lateral part" ellipse
+6 "Parabrachial nucleus, lateral division, external lateral part" ellipse
+7 "Parabrachial nucleus, lateral division, superior lateral part" ellipse
+8 "Parabrachial nucleus, lateral division, ventral lateral part" ellipse
+9 "Parabrachial nucleus, medial division" ellipse
+10 "Parabrachial nucleus, medial division, external medial part" ellipse
+11 "Parabrachial nucleus, medial division, medial medial part" ellipse
+12 "Parabrachial nucleus, medial division, ventral medial part" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0714286 l "isa"
+3 2 0.1666667 l "isa"
+2 3 0.1428571 l "isa"
+4 3 0.5000000 l "isa"
+3 4 0.1666667 l "isa"
+5 3 0.6666667 l "isa"
+3 5 0.1666667 l "isa"
+6 3 0.6666667 l "isa"
+3 6 0.1666667 l "isa"
+7 3 0.6666667 l "isa"
+3 7 0.1666667 l "isa"
+8 3 0.5000000 l "isa"
+3 8 0.1666667 l "isa"
+9 2 0.2500000 l "isa"
+2 9 0.1428571 l "isa"
+10 9 0.6666667 l "isa"
+9 10 0.2500000 l "isa"
+11 9 0.6666667 l "isa"
+9 11 0.2500000 l "isa"
+12 9 0.6666667 l "isa"
+9 12 0.2500000 l "isa"
+2 3 0.1428571 l "substring"
+3 2 0.1666667 l "substring"
+2 4 0.0714286 l "substring"
+4 2 0.2500000 l "substring"
+2 5 0.0714286 l "substring"
+5 2 0.3333333 l "substring"
+2 6 0.0714286 l "substring"
+6 2 0.3333333 l "substring"
+2 7 0.0714286 l "substring"
+7 2 0.3333333 l "substring"
+2 8 0.0714286 l "substring"
+8 2 0.2500000 l "substring"
+2 9 0.1428571 l "substring"
+9 2 0.2500000 l "substring"
+2 10 0.0714286 l "substring"
+10 2 0.3333333 l "substring"
+2 11 0.0714286 l "substring"
+11 2 0.3333333 l "substring"
+2 12 0.0714286 l "substring"
+12 2 0.3333333 l "substring"
+3 4 0.1666667 l "substring"
+4 3 0.5000000 l "substring"
+3 5 0.1666667 l "substring"
+5 3 0.6666667 l "substring"
+3 6 0.1666667 l "substring"
+6 3 0.6666667 l "substring"
+3 7 0.1666667 l "substring"
+7 3 0.6666667 l "substring"
+3 8 0.1666667 l "substring"
+8 3 0.5000000 l "substring"
+9 10 0.2500000 l "substring"
+10 9 0.6666667 l "substring"
+9 11 0.2500000 l "substring"
+11 9 0.6666667 l "substring"
+9 12 0.2500000 l "substring"
+12 9 0.6666667 l "substring"
+4 8 0.2500000 l "distance"
+8 4 0.2500000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "constrainedBy"
+2 "constrainedBy"
+*Arcs
+1 2 0.5681916 l "substring"
+2 1 0.5700890 l "substring"
+1 2 0.5681916 l "distance"
+2 1 0.5700890 l "distance"
+1 2 0.5681916 l "substring"
+2 1 0.5700890 l "substring"
+1 2 0.5681916 l "distance"
+2 1 0.5700890 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "PartIncludedSequence" ellipse
+2 "includedSequence"
+*Arcs
+1 2 0.1538462 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.1538462 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,59 @@
+*Vertices 12
+1 "partition chromatography" ellipse
+2 "column chromatography" ellipse
+3 "adsorption chromatography" ellipse
+4 "normal-phase chromatography" ellipse
+5 "chromatography" ellipse
+6 "chiral chromatography" ellipse
+7 "planar chromatography" ellipse
+8 "displacement chromatography" ellipse
+9 "reversed-phase chromatography" ellipse
+10 "headspace chromatography" ellipse
+11 "mixed-mode chromatography" ellipse
+12 "membrane chromatography" ellipse
+*Arcs
+1 5 0.2857143 l "isa"
+5 1 0.0273973 l "isa"
+2 5 0.3333333 l "isa"
+5 2 0.0273973 l "isa"
+3 5 0.3333333 l "isa"
+5 3 0.0273973 l "isa"
+4 5 0.2857143 l "isa"
+5 4 0.0273973 l "isa"
+6 5 0.3333333 l "isa"
+5 6 0.0273973 l "isa"
+7 5 0.2857143 l "isa"
+5 7 0.0273973 l "isa"
+8 5 0.3333333 l "isa"
+5 8 0.0273973 l "isa"
+9 5 0.2857143 l "isa"
+5 9 0.0273973 l "isa"
+10 5 0.2857143 l "isa"
+5 10 0.0273973 l "isa"
+11 5 0.3333333 l "isa"
+5 11 0.0273973 l "isa"
+12 5 0.3333333 l "isa"
+5 12 0.0273973 l "isa"
+1 5 0.2857143 l "substring"
+5 1 0.0273973 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.0273973 l "substring"
+3 5 0.3333333 l "substring"
+5 3 0.0273973 l "substring"
+4 5 0.2857143 l "substring"
+5 4 0.0273973 l "substring"
+5 6 0.0273973 l "substring"
+6 5 0.3333333 l "substring"
+5 7 0.0273973 l "substring"
+7 5 0.2857143 l "substring"
+5 8 0.0273973 l "substring"
+8 5 0.3333333 l "substring"
+5 9 0.0273973 l "substring"
+9 5 0.2857143 l "substring"
+5 10 0.0273973 l "substring"
+10 5 0.2857143 l "substring"
+5 11 0.0273973 l "substring"
+11 5 0.3333333 l "substring"
+5 12 0.0273973 l "substring"
+12 5 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,38 @@
+*Vertices 7
+1 "cell part" ellipse
+2 "membrane" ellipse
+3 "presynaptic membrane" ellipse
+4 "synapse part" ellipse
+5 "cell part" ellipse
+6 "synapse" ellipse
+7 "postsynaptic membrane" ellipse
+*Arcs
+2 1 0.1666667 l "isa"
+1 2 0.1111111 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.3333333 l "isa"
+3 4 0.2500000 l "isa"
+4 3 0.2500000 l "isa"
+4 1 0.2500000 l "isa"
+1 4 0.1111111 l "isa"
+5 1 0.4285714 l "isa"
+1 5 0.3333333 l "isa"
+6 1 0.1428571 l "isa"
+1 6 0.1111111 l "isa"
+7 2 0.4000000 l "isa"
+2 7 0.3333333 l "isa"
+7 4 0.2000000 l "isa"
+4 7 0.2500000 l "isa"
+1 5 0.3333333 l "substring"
+5 1 0.4285714 l "substring"
+2 3 0.3333333 l "substring"
+3 2 0.5000000 l "substring"
+2 7 0.3333333 l "substring"
+7 2 0.4000000 l "substring"
+4 6 0.2500000 l "substring"
+6 4 0.1428571 l "substring"
+1 5 0.3333333 l "distance"
+5 1 0.4285714 l "distance"
+3 7 0.2500000 l "distance"
+7 3 0.2000000 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Herens" ellipse
+2 "Yemeni" ellipse
+*Arcs
+1 2 0.3647136 l "distance"
+2 1 0.2415427 l "distance"
+1 2 0.3647136 l "distance"
+2 1 0.2415427 l "distance"
+1 2 0.3647136 l "distance"
+2 1 0.2415427 l "distance"
+*Edges

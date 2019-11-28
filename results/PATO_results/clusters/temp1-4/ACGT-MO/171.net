@@ -1,0 +1,44 @@
+*Vertices 5
+1 "Substance Abuse" ellipse
+2 "Alcohol Abuse" ellipse
+3 "Alcohol abuse" ellipse
+4 "Substance abuse" ellipse
+5 "Psychoactive substance abuse" ellipse
+*Arcs
+2 1 0.2279891 l "isa"
+1 2 0.1276660 l "isa"
+3 5 0.1827171 l "isa"
+5 3 0.1434322 l "isa"
+5 4 0.3174555 l "isa"
+4 5 0.2730509 l "isa"
+1 4 0.2743866 l "substring"
+4 1 0.2680863 l "substring"
+1 5 0.1232199 l "substring"
+5 1 0.1399690 l "substring"
+2 3 0.5526184 l "substring"
+3 2 0.4477855 l "substring"
+4 5 0.2730509 l "substring"
+5 4 0.3174555 l "substring"
+1 4 0.2743866 l "distance"
+4 1 0.2680863 l "distance"
+2 3 0.5526184 l "distance"
+3 2 0.4477855 l "distance"
+2 1 0.2279891 l "isa"
+1 2 0.1276660 l "isa"
+3 5 0.1827171 l "isa"
+5 3 0.1434322 l "isa"
+5 4 0.3174555 l "isa"
+4 5 0.2730509 l "isa"
+1 4 0.2743866 l "substring"
+4 1 0.2680863 l "substring"
+1 5 0.1232199 l "substring"
+5 1 0.1399690 l "substring"
+2 3 0.5526184 l "substring"
+3 2 0.4477855 l "substring"
+4 5 0.2730509 l "substring"
+5 4 0.3174555 l "substring"
+1 4 0.2743866 l "distance"
+4 1 0.2680863 l "distance"
+2 3 0.5526184 l "distance"
+3 2 0.4477855 l "distance"
+*Edges

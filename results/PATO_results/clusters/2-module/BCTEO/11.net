@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Bioerosion" ellipse
+2 "Biomaterial behaviour" ellipse
+3 "Degradation" ellipse
+4 "Bioreabsorption" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1250000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1250000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1250000 l "isa"
+*Edges

@@ -1,0 +1,47 @@
+*Vertices 14
+1 "Algorithms" ellipse
+2 "Computer_Applications" ellipse
+3 "Computer_Assisted_Therapy" ellipse
+4 "Computer_Games" ellipse
+5 "Computer_Programming" ellipse
+6 "Computer_Programming_Languages" ellipse
+7 "Computer_Simulation" ellipse
+8 "Error_Analysis" ellipse
+9 "Intelligent_Agents" ellipse
+10 "Learning_Management_Systems" ellipse
+11 "Online_Therapy" ellipse
+12 "Semantic_Networks" ellipse
+13 "Word_Processing" ellipse
+14 "ComputerApplications" ellipse
+*Arcs
+1 14 1.0000000 l "isa"
+14 1 0.0714286 l "isa"
+2 14 1.0000000 l "isa"
+14 2 0.1428571 l "isa"
+3 14 1.0000000 l "isa"
+14 3 0.0714286 l "isa"
+4 14 1.0000000 l "isa"
+14 4 0.0714286 l "isa"
+5 14 0.5000000 l "isa"
+14 5 0.0714286 l "isa"
+6 14 0.5000000 l "isa"
+14 6 0.0714286 l "isa"
+7 14 1.0000000 l "isa"
+14 7 0.0714286 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.0714286 l "isa"
+9 14 1.0000000 l "isa"
+14 9 0.0714286 l "isa"
+10 14 1.0000000 l "isa"
+14 10 0.0714286 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.0714286 l "isa"
+12 14 1.0000000 l "isa"
+14 12 0.0714286 l "isa"
+13 14 1.0000000 l "isa"
+14 13 0.0714286 l "isa"
+5 6 0.5000000 l "substring"
+6 5 0.5000000 l "substring"
+2 14 1.0000000 l "distance"
+14 2 0.1428571 l "distance"
+*Edges

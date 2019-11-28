@@ -1,0 +1,32 @@
+*Vertices 9
+1 "JUND" ellipse
+2 "Chaparral" ellipse
+3 "desert or dune" ellipse
+4 "Forest" ellipse
+5 "ice cap" ellipse
+6 "Rainforest" ellipse
+7 "scrub forest" ellipse
+8 "terrestrial habitat" ellipse
+9 "Tundra" ellipse
+*Arcs
+2 8 1.0000000 l "isa"
+8 2 0.0833333 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0833333 l "isa"
+4 8 0.1666667 l "isa"
+8 4 0.0833333 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0833333 l "isa"
+6 8 0.5000000 l "isa"
+8 6 0.0833333 l "isa"
+7 8 0.5000000 l "isa"
+8 7 0.0833333 l "isa"
+9 8 0.5000000 l "isa"
+8 9 0.0833333 l "isa"
+4 6 0.1666667 l "substring"
+6 4 0.5000000 l "substring"
+4 7 0.1666667 l "substring"
+7 4 0.5000000 l "substring"
+1 9 0.0372896 l "distance"
+9 1 0.5000000 l "distance"
+*Edges

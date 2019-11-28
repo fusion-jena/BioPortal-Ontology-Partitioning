@@ -1,0 +1,18 @@
+*Vertices 3
+1 "sexual metamorphosis stage" ellipse
+2 "adult (Heteronereis) stage" ellipse
+3 "preceded_by"
+*Arcs
+1 3 0.1419712 l "definition"
+3 1 0.0479049 l "definition"
+2 1 0.1741414 l "definition"
+1 2 0.1496871 l "definition"
+2 3 0.1669603 l "definition"
+3 2 0.0484256 l "definition"
+1 3 0.1419712 l "definition"
+3 1 0.0479049 l "definition"
+2 1 0.1741414 l "definition"
+1 2 0.1496871 l "definition"
+2 3 0.1669603 l "definition"
+3 2 0.0484256 l "definition"
+*Edges

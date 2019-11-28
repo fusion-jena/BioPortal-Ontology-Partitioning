@@ -1,0 +1,9 @@
+*Vertices 2
+1 "perazine" ellipse
+2 "Parasite" ellipse
+*Arcs
+1 2 0.1261926 l "distance"
+2 1 0.3399306 l "distance"
+1 2 0.1261926 l "distance"
+2 1 0.3399306 l "distance"
+*Edges

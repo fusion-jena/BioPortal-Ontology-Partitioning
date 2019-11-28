@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Actividad_Innovacion" ellipse
+2 "Vigilancia_Tecnologica" ellipse
+3 "esUna"
+*Arcs
+2 1 0.4000000 l "esUna"
+1 2 0.2500000 l "esUna"
+2 3 0.2000000 l "definition"
+3 2 1.0000000 l "definition"
+2 1 0.4000000 l "definition"
+1 2 0.2500000 l "definition"
+*Edges

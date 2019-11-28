@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Nucleus" ellipse
+2 "nucleus accumbens" ellipse
+*Arcs
+1 2 0.3128846 l "substring"
+2 1 0.4090143 l "substring"
+1 2 0.3128846 l "substring"
+2 1 0.4090143 l "substring"
+1 2 0.3128846 l "substring"
+2 1 0.4090143 l "substring"
+*Edges

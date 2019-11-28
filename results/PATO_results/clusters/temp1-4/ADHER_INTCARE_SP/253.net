@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Unusual_preoccupation_that_does_not_interfere_with_significant_activities" ellipse
+2 "unproc_Unusual_preoccupation_that_does_not_interfere_with_significant_activities"
+*Arcs
+1 2 0.2203240 l "substring"
+2 1 0.1907299 l "substring"
+1 2 0.2203240 l "substring"
+2 1 0.1907299 l "substring"
+1 2 0.2203240 l "substring"
+2 1 0.1907299 l "substring"
+*Edges

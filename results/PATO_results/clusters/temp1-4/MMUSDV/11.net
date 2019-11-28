@@ -1,0 +1,24 @@
+*Vertices 5
+1 "Profile Position" ellipse
+2 "Kuwait" ellipse
+3 "backslope" ellipse
+4 "shoulder" ellipse
+5 "summit" ellipse
+*Arcs
+3 1 0.2580830 l "isa"
+1 3 0.1058808 l "isa"
+4 1 0.2580830 l "isa"
+1 4 0.1058808 l "isa"
+5 1 0.2512380 l "isa"
+1 5 0.1058808 l "isa"
+2 5 0.2696750 l "distance"
+5 2 0.2672745 l "distance"
+3 1 0.2580830 l "isa"
+1 3 0.1058808 l "isa"
+4 1 0.2580830 l "isa"
+1 4 0.1058808 l "isa"
+5 1 0.2512380 l "isa"
+1 5 0.1058808 l "isa"
+2 5 0.2696750 l "distance"
+5 2 0.2672745 l "distance"
+*Edges

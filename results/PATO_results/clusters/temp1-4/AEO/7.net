@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Vascular cell adhesion molecule-1" ellipse
+2 "cell adhesion" ellipse
+*Arcs
+1 2 0.1409337 l "substring"
+2 1 0.3116641 l "substring"
+1 2 0.1409337 l "substring"
+2 1 0.3116641 l "substring"
+1 2 0.1409337 l "substring"
+2 1 0.3116641 l "substring"
+*Edges

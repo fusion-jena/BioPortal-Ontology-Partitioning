@@ -1,0 +1,38 @@
+*Vertices 3
+1 "HYTNS" ellipse
+2 "MYCNF" ellipse
+3 "VSINF" ellipse
+*Arcs
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+1 2 0.0447001 l "distance"
+2 1 0.0717197 l "distance"
+2 3 0.0727733 l "distance"
+3 2 0.0527320 l "distance"
+*Edges

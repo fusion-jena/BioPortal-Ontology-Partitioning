@@ -1,0 +1,17 @@
+*Vertices 4
+1 "BrainActivity" ellipse
+2 "BrainActivitySensors" ellipse
+3 "MotionSensor" ellipse
+4 "Sensors" ellipse
+*Arcs
+2 4 0.2857143 l "isa"
+4 2 0.5000000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2500000 l "isa"
+2 1 0.2857143 l "definition"
+1 2 0.5000000 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.2857143 l "substring"
+2 4 0.2857143 l "substring"
+4 2 0.5000000 l "substring"
+*Edges

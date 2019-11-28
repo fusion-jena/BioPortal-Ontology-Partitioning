@@ -1,0 +1,43 @@
+*Vertices 14
+1 "associados_ao_desenvolvimento_sexual_e_orientacao" ellipse
+2 "compulsoria" ellipse
+3 "internacao" ellipse
+4 "modificacoes_duradouras_da_personalidade" ellipse
+5 "outros_transtornos_da_personalidade" ellipse
+6 "pulso" ellipse
+7 "transtorno_da_identidade_sexual" ellipse
+8 "transtorno_da_personalidade_nao_especificado" ellipse
+9 "transtorno_da_preferencia_sexual" ellipse
+10 "transtorno_dos_habitos_e_impulsos" ellipse
+11 "transtorno_especifico_da_personalidade" ellipse
+12 "transtorno_misto_da_personalidade" ellipse
+13 "transtornos_da_personalidade_e_do_comportamento_do_adulto" ellipse
+14 "voluntaria" ellipse
+*Arcs
+1 13 1.0000000 l "isa"
+13 1 0.1000000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.1428571 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.1000000 l "isa"
+5 13 1.0000000 l "isa"
+13 5 0.1000000 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.1000000 l "isa"
+8 13 1.0000000 l "isa"
+13 8 0.1000000 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.1000000 l "isa"
+10 13 0.5000000 l "isa"
+13 10 0.1000000 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.1000000 l "isa"
+12 13 1.0000000 l "isa"
+13 12 0.1000000 l "isa"
+14 3 1.0000000 l "isa"
+3 14 0.1428571 l "isa"
+2 6 0.5000000 l "substring"
+6 2 0.2000000 l "substring"
+6 10 0.2000000 l "substring"
+10 6 0.5000000 l "substring"
+*Edges

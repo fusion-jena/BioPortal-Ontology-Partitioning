@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Glycopeptide" ellipse
+2 "glycopeptide" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

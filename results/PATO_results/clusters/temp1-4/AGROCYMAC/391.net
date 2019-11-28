@@ -1,0 +1,17 @@
+*Vertices 2
+1 "biomacromolecule" ellipse
+2 "macromolecule" ellipse
+*Arcs
+1 2 0.5769003 l "isa"
+2 1 0.6689675 l "isa"
+1 2 0.5769003 l "substring"
+2 1 0.6689675 l "substring"
+1 2 0.5769003 l "distance"
+2 1 0.6689675 l "distance"
+1 2 0.5769003 l "isa"
+2 1 0.6689675 l "isa"
+1 2 0.5769003 l "substring"
+2 1 0.6689675 l "substring"
+1 2 0.5769003 l "distance"
+2 1 0.6689675 l "distance"
+*Edges

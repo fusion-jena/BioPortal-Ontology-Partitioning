@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Facial_expressions_slightly_or_occasionally_inappropriate_or_odd" ellipse
+2 "inapfe_Facial_expressions_slightly_or_occasionally_inappropriate_or_odd"
+*Arcs
+1 2 0.2615138 l "substring"
+2 1 0.2157026 l "substring"
+1 2 0.2615138 l "substring"
+2 1 0.2157026 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "chemical pest control process" ellipse
+2 "chemical pest control implement" ellipse
+*Arcs
+1 2 0.0844713 l "definition"
+2 1 0.4217627 l "definition"
+2 1 0.4217627 l "definition"
+1 2 0.0844713 l "definition"
+1 2 0.0844713 l "definition"
+2 1 0.4217627 l "definition"
+2 1 0.4217627 l "definition"
+1 2 0.0844713 l "definition"
+*Edges

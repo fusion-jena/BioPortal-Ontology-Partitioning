@@ -1,0 +1,14 @@
+*Vertices 3
+1 "linear" ellipse
+2 "laminar" ellipse
+3 "bounding layer of"
+*Arcs
+3 2 0.1552338 l "definition"
+2 3 0.2581198 l "definition"
+1 2 0.0707872 l "distance"
+2 1 0.2499010 l "distance"
+3 2 0.1552338 l "definition"
+2 3 0.2581198 l "definition"
+1 2 0.0707872 l "distance"
+2 1 0.2499010 l "distance"
+*Edges

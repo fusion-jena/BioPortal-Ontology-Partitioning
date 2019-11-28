@@ -1,0 +1,15 @@
+*Vertices 2
+1 "ec-code" ellipse
+2 "molecular_function" ellipse
+*Arcs
+1 2 0.4242960 l "isa"
+2 1 0.1228006 l "isa"
+1 2 0.4242960 l "isa"
+2 1 0.1228006 l "isa"
+1 2 0.4242960 l "isa"
+2 1 0.1228006 l "isa"
+1 2 0.4242960 l "isa"
+2 1 0.1228006 l "isa"
+1 2 0.4242960 l "isa"
+2 1 0.1228006 l "isa"
+*Edges

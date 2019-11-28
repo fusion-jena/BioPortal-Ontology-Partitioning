@@ -1,0 +1,45 @@
+*Vertices 10
+1 "denoting" ellipse
+2 "identifying" ellipse
+3 "identifier" ellipse
+4 "globally unique identifier" ellipse
+5 "local identifier" ellipse
+6 "sample identifier" ellipse
+7 "batch identifier" ellipse
+8 "measurement identifier" ellipse
+9 "peak identifier" ellipse
+10 "centrally registered identifier" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1000000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.0740741 l "isa"
+5 3 0.6666667 l "isa"
+3 5 0.0740741 l "isa"
+6 3 0.6666667 l "isa"
+3 6 0.0740741 l "isa"
+7 3 0.6666667 l "isa"
+3 7 0.0740741 l "isa"
+8 3 0.5000000 l "isa"
+3 8 0.0740741 l "isa"
+9 3 0.5000000 l "isa"
+3 9 0.0740741 l "isa"
+10 3 0.5000000 l "isa"
+3 10 0.0740741 l "isa"
+3 4 0.0740741 l "substring"
+4 3 1.0000000 l "substring"
+3 5 0.0740741 l "substring"
+5 3 0.6666667 l "substring"
+3 6 0.0740741 l "substring"
+6 3 0.6666667 l "substring"
+3 7 0.0740741 l "substring"
+7 3 0.6666667 l "substring"
+3 8 0.0740741 l "substring"
+8 3 0.5000000 l "substring"
+3 9 0.0740741 l "substring"
+9 3 0.5000000 l "substring"
+3 10 0.0740741 l "substring"
+10 3 0.5000000 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.0370370 l "distance"
+*Edges

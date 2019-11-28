@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Munchausen_Syndrome" ellipse
+2 "Munchausen_Syndrome_by_Proxy" ellipse
+*Arcs
+1 2 0.3942019 l "substring"
+2 1 0.3942019 l "substring"
+1 2 0.3942019 l "substring"
+2 1 0.3942019 l "substring"
+1 2 0.3942019 l "substring"
+2 1 0.3942019 l "substring"
+*Edges

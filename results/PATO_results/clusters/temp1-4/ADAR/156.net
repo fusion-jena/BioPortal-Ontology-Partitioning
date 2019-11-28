@@ -1,0 +1,21 @@
+*Vertices 2
+1 "MammaryCarcinoma" ellipse
+2 "MammaryCarcinomaClass" ellipse
+*Arcs
+1 2 0.2097198 l "definition"
+2 1 0.2814975 l "definition"
+1 2 0.2097198 l "substring"
+2 1 0.2814975 l "substring"
+1 2 0.2097198 l "definition"
+2 1 0.2814975 l "definition"
+1 2 0.2097198 l "substring"
+2 1 0.2814975 l "substring"
+1 2 0.2097198 l "definition"
+2 1 0.2814975 l "definition"
+1 2 0.2097198 l "substring"
+2 1 0.2814975 l "substring"
+1 2 0.2097198 l "definition"
+2 1 0.2814975 l "definition"
+1 2 0.2097198 l "substring"
+2 1 0.2814975 l "substring"
+*Edges

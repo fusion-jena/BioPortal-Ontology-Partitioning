@@ -1,0 +1,47 @@
+*Vertices 10
+1 "Actor" ellipse
+2 "AssessmentItem" ellipse
+3 "COMBAssessmentItem" ellipse
+4 "InterventionItem" ellipse
+5 "Patient" ellipse
+6 "Resource" ellipse
+7 "string"
+8 "nonNegativeInteger"
+9 "double"
+10 "boolean"
+*Arcs
+3 2 0.4000000 l "isa"
+2 3 0.2222222 l "isa"
+5 1 0.1111111 l "isa"
+1 5 0.5000000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0909091 l "isa"
+1 7 0.5000000 l "actorName"
+7 1 0.1250000 l "actorName"
+2 7 0.3333333 l "assessmentItemExamples"
+7 2 0.3750000 l "assessmentItemExamples"
+2 7 0.3333333 l "assessmentItemID"
+7 2 0.3750000 l "assessmentItemID"
+2 7 0.3333333 l "assessmentItemText"
+7 2 0.3750000 l "assessmentItemText"
+5 8 0.2222222 l "averageDiastolicBP"
+8 5 0.6666667 l "averageDiastolicBP"
+5 8 0.2222222 l "averageSystolicBP"
+8 5 0.6666667 l "averageSystolicBP"
+5 9 0.2222222 l "height"
+9 5 1.0000000 l "height"
+4 7 0.2727273 l "itemName"
+7 4 0.3750000 l "itemName"
+4 7 0.2727273 l "itemText"
+7 4 0.3750000 l "itemText"
+4 10 0.1818182 l "provideJournal"
+10 4 1.0000000 l "provideJournal"
+4 10 0.1818182 l "provideLink"
+10 4 1.0000000 l "provideLink"
+4 7 0.2727273 l "sourceURL"
+7 4 0.3750000 l "sourceURL"
+5 9 0.2222222 l "weight"
+9 5 1.0000000 l "weight"
+2 3 0.2222222 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

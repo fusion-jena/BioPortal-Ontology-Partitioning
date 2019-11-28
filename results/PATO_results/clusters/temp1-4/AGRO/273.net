@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hydrogen chloride" ellipse
+2 "chloronium" ellipse
+*Arcs
+1 2 0.1333333 l "definition"
+2 1 0.4000000 l "definition"
+2 1 0.4000000 l "definition"
+1 2 0.1333333 l "definition"
+*Edges

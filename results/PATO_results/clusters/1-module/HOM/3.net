@@ -1,0 +1,97 @@
+*Vertices 22
+1 "homoplasy" ellipse
+2 "convergence" ellipse
+3 "historical homology" ellipse
+4 "reversal" ellipse
+5 "paralogy" ellipse
+6 "syntenic paralogy" ellipse
+7 "xenology" ellipse
+8 "in-paralogy" ellipse
+9 "out-paralogy" ellipse
+10 "mimicry" ellipse
+11 "apomorphy" ellipse
+12 "plesiomorphy" ellipse
+13 "hemiplasy" ellipse
+14 "within-species paralogy" ellipse
+15 "between-species paralogy" ellipse
+16 "synology" ellipse
+17 "tandem paralogy" ellipse
+18 "pseudoparalogy" ellipse
+19 "interology" ellipse
+20 "paraxenology" ellipse
+21 "plerology" ellipse
+22 "regulogy" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1428571 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1428571 l "isa"
+5 3 0.0555556 l "isa"
+3 5 0.0666667 l "isa"
+6 5 0.6666667 l "isa"
+5 6 0.1111111 l "isa"
+7 3 0.1000000 l "isa"
+3 7 0.0666667 l "isa"
+8 5 0.7500000 l "isa"
+5 8 0.1666667 l "isa"
+9 5 0.6666667 l "isa"
+5 9 0.1111111 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.5000000 l "isa"
+11 3 1.0000000 l "isa"
+3 11 0.0666667 l "isa"
+12 3 1.0000000 l "isa"
+3 12 0.0666667 l "isa"
+13 3 0.5000000 l "isa"
+3 13 0.0666667 l "isa"
+14 5 1.0000000 l "isa"
+5 14 0.1111111 l "isa"
+15 5 0.6666667 l "isa"
+5 15 0.1111111 l "isa"
+16 7 0.4000000 l "isa"
+7 16 0.2000000 l "isa"
+17 5 1.0000000 l "isa"
+5 17 0.1111111 l "isa"
+18 7 0.5000000 l "isa"
+7 18 0.1000000 l "isa"
+19 3 0.5000000 l "isa"
+3 19 0.0666667 l "isa"
+20 7 1.0000000 l "isa"
+7 20 0.2000000 l "isa"
+21 5 0.5000000 l "isa"
+5 21 0.1111111 l "isa"
+22 3 0.5000000 l "isa"
+3 22 0.0666667 l "isa"
+5 6 0.1111111 l "substring"
+6 5 0.6666667 l "substring"
+5 8 0.1666667 l "substring"
+8 5 0.7500000 l "substring"
+5 9 0.1111111 l "substring"
+9 5 0.6666667 l "substring"
+5 14 0.1111111 l "substring"
+14 5 1.0000000 l "substring"
+5 15 0.1111111 l "substring"
+15 5 0.6666667 l "substring"
+5 17 0.1111111 l "substring"
+17 5 1.0000000 l "substring"
+5 18 0.0555556 l "substring"
+18 5 0.5000000 l "substring"
+7 20 0.2000000 l "substring"
+20 7 1.0000000 l "substring"
+1 13 0.1428571 l "distance"
+13 1 0.5000000 l "distance"
+5 8 0.1666667 l "distance"
+8 5 0.7500000 l "distance"
+5 21 0.1111111 l "distance"
+21 5 0.5000000 l "distance"
+7 16 0.2000000 l "distance"
+16 7 0.4000000 l "distance"
+7 21 0.1000000 l "distance"
+21 7 0.2500000 l "distance"
+7 22 0.1000000 l "distance"
+22 7 0.5000000 l "distance"
+8 9 0.2500000 l "distance"
+9 8 0.3333333 l "distance"
+19 21 0.5000000 l "distance"
+21 19 0.2500000 l "distance"
+*Edges

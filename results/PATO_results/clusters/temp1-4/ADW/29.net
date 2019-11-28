@@ -1,0 +1,33 @@
+*Vertices 6
+1 "Memory dysfunction" ellipse
+2 "cellular process endothelial site" ellipse
+3 "endothelial activation" ellipse
+4 "endothelial dysfunction" ellipse
+5 "neurovascular dysfunction" ellipse
+6 "function" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.2092362 l "isa"
+4 2 0.5109243 l "isa"
+2 4 0.1761989 l "isa"
+5 2 0.5109243 l "isa"
+2 5 0.1761989 l "isa"
+1 6 0.3607777 l "substring"
+6 1 0.0563696 l "substring"
+4 6 0.4890756 l "substring"
+6 4 0.0563696 l "substring"
+5 6 0.4890756 l "substring"
+6 5 0.0563696 l "substring"
+3 2 1.0000000 l "isa"
+2 3 0.2092362 l "isa"
+4 2 0.5109243 l "isa"
+2 4 0.1761989 l "isa"
+5 2 0.5109243 l "isa"
+2 5 0.1761989 l "isa"
+1 6 0.3607777 l "substring"
+6 1 0.0563696 l "substring"
+4 6 0.4890756 l "substring"
+6 4 0.0563696 l "substring"
+5 6 0.4890756 l "substring"
+6 5 0.0563696 l "substring"
+*Edges

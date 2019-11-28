@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Human_Machine_Systems" ellipse
+2 "Human_Machine_Systems_Design" ellipse
+3 "Systems_Design" ellipse
+*Arcs
+1 2 0.5494248 l "substring"
+2 1 0.3672248 l "substring"
+2 3 0.3672248 l "substring"
+3 2 0.5494248 l "substring"
+1 2 0.5494248 l "substring"
+2 1 0.3672248 l "substring"
+2 3 0.3672248 l "substring"
+3 2 0.5494248 l "substring"
+1 2 0.5494248 l "substring"
+2 1 0.3672248 l "substring"
+2 3 0.3672248 l "substring"
+3 2 0.5494248 l "substring"
+*Edges

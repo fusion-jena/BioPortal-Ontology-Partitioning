@@ -1,0 +1,30 @@
+*Vertices 3
+1 "TumorDNASample" ellipse
+2 "TumorRNASample" ellipse
+3 "TumorSample" ellipse
+*Arcs
+1 2 0.2967964 l "distance"
+2 1 0.2967889 l "distance"
+1 3 0.2556904 l "distance"
+3 1 0.1434164 l "distance"
+2 3 0.2556828 l "distance"
+3 2 0.1434157 l "distance"
+1 2 0.2967964 l "distance"
+2 1 0.2967889 l "distance"
+1 3 0.2556904 l "distance"
+3 1 0.1434164 l "distance"
+2 3 0.2556828 l "distance"
+3 2 0.1434157 l "distance"
+1 2 0.2967964 l "distance"
+2 1 0.2967889 l "distance"
+1 3 0.2556904 l "distance"
+3 1 0.1434164 l "distance"
+2 3 0.2556828 l "distance"
+3 2 0.1434157 l "distance"
+1 2 0.2967964 l "distance"
+2 1 0.2967889 l "distance"
+1 3 0.2556904 l "distance"
+3 1 0.1434164 l "distance"
+2 3 0.2556828 l "distance"
+3 2 0.1434157 l "distance"
+*Edges

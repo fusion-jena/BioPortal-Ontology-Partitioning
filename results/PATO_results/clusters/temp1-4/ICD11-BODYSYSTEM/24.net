@@ -1,0 +1,51 @@
+*Vertices 8
+1 "anatomical structure" ellipse
+2 "zona pellucida" ellipse
+3 "acellular anatomical structure" ellipse
+4 "integumental system" ellipse
+5 "acellular membrane" ellipse
+6 "basement membrane of epithelium" ellipse
+7 "collection of collagen fibrils" ellipse
+8 "bounding layer of"
+*Arcs
+2 3 1.0000000 l "isa"
+3 2 0.1928934 l "isa"
+3 1 0.2994924 l "isa"
+1 3 0.1353951 l "isa"
+5 3 0.2642091 l "isa"
+3 5 0.3147208 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1598039 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.1928934 l "isa"
+4 8 0.1260911 l "definition"
+8 4 0.5000000 l "definition"
+5 8 0.1342353 l "definition"
+8 5 0.5000000 l "definition"
+5 1 0.1118627 l "definition"
+1 5 0.0602393 l "definition"
+5 3 0.2642091 l "definition"
+3 5 0.3147208 l "definition"
+1 3 0.1353951 l "substring"
+3 1 0.2994924 l "substring"
+2 3 1.0000000 l "isa"
+3 2 0.1928934 l "isa"
+3 1 0.2994924 l "isa"
+1 3 0.1353951 l "isa"
+5 3 0.2642091 l "isa"
+3 5 0.3147208 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1598039 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.1928934 l "isa"
+4 8 0.1260911 l "definition"
+8 4 0.5000000 l "definition"
+5 8 0.1342353 l "definition"
+8 5 0.5000000 l "definition"
+5 1 0.1118627 l "definition"
+1 5 0.0602393 l "definition"
+5 3 0.2642091 l "definition"
+3 5 0.3147208 l "definition"
+1 3 0.1353951 l "substring"
+3 1 0.2994924 l "substring"
+*Edges

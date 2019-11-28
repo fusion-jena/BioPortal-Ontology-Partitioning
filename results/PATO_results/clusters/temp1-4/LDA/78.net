@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Dartmoor" ellipse
+2 "Dartmoor Pony" ellipse
+*Arcs
+1 2 0.3615293 l "substring"
+2 1 0.5308210 l "substring"
+1 2 0.3615293 l "substring"
+2 1 0.5308210 l "substring"
+*Edges

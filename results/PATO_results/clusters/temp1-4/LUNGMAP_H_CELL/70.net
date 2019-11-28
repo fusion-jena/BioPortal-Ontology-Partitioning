@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Romagnola" ellipse
+2 "Mora Romagnola" ellipse
+*Arcs
+1 2 0.4107633 l "substring"
+2 1 0.5909241 l "substring"
+1 2 0.4107633 l "substring"
+2 1 0.5909241 l "substring"
+1 2 0.4107633 l "substring"
+2 1 0.5909241 l "substring"
+1 2 0.4107633 l "substring"
+2 1 0.5909241 l "substring"
+*Edges

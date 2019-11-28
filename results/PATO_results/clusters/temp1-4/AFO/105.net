@@ -1,0 +1,9 @@
+*Vertices 2
+1 "end" ellipse
+2 "gender" ellipse
+*Arcs
+1 2 0.0425532 l "substring"
+2 1 0.3333333 l "substring"
+1 2 0.0425532 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "fenoprofen" ellipse
+2 "ketoprofen" ellipse
+*Arcs
+1 2 0.2127833 l "distance"
+2 1 0.2127833 l "distance"
+1 2 0.2127833 l "distance"
+2 1 0.2127833 l "distance"
+*Edges

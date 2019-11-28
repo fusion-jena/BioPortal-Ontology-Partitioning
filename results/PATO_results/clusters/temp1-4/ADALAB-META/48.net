@@ -1,0 +1,58 @@
+*Vertices 7
+1 "Belief System" ellipse
+2 "Religion" ellipse
+3 "Social Circumstances" ellipse
+4 "Religion" ellipse
+5 "Economic and housing issues" ellipse
+6 "Housing circumstances" ellipse
+7 "Social circumstances" ellipse
+*Arcs
+1 3 0.5070762 l "isa"
+3 1 0.2095128 l "isa"
+2 1 0.1754121 l "isa"
+1 2 0.4929239 l "isa"
+5 7 0.3794311 l "isa"
+7 5 0.2403757 l "isa"
+6 5 0.1100477 l "isa"
+5 6 0.3379243 l "isa"
+2 4 0.4028100 l "substring"
+4 2 0.6007749 l "substring"
+3 7 0.4986745 l "substring"
+7 3 0.5990300 l "substring"
+2 4 0.4028100 l "distance"
+4 2 0.6007749 l "distance"
+3 7 0.4986745 l "distance"
+7 3 0.5990300 l "distance"
+1 3 0.5070762 l "isa"
+3 1 0.2095128 l "isa"
+2 1 0.1754121 l "isa"
+1 2 0.4929239 l "isa"
+5 7 0.3794311 l "isa"
+7 5 0.2403757 l "isa"
+6 5 0.1100477 l "isa"
+5 6 0.3379243 l "isa"
+2 4 0.4028100 l "substring"
+4 2 0.6007749 l "substring"
+3 7 0.4986745 l "substring"
+7 3 0.5990300 l "substring"
+2 4 0.4028100 l "distance"
+4 2 0.6007749 l "distance"
+3 7 0.4986745 l "distance"
+7 3 0.5990300 l "distance"
+1 3 0.5070762 l "isa"
+3 1 0.2095128 l "isa"
+2 1 0.1754121 l "isa"
+1 2 0.4929239 l "isa"
+5 7 0.3794311 l "isa"
+7 5 0.2403757 l "isa"
+6 5 0.1100477 l "isa"
+5 6 0.3379243 l "isa"
+2 4 0.4028100 l "substring"
+4 2 0.6007749 l "substring"
+3 7 0.4986745 l "substring"
+7 3 0.5990300 l "substring"
+2 4 0.4028100 l "distance"
+4 2 0.6007749 l "distance"
+3 7 0.4986745 l "distance"
+7 3 0.5990300 l "distance"
+*Edges

@@ -1,0 +1,36 @@
+*Vertices 3
+1 "CDK10" ellipse
+2 "FZD10" ellipse
+3 "NEK10" ellipse
+*Arcs
+1 2 0.0468408 l "distance"
+2 1 0.3393322 l "distance"
+1 3 0.0300091 l "distance"
+3 1 0.0337974 l "distance"
+2 3 0.3423452 l "distance"
+3 2 0.0532222 l "distance"
+1 2 0.0468408 l "distance"
+2 1 0.3393322 l "distance"
+1 3 0.0300091 l "distance"
+3 1 0.0337974 l "distance"
+2 3 0.3423452 l "distance"
+3 2 0.0532222 l "distance"
+1 2 0.0468408 l "distance"
+2 1 0.3393322 l "distance"
+1 3 0.0300091 l "distance"
+3 1 0.0337974 l "distance"
+2 3 0.3423452 l "distance"
+3 2 0.0532222 l "distance"
+1 2 0.0468408 l "distance"
+2 1 0.3393322 l "distance"
+1 3 0.0300091 l "distance"
+3 1 0.0337974 l "distance"
+2 3 0.3423452 l "distance"
+3 2 0.0532222 l "distance"
+1 2 0.0468408 l "distance"
+2 1 0.3393322 l "distance"
+1 3 0.0300091 l "distance"
+3 1 0.0337974 l "distance"
+2 3 0.3423452 l "distance"
+3 2 0.0532222 l "distance"
+*Edges

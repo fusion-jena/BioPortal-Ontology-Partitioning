@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Avital" ellipse
+2 "Vital" ellipse
+3 "VitalityLevel" ellipse
+*Arcs
+1 3 0.2968750 l "isa"
+3 1 0.2034785 l "isa"
+2 3 0.3455197 l "isa"
+3 2 0.4390853 l "isa"
+1 2 0.7031249 l "substring"
+2 1 0.3792289 l "substring"
+2 3 0.3455197 l "substring"
+3 2 0.4390853 l "substring"
+1 2 0.7031249 l "distance"
+2 1 0.3792289 l "distance"
+1 3 0.2968750 l "isa"
+3 1 0.2034785 l "isa"
+2 3 0.3455197 l "isa"
+3 2 0.4390853 l "isa"
+1 2 0.7031249 l "substring"
+2 1 0.3792289 l "substring"
+2 3 0.3455197 l "substring"
+3 2 0.4390853 l "substring"
+1 2 0.7031249 l "distance"
+2 1 0.3792289 l "distance"
+*Edges

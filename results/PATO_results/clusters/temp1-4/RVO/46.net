@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Anakinra" ellipse
+2 "Kineret" ellipse
+3 "interleukin-1 receptor antagonist" ellipse
+*Arcs
+1 3 0.3368500 l "isa"
+3 1 0.2840829 l "isa"
+2 1 0.5256484 l "isa"
+1 2 0.4351007 l "isa"
+2 3 0.4743517 l "isa"
+3 2 0.3311337 l "isa"
+1 3 0.3368500 l "isa"
+3 1 0.2840829 l "isa"
+2 1 0.5256484 l "isa"
+1 2 0.4351007 l "isa"
+2 3 0.4743517 l "isa"
+3 2 0.3311337 l "isa"
+1 3 0.3368500 l "isa"
+3 1 0.2840829 l "isa"
+2 1 0.5256484 l "isa"
+1 2 0.4351007 l "isa"
+2 3 0.4743517 l "isa"
+3 2 0.3311337 l "isa"
+1 3 0.3368500 l "isa"
+3 1 0.2840829 l "isa"
+2 1 0.5256484 l "isa"
+1 2 0.4351007 l "isa"
+2 3 0.4743517 l "isa"
+3 2 0.3311337 l "isa"
+1 3 0.3368500 l "isa"
+3 1 0.2840829 l "isa"
+2 1 0.5256484 l "isa"
+1 2 0.4351007 l "isa"
+2 3 0.4743517 l "isa"
+3 2 0.3311337 l "isa"
+*Edges

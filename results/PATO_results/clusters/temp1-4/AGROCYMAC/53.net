@@ -1,0 +1,11 @@
+*Vertices 2
+1 "image analysis" ellipse
+2 "image" ellipse
+*Arcs
+1 2 0.2718519 l "substring"
+2 1 0.0421148 l "substring"
+1 2 0.2718519 l "substring"
+2 1 0.0421148 l "substring"
+1 2 0.2718519 l "substring"
+2 1 0.0421148 l "substring"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "peripheral layer cell" ellipse
+2 "cell" ellipse
+3 "sentinel cell" ellipse
+*Arcs
+1 2 0.1600466 l "isa"
+2 1 0.0609264 l "isa"
+3 2 0.3041065 l "isa"
+2 3 0.0645574 l "isa"
+1 2 0.1600466 l "substring"
+2 1 0.0609264 l "substring"
+2 3 0.0645574 l "substring"
+3 2 0.3041065 l "substring"
+1 2 0.1600466 l "isa"
+2 1 0.0609264 l "isa"
+3 2 0.3041065 l "isa"
+2 3 0.0645574 l "isa"
+1 2 0.1600466 l "substring"
+2 1 0.0609264 l "substring"
+2 3 0.0645574 l "substring"
+3 2 0.3041065 l "substring"
+*Edges

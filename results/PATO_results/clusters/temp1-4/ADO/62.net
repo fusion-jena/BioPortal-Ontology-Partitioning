@@ -1,0 +1,12 @@
+*Vertices 3
+1 "De-myelination" ellipse
+2 "Myelinisation" ellipse
+3 "Re-myelination" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.3333333 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.3333333 l "isa"
+1 3 0.5000000 l "distance"
+3 1 0.5000000 l "distance"
+*Edges

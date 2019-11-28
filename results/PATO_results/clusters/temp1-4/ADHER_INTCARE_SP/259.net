@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Adriamycin" ellipse
+2 "hasSameMainActiveIngrediantAs"
+*Arcs
+1 2 0.2251081 l "definition"
+2 1 0.1947820 l "definition"
+1 2 0.2251081 l "definition"
+2 1 0.1947820 l "definition"
+1 2 0.2251081 l "definition"
+2 1 0.1947820 l "definition"
+1 2 0.2251081 l "definition"
+2 1 0.1947820 l "definition"
+1 2 0.2251081 l "definition"
+2 1 0.1947820 l "definition"
+1 2 0.2251081 l "definition"
+2 1 0.1947820 l "definition"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 3
+1 "lower glume" ellipse
+2 "upper glume" ellipse
+3 "glume" ellipse
+*Arcs
+1 3 0.3474032 l "isa"
+3 1 0.1307366 l "isa"
+2 3 0.3477454 l "isa"
+3 2 0.1307366 l "isa"
+1 3 0.3474032 l "substring"
+3 1 0.1307366 l "substring"
+2 3 0.3477454 l "substring"
+3 2 0.1307366 l "substring"
+1 2 0.1653639 l "distance"
+2 1 0.1655268 l "distance"
+1 3 0.3474032 l "isa"
+3 1 0.1307366 l "isa"
+2 3 0.3477454 l "isa"
+3 2 0.1307366 l "isa"
+1 3 0.3474032 l "substring"
+3 1 0.1307366 l "substring"
+2 3 0.3477454 l "substring"
+3 2 0.1307366 l "substring"
+1 2 0.1653639 l "distance"
+2 1 0.1655268 l "distance"
+*Edges

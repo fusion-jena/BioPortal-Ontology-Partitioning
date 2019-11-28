@@ -1,0 +1,17 @@
+*Vertices 2
+1 "HemiHypertrophy" ellipse
+2 "HemiHypertrophyProcess" ellipse
+*Arcs
+1 2 0.2548598 l "substring"
+2 1 0.2013809 l "substring"
+1 2 0.2548598 l "substring"
+2 1 0.2013809 l "substring"
+1 2 0.2548598 l "substring"
+2 1 0.2013809 l "substring"
+1 2 0.2548598 l "substring"
+2 1 0.2013809 l "substring"
+1 2 0.2548598 l "substring"
+2 1 0.2013809 l "substring"
+1 2 0.2548598 l "substring"
+2 1 0.2013809 l "substring"
+*Edges

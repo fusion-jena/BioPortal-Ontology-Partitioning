@@ -1,0 +1,22 @@
+*Vertices 5
+1 "CRISPRCassette" ellipse
+2 "ProteinFeature" ellipse
+3 "Region" ellipse
+4 "TransMembraneRegion" ellipse
+5 "region"
+*Arcs
+4 2 0.3333333 l "isa"
+2 4 0.0434783 l "isa"
+1 3 0.2857143 l "spacer"
+3 1 0.0333333 l "spacer"
+1 3 0.2857143 l "definition"
+3 1 0.0333333 l "definition"
+3 4 0.0166667 l "substring"
+4 3 0.3333333 l "substring"
+3 5 0.0333333 l "substring"
+5 3 0.0689655 l "substring"
+4 5 0.3333333 l "substring"
+5 4 0.0344828 l "substring"
+3 5 0.0333333 l "distance"
+5 3 0.0689655 l "distance"
+*Edges

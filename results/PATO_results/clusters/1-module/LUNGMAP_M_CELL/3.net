@@ -1,0 +1,136 @@
+*Vertices 35
+1 "B Lymphocyte" ellipse
+2 "basal cell" ellipse
+3 "basophil" ellipse
+4 "connective tissue cell" ellipse
+5 "dendritic cell" ellipse
+6 "eosinophil" ellipse
+7 "granulocyte" ellipse
+8 "immune cell" ellipse
+9 "lymphocyte" ellipse
+10 "mast cell" ellipse
+11 "monocyte" ellipse
+12 "myeloid cell" ellipse
+13 "natural killer cell" ellipse
+14 "neutrophil" ellipse
+15 "glial cell" ellipse
+16 "T Lymphocyte" ellipse
+17 "telocyte" ellipse
+18 "subendothelial connective tissue cell" ellipse
+19 "nuocyte" ellipse
+20 "fetal monocyte" ellipse
+21 "autonomic neuron" ellipse
+22 "cell type" ellipse
+23 "megakaryocyte" ellipse
+24 "lymphoid cell" ellipse
+25 "erythroid cell" ellipse
+26 "erythrocyte" ellipse
+27 "innate lymphoid cell" ellipse
+28 "platelet" ellipse
+29 "proliferative cell" ellipse
+30 "Langerhans cell" ellipse
+31 "plasma cell" ellipse
+32 "reticular cell" ellipse
+33 "blood cell" ellipse
+34 "peripheral blood lymphocytes" ellipse
+35 "Cell Ontology for Mouse Lung Maturation" ellipse
+*Arcs
+1 9 0.6000000 l "isa"
+9 1 0.3333333 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.2500000 l "isa"
+4 22 0.2000000 l "isa"
+22 4 0.0769231 l "isa"
+5 8 0.5000000 l "isa"
+8 5 0.2500000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.2500000 l "isa"
+7 12 0.2500000 l "isa"
+12 7 0.1666667 l "isa"
+8 22 0.2500000 l "isa"
+22 8 0.0769231 l "isa"
+9 24 0.1111111 l "isa"
+24 9 0.2500000 l "isa"
+10 12 0.5000000 l "isa"
+12 10 0.1666667 l "isa"
+11 12 0.2000000 l "isa"
+12 11 0.1666667 l "isa"
+12 8 0.1666667 l "isa"
+8 12 0.2500000 l "isa"
+13 27 1.0000000 l "isa"
+27 13 0.2500000 l "isa"
+14 7 1.0000000 l "isa"
+7 14 0.2500000 l "isa"
+15 22 0.5000000 l "isa"
+22 15 0.0769231 l "isa"
+16 9 0.7500000 l "isa"
+9 16 0.3333333 l "isa"
+17 4 0.1428571 l "isa"
+4 17 0.2000000 l "isa"
+17 18 0.1428571 l "isa"
+18 17 0.3333333 l "isa"
+18 22 0.3333333 l "isa"
+22 18 0.0769231 l "isa"
+19 27 0.3333333 l "isa"
+27 19 0.2500000 l "isa"
+20 11 1.0000000 l "isa"
+11 20 0.4000000 l "isa"
+21 22 1.0000000 l "isa"
+22 21 0.0769231 l "isa"
+22 35 0.0769231 l "isa"
+35 22 1.0000000 l "isa"
+23 12 0.5000000 l "isa"
+12 23 0.1666667 l "isa"
+24 8 0.2500000 l "isa"
+8 24 0.2500000 l "isa"
+25 33 0.5000000 l "isa"
+33 25 0.3333333 l "isa"
+26 25 1.0000000 l "isa"
+25 26 0.5000000 l "isa"
+27 24 0.5000000 l "isa"
+24 27 0.5000000 l "isa"
+28 23 1.0000000 l "isa"
+23 28 0.5000000 l "isa"
+29 22 1.0000000 l "isa"
+22 29 0.0769231 l "isa"
+30 5 1.0000000 l "isa"
+5 30 0.5000000 l "isa"
+31 1 1.0000000 l "isa"
+1 31 0.2000000 l "isa"
+32 4 1.0000000 l "isa"
+4 32 0.2000000 l "isa"
+33 22 0.3333333 l "isa"
+22 33 0.0769231 l "isa"
+34 9 0.6666667 l "isa"
+9 34 0.2222222 l "isa"
+34 33 0.3333333 l "isa"
+33 34 0.3333333 l "isa"
+1 9 0.6000000 l "substring"
+9 1 0.3333333 l "substring"
+4 18 0.2000000 l "substring"
+18 4 0.3333333 l "substring"
+9 16 0.3333333 l "substring"
+16 9 0.7500000 l "substring"
+9 34 0.2222222 l "substring"
+34 9 0.6666667 l "substring"
+11 20 0.4000000 l "substring"
+20 11 1.0000000 l "substring"
+24 27 0.5000000 l "substring"
+27 24 0.5000000 l "substring"
+1 9 0.6000000 l "distance"
+9 1 0.3333333 l "distance"
+1 16 0.2000000 l "distance"
+16 1 0.2500000 l "distance"
+2 10 0.2000000 l "distance"
+10 2 0.5000000 l "distance"
+2 15 0.2000000 l "distance"
+15 2 0.5000000 l "distance"
+9 16 0.3333333 l "distance"
+16 9 0.7500000 l "distance"
+11 17 0.2000000 l "distance"
+17 11 0.1428571 l "distance"
+11 19 0.2000000 l "distance"
+19 11 0.3333333 l "distance"
+17 19 0.1428571 l "distance"
+19 17 0.3333333 l "distance"
+*Edges

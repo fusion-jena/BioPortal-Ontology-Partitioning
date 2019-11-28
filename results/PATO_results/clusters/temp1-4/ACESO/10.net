@@ -1,0 +1,15 @@
+*Vertices 4
+1 "Inadequate housing" ellipse
+2 "Multiple occupancy" ellipse
+3 "Lives in hotel" ellipse
+4 "Housing ownership and tenure - finding" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1666667 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.2000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1666667 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.2000000 l "isa"
+*Edges

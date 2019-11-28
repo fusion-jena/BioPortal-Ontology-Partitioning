@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Assessment" ellipse
+2 "InjuryAssessment" ellipse
+3 "RiskAssessment" ellipse
+*Arcs
+2 1 0.7240359 l "isa"
+1 2 0.4238352 l "isa"
+3 1 0.7240359 l "isa"
+1 3 0.4238352 l "isa"
+1 2 0.4238352 l "substring"
+2 1 0.7240359 l "substring"
+1 3 0.4238352 l "substring"
+3 1 0.7240359 l "substring"
+2 1 0.7240359 l "isa"
+1 2 0.4238352 l "isa"
+3 1 0.7240359 l "isa"
+1 3 0.4238352 l "isa"
+1 2 0.4238352 l "substring"
+2 1 0.7240359 l "substring"
+1 3 0.4238352 l "substring"
+3 1 0.7240359 l "substring"
+*Edges

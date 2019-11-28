@@ -1,0 +1,32 @@
+*Vertices 5
+1 "DiseaseMilestoneEvent" ellipse
+2 "Disposition" ellipse
+3 "Function" ellipse
+4 "RealizableEntity" ellipse
+5 "Disease" ellipse
+*Arcs
+2 4 0.5197868 l "isa"
+4 2 0.3254451 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4220085 l "isa"
+5 2 0.2177138 l "isa"
+2 5 0.4802132 l "isa"
+1 5 1.0000000 l "substring"
+5 1 0.2883376 l "substring"
+2 4 0.5197868 l "isa"
+4 2 0.3254451 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4220085 l "isa"
+5 2 0.2177138 l "isa"
+2 5 0.4802132 l "isa"
+1 5 1.0000000 l "substring"
+5 1 0.2883376 l "substring"
+2 4 0.5197868 l "isa"
+4 2 0.3254451 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.4220085 l "isa"
+5 2 0.2177138 l "isa"
+2 5 0.4802132 l "isa"
+1 5 1.0000000 l "substring"
+5 1 0.2883376 l "substring"
+*Edges

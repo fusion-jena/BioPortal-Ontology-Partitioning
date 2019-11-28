@@ -1,0 +1,31 @@
+*Vertices 4
+1 "ICW-1:01.05.05.03 Mahjong" ellipse
+2 "ICW-1:01.05.05 Group Game" ellipse
+3 "ICW-1:01.05.05.01 Group Game - NOS" ellipse
+4 "ICW-1:01.05.05.02 Bingo" ellipse
+*Arcs
+1 2 0.7447883 l "isa"
+2 1 0.2609986 l "isa"
+3 2 0.7447883 l "isa"
+2 3 0.2609986 l "isa"
+4 2 0.5933567 l "isa"
+2 4 0.2609986 l "isa"
+1 2 0.7447883 l "isa"
+2 1 0.2609986 l "isa"
+3 2 0.7447883 l "isa"
+2 3 0.2609986 l "isa"
+4 2 0.5933567 l "isa"
+2 4 0.2609986 l "isa"
+1 2 0.7447883 l "isa"
+2 1 0.2609986 l "isa"
+3 2 0.7447883 l "isa"
+2 3 0.2609986 l "isa"
+4 2 0.5933567 l "isa"
+2 4 0.2609986 l "isa"
+1 2 0.7447883 l "isa"
+2 1 0.2609986 l "isa"
+3 2 0.7447883 l "isa"
+2 3 0.2609986 l "isa"
+4 2 0.5933567 l "isa"
+2 4 0.2609986 l "isa"
+*Edges

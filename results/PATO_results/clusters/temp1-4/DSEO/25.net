@@ -1,0 +1,46 @@
+*Vertices 7
+1 "Interaction" ellipse
+2 "Hyperthermia" ellipse
+3 "Hypothermia" ellipse
+4 "Infection" ellipse
+5 "Infection_Risk" ellipse
+6 "Physical_Regulation" ellipse
+7 "Physical_Regulation_Alteration" ellipse
+*Arcs
+2 6 0.1465521 l "isa"
+6 2 0.0641923 l "isa"
+3 6 0.1465521 l "isa"
+6 3 0.0641923 l "isa"
+4 6 0.1445181 l "isa"
+6 4 0.0635079 l "isa"
+5 6 0.1283286 l "isa"
+6 5 0.0635079 l "isa"
+7 6 0.2755091 l "isa"
+6 7 0.1390604 l "isa"
+4 5 0.1495015 l "substring"
+5 4 0.1327537 l "substring"
+6 7 0.1390604 l "substring"
+7 6 0.2755091 l "substring"
+1 4 0.0736070 l "distance"
+4 1 0.1449677 l "distance"
+2 3 0.1531142 l "distance"
+3 2 0.1531142 l "distance"
+2 6 0.1465521 l "isa"
+6 2 0.0641923 l "isa"
+3 6 0.1465521 l "isa"
+6 3 0.0641923 l "isa"
+4 6 0.1445181 l "isa"
+6 4 0.0635079 l "isa"
+5 6 0.1283286 l "isa"
+6 5 0.0635079 l "isa"
+7 6 0.2755091 l "isa"
+6 7 0.1390604 l "isa"
+4 5 0.1495015 l "substring"
+5 4 0.1327537 l "substring"
+6 7 0.1390604 l "substring"
+7 6 0.2755091 l "substring"
+1 4 0.0736070 l "distance"
+4 1 0.1449677 l "distance"
+2 3 0.1531142 l "distance"
+3 2 0.1531142 l "distance"
+*Edges

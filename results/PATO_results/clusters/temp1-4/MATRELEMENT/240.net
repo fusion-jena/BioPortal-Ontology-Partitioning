@@ -1,0 +1,19 @@
+*Vertices 2
+1 "right lower lobe bronchiole" ellipse
+2 "right upper lobe bronchiole" ellipse
+*Arcs
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+1 2 0.1459593 l "distance"
+2 1 0.1459417 l "distance"
+*Edges

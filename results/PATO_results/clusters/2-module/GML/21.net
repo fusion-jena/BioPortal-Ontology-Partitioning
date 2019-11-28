@@ -1,0 +1,20 @@
+*Vertices 5
+1 "TimeIndeterminateVlue" ellipse
+2 "TimeIndeterminateVlue" ellipse
+3 "now"
+4 "before"
+5 "unknown"
+*Arcs
+2 3 0.1111111 l "definition"
+3 2 0.0416667 l "definition"
+2 4 0.1111111 l "definition"
+4 2 1.0000000 l "definition"
+2 5 0.1111111 l "definition"
+5 2 0.5000000 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.2222222 l "substring"
+3 5 0.0416667 l "substring"
+5 3 0.5000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.2222222 l "distance"
+*Edges

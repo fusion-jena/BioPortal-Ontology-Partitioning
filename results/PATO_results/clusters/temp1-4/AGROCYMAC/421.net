@@ -1,0 +1,22 @@
+*Vertices 3
+1 "inorganic phosphate" ellipse
+2 "phosphate" ellipse
+3 "diammonium hydrogen phosphate" ellipse
+*Arcs
+1 2 0.3098222 l "isa"
+2 1 0.1860540 l "isa"
+3 1 0.1488224 l "isa"
+1 3 0.1443832 l "isa"
+1 2 0.3098222 l "substring"
+2 1 0.1860540 l "substring"
+2 3 0.0844468 l "substring"
+3 2 0.1449468 l "substring"
+1 2 0.3098222 l "isa"
+2 1 0.1860540 l "isa"
+3 1 0.1488224 l "isa"
+1 3 0.1443832 l "isa"
+1 2 0.3098222 l "substring"
+2 1 0.1860540 l "substring"
+2 3 0.0844468 l "substring"
+3 2 0.1449468 l "substring"
+*Edges

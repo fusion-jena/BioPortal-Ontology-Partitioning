@@ -1,0 +1,19 @@
+*Vertices 2
+1 "alveolar capillary endothelium" ellipse
+2 "pericyte" ellipse
+*Arcs
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+2 1 0.1602740 l "definition"
+1 2 0.1756824 l "definition"
+*Edges

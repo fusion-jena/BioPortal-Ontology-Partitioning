@@ -1,0 +1,9 @@
+*Vertices 2
+1 "sample" ellipse
+2 "sample_characterization" ellipse
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.1818182 l "definition"
+1 2 0.1818182 l "substring"
+2 1 0.4000000 l "substring"
+*Edges

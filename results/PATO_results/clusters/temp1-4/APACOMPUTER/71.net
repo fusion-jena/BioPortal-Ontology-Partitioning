@@ -1,0 +1,15 @@
+*Vertices 2
+1 "GIBLD" ellipse
+2 "JWCLD" ellipse
+*Arcs
+1 2 0.0697385 l "distance"
+2 1 0.0539007 l "distance"
+1 2 0.0697385 l "distance"
+2 1 0.0539007 l "distance"
+1 2 0.0697385 l "distance"
+2 1 0.0539007 l "distance"
+1 2 0.0697385 l "distance"
+2 1 0.0539007 l "distance"
+1 2 0.0697385 l "distance"
+2 1 0.0539007 l "distance"
+*Edges

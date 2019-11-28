@@ -1,0 +1,70 @@
+*Vertices 17
+1 "KPI" ellipse
+2 "Quality" ellipse
+3 "nil"
+4 "Class"
+5 "interdependent_role_name"
+6 "ACAT" ellipse
+7 "Hospital" ellipse
+8 "Nurses_Dependent_Role" ellipse
+9 "Nurses_Independent_Role" ellipse
+10 "Nurses_interdependent_Role" ellipse
+11 "Budget" ellipse
+12 "Falls" ellipse
+13 "Full_time_Equivalent" ellipse
+14 "Nurse_Administrator" ellipse
+15 "Nurses" ellipse
+16 "Recruitment" ellipse
+17 "Rosters" ellipse
+*Arcs
+6 7 0.3333333 l "isa"
+7 6 0.3333333 l "isa"
+11 9 0.2222222 l "isa"
+9 11 0.1333333 l "isa"
+13 9 0.3333333 l "isa"
+9 13 0.0666667 l "isa"
+1 9 0.1666667 l "isa"
+9 1 0.0666667 l "isa"
+16 9 0.2500000 l "isa"
+9 16 0.0666667 l "isa"
+17 9 0.3333333 l "isa"
+9 17 0.0666667 l "isa"
+11 17 0.1111111 l "affects"
+17 11 0.3333333 l "affects"
+11 13 0.1111111 l "determines"
+13 11 0.3333333 l "determines"
+11 1 0.1111111 l "determines"
+1 11 0.1666667 l "determines"
+11 16 0.1111111 l "determines"
+16 11 0.2500000 l "determines"
+14 8 0.3333333 l "hasARole"
+8 14 0.2500000 l "hasARole"
+14 9 0.3333333 l "hasARole"
+9 14 0.0666667 l "hasARole"
+14 10 0.3333333 l "hasARole"
+10 14 0.1666667 l "hasARole"
+16 13 0.2500000 l "isDeterminedBy"
+13 16 0.3333333 l "isDeterminedBy"
+9 11 0.1333333 l "manages"
+11 9 0.2222222 l "manages"
+16 1 0.2500000 l "toMeet"
+1 16 0.1666667 l "toMeet"
+5 3 0.1666667 l "definition"
+3 5 0.2500000 l "definition"
+5 10 0.1666667 l "definition"
+10 5 0.1666667 l "definition"
+5 4 0.1666667 l "definition"
+4 5 0.2500000 l "definition"
+8 15 0.2500000 l "substring"
+15 8 0.3333333 l "substring"
+9 15 0.0666667 l "substring"
+15 9 0.3333333 l "substring"
+10 15 0.1666667 l "substring"
+15 10 0.3333333 l "substring"
+8 9 0.2500000 l "distance"
+9 8 0.0666667 l "distance"
+9 10 0.0666667 l "distance"
+10 9 0.1666667 l "distance"
+1 3 0.1666667 l "distance"
+3 1 0.2500000 l "distance"
+*Edges

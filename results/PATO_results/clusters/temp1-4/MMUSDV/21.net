@@ -1,0 +1,22 @@
+*Vertices 3
+1 "EMP Status" ellipse
+2 "EMP" ellipse
+3 "EMP compatible" ellipse
+*Arcs
+2 1 0.0638840 l "isa"
+1 2 0.2296399 l "isa"
+3 1 0.2582272 l "isa"
+1 3 0.1188502 l "isa"
+1 2 0.2296399 l "substring"
+2 1 0.0638840 l "substring"
+2 3 0.0319191 l "substring"
+3 2 0.2492920 l "substring"
+2 1 0.0638840 l "isa"
+1 2 0.2296399 l "isa"
+3 1 0.2582272 l "isa"
+1 3 0.1188502 l "isa"
+1 2 0.2296399 l "substring"
+2 1 0.0638840 l "substring"
+2 3 0.0319191 l "substring"
+3 2 0.2492920 l "substring"
+*Edges

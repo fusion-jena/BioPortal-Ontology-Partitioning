@@ -1,0 +1,22 @@
+*Vertices 3
+1 "AmbiguousGender" ellipse
+2 "Gender" ellipse
+3 "hasGender"
+*Arcs
+1 2 0.7105871 l "isa"
+2 1 0.2409530 l "isa"
+1 2 0.7105871 l "substring"
+2 1 0.2409530 l "substring"
+2 3 0.2129352 l "substring"
+3 2 0.3660220 l "substring"
+2 3 0.2129352 l "distance"
+3 2 0.3660220 l "distance"
+1 2 0.7105871 l "isa"
+2 1 0.2409530 l "isa"
+1 2 0.7105871 l "substring"
+2 1 0.2409530 l "substring"
+2 3 0.2129352 l "substring"
+3 2 0.3660220 l "substring"
+2 3 0.2129352 l "distance"
+3 2 0.3660220 l "distance"
+*Edges

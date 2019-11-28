@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Discovery_Teaching_Method" ellipse
+2 "Initial_Teaching_Alphabet" ellipse
+3 "Teaching" ellipse
+4 "Team_Teaching_Method" ellipse
+*Arcs
+1 3 0.5067308 l "substring"
+3 1 0.0931943 l "substring"
+2 3 0.5067308 l "substring"
+3 2 0.0931943 l "substring"
+3 4 0.0931943 l "substring"
+4 3 0.5067308 l "substring"
+1 3 0.5067308 l "substring"
+3 1 0.0931943 l "substring"
+2 3 0.5067308 l "substring"
+3 2 0.0931943 l "substring"
+3 4 0.0931943 l "substring"
+4 3 0.5067308 l "substring"
+*Edges

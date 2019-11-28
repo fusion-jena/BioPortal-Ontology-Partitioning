@@ -1,0 +1,83 @@
+*Vertices 20
+1 "OrganoArteriaMuscular" ellipse
+2 "OrganoCorazon" ellipse
+3 "OrganoVenaGranCalibre" ellipse
+4 "Tunica" ellipse
+5 "TunicaCorazónMiocardio" ellipse
+6 "TunicaCorazónPericardio" ellipse
+7 "TunicaVasosSanguineosIntima" ellipse
+8 "TunicaVasosSanguineosMedia" ellipse
+9 "Estructura" ellipse
+10 "EstructuraFibraColagena" ellipse
+11 "EstructuraFibraElastica" ellipse
+12 "EstructuraLaminaElasticaExterna" ellipse
+13 "EstructuraLaminaElasticaInterna" ellipse
+14 "EstructuraSenoCoronario" ellipse
+15 "Tejido" ellipse
+16 "TejidoEpitelialPlanoSimple" ellipse
+17 "TejidoMuscularEstriadoCardiaco" ellipse
+18 "TejidoMuscularLiso" ellipse
+19 "has Structure"
+20 "es Componente de"
+*Arcs
+4 15 0.2222222 l "es Componente de"
+15 4 0.4000000 l "es Componente de"
+15 4 0.4000000 l "esta Compuesto por"
+4 15 0.2222222 l "esta Compuesto por"
+1 19 0.1250000 l "definition"
+19 1 0.3333333 l "definition"
+1 11 0.1250000 l "definition"
+11 1 0.3333333 l "definition"
+1 12 0.1250000 l "definition"
+12 1 0.3333333 l "definition"
+1 13 0.1250000 l "definition"
+13 1 0.2500000 l "definition"
+2 19 0.1666667 l "definition"
+19 2 0.3333333 l "definition"
+2 14 0.1666667 l "definition"
+14 2 0.5000000 l "definition"
+3 19 0.2000000 l "definition"
+19 3 0.3333333 l "definition"
+5 17 0.2500000 l "definition"
+17 5 0.5000000 l "definition"
+6 16 0.2000000 l "definition"
+16 6 0.3333333 l "definition"
+7 13 0.1428571 l "definition"
+13 7 0.2500000 l "definition"
+7 20 0.1428571 l "definition"
+20 7 1.0000000 l "definition"
+7 16 0.1428571 l "definition"
+16 7 0.3333333 l "definition"
+8 10 0.1666667 l "definition"
+10 8 0.5000000 l "definition"
+8 11 0.1666667 l "definition"
+11 8 0.3333333 l "definition"
+8 18 0.1666667 l "definition"
+18 8 0.5000000 l "definition"
+4 5 0.1111111 l "substring"
+5 4 0.2500000 l "substring"
+4 6 0.1111111 l "substring"
+6 4 0.2000000 l "substring"
+4 7 0.1111111 l "substring"
+7 4 0.1428571 l "substring"
+4 8 0.1111111 l "substring"
+8 4 0.1666667 l "substring"
+9 10 0.1111111 l "substring"
+10 9 0.5000000 l "substring"
+9 11 0.1111111 l "substring"
+11 9 0.3333333 l "substring"
+9 12 0.1111111 l "substring"
+12 9 0.3333333 l "substring"
+9 13 0.1111111 l "substring"
+13 9 0.2500000 l "substring"
+9 14 0.1111111 l "substring"
+14 9 0.5000000 l "substring"
+15 16 0.2000000 l "substring"
+16 15 0.3333333 l "substring"
+15 17 0.2000000 l "substring"
+17 15 0.5000000 l "substring"
+15 18 0.2000000 l "substring"
+18 15 0.5000000 l "substring"
+12 13 0.3333333 l "distance"
+13 12 0.2500000 l "distance"
+*Edges

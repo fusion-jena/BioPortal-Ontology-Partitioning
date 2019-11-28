@@ -1,0 +1,27 @@
+*Vertices 4
+1 "MethaneClathrate" ellipse
+2 "MethaneHydrate" ellipse
+3 "MethaneIce" ellipse
+4 "Methane"
+*Arcs
+1 4 0.2737013 l "definition"
+4 1 0.3100000 l "definition"
+1 4 0.2737013 l "substring"
+4 1 0.3100000 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.1900000 l "substring"
+3 4 0.7176723 l "substring"
+4 3 0.3600000 l "substring"
+3 4 0.7176723 l "distance"
+4 3 0.3600000 l "distance"
+1 4 0.2737013 l "definition"
+4 1 0.3100000 l "definition"
+1 4 0.2737013 l "substring"
+4 1 0.3100000 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.1900000 l "substring"
+3 4 0.7176723 l "substring"
+4 3 0.3600000 l "substring"
+3 4 0.7176723 l "distance"
+4 3 0.3600000 l "distance"
+*Edges

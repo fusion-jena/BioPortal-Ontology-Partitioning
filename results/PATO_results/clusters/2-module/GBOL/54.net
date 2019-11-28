@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Image" ellipse
+2 "Map" ellipse
+*Arcs
+2 1 0.0540541 l "isa"
+1 2 0.1176471 l "isa"
+1 2 0.1176471 l "distance"
+2 1 0.0540541 l "distance"
+*Edges

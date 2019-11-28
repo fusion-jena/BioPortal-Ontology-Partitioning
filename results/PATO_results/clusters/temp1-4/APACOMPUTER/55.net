@@ -1,0 +1,25 @@
+*Vertices 2
+1 "GT" ellipse
+2 "GTENP" ellipse
+*Arcs
+1 2 0.0204130 l "substring"
+2 1 0.0888333 l "substring"
+1 2 0.0204130 l "distance"
+2 1 0.0888333 l "distance"
+1 2 0.0204130 l "substring"
+2 1 0.0888333 l "substring"
+1 2 0.0204130 l "distance"
+2 1 0.0888333 l "distance"
+1 2 0.0204130 l "substring"
+2 1 0.0888333 l "substring"
+1 2 0.0204130 l "distance"
+2 1 0.0888333 l "distance"
+1 2 0.0204130 l "substring"
+2 1 0.0888333 l "substring"
+1 2 0.0204130 l "distance"
+2 1 0.0888333 l "distance"
+1 2 0.0204130 l "substring"
+2 1 0.0888333 l "substring"
+1 2 0.0204130 l "distance"
+2 1 0.0888333 l "distance"
+*Edges

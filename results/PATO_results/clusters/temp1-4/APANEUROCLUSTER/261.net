@@ -1,0 +1,17 @@
+*Vertices 2
+1 "MALAR" ellipse
+2 "Malaria" ellipse
+*Arcs
+1 2 0.0331554 l "substring"
+2 1 0.2396425 l "substring"
+1 2 0.0331554 l "distance"
+2 1 0.2396425 l "distance"
+1 2 0.0331554 l "substring"
+2 1 0.2396425 l "substring"
+1 2 0.0331554 l "distance"
+2 1 0.2396425 l "distance"
+1 2 0.0331554 l "substring"
+2 1 0.2396425 l "substring"
+1 2 0.0331554 l "distance"
+2 1 0.2396425 l "distance"
+*Edges

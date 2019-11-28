@@ -1,0 +1,78 @@
+*Vertices 25
+1 "Assisted_Living" ellipse
+2 "Community_Facilities" ellipse
+3 "Community_Mental_Health_Centers" ellipse
+4 "Day_Care_Centers" ellipse
+5 "Facility_Environment" ellipse
+6 "Group_Homes" ellipse
+7 "Halfway_Houses" ellipse
+8 "Health_Maintenance_Organizations" ellipse
+9 "Home_Care" ellipse
+10 "Hospital_Environment" ellipse
+11 "Institutional_Schools" ellipse
+12 "Maximum_Security_Facilities" ellipse
+13 "Mental_Health_Programs" ellipse
+14 "Nursing_Homes" ellipse
+15 "Orphanages" ellipse
+16 "Psychiatric_Units" ellipse
+17 "Public_Health_Services" ellipse
+18 "Residential_Care_Institutions" ellipse
+19 "Sanatoriums" ellipse
+20 "Shelters" ellipse
+21 "Therapeutic_Camps" ellipse
+22 "Therapeutic_Community" ellipse
+23 "Therapeutic_Environment" ellipse
+24 "Treatment_Facilities" ellipse
+25 "TreatmentFacilities" ellipse
+*Arcs
+1 25 1.0000000 l "isa"
+25 1 0.0270270 l "isa"
+2 25 1.0000000 l "isa"
+25 2 0.0270270 l "isa"
+3 25 1.0000000 l "isa"
+25 3 0.0270270 l "isa"
+4 25 1.0000000 l "isa"
+25 4 0.0270270 l "isa"
+5 25 1.0000000 l "isa"
+25 5 0.0270270 l "isa"
+6 25 1.0000000 l "isa"
+25 6 0.0270270 l "isa"
+7 25 1.0000000 l "isa"
+25 7 0.0270270 l "isa"
+8 25 1.0000000 l "isa"
+25 8 0.0270270 l "isa"
+9 25 1.0000000 l "isa"
+25 9 0.0270270 l "isa"
+10 25 1.0000000 l "isa"
+25 10 0.0270270 l "isa"
+11 25 1.0000000 l "isa"
+25 11 0.0270270 l "isa"
+12 25 1.0000000 l "isa"
+25 12 0.0270270 l "isa"
+13 25 1.0000000 l "isa"
+25 13 0.0270270 l "isa"
+14 25 1.0000000 l "isa"
+25 14 0.0270270 l "isa"
+15 25 1.0000000 l "isa"
+25 15 0.0270270 l "isa"
+16 25 1.0000000 l "isa"
+25 16 0.0270270 l "isa"
+17 25 1.0000000 l "isa"
+25 17 0.0270270 l "isa"
+18 25 1.0000000 l "isa"
+25 18 0.0270270 l "isa"
+19 25 1.0000000 l "isa"
+25 19 0.0270270 l "isa"
+20 25 1.0000000 l "isa"
+25 20 0.0270270 l "isa"
+21 25 1.0000000 l "isa"
+25 21 0.0270270 l "isa"
+22 25 1.0000000 l "isa"
+25 22 0.0270270 l "isa"
+23 25 1.0000000 l "isa"
+25 23 0.0270270 l "isa"
+24 25 0.6666667 l "isa"
+25 24 0.0540541 l "isa"
+24 25 0.6666667 l "distance"
+25 24 0.0540541 l "distance"
+*Edges

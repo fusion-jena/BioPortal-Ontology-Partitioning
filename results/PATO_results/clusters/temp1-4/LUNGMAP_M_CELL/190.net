@@ -1,0 +1,43 @@
+*Vertices 4
+1 "pulmonary distal arteriole" ellipse
+2 "pulmonary distal arteriole tunica adventitia" ellipse
+3 "pulmonary distal arteriole tunica intima" ellipse
+4 "pulmonary distal arteriole tunica media" ellipse
+*Arcs
+2 1 0.4928868 l "definition"
+1 2 0.3071993 l "definition"
+3 1 0.3511950 l "definition"
+1 3 0.2824359 l "definition"
+4 1 0.4119810 l "definition"
+1 4 0.2928966 l "definition"
+1 2 0.3071993 l "substring"
+2 1 0.4928868 l "substring"
+1 3 0.2824359 l "substring"
+3 1 0.3511950 l "substring"
+1 4 0.2928966 l "substring"
+4 1 0.4119810 l "substring"
+2 1 0.4928868 l "definition"
+1 2 0.3071993 l "definition"
+3 1 0.3511950 l "definition"
+1 3 0.2824359 l "definition"
+4 1 0.4119810 l "definition"
+1 4 0.2928966 l "definition"
+1 2 0.3071993 l "substring"
+2 1 0.4928868 l "substring"
+1 3 0.2824359 l "substring"
+3 1 0.3511950 l "substring"
+1 4 0.2928966 l "substring"
+4 1 0.4119810 l "substring"
+2 1 0.4928868 l "definition"
+1 2 0.3071993 l "definition"
+3 1 0.3511950 l "definition"
+1 3 0.2824359 l "definition"
+4 1 0.4119810 l "definition"
+1 4 0.2928966 l "definition"
+1 2 0.3071993 l "substring"
+2 1 0.4928868 l "substring"
+1 3 0.2824359 l "substring"
+3 1 0.3511950 l "substring"
+1 4 0.2928966 l "substring"
+4 1 0.4119810 l "substring"
+*Edges

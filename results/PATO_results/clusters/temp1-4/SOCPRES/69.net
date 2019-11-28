@@ -1,0 +1,16 @@
+*Vertices 5
+1 "living alone" ellipse
+2 "social characteristic" ellipse
+3 "bereavement" ellipse
+4 "loss of work" ellipse
+5 "relationship issue" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.2000000 l "isa"
+*Edges

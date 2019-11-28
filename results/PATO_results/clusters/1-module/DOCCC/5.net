@@ -1,0 +1,32 @@
+*Vertices 9
+1 "Body_Nutrition_Deficit" ellipse
+2 "Body_Nutrition_Deficit_Risk" ellipse
+3 "Body_Nutrition_Excess" ellipse
+4 "Body_Nutrition_Excess_Risk" ellipse
+5 "Breastfeeding_Impairment" ellipse
+6 "Infant_Feeding_Pattern_Impairment" ellipse
+7 "Nutrition_Alteration" ellipse
+8 "Nutritional" ellipse
+9 "Swallowing_Impairment" ellipse
+*Arcs
+1 8 0.5000000 l "isa"
+8 1 0.1111111 l "isa"
+2 8 0.5000000 l "isa"
+8 2 0.1111111 l "isa"
+3 8 0.5000000 l "isa"
+8 3 0.1111111 l "isa"
+4 8 0.5000000 l "isa"
+8 4 0.1111111 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.1111111 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.1111111 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1111111 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.1111111 l "isa"
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.5000000 l "substring"
+*Edges

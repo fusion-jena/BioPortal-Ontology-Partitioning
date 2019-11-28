@@ -1,0 +1,9 @@
+*Vertices 2
+1 "inorganic phosphate" ellipse
+2 "phosphate" ellipse
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.1666667 l "isa"
+1 2 0.2857143 l "substring"
+2 1 0.1666667 l "substring"
+*Edges

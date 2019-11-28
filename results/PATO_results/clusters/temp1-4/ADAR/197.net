@@ -1,0 +1,39 @@
+*Vertices 4
+1 "ChromophobeRenalCarcinoma" ellipse
+2 "ClearCellCarcinoma" ellipse
+3 "PapillaryRenalCellCarcinoma" ellipse
+4 "RenalCellCarcinoma" ellipse
+*Arcs
+1 4 0.2763712 l "isa"
+4 1 0.1237055 l "isa"
+2 4 0.2750970 l "isa"
+4 2 0.1236080 l "isa"
+3 4 0.5332612 l "isa"
+4 3 0.3422650 l "isa"
+3 4 0.5332612 l "substring"
+4 3 0.3422650 l "substring"
+1 4 0.2763712 l "isa"
+4 1 0.1237055 l "isa"
+2 4 0.2750970 l "isa"
+4 2 0.1236080 l "isa"
+3 4 0.5332612 l "isa"
+4 3 0.3422650 l "isa"
+3 4 0.5332612 l "substring"
+4 3 0.3422650 l "substring"
+1 4 0.2763712 l "isa"
+4 1 0.1237055 l "isa"
+2 4 0.2750970 l "isa"
+4 2 0.1236080 l "isa"
+3 4 0.5332612 l "isa"
+4 3 0.3422650 l "isa"
+3 4 0.5332612 l "substring"
+4 3 0.3422650 l "substring"
+1 4 0.2763712 l "isa"
+4 1 0.1237055 l "isa"
+2 4 0.2750970 l "isa"
+4 2 0.1236080 l "isa"
+3 4 0.5332612 l "isa"
+4 3 0.3422650 l "isa"
+3 4 0.5332612 l "substring"
+4 3 0.3422650 l "substring"
+*Edges

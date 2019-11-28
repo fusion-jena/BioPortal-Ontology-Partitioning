@@ -1,0 +1,9 @@
+*Vertices 2
+1 "situation specification" ellipse
+2 "specified situation" ellipse
+*Arcs
+2 1 0.2642823 l "isa"
+1 2 0.1082091 l "isa"
+2 1 0.2642823 l "isa"
+1 2 0.1082091 l "isa"
+*Edges

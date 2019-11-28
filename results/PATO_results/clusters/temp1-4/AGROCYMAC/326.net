@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ammonium" ellipse
+2 "ammonium ion" ellipse
+*Arcs
+1 2 0.0789174 l "isa"
+2 1 0.3492934 l "isa"
+1 2 0.0789174 l "substring"
+2 1 0.3492934 l "substring"
+1 2 0.0789174 l "isa"
+2 1 0.3492934 l "isa"
+1 2 0.0789174 l "substring"
+2 1 0.3492934 l "substring"
+*Edges

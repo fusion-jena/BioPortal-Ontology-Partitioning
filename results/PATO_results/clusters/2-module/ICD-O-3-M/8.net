@@ -1,0 +1,35 @@
+*Vertices 10
+1 "Leukemia, NOS" ellipse
+2 "Acute leukemia, NOS" ellipse
+3 "Lymphoid leukemia, NOS" ellipse
+4 "Prolymphocytic leukemia, NOS" ellipse
+5 "Precursor cell lymphoblastic leukemia, NOS (see also M-9727/3)" ellipse
+6 "Myeloid leukemia, NOS" ellipse
+7 "Acute myeloid leukemia, NOS (FAB or WHO type not specified, see also M-9930/3)" ellipse
+8 "Chronic myeloid leukemia, NOS" ellipse
+9 "Chronic myelomonocytic leukemia, NOS" ellipse
+10 "Chronic eosinophilic leukemia, NOS" ellipse
+*Arcs
+1 2 0.1111111 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1111111 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.1111111 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.1111111 l "substring"
+5 1 1.0000000 l "substring"
+1 6 0.1111111 l "substring"
+6 1 0.3333333 l "substring"
+1 7 0.1111111 l "substring"
+7 1 0.5000000 l "substring"
+1 8 0.1111111 l "substring"
+8 1 0.5000000 l "substring"
+1 9 0.1111111 l "substring"
+9 1 1.0000000 l "substring"
+1 10 0.1111111 l "substring"
+10 1 1.0000000 l "substring"
+6 7 0.3333333 l "substring"
+7 6 0.5000000 l "substring"
+6 8 0.3333333 l "substring"
+8 6 0.5000000 l "substring"
+*Edges

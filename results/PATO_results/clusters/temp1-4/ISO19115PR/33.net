@@ -1,0 +1,11 @@
+*Vertices 2
+1 "description"
+2 "fileDescription"
+*Arcs
+1 2 0.0947490 l "substring"
+2 1 0.2526266 l "substring"
+1 2 0.0947490 l "substring"
+2 1 0.2526266 l "substring"
+1 2 0.0947490 l "substring"
+2 1 0.2526266 l "substring"
+*Edges

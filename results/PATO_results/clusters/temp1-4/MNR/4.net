@@ -1,0 +1,43 @@
+*Vertices 4
+1 "9 month-old stage" ellipse
+2 "10 month-old stage" ellipse
+3 "11 month-old stage" ellipse
+4 "12 month-old stage" ellipse
+*Arcs
+2 1 0.0737764 l "definition"
+1 2 0.0711182 l "definition"
+3 2 0.0738613 l "definition"
+2 3 0.0738613 l "definition"
+4 3 0.0711330 l "definition"
+3 4 0.0737764 l "definition"
+1 2 0.0711182 l "distance"
+2 1 0.0737764 l "distance"
+1 3 0.0343929 l "distance"
+3 1 0.0356784 l "distance"
+1 4 0.0343724 l "distance"
+4 1 0.0343796 l "distance"
+2 3 0.0738613 l "distance"
+3 2 0.0738613 l "distance"
+2 4 0.0356784 l "distance"
+4 2 0.0344001 l "distance"
+3 4 0.0737764 l "distance"
+4 3 0.0711330 l "distance"
+2 1 0.0737764 l "definition"
+1 2 0.0711182 l "definition"
+3 2 0.0738613 l "definition"
+2 3 0.0738613 l "definition"
+4 3 0.0711330 l "definition"
+3 4 0.0737764 l "definition"
+1 2 0.0711182 l "distance"
+2 1 0.0737764 l "distance"
+1 3 0.0343929 l "distance"
+3 1 0.0356784 l "distance"
+1 4 0.0343724 l "distance"
+4 1 0.0343796 l "distance"
+2 3 0.0738613 l "distance"
+3 2 0.0738613 l "distance"
+2 4 0.0356784 l "distance"
+4 2 0.0344001 l "distance"
+3 4 0.0737764 l "distance"
+4 3 0.0711330 l "distance"
+*Edges

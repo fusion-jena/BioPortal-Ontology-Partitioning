@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Image deviation-during scenario" ellipse
+2 "Image presented at incorrect time-during scenario" ellipse
+3 "Wrong image-during scenario" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3652968 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3652968 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3652968 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3652968 l "isa"
+*Edges

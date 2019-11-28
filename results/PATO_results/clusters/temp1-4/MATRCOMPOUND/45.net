@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Russian Don" ellipse
+2 "Don" ellipse
+*Arcs
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+1 2 0.4377908 l "substring"
+2 1 0.0508811 l "substring"
+*Edges

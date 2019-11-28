@@ -1,0 +1,9 @@
+*Vertices 2
+1 "SEAMS" ellipse
+2 "SEAMS" ellipse
+*Arcs
+1 2 0.1131921 l "substring"
+2 1 0.1176471 l "substring"
+1 2 0.1131921 l "distance"
+2 1 0.1176471 l "distance"
+*Edges

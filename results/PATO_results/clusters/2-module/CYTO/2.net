@@ -1,0 +1,7 @@
+*Vertices 2
+1 "CYTOKINE" ellipse
+2 "string"
+*Arcs
+1 2 0.0031646 l "OriginOfPreferredName"
+2 1 1.0000000 l "OriginOfPreferredName"
+*Edges

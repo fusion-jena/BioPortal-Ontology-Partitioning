@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Alexia" ellipse
+2 "Algebra" ellipse
+*Arcs
+1 2 0.0748534 l "distance"
+2 1 0.3394410 l "distance"
+1 2 0.0748534 l "distance"
+2 1 0.3394410 l "distance"
+*Edges

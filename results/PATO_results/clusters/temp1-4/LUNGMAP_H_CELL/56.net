@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Dorset" ellipse
+2 "Dorset Down" ellipse
+*Arcs
+1 2 0.2863972 l "substring"
+2 1 0.5686296 l "substring"
+1 2 0.2863972 l "substring"
+2 1 0.5686296 l "substring"
+1 2 0.2863972 l "substring"
+2 1 0.5686296 l "substring"
+1 2 0.2863972 l "substring"
+2 1 0.5686296 l "substring"
+*Edges

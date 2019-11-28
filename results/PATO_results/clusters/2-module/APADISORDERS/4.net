@@ -1,0 +1,178 @@
+*Vertices 59
+1 "Acting_Out" ellipse
+2 "Agitation" ellipse
+3 "Akathisia" ellipse
+4 "Anhedonia" ellipse
+5 "Automatism" ellipse
+6 "Behavior_Change" ellipse
+7 "Body_Rocking" ellipse
+8 "Catatonia" ellipse
+9 "Chronic_Stress" ellipse
+10 "Cognitive_Impairment" ellipse
+11 "Constipation" ellipse
+12 "Craving" ellipse
+13 "Demyelination" ellipse
+14 "Depersonalization" ellipse
+15 "Diarrhea" ellipse
+16 "Dissociation" ellipse
+17 "Distractibility" ellipse
+18 "Drug_Withdrawal" ellipse
+19 "Emotional_Disturbances" ellipse
+20 "Fecal_Incontinence" ellipse
+21 "Head_Banging" ellipse
+22 "Health_Complaints" ellipse
+23 "Hematoma" ellipse
+24 "Hoarding_Behavior" ellipse
+25 "Hypersomnia" ellipse
+26 "Hyperventilation" ellipse
+27 "Hyponatremia" ellipse
+28 "Inflammation" ellipse
+29 "Insomnia" ellipse
+30 "Intrusive_Thoughts" ellipse
+31 "Mental_Confusion" ellipse
+32 "Nail_Biting" ellipse
+33 "Neurotoxicity" ellipse
+34 "Nicotine_Withdrawal" ellipse
+35 "Nocturnal_Teeth_Grinding" ellipse
+36 "Overweight" ellipse
+37 "Panic_Attack" ellipse
+38 "Parkinsonism" ellipse
+39 "Personality_Change" ellipse
+40 "Physiological_Correlates" ellipse
+41 "Place_Disorientation" ellipse
+42 "Prodrome" ellipse
+43 "Pruritus" ellipse
+44 "Respiratory_Distress" ellipse
+45 "Restlessness" ellipse
+46 "Scratching" ellipse
+47 "Self_Destructive_Behavior" ellipse
+48 "Sleepiness" ellipse
+49 "Somatization" ellipse
+50 "Symptom_Checklists" ellipse
+51 "Symptom_Remission" ellipse
+52 "Syncope" ellipse
+53 "Time_Disorientation" ellipse
+54 "Tremor" ellipse
+55 "Urinary_Incontinence" ellipse
+56 "Vertigo" ellipse
+57 "Vomiting" ellipse
+58 "Wandering_Behavior" ellipse
+59 "Symptomology" ellipse
+*Arcs
+1 59 1.0000000 l "isa"
+59 1 0.0101010 l "isa"
+2 59 1.0000000 l "isa"
+59 2 0.0101010 l "isa"
+3 59 1.0000000 l "isa"
+59 3 0.0101010 l "isa"
+4 59 1.0000000 l "isa"
+59 4 0.0101010 l "isa"
+5 59 1.0000000 l "isa"
+59 5 0.0101010 l "isa"
+6 59 1.0000000 l "isa"
+59 6 0.0101010 l "isa"
+7 59 1.0000000 l "isa"
+59 7 0.0101010 l "isa"
+8 59 1.0000000 l "isa"
+59 8 0.0101010 l "isa"
+9 59 1.0000000 l "isa"
+59 9 0.0101010 l "isa"
+10 59 1.0000000 l "isa"
+59 10 0.0101010 l "isa"
+11 59 1.0000000 l "isa"
+59 11 0.0101010 l "isa"
+12 59 1.0000000 l "isa"
+59 12 0.0101010 l "isa"
+13 59 1.0000000 l "isa"
+59 13 0.0101010 l "isa"
+14 59 1.0000000 l "isa"
+59 14 0.0101010 l "isa"
+15 59 1.0000000 l "isa"
+59 15 0.0101010 l "isa"
+16 59 1.0000000 l "isa"
+59 16 0.0101010 l "isa"
+17 59 1.0000000 l "isa"
+59 17 0.0101010 l "isa"
+18 59 1.0000000 l "isa"
+59 18 0.0101010 l "isa"
+19 59 1.0000000 l "isa"
+59 19 0.0101010 l "isa"
+20 59 1.0000000 l "isa"
+59 20 0.0101010 l "isa"
+21 59 1.0000000 l "isa"
+59 21 0.0101010 l "isa"
+22 59 1.0000000 l "isa"
+59 22 0.0101010 l "isa"
+23 59 1.0000000 l "isa"
+59 23 0.0101010 l "isa"
+24 59 1.0000000 l "isa"
+59 24 0.0101010 l "isa"
+25 59 1.0000000 l "isa"
+59 25 0.0101010 l "isa"
+26 59 1.0000000 l "isa"
+59 26 0.0101010 l "isa"
+27 59 1.0000000 l "isa"
+59 27 0.0101010 l "isa"
+28 59 1.0000000 l "isa"
+59 28 0.0101010 l "isa"
+29 59 1.0000000 l "isa"
+59 29 0.0101010 l "isa"
+30 59 1.0000000 l "isa"
+59 30 0.0101010 l "isa"
+31 59 1.0000000 l "isa"
+59 31 0.0101010 l "isa"
+32 59 1.0000000 l "isa"
+59 32 0.0101010 l "isa"
+33 59 1.0000000 l "isa"
+59 33 0.0101010 l "isa"
+34 59 1.0000000 l "isa"
+59 34 0.0101010 l "isa"
+35 59 1.0000000 l "isa"
+59 35 0.0101010 l "isa"
+36 59 1.0000000 l "isa"
+59 36 0.0101010 l "isa"
+37 59 1.0000000 l "isa"
+59 37 0.0101010 l "isa"
+38 59 1.0000000 l "isa"
+59 38 0.0101010 l "isa"
+39 59 1.0000000 l "isa"
+59 39 0.0101010 l "isa"
+40 59 1.0000000 l "isa"
+59 40 0.0101010 l "isa"
+41 59 1.0000000 l "isa"
+59 41 0.0101010 l "isa"
+42 59 1.0000000 l "isa"
+59 42 0.0101010 l "isa"
+43 59 1.0000000 l "isa"
+59 43 0.0101010 l "isa"
+44 59 1.0000000 l "isa"
+59 44 0.0101010 l "isa"
+45 59 1.0000000 l "isa"
+59 45 0.0101010 l "isa"
+46 59 1.0000000 l "isa"
+59 46 0.0101010 l "isa"
+47 59 1.0000000 l "isa"
+59 47 0.0101010 l "isa"
+48 59 1.0000000 l "isa"
+59 48 0.0101010 l "isa"
+49 59 1.0000000 l "isa"
+59 49 0.0101010 l "isa"
+50 59 1.0000000 l "isa"
+59 50 0.0101010 l "isa"
+51 59 1.0000000 l "isa"
+59 51 0.0101010 l "isa"
+52 59 1.0000000 l "isa"
+59 52 0.0101010 l "isa"
+53 59 1.0000000 l "isa"
+59 53 0.0101010 l "isa"
+54 59 1.0000000 l "isa"
+59 54 0.0101010 l "isa"
+55 59 1.0000000 l "isa"
+59 55 0.0101010 l "isa"
+56 59 1.0000000 l "isa"
+59 56 0.0101010 l "isa"
+57 59 1.0000000 l "isa"
+59 57 0.0101010 l "isa"
+58 59 1.0000000 l "isa"
+59 58 0.0101010 l "isa"
+*Edges

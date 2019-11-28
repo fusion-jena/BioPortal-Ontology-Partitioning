@@ -1,0 +1,23 @@
+*Vertices 6
+1 "acenocoumarol" ellipse
+2 "Anticoagulants" ellipse
+3 "phenprocoumon" ellipse
+4 "Parenteral anticoagulants" ellipse
+5 "Anticoagulants, Oral" ellipse
+6 "dabigatran" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0434783 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0434783 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0869565 l "isa"
+5 2 0.6666667 l "isa"
+2 5 0.0869565 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.0434783 l "isa"
+2 4 0.0869565 l "substring"
+4 2 1.0000000 l "substring"
+2 5 0.0869565 l "substring"
+5 2 0.6666667 l "substring"
+*Edges

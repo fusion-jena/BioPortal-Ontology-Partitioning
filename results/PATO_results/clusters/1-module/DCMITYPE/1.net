@@ -1,0 +1,33 @@
+*Vertices 10
+1 "Vocabulary Encoding Scheme" ellipse
+2 "Dataset" ellipse
+3 "Event" ellipse
+4 "Interactive Resource" ellipse
+5 "Physical Object" ellipse
+6 "Service" ellipse
+7 "Software" ellipse
+8 "Sound" ellipse
+9 "Text" ellipse
+10 "Thing"
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.0714286 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.0714286 l "isa"
+3 10 0.5000000 l "isa"
+10 3 0.0714286 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0714286 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0714286 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0714286 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.0714286 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0714286 l "isa"
+9 10 0.5000000 l "isa"
+10 9 0.0714286 l "isa"
+3 9 0.5000000 l "distance"
+9 3 0.5000000 l "distance"
+*Edges

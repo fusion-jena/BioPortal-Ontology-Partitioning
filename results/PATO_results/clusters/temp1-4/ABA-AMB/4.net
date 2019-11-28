@@ -1,0 +1,133 @@
+*Vertices 32
+1 "Anterior tegmental nucleus" ellipse
+2 "Cuneiform nucleus" ellipse
+3 "Dorsal terminal nucleus of the accessory optic tract" ellipse
+4 "Edinger-Westphal nucleus" ellipse
+5 "Inferior colliculus" ellipse
+6 "Inferior colliculus, central nucleus" ellipse
+7 "Inferior colliculus, dorsal nucleus" ellipse
+8 "Inferior colliculus, external nucleus" ellipse
+9 "Oculomotor nucleus" ellipse
+10 "Trochlear nucleus" ellipse
+11 "Lateral terminal nucleus of the accessory optic tract" ellipse
+12 "Midbrain" ellipse
+13 "Midbrain, motor related" ellipse
+14 "Midbrain, sensory related" ellipse
+15 "Midbrain, behavioral state related" ellipse
+16 "Midbrain trigeminal nucleus" ellipse
+17 "Midbrain reticular nucleus" ellipse
+18 "Midbrain reticular nucleus, magnocellular part" ellipse
+19 "Midbrain reticular nucleus, magnocellular part, general" ellipse
+20 "Midbrain reticular nucleus, parvicellular part" ellipse
+21 "Medial terminal nucleus of the accessory optic tract" ellipse
+22 "Nucleus of the brachium of the inferior colliculus" ellipse
+23 "Parabigeminal nucleus" ellipse
+24 "Pedunculopontine nucleus" ellipse
+25 "Red Nucleus" ellipse
+26 "Midbrain reticular nucleus, retrorubral area" ellipse
+27 "Nucleus sagulum" ellipse
+28 "Substantia nigra, lateral part" ellipse
+29 "Substantia nigra, compact part" ellipse
+30 "Substantia nigra, reticular part" ellipse
+31 "Ventral tegmental area" ellipse
+32 "Ventral tegmental nucleus" ellipse
+*Arcs
+1 13 1.0000000 l "isa"
+13 1 0.0500000 l "isa"
+2 13 1.0000000 l "isa"
+13 2 0.0500000 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.0500000 l "isa"
+4 13 1.0000000 l "isa"
+13 4 0.0500000 l "isa"
+5 14 0.1250000 l "isa"
+14 5 0.1250000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2500000 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2500000 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.2500000 l "isa"
+9 13 1.0000000 l "isa"
+13 9 0.0500000 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.0500000 l "isa"
+11 13 1.0000000 l "isa"
+13 11 0.0500000 l "isa"
+13 12 0.1000000 l "isa"
+12 13 0.1333333 l "isa"
+14 12 0.2500000 l "isa"
+12 14 0.1333333 l "isa"
+15 12 0.4000000 l "isa"
+12 15 0.1333333 l "isa"
+16 14 0.5000000 l "isa"
+14 16 0.1250000 l "isa"
+17 13 0.1111111 l "isa"
+13 17 0.0500000 l "isa"
+18 17 0.5000000 l "isa"
+17 18 0.2222222 l "isa"
+19 17 0.5000000 l "isa"
+17 19 0.2222222 l "isa"
+20 17 0.6666667 l "isa"
+17 20 0.2222222 l "isa"
+21 13 1.0000000 l "isa"
+13 21 0.0500000 l "isa"
+22 14 0.5000000 l "isa"
+14 22 0.1250000 l "isa"
+23 14 1.0000000 l "isa"
+14 23 0.1250000 l "isa"
+24 15 1.0000000 l "isa"
+15 24 0.2000000 l "isa"
+25 13 1.0000000 l "isa"
+13 25 0.0500000 l "isa"
+26 13 0.3333333 l "isa"
+13 26 0.0500000 l "isa"
+27 14 1.0000000 l "isa"
+14 27 0.1250000 l "isa"
+28 13 1.0000000 l "isa"
+13 28 0.0500000 l "isa"
+29 15 1.0000000 l "isa"
+15 29 0.2000000 l "isa"
+30 13 1.0000000 l "isa"
+13 30 0.0500000 l "isa"
+31 13 1.0000000 l "isa"
+13 31 0.0500000 l "isa"
+32 13 1.0000000 l "isa"
+13 32 0.0500000 l "isa"
+5 6 0.2500000 l "substring"
+6 5 1.0000000 l "substring"
+5 7 0.2500000 l "substring"
+7 5 1.0000000 l "substring"
+5 8 0.2500000 l "substring"
+8 5 1.0000000 l "substring"
+5 22 0.1250000 l "substring"
+22 5 0.5000000 l "substring"
+12 13 0.1333333 l "substring"
+13 12 0.1000000 l "substring"
+12 14 0.1333333 l "substring"
+14 12 0.2500000 l "substring"
+12 15 0.1333333 l "substring"
+15 12 0.4000000 l "substring"
+12 16 0.0666667 l "substring"
+16 12 0.5000000 l "substring"
+12 17 0.0666667 l "substring"
+17 12 0.1111111 l "substring"
+12 18 0.0666667 l "substring"
+18 12 0.2500000 l "substring"
+12 19 0.0666667 l "substring"
+19 12 0.2500000 l "substring"
+12 20 0.0666667 l "substring"
+20 12 0.3333333 l "substring"
+12 26 0.0666667 l "substring"
+26 12 0.3333333 l "substring"
+17 18 0.2222222 l "substring"
+18 17 0.5000000 l "substring"
+17 19 0.2222222 l "substring"
+19 17 0.5000000 l "substring"
+17 20 0.2222222 l "substring"
+20 17 0.6666667 l "substring"
+17 26 0.1111111 l "substring"
+26 17 0.3333333 l "substring"
+18 19 0.2500000 l "substring"
+19 18 0.2500000 l "substring"
+*Edges

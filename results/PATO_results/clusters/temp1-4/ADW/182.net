@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Alph1" ellipse
+2 "CA1" ellipse
+3 "CALHM1" ellipse
+4 "GalR1" ellipse
+*Arcs
+1 3 0.0421661 l "distance"
+3 1 0.2064009 l "distance"
+1 4 0.0382710 l "distance"
+4 1 0.0356660 l "distance"
+2 3 0.0099292 l "distance"
+3 2 0.2036970 l "distance"
+2 4 0.0089998 l "distance"
+4 2 0.0351512 l "distance"
+3 4 0.2062622 l "distance"
+4 3 0.0392696 l "distance"
+1 3 0.0421661 l "distance"
+3 1 0.2064009 l "distance"
+1 4 0.0382710 l "distance"
+4 1 0.0356660 l "distance"
+2 3 0.0099292 l "distance"
+3 2 0.2036970 l "distance"
+2 4 0.0089998 l "distance"
+4 2 0.0351512 l "distance"
+3 4 0.2062622 l "distance"
+4 3 0.0392696 l "distance"
+*Edges

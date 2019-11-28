@@ -1,0 +1,29 @@
+*Vertices 6
+1 "_Behavioral Symptoms of Moderate cognitive decline" ellipse
+2 "_Emotional Fading" ellipse
+3 "_Lack of Vitality" ellipse
+4 "NTS" ellipse
+5 "_Problem in handling financial results from mathematical challenges" ellipse
+6 "_Recent events and conversations are increasingly Forgotten" ellipse
+*Arcs
+2 1 0.4375000 l "isa"
+1 2 0.1067712 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1067712 l "isa"
+5 1 0.4375000 l "isa"
+1 5 0.1067712 l "isa"
+6 1 0.3663566 l "isa"
+1 6 0.0896116 l "isa"
+4 6 0.0153756 l "substring"
+6 4 0.3530299 l "substring"
+2 1 0.4375000 l "isa"
+1 2 0.1067712 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1067712 l "isa"
+5 1 0.4375000 l "isa"
+1 5 0.1067712 l "isa"
+6 1 0.3663566 l "isa"
+1 6 0.0896116 l "isa"
+4 6 0.0153756 l "substring"
+6 4 0.3530299 l "substring"
+*Edges

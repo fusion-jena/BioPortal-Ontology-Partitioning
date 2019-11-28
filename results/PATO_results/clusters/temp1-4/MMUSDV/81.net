@@ -1,0 +1,9 @@
+*Vertices 2
+1 "wastewater/sludge" ellipse
+2 "water" ellipse
+*Arcs
+1 2 0.1702217 l "substring"
+2 1 0.0703315 l "substring"
+1 2 0.1702217 l "substring"
+2 1 0.0703315 l "substring"
+*Edges

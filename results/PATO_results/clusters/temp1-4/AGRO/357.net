@@ -1,0 +1,9 @@
+*Vertices 2
+1 "total impurities" ellipse
+2 "impurity" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1048130 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.1048130 l "isa"
+*Edges

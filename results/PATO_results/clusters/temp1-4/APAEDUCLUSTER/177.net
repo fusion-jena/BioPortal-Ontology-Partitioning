@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Neuropsychological_Assessment" ellipse
+2 "Psychological_Assessment" ellipse
+*Arcs
+1 2 0.1518068 l "substring"
+2 1 0.1751525 l "substring"
+1 2 0.1518068 l "substring"
+2 1 0.1751525 l "substring"
+*Edges

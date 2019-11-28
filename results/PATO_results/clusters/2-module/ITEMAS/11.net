@@ -1,0 +1,9 @@
+*Vertices 2
+1 "F1_Captacion" ellipse
+2 "Fase_Embudo" ellipse
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1538462 l "isa"
+2 1 0.1538462 l "definition"
+1 2 0.6666667 l "definition"
+*Edges

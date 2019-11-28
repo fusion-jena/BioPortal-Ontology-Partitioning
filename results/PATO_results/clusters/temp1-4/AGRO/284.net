@@ -1,0 +1,13 @@
+*Vertices 2
+1 "indirectly activates"
+2 "directly activates"
+*Arcs
+1 2 0.4285714 l "definition"
+2 1 1.0000000 l "definition"
+1 1 0.2857143 l "definition"
+1 1 0.2857143 l "definition"
+1 2 0.4285714 l "substring"
+2 1 1.0000000 l "substring"
+1 2 0.4285714 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

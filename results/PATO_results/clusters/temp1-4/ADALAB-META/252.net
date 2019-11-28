@@ -1,0 +1,22 @@
+*Vertices 3
+1 "Depth" ellipse
+2 "depthOf"
+3 "hasDepth"
+*Arcs
+1 2 0.0832318 l "substring"
+2 1 0.2090112 l "substring"
+1 3 0.0820133 l "substring"
+3 1 0.1734825 l "substring"
+1 2 0.0832318 l "distance"
+2 1 0.2090112 l "distance"
+1 3 0.0820133 l "distance"
+3 1 0.1734825 l "distance"
+1 2 0.0832318 l "substring"
+2 1 0.2090112 l "substring"
+1 3 0.0820133 l "substring"
+3 1 0.1734825 l "substring"
+1 2 0.0832318 l "distance"
+2 1 0.2090112 l "distance"
+1 3 0.0820133 l "distance"
+3 1 0.1734825 l "distance"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Experimental Method" ellipse
+2 "Process" ellipse
+*Arcs
+1 2 0.2500000 l "isa"
+2 1 1.0000000 l "isa"
+*Edges

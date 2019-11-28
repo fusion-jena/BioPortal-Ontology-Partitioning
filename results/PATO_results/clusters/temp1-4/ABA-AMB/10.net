@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Interstitial nucleus of Cajal" ellipse
+2 "Nucleus of Darkschewitsch" ellipse
+3 "Periaqueductal gray" ellipse
+4 "Precommissural nucleus" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.2500000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2500000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2500000 l "isa"
+*Edges

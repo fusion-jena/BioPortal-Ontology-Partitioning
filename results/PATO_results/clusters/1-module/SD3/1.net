@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Engagement failure" ellipse
+2 "Ground rule violation" ellipse
+3 "Participant deviation" ellipse
+4 "Simulation center deviation" ellipse
+5 "Thing"
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.2500000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2500000 l "isa"
+3 5 0.2500000 l "isa"
+5 3 0.5000000 l "isa"
+4 5 0.3333333 l "isa"
+5 4 0.5000000 l "isa"
+*Edges

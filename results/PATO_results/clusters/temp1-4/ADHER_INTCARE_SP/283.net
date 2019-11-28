@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Rarely_responds_although_hearing_normal" ellipse
+2 "avoice_Rarely_responds_although_hearing_normal"
+*Arcs
+1 2 0.2188046 l "substring"
+2 1 0.1894540 l "substring"
+1 2 0.2188046 l "substring"
+2 1 0.1894540 l "substring"
+1 2 0.2188046 l "substring"
+2 1 0.1894540 l "substring"
+*Edges

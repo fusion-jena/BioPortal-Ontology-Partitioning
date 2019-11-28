@@ -1,0 +1,10 @@
+*Vertices 3
+1 "EV_Case_Report_DI_Evaluated" ellipse
+2 "Observation_based_DI_Report_Assessment_tool" ellipse
+3 "has_been_evaluated_by"
+*Arcs
+1 2 0.1250000 l "definition"
+2 1 1.0000000 l "definition"
+1 3 0.1250000 l "definition"
+3 1 1.0000000 l "definition"
+*Edges

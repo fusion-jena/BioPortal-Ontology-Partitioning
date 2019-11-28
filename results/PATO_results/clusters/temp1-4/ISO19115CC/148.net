@@ -1,0 +1,17 @@
+*Vertices 2
+1 "globalProperty"
+2 "globalProperty"
+*Arcs
+1 2 0.5127068 l "substring"
+2 1 0.5164832 l "substring"
+1 2 0.5127068 l "distance"
+2 1 0.5164832 l "distance"
+1 2 0.5127068 l "substring"
+2 1 0.5164832 l "substring"
+1 2 0.5127068 l "distance"
+2 1 0.5164832 l "distance"
+1 2 0.5127068 l "substring"
+2 1 0.5164832 l "substring"
+1 2 0.5127068 l "distance"
+2 1 0.5164832 l "distance"
+*Edges

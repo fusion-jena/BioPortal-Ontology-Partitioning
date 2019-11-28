@@ -1,0 +1,13 @@
+*Vertices 2
+1 "prespore cell" ellipse
+2 "spore" ellipse
+*Arcs
+2 1 0.0835652 l "definition"
+1 2 0.1039924 l "definition"
+1 2 0.1039924 l "substring"
+2 1 0.0835652 l "substring"
+2 1 0.0835652 l "definition"
+1 2 0.1039924 l "definition"
+1 2 0.1039924 l "substring"
+2 1 0.0835652 l "substring"
+*Edges

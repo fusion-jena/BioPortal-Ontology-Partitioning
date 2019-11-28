@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Bond Formed" ellipse
+2 "Bond Transformation" ellipse
+3 "Bond Cleaved" ellipse
+4 "Bond Changed In Order" ellipse
+5 "BondChangedInStereo" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2000000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.2000000 l "isa"
+*Edges

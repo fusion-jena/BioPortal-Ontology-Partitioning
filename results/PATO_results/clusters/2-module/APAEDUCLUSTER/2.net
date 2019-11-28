@@ -1,0 +1,121 @@
+*Vertices 40
+1 "Anencephaly" ellipse
+2 "Articulation_Disorders" ellipse
+3 "Aspergers_Syndrome" ellipse
+4 "Assistive_Technology" ellipse
+5 "Augmentative_Communication" ellipse
+6 "Behavior_Disorders" ellipse
+7 "Behavior_Problems" ellipse
+8 "Cleft_Palate" ellipse
+9 "Communication_Disorders" ellipse
+10 "Communication_Skills_Training" ellipse
+11 "Crying_Cat_Syndrome" ellipse
+12 "Delayed_Development" ellipse
+13 "Delayed_Speech" ellipse
+14 "Developmental_Disabilities" ellipse
+15 "Dysarthria" ellipse
+16 "Dyskinesia" ellipse
+17 "Ear_Disorders" ellipse
+18 "Early_Intervention" ellipse
+19 "Echolalia" ellipse
+20 "Emotional_Disturbances" ellipse
+21 "Hyperkinesis" ellipse
+22 "Intellectual_Development_Disorder" ellipse
+23 "Language_Delay" ellipse
+24 "Language_Disorders" ellipse
+25 "Memory_Disorders" ellipse
+26 "Microcephaly" ellipse
+27 "Partially_Hearing_Impaired" ellipse
+28 "Perceptual_Disturbances" ellipse
+29 "Pervasive_Developmental_Disorders" ellipse
+30 "Rett_Syndrome" ellipse
+31 "Savants" ellipse
+32 "School_Based_Intervention" ellipse
+33 "Social_Skills_Training" ellipse
+34 "Speech_Disorders" ellipse
+35 "Speech_Therapy" ellipse
+36 "Tay_Sachs_Disease" ellipse
+37 "Vision_Disorders" ellipse
+38 "Accommodation_(Disabilities)" ellipse
+39 "Down's_Syndrome" ellipse
+40 "SpecialEducation" ellipse
+*Arcs
+1 40 1.0000000 l "isa"
+40 1 0.0136986 l "isa"
+2 40 1.0000000 l "isa"
+40 2 0.0136986 l "isa"
+3 40 1.0000000 l "isa"
+40 3 0.0136986 l "isa"
+4 40 1.0000000 l "isa"
+40 4 0.0136986 l "isa"
+5 40 1.0000000 l "isa"
+40 5 0.0136986 l "isa"
+6 40 1.0000000 l "isa"
+40 6 0.0136986 l "isa"
+7 40 1.0000000 l "isa"
+40 7 0.0136986 l "isa"
+8 40 1.0000000 l "isa"
+40 8 0.0136986 l "isa"
+9 40 1.0000000 l "isa"
+40 9 0.0136986 l "isa"
+10 40 1.0000000 l "isa"
+40 10 0.0136986 l "isa"
+11 40 1.0000000 l "isa"
+40 11 0.0136986 l "isa"
+12 40 1.0000000 l "isa"
+40 12 0.0136986 l "isa"
+13 40 1.0000000 l "isa"
+40 13 0.0136986 l "isa"
+14 40 1.0000000 l "isa"
+40 14 0.0136986 l "isa"
+15 40 1.0000000 l "isa"
+40 15 0.0136986 l "isa"
+16 40 1.0000000 l "isa"
+40 16 0.0136986 l "isa"
+17 40 1.0000000 l "isa"
+40 17 0.0136986 l "isa"
+18 40 1.0000000 l "isa"
+40 18 0.0136986 l "isa"
+19 40 1.0000000 l "isa"
+40 19 0.0136986 l "isa"
+20 40 1.0000000 l "isa"
+40 20 0.0136986 l "isa"
+21 40 1.0000000 l "isa"
+40 21 0.0136986 l "isa"
+22 40 1.0000000 l "isa"
+40 22 0.0136986 l "isa"
+23 40 1.0000000 l "isa"
+40 23 0.0136986 l "isa"
+24 40 1.0000000 l "isa"
+40 24 0.0136986 l "isa"
+25 40 1.0000000 l "isa"
+40 25 0.0136986 l "isa"
+26 40 1.0000000 l "isa"
+40 26 0.0136986 l "isa"
+27 40 1.0000000 l "isa"
+40 27 0.0136986 l "isa"
+28 40 1.0000000 l "isa"
+40 28 0.0136986 l "isa"
+29 40 1.0000000 l "isa"
+40 29 0.0136986 l "isa"
+30 40 1.0000000 l "isa"
+40 30 0.0136986 l "isa"
+31 40 1.0000000 l "isa"
+40 31 0.0136986 l "isa"
+32 40 1.0000000 l "isa"
+40 32 0.0136986 l "isa"
+33 40 1.0000000 l "isa"
+40 33 0.0136986 l "isa"
+34 40 1.0000000 l "isa"
+40 34 0.0136986 l "isa"
+35 40 1.0000000 l "isa"
+40 35 0.0136986 l "isa"
+36 40 1.0000000 l "isa"
+40 36 0.0136986 l "isa"
+37 40 1.0000000 l "isa"
+40 37 0.0136986 l "isa"
+38 40 1.0000000 l "isa"
+40 38 0.0136986 l "isa"
+39 40 1.0000000 l "isa"
+40 39 0.0136986 l "isa"
+*Edges

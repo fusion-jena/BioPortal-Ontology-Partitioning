@@ -1,0 +1,11 @@
+*Vertices 2
+1 "BodyProper" ellipse
+2 "CardinalBodyPart" ellipse
+*Arcs
+1 2 0.2123846 l "isa"
+2 1 0.1415785 l "isa"
+1 2 0.2123846 l "isa"
+2 1 0.1415785 l "isa"
+1 2 0.2123846 l "isa"
+2 1 0.1415785 l "isa"
+*Edges

@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Alai" ellipse
+2 "Valais Blacknose" ellipse
+3 "Valais Blackneck" ellipse
+*Arcs
+1 2 0.0241733 l "substring"
+2 1 0.2257506 l "substring"
+1 3 0.0241569 l "substring"
+3 1 0.2251277 l "substring"
+2 3 0.3361557 l "distance"
+3 2 0.3354550 l "distance"
+1 2 0.0241733 l "substring"
+2 1 0.2257506 l "substring"
+1 3 0.0241569 l "substring"
+3 1 0.2251277 l "substring"
+2 3 0.3361557 l "distance"
+3 2 0.3354550 l "distance"
+1 2 0.0241733 l "substring"
+2 1 0.2257506 l "substring"
+1 3 0.0241569 l "substring"
+3 1 0.2251277 l "substring"
+2 3 0.3361557 l "distance"
+3 2 0.3354550 l "distance"
+1 2 0.0241733 l "substring"
+2 1 0.2257506 l "substring"
+1 3 0.0241569 l "substring"
+3 1 0.2251277 l "substring"
+2 3 0.3361557 l "distance"
+3 2 0.3354550 l "distance"
+1 2 0.0241733 l "substring"
+2 1 0.2257506 l "substring"
+1 3 0.0241569 l "substring"
+3 1 0.2251277 l "substring"
+2 3 0.3361557 l "distance"
+3 2 0.3354550 l "distance"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 4
+1 "detergent" ellipse
+2 "surfactant" ellipse
+3 "surface-active disposition" ellipse
+4 "detergent role" ellipse
+*Arcs
+1 2 0.3207961 l "isa"
+2 1 0.5213577 l "isa"
+2 3 0.4786422 l "isa"
+3 2 0.2208659 l "isa"
+1 4 0.2776480 l "substring"
+4 1 0.2959954 l "substring"
+1 2 0.3207961 l "isa"
+2 1 0.5213577 l "isa"
+2 3 0.4786422 l "isa"
+3 2 0.2208659 l "isa"
+1 4 0.2776480 l "substring"
+4 1 0.2959954 l "substring"
+1 2 0.3207961 l "isa"
+2 1 0.5213577 l "isa"
+2 3 0.4786422 l "isa"
+3 2 0.2208659 l "isa"
+1 4 0.2776480 l "substring"
+4 1 0.2959954 l "substring"
+*Edges

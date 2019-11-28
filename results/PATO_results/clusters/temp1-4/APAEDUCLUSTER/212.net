@@ -1,0 +1,19 @@
+*Vertices 2
+1 "DGLOM" ellipse
+2 "DGULC" ellipse
+*Arcs
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+1 2 0.0660787 l "distance"
+2 1 0.0793772 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "adalimumab" ellipse
+2 "Humira" ellipse
+*Arcs
+2 1 0.5453694 l "isa"
+1 2 0.1894490 l "isa"
+2 1 0.5453694 l "isa"
+1 2 0.1894490 l "isa"
+2 1 0.5453694 l "isa"
+1 2 0.1894490 l "isa"
+2 1 0.5453694 l "isa"
+1 2 0.1894490 l "isa"
+*Edges

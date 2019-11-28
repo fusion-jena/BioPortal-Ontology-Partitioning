@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Collection" ellipse
+2 "Frequency" ellipse
+3 "Method of Accrual" ellipse
+4 "Policy" ellipse
+*Arcs
+1 3 0.3333333 l "Accrual Method"
+3 1 1.0000000 l "Accrual Method"
+1 2 0.3333333 l "Accrual Periodicity"
+2 1 1.0000000 l "Accrual Periodicity"
+1 4 0.3333333 l "Accrual Policy"
+4 1 1.0000000 l "Accrual Policy"
+*Edges

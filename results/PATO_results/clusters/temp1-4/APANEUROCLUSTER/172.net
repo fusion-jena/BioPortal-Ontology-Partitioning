@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Nonverbal_Ability" ellipse
+2 "Verbal_Ability" ellipse
+*Arcs
+1 2 0.7398067 l "substring"
+2 1 0.7398067 l "substring"
+1 2 0.7398067 l "distance"
+2 1 0.7398067 l "distance"
+1 2 0.7398067 l "substring"
+2 1 0.7398067 l "substring"
+1 2 0.7398067 l "distance"
+2 1 0.7398067 l "distance"
+*Edges

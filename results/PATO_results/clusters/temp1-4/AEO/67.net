@@ -1,0 +1,67 @@
+*Vertices 10
+1 "Confusion" ellipse
+2 "Delusion and paranoia" ellipse
+3 "Difficulty in doing tasks involving multiple steps" ellipse
+4 "Impulsive behavior" ellipse
+5 "Increased memory loss and confusion" ellipse
+6 "Problems coping with new situations" ellipse
+7 "Problems recognizing family and friends" ellipse
+8 "Symptom of moderate AD" ellipse
+9 "Behavior" ellipse
+10 "Behavior text" ellipse
+*Arcs
+2 8 1.0000000 l "isa"
+8 2 0.1500621 l "isa"
+3 8 0.4051487 l "isa"
+8 3 0.1101937 l "isa"
+4 8 0.4012115 l "isa"
+8 4 0.1101937 l "isa"
+5 8 0.3507026 l "isa"
+8 5 0.1032789 l "isa"
+6 8 0.4051487 l "isa"
+8 6 0.1101937 l "isa"
+7 8 0.4051487 l "isa"
+8 7 0.1101937 l "isa"
+1 5 0.2035242 l "substring"
+5 1 0.3754007 l "substring"
+2 8 1.0000000 l "isa"
+8 2 0.1500621 l "isa"
+3 8 0.4051487 l "isa"
+8 3 0.1101937 l "isa"
+4 8 0.4012115 l "isa"
+8 4 0.1101937 l "isa"
+5 8 0.3507026 l "isa"
+8 5 0.1032789 l "isa"
+6 8 0.4051487 l "isa"
+8 6 0.1101937 l "isa"
+7 8 0.4051487 l "isa"
+8 7 0.1101937 l "isa"
+10 9 0.4333897 l "definition"
+9 10 0.1722957 l "definition"
+1 5 0.2035242 l "substring"
+5 1 0.3754007 l "substring"
+4 9 0.3042763 l "substring"
+9 4 0.0795473 l "substring"
+9 10 0.1722957 l "substring"
+10 9 0.4333897 l "substring"
+2 8 1.0000000 l "isa"
+8 2 0.1500621 l "isa"
+3 8 0.4051487 l "isa"
+8 3 0.1101937 l "isa"
+4 8 0.4012115 l "isa"
+8 4 0.1101937 l "isa"
+5 8 0.3507026 l "isa"
+8 5 0.1032789 l "isa"
+6 8 0.4051487 l "isa"
+8 6 0.1101937 l "isa"
+7 8 0.4051487 l "isa"
+8 7 0.1101937 l "isa"
+10 9 0.4333897 l "definition"
+9 10 0.1722957 l "definition"
+1 5 0.2035242 l "substring"
+5 1 0.3754007 l "substring"
+4 9 0.3042763 l "substring"
+9 4 0.0795473 l "substring"
+9 10 0.1722957 l "substring"
+10 9 0.4333897 l "substring"
+*Edges

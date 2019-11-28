@@ -1,0 +1,8 @@
+*Vertices 3
+1 "Thing"
+2 "Restriction"
+3 "description"
+*Arcs
+2 3 0.1111111 l "distance"
+3 2 0.3333333 l "distance"
+*Edges

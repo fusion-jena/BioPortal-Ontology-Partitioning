@@ -1,0 +1,11 @@
+*Vertices 2
+1 "structure determination" ellipse
+2 "specifying" ellipse
+*Arcs
+1 2 0.2910045 l "isa"
+2 1 0.2784747 l "isa"
+1 2 0.2910045 l "isa"
+2 1 0.2784747 l "isa"
+1 2 0.2910045 l "isa"
+2 1 0.2784747 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "separation device" ellipse
+2 "separation column" ellipse
+*Arcs
+2 1 0.2368842 l "isa"
+1 2 0.1186017 l "isa"
+2 1 0.2368842 l "isa"
+1 2 0.1186017 l "isa"
+*Edges

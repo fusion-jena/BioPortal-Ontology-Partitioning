@@ -1,0 +1,25 @@
+*Vertices 2
+1 "OntologySyntax" ellipse
+2 "hasOntologySyntax"
+*Arcs
+1 2 0.1299257 l "substring"
+2 1 0.4590612 l "substring"
+1 2 0.1299257 l "distance"
+2 1 0.4590612 l "distance"
+1 2 0.1299257 l "substring"
+2 1 0.4590612 l "substring"
+1 2 0.1299257 l "distance"
+2 1 0.4590612 l "distance"
+1 2 0.1299257 l "substring"
+2 1 0.4590612 l "substring"
+1 2 0.1299257 l "distance"
+2 1 0.4590612 l "distance"
+1 2 0.1299257 l "substring"
+2 1 0.4590612 l "substring"
+1 2 0.1299257 l "distance"
+2 1 0.4590612 l "distance"
+1 2 0.1299257 l "substring"
+2 1 0.4590612 l "substring"
+1 2 0.1299257 l "distance"
+2 1 0.4590612 l "distance"
+*Edges

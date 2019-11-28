@@ -1,0 +1,17 @@
+*Vertices 2
+1 "autonomic neuron" ellipse
+2 "autonomic neuron" ellipse
+*Arcs
+1 2 0.4146502 l "substring"
+2 1 0.7521345 l "substring"
+1 2 0.4146502 l "distance"
+2 1 0.7521345 l "distance"
+1 2 0.4146502 l "substring"
+2 1 0.7521345 l "substring"
+1 2 0.4146502 l "distance"
+2 1 0.7521345 l "distance"
+1 2 0.4146502 l "substring"
+2 1 0.7521345 l "substring"
+1 2 0.4146502 l "distance"
+2 1 0.7521345 l "distance"
+*Edges

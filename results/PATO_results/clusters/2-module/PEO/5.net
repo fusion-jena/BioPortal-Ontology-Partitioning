@@ -1,0 +1,19 @@
+*Vertices 4
+1 "drug_resistant_plasmid" ellipse
+2 "knockout_construct_plasmid" ellipse
+3 "target_region_plasmid" ellipse
+4 "plasmid" ellipse
+*Arcs
+1 4 0.5000000 l "isa"
+4 1 0.1666667 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1666667 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.1666667 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.1666667 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.1666667 l "substring"
+*Edges

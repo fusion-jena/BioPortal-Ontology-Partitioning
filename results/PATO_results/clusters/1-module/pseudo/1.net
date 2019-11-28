@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Biological Feature" ellipse
+2 "Regulatory" ellipse
+3 "Transcribed" ellipse
+4 "Polymorphic" ellipse
+5 "Disablement" ellipse
+6 "Frameshift" ellipse
+7 "Premature Stop Codon" ellipse
+8 "Regulatory Element Lost" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.3333333 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.3333333 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.3333333 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2500000 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2500000 l "isa"
+8 5 0.5000000 l "isa"
+5 8 0.2500000 l "isa"
+2 8 0.5000000 l "substring"
+8 2 0.5000000 l "substring"
+*Edges

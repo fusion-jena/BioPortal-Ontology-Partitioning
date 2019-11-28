@@ -1,0 +1,30 @@
+*Vertices 3
+1 "coastal inlet" ellipse
+2 "inlet" ellipse
+3 "lake inlet" ellipse
+*Arcs
+1 2 0.2491739 l "isa"
+2 1 0.1099207 l "isa"
+3 2 0.3606402 l "isa"
+2 3 0.1147576 l "isa"
+1 2 0.2491739 l "definition"
+2 1 0.1099207 l "definition"
+3 2 0.3606402 l "definition"
+2 3 0.1147576 l "definition"
+1 2 0.2491739 l "substring"
+2 1 0.1099207 l "substring"
+2 3 0.1147576 l "substring"
+3 2 0.3606402 l "substring"
+1 2 0.2491739 l "isa"
+2 1 0.1099207 l "isa"
+3 2 0.3606402 l "isa"
+2 3 0.1147576 l "isa"
+1 2 0.2491739 l "definition"
+2 1 0.1099207 l "definition"
+3 2 0.3606402 l "definition"
+2 3 0.1147576 l "definition"
+1 2 0.2491739 l "substring"
+2 1 0.1099207 l "substring"
+2 3 0.1147576 l "substring"
+3 2 0.3606402 l "substring"
+*Edges

@@ -1,0 +1,31 @@
+*Vertices 4
+1 "Perineum" ellipse
+2 "Peritoneum" ellipse
+3 "SubdivisionOfTrunk" ellipse
+4 "SubdivisionOfTrunkProper" ellipse
+*Arcs
+1 4 0.3327140 l "isa"
+4 1 0.1048010 l "isa"
+4 3 0.2574100 l "isa"
+3 4 0.5699681 l "isa"
+3 4 0.5699681 l "substring"
+4 3 0.2574100 l "substring"
+1 2 0.3610528 l "distance"
+2 1 0.2228649 l "distance"
+1 4 0.3327140 l "isa"
+4 1 0.1048010 l "isa"
+4 3 0.2574100 l "isa"
+3 4 0.5699681 l "isa"
+3 4 0.5699681 l "substring"
+4 3 0.2574100 l "substring"
+1 2 0.3610528 l "distance"
+2 1 0.2228649 l "distance"
+1 4 0.3327140 l "isa"
+4 1 0.1048010 l "isa"
+4 3 0.2574100 l "isa"
+3 4 0.5699681 l "isa"
+3 4 0.5699681 l "substring"
+4 3 0.2574100 l "substring"
+1 2 0.3610528 l "distance"
+2 1 0.2228649 l "distance"
+*Edges

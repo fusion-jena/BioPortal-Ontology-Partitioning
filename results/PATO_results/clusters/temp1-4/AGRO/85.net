@@ -1,0 +1,27 @@
+*Vertices 4
+1 "velocimetry" ellipse
+2 "linear velocity" ellipse
+3 "angular velocity" ellipse
+4 "velocity" ellipse
+*Arcs
+2 4 0.7692308 l "isa"
+4 2 0.3319502 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.3319502 l "isa"
+2 4 0.7692308 l "substring"
+4 2 0.3319502 l "substring"
+3 4 1.0000000 l "substring"
+4 3 0.3319502 l "substring"
+1 4 0.2550678 l "distance"
+4 1 0.1203319 l "distance"
+2 4 0.7692308 l "isa"
+4 2 0.3319502 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.3319502 l "isa"
+2 4 0.7692308 l "substring"
+4 2 0.3319502 l "substring"
+3 4 1.0000000 l "substring"
+4 3 0.3319502 l "substring"
+1 4 0.2550678 l "distance"
+4 1 0.1203319 l "distance"
+*Edges

@@ -1,0 +1,31 @@
+*Vertices 8
+1 "Region" ellipse
+2 "AbsorbedRadiationDose" ellipse
+3 "CumulativeDose" ellipse
+4 "Dose" ellipse
+5 "Isodose" ellipse
+6 "RadiationField" ellipse
+7 "ThreeDimensionalRegion" ellipse
+8 "TwoDimensionalRegion" ellipse
+*Arcs
+2 4 1.0000000 l "isa"
+4 2 0.0425532 l "isa"
+3 4 0.6666667 l "isa"
+4 3 0.0425532 l "isa"
+5 8 0.3333333 l "isa"
+8 5 0.5000000 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.5000000 l "isa"
+1 7 0.0342612 l "substring"
+7 1 0.5000000 l "substring"
+1 8 0.0342612 l "substring"
+8 1 0.5000000 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.0425532 l "substring"
+3 4 0.6666667 l "substring"
+4 3 0.0425532 l "substring"
+4 5 0.0425532 l "substring"
+5 4 0.6666667 l "substring"
+4 5 0.0425532 l "distance"
+5 4 0.6666667 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 10
+1 "abundance" ellipse
+2 "mutagenesis" ellipse
+3 "stability" ellipse
+4 "cotreatment" ellipse
+5 "activity" ellipse
+6 "RNA splicing" ellipse
+7 "gene expression" ellipse
+8 "GO_0042050" ellipse
+9 "response to chemical stimulus" ellipse
+10 "localization" ellipse
+*Arcs
+*Edges

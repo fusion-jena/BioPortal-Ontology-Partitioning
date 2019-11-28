@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Cuneus" ellipse
+2 "Precuneus" ellipse
+*Arcs
+1 2 0.3296869 l "substring"
+2 1 0.7271215 l "substring"
+1 2 0.3296869 l "distance"
+2 1 0.7271215 l "distance"
+1 2 0.3296869 l "substring"
+2 1 0.7271215 l "substring"
+1 2 0.3296869 l "distance"
+2 1 0.7271215 l "distance"
+*Edges

@@ -1,0 +1,43 @@
+*Vertices 4
+1 "CACNG5" ellipse
+2 "CACNG6" ellipse
+3 "CACNG7" ellipse
+4 "CACNG8" ellipse
+*Arcs
+1 2 0.0600307 l "distance"
+2 1 0.0540480 l "distance"
+1 3 0.0600311 l "distance"
+3 1 0.0540638 l "distance"
+1 4 0.0602124 l "distance"
+4 1 0.0570501 l "distance"
+2 3 0.0537027 l "distance"
+3 2 0.0537181 l "distance"
+2 4 0.0538649 l "distance"
+4 2 0.0566853 l "distance"
+3 4 0.0538807 l "distance"
+4 3 0.0566858 l "distance"
+1 2 0.0600307 l "distance"
+2 1 0.0540480 l "distance"
+1 3 0.0600311 l "distance"
+3 1 0.0540638 l "distance"
+1 4 0.0602124 l "distance"
+4 1 0.0570501 l "distance"
+2 3 0.0537027 l "distance"
+3 2 0.0537181 l "distance"
+2 4 0.0538649 l "distance"
+4 2 0.0566853 l "distance"
+3 4 0.0538807 l "distance"
+4 3 0.0566858 l "distance"
+1 2 0.0600307 l "distance"
+2 1 0.0540480 l "distance"
+1 3 0.0600311 l "distance"
+3 1 0.0540638 l "distance"
+1 4 0.0602124 l "distance"
+4 1 0.0570501 l "distance"
+2 3 0.0537027 l "distance"
+3 2 0.0537181 l "distance"
+2 4 0.0538649 l "distance"
+4 2 0.0566853 l "distance"
+3 4 0.0538807 l "distance"
+4 3 0.0566858 l "distance"
+*Edges

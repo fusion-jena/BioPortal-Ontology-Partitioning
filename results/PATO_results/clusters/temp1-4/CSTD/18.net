@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Medical Monitoring Plan" ellipse
+2 "Monitoring Plan" ellipse
+*Arcs
+1 2 0.6816859 l "substring"
+2 1 0.6816859 l "substring"
+1 2 0.6816859 l "substring"
+2 1 0.6816859 l "substring"
+1 2 0.6816859 l "substring"
+2 1 0.6816859 l "substring"
+1 2 0.6816859 l "substring"
+2 1 0.6816859 l "substring"
+1 2 0.6816859 l "substring"
+2 1 0.6816859 l "substring"
+1 2 0.6816859 l "substring"
+2 1 0.6816859 l "substring"
+*Edges

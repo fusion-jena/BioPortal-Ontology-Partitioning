@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Microglia activation" ellipse
+2 "Microglia activation related to PET" ellipse
+3 "Microglial activation" ellipse
+*Arcs
+1 2 0.1873059 l "substring"
+2 1 0.2261273 l "substring"
+1 3 0.1873059 l "distance"
+3 1 0.2244898 l "distance"
+1 2 0.1873059 l "substring"
+2 1 0.2261273 l "substring"
+1 3 0.1873059 l "distance"
+3 1 0.2244898 l "distance"
+*Edges

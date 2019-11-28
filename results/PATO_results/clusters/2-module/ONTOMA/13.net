@@ -1,0 +1,83 @@
+*Vertices 22
+1 "Autre_type" ellipse
+2 "Biologique" ellipse
+3 "Biomédicale" ellipse
+4 "Concept" ellipse
+5 "Concept_biomédical" ellipse
+6 "Concept_de_la_maladie" ellipse
+7 "Donnée_biomédicale" ellipse
+8 "Donnée_non_scientifique" ellipse
+9 "Donnée_paramédicale" ellipse
+10 "Donnée_scientifique" ellipse
+11 "Information_biomédicale" ellipse
+12 "Nature_de_donnée" ellipse
+13 "Substance" ellipse
+14 "Substance_biologique" ellipse
+15 "Substance_minérale" ellipse
+16 "Substance_organique" ellipse
+17 "Type_de_variable" ellipse
+18 "Variable_biomédicale" ellipse
+19 "Variable_censurée" ellipse
+20 "Variable_holistique" ellipse
+21 "Variable_qualitative" ellipse
+22 "Variable_quantitative" ellipse
+*Arcs
+1 17 1.0000000 l "isa"
+17 1 0.2500000 l "isa"
+2 17 0.5000000 l "isa"
+17 2 0.2500000 l "isa"
+3 17 0.2500000 l "isa"
+17 3 0.2500000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.3333333 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.3333333 l "isa"
+7 5 0.5000000 l "isa"
+5 7 0.2500000 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.2500000 l "isa"
+9 12 1.0000000 l "isa"
+12 9 0.2500000 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.2500000 l "isa"
+11 5 0.5000000 l "isa"
+5 11 0.2500000 l "isa"
+12 18 0.2500000 l "isa"
+18 12 0.1428571 l "isa"
+14 13 0.6666667 l "isa"
+13 14 0.3333333 l "isa"
+15 13 1.0000000 l "isa"
+13 15 0.3333333 l "isa"
+16 13 1.0000000 l "isa"
+13 16 0.3333333 l "isa"
+17 18 0.2500000 l "isa"
+18 17 0.1428571 l "isa"
+19 18 1.0000000 l "isa"
+18 19 0.1428571 l "isa"
+20 18 1.0000000 l "isa"
+18 20 0.1428571 l "isa"
+21 18 0.5000000 l "isa"
+18 21 0.1428571 l "isa"
+22 18 0.5000000 l "isa"
+18 22 0.1428571 l "isa"
+2 14 0.5000000 l "substring"
+14 2 0.3333333 l "substring"
+3 7 0.2500000 l "substring"
+7 3 0.5000000 l "substring"
+3 11 0.2500000 l "substring"
+11 3 0.5000000 l "substring"
+3 18 0.2500000 l "substring"
+18 3 0.1428571 l "substring"
+4 5 0.3333333 l "substring"
+5 4 0.5000000 l "substring"
+4 6 0.3333333 l "substring"
+6 4 1.0000000 l "substring"
+13 14 0.3333333 l "substring"
+14 13 0.6666667 l "substring"
+13 15 0.3333333 l "substring"
+15 13 1.0000000 l "substring"
+13 16 0.3333333 l "substring"
+16 13 1.0000000 l "substring"
+21 22 0.5000000 l "distance"
+22 21 0.5000000 l "distance"
+*Edges

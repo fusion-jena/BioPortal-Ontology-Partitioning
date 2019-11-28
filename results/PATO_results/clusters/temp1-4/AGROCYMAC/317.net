@@ -1,0 +1,13 @@
+*Vertices 2
+1 "protic solvent" ellipse
+2 "amphiprotic solvent" ellipse
+*Arcs
+2 1 0.2505203 l "isa"
+1 2 0.3084343 l "isa"
+1 2 0.3084343 l "substring"
+2 1 0.2505203 l "substring"
+2 1 0.2505203 l "isa"
+1 2 0.3084343 l "isa"
+1 2 0.3084343 l "substring"
+2 1 0.2505203 l "substring"
+*Edges

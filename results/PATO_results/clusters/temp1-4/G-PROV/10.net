@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Concept" ellipse
+2 "Thing"
+*Arcs
+1 2 1.0000000 l "focus"
+2 1 0.0528693 l "focus"
+2 2 0.2628359 l "funded by"
+2 2 0.2628359 l "funded by"
+2 2 0.2628359 l "logo"
+2 2 0.2628359 l "logo"
+2 2 0.2628359 l "theme"
+2 2 0.2628359 l "theme"
+1 2 1.0000000 l "focus"
+2 1 0.0528693 l "focus"
+2 2 0.2628359 l "funded by"
+2 2 0.2628359 l "funded by"
+2 2 0.2628359 l "logo"
+2 2 0.2628359 l "logo"
+2 2 0.2628359 l "theme"
+2 2 0.2628359 l "theme"
+*Edges

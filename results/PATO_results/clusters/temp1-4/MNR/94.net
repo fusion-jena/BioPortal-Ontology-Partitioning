@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Estonia" ellipse
+2 "Tonga" ellipse
+*Arcs
+1 2 0.1809529 l "distance"
+2 1 0.1206836 l "distance"
+1 2 0.1809529 l "distance"
+2 1 0.1206836 l "distance"
+1 2 0.1809529 l "distance"
+2 1 0.1206836 l "distance"
+*Edges

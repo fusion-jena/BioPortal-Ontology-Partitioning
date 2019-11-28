@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Definite_repetitive_preoccupation_that_intrudes_into_family_life" ellipse
+2 "unproc_Definite_repetitive_preoccupation_that_intrudes_into_family_life"
+*Arcs
+1 2 0.2092189 l "substring"
+2 1 0.1781839 l "substring"
+1 2 0.2092189 l "substring"
+2 1 0.1781839 l "substring"
+*Edges

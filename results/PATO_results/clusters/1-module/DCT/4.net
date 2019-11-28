@@ -1,0 +1,17 @@
+*Vertices 4
+1 "Jurisdiction" ellipse
+2 "Location" ellipse
+3 "Location, Period, or Jurisdiction" ellipse
+4 "Period of Time" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.4000000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.4000000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2000000 l "isa"
+1 3 1.0000000 l "substring"
+3 1 0.4000000 l "substring"
+2 3 1.0000000 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

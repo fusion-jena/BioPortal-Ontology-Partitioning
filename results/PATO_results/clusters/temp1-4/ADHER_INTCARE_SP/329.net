@@ -1,0 +1,17 @@
+*Vertices 2
+1 "EndOfBloodPressureMeasuringProcess" ellipse
+2 "EndOfRoomPressureMeasuringProcess" ellipse
+*Arcs
+1 2 0.1454575 l "distance"
+2 1 0.1842248 l "distance"
+1 2 0.1454575 l "distance"
+2 1 0.1842248 l "distance"
+1 2 0.1454575 l "distance"
+2 1 0.1842248 l "distance"
+1 2 0.1454575 l "distance"
+2 1 0.1842248 l "distance"
+1 2 0.1454575 l "distance"
+2 1 0.1842248 l "distance"
+1 2 0.1454575 l "distance"
+2 1 0.1842248 l "distance"
+*Edges

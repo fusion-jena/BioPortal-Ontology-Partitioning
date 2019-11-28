@@ -1,0 +1,35 @@
+*Vertices 4
+1 "enzyme_function" ellipse
+2 "enzyme_information" ellipse
+3 "enzyme" ellipse
+4 "Container"
+*Arcs
+3 2 0.1775092 l "isa"
+2 3 0.2665719 l "isa"
+3 4 0.3937276 l "hasAnnotation"
+4 3 0.3780883 l "hasAnnotation"
+3 4 0.3937276 l "hasClassAnnotation"
+4 3 0.3780883 l "hasClassAnnotation"
+3 4 0.3937276 l "hasCommentAnnotation"
+4 3 0.3780883 l "hasCommentAnnotation"
+3 4 0.3937276 l "hasSysnameAnnotation"
+4 3 0.3780883 l "hasSysnameAnnotation"
+1 3 1.0000000 l "substring"
+3 1 0.1128096 l "substring"
+2 3 0.2665719 l "substring"
+3 2 0.1775092 l "substring"
+3 2 0.1775092 l "isa"
+2 3 0.2665719 l "isa"
+3 4 0.3937276 l "hasAnnotation"
+4 3 0.3780883 l "hasAnnotation"
+3 4 0.3937276 l "hasClassAnnotation"
+4 3 0.3780883 l "hasClassAnnotation"
+3 4 0.3937276 l "hasCommentAnnotation"
+4 3 0.3780883 l "hasCommentAnnotation"
+3 4 0.3937276 l "hasSysnameAnnotation"
+4 3 0.3780883 l "hasSysnameAnnotation"
+1 3 1.0000000 l "substring"
+3 1 0.1128096 l "substring"
+2 3 0.2665719 l "substring"
+3 2 0.1775092 l "substring"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "HeterogenousRock" ellipse
+2 "SedimentaryRock" ellipse
+3 "Sedimentary" ellipse
+*Arcs
+1 2 0.5056947 l "isa"
+2 1 0.1442495 l "isa"
+2 3 0.3222872 l "definition"
+3 2 0.6757494 l "definition"
+2 3 0.3222872 l "substring"
+3 2 0.6757494 l "substring"
+1 2 0.5056947 l "isa"
+2 1 0.1442495 l "isa"
+2 3 0.3222872 l "definition"
+3 2 0.6757494 l "definition"
+2 3 0.3222872 l "substring"
+3 2 0.6757494 l "substring"
+*Edges

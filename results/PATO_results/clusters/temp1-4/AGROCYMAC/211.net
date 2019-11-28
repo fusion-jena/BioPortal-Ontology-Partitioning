@@ -1,0 +1,13 @@
+*Vertices 2
+1 "linear density" ellipse
+2 "linear density unit" ellipse
+*Arcs
+2 1 0.2579677 l "definition"
+1 2 0.5391849 l "definition"
+1 2 0.5391849 l "substring"
+2 1 0.2579677 l "substring"
+2 1 0.2579677 l "definition"
+1 2 0.5391849 l "definition"
+1 2 0.5391849 l "substring"
+2 1 0.2579677 l "substring"
+*Edges

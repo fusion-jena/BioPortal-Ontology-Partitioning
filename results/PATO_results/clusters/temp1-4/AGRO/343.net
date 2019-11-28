@@ -1,0 +1,9 @@
+*Vertices 2
+1 "phosphorus oxoacid" ellipse
+2 "phosphorus oxoacids and derivatives" ellipse
+*Arcs
+1 2 0.1666667 l "isa"
+2 1 0.2222222 l "isa"
+1 2 0.1666667 l "substring"
+2 1 0.2222222 l "substring"
+*Edges

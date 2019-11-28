@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Rosovastatin" ellipse
+2 "rosuvastatin" ellipse
+*Arcs
+1 2 0.1405171 l "distance"
+2 1 0.2089143 l "distance"
+1 2 0.1405171 l "distance"
+2 1 0.2089143 l "distance"
+1 2 0.1405171 l "distance"
+2 1 0.2089143 l "distance"
+*Edges

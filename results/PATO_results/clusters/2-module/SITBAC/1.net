@@ -1,0 +1,107 @@
+*Vertices 22
+1 "XMLAttribute" ellipse
+2 "XMLAttribute2DataPropertyMap" ellipse
+3 "XMLAttribute2DataPropertyValueMap" ellipse
+4 "XMLAttribute2InstanceMap" ellipse
+5 "XMLAttribute2ObjectPropertyInstanceValueMap" ellipse
+6 "XMLAttribute2ObjectPropertyMap" ellipse
+7 "XMLAttribute2ObjectPropertyPropertyValueMap" ellipse
+8 "XMLAttribute2ObjectPropertyValueMap" ellipse
+9 "XMLAttribute2PropertyMap" ellipse
+10 "XMLAttribute2PropertyValueMap" ellipse
+11 "XMLAttributeMap" ellipse
+12 "XMLDocument" ellipse
+13 "XMLDocumentMap" ellipse
+14 "XMLElement" ellipse
+15 "XMLElement2DataPropertyValueMap" ellipse
+16 "XMLElement2ObjectPropertyPropertyValueMap" ellipse
+17 "XMLElement2ObjectPropertyValueMap" ellipse
+18 "XMLElement2PropertyMap" ellipse
+19 "XMLElement2PropertyValueMap" ellipse
+20 "XMLElementDataPropertyMap" ellipse
+21 "Document" ellipse
+22 "hasXSDType"
+*Arcs
+2 9 0.5000000 l "isa"
+9 2 0.1666667 l "isa"
+3 10 0.3333333 l "isa"
+10 3 0.2000000 l "isa"
+4 11 0.5000000 l "isa"
+11 4 0.1111111 l "isa"
+5 8 0.5000000 l "isa"
+8 5 0.2000000 l "isa"
+6 9 0.5000000 l "isa"
+9 6 0.1666667 l "isa"
+7 8 0.5000000 l "isa"
+8 7 0.2000000 l "isa"
+8 10 0.2000000 l "isa"
+10 8 0.2000000 l "isa"
+9 11 0.1666667 l "isa"
+11 9 0.1111111 l "isa"
+10 11 0.2000000 l "isa"
+11 10 0.1111111 l "isa"
+15 19 0.3333333 l "isa"
+19 15 0.2000000 l "isa"
+16 17 0.5000000 l "isa"
+17 16 0.1666667 l "isa"
+17 19 0.1666667 l "isa"
+19 17 0.2000000 l "isa"
+20 18 0.5000000 l "isa"
+18 20 0.1666667 l "isa"
+14 1 0.0434783 l "hasAttributes"
+1 14 0.0555556 l "hasAttributes"
+12 14 0.2857143 l "hasElements"
+14 12 0.0869565 l "hasElements"
+12 14 0.2857143 l "hasRootElement"
+14 12 0.0869565 l "hasRootElement"
+14 14 0.0869565 l "hasSubElements"
+14 14 0.0869565 l "hasSubElements"
+22 15 0.2500000 l "definition"
+15 22 0.3333333 l "definition"
+22 3 0.2500000 l "definition"
+3 22 0.3333333 l "definition"
+1 2 0.0555556 l "substring"
+2 1 0.5000000 l "substring"
+1 3 0.0555556 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.0555556 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.0555556 l "substring"
+5 1 0.5000000 l "substring"
+1 6 0.0555556 l "substring"
+6 1 0.5000000 l "substring"
+1 7 0.0555556 l "substring"
+7 1 0.5000000 l "substring"
+1 8 0.0555556 l "substring"
+8 1 0.2000000 l "substring"
+1 9 0.0555556 l "substring"
+9 1 0.1666667 l "substring"
+1 10 0.0555556 l "substring"
+10 1 0.2000000 l "substring"
+1 11 0.1111111 l "substring"
+11 1 0.2222222 l "substring"
+12 13 0.2857143 l "substring"
+13 12 0.3333333 l "substring"
+12 21 0.2857143 l "substring"
+21 12 0.1176471 l "substring"
+13 21 0.1666667 l "substring"
+21 13 0.0588235 l "substring"
+14 15 0.0434783 l "substring"
+15 14 0.3333333 l "substring"
+14 16 0.0434783 l "substring"
+16 14 0.5000000 l "substring"
+14 17 0.0434783 l "substring"
+17 14 0.1666667 l "substring"
+14 18 0.0434783 l "substring"
+18 14 0.1666667 l "substring"
+14 19 0.0434783 l "substring"
+19 14 0.2000000 l "substring"
+14 20 0.0434783 l "substring"
+20 14 0.5000000 l "substring"
+1 11 0.1111111 l "distance"
+11 1 0.2222222 l "distance"
+12 13 0.2857143 l "distance"
+13 12 0.3333333 l "distance"
+12 21 0.2857143 l "distance"
+21 12 0.1176471 l "distance"
+*Edges

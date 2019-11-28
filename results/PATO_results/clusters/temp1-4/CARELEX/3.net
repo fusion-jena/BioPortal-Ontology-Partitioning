@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Multitude" ellipse
+2 "Part" ellipse
+*Arcs
+2 1 0.3000000 l "isa"
+1 2 0.5142857 l "isa"
+2 1 0.3000000 l "isa"
+1 2 0.5142857 l "isa"
+*Edges

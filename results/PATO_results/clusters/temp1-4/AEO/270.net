@@ -1,0 +1,43 @@
+*Vertices 4
+1 "CNP" ellipse
+2 "KCND1" ellipse
+3 "KCND3" ellipse
+4 "KCNIP3" ellipse
+*Arcs
+1 2 0.0105366 l "distance"
+2 1 0.0516435 l "distance"
+1 3 0.0107199 l "distance"
+3 1 0.0696141 l "distance"
+1 4 0.0114336 l "distance"
+4 1 0.1413174 l "distance"
+2 3 0.0546728 l "distance"
+3 2 0.0724377 l "distance"
+2 4 0.0583032 l "distance"
+4 2 0.1470248 l "distance"
+3 4 0.0785835 l "distance"
+4 3 0.1495669 l "distance"
+1 2 0.0105366 l "distance"
+2 1 0.0516435 l "distance"
+1 3 0.0107199 l "distance"
+3 1 0.0696141 l "distance"
+1 4 0.0114336 l "distance"
+4 1 0.1413174 l "distance"
+2 3 0.0546728 l "distance"
+3 2 0.0724377 l "distance"
+2 4 0.0583032 l "distance"
+4 2 0.1470248 l "distance"
+3 4 0.0785835 l "distance"
+4 3 0.1495669 l "distance"
+1 2 0.0105366 l "distance"
+2 1 0.0516435 l "distance"
+1 3 0.0107199 l "distance"
+3 1 0.0696141 l "distance"
+1 4 0.0114336 l "distance"
+4 1 0.1413174 l "distance"
+2 3 0.0546728 l "distance"
+3 2 0.0724377 l "distance"
+2 4 0.0583032 l "distance"
+4 2 0.1470248 l "distance"
+3 4 0.0785835 l "distance"
+4 3 0.1495669 l "distance"
+*Edges

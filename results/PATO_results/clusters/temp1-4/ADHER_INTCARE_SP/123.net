@@ -1,0 +1,41 @@
+*Vertices 8
+1 "Adherencia_medicacion" ellipse
+2 "Caracteristicas" ellipse
+3 "Concordancia" ellipse
+4 "F1_Iniciacion" ellipse
+5 "F2_Implementacion" ellipse
+6 "Fases_adherencia_medicacion" ellipse
+7 "Persistencia" ellipse
+8 "abarcada_por"
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.0909091 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+4 6 0.1250000 l "isa"
+6 4 0.1428571 l "isa"
+5 6 0.0588235 l "isa"
+6 5 0.1428571 l "isa"
+6 1 0.2857143 l "isa"
+1 6 0.1818182 l "isa"
+7 2 0.1250000 l "isa"
+2 7 0.3333333 l "isa"
+8 4 0.2857143 l "definition"
+4 8 0.2500000 l "definition"
+8 5 0.2857143 l "definition"
+5 8 0.1176471 l "definition"
+4 8 0.2500000 l "definition"
+8 4 0.2857143 l "definition"
+4 7 0.2500000 l "definition"
+7 4 0.2500000 l "definition"
+5 8 0.1176471 l "definition"
+8 5 0.2857143 l "definition"
+5 7 0.1176471 l "definition"
+7 5 0.2500000 l "definition"
+7 4 0.2500000 l "definition"
+4 7 0.2500000 l "definition"
+7 5 0.2500000 l "definition"
+5 7 0.1176471 l "definition"
+1 6 0.1818182 l "substring"
+6 1 0.2857143 l "substring"
+*Edges

@@ -1,0 +1,75 @@
+*Vertices 18
+1 "undivided" ellipse
+2 "CreativeWork" ellipse
+3 "Label Property" ellipse
+4 "Project" ellipse
+5 "disease management" ellipse
+6 "formal rule" ellipse
+7 "part_of"
+8 "Spatial Thing" ellipse
+9 "has_part"
+10 "Restriction"
+11 "Issue" ellipse
+12 "hasPart"
+13 "was derieved from"
+14 "journal" ellipse
+15 "magazine" ellipse
+16 "newspaper" ellipse
+17 "phyllome" ellipse
+18 "stipe" ellipse
+*Arcs
+8 8 0.6296890 l "based near"
+8 8 0.6296890 l "based near"
+8 8 0.6296890 l "based near"
+8 8 0.6296890 l "based near"
+11 10 0.1175546 l "definition"
+10 11 0.0557668 l "definition"
+11 12 0.1254037 l "definition"
+12 11 0.1935881 l "definition"
+14 10 0.2393149 l "definition"
+10 14 0.0589652 l "definition"
+14 12 0.2544271 l "definition"
+12 14 0.2039961 l "definition"
+14 11 0.2466385 l "definition"
+11 14 0.1281005 l "definition"
+15 10 0.2393149 l "definition"
+10 15 0.0589652 l "definition"
+15 12 0.2544271 l "definition"
+12 15 0.2039961 l "definition"
+15 11 0.2466385 l "definition"
+11 15 0.1281005 l "definition"
+16 10 0.2393149 l "definition"
+10 16 0.0589652 l "definition"
+16 12 0.2544271 l "definition"
+12 16 0.2039961 l "definition"
+16 11 0.2466385 l "definition"
+11 16 0.1281005 l "definition"
+9 12 0.1457139 l "distance"
+12 9 0.1944236 l "distance"
+8 8 0.6296890 l "based near"
+8 8 0.6296890 l "based near"
+11 10 0.1175546 l "definition"
+10 11 0.0557668 l "definition"
+11 12 0.1254037 l "definition"
+12 11 0.1935881 l "definition"
+14 10 0.2393149 l "definition"
+10 14 0.0589652 l "definition"
+14 12 0.2544271 l "definition"
+12 14 0.2039961 l "definition"
+14 11 0.2466385 l "definition"
+11 14 0.1281005 l "definition"
+15 10 0.2393149 l "definition"
+10 15 0.0589652 l "definition"
+15 12 0.2544271 l "definition"
+12 15 0.2039961 l "definition"
+15 11 0.2466385 l "definition"
+11 15 0.1281005 l "definition"
+16 10 0.2393149 l "definition"
+10 16 0.0589652 l "definition"
+16 12 0.2544271 l "definition"
+12 16 0.2039961 l "definition"
+16 11 0.2466385 l "definition"
+11 16 0.1281005 l "definition"
+9 12 0.1457139 l "distance"
+12 9 0.1944236 l "distance"
+*Edges

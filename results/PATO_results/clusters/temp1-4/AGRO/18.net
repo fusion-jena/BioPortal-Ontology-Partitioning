@@ -1,0 +1,14 @@
+*Vertices 3
+1 "to deliver material" ellipse
+2 "to deliver mobile phase" ellipse
+3 "to import" ellipse
+*Arcs
+1 3 0.3335764 l "isa"
+3 1 0.1522951 l "isa"
+2 1 0.2262084 l "isa"
+1 2 0.3480099 l "isa"
+1 3 0.3335764 l "isa"
+3 1 0.1522951 l "isa"
+2 1 0.2262084 l "isa"
+1 2 0.3480099 l "isa"
+*Edges

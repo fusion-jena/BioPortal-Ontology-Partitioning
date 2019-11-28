@@ -1,0 +1,23 @@
+*Vertices 4
+1 "statistical model validation" ellipse
+2 "leave one out cross validation method" ellipse
+3 "partitioning objective" ellipse
+4 "cross validation objective" ellipse
+*Arcs
+2 1 0.2061950 l "isa"
+1 2 0.1507500 l "isa"
+4 3 0.2013418 l "isa"
+3 4 0.1169022 l "isa"
+1 4 0.1507500 l "definition"
+4 1 0.2041075 l "definition"
+2 4 0.2112241 l "definition"
+4 2 0.2090858 l "definition"
+2 1 0.2061950 l "isa"
+1 2 0.1507500 l "isa"
+4 3 0.2013418 l "isa"
+3 4 0.1169022 l "isa"
+1 4 0.1507500 l "definition"
+4 1 0.2041075 l "definition"
+2 4 0.2112241 l "definition"
+4 2 0.2090858 l "definition"
+*Edges

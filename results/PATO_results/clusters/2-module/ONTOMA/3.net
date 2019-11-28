@@ -1,0 +1,490 @@
+*Vertices 121
+1 "Agent_pathogène" ellipse
+2 "Anatomie" ellipse
+3 "Article" ellipse
+4 "Article_de_journal" ellipse
+5 "Bactérie" ellipse
+6 "Bouche" ellipse
+7 "Carte_de_visite" ellipse
+8 "Clan" ellipse
+9 "Coeur" ellipse
+10 "Couleur" ellipse
+11 "Dessin" ellipse
+12 "Dieu" ellipse
+13 "Document" ellipse
+14 "Donnée_ethnique" ellipse
+15 "Douleurs_articulaires" ellipse
+16 "Douleurs_chroniques" ellipse
+17 "Douleurs_corporelles" ellipse
+18 "Douleurs_et_brûlure" ellipse
+19 "Douleurs_gastriques" ellipse
+20 "Douleurs_lombaires" ellipse
+21 "Douleurs_musculaires" ellipse
+22 "Douleurs_par_stimulation" ellipse
+23 "Douleurs_partout" ellipse
+24 "Douleurs_passagères" ellipse
+25 "Douleurs_pénibles" ellipse
+26 "Douleurs_respiratoires" ellipse
+27 "Douleurs_régulières" ellipse
+28 "Douleurs_senties" ellipse
+29 "Découragement_du_mal" ellipse
+30 "Dévin" ellipse
+31 "Entité_surnaturelle_ou_mystique" ellipse
+32 "Ethnie" ellipse
+33 "Fiche_de_produit" ellipse
+34 "Fiche_technico-publicitaire" ellipse
+35 "Fiche_technico_publicitaire" ellipse
+36 "Fiche_technique" ellipse
+37 "Flyer" ellipse
+38 "Génie" ellipse
+39 "Iconographie" ellipse
+40 "Image" ellipse
+41 "Journal" ellipse
+42 "La_douleur" ellipse
+43 "La_douleur_articulaire" ellipse
+44 "La_douleur_de_reins" ellipse
+45 "La_douleur_de_tout_le_corps" ellipse
+46 "La_douleur_et_la_brûlure" ellipse
+47 "La_douleur_interne" ellipse
+48 "La_douleur_interne_localisée" ellipse
+49 "La_douleur_osseuse" ellipse
+50 "La_douleur_provoquée" ellipse
+51 "La_douleur_rénale" ellipse
+52 "Langue" ellipse
+53 "Le_mal" ellipse
+54 "Le_mal_sans_remède" ellipse
+55 "Le_mal_à" ellipse
+56 "Les_dieux" ellipse
+57 "Les_djinns" ellipse
+58 "Les_douleurs" ellipse
+59 "Les_formes_de_douleur" ellipse
+60 "Les_maux" ellipse
+61 "Livre" ellipse
+62 "Mal_au_cours_de" ellipse
+63 "Mal_de_foie" ellipse
+64 "Mal_de_tête" ellipse
+65 "Mal_partout" ellipse
+66 "Mal_traiter" ellipse
+67 "Manuel" ellipse
+68 "Mauvais_oeil" ellipse
+69 "Maux_de_bas_ventre" ellipse
+70 "Maux_de_coeur" ellipse
+71 "Maux_de_céphalée" ellipse
+72 "Maux_de_côtes" ellipse
+73 "Maux_de_dent" ellipse
+74 "Maux_de_dents" ellipse
+75 "Maux_de_dents_dus_aux_douleurs_chroniques" ellipse
+76 "Maux_de_dents_dus_aux_douleurs_passagères" ellipse
+77 "Maux_de_gorge" ellipse
+78 "Maux_de_hanche" ellipse
+79 "Maux_de_membres" ellipse
+80 "Maux_de_nombril" ellipse
+81 "Maux_de_tout_le_corps" ellipse
+82 "Maux_de_tête" ellipse
+83 "Maux_de_tête_chronique" ellipse
+84 "Maux_de_tête_compliqués" ellipse
+85 "Maux_de_tête_en_général" ellipse
+86 "Maux_de_tête_simple_et_chronique" ellipse
+87 "Maux_de_tête_violent_et_chronique" ellipse
+88 "Maux_de_ventre" ellipse
+89 "Microbe" ellipse
+90 "Nom_du_guérisseur" ellipse
+91 "Nom_du_village" ellipse
+92 "Notion_du_Mal" ellipse
+93 "Organe" ellipse
+94 "Pathologie" ellipse
+95 "Photo" ellipse
+96 "Prospectus" ellipse
+97 "Publication" ellipse
+98 "Rein" ellipse
+99 "Site_web" ellipse
+100 "Support_de_communication" ellipse
+101 "Symbole" ellipse
+102 "Symbole_de_pathologie" ellipse
+103 "Symbole_de_plante" ellipse
+104 "Symbole_de_produit" ellipse
+105 "Symbôle_réligieux" ellipse
+106 "Topographie" ellipse
+107 "Tradipathologie" ellipse
+108 "Type_de_symbole" ellipse
+109 "Tête" ellipse
+110 "Village" ellipse
+111 "Ville" ellipse
+112 "Virus" ellipse
+113 "Vives_douleurs" ellipse
+114 "Vives_douleurs_lombaires" ellipse
+115 "La_douleur_et_l'enflément_des_pieds" ellipse
+116 "La_douleur_vive,_atroce,_localisée" ellipse
+117 "Maux_d'articulation" ellipse
+118 "Maux_d'oreille" ellipse
+119 "Maux_d'oreilles" ellipse
+120 "Maux_d'yeux" ellipse
+121 "Maux_de_tête_d'origine_tensionnelle" ellipse
+*Arcs
+3 97 0.3333333 l "isa"
+97 3 0.2500000 l "isa"
+4 3 0.6666667 l "isa"
+3 4 0.6666667 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.3333333 l "isa"
+6 106 1.0000000 l "isa"
+106 6 0.2500000 l "isa"
+7 13 1.0000000 l "isa"
+13 7 0.2000000 l "isa"
+8 14 0.5000000 l "isa"
+14 8 0.2000000 l "isa"
+9 93 0.2500000 l "isa"
+93 9 0.2000000 l "isa"
+11 101 0.3333333 l "isa"
+101 11 0.1111111 l "isa"
+12 31 0.2000000 l "isa"
+31 12 0.1666667 l "isa"
+15 58 1.0000000 l "isa"
+58 15 0.0555556 l "isa"
+16 58 0.5000000 l "isa"
+58 16 0.0555556 l "isa"
+17 58 1.0000000 l "isa"
+58 17 0.0555556 l "isa"
+18 58 1.0000000 l "isa"
+58 18 0.0555556 l "isa"
+19 58 1.0000000 l "isa"
+58 19 0.0555556 l "isa"
+20 58 0.5000000 l "isa"
+58 20 0.0555556 l "isa"
+21 58 1.0000000 l "isa"
+58 21 0.0555556 l "isa"
+22 58 1.0000000 l "isa"
+58 22 0.0555556 l "isa"
+23 58 1.0000000 l "isa"
+58 23 0.0555556 l "isa"
+24 58 0.5000000 l "isa"
+58 24 0.0555556 l "isa"
+25 58 1.0000000 l "isa"
+58 25 0.0555556 l "isa"
+26 58 1.0000000 l "isa"
+58 26 0.0555556 l "isa"
+27 58 1.0000000 l "isa"
+58 27 0.0555556 l "isa"
+28 58 1.0000000 l "isa"
+58 28 0.0555556 l "isa"
+29 53 1.0000000 l "isa"
+53 29 0.0714286 l "isa"
+32 14 0.5000000 l "isa"
+14 32 0.2000000 l "isa"
+33 100 1.0000000 l "isa"
+100 33 0.2000000 l "isa"
+34 100 0.5000000 l "isa"
+100 34 0.2000000 l "isa"
+35 13 0.5000000 l "isa"
+13 35 0.2000000 l "isa"
+36 13 1.0000000 l "isa"
+13 36 0.2000000 l "isa"
+37 100 1.0000000 l "isa"
+100 37 0.2000000 l "isa"
+38 31 0.3333333 l "isa"
+31 38 0.1666667 l "isa"
+39 101 0.5000000 l "isa"
+101 39 0.1111111 l "isa"
+40 101 0.5000000 l "isa"
+101 40 0.1111111 l "isa"
+41 100 0.5000000 l "isa"
+100 41 0.2000000 l "isa"
+42 59 0.0416667 l "isa"
+59 42 0.5000000 l "isa"
+43 42 1.0000000 l "isa"
+42 43 0.0833333 l "isa"
+44 42 0.6666667 l "isa"
+42 44 0.0833333 l "isa"
+45 42 1.0000000 l "isa"
+42 45 0.0833333 l "isa"
+46 42 1.0000000 l "isa"
+42 46 0.0833333 l "isa"
+47 42 0.6666667 l "isa"
+42 47 0.0833333 l "isa"
+48 42 0.6666667 l "isa"
+42 48 0.0833333 l "isa"
+49 42 1.0000000 l "isa"
+42 49 0.0833333 l "isa"
+50 42 1.0000000 l "isa"
+42 50 0.0833333 l "isa"
+51 42 1.0000000 l "isa"
+42 51 0.0833333 l "isa"
+53 92 0.0714286 l "isa"
+92 53 0.5000000 l "isa"
+54 53 1.0000000 l "isa"
+53 54 0.1428571 l "isa"
+55 53 1.0000000 l "isa"
+53 55 0.2142857 l "isa"
+56 31 0.3333333 l "isa"
+31 56 0.1666667 l "isa"
+57 31 1.0000000 l "isa"
+31 57 0.1666667 l "isa"
+58 59 0.0555556 l "isa"
+59 58 0.5000000 l "isa"
+60 92 0.0400000 l "isa"
+92 60 0.5000000 l "isa"
+61 97 0.5000000 l "isa"
+97 61 0.2500000 l "isa"
+62 53 1.0000000 l "isa"
+53 62 0.0714286 l "isa"
+63 53 0.5000000 l "isa"
+53 63 0.0714286 l "isa"
+64 53 0.2500000 l "isa"
+53 64 0.0714286 l "isa"
+65 53 1.0000000 l "isa"
+53 65 0.0714286 l "isa"
+66 53 1.0000000 l "isa"
+53 66 0.0714286 l "isa"
+67 97 0.5000000 l "isa"
+97 67 0.2500000 l "isa"
+68 31 1.0000000 l "isa"
+31 68 0.1666667 l "isa"
+69 60 1.0000000 l "isa"
+60 69 0.0400000 l "isa"
+70 60 0.5000000 l "isa"
+60 70 0.0400000 l "isa"
+71 60 1.0000000 l "isa"
+60 71 0.0400000 l "isa"
+72 60 0.5000000 l "isa"
+60 72 0.0400000 l "isa"
+73 60 0.0909091 l "isa"
+60 73 0.0400000 l "isa"
+74 60 0.0833333 l "isa"
+60 74 0.0400000 l "isa"
+75 74 0.4000000 l "isa"
+74 75 0.1666667 l "isa"
+76 74 0.4000000 l "isa"
+74 76 0.1666667 l "isa"
+77 60 1.0000000 l "isa"
+60 77 0.0400000 l "isa"
+78 60 1.0000000 l "isa"
+60 78 0.0400000 l "isa"
+79 60 1.0000000 l "isa"
+60 79 0.0400000 l "isa"
+80 60 1.0000000 l "isa"
+60 80 0.0400000 l "isa"
+81 60 1.0000000 l "isa"
+60 81 0.0400000 l "isa"
+82 60 0.0625000 l "isa"
+60 82 0.0400000 l "isa"
+83 82 0.6666667 l "isa"
+82 83 0.1250000 l "isa"
+84 82 0.6666667 l "isa"
+82 84 0.1250000 l "isa"
+85 82 0.6666667 l "isa"
+82 85 0.1250000 l "isa"
+86 82 0.6666667 l "isa"
+82 86 0.1250000 l "isa"
+87 82 0.6666667 l "isa"
+82 87 0.1250000 l "isa"
+88 60 0.3333333 l "isa"
+60 88 0.0400000 l "isa"
+89 1 1.0000000 l "isa"
+1 89 0.3333333 l "isa"
+90 14 1.0000000 l "isa"
+14 90 0.2000000 l "isa"
+91 14 0.5000000 l "isa"
+14 91 0.2000000 l "isa"
+93 2 0.2000000 l "isa"
+2 93 0.5000000 l "isa"
+95 101 1.0000000 l "isa"
+101 95 0.1111111 l "isa"
+96 13 1.0000000 l "isa"
+13 96 0.2000000 l "isa"
+97 13 0.2500000 l "isa"
+13 97 0.2000000 l "isa"
+98 93 0.0909091 l "isa"
+93 98 0.2000000 l "isa"
+99 100 1.0000000 l "isa"
+100 99 0.2000000 l "isa"
+102 108 0.3333333 l "isa"
+108 102 0.1666667 l "isa"
+103 108 0.5000000 l "isa"
+108 103 0.1666667 l "isa"
+104 108 0.5000000 l "isa"
+108 104 0.1666667 l "isa"
+105 108 1.0000000 l "isa"
+108 105 0.1666667 l "isa"
+106 2 0.2500000 l "isa"
+2 106 0.5000000 l "isa"
+108 101 0.3333333 l "isa"
+101 108 0.2222222 l "isa"
+109 106 0.0909091 l "isa"
+106 109 0.2500000 l "isa"
+112 1 0.3333333 l "isa"
+1 112 0.3333333 l "isa"
+113 58 0.5000000 l "isa"
+58 113 0.1111111 l "isa"
+114 113 0.6666667 l "isa"
+113 114 0.5000000 l "isa"
+115 42 1.0000000 l "isa"
+42 115 0.0833333 l "isa"
+116 42 1.0000000 l "isa"
+42 116 0.0833333 l "isa"
+117 60 1.0000000 l "isa"
+60 117 0.0400000 l "isa"
+118 60 0.3333333 l "isa"
+60 118 0.0400000 l "isa"
+119 60 0.3333333 l "isa"
+60 119 0.0400000 l "isa"
+120 60 1.0000000 l "isa"
+60 120 0.0400000 l "isa"
+121 82 0.6666667 l "isa"
+82 121 0.1250000 l "isa"
+3 4 0.6666667 l "substring"
+4 3 0.6666667 l "substring"
+4 41 0.3333333 l "substring"
+41 4 0.5000000 l "substring"
+9 70 0.2500000 l "substring"
+70 9 0.5000000 l "substring"
+12 56 0.2000000 l "substring"
+56 12 0.3333333 l "substring"
+16 75 0.5000000 l "substring"
+75 16 0.2000000 l "substring"
+20 114 0.5000000 l "substring"
+114 20 0.3333333 l "substring"
+24 76 0.5000000 l "substring"
+76 24 0.2000000 l "substring"
+42 43 0.0833333 l "substring"
+43 42 1.0000000 l "substring"
+42 44 0.0833333 l "substring"
+44 42 0.6666667 l "substring"
+42 45 0.0833333 l "substring"
+45 42 1.0000000 l "substring"
+42 46 0.0833333 l "substring"
+46 42 1.0000000 l "substring"
+42 47 0.0833333 l "substring"
+47 42 0.6666667 l "substring"
+42 48 0.0833333 l "substring"
+48 42 0.6666667 l "substring"
+42 49 0.0833333 l "substring"
+49 42 1.0000000 l "substring"
+42 50 0.0833333 l "substring"
+50 42 1.0000000 l "substring"
+42 51 0.0833333 l "substring"
+51 42 1.0000000 l "substring"
+42 115 0.0833333 l "substring"
+115 42 1.0000000 l "substring"
+42 116 0.0833333 l "substring"
+116 42 1.0000000 l "substring"
+44 98 0.3333333 l "substring"
+98 44 0.0909091 l "substring"
+47 48 0.3333333 l "substring"
+48 47 0.3333333 l "substring"
+53 54 0.1428571 l "substring"
+54 53 1.0000000 l "substring"
+53 55 0.2142857 l "substring"
+55 53 1.0000000 l "substring"
+64 109 0.2500000 l "substring"
+109 64 0.0909091 l "substring"
+73 74 0.1818182 l "substring"
+74 73 0.1666667 l "substring"
+73 75 0.0909091 l "substring"
+75 73 0.2000000 l "substring"
+73 76 0.0909091 l "substring"
+76 73 0.2000000 l "substring"
+74 75 0.1666667 l "substring"
+75 74 0.4000000 l "substring"
+74 76 0.1666667 l "substring"
+76 74 0.4000000 l "substring"
+82 83 0.1250000 l "substring"
+83 82 0.6666667 l "substring"
+82 84 0.1250000 l "substring"
+84 82 0.6666667 l "substring"
+82 85 0.1250000 l "substring"
+85 82 0.6666667 l "substring"
+82 86 0.1250000 l "substring"
+86 82 0.6666667 l "substring"
+82 87 0.1250000 l "substring"
+87 82 0.6666667 l "substring"
+82 109 0.0625000 l "substring"
+109 82 0.0909091 l "substring"
+82 121 0.1250000 l "substring"
+121 82 0.6666667 l "substring"
+83 109 0.3333333 l "substring"
+109 83 0.0909091 l "substring"
+84 109 0.3333333 l "substring"
+109 84 0.0909091 l "substring"
+85 109 0.3333333 l "substring"
+109 85 0.0909091 l "substring"
+86 109 0.3333333 l "substring"
+109 86 0.0909091 l "substring"
+87 109 0.3333333 l "substring"
+109 87 0.0909091 l "substring"
+91 110 0.5000000 l "substring"
+110 91 0.2500000 l "substring"
+94 102 0.5000000 l "substring"
+102 94 0.3333333 l "substring"
+94 107 0.5000000 l "substring"
+107 94 1.0000000 l "substring"
+101 102 0.1111111 l "substring"
+102 101 0.3333333 l "substring"
+101 103 0.1111111 l "substring"
+103 101 0.5000000 l "substring"
+101 104 0.1111111 l "substring"
+104 101 0.5000000 l "substring"
+101 108 0.2222222 l "substring"
+108 101 0.3333333 l "substring"
+109 121 0.0909091 l "substring"
+121 109 0.3333333 l "substring"
+113 114 0.5000000 l "substring"
+114 113 0.6666667 l "substring"
+118 119 0.6666667 l "substring"
+119 118 0.6666667 l "substring"
+8 98 0.5000000 l "distance"
+98 8 0.0909091 l "distance"
+9 10 0.2500000 l "distance"
+10 9 1.0000000 l "distance"
+9 12 0.2500000 l "distance"
+12 9 0.2000000 l "distance"
+11 30 0.3333333 l "distance"
+30 11 0.2500000 l "distance"
+11 98 0.3333333 l "distance"
+98 11 0.0909091 l "distance"
+12 112 0.2000000 l "distance"
+112 12 0.3333333 l "distance"
+30 38 0.2500000 l "distance"
+38 30 0.3333333 l "distance"
+30 98 0.2500000 l "distance"
+98 30 0.0909091 l "distance"
+32 38 0.5000000 l "distance"
+38 32 0.3333333 l "distance"
+34 35 0.5000000 l "distance"
+35 34 0.5000000 l "distance"
+39 106 0.5000000 l "distance"
+106 39 0.2500000 l "distance"
+40 110 0.5000000 l "distance"
+110 40 0.2500000 l "distance"
+42 58 0.0416667 l "distance"
+58 42 0.0555556 l "distance"
+52 67 1.0000000 l "distance"
+67 52 0.5000000 l "distance"
+53 55 0.2142857 l "distance"
+55 53 1.0000000 l "distance"
+53 60 0.0714286 l "distance"
+60 53 0.0400000 l "distance"
+56 60 0.3333333 l "distance"
+60 56 0.0400000 l "distance"
+58 113 0.1111111 l "distance"
+113 58 0.5000000 l "distance"
+61 111 0.5000000 l "distance"
+111 61 0.2500000 l "distance"
+63 64 0.5000000 l "distance"
+64 63 0.2500000 l "distance"
+64 82 0.2500000 l "distance"
+82 64 0.0625000 l "distance"
+72 82 0.5000000 l "distance"
+82 72 0.0625000 l "distance"
+73 74 0.1818182 l "distance"
+74 73 0.1666667 l "distance"
+73 88 0.0909091 l "distance"
+88 73 0.3333333 l "distance"
+74 88 0.0833333 l "distance"
+88 74 0.3333333 l "distance"
+110 111 0.2500000 l "distance"
+111 110 0.2500000 l "distance"
+111 112 0.2500000 l "distance"
+112 111 0.3333333 l "distance"
+118 119 0.6666667 l "distance"
+119 118 0.6666667 l "distance"
+*Edges

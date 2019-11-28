@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Performance_of_Chores" ellipse
+2 "Performance_of_Household_Tasks" ellipse
+3 "Preparation_of_Food" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+*Edges

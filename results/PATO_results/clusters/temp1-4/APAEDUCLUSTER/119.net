@@ -1,0 +1,25 @@
+*Vertices 2
+1 "Negative" ellipse
+2 "NegativeChargedAminoAcid" ellipse
+*Arcs
+2 1 0.2424049 l "definition"
+1 2 0.3065604 l "definition"
+1 2 0.3065604 l "substring"
+2 1 0.2424049 l "substring"
+2 1 0.2424049 l "definition"
+1 2 0.3065604 l "definition"
+1 2 0.3065604 l "substring"
+2 1 0.2424049 l "substring"
+2 1 0.2424049 l "definition"
+1 2 0.3065604 l "definition"
+1 2 0.3065604 l "substring"
+2 1 0.2424049 l "substring"
+2 1 0.2424049 l "definition"
+1 2 0.3065604 l "definition"
+1 2 0.3065604 l "substring"
+2 1 0.2424049 l "substring"
+2 1 0.2424049 l "definition"
+1 2 0.3065604 l "definition"
+1 2 0.3065604 l "substring"
+2 1 0.2424049 l "substring"
+*Edges

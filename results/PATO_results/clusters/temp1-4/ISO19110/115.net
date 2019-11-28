@@ -1,0 +1,30 @@
+*Vertices 3
+1 "CAMKK1" ellipse
+2 "CAMKK2" ellipse
+3 "CAMKV" ellipse
+*Arcs
+1 2 0.0880096 l "distance"
+2 1 0.0818069 l "distance"
+1 3 0.0859183 l "distance"
+3 1 0.0601140 l "distance"
+2 3 0.0791790 l "distance"
+3 2 0.0595992 l "distance"
+1 2 0.0880096 l "distance"
+2 1 0.0818069 l "distance"
+1 3 0.0859183 l "distance"
+3 1 0.0601140 l "distance"
+2 3 0.0791790 l "distance"
+3 2 0.0595992 l "distance"
+1 2 0.0880096 l "distance"
+2 1 0.0818069 l "distance"
+1 3 0.0859183 l "distance"
+3 1 0.0601140 l "distance"
+2 3 0.0791790 l "distance"
+3 2 0.0595992 l "distance"
+1 2 0.0880096 l "distance"
+2 1 0.0818069 l "distance"
+1 3 0.0859183 l "distance"
+3 1 0.0601140 l "distance"
+2 3 0.0791790 l "distance"
+3 2 0.0595992 l "distance"
+*Edges

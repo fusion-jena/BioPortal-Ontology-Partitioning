@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Spanish Norman" ellipse
+2 "Spanish" ellipse
+3 "Spanish Assaf" ellipse
+*Arcs
+1 2 0.5422288 l "substring"
+2 1 0.1273572 l "substring"
+2 3 0.1273749 l "substring"
+3 2 0.5424216 l "substring"
+1 2 0.5422288 l "substring"
+2 1 0.1273572 l "substring"
+2 3 0.1273749 l "substring"
+3 2 0.5424216 l "substring"
+1 2 0.5422288 l "substring"
+2 1 0.1273572 l "substring"
+2 3 0.1273749 l "substring"
+3 2 0.5424216 l "substring"
+1 2 0.5422288 l "substring"
+2 1 0.1273572 l "substring"
+2 3 0.1273749 l "substring"
+3 2 0.5424216 l "substring"
+1 2 0.5422288 l "substring"
+2 1 0.1273572 l "substring"
+2 3 0.1273749 l "substring"
+3 2 0.5424216 l "substring"
+*Edges

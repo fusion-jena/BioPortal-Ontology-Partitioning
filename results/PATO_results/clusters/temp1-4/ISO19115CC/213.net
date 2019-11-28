@@ -1,0 +1,29 @@
+*Vertices 2
+1 "TAS2R5" ellipse
+2 "TAS2R50" ellipse
+*Arcs
+1 2 0.0859778 l "substring"
+2 1 0.0990790 l "substring"
+1 2 0.0859778 l "distance"
+2 1 0.0990790 l "distance"
+1 2 0.0859778 l "substring"
+2 1 0.0990790 l "substring"
+1 2 0.0859778 l "distance"
+2 1 0.0990790 l "distance"
+1 2 0.0859778 l "substring"
+2 1 0.0990790 l "substring"
+1 2 0.0859778 l "distance"
+2 1 0.0990790 l "distance"
+1 2 0.0859778 l "substring"
+2 1 0.0990790 l "substring"
+1 2 0.0859778 l "distance"
+2 1 0.0990790 l "distance"
+1 2 0.0859778 l "substring"
+2 1 0.0990790 l "substring"
+1 2 0.0859778 l "distance"
+2 1 0.0990790 l "distance"
+1 2 0.0859778 l "substring"
+2 1 0.0990790 l "substring"
+1 2 0.0859778 l "distance"
+2 1 0.0990790 l "distance"
+*Edges

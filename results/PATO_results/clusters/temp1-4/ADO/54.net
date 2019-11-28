@@ -1,0 +1,41 @@
+*Vertices 8
+1 "Cell treatment model" ellipse
+2 "Neurotoxin model" ellipse
+3 "Pharmacological model" ellipse
+4 "Transfection cells model" ellipse
+5 "Transgenic model" ellipse
+6 "In vitro model" ellipse
+7 "In vivo model" ellipse
+8 "model" ellipse
+*Arcs
+1 6 0.5000000 l "isa"
+6 1 0.1111111 l "isa"
+2 7 0.5000000 l "isa"
+7 2 0.0833333 l "isa"
+3 7 0.5000000 l "isa"
+7 3 0.0833333 l "isa"
+4 6 0.5000000 l "isa"
+6 4 0.1111111 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.1111111 l "isa"
+6 8 0.2222222 l "isa"
+8 6 0.0740741 l "isa"
+7 8 0.1666667 l "isa"
+8 7 0.0740741 l "isa"
+1 8 0.5000000 l "substring"
+8 1 0.0370370 l "substring"
+2 8 0.5000000 l "substring"
+8 2 0.0370370 l "substring"
+3 8 0.5000000 l "substring"
+8 3 0.0370370 l "substring"
+4 8 0.5000000 l "substring"
+8 4 0.0370370 l "substring"
+5 8 0.5000000 l "substring"
+8 5 0.0370370 l "substring"
+6 8 0.2222222 l "substring"
+8 6 0.0740741 l "substring"
+7 8 0.1666667 l "substring"
+8 7 0.0740741 l "substring"
+6 7 0.1111111 l "distance"
+7 6 0.0833333 l "distance"
+*Edges

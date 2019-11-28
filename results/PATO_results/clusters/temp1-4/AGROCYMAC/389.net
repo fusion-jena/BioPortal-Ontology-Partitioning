@@ -1,0 +1,53 @@
+*Vertices 6
+1 "sea water" ellipse
+2 "coastal sea water" ellipse
+3 "freshwater environment" ellipse
+4 "saline water environment" ellipse
+5 "aquatic environment" ellipse
+6 "sea water environment" ellipse
+*Arcs
+2 1 0.2759172 l "isa"
+1 2 0.1732803 l "isa"
+3 5 0.2413507 l "isa"
+5 3 0.1817295 l "isa"
+4 5 0.1625638 l "isa"
+5 4 0.1765279 l "isa"
+6 4 0.1949232 l "isa"
+4 6 0.1636252 l "isa"
+2 1 0.2759172 l "definition"
+1 2 0.1732803 l "definition"
+3 5 0.2413507 l "definition"
+5 3 0.1817295 l "definition"
+4 5 0.1625638 l "definition"
+5 4 0.1765279 l "definition"
+6 4 0.1949232 l "definition"
+4 6 0.1636252 l "definition"
+6 1 0.1908687 l "definition"
+1 6 0.1097241 l "definition"
+1 2 0.1732803 l "substring"
+2 1 0.2759172 l "substring"
+1 6 0.1097241 l "substring"
+6 1 0.1908687 l "substring"
+2 1 0.2759172 l "isa"
+1 2 0.1732803 l "isa"
+3 5 0.2413507 l "isa"
+5 3 0.1817295 l "isa"
+4 5 0.1625638 l "isa"
+5 4 0.1765279 l "isa"
+6 4 0.1949232 l "isa"
+4 6 0.1636252 l "isa"
+2 1 0.2759172 l "definition"
+1 2 0.1732803 l "definition"
+3 5 0.2413507 l "definition"
+5 3 0.1817295 l "definition"
+4 5 0.1625638 l "definition"
+5 4 0.1765279 l "definition"
+6 4 0.1949232 l "definition"
+4 6 0.1636252 l "definition"
+6 1 0.1908687 l "definition"
+1 6 0.1097241 l "definition"
+1 2 0.1732803 l "substring"
+2 1 0.2759172 l "substring"
+1 6 0.1097241 l "substring"
+6 1 0.1908687 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Incorrect confederate role-start of scenario" ellipse
+2 "Set-up confederate deviation" ellipse
+3 "Too few confederates-start of scenario" ellipse
+4 "Too many confederates-start of scenario" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2500000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.2500000 l "isa"
+*Edges

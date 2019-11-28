@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Thioridazine" ellipse
+2 "mesoridazine" ellipse
+*Arcs
+1 2 0.2135472 l "distance"
+2 1 0.1812862 l "distance"
+1 2 0.2135472 l "distance"
+2 1 0.1812862 l "distance"
+*Edges

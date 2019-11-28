@@ -1,0 +1,22 @@
+*Vertices 7
+1 "LDAP ID" ellipse
+2 "communication facet" ellipse
+3 "Skype ID" ellipse
+4 "online account ID" ellipse
+5 "post" ellipse
+6 "postal address" ellipse
+7 "email address" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.1111111 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1666667 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.1111111 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.1111111 l "isa"
+5 6 0.0384615 l "substring"
+6 5 0.5000000 l "substring"
+*Edges

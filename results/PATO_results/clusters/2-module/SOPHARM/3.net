@@ -1,0 +1,16 @@
+*Vertices 5
+1 "coding_variant" ellipse
+2 "variant" ellipse
+3 "observed allele" ellipse
+4 "reference allele" ellipse
+5 "variant allele" ellipse
+*Arcs
+4 3 1.0000000 l "isa"
+3 4 0.0909091 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.0909091 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.2500000 l "substring"
+2 5 0.2500000 l "substring"
+5 2 0.5000000 l "substring"
+*Edges

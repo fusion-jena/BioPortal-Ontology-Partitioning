@@ -1,0 +1,33 @@
+*Vertices 8
+1 "Latex_Allergy_Response" ellipse
+2 "Oral_Mucous_Membranes_Impairment" ellipse
+3 "Peripheral_Alteration" ellipse
+4 "Skin_Incision" ellipse
+5 "Skin_Integrity" ellipse
+6 "Skin_Integrity_Alteration" ellipse
+7 "Skin_Integrity_Impairment" ellipse
+8 "Skin_Integrity_Impairment_Risk" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.0909091 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.0909091 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.0909091 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.0909091 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1818182 l "isa"
+7 5 0.6666667 l "isa"
+5 7 0.1818182 l "isa"
+8 5 0.6666667 l "isa"
+5 8 0.1818182 l "isa"
+5 6 0.1818182 l "substring"
+6 5 1.0000000 l "substring"
+5 7 0.1818182 l "substring"
+7 5 0.6666667 l "substring"
+5 8 0.1818182 l "substring"
+8 5 0.6666667 l "substring"
+7 8 0.3333333 l "substring"
+8 7 0.3333333 l "substring"
+*Edges

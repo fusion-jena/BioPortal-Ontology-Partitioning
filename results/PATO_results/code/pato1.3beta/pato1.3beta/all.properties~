@@ -1,0 +1,62 @@
+##TASKS
+ontology\ conversion=false
+islands\ creation=false
+#partition\ reconversion=false
+get\ best\ configuration=false
+partition\ analysis=false
+
+##OPTIMIZATION
+island\ creation\ -\ assign\ unclustered\ vertices=false
+island\ creation\ -\ merge\ clusters=false
+optimization\ -\ axiom\ duplication=false
+optimization\ -\ maximum\ redundancy=0.3
+
+##MAIN
+output\ directory=/home/anne/Ontologies/Cyc/
+ontology\ conversion\ -\ ontology\ file=/home/anne/Ontologies/Cyc/opencyc-latest.owl
+
+##ONTOLOGY
+ontology\ about=
+ontology\ -\ unfoldable=true
+
+##CONVERSION
+ontology\ conversion\ -\ network\ file=anne/Ontologies/Cyc/cyc-id.net
+ontology\ conversion\ -\ include\ subclass\ links=true
+ontology\ conversion\ -\ include\ property\ links=false
+ontology\ conversion\ -\ include\ definition\ links=false
+ontology\ conversion\ -\ include\ definition\ resources=1
+ontology\ conversion\ -\ include\ substring\ links=false
+ontology\ conversion\ -\ include\ distance\ links=false
+ontology\ conversion\ -\ max\ distance=3
+ontology\ conversion\ -\ link\ type=1
+ontology\ conversion\ -\ strength\ subclass\ links=3
+ontology\ conversion\ -\ strength\ property\ links=0
+ontology\ conversion\ -\ strength\ definition\ links=1
+ontology\ conversion\ -\ strength\ distance\ links=1.0
+ontology\ conversion\ -\ strength\ substring\ links=1.0
+ontology\ conversion\ -\ use\ labels=false
+ontology\ conversion\ -\ ignored\ resources=http\://www.w3.org/2002/07/owl\#\nhttp\://www.w3.org/1999/02/22-rdf-syntax-ns\#\nhttp\://www.w3.org/2000/01/rdf-schema\#\nhttp\://www.w3.org/2001/XMLSchema\#
+
+##PARTITION CREATION
+#islands\ creation\ -\ network\ file=/home/aschlicht/Ontologies/agrovoc/agrovoc.net
+#islands\ creation\ -\ cluster\ directory=/home/aschlicht/Ontologies/agrovoc/cluster/
+#islands\ creation\ -\ delete\ files\ without\ warning=true
+islands\ creation\ -\ maximum\ island\ size=2000
+islands\ creation\ -\ height\ threshold=1.1
+#partition\ reconversion\ -\ partition\ directory=/home/anne/Ontologies/Cyc/cyc
+partition\ reconversion\ -\ clu\ file=/home/anne/Ontologies/Cyc/cyc.16.clu
+
+##ANALYSE
+#analyse\ class=nl.vu.cs.pato.criteria.PajekAnalyse
+#pajek\ analyse\ -\ definition\ net=/home/aschlicht/Ontologies/agrovoc/agrovoc101.net
+#centrality\ vector\ file=/home/aschlicht/Ontologies/agrovoc/centrality.vec
+
+##CRITERIA weights
+#criteria\ -\ results\ directory=/home/aschlicht/Ontologies/agrovoc/Results/
+#criteria\ -\ bulkyness
+#criteria\ -\ granularity
+criteria\ weight\ -\ bulkyness=2
+criteria\ weight\ -\ connectedness=1
+##CRITERIA (stored in result properties)
+connectedness=
+redundancy=

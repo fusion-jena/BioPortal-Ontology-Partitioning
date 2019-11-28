@@ -1,0 +1,27 @@
+*Vertices 4
+1 "CysticTumor" ellipse
+2 "HomogenousTumor" ellipse
+3 "InhomogenousTumor" ellipse
+4 "TumorHomogeneity" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2516358 l "isa"
+2 4 0.2753623 l "isa"
+4 2 0.1992117 l "isa"
+3 4 0.2753623 l "isa"
+4 3 0.1992117 l "isa"
+2 3 0.7246376 l "substring"
+3 2 0.7246376 l "substring"
+2 3 0.7246376 l "distance"
+3 2 0.7246376 l "distance"
+1 4 1.0000000 l "isa"
+4 1 0.2516358 l "isa"
+2 4 0.2753623 l "isa"
+4 2 0.1992117 l "isa"
+3 4 0.2753623 l "isa"
+4 3 0.1992117 l "isa"
+2 3 0.7246376 l "substring"
+3 2 0.7246376 l "substring"
+2 3 0.7246376 l "distance"
+3 2 0.7246376 l "distance"
+*Edges

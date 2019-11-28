@@ -1,0 +1,44 @@
+*Vertices 5
+1 "number density measurement" ellipse
+2 "number density" ellipse
+3 "cell density" ellipse
+4 "viable cell density (quality)" ellipse
+5 "total cell density (quality)" ellipse
+*Arcs
+3 2 0.0968603 l "isa"
+2 3 0.3252280 l "isa"
+4 3 0.3501990 l "isa"
+3 4 0.2075800 l "isa"
+5 3 0.4140235 l "isa"
+3 5 0.2169134 l "isa"
+1 2 0.2889622 l "substring"
+2 1 0.3699473 l "substring"
+3 4 0.2075800 l "substring"
+4 3 0.3501990 l "substring"
+3 5 0.2169134 l "substring"
+5 3 0.4140235 l "substring"
+3 2 0.0968603 l "isa"
+2 3 0.3252280 l "isa"
+4 3 0.3501990 l "isa"
+3 4 0.2075800 l "isa"
+5 3 0.4140235 l "isa"
+3 5 0.2169134 l "isa"
+1 2 0.2889622 l "substring"
+2 1 0.3699473 l "substring"
+3 4 0.2075800 l "substring"
+4 3 0.3501990 l "substring"
+3 5 0.2169134 l "substring"
+5 3 0.4140235 l "substring"
+3 2 0.0968603 l "isa"
+2 3 0.3252280 l "isa"
+4 3 0.3501990 l "isa"
+3 4 0.2075800 l "isa"
+5 3 0.4140235 l "isa"
+3 5 0.2169134 l "isa"
+1 2 0.2889622 l "substring"
+2 1 0.3699473 l "substring"
+3 4 0.2075800 l "substring"
+4 3 0.3501990 l "substring"
+3 5 0.2169134 l "substring"
+5 3 0.4140235 l "substring"
+*Edges

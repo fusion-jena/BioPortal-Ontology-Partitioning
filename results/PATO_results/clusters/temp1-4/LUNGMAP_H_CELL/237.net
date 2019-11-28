@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Balkhi" ellipse
+2 "Baluchi" ellipse
+3 "Baluchi" ellipse
+*Arcs
+2 3 0.4714593 l "substring"
+3 2 0.4714297 l "substring"
+1 2 0.0701683 l "distance"
+2 1 0.1374079 l "distance"
+1 3 0.0701676 l "distance"
+3 1 0.1373978 l "distance"
+2 3 0.4714593 l "distance"
+3 2 0.4714297 l "distance"
+2 3 0.4714593 l "substring"
+3 2 0.4714297 l "substring"
+1 2 0.0701683 l "distance"
+2 1 0.1374079 l "distance"
+1 3 0.0701676 l "distance"
+3 1 0.1373978 l "distance"
+2 3 0.4714593 l "distance"
+3 2 0.4714297 l "distance"
+2 3 0.4714593 l "substring"
+3 2 0.4714297 l "substring"
+1 2 0.0701683 l "distance"
+2 1 0.1374079 l "distance"
+1 3 0.0701676 l "distance"
+3 1 0.1373978 l "distance"
+2 3 0.4714593 l "distance"
+3 2 0.4714297 l "distance"
+2 3 0.4714593 l "substring"
+3 2 0.4714297 l "substring"
+1 2 0.0701683 l "distance"
+2 1 0.1374079 l "distance"
+1 3 0.0701676 l "distance"
+3 1 0.1373978 l "distance"
+2 3 0.4714593 l "distance"
+3 2 0.4714297 l "distance"
+*Edges

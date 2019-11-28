@@ -1,0 +1,21 @@
+*Vertices 4
+1 "No_verbal_rituals" ellipse
+2 "Verbal_rituals" ellipse
+3 "Verbal_rituals_NotAvailable" ellipse
+4 "Verbal_rituals_UnknownOrNotAsked" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2727273 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1818182 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1818182 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.2727273 l "substring"
+2 3 0.1818182 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.1818182 l "substring"
+4 2 1.0000000 l "substring"
+1 2 1.0000000 l "distance"
+2 1 0.2727273 l "distance"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "ClassOfUsageOfRepresentation" ellipse
+2 "UsageOfRepresentation" ellipse
+*Arcs
+1 2 0.4683234 l "definition"
+2 1 0.7827297 l "definition"
+1 2 0.4683234 l "substring"
+2 1 0.7827297 l "substring"
+1 2 0.4683234 l "definition"
+2 1 0.7827297 l "definition"
+1 2 0.4683234 l "substring"
+2 1 0.7827297 l "substring"
+1 2 0.4683234 l "definition"
+2 1 0.7827297 l "definition"
+1 2 0.4683234 l "substring"
+2 1 0.7827297 l "substring"
+1 2 0.4683234 l "definition"
+2 1 0.7827297 l "definition"
+1 2 0.4683234 l "substring"
+2 1 0.7827297 l "substring"
+*Edges

@@ -1,0 +1,30 @@
+*Vertices 9
+1 "annotation location" ellipse
+2 "FeatureAnnotation" ellipse
+3 "Junction" ellipse
+4 "Point" ellipse
+5 "reference sequence" ellipse
+6 "Region" ellipse
+7 "sequence annotation" ellipse
+8 "variation annotation" ellipse
+9 "none"
+*Arcs
+2 7 1.0000000 l "isa"
+7 2 0.2500000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1428571 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1428571 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1428571 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.2500000 l "isa"
+7 1 0.5000000 l "isAnnotatedAt"
+1 7 0.2857143 l "isAnnotatedAt"
+7 1 0.5000000 l "mapsTo"
+1 7 0.2857143 l "mapsTo"
+1 5 0.1428571 l "regionOf"
+5 1 1.0000000 l "regionOf"
+4 9 0.5000000 l "distance"
+9 4 0.2000000 l "distance"
+*Edges

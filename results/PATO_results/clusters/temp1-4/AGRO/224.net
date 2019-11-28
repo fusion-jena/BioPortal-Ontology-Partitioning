@@ -1,0 +1,75 @@
+*Vertices 16
+1 "vector integer datum" ellipse
+2 "vector number datum" ellipse
+3 "scalar integer datum" ellipse
+4 "count datum" ellipse
+5 "scalar decimal datum" ellipse
+6 "scalar floating point number datum" ellipse
+7 "scalar number datum" ellipse
+8 "scalar double datum" ellipse
+9 "total cell count" ellipse
+10 "viable cell count" ellipse
+11 "scalar float datum" ellipse
+12 "vector decimal datum" ellipse
+13 "vector floating point number datum" ellipse
+14 "vector float datum" ellipse
+15 "vector double datum" ellipse
+16 "double"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2857143 l "isa"
+3 7 0.4925373 l "isa"
+7 3 0.2531970 l "isa"
+4 3 0.3628049 l "isa"
+3 4 0.5074627 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.2992328 l "isa"
+6 7 0.2215432 l "isa"
+7 6 0.2301790 l "isa"
+8 6 0.6190476 l "isa"
+6 8 0.2880061 l "isa"
+9 4 0.1588073 l "isa"
+4 9 0.3201220 l "isa"
+10 4 0.1391124 l "isa"
+4 10 0.3170732 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.2880061 l "isa"
+12 2 1.0000000 l "isa"
+2 12 0.2857143 l "isa"
+13 2 0.2215432 l "isa"
+2 13 0.2197802 l "isa"
+14 13 1.0000000 l "isa"
+13 14 0.2880061 l "isa"
+15 13 0.6190476 l "isa"
+13 15 0.2880061 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.2857143 l "isa"
+3 7 0.4925373 l "isa"
+7 3 0.2531970 l "isa"
+4 3 0.3628049 l "isa"
+3 4 0.5074627 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.2992328 l "isa"
+6 7 0.2215432 l "isa"
+7 6 0.2301790 l "isa"
+8 6 0.6190476 l "isa"
+6 8 0.2880061 l "isa"
+9 4 0.1588073 l "isa"
+4 9 0.3201220 l "isa"
+10 4 0.1391124 l "isa"
+4 10 0.3170732 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.2880061 l "isa"
+12 2 1.0000000 l "isa"
+2 12 0.2857143 l "isa"
+13 2 0.2215432 l "isa"
+2 13 0.2197802 l "isa"
+14 13 1.0000000 l "isa"
+13 14 0.2880061 l "isa"
+15 13 0.6190476 l "isa"
+13 15 0.2880061 l "isa"
+8 16 0.3809524 l "substring"
+16 8 0.0833333 l "substring"
+15 16 0.3809524 l "substring"
+16 15 0.0833333 l "substring"
+*Edges

@@ -1,0 +1,98 @@
+*Vertices 21
+1 "Computed Tomography" ellipse
+2 "Digital Photographs" ellipse
+3 "Magnetic Resonance Imaging" ellipse
+4 "Medical Imaging" ellipse
+5 "Medical Imaging Other" ellipse
+6 "Nuclear Medicine" ellipse
+7 "Radiography" ellipse
+8 "Study Subject CT" ellipse
+9 "Study Subject CT Report" ellipse
+10 "Study Subject MRI" ellipse
+11 "Study Subject MRI Report" ellipse
+12 "Study Subject Medical Imaging" ellipse
+13 "Study Subject Medical Imaging Report" ellipse
+14 "Study Subject Nuclear Medicine" ellipse
+15 "Study Subject Nuclear Medicine Report" ellipse
+16 "Study Subject Photos" ellipse
+17 "Study Subject Radiography" ellipse
+18 "Study Subject Radiography Report" ellipse
+19 "Study Subject Ultrasound" ellipse
+20 "Study Subject Ultrasound Report" ellipse
+21 "Ultrasound" ellipse
+*Arcs
+1 4 0.3333333 l "isa"
+4 1 0.0909091 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.0909091 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.0909091 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1818182 l "isa"
+6 4 0.2000000 l "isa"
+4 6 0.0909091 l "isa"
+7 4 0.2000000 l "isa"
+4 7 0.0909091 l "isa"
+8 1 0.3333333 l "isa"
+1 8 0.3333333 l "isa"
+9 1 0.3333333 l "isa"
+1 9 0.3333333 l "isa"
+10 3 0.3333333 l "isa"
+3 10 0.3333333 l "isa"
+11 3 0.3333333 l "isa"
+3 11 0.3333333 l "isa"
+12 5 0.3333333 l "isa"
+5 12 0.2500000 l "isa"
+13 5 0.3333333 l "isa"
+5 13 0.2500000 l "isa"
+14 6 0.6666667 l "isa"
+6 14 0.4000000 l "isa"
+15 6 0.6666667 l "isa"
+6 15 0.4000000 l "isa"
+16 2 1.0000000 l "isa"
+2 16 0.5000000 l "isa"
+17 7 0.6666667 l "isa"
+7 17 0.4000000 l "isa"
+18 7 0.6666667 l "isa"
+7 18 0.4000000 l "isa"
+19 21 0.6666667 l "isa"
+21 19 0.4000000 l "isa"
+20 21 0.6666667 l "isa"
+21 20 0.4000000 l "isa"
+21 4 0.2000000 l "isa"
+4 21 0.0909091 l "isa"
+4 5 0.1818182 l "substring"
+5 4 0.5000000 l "substring"
+4 12 0.0909091 l "substring"
+12 4 0.3333333 l "substring"
+4 13 0.0909091 l "substring"
+13 4 0.3333333 l "substring"
+6 14 0.4000000 l "substring"
+14 6 0.6666667 l "substring"
+6 15 0.4000000 l "substring"
+15 6 0.6666667 l "substring"
+7 17 0.4000000 l "substring"
+17 7 0.6666667 l "substring"
+7 18 0.4000000 l "substring"
+18 7 0.6666667 l "substring"
+8 9 0.3333333 l "substring"
+9 8 0.3333333 l "substring"
+10 11 0.3333333 l "substring"
+11 10 0.3333333 l "substring"
+12 13 0.3333333 l "substring"
+13 12 0.3333333 l "substring"
+14 15 0.3333333 l "substring"
+15 14 0.3333333 l "substring"
+17 18 0.3333333 l "substring"
+18 17 0.3333333 l "substring"
+19 20 0.3333333 l "substring"
+20 19 0.3333333 l "substring"
+19 21 0.6666667 l "substring"
+21 19 0.4000000 l "substring"
+20 21 0.6666667 l "substring"
+21 20 0.4000000 l "substring"
+8 10 0.3333333 l "distance"
+10 8 0.3333333 l "distance"
+9 11 0.3333333 l "distance"
+11 9 0.3333333 l "distance"
+*Edges

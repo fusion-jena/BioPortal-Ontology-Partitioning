@@ -1,0 +1,21 @@
+*Vertices 6
+1 "Cardiac electrical conductance tests" ellipse
+2 "Cardiac Electrophysiology (EP) study" ellipse
+3 "Electrocardiography (ECG, EKG) test" ellipse
+4 "Electroencephalography (EEG) test" ellipse
+5 "Electrophysiology test" ellipse
+6 "Neuroelectrophysiology test" ellipse
+*Arcs
+1 5 0.3333333 l "isa"
+5 1 0.1428571 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3333333 l "isa"
+3 1 0.2500000 l "isa"
+1 3 0.3333333 l "isa"
+4 6 0.2500000 l "isa"
+6 4 0.3333333 l "isa"
+6 5 0.6666667 l "isa"
+5 6 0.2857143 l "isa"
+5 6 0.2857143 l "substring"
+6 5 0.6666667 l "substring"
+*Edges

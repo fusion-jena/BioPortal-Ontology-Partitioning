@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Tissue_Perfusion" ellipse
+2 "Tissue_Perfusion_Alteration" ellipse
+*Arcs
+2 1 0.2850094 l "isa"
+1 2 0.2549467 l "isa"
+1 2 0.2549467 l "substring"
+2 1 0.2850094 l "substring"
+2 1 0.2850094 l "isa"
+1 2 0.2549467 l "isa"
+1 2 0.2549467 l "substring"
+2 1 0.2850094 l "substring"
+*Edges

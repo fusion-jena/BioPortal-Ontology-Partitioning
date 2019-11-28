@@ -1,0 +1,17 @@
+*Vertices 2
+1 "MESVS" ellipse
+2 "MFGAS" ellipse
+*Arcs
+1 2 0.0769708 l "isa"
+2 1 0.0341981 l "isa"
+1 2 0.0769708 l "distance"
+2 1 0.0341981 l "distance"
+1 2 0.0769708 l "isa"
+2 1 0.0341981 l "isa"
+1 2 0.0769708 l "distance"
+2 1 0.0341981 l "distance"
+1 2 0.0769708 l "isa"
+2 1 0.0341981 l "isa"
+1 2 0.0769708 l "distance"
+2 1 0.0341981 l "distance"
+*Edges

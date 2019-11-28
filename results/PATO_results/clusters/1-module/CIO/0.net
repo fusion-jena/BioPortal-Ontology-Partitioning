@@ -1,0 +1,41 @@
+*Vertices 10
+1 "nil"
+2 "Restriction"
+3 "Class"
+4 "has confidence level"
+5 "same type" ellipse
+6 "confidence statement from conflicting evidence lines of same type" ellipse
+7 "weakly conflicting" ellipse
+8 "concordance of multiple evidence lines" ellipse
+9 "has evidence concordance"
+10 "has evidence type concordance"
+*Arcs
+4 1 0.0370370 l "definition"
+1 4 0.0333333 l "definition"
+4 9 0.0370370 l "definition"
+9 4 0.0714286 l "definition"
+4 2 0.0370370 l "definition"
+2 4 0.0312500 l "definition"
+4 3 0.0370370 l "definition"
+3 4 0.0333333 l "definition"
+10 1 0.0833333 l "definition"
+1 10 0.0333333 l "definition"
+10 9 0.0833333 l "definition"
+9 10 0.0714286 l "definition"
+10 8 0.0833333 l "definition"
+8 10 0.1666667 l "definition"
+10 2 0.0833333 l "definition"
+2 10 0.0312500 l "definition"
+10 3 0.0833333 l "definition"
+3 10 0.0333333 l "definition"
+6 1 0.0769231 l "definition"
+1 6 0.0333333 l "definition"
+6 9 0.0769231 l "definition"
+9 6 0.0714286 l "definition"
+6 2 0.0769231 l "definition"
+2 6 0.0312500 l "definition"
+6 3 0.0769231 l "definition"
+3 6 0.0333333 l "definition"
+6 5 0.0769231 l "substring"
+5 6 0.0769231 l "substring"
+*Edges

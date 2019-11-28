@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Brecknock Hill Cheviot" ellipse
+2 "Cheviot" ellipse
+3 "North Country Cheviot" ellipse
+*Arcs
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+1 2 0.6601556 l "substring"
+2 1 0.3453738 l "substring"
+2 3 0.3453738 l "substring"
+3 2 0.6601556 l "substring"
+*Edges

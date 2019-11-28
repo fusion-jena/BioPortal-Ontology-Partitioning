@@ -1,0 +1,9 @@
+*Vertices 2
+1 "AKOB" ellipse
+2 "Creutzfeldt_Jakob_Syndrome" ellipse
+*Arcs
+1 2 0.0170661 l "substring"
+2 1 0.3340402 l "substring"
+1 2 0.0170661 l "substring"
+2 1 0.3340402 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Birth" ellipse
+2 "hasBirth"
+*Arcs
+1 2 0.0842125 l "substring"
+2 1 0.1607613 l "substring"
+1 2 0.0842125 l "distance"
+2 1 0.1607613 l "distance"
+1 2 0.0842125 l "substring"
+2 1 0.1607613 l "substring"
+1 2 0.0842125 l "distance"
+2 1 0.1607613 l "distance"
+1 2 0.0842125 l "substring"
+2 1 0.1607613 l "substring"
+1 2 0.0842125 l "distance"
+2 1 0.1607613 l "distance"
+*Edges

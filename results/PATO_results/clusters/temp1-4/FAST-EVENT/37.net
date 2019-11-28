@@ -1,0 +1,29 @@
+*Vertices 2
+1 "ClassOfRepresentationOfThing" ellipse
+2 "RepresentationOfThing" ellipse
+*Arcs
+1 2 0.5725122 l "definition"
+2 1 0.8569159 l "definition"
+1 2 0.5725122 l "substring"
+2 1 0.8569159 l "substring"
+1 2 0.5725122 l "definition"
+2 1 0.8569159 l "definition"
+1 2 0.5725122 l "substring"
+2 1 0.8569159 l "substring"
+1 2 0.5725122 l "definition"
+2 1 0.8569159 l "definition"
+1 2 0.5725122 l "substring"
+2 1 0.8569159 l "substring"
+1 2 0.5725122 l "definition"
+2 1 0.8569159 l "definition"
+1 2 0.5725122 l "substring"
+2 1 0.8569159 l "substring"
+1 2 0.5725122 l "definition"
+2 1 0.8569159 l "definition"
+1 2 0.5725122 l "substring"
+2 1 0.8569159 l "substring"
+1 2 0.5725122 l "definition"
+2 1 0.8569159 l "definition"
+1 2 0.5725122 l "substring"
+2 1 0.8569159 l "substring"
+*Edges

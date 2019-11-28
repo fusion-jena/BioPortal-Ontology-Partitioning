@@ -1,0 +1,11 @@
+*Vertices 2
+1 "GO-Term" ellipse
+2 "GO-Term-Molecular-Function" ellipse
+*Arcs
+1 2 0.5879034 l "substring"
+2 1 0.5879034 l "substring"
+1 2 0.5879034 l "substring"
+2 1 0.5879034 l "substring"
+1 2 0.5879034 l "substring"
+2 1 0.5879034 l "substring"
+*Edges

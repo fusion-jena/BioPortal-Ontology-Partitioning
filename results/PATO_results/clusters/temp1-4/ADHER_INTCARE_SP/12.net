@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Comorbidity" ellipse
+2 "Contraindication" ellipse
+3 "Contraindication_Such_as_Disease_Symptom_or_Procedure" ellipse
+*Arcs
+1 2 0.3405890 l "isa"
+2 1 0.1676779 l "isa"
+3 2 0.5582312 l "isa"
+2 3 0.3838941 l "isa"
+2 3 0.3838941 l "substring"
+3 2 0.5582312 l "substring"
+1 2 0.3405890 l "isa"
+2 1 0.1676779 l "isa"
+3 2 0.5582312 l "isa"
+2 3 0.3838941 l "isa"
+2 3 0.3838941 l "substring"
+3 2 0.5582312 l "substring"
+*Edges

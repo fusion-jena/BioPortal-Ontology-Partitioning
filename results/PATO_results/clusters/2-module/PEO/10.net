@@ -1,0 +1,7 @@
+*Vertices 2
+1 "culture_parameter" ellipse
+2 "temperature_condition" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3333333 l "isa"
+*Edges

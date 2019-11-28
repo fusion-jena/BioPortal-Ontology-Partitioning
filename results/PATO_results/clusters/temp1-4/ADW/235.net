@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Apptm1.1Cep" ellipse
+2 "Apptm1Cep" ellipse
+*Arcs
+1 2 0.1508453 l "distance"
+2 1 0.1174037 l "distance"
+1 2 0.1508453 l "distance"
+2 1 0.1174037 l "distance"
+*Edges

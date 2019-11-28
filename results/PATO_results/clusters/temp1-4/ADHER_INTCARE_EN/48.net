@@ -1,0 +1,57 @@
+*Vertices 10
+1 "Imaginative_Cooperative_Play_With_Other_Children_in_Spontaneous_Pretend_Activities" ellipse
+2 "Imaginative_Play_With_Peers" ellipse
+3 "Imaginative_Play_With_Peers_NotAvailable" ellipse
+4 "Imaginative_Play_With_Peers_NotKnownOrNotAsked" ellipse
+5 "No_Play_With_Other_Children_or_Not_Pretend_Play_Even_On_Own" ellipse
+6 "Some_Participation_in_Pretend_Play_With_Another_Child" ellipse
+7 "Some_Play_With_Other_Children_BUT_No_Pretending" ellipse
+8 "peerpl_No_Play_With_Other_Children_or_Not_Pretend_Play_Even_On_Own"
+9 "peerpl_Some_Play_With_Other_Children_BUT_No_Pretending"
+10 "peerpl_Some_Participation_in_Pretend_Play_With_Another_Child"
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1062431 l "isa"
+3 2 0.7039550 l "isa"
+2 3 0.1958206 l "isa"
+4 2 0.7039550 l "isa"
+2 4 0.1958206 l "isa"
+5 2 0.4776536 l "isa"
+2 5 0.0890567 l "isa"
+6 2 0.4776536 l "isa"
+2 6 0.0890567 l "isa"
+7 2 0.4776536 l "isa"
+2 7 0.0890567 l "isa"
+2 3 0.1958206 l "substring"
+3 2 0.7039550 l "substring"
+2 4 0.1958206 l "substring"
+4 2 0.7039550 l "substring"
+5 8 0.5223464 l "substring"
+8 5 0.3755310 l "substring"
+6 10 0.5223464 l "substring"
+10 6 0.3755310 l "substring"
+7 9 0.5223464 l "substring"
+9 7 0.3755310 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.1062431 l "isa"
+3 2 0.7039550 l "isa"
+2 3 0.1958206 l "isa"
+4 2 0.7039550 l "isa"
+2 4 0.1958206 l "isa"
+5 2 0.4776536 l "isa"
+2 5 0.0890567 l "isa"
+6 2 0.4776536 l "isa"
+2 6 0.0890567 l "isa"
+7 2 0.4776536 l "isa"
+2 7 0.0890567 l "isa"
+2 3 0.1958206 l "substring"
+3 2 0.7039550 l "substring"
+2 4 0.1958206 l "substring"
+4 2 0.7039550 l "substring"
+5 8 0.5223464 l "substring"
+8 5 0.3755310 l "substring"
+6 10 0.5223464 l "substring"
+10 6 0.3755310 l "substring"
+7 9 0.5223464 l "substring"
+9 7 0.3755310 l "substring"
+*Edges

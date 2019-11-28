@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Guyana" ellipse
+2 "Uganda" ellipse
+*Arcs
+1 2 0.1352050 l "distance"
+2 1 0.1352585 l "distance"
+1 2 0.1352050 l "distance"
+2 1 0.1352585 l "distance"
+1 2 0.1352050 l "distance"
+2 1 0.1352585 l "distance"
+*Edges

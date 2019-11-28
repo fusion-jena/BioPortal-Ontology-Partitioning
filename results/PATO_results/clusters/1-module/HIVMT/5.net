@@ -1,0 +1,18 @@
+*Vertices 5
+1 "OWLClass_00000005878091842468" ellipse
+2 "dsDNA" ellipse
+3 "ssDNA" ellipse
+4 "OWLClass_00000012377693293840" ellipse
+5 "OWLClass_00000012433567166986" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+2 5 0.3333333 l "isa"
+5 2 0.1666667 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.1666667 l "isa"
+5 4 0.1666667 l "definition"
+4 5 1.0000000 l "definition"
+2 3 0.3333333 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

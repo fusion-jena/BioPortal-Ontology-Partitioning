@@ -1,0 +1,55 @@
+*Vertices 10
+1 "LDAP ID" ellipse
+2 "local system account ID" ellipse
+3 "communication facet" ellipse
+4 "Skype ID" ellipse
+5 "account" ellipse
+6 "online account ID" ellipse
+7 "post" ellipse
+8 "information content entity" ellipse
+9 "postal address" ellipse
+10 "email address" ellipse
+*Arcs
+1 6 1.0000000 l "isa"
+6 1 0.2033777 l "isa"
+2 5 0.4440510 l "isa"
+5 2 0.2327706 l "isa"
+4 3 0.4947369 l "isa"
+3 4 0.1000463 l "isa"
+4 6 0.5052631 l "isa"
+6 4 0.1712654 l "isa"
+6 5 0.3318268 l "isa"
+5 6 0.2186633 l "isa"
+9 3 0.5070540 l "isa"
+3 9 0.1000463 l "isa"
+10 3 0.6086957 l "isa"
+3 10 0.1192041 l "isa"
+2 5 0.4440510 l "substring"
+5 2 0.2327706 l "substring"
+5 6 0.2186633 l "substring"
+6 5 0.3318268 l "substring"
+7 9 0.0203616 l "substring"
+9 7 0.4929461 l "substring"
+1 6 1.0000000 l "isa"
+6 1 0.2033777 l "isa"
+2 5 0.4440510 l "isa"
+5 2 0.2327706 l "isa"
+4 3 0.4947369 l "isa"
+3 4 0.1000463 l "isa"
+4 6 0.5052631 l "isa"
+6 4 0.1712654 l "isa"
+6 5 0.3318268 l "isa"
+5 6 0.2186633 l "isa"
+9 3 0.5070540 l "isa"
+3 9 0.1000463 l "isa"
+10 3 0.6086957 l "isa"
+3 10 0.1192041 l "isa"
+10 8 0.3913043 l "isa"
+8 10 0.0369212 l "isa"
+2 5 0.4440510 l "substring"
+5 2 0.2327706 l "substring"
+5 6 0.2186633 l "substring"
+6 5 0.3318268 l "substring"
+7 9 0.0203616 l "substring"
+9 7 0.4929461 l "substring"
+*Edges

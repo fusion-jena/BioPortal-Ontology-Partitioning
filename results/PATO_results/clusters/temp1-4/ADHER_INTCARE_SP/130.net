@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Medication_adherence" ellipse
+2 "Medication_adherence_phases" ellipse
+*Arcs
+2 1 0.3025604 l "isa"
+1 2 0.1794676 l "isa"
+1 2 0.1794676 l "substring"
+2 1 0.3025604 l "substring"
+2 1 0.3025604 l "isa"
+1 2 0.1794676 l "isa"
+1 2 0.1794676 l "substring"
+2 1 0.3025604 l "substring"
+*Edges

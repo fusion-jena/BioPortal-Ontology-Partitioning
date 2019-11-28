@@ -1,0 +1,10 @@
+*Vertices 3
+1 "agente_comunitario" ellipse
+2 "atencao_primaria" ellipse
+3 "saude_da_familia" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.2500000 l "isa"
+*Edges

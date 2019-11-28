@@ -1,0 +1,30 @@
+*Vertices 7
+1 "Brief_Definit_Direct_Gaze" ellipse
+2 "Direct_Gaze" ellipse
+3 "Direct_Gaze_Not_Available" ellipse
+4 "Normal_Reciprocal_Direct_Gaze" ellipse
+5 "Uncertain_Occasional_Direct_Gaze" ellipse
+6 "Unusuall_or_Odd_Gaze" ellipse
+7 "gaze_Unusuall_or_Odd_Gaze"
+*Arcs
+1 2 0.6666667 l "isa"
+2 1 0.1666667 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.1666667 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.1666667 l "isa"
+5 2 0.6666667 l "isa"
+2 5 0.1666667 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.0833333 l "isa"
+1 2 0.6666667 l "substring"
+2 1 0.1666667 l "substring"
+2 3 0.1666667 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.1666667 l "substring"
+4 2 1.0000000 l "substring"
+2 5 0.1666667 l "substring"
+5 2 0.6666667 l "substring"
+6 7 0.5000000 l "substring"
+7 6 0.2500000 l "substring"
+*Edges

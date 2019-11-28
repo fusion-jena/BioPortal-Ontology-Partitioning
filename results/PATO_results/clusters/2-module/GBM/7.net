@@ -1,0 +1,49 @@
+*Vertices 14
+1 "african_american" ellipse
+2 "asian" ellipse
+3 "bladder_disease" ellipse
+4 "caucasian" ellipse
+5 "cerebral_aneurysm" ellipse
+6 "kidney_disease" ellipse
+7 "native_hawaiian_pacific_islander" ellipse
+8 "neurologic_disorder" ellipse
+9 "race" ellipse
+10 "son" ellipse
+11 "stone" ellipse
+12 "stroke" ellipse
+13 "urologic_disorder" ellipse
+14 "urologic_malignancy" ellipse
+*Arcs
+1 9 1.0000000 l "isa"
+9 1 0.0909091 l "isa"
+2 9 0.3333333 l "isa"
+9 2 0.0909091 l "isa"
+3 13 1.0000000 l "isa"
+13 3 0.1250000 l "isa"
+4 9 0.5000000 l "isa"
+9 4 0.0909091 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.2000000 l "isa"
+6 13 1.0000000 l "isa"
+13 6 0.1250000 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0909091 l "isa"
+11 13 0.3333333 l "isa"
+13 11 0.1250000 l "isa"
+12 8 0.5000000 l "isa"
+8 12 0.2000000 l "isa"
+14 13 1.0000000 l "isa"
+13 14 0.1250000 l "isa"
+2 4 0.3333333 l "substring"
+4 2 0.5000000 l "substring"
+8 13 0.4000000 l "substring"
+13 8 0.2500000 l "substring"
+2 10 0.3333333 l "distance"
+10 2 0.0833333 l "distance"
+8 13 0.4000000 l "distance"
+13 8 0.2500000 l "distance"
+10 11 0.0833333 l "distance"
+11 10 0.3333333 l "distance"
+11 12 0.3333333 l "distance"
+12 11 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,22 @@
+*Vertices 3
+1 "person of shaoyin" ellipse
+2 "person of taiyang" ellipse
+3 "person of shaoyang" ellipse
+*Arcs
+1 3 1.0000000 l "distance"
+3 1 0.5000000 l "distance"
+2 3 1.0000000 l "distance"
+3 2 0.5000000 l "distance"
+1 3 1.0000000 l "distance"
+3 1 0.5000000 l "distance"
+2 3 1.0000000 l "distance"
+3 2 0.5000000 l "distance"
+1 3 1.0000000 l "distance"
+3 1 0.5000000 l "distance"
+2 3 1.0000000 l "distance"
+3 2 0.5000000 l "distance"
+1 3 1.0000000 l "distance"
+3 1 0.5000000 l "distance"
+2 3 1.0000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

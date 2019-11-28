@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Kinder" ellipse
+2 "Kundhi" ellipse
+*Arcs
+1 2 0.3478640 l "distance"
+2 1 0.2181992 l "distance"
+1 2 0.3478640 l "distance"
+2 1 0.2181992 l "distance"
+*Edges

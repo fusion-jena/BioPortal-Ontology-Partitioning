@@ -1,0 +1,19 @@
+*Vertices 4
+1 "adult uterine connecting tube" ellipse
+2 "adult uterine connecting tube cuticular lining" ellipse
+3 "adult uterine connecting tube epithelial layer" ellipse
+4 "adult uterine connecting tube muscle layer" ellipse
+*Arcs
+2 1 0.4000000 l "definition"
+1 2 0.2222222 l "definition"
+3 1 0.4000000 l "definition"
+1 3 0.2222222 l "definition"
+4 1 0.4000000 l "definition"
+1 4 0.2222222 l "definition"
+1 2 0.2222222 l "substring"
+2 1 0.4000000 l "substring"
+1 3 0.2222222 l "substring"
+3 1 0.4000000 l "substring"
+1 4 0.2222222 l "substring"
+4 1 0.4000000 l "substring"
+*Edges

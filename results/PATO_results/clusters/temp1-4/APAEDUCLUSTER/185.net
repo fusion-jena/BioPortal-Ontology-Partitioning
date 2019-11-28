@@ -1,0 +1,22 @@
+*Vertices 3
+1 "severe persistent asthma with status asthmaticus" ellipse
+2 "severe persistent asthma uncomplicated" ellipse
+3 "severe persistent asthma" ellipse
+*Arcs
+1 3 0.1642591 l "substring"
+3 1 0.1272194 l "substring"
+2 3 0.1642591 l "substring"
+3 2 0.1272194 l "substring"
+1 3 0.1642591 l "substring"
+3 1 0.1272194 l "substring"
+2 3 0.1642591 l "substring"
+3 2 0.1272194 l "substring"
+1 3 0.1642591 l "substring"
+3 1 0.1272194 l "substring"
+2 3 0.1642591 l "substring"
+3 2 0.1272194 l "substring"
+1 3 0.1642591 l "substring"
+3 1 0.1272194 l "substring"
+2 3 0.1642591 l "substring"
+3 2 0.1272194 l "substring"
+*Edges

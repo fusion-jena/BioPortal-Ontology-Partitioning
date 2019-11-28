@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Clathrate" ellipse
+2 "ClathrateHydrate" ellipse
+*Arcs
+2 1 0.4503287 l "isa"
+1 2 0.4503287 l "isa"
+1 2 0.4503287 l "substring"
+2 1 0.4503287 l "substring"
+2 1 0.4503287 l "isa"
+1 2 0.4503287 l "isa"
+1 2 0.4503287 l "substring"
+2 1 0.4503287 l "substring"
+*Edges

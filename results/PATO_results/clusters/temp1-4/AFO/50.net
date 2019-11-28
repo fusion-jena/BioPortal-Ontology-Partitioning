@@ -1,0 +1,20 @@
+*Vertices 5
+1 "spectrophotometry" ellipse
+2 "spectrometry" ellipse
+3 "equimolar spectrophotometry" ellipse
+4 "electronic spectroscopy" ellipse
+5 "ultraviolet-visible-near infrared spectrophotometry" ellipse
+*Arcs
+1 4 0.0666667 l "isa"
+4 1 0.5000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1333333 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.3333333 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1333333 l "isa"
+1 3 0.1333333 l "substring"
+3 1 0.5000000 l "substring"
+1 5 0.1333333 l "substring"
+5 1 0.5000000 l "substring"
+*Edges

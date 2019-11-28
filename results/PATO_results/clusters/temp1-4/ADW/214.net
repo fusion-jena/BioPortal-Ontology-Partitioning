@@ -1,0 +1,49 @@
+*Vertices 6
+1 "Ion channel" ellipse
+2 "Ligand gated" ellipse
+3 "Voltage gated" ellipse
+4 "Ion channel" ellipse
+5 "Ligand gated" ellipse
+6 "Voltage gated" ellipse
+*Arcs
+2 1 0.2261905 l "isa"
+1 2 0.1508008 l "isa"
+3 1 0.1927660 l "isa"
+1 3 0.1458402 l "isa"
+5 4 0.2261905 l "isa"
+4 5 0.1508478 l "isa"
+6 4 0.1927660 l "isa"
+4 6 0.1458857 l "isa"
+1 4 0.3333491 l "substring"
+4 1 0.3334530 l "substring"
+2 5 0.5952381 l "substring"
+5 2 0.5952381 l "substring"
+3 6 0.4720801 l "substring"
+6 3 0.4720801 l "substring"
+1 4 0.3333491 l "distance"
+4 1 0.3334530 l "distance"
+2 5 0.5952381 l "distance"
+5 2 0.5952381 l "distance"
+3 6 0.4720801 l "distance"
+6 3 0.4720801 l "distance"
+2 1 0.2261905 l "isa"
+1 2 0.1508008 l "isa"
+3 1 0.1927660 l "isa"
+1 3 0.1458402 l "isa"
+5 4 0.2261905 l "isa"
+4 5 0.1508478 l "isa"
+6 4 0.1927660 l "isa"
+4 6 0.1458857 l "isa"
+1 4 0.3333491 l "substring"
+4 1 0.3334530 l "substring"
+2 5 0.5952381 l "substring"
+5 2 0.5952381 l "substring"
+3 6 0.4720801 l "substring"
+6 3 0.4720801 l "substring"
+1 4 0.3333491 l "distance"
+4 1 0.3334530 l "distance"
+2 5 0.5952381 l "distance"
+5 2 0.5952381 l "distance"
+3 6 0.4720801 l "distance"
+6 3 0.4720801 l "distance"
+*Edges

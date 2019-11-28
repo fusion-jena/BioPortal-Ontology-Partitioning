@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Organization" ellipse
+2 "organization" ellipse
+*Arcs
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+1 2 0.8925366 l "substring"
+2 1 0.8884699 l "substring"
+1 2 0.8925366 l "distance"
+2 1 0.8884699 l "distance"
+*Edges

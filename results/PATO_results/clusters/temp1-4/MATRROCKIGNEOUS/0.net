@@ -1,0 +1,66 @@
+*Vertices 23
+1 "Restriction"
+2 "hasGenesis"
+3 "Pyroclastic" ellipse
+4 "Tuff" ellipse
+5 "TuffCone" ellipse
+6 "TuffRing" ellipse
+7 "Mixture" ellipse
+8 "Regolith" ellipse
+9 "Aa" ellipse
+10 "Andesite" ellipse
+11 "Basalt" ellipse
+12 "ExtrusiveRock" ellipse
+13 "IntrusiveRock" ellipse
+14 "Obsidian" ellipse
+15 "Pahoehoe" ellipse
+16 "Pluton" ellipse
+17 "PlutonicRock" ellipse
+18 "Rhyolite" ellipse
+19 "Tephra" ellipse
+20 "Trachyandesite" ellipse
+21 "Trachybasalt" ellipse
+22 "Ultramaphic" ellipse
+23 "Xenolith" ellipse
+*Arcs
+8 7 0.4545455 l "isa"
+7 8 0.3252033 l "isa"
+8 7 0.4545455 l "isa"
+7 8 0.3252033 l "isa"
+9 12 0.2500000 l "isa"
+12 9 0.0769231 l "isa"
+11 12 0.5000000 l "isa"
+12 11 0.0769231 l "isa"
+14 12 0.5000000 l "isa"
+12 14 0.0769231 l "isa"
+15 12 0.5000000 l "isa"
+12 15 0.0769231 l "isa"
+16 13 0.5000000 l "isa"
+13 16 0.2000000 l "isa"
+3 12 0.3333333 l "isa"
+12 3 0.0769231 l "isa"
+19 12 0.5000000 l "isa"
+12 19 0.0769231 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.3333333 l "isa"
+22 12 0.5000000 l "isa"
+12 22 0.0769231 l "isa"
+10 20 0.5000000 l "substring"
+20 10 0.5000000 l "substring"
+11 21 0.5000000 l "substring"
+21 11 0.5000000 l "substring"
+16 17 0.5000000 l "substring"
+17 16 0.5000000 l "substring"
+4 5 0.3333333 l "substring"
+5 4 0.3333333 l "substring"
+4 6 0.3333333 l "substring"
+6 4 0.3333333 l "substring"
+8 18 0.2727273 l "distance"
+18 8 0.5000000 l "distance"
+8 23 0.2727273 l "distance"
+23 8 0.5000000 l "distance"
+12 13 0.0769231 l "distance"
+13 12 0.2000000 l "distance"
+5 6 0.3333333 l "distance"
+6 5 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "North_America" ellipse
+2 "South_America" ellipse
+*Arcs
+1 2 0.4314654 l "distance"
+2 1 0.4314654 l "distance"
+1 2 0.4314654 l "distance"
+2 1 0.4314654 l "distance"
+1 2 0.4314654 l "distance"
+2 1 0.4314654 l "distance"
+1 2 0.4314654 l "distance"
+2 1 0.4314654 l "distance"
+1 2 0.4314654 l "distance"
+2 1 0.4314654 l "distance"
+*Edges

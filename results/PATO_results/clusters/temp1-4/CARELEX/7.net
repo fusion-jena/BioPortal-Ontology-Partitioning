@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Informed Consent Form" ellipse
+2 "Other Subject Forms" ellipse
+3 "Subject Diary Form" ellipse
+4 "Subject Document Forms" ellipse
+5 "Subject Information Form" ellipse
+6 "Subject Questionnaire Form" ellipse
+7 "Template Advertisement for Subject Recruitment" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1250000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1250000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1250000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1250000 l "isa"
+7 4 1.0000000 l "isa"
+4 7 0.1250000 l "isa"
+*Edges

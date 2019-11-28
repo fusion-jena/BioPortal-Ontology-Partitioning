@@ -1,0 +1,9 @@
+*Vertices 2
+1 "organic fertilizer" ellipse
+2 "oil cake" ellipse
+*Arcs
+2 1 0.2526625 l "definition"
+1 2 0.0415583 l "definition"
+2 1 0.2526625 l "definition"
+1 2 0.0415583 l "definition"
+*Edges

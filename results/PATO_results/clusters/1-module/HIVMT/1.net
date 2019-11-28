@@ -1,0 +1,67 @@
+*Vertices 18
+1 "OWLClass_00000008410904188521" ellipse
+2 "CisActingDNA-Element" ellipse
+3 "Transcription" ellipse
+4 "Exon" ellipse
+5 "FirstBaseOfR-RegionFullNmRepeatedSequence" ellipse
+6 "ImmediatelyAfterLastBaseOfR-RegionFullNmRepeatedSequence" ellipse
+7 "Intron" ellipse
+8 "Motif" ellipse
+9 "Polyadenylation" ellipse
+10 "R-RegionFullNmRepeatedSequence" ellipse
+11 "Retrotranscription" ellipse
+12 "SiteBindingCellularTranscriptionFactor" ellipse
+13 "TranscriptionEnzyme" ellipse
+14 "OWLClass_00000005635472270707" ellipse
+15 "OWLClass_00000006759062364141" ellipse
+16 "OWLClass_00000009699446271174" ellipse
+17 "startsAtLocation"
+18 "OWLObjectProperty_00000005361995367637"
+*Arcs
+1 16 1.0000000 l "isa"
+16 1 0.5000000 l "isa"
+2 12 0.5000000 l "isa"
+12 2 0.3333333 l "isa"
+2 15 0.5000000 l "isa"
+15 2 0.1428571 l "isa"
+4 15 1.0000000 l "isa"
+15 4 0.1428571 l "isa"
+5 15 0.3333333 l "isa"
+15 5 0.1428571 l "isa"
+6 15 0.3333333 l "isa"
+15 6 0.1428571 l "isa"
+7 15 1.0000000 l "isa"
+15 7 0.1428571 l "isa"
+8 15 1.0000000 l "isa"
+15 8 0.1428571 l "isa"
+12 15 0.3333333 l "isa"
+15 12 0.1428571 l "isa"
+13 16 0.3333333 l "isa"
+16 13 0.5000000 l "isa"
+3 17 0.1000000 l "definition"
+17 3 0.5000000 l "definition"
+3 5 0.1000000 l "definition"
+5 3 0.3333333 l "definition"
+3 13 0.2000000 l "definition"
+13 3 0.6666667 l "definition"
+3 18 0.1000000 l "definition"
+18 3 0.5000000 l "definition"
+9 6 0.2500000 l "definition"
+6 9 0.3333333 l "definition"
+9 17 0.2500000 l "definition"
+17 9 0.5000000 l "definition"
+11 14 0.1666667 l "definition"
+14 11 1.0000000 l "definition"
+11 18 0.1666667 l "definition"
+18 11 0.5000000 l "definition"
+3 11 0.1000000 l "substring"
+11 3 0.1666667 l "substring"
+3 12 0.1000000 l "substring"
+12 3 0.3333333 l "substring"
+3 13 0.2000000 l "substring"
+13 3 0.6666667 l "substring"
+5 10 0.3333333 l "substring"
+10 5 0.2500000 l "substring"
+6 10 0.3333333 l "substring"
+10 6 0.2500000 l "substring"
+*Edges

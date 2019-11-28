@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Pathological Data" ellipse
+2 "hasBasaloidFeatures"
+3 "hasCaseNumber"
+4 "hasDepthOfInvasion"
+5 "hasLymphoVascularInvasion"
+6 "hasPerineuralInvasion"
+*Arcs
+1 2 0.0400000 l "definition"
+2 1 1.0000000 l "definition"
+1 3 0.0400000 l "definition"
+3 1 1.0000000 l "definition"
+1 4 0.0400000 l "definition"
+4 1 1.0000000 l "definition"
+1 5 0.0400000 l "definition"
+5 1 1.0000000 l "definition"
+1 6 0.0400000 l "definition"
+6 1 1.0000000 l "definition"
+*Edges

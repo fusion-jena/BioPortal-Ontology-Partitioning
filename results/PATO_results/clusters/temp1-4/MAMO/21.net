@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Kurdi" ellipse
+2 "Skudde" ellipse
+*Arcs
+1 2 0.1195322 l "distance"
+2 1 0.5447974 l "distance"
+1 2 0.1195322 l "distance"
+2 1 0.5447974 l "distance"
+1 2 0.1195322 l "distance"
+2 1 0.5447974 l "distance"
+1 2 0.1195322 l "distance"
+2 1 0.5447974 l "distance"
+1 2 0.1195322 l "distance"
+2 1 0.5447974 l "distance"
+1 2 0.1195322 l "distance"
+2 1 0.5447974 l "distance"
+*Edges

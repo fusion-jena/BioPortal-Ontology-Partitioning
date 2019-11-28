@@ -1,0 +1,32 @@
+*Vertices 5
+1 "thing related to non pharmacotherapy clinical treatment" ellipse
+2 "equipment" ellipse
+3 "non-pharma therapy" ellipse
+4 "object" ellipse
+5 "process" ellipse
+*Arcs
+2 1 0.3622252 l "isa"
+1 2 0.0939241 l "isa"
+2 4 0.3532599 l "isa"
+4 2 0.0595616 l "isa"
+3 1 0.3657435 l "isa"
+1 3 0.0940340 l "isa"
+3 5 0.3471487 l "isa"
+5 3 0.0259048 l "isa"
+2 1 0.3622252 l "isa"
+1 2 0.0939241 l "isa"
+2 4 0.3532599 l "isa"
+4 2 0.0595616 l "isa"
+3 1 0.3657435 l "isa"
+1 3 0.0940340 l "isa"
+3 5 0.3471487 l "isa"
+5 3 0.0259048 l "isa"
+2 1 0.3622252 l "isa"
+1 2 0.0939241 l "isa"
+2 4 0.3532599 l "isa"
+4 2 0.0595616 l "isa"
+3 1 0.3657435 l "isa"
+1 3 0.0940340 l "isa"
+3 5 0.3471487 l "isa"
+5 3 0.0259048 l "isa"
+*Edges

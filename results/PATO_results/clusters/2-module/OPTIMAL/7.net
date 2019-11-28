@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Attendance" ellipse
+2 "AttendanceOfCrExercise" ellipse
+*Arcs
+2 1 0.0645161 l "definition"
+1 2 0.2857143 l "definition"
+1 2 0.2857143 l "substring"
+2 1 0.0645161 l "substring"
+*Edges

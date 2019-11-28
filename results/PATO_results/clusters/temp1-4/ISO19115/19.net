@@ -1,0 +1,36 @@
+*Vertices 3
+1 "LRRC38" ellipse
+2 "LRRC55" ellipse
+3 "LRRK1" ellipse
+*Arcs
+1 2 0.3841754 l "distance"
+2 1 0.1902323 l "distance"
+1 3 0.3165885 l "distance"
+3 1 0.0409089 l "distance"
+2 3 0.1186500 l "distance"
+3 2 0.0309625 l "distance"
+1 2 0.3841754 l "distance"
+2 1 0.1902323 l "distance"
+1 3 0.3165885 l "distance"
+3 1 0.0409089 l "distance"
+2 3 0.1186500 l "distance"
+3 2 0.0309625 l "distance"
+1 2 0.3841754 l "distance"
+2 1 0.1902323 l "distance"
+1 3 0.3165885 l "distance"
+3 1 0.0409089 l "distance"
+2 3 0.1186500 l "distance"
+3 2 0.0309625 l "distance"
+1 2 0.3841754 l "distance"
+2 1 0.1902323 l "distance"
+1 3 0.3165885 l "distance"
+3 1 0.0409089 l "distance"
+2 3 0.1186500 l "distance"
+3 2 0.0309625 l "distance"
+1 2 0.3841754 l "distance"
+2 1 0.1902323 l "distance"
+1 3 0.3165885 l "distance"
+3 1 0.0409089 l "distance"
+2 3 0.1186500 l "distance"
+3 2 0.0309625 l "distance"
+*Edges

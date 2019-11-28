@@ -1,0 +1,26 @@
+*Vertices 23
+1 "CI_OnLineFunctionCode" ellipse
+2 "CI_PresentationFormCode" ellipse
+3 "CI_RoleCode" ellipse
+4 "DQ_EvaluationMethodTypeCode" ellipse
+5 "DS_AssociationTypeCode" ellipse
+6 "DS_InitiativeTypeCode" ellipse
+7 "MD_CellGeometryCode" ellipse
+8 "MD_CharacterSetCode" ellipse
+9 "MD_CoverageContentTypeCode" ellipse
+10 "MD_DimensionNameTypeCode" ellipse
+11 "MD_GeometricObjectTypeCode" ellipse
+12 "MD_ImagingConditionCode" ellipse
+13 "MD_KeywordTypeCode" ellipse
+14 "MD_MaintenanceFrequenceCode" ellipse
+15 "MD_MediumFormatCode" ellipse
+16 "MD_MediumNameCode" ellipse
+17 "MD_ProgressCode" ellipse
+18 "MD_RestrictionCode" ellipse
+19 "MD_ScopeCode" ellipse
+20 "MD_SpatialRepresentationTypeCode" ellipse
+21 "MD_TopologyLevelCode" ellipse
+22 "nil"
+23 "elevation"
+*Arcs
+*Edges

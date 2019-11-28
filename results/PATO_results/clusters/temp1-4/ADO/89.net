@@ -1,0 +1,9 @@
+*Vertices 2
+1 "descriptive epidemiology context" ellipse
+2 "epidemiology context" ellipse
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.1052632 l "isa"
+1 2 0.2857143 l "substring"
+2 1 0.1052632 l "substring"
+*Edges

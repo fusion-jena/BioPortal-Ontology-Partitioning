@@ -1,0 +1,11 @@
+*Vertices 2
+1 "detector setting" ellipse
+2 "detector offset setting" ellipse
+*Arcs
+2 1 0.2625560 l "isa"
+1 2 0.1075885 l "isa"
+2 1 0.2625560 l "isa"
+1 2 0.1075885 l "isa"
+2 1 0.2625560 l "isa"
+1 2 0.1075885 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 4
+1 "LinkType" ellipse
+2 "LinkedVariables" ellipse
+3 "Measure" ellipse
+4 "Literal"
+*Arcs
+2 1 0.1111111 l "linkType"
+1 2 1.0000000 l "linkType"
+2 4 0.1111111 l "coefficients"
+4 2 0.5000000 l "coefficients"
+3 4 0.3333333 l "measureReferenceInDatasource"
+4 3 0.5000000 l "measureReferenceInDatasource"
+*Edges

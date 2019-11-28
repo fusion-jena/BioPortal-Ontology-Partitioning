@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Transgenic model" ellipse
+2 "In vitro model" ellipse
+*Arcs
+1 2 0.2833950 l "isa"
+2 1 0.1111042 l "isa"
+1 2 0.2833950 l "isa"
+2 1 0.1111042 l "isa"
+1 2 0.2833950 l "isa"
+2 1 0.1111042 l "isa"
+*Edges

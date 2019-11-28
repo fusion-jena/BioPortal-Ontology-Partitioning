@@ -1,0 +1,251 @@
+*Vertices 50
+1 "Cerebral cortex" ellipse
+2 "Frontal gyrus 1 (F1)" ellipse
+3 "Frontal gyrus 2 (F2)" ellipse
+4 "Frontal gyrus 3, pars opercularis (F3o)" ellipse
+5 "Angular gyrus (AG)" ellipse
+6 "Intracalcarine cortex (CALC)" ellipse
+7 "Cingulate gyrus, anterior division (CGa)" ellipse
+8 "Cingulate gyrus, posterior division (CGp)" ellipse
+9 "Cuneal gyrus (CN)" ellipse
+10 "Central opercular cortex (CO)" ellipse
+11 "Frontal gyrus 3, pars triangularis (F3t)" ellipse
+12 "Frontal medial cortex (FMC)" ellipse
+13 "Frontal operculum cortex (FO)" ellipse
+14 "Frontal orbital cortex (FOC)" ellipse
+15 "Frontal pole (FP)" ellipse
+16 "Heschl's gyrus" ellipse
+17 "Insula cortex (INS)" ellipse
+18 "Juxtaparacentral lobule cortex (JPL)" ellipse
+19 "Lingula gyrus (LG)" ellipse
+20 "Occipital fusiform gyrus (OF)" ellipse
+21 "Lateral occipital cortex, inferior division (OLi)" ellipse
+22 "Lateral occipital cortex, superior division (OLs)" ellipse
+23 "Occipital pole (OP)" ellipse
+24 "Paracingulate gyrus (PAC)" ellipse
+25 "Precuneus cortex (PCN)" ellipse
+26 "Parahippocampal gyrus, anterior division (PHa)" ellipse
+27 "Parahippocampal gyrus, posterior division (PHp)" ellipse
+28 "Parietal operculum cortex (PO)" ellipse
+29 "Postcentral gyrus (POG)" ellipse
+30 "Planum polare (PP)" ellipse
+31 "Precentral gyrus (PRG)" ellipse
+32 "Planum temporale (PT)" ellipse
+33 "Subcallosal cortex (SC)" ellipse
+34 "Supracalcarine cortex (SCAL)" ellipse
+35 "Supramarginal gyrus, anterior division (SGa)" ellipse
+36 "Supramarginal gyrus, posterior division (SGp)" ellipse
+37 "Superior parietal lobule (SPL)" ellipse
+38 "Superior temporal gyrus, anterior division (T1a)" ellipse
+39 "Superior temporal gyrus, posterior division (T1p)" ellipse
+40 "Middle temporal gyrus, anterior division (T2a)" ellipse
+41 "Middle temporal gyrus, posterior division (T2p)" ellipse
+42 "Inferior temporal gyrus, anterior division (T3a)" ellipse
+43 "Inferior temporal gyrus, posterior division (T3p)" ellipse
+44 "Temporal frontal cortex, anterior division (TFa)" ellipse
+45 "Temporal frontal cortex, posterior division (TFp)" ellipse
+46 "Middle temporal gyrus, temporoccipital part (TO2)" ellipse
+47 "Inferior temporal gyrus, temporoccipital part (TO3)" ellipse
+48 "Temporal occipital fusiform cortex (TOF)" ellipse
+49 "Temporal pole (TP)" ellipse
+50 "Limbic lobe" ellipse
+*Arcs
+1 2 0.0100000 l "definition"
+2 1 0.3333333 l "definition"
+1 3 0.0100000 l "definition"
+3 1 0.3333333 l "definition"
+1 4 0.0100000 l "definition"
+4 1 0.4000000 l "definition"
+1 5 0.0100000 l "definition"
+5 1 0.4000000 l "definition"
+1 6 0.0100000 l "definition"
+6 1 0.3333333 l "definition"
+1 7 0.0100000 l "definition"
+7 1 0.4000000 l "definition"
+1 8 0.0100000 l "definition"
+8 1 0.4000000 l "definition"
+1 9 0.0100000 l "definition"
+9 1 0.4000000 l "definition"
+1 10 0.0100000 l "definition"
+10 1 0.4000000 l "definition"
+1 11 0.0100000 l "definition"
+11 1 0.4000000 l "definition"
+1 12 0.0100000 l "definition"
+12 1 0.4000000 l "definition"
+1 13 0.0100000 l "definition"
+13 1 0.4000000 l "definition"
+1 14 0.0100000 l "definition"
+14 1 0.4000000 l "definition"
+1 15 0.0100000 l "definition"
+15 1 0.4000000 l "definition"
+1 16 0.0100000 l "definition"
+16 1 0.4000000 l "definition"
+1 17 0.0100000 l "definition"
+17 1 0.4000000 l "definition"
+1 18 0.0100000 l "definition"
+18 1 0.3333333 l "definition"
+1 19 0.0100000 l "definition"
+19 1 0.4000000 l "definition"
+1 20 0.0100000 l "definition"
+20 1 0.3333333 l "definition"
+1 21 0.0100000 l "definition"
+21 1 0.4000000 l "definition"
+1 22 0.0100000 l "definition"
+22 1 0.4000000 l "definition"
+1 23 0.0100000 l "definition"
+23 1 0.4000000 l "definition"
+1 24 0.0100000 l "definition"
+24 1 0.4000000 l "definition"
+1 25 0.0100000 l "definition"
+25 1 0.4000000 l "definition"
+1 26 0.0100000 l "definition"
+26 1 0.3333333 l "definition"
+1 27 0.0100000 l "definition"
+27 1 0.3333333 l "definition"
+1 28 0.0100000 l "definition"
+28 1 0.4000000 l "definition"
+1 29 0.0100000 l "definition"
+29 1 0.4000000 l "definition"
+1 30 0.0100000 l "definition"
+30 1 0.4000000 l "definition"
+1 31 0.0100000 l "definition"
+31 1 0.3333333 l "definition"
+1 32 0.0100000 l "definition"
+32 1 0.4000000 l "definition"
+1 33 0.0100000 l "definition"
+33 1 0.4000000 l "definition"
+1 34 0.0100000 l "definition"
+34 1 0.4000000 l "definition"
+1 35 0.0100000 l "definition"
+35 1 0.4000000 l "definition"
+1 36 0.0100000 l "definition"
+36 1 0.4000000 l "definition"
+1 37 0.0100000 l "definition"
+37 1 0.4000000 l "definition"
+1 38 0.0100000 l "definition"
+38 1 0.3333333 l "definition"
+1 39 0.0100000 l "definition"
+39 1 0.3333333 l "definition"
+1 40 0.0100000 l "definition"
+40 1 0.2857143 l "definition"
+1 41 0.0100000 l "definition"
+41 1 0.2857143 l "definition"
+1 42 0.0100000 l "definition"
+42 1 0.3333333 l "definition"
+1 43 0.0100000 l "definition"
+43 1 0.3333333 l "definition"
+1 44 0.0100000 l "definition"
+44 1 0.4000000 l "definition"
+1 45 0.0100000 l "definition"
+45 1 0.4000000 l "definition"
+1 46 0.0100000 l "definition"
+46 1 0.2857143 l "definition"
+1 47 0.0100000 l "definition"
+47 1 0.3333333 l "definition"
+1 48 0.0100000 l "definition"
+48 1 0.4000000 l "definition"
+1 49 0.0100000 l "definition"
+49 1 0.4000000 l "definition"
+1 50 0.0100000 l "definition"
+50 1 0.3333333 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.0100000 l "definition"
+3 1 0.3333333 l "definition"
+1 3 0.0100000 l "definition"
+4 1 0.4000000 l "definition"
+1 4 0.0100000 l "definition"
+5 1 0.4000000 l "definition"
+1 5 0.0100000 l "definition"
+6 1 0.3333333 l "definition"
+1 6 0.0100000 l "definition"
+7 1 0.4000000 l "definition"
+1 7 0.0100000 l "definition"
+8 1 0.4000000 l "definition"
+1 8 0.0100000 l "definition"
+9 1 0.4000000 l "definition"
+1 9 0.0100000 l "definition"
+10 1 0.4000000 l "definition"
+1 10 0.0100000 l "definition"
+11 1 0.4000000 l "definition"
+1 11 0.0100000 l "definition"
+12 1 0.4000000 l "definition"
+1 12 0.0100000 l "definition"
+13 1 0.4000000 l "definition"
+1 13 0.0100000 l "definition"
+14 1 0.4000000 l "definition"
+1 14 0.0100000 l "definition"
+15 1 0.4000000 l "definition"
+1 15 0.0100000 l "definition"
+16 1 0.4000000 l "definition"
+1 16 0.0100000 l "definition"
+17 1 0.4000000 l "definition"
+1 17 0.0100000 l "definition"
+18 1 0.3333333 l "definition"
+1 18 0.0100000 l "definition"
+19 1 0.4000000 l "definition"
+1 19 0.0100000 l "definition"
+20 1 0.3333333 l "definition"
+1 20 0.0100000 l "definition"
+21 1 0.4000000 l "definition"
+1 21 0.0100000 l "definition"
+22 1 0.4000000 l "definition"
+1 22 0.0100000 l "definition"
+23 1 0.4000000 l "definition"
+1 23 0.0100000 l "definition"
+24 1 0.4000000 l "definition"
+1 24 0.0100000 l "definition"
+25 1 0.4000000 l "definition"
+1 25 0.0100000 l "definition"
+26 1 0.3333333 l "definition"
+1 26 0.0100000 l "definition"
+27 1 0.3333333 l "definition"
+1 27 0.0100000 l "definition"
+28 1 0.4000000 l "definition"
+1 28 0.0100000 l "definition"
+29 1 0.4000000 l "definition"
+1 29 0.0100000 l "definition"
+30 1 0.4000000 l "definition"
+1 30 0.0100000 l "definition"
+31 1 0.3333333 l "definition"
+1 31 0.0100000 l "definition"
+32 1 0.4000000 l "definition"
+1 32 0.0100000 l "definition"
+33 1 0.4000000 l "definition"
+1 33 0.0100000 l "definition"
+34 1 0.4000000 l "definition"
+1 34 0.0100000 l "definition"
+35 1 0.4000000 l "definition"
+1 35 0.0100000 l "definition"
+36 1 0.4000000 l "definition"
+1 36 0.0100000 l "definition"
+37 1 0.4000000 l "definition"
+1 37 0.0100000 l "definition"
+38 1 0.3333333 l "definition"
+1 38 0.0100000 l "definition"
+39 1 0.3333333 l "definition"
+1 39 0.0100000 l "definition"
+40 1 0.2857143 l "definition"
+1 40 0.0100000 l "definition"
+41 1 0.2857143 l "definition"
+1 41 0.0100000 l "definition"
+42 1 0.3333333 l "definition"
+1 42 0.0100000 l "definition"
+43 1 0.3333333 l "definition"
+1 43 0.0100000 l "definition"
+44 1 0.4000000 l "definition"
+1 44 0.0100000 l "definition"
+45 1 0.4000000 l "definition"
+1 45 0.0100000 l "definition"
+46 1 0.2857143 l "definition"
+1 46 0.0100000 l "definition"
+47 1 0.3333333 l "definition"
+1 47 0.0100000 l "definition"
+48 1 0.4000000 l "definition"
+1 48 0.0100000 l "definition"
+49 1 0.4000000 l "definition"
+1 49 0.0100000 l "definition"
+50 1 0.3333333 l "definition"
+1 50 0.0100000 l "definition"
+2 3 0.1666667 l "distance"
+3 2 0.1666667 l "distance"
+*Edges

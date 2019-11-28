@@ -1,0 +1,21 @@
+*Vertices 2
+1 "OTIT" ellipse
+2 "OTITE" ellipse
+*Arcs
+1 2 0.0381833 l "substring"
+2 1 0.1306374 l "substring"
+1 2 0.0381833 l "distance"
+2 1 0.1306374 l "distance"
+1 2 0.0381833 l "substring"
+2 1 0.1306374 l "substring"
+1 2 0.0381833 l "distance"
+2 1 0.1306374 l "distance"
+1 2 0.0381833 l "substring"
+2 1 0.1306374 l "substring"
+1 2 0.0381833 l "distance"
+2 1 0.1306374 l "distance"
+1 2 0.0381833 l "substring"
+2 1 0.1306374 l "substring"
+1 2 0.0381833 l "distance"
+2 1 0.1306374 l "distance"
+*Edges

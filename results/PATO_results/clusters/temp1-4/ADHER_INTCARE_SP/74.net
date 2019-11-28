@@ -1,0 +1,26 @@
+*Vertices 5
+1 "Biologicos" ellipse
+2 "Directo" ellipse
+3 "Marcadores_biologicos" ellipse
+4 "Observacion_directa" ellipse
+5 "es_tipo_estilo_de"
+*Arcs
+3 1 0.3333333 l "isa"
+1 3 0.1666667 l "isa"
+1 2 0.1666667 l "definition"
+2 1 0.0689655 l "definition"
+2 4 0.0689655 l "definition"
+4 2 0.3333333 l "definition"
+2 1 0.0689655 l "definition"
+1 2 0.1666667 l "definition"
+2 3 0.0689655 l "definition"
+3 2 0.3333333 l "definition"
+2 5 0.0344828 l "definition"
+5 2 1.0000000 l "definition"
+3 2 0.3333333 l "definition"
+2 3 0.0689655 l "definition"
+4 2 0.3333333 l "definition"
+2 4 0.0689655 l "definition"
+1 3 0.1666667 l "substring"
+3 1 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 3
+1 "PLO:000017" ellipse
+2 "PLO:000018" ellipse
+3 "PLO:000006" ellipse
+*Arcs
+1 3 0.0952381 l "isa"
+3 1 0.0869565 l "isa"
+2 3 0.0952381 l "isa"
+3 2 0.0869565 l "isa"
+1 2 0.0476190 l "distance"
+2 1 0.0476190 l "distance"
+1 3 0.0952381 l "distance"
+3 1 0.0869565 l "distance"
+2 3 0.0952381 l "distance"
+3 2 0.0869565 l "distance"
+*Edges

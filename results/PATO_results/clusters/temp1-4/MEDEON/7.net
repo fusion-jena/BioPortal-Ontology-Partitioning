@@ -1,0 +1,45 @@
+*Vertices 6
+1 "Dacite" ellipse
+2 "Pumice" ellipse
+3 "SpatterCone" ellipse
+4 "Trachyte" ellipse
+5 "VolcanicNeck" ellipse
+6 "VolcanicRock" ellipse
+*Arcs
+1 6 0.4299142 l "isa"
+6 1 0.0559074 l "isa"
+2 6 0.5801338 l "isa"
+6 2 0.0559074 l "isa"
+3 6 0.5801338 l "isa"
+6 3 0.0559074 l "isa"
+4 6 0.5801338 l "isa"
+6 4 0.0559074 l "isa"
+5 6 0.7687268 l "isa"
+6 5 0.1259786 l "isa"
+5 6 0.7687268 l "distance"
+6 5 0.1259786 l "distance"
+1 6 0.4299142 l "isa"
+6 1 0.0559074 l "isa"
+2 6 0.5801338 l "isa"
+6 2 0.0559074 l "isa"
+3 6 0.5801338 l "isa"
+6 3 0.0559074 l "isa"
+4 6 0.5801338 l "isa"
+6 4 0.0559074 l "isa"
+5 6 0.7687268 l "isa"
+6 5 0.1259786 l "isa"
+5 6 0.7687268 l "distance"
+6 5 0.1259786 l "distance"
+1 6 0.4299142 l "isa"
+6 1 0.0559074 l "isa"
+2 6 0.5801338 l "isa"
+6 2 0.0559074 l "isa"
+3 6 0.5801338 l "isa"
+6 3 0.0559074 l "isa"
+4 6 0.5801338 l "isa"
+6 4 0.0559074 l "isa"
+5 6 0.7687268 l "isa"
+6 5 0.1259786 l "isa"
+5 6 0.7687268 l "distance"
+6 5 0.1259786 l "distance"
+*Edges

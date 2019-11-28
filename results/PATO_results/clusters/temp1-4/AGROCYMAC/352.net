@@ -1,0 +1,11 @@
+*Vertices 2
+1 "peak start" ellipse
+2 "peak start point" ellipse
+*Arcs
+1 2 0.1827721 l "substring"
+2 1 0.1584805 l "substring"
+1 2 0.1827721 l "substring"
+2 1 0.1584805 l "substring"
+1 2 0.1827721 l "substring"
+2 1 0.1584805 l "substring"
+*Edges

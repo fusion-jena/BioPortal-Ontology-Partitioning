@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Race" ellipse
+2 "race" ellipse
+*Arcs
+1 2 0.1685134 l "substring"
+2 1 0.1818182 l "substring"
+1 2 0.1685134 l "distance"
+2 1 0.1818182 l "distance"
+*Edges

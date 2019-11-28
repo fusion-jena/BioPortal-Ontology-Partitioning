@@ -1,0 +1,9 @@
+*Vertices 2
+1 "List of regions" ellipse
+2 "Seq" ellipse
+*Arcs
+1 2 0.2530977 l "isa"
+2 1 0.0991650 l "isa"
+1 2 0.2530977 l "isa"
+2 1 0.0991650 l "isa"
+*Edges

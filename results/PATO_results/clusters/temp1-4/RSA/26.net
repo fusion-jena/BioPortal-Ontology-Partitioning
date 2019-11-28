@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Nonpharmacologic" ellipse
+2 "nonpharmacologic measures" ellipse
+*Arcs
+1 2 0.6302649 l "substring"
+2 1 0.6302649 l "substring"
+1 2 0.6302649 l "substring"
+2 1 0.6302649 l "substring"
+1 2 0.6302649 l "substring"
+2 1 0.6302649 l "substring"
+1 2 0.6302649 l "substring"
+2 1 0.6302649 l "substring"
+*Edges

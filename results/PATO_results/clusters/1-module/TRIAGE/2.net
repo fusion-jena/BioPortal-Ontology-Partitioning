@@ -1,0 +1,74 @@
+*Vertices 15
+1 "High_Probability_Of_Admission" ellipse
+2 "Hospital_Units" ellipse
+3 "Independent_Nursing_Role" ellipse
+4 "Medical" ellipse
+5 "Mental_Health_Team" ellipse
+6 "Nurse_Supervisor" ellipse
+7 "Ortho" ellipse
+8 "Registrar" ellipse
+9 "Requires_Bed" ellipse
+10 "Shift_in_charge_nurse" ellipse
+11 "Short_Stay_Unit" ellipse
+12 "Surgical" ellipse
+13 "Trauma" ellipse
+14 "Trauma_Team" ellipse
+15 "Triage" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.0714286 l "isa"
+2 6 0.6666667 l "isa"
+6 2 0.3333333 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.1111111 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.1428571 l "isa"
+6 10 0.3333333 l "isa"
+10 6 0.1428571 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1111111 l "isa"
+9 3 0.3333333 l "isa"
+3 9 0.0714286 l "isa"
+10 3 0.0714286 l "isa"
+3 10 0.0714286 l "isa"
+11 10 1.0000000 l "isa"
+10 11 0.2142857 l "isa"
+12 8 1.0000000 l "isa"
+8 12 0.1111111 l "isa"
+13 10 0.4000000 l "isa"
+10 13 0.1428571 l "isa"
+14 13 1.0000000 l "isa"
+13 14 0.6000000 l "isa"
+15 3 0.3333333 l "isa"
+3 15 0.1428571 l "isa"
+10 8 0.0714286 l "EDMO_Review"
+8 10 0.1111111 l "EDMO_Review"
+10 11 0.2142857 l "PatientTo"
+11 10 1.0000000 l "PatientTo"
+10 13 0.1428571 l "activateTraumaLevel"
+13 10 0.4000000 l "activateTraumaLevel"
+13 14 0.6000000 l "activates"
+14 13 1.0000000 l "activates"
+8 2 0.1111111 l "admission"
+2 8 0.3333333 l "admission"
+15 1 0.1666667 l "assesses"
+1 15 0.3333333 l "assesses"
+15 9 0.1666667 l "assesses"
+9 15 0.3333333 l "assesses"
+6 2 0.3333333 l "availableBeds"
+2 6 0.6666667 l "availableBeds"
+1 6 0.3333333 l "headsUp"
+6 1 0.1666667 l "headsUp"
+3 15 0.1428571 l "initialPresentation"
+15 3 0.3333333 l "initialPresentation"
+9 10 0.3333333 l "liaisesWith"
+10 9 0.0714286 l "liaisesWith"
+10 6 0.1428571 l "notifies"
+6 10 0.3333333 l "notifies"
+10 5 0.1428571 l "pathways"
+5 10 1.0000000 l "pathways"
+10 11 0.2142857 l "pathways"
+11 10 1.0000000 l "pathways"
+13 14 0.6000000 l "substring"
+14 13 1.0000000 l "substring"
+*Edges

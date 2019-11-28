@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Rarely_offers_comfort_or_only_in_odd_ways" ellipse
+2 "cocomf_Rarely_offers_comfort_or_only_in_odd_ways"
+*Arcs
+1 2 0.2215242 l "substring"
+2 1 0.1913804 l "substring"
+1 2 0.2215242 l "substring"
+2 1 0.1913804 l "substring"
+1 2 0.2215242 l "substring"
+2 1 0.1913804 l "substring"
+*Edges

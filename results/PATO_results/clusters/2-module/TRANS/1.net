@@ -1,0 +1,9 @@
+*Vertices 2
+1 "dependent_role_name"
+2 "independent_role_name"
+*Arcs
+1 2 0.2857143 l "substring"
+2 1 0.2857143 l "substring"
+1 2 0.2857143 l "distance"
+2 1 0.2857143 l "distance"
+*Edges

@@ -1,0 +1,30 @@
+*Vertices 3
+1 "erfahrener Patient" ellipse
+2 "Patient" ellipse
+3 "sensibler Patient" ellipse
+*Arcs
+1 2 0.3955522 l "isa"
+2 1 0.1766585 l "isa"
+3 2 0.2962078 l "isa"
+2 3 0.1654707 l "isa"
+1 2 0.3955522 l "substring"
+2 1 0.1766585 l "substring"
+2 3 0.1654707 l "substring"
+3 2 0.2962078 l "substring"
+1 2 0.3955522 l "isa"
+2 1 0.1766585 l "isa"
+3 2 0.2962078 l "isa"
+2 3 0.1654707 l "isa"
+1 2 0.3955522 l "substring"
+2 1 0.1766585 l "substring"
+2 3 0.1654707 l "substring"
+3 2 0.2962078 l "substring"
+1 2 0.3955522 l "isa"
+2 1 0.1766585 l "isa"
+3 2 0.2962078 l "isa"
+2 3 0.1654707 l "isa"
+1 2 0.3955522 l "substring"
+2 1 0.1766585 l "substring"
+2 3 0.1654707 l "substring"
+3 2 0.2962078 l "substring"
+*Edges

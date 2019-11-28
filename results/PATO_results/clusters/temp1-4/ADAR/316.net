@@ -1,0 +1,21 @@
+*Vertices 2
+1 "BoneScintigraphy" ellipse
+2 "Scintigraphy" ellipse
+*Arcs
+1 2 0.8253060 l "isa"
+2 1 0.7090804 l "isa"
+1 2 0.8253060 l "substring"
+2 1 0.7090804 l "substring"
+1 2 0.8253060 l "isa"
+2 1 0.7090804 l "isa"
+1 2 0.8253060 l "substring"
+2 1 0.7090804 l "substring"
+1 2 0.8253060 l "isa"
+2 1 0.7090804 l "isa"
+1 2 0.8253060 l "substring"
+2 1 0.7090804 l "substring"
+1 2 0.8253060 l "isa"
+2 1 0.7090804 l "isa"
+1 2 0.8253060 l "substring"
+2 1 0.7090804 l "substring"
+*Edges

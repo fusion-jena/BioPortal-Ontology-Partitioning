@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Dyskinesia" ellipse
+2 "Tardive_Dyskinesia" ellipse
+*Arcs
+1 2 0.3581972 l "substring"
+2 1 0.4416975 l "substring"
+1 2 0.3581972 l "substring"
+2 1 0.4416975 l "substring"
+1 2 0.3581972 l "substring"
+2 1 0.4416975 l "substring"
+*Edges

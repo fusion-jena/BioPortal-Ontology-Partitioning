@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Angus" ellipse
+2 "German Angus" ellipse
+*Arcs
+1 2 0.1061202 l "substring"
+2 1 0.5257472 l "substring"
+1 2 0.1061202 l "substring"
+2 1 0.5257472 l "substring"
+1 2 0.1061202 l "substring"
+2 1 0.5257472 l "substring"
+1 2 0.1061202 l "substring"
+2 1 0.5257472 l "substring"
+*Edges

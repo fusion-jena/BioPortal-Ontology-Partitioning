@@ -1,0 +1,9 @@
+*Vertices 2
+1 "1008949"
+2 "1088559"
+*Arcs
+1 2 0.0743185 l "distance"
+2 1 0.1268528 l "distance"
+1 2 0.0743185 l "distance"
+2 1 0.1268528 l "distance"
+*Edges

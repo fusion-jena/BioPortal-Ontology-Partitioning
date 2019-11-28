@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Address" ellipse
+2 "Address" ellipse
+3 "boolean"
+*Arcs
+2 3 0.0797726 l "is barrier-free"
+3 2 0.1709252 l "is barrier-free"
+1 2 0.2417055 l "substring"
+2 1 0.1689659 l "substring"
+1 2 0.2417055 l "distance"
+2 1 0.1689659 l "distance"
+2 3 0.0797726 l "is barrier-free"
+3 2 0.1709252 l "is barrier-free"
+1 2 0.2417055 l "substring"
+2 1 0.1689659 l "substring"
+1 2 0.2417055 l "distance"
+2 1 0.1689659 l "distance"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 2
+1 "assay datum" ellipse
+2 "diagnostic test type" ellipse
+*Arcs
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+2 1 0.5425894 l "isa"
+1 2 0.5252115 l "isa"
+*Edges

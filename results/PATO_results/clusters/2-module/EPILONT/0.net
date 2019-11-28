@@ -1,0 +1,121 @@
+*Vertices 42
+1 "Crises auto-limitadas" ellipse
+2 "Epilepsias focais sintomáticas (ou provavelmente sintomáticas)" ellipse
+3 "Thing" ellipse
+4 "Automatism" ellipse
+5 "Epilepsia apenas com crises tónico-clónicas generalizadas" ellipse
+6 "Epilepsia com crises mioclónico-astáticas" ellipse
+7 "Crises reflexas" ellipse
+8 "Crise focal motora com automatismos (lobo temporal) típicos" ellipse
+9 "Crises raramente repetidas (oligo-epilepsia)" ellipse
+10 "Crises reflexas (em síndromos epilépticos generalizados)" ellipse
+11 "Aura" ellipse
+12 "Aura continua" ellipse
+13 "Epilepsia partialis continua de Kojevnikov" ellipse
+14 "Epilepsia" ellipse
+15 "Epilepsia com ausências mioclónicas" ellipse
+16 "Epileptic Syndromes" ellipse
+17 "Epileptiform" ellipse
+18 "Epilepsias do lobo temporal familiares" ellipse
+19 "Foco" ellipse
+20 "Ictal" ellipse
+21 "Epilepsias generalizadas idiopáticas com fenótipos variáveis" ellipse
+22 "Epilepsia do lobo occipital fotossensível idiopática" ellipse
+23 "Interictal" ellipse
+24 "Epilepsia de ausências juvenil" ellipse
+25 "Epilepsia mioclónica juvenil" ellipse
+26 "Landau-Kleffner syndrome" ellipse
+27 "Lennox-Gastaut syndrome" ellipse
+28 "Epilepsias límbicas" ellipse
+29 "Epilepsia do lobo temporal mesial definida por etiologias específicas" ellipse
+30 "Epilepsia do lobo temporal mesial com esclerose do hipocampo" ellipse
+31 "Epilepsias neocorticais" ellipse
+32 "Ohtahara syndrome" ellipse
+33 "Postictal" ellipse
+34 "Epilepsia primária da leitura" ellipse
+35 "Epilepsias mioclónicas progressivas" ellipse
+36 "Rasmussen syndrome" ellipse
+37 "Pico" ellipse
+38 "Epilepsia do susto (surpresa)" ellipse
+39 "Syncope" ellipse
+40 "Dravet's syndrome" ellipse
+41 "Epilepsia com ponta-onda contínua no sono de ondas lentas (não inclui síndrome Landau-Kleffner)" ellipse
+42 "Epilepsia occipital benigna da criança com início tardio (tipo Gastaut)" ellipse
+*Arcs
+5 21 0.3333333 l "isa"
+21 5 0.1666667 l "isa"
+16 3 0.1000000 l "isa"
+3 16 0.2500000 l "isa"
+24 21 0.5000000 l "isa"
+21 24 0.1666667 l "isa"
+25 21 0.5000000 l "isa"
+21 25 0.1666667 l "isa"
+28 2 0.2000000 l "isa"
+2 28 0.2500000 l "isa"
+29 28 0.5000000 l "isa"
+28 29 0.2000000 l "isa"
+30 28 0.5000000 l "isa"
+28 30 0.2000000 l "isa"
+31 2 0.2000000 l "isa"
+2 31 0.2500000 l "isa"
+35 16 0.5000000 l "isa"
+16 35 0.1000000 l "isa"
+36 31 0.5000000 l "isa"
+31 36 0.2000000 l "isa"
+2 16 0.2500000 l "isa"
+16 2 0.1000000 l "isa"
+11 12 0.5000000 l "substring"
+12 11 0.5000000 l "substring"
+4 8 0.3333333 l "substring"
+8 4 0.1666667 l "substring"
+13 14 0.5000000 l "substring"
+14 13 0.0384615 l "substring"
+14 5 0.0384615 l "substring"
+5 14 0.3333333 l "substring"
+14 6 0.0384615 l "substring"
+6 14 0.3333333 l "substring"
+14 15 0.0384615 l "substring"
+15 14 0.5000000 l "substring"
+14 18 0.0384615 l "substring"
+18 14 0.5000000 l "substring"
+14 21 0.0384615 l "substring"
+21 14 0.1666667 l "substring"
+14 22 0.0384615 l "substring"
+22 14 0.5000000 l "substring"
+14 24 0.0384615 l "substring"
+24 14 0.5000000 l "substring"
+14 25 0.0384615 l "substring"
+25 14 0.5000000 l "substring"
+14 28 0.0384615 l "substring"
+28 14 0.2000000 l "substring"
+14 29 0.0384615 l "substring"
+29 14 0.5000000 l "substring"
+14 30 0.0384615 l "substring"
+30 14 0.5000000 l "substring"
+14 31 0.0384615 l "substring"
+31 14 0.2000000 l "substring"
+14 34 0.0384615 l "substring"
+34 14 0.5000000 l "substring"
+14 35 0.0384615 l "substring"
+35 14 0.5000000 l "substring"
+14 38 0.0384615 l "substring"
+38 14 0.5000000 l "substring"
+14 41 0.0384615 l "substring"
+41 14 0.5000000 l "substring"
+14 42 0.0384615 l "substring"
+42 14 0.5000000 l "substring"
+14 9 0.0384615 l "substring"
+9 14 0.3333333 l "substring"
+14 2 0.0384615 l "substring"
+2 14 0.2500000 l "substring"
+20 23 0.3333333 l "substring"
+23 20 0.5000000 l "substring"
+20 33 0.3333333 l "substring"
+33 20 0.5000000 l "substring"
+7 10 0.3333333 l "substring"
+10 7 0.3333333 l "substring"
+37 8 0.3333333 l "substring"
+8 37 0.1666667 l "substring"
+19 37 0.5000000 l "distance"
+37 19 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "definitionSource"
+2 "definitionSource"
+*Arcs
+1 2 0.1684604 l "substring"
+2 1 0.1685136 l "substring"
+1 2 0.1684604 l "distance"
+2 1 0.1685136 l "distance"
+1 2 0.1684604 l "substring"
+2 1 0.1685136 l "substring"
+1 2 0.1684604 l "distance"
+2 1 0.1685136 l "distance"
+*Edges

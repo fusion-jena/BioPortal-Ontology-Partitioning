@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Gingko biloba" ellipse
+2 "natural product or vitamin used in treatment" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1428571 l "isa"
+*Edges

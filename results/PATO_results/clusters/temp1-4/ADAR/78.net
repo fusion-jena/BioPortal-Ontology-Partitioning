@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Recognition_of_Social_Norms" ellipse
+2 "Regard_for_Customs_and_Manners" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+*Edges

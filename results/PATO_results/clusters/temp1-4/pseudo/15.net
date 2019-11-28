@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ChemicalProperty" ellipse
+2 "Purity" ellipse
+*Arcs
+2 1 0.2249018 l "isa"
+1 2 0.2087660 l "isa"
+2 1 0.2249018 l "isa"
+1 2 0.2087660 l "isa"
+2 1 0.2249018 l "isa"
+1 2 0.2087660 l "isa"
+*Edges

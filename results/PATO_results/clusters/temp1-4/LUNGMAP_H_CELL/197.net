@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Swiss White Alpine" ellipse
+2 "Swiss White Alpine" ellipse
+*Arcs
+1 2 0.8010187 l "substring"
+2 1 0.6955496 l "substring"
+1 2 0.8010187 l "distance"
+2 1 0.6955496 l "distance"
+1 2 0.8010187 l "substring"
+2 1 0.6955496 l "substring"
+1 2 0.8010187 l "distance"
+2 1 0.6955496 l "distance"
+1 2 0.8010187 l "substring"
+2 1 0.6955496 l "substring"
+1 2 0.8010187 l "distance"
+2 1 0.6955496 l "distance"
+1 2 0.8010187 l "substring"
+2 1 0.6955496 l "substring"
+1 2 0.8010187 l "distance"
+2 1 0.6955496 l "distance"
+*Edges

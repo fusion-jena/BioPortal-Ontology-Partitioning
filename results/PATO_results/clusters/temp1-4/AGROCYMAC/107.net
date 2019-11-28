@@ -1,0 +1,11 @@
+*Vertices 2
+1 "solute role" ellipse
+2 "dissolution role" ellipse
+*Arcs
+1 2 0.2771928 l "isa"
+2 1 0.1296944 l "isa"
+1 2 0.2771928 l "isa"
+2 1 0.1296944 l "isa"
+1 2 0.2771928 l "isa"
+2 1 0.1296944 l "isa"
+*Edges

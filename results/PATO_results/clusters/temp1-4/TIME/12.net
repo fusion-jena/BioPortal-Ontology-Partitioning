@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Day of week" ellipse
+2 "day of week"
+*Arcs
+1 2 0.2857143 l "substring"
+2 1 0.3333333 l "substring"
+1 2 0.2857143 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

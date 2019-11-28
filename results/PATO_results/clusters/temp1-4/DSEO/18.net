@@ -1,0 +1,11 @@
+*Vertices 2
+1 "MethodsQuantifyUncertainity" ellipse
+2 "StatisticalUncertainity" ellipse
+*Arcs
+2 1 0.1565179 l "isa"
+1 2 0.0943778 l "isa"
+2 1 0.1565179 l "isa"
+1 2 0.0943778 l "isa"
+2 1 0.1565179 l "isa"
+1 2 0.0943778 l "isa"
+*Edges

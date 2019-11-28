@@ -1,0 +1,23 @@
+*Vertices 6
+1 "CI/Cro transcriptional repressor activity" ellipse
+2 "DNA binding activity" ellipse
+3 "single stranded DNA binding activity" ellipse
+4 "double stranded DNA binding activity" ellipse
+5 "transcriptional repressor activity" ellipse
+6 "transcription factor activity" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.3333333 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.3333333 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.5000000 l "isa"
+6 2 0.5000000 l "isa"
+2 6 0.1666667 l "isa"
+1 5 1.0000000 l "substring"
+5 1 0.5000000 l "substring"
+2 3 0.3333333 l "substring"
+3 2 1.0000000 l "substring"
+2 4 0.3333333 l "substring"
+4 2 1.0000000 l "substring"
+*Edges

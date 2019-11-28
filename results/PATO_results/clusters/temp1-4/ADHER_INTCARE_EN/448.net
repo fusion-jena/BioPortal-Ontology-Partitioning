@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Problems_not_present_before_fifth_birthday" ellipse
+2 "Problems_not_present_before_first_birthday" ellipse
+3 "Problems_not_present_before_fourth_birthday" ellipse
+4 "Problems_not_present_before_sixth_birthday" ellipse
+*Arcs
+1 2 0.0853471 l "distance"
+2 1 0.1021913 l "distance"
+1 3 0.0853471 l "distance"
+3 1 0.1021913 l "distance"
+1 4 0.0853471 l "distance"
+4 1 0.1021913 l "distance"
+1 2 0.0853471 l "distance"
+2 1 0.1021913 l "distance"
+1 3 0.0853471 l "distance"
+3 1 0.1021913 l "distance"
+1 4 0.0853471 l "distance"
+4 1 0.1021913 l "distance"
+*Edges

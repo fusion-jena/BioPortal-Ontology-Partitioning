@@ -1,0 +1,22 @@
+*Vertices 3
+1 "unspecified asthma with status asthmaticus" ellipse
+2 "unspecified asthma uncomplicated" ellipse
+3 "unspecified asthma" ellipse
+*Arcs
+1 3 0.2345466 l "substring"
+3 1 0.1464254 l "substring"
+2 3 0.2345466 l "substring"
+3 2 0.1464254 l "substring"
+1 3 0.2345466 l "substring"
+3 1 0.1464254 l "substring"
+2 3 0.2345466 l "substring"
+3 2 0.1464254 l "substring"
+1 3 0.2345466 l "substring"
+3 1 0.1464254 l "substring"
+2 3 0.2345466 l "substring"
+3 2 0.1464254 l "substring"
+1 3 0.2345466 l "substring"
+3 1 0.1464254 l "substring"
+2 3 0.2345466 l "substring"
+3 2 0.1464254 l "substring"
+*Edges

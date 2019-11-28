@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Frontotemporal Dementia" ellipse
+2 "frontotemporal dementia" ellipse
+*Arcs
+1 2 0.6015037 l "substring"
+2 1 0.5982906 l "substring"
+1 2 0.6015037 l "distance"
+2 1 0.5982906 l "distance"
+1 2 0.6015037 l "substring"
+2 1 0.5982906 l "substring"
+1 2 0.6015037 l "distance"
+2 1 0.5982906 l "distance"
+*Edges

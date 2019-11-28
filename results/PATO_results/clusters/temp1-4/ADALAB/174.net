@@ -1,0 +1,17 @@
+*Vertices 2
+1 "FirstStemCellHarvesting" ellipse
+2 "StemCellHarvesting" ellipse
+*Arcs
+1 2 0.5992067 l "isa"
+2 1 0.3457426 l "isa"
+1 2 0.5992067 l "substring"
+2 1 0.3457426 l "substring"
+1 2 0.5992067 l "isa"
+2 1 0.3457426 l "isa"
+1 2 0.5992067 l "substring"
+2 1 0.3457426 l "substring"
+1 2 0.5992067 l "isa"
+2 1 0.3457426 l "isa"
+1 2 0.5992067 l "substring"
+2 1 0.3457426 l "substring"
+*Edges

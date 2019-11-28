@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Genital_Disorders" ellipse
+2 "Urogenital_Disorders" ellipse
+*Arcs
+1 2 0.1818182 l "substring"
+2 1 0.4000000 l "substring"
+1 2 0.1818182 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Herstellung" ellipse
+2 "Chose matérielle fabriquée" ellipse
+*Arcs
+1 2 0.4000000 l "a produit"
+2 1 0.1052632 l "a produit"
+2 1 0.1052632 l "a été produit par"
+1 2 0.4000000 l "a été produit par"
+*Edges

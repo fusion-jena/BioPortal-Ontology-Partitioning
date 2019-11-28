@@ -1,0 +1,13 @@
+*Vertices 2
+1 "antioxidant" ellipse
+2 "antioxidant enzyme" ellipse
+*Arcs
+2 1 0.2142642 l "definition"
+1 2 0.5322581 l "definition"
+1 2 0.5322581 l "substring"
+2 1 0.2142642 l "substring"
+2 1 0.2142642 l "definition"
+1 2 0.5322581 l "definition"
+1 2 0.5322581 l "substring"
+2 1 0.2142642 l "substring"
+*Edges

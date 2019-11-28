@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Breccia" ellipse
+2 "Rock" ellipse
+*Arcs
+1 2 0.6416684 l "isa"
+2 1 0.0731008 l "isa"
+1 2 0.6416684 l "isa"
+2 1 0.0731008 l "isa"
+1 2 0.6416684 l "isa"
+2 1 0.0731008 l "isa"
+1 2 0.6416684 l "isa"
+2 1 0.0731008 l "isa"
+1 2 0.6416684 l "isa"
+2 1 0.0731008 l "isa"
+*Edges

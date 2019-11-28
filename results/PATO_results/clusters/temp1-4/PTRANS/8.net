@@ -1,0 +1,10 @@
+*Vertices 3
+1 "arthropod borne" ellipse
+2 "tick borne" ellipse
+3 "arachnid borne" ellipse
+*Arcs
+2 3 1.0000000 l "isa"
+3 2 0.5000000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.3333333 l "isa"
+*Edges

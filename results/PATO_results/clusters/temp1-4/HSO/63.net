@@ -1,0 +1,12 @@
+*Vertices 3
+1 "calculated sample size" ellipse
+2 "calculated number of PSU" ellipse
+3 "calculated number of SSU" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.1666667 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1666667 l "isa"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

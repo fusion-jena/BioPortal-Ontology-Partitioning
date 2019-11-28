@@ -1,0 +1,13 @@
+*Vertices 2
+1 "puddling process" ellipse
+2 "puddling implement" ellipse
+*Arcs
+1 2 0.3717208 l "definition"
+2 1 0.2866285 l "definition"
+2 1 0.2866285 l "definition"
+1 2 0.3717208 l "definition"
+1 2 0.3717208 l "definition"
+2 1 0.2866285 l "definition"
+2 1 0.2866285 l "definition"
+1 2 0.3717208 l "definition"
+*Edges

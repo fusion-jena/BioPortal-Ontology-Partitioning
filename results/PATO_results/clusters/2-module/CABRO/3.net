@@ -1,0 +1,55 @@
+*Vertices 16
+1 "AdaptationSoftware" ellipse
+2 "DataAnalysisSoftware" ellipse
+3 "DatabaseManagementSystem" ellipse
+4 "GameScore" ellipse
+5 "HeartBeat" ellipse
+6 "ICD" ellipse
+7 "Metrics" ellipse
+8 "PhysicalPower" ellipse
+9 "Software" ellipse
+10 "TerminologiesAndClassifications" ellipse
+11 "TimeSeriesGraph" ellipse
+12 "Visualization" ellipse
+13 "VitalSigns" ellipse
+14 "has"
+15 "hasSource"
+16 "isStoredInto"
+*Arcs
+1 9 0.6666667 l "isa"
+9 1 0.2222222 l "isa"
+2 9 0.5000000 l "isa"
+9 2 0.2222222 l "isa"
+3 9 0.5000000 l "isa"
+9 3 0.1111111 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.0769231 l "isa"
+5 13 1.0000000 l "isa"
+13 5 0.5000000 l "isa"
+6 10 0.5000000 l "isa"
+10 6 1.0000000 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.0769231 l "isa"
+11 12 1.0000000 l "isa"
+12 11 0.5000000 l "isa"
+12 2 0.5000000 l "isa"
+2 12 0.2500000 l "isa"
+13 7 0.5000000 l "isa"
+7 13 0.0769231 l "isa"
+7 15 0.0769231 l "definition"
+15 7 0.5000000 l "definition"
+7 16 0.0769231 l "definition"
+16 7 1.0000000 l "definition"
+7 3 0.0769231 l "definition"
+3 7 0.5000000 l "definition"
+9 7 0.1111111 l "definition"
+7 9 0.0769231 l "definition"
+1 9 0.6666667 l "substring"
+9 1 0.2222222 l "substring"
+2 9 0.5000000 l "substring"
+9 2 0.2222222 l "substring"
+14 15 0.1666667 l "substring"
+15 14 0.5000000 l "substring"
+6 14 0.5000000 l "distance"
+14 6 0.1666667 l "distance"
+*Edges

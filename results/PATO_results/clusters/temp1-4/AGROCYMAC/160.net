@@ -1,0 +1,17 @@
+*Vertices 2
+1 "swamp" ellipse
+2 "dome swamp" ellipse
+*Arcs
+2 1 0.4152596 l "isa"
+1 2 0.1855756 l "isa"
+2 1 0.4152596 l "definition"
+1 2 0.1855756 l "definition"
+1 2 0.1855756 l "substring"
+2 1 0.4152596 l "substring"
+2 1 0.4152596 l "isa"
+1 2 0.1855756 l "isa"
+2 1 0.4152596 l "definition"
+1 2 0.1855756 l "definition"
+1 2 0.1855756 l "substring"
+2 1 0.4152596 l "substring"
+*Edges

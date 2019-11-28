@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Bearnais" ellipse
+2 "Basco-Bearnais" ellipse
+*Arcs
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+1 2 0.5605493 l "substring"
+2 1 0.6941010 l "substring"
+*Edges

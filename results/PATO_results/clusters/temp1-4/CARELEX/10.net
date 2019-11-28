@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Audit Certificate" ellipse
+2 "Communication Plan" ellipse
+3 "Filenote Master List" ellipse
+4 "Investigator Newsletter" ellipse
+5 "List of SOPs Current During Trial" ellipse
+6 "Operational Procedure Manual" ellipse
+7 "Publication Policy" ellipse
+8 "Recruitment Plan" ellipse
+9 "Trial Master File Plan" ellipse
+10 "Trial Oversight" ellipse
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.0588235 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.0588235 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.0588235 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0588235 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0588235 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0588235 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.0588235 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0588235 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0588235 l "isa"
+*Edges

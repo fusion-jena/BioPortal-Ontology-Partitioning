@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Commensal" ellipse
+2 "Commensal species" ellipse
+*Arcs
+1 2 0.2073020 l "substring"
+2 1 0.1331831 l "substring"
+1 2 0.2073020 l "substring"
+2 1 0.1331831 l "substring"
+*Edges

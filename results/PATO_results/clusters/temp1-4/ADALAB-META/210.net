@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Death" ellipse
+2 "hasDeath"
+*Arcs
+1 2 0.0849943 l "substring"
+2 1 0.1864608 l "substring"
+1 2 0.0849943 l "distance"
+2 1 0.1864608 l "distance"
+1 2 0.0849943 l "substring"
+2 1 0.1864608 l "substring"
+1 2 0.0849943 l "distance"
+2 1 0.1864608 l "distance"
+*Edges

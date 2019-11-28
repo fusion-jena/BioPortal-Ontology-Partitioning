@@ -1,0 +1,25 @@
+*Vertices 16
+1 "Restriction"
+2 "Consecutive rainless days" ellipse
+3 "Cool-season fire" ellipse
+4 "Fire history" ellipse
+5 "Fire Intensity" ellipse
+6 "Burn Severity" ellipse
+7 "Speed" ellipse
+8 "Spread" ellipse
+9 "Fuel" ellipse
+10 "Harzard-reduction fire" ellipse
+11 "High-intensity fire" ellipse
+12 "Maximum temperature" ellipse
+13 "Minimum relative humidity" ellipse
+14 "Observed risk" ellipse
+15 "Vegetation type" ellipse
+16 "Wildfire" ellipse
+*Arcs
+3 10 0.5000000 l "isa"
+10 3 0.2500000 l "isa"
+11 10 0.5000000 l "isa"
+10 11 0.2500000 l "isa"
+7 8 0.5000000 l "distance"
+8 7 0.5000000 l "distance"
+*Edges

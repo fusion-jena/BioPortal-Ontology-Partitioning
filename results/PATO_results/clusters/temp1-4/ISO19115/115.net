@@ -1,0 +1,21 @@
+*Vertices 2
+1 "stomach" ellipse
+2 "food storage organ" ellipse
+*Arcs
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+1 2 0.2562392 l "isa"
+2 1 0.2145107 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "concave" ellipse
+2 "concavity" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.4000000 l "isa"
+1 2 0.5000000 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

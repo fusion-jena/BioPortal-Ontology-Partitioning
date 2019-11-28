@@ -1,0 +1,9 @@
+*Vertices 2
+1 "TNF" ellipse
+2 "TNFRSF21" ellipse
+*Arcs
+1 2 0.0157971 l "substring"
+2 1 0.2008597 l "substring"
+1 2 0.0157971 l "substring"
+2 1 0.2008597 l "substring"
+*Edges

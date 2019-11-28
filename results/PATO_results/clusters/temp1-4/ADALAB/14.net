@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Bleeding" ellipse
+2 "CerebralHemorrhage" ellipse
+3 "Skin" ellipse
+4 "SkinHemorrhage" ellipse
+*Arcs
+2 1 0.3787851 l "isa"
+1 2 0.2744092 l "isa"
+4 1 0.3759949 l "isa"
+1 4 0.2741939 l "isa"
+3 4 0.0330835 l "substring"
+4 3 0.3149178 l "substring"
+2 1 0.3787851 l "isa"
+1 2 0.2744092 l "isa"
+4 1 0.3759949 l "isa"
+1 4 0.2741939 l "isa"
+3 4 0.0330835 l "substring"
+4 3 0.3149178 l "substring"
+2 1 0.3787851 l "isa"
+1 2 0.2744092 l "isa"
+4 1 0.3759949 l "isa"
+1 4 0.2741939 l "isa"
+3 4 0.0330835 l "substring"
+4 3 0.3149178 l "substring"
+*Edges

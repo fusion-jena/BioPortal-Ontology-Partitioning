@@ -1,0 +1,43 @@
+*Vertices 4
+1 "Purposive_hand_movements" ellipse
+2 "Purposive_hand_movements_Definite_loss" ellipse
+3 "Purposive_hand_movements_No_loss" ellipse
+4 "Purposive_hand_movements_Possible_loss" ellipse
+*Arcs
+2 1 0.7525477 l "isa"
+1 2 0.2794450 l "isa"
+3 1 0.7525477 l "isa"
+1 3 0.2794450 l "isa"
+4 1 0.7525477 l "isa"
+1 4 0.2794450 l "isa"
+1 2 0.2794450 l "substring"
+2 1 0.7525477 l "substring"
+1 3 0.2794450 l "substring"
+3 1 0.7525477 l "substring"
+1 4 0.2794450 l "substring"
+4 1 0.7525477 l "substring"
+2 1 0.7525477 l "isa"
+1 2 0.2794450 l "isa"
+3 1 0.7525477 l "isa"
+1 3 0.2794450 l "isa"
+4 1 0.7525477 l "isa"
+1 4 0.2794450 l "isa"
+1 2 0.2794450 l "substring"
+2 1 0.7525477 l "substring"
+1 3 0.2794450 l "substring"
+3 1 0.7525477 l "substring"
+1 4 0.2794450 l "substring"
+4 1 0.7525477 l "substring"
+2 1 0.7525477 l "isa"
+1 2 0.2794450 l "isa"
+3 1 0.7525477 l "isa"
+1 3 0.2794450 l "isa"
+4 1 0.7525477 l "isa"
+1 4 0.2794450 l "isa"
+1 2 0.2794450 l "substring"
+2 1 0.7525477 l "substring"
+1 3 0.2794450 l "substring"
+3 1 0.7525477 l "substring"
+1 4 0.2794450 l "substring"
+4 1 0.7525477 l "substring"
+*Edges

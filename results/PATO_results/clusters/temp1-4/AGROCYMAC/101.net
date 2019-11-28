@@ -1,0 +1,9 @@
+*Vertices 2
+1 "recording" ellipse
+2 "area recording protocol" ellipse
+*Arcs
+1 2 0.0838358 l "substring"
+2 1 0.2541033 l "substring"
+1 2 0.0838358 l "substring"
+2 1 0.2541033 l "substring"
+*Edges

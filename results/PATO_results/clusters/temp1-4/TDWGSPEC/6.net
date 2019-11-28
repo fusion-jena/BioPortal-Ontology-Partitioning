@@ -1,0 +1,9 @@
+*Vertices 2
+1 "cultivar" ellipse
+2 "cultivar-group" ellipse
+*Arcs
+1 2 0.5438336 l "substring"
+2 1 0.5438336 l "substring"
+1 2 0.5438336 l "substring"
+2 1 0.5438336 l "substring"
+*Edges

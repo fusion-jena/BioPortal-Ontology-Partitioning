@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Fully Manual" ellipse
+2 "Optically Sensed" ellipse
+3 "Other" ellipse
+4 "Other Detection Method" ellipse
+5 "Titration_Process" ellipse
+6 "Unknown" ellipse
+7 "pH-Meter Sensed" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.2064516 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.2064516 l "isa"
+4 5 0.5094339 l "isa"
+5 4 0.1741935 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2064516 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2064516 l "isa"
+3 4 0.1070312 l "substring"
+4 3 0.4905660 l "substring"
+1 5 1.0000000 l "isa"
+5 1 0.2064516 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.2064516 l "isa"
+4 5 0.5094339 l "isa"
+5 4 0.1741935 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.2064516 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.2064516 l "isa"
+3 4 0.1070312 l "substring"
+4 3 0.4905660 l "substring"
+*Edges

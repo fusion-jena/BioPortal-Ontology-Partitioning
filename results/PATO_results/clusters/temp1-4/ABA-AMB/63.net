@@ -1,0 +1,51 @@
+*Vertices 8
+1 "Superior colliculus, motor related, deep gray layer" ellipse
+2 "Superior colliculus, motor related, deep white layer" ellipse
+3 "Superior colliculus, motor related, intermediate gray layer" ellipse
+4 "Superior colliculus, motor related, intermediate gray layer, sublayer a" ellipse
+5 "Superior colliculus, motor related, intermediate gray layer, sublayer b" ellipse
+6 "Superior colliculus, motor related, intermediate gray layer, sublayer c" ellipse
+7 "Superior colliculus, motor related, intermediate white layer" ellipse
+8 "Superior colliculus, motor related" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.1666667 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.1666667 l "isa"
+3 8 0.2500000 l "isa"
+8 3 0.1666667 l "isa"
+4 3 0.4000000 l "isa"
+3 4 0.2500000 l "isa"
+5 3 0.4000000 l "isa"
+3 5 0.2500000 l "isa"
+6 3 0.4000000 l "isa"
+3 6 0.2500000 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.1666667 l "isa"
+1 8 1.0000000 l "substring"
+8 1 0.1666667 l "substring"
+2 8 1.0000000 l "substring"
+8 2 0.1666667 l "substring"
+3 4 0.2500000 l "substring"
+4 3 0.4000000 l "substring"
+3 5 0.2500000 l "substring"
+5 3 0.4000000 l "substring"
+3 6 0.2500000 l "substring"
+6 3 0.4000000 l "substring"
+3 8 0.2500000 l "substring"
+8 3 0.1666667 l "substring"
+4 8 0.2000000 l "substring"
+8 4 0.0833333 l "substring"
+5 8 0.2000000 l "substring"
+8 5 0.0833333 l "substring"
+6 8 0.2000000 l "substring"
+8 6 0.0833333 l "substring"
+7 8 1.0000000 l "substring"
+8 7 0.1666667 l "substring"
+4 5 0.2000000 l "distance"
+5 4 0.2000000 l "distance"
+4 6 0.2000000 l "distance"
+6 4 0.2000000 l "distance"
+5 6 0.2000000 l "distance"
+6 5 0.2000000 l "distance"
+*Edges

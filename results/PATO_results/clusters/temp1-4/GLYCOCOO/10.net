@@ -1,0 +1,12 @@
+*Vertices 3
+1 "glycosylated_AA" ellipse
+2 "glycosylates at"
+3 "glycosylated at"
+*Arcs
+1 2 0.5000000 l "distance"
+2 1 0.1666667 l "distance"
+1 3 0.5000000 l "distance"
+3 1 0.1666667 l "distance"
+2 3 0.1666667 l "distance"
+3 2 0.1666667 l "distance"
+*Edges

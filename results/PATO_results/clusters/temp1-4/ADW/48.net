@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Parietal lobe" ellipse
+2 "neocortex" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1446717 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.1446717 l "isa"
+*Edges

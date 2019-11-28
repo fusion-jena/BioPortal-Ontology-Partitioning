@@ -1,0 +1,35 @@
+*Vertices 8
+1 "AliquotsReceiver" ellipse
+2 "ContactPerson" ellipse
+3 "Copyright Holder" ellipse
+4 "Distributor" ellipse
+5 "Original Creator" ellipse
+6 "Principal Investigator" ellipse
+7 "Person"
+8 "Role"
+*Arcs
+1 7 0.5000000 l "isa"
+7 1 0.0769231 l "isa"
+1 8 0.5000000 l "isa"
+8 1 0.0454545 l "isa"
+2 7 0.6666667 l "isa"
+7 2 0.1538462 l "isa"
+2 8 0.3333333 l "isa"
+8 2 0.0454545 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.0769231 l "isa"
+4 7 0.5000000 l "isa"
+7 4 0.0769231 l "isa"
+4 8 0.5000000 l "isa"
+8 4 0.0454545 l "isa"
+5 7 0.5000000 l "isa"
+7 5 0.0769231 l "isa"
+5 8 0.5000000 l "isa"
+8 5 0.0454545 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.0769231 l "isa"
+6 8 0.5000000 l "isa"
+8 6 0.0454545 l "isa"
+2 7 0.6666667 l "substring"
+7 2 0.1538462 l "substring"
+*Edges

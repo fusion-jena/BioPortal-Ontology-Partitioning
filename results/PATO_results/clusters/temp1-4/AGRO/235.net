@@ -1,0 +1,56 @@
+*Vertices 9
+1 "peak analysis" ellipse
+2 "peak height analysis" ellipse
+3 "peak width analysis" ellipse
+4 "peak height" ellipse
+5 "relative peak height" ellipse
+6 "peak width" ellipse
+7 "peak width at baseline" ellipse
+8 "peak width at 5% of height" ellipse
+9 "peak width at half height" ellipse
+*Arcs
+2 1 0.2243907 l "isa"
+1 2 0.2200802 l "isa"
+3 1 0.2278156 l "isa"
+1 3 0.2200802 l "isa"
+7 6 0.3342550 l "isa"
+6 7 0.1406768 l "isa"
+8 6 0.4033044 l "isa"
+6 8 0.1495116 l "isa"
+9 6 0.3302786 l "isa"
+6 9 0.1406768 l "isa"
+2 4 0.2243907 l "substring"
+4 2 0.1643861 l "substring"
+3 6 0.2125525 l "substring"
+6 3 0.0638822 l "substring"
+4 5 0.1643861 l "substring"
+5 4 0.2286465 l "substring"
+6 7 0.1406768 l "substring"
+7 6 0.3342550 l "substring"
+6 8 0.1495116 l "substring"
+8 6 0.4033044 l "substring"
+6 9 0.1406768 l "substring"
+9 6 0.3302786 l "substring"
+2 1 0.2243907 l "isa"
+1 2 0.2200802 l "isa"
+3 1 0.2278156 l "isa"
+1 3 0.2200802 l "isa"
+7 6 0.3342550 l "isa"
+6 7 0.1406768 l "isa"
+8 6 0.4033044 l "isa"
+6 8 0.1495116 l "isa"
+9 6 0.3302786 l "isa"
+6 9 0.1406768 l "isa"
+2 4 0.2243907 l "substring"
+4 2 0.1643861 l "substring"
+3 6 0.2125525 l "substring"
+6 3 0.0638822 l "substring"
+4 5 0.1643861 l "substring"
+5 4 0.2286465 l "substring"
+6 7 0.1406768 l "substring"
+7 6 0.3342550 l "substring"
+6 8 0.1495116 l "substring"
+8 6 0.4033044 l "substring"
+6 9 0.1406768 l "substring"
+9 6 0.3302786 l "substring"
+*Edges

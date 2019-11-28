@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Statistics" ellipse
+2 "Biostatistics" ellipse
+*Arcs
+1 2 0.0930343 l "substring"
+2 1 0.6666667 l "substring"
+1 2 0.0930343 l "distance"
+2 1 0.6666667 l "distance"
+*Edges

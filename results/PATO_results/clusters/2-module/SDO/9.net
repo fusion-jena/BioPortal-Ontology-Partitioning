@@ -1,0 +1,63 @@
+*Vertices 14
+1 "Normal" ellipse
+2 "_undefined primitive term" ellipse
+3 "clinically abnormal" ellipse
+4 "physical basis" ellipse
+5 "normal value" ellipse
+6 "immaterial three dimensional physical entity" ellipse
+7 "physical mass" ellipse
+8 "Immaterial pathological continuant" ellipse
+9 "continuant" ellipse
+10 "dependent_continuant" ellipse
+11 "generically_dependent_continuant" ellipse
+12 "realizable_entity" ellipse
+13 "specifically_dependent_continuant" ellipse
+14 "inheres in"
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.2500000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.2500000 l "isa"
+5 11 0.5000000 l "isa"
+11 5 0.1428571 l "isa"
+8 6 0.3333333 l "isa"
+6 8 0.2000000 l "isa"
+8 10 0.3333333 l "isa"
+10 8 0.0625000 l "isa"
+10 9 0.1875000 l "isa"
+9 10 0.1428571 l "isa"
+11 10 0.4285714 l "isa"
+10 11 0.1875000 l "isa"
+12 13 0.3333333 l "isa"
+13 12 0.2000000 l "isa"
+13 10 0.3000000 l "isa"
+10 13 0.1875000 l "isa"
+7 14 0.1666667 l "definition"
+14 7 1.0000000 l "definition"
+9 10 0.1428571 l "definition"
+10 9 0.1875000 l "definition"
+10 11 0.1875000 l "definition"
+11 10 0.4285714 l "definition"
+10 13 0.1875000 l "definition"
+13 10 0.3000000 l "definition"
+13 12 0.2000000 l "definition"
+12 13 0.3333333 l "definition"
+1 3 0.0909091 l "substring"
+3 1 0.5000000 l "substring"
+1 5 0.0909091 l "substring"
+5 1 0.5000000 l "substring"
+8 9 0.3333333 l "substring"
+9 8 0.0476190 l "substring"
+9 10 0.1428571 l "substring"
+10 9 0.1875000 l "substring"
+9 11 0.0476190 l "substring"
+11 9 0.1428571 l "substring"
+9 13 0.0476190 l "substring"
+13 9 0.1000000 l "substring"
+10 11 0.1875000 l "substring"
+11 10 0.4285714 l "substring"
+10 13 0.1875000 l "substring"
+13 10 0.3000000 l "substring"
+4 7 0.5000000 l "distance"
+7 4 0.1666667 l "distance"
+*Edges

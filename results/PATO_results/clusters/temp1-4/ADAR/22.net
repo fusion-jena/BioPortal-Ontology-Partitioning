@@ -1,0 +1,46 @@
+*Vertices 13
+1 "Abnormal_idiosyncratic_Negative_response_to_specific_sensory_stimuli" ellipse
+2 "Abnormal_idiosyncratic_Negative_response_to_specific_sensory_stimuli_UnknownOrNotAsked" ellipse
+3 "Definite_sensitivity_to_noises_that_are_not_distressing_to_most_other_people" ellipse
+4 "Human_With_DSM-5_Diagnosis_definition_B_4" ellipse
+5 "No_general_sensitivity_to_noise" ellipse
+6 "No_predictable_abnormal_idiosyncratic_negative_response_to_specific_sensoty_stimuli" ellipse
+7 "Predictable_abnormal_idiosyncratic_negative_response_to_one_or_more_sensory_stimuli_with_mild_reaction" ellipse
+8 "Slight_sensitivity_to_noise" ellipse
+9 "Undue_general_sensitivity_to_noise" ellipse
+10 "Undue_general_sensitivity_to_noise_UnknownOrNotAsked" ellipse
+11 "abinr_Predictable_abnormal_idiosyncratic_negative_response_to_one_or_more_sensory_stimuli_with_mild_reaction"
+12 "noise_Definite_sensitivity_to_noises_that_are_not_distressing_to_most_other_people"
+13 "noise_Slight_sensitivity_to_noise"
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2857143 l "isa"
+3 9 0.5000000 l "isa"
+9 3 0.1428571 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.1428571 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1428571 l "isa"
+7 1 0.5000000 l "isa"
+1 7 0.1428571 l "isa"
+8 9 0.5000000 l "isa"
+9 8 0.1428571 l "isa"
+10 9 1.0000000 l "isa"
+9 10 0.2857143 l "isa"
+4 11 0.0370370 l "definition"
+11 4 0.5000000 l "definition"
+4 12 0.0370370 l "definition"
+12 4 0.5000000 l "definition"
+4 13 0.0370370 l "definition"
+13 4 0.5000000 l "definition"
+1 2 0.2857143 l "substring"
+2 1 1.0000000 l "substring"
+3 12 0.5000000 l "substring"
+12 3 0.5000000 l "substring"
+7 11 0.5000000 l "substring"
+11 7 0.5000000 l "substring"
+8 13 0.5000000 l "substring"
+13 8 0.5000000 l "substring"
+9 10 0.2857143 l "substring"
+10 9 1.0000000 l "substring"
+*Edges

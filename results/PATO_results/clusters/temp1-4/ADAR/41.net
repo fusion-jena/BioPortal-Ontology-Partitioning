@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Compulsive_Behavior" ellipse
+2 "Restricted_and_Repetitive_Behavior" ellipse
+3 "Stereotyped_Restricted_and_Repetitive_Behavior" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1666667 l "isa"
+2 3 0.3333333 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.3333333 l "substring"
+3 2 0.5000000 l "substring"
+*Edges

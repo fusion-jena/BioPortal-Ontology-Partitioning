@@ -1,0 +1,9 @@
+*Vertices 2
+1 "species_group" ellipse
+2 "species_subgroup" ellipse
+*Arcs
+1 2 0.3574219 l "distance"
+2 1 0.3574219 l "distance"
+1 2 0.3574219 l "distance"
+2 1 0.3574219 l "distance"
+*Edges

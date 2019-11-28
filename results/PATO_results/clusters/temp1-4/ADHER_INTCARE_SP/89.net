@@ -1,0 +1,76 @@
+*Vertices 15
+1 "Base_datos_farmacias" ellipse
+2 "Criterios_STOPPFrail" ellipse
+3 "Criterios_STOPP_START" ellipse
+4 "Grado_objetividad" ellipse
+5 "Haynes-Sackett" ellipse
+6 "Indicadores" ellipse
+7 "Medidas_cumplimiento_abastecimiento" ellipse
+8 "No_presencial" ellipse
+9 "Objetivo" ellipse
+10 "Patrones_derivados_analisis_datos" ellipse
+11 "Presencial" ellipse
+12 "Subjetivo" ellipse
+13 "Suficiente_adh_Haynes-Sackett" ellipse
+14 "tiene_presencialidad_tipo"
+15 "es_grado_objetividad_de"
+*Arcs
+1 10 0.1428571 l "isa"
+10 1 0.3333333 l "isa"
+2 6 1.0000000 l "isa"
+6 2 0.0434783 l "isa"
+3 6 1.0000000 l "isa"
+6 3 0.0434783 l "isa"
+7 10 0.1428571 l "isa"
+10 7 0.3333333 l "isa"
+9 4 0.1333333 l "isa"
+4 9 0.1818182 l "isa"
+10 6 0.3333333 l "isa"
+6 10 0.0434783 l "isa"
+12 4 0.2857143 l "isa"
+4 12 0.1818182 l "isa"
+13 5 0.3000000 l "isa"
+5 13 0.1875000 l "isa"
+4 6 0.1818182 l "es_grado_objetividad_de"
+6 4 0.0869565 l "es_grado_objetividad_de"
+8 6 0.3333333 l "es_tipo_presencialidad_de"
+6 8 0.0869565 l "es_tipo_presencialidad_de"
+11 6 0.2857143 l "es_tipo_presencialidad_de"
+6 11 0.0869565 l "es_tipo_presencialidad_de"
+6 4 0.0869565 l "tiene_grado_objetividad_tipo"
+4 6 0.1818182 l "tiene_grado_objetividad_tipo"
+6 8 0.0869565 l "tiene_presencialidad_tipo"
+8 6 0.3333333 l "tiene_presencialidad_tipo"
+6 11 0.0869565 l "tiene_presencialidad_tipo"
+11 6 0.2857143 l "tiene_presencialidad_tipo"
+1 9 0.2857143 l "definition"
+9 1 0.1333333 l "definition"
+4 9 0.1818182 l "definition"
+9 4 0.1333333 l "definition"
+4 12 0.1818182 l "definition"
+12 4 0.2857143 l "definition"
+5 13 0.1875000 l "definition"
+13 5 0.3000000 l "definition"
+5 8 0.0625000 l "definition"
+8 5 0.1666667 l "definition"
+5 11 0.0625000 l "definition"
+11 5 0.1428571 l "definition"
+5 14 0.0625000 l "definition"
+14 5 0.5000000 l "definition"
+9 1 0.1333333 l "definition"
+1 9 0.2857143 l "definition"
+9 15 0.0666667 l "definition"
+15 9 0.5000000 l "definition"
+4 15 0.0909091 l "substring"
+15 4 0.5000000 l "substring"
+5 13 0.1875000 l "substring"
+13 5 0.3000000 l "substring"
+8 11 0.3333333 l "substring"
+11 8 0.2857143 l "substring"
+11 14 0.1428571 l "substring"
+14 11 0.5000000 l "substring"
+8 11 0.3333333 l "distance"
+11 8 0.2857143 l "distance"
+9 12 0.0666667 l "distance"
+12 9 0.1428571 l "distance"
+*Edges

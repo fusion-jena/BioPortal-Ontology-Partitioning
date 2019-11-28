@@ -1,0 +1,9 @@
+*Vertices 2
+1 "monoatomic cation" ellipse
+2 "monoatomic dication" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.1666667 l "isa"
+1 2 0.1666667 l "distance"
+2 1 0.3333333 l "distance"
+*Edges

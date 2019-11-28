@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Pyrolite" ellipse
+2 "Pyroxine" ellipse
+*Arcs
+1 2 0.2469086 l "distance"
+2 1 0.2216755 l "distance"
+1 2 0.2469086 l "distance"
+2 1 0.2216755 l "distance"
+1 2 0.2469086 l "distance"
+2 1 0.2216755 l "distance"
+*Edges

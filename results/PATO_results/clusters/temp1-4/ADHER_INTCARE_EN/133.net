@@ -1,0 +1,27 @@
+*Vertices 4
+1 "Spontaneous_imitation_of_a_varied_range_of_nonTaught_actions" ellipse
+2 "Spontaneous_imitation_of_actions" ellipse
+3 "Spontaneous_imitation_of_actions_NotAvailable" ellipse
+4 "Spontaneous_imitation_of_actions_UnknownOrNotAsked" ellipse
+*Arcs
+1 2 0.2552485 l "isa"
+2 1 0.0878370 l "isa"
+3 2 0.5394765 l "isa"
+2 3 0.2012577 l "isa"
+4 2 0.5394765 l "isa"
+2 4 0.2012577 l "isa"
+2 3 0.2012577 l "substring"
+3 2 0.5394765 l "substring"
+2 4 0.2012577 l "substring"
+4 2 0.5394765 l "substring"
+1 2 0.2552485 l "isa"
+2 1 0.0878370 l "isa"
+3 2 0.5394765 l "isa"
+2 3 0.2012577 l "isa"
+4 2 0.5394765 l "isa"
+2 4 0.2012577 l "isa"
+2 3 0.2012577 l "substring"
+3 2 0.5394765 l "substring"
+2 4 0.2012577 l "substring"
+4 2 0.5394765 l "substring"
+*Edges

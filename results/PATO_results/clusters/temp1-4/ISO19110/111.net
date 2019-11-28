@@ -1,0 +1,13 @@
+*Vertices 2
+1 "NIM1K" ellipse
+2 "POMK" ellipse
+*Arcs
+1 2 0.1058201 l "distance"
+2 1 0.0472862 l "distance"
+1 2 0.1058201 l "distance"
+2 1 0.0472862 l "distance"
+1 2 0.1058201 l "distance"
+2 1 0.0472862 l "distance"
+1 2 0.1058201 l "distance"
+2 1 0.0472862 l "distance"
+*Edges

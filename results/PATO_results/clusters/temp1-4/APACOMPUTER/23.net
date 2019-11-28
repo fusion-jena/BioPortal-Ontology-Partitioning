@@ -1,0 +1,9 @@
+*Vertices 2
+1 "non-allergic asthma" ellipse
+2 "allergic asthma" ellipse
+*Arcs
+1 2 0.2123356 l "substring"
+2 1 0.2132629 l "substring"
+1 2 0.2123356 l "substring"
+2 1 0.2132629 l "substring"
+*Edges

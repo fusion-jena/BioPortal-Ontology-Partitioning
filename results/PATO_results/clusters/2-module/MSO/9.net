@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Internuclear_Ophthalmoplegia" ellipse
+2 "Medial_Longitudinal_Fasciculus" ellipse
+3 "bearer_of"
+*Arcs
+2 1 0.4000000 l "isa"
+1 2 1.0000000 l "isa"
+2 3 0.2000000 l "definition"
+3 2 1.0000000 l "definition"
+2 1 0.4000000 l "definition"
+1 2 1.0000000 l "definition"
+*Edges

@@ -1,0 +1,203 @@
+*Vertices 52
+1 "insect brain" ellipse
+2 "central nervous system" ellipse
+3 "cerebral ganglion" ellipse
+4 "protocerebrum" ellipse
+5 "caudalcentral protocerebrum" ellipse
+6 "caudalmedial protocerebrum" ellipse
+7 "caudal ventrolateral protocerebrum" ellipse
+8 "ventrolateral protocerebrum" ellipse
+9 "dorsolateral protocerebrum" ellipse
+10 "dorsomedial protocerebrum" ellipse
+11 "Inferior dorsofrontal protocerebrum" ellipse
+12 "superior dorsofrontal protocerebrum" ellipse
+13 "Inner dorsolateral protocerebrum" ellipse
+14 "mushroom body" ellipse
+15 "calyx" ellipse
+16 "optic lobe" ellipse
+17 "lobular complex" ellipse
+18 "lobula plate" ellipse
+19 "medulla" ellipse
+20 "M1-M6" ellipse
+21 "deuterocerebrum" ellipse
+22 "antennal lobe" ellipse
+23 "glomerulus vmulti" ellipse
+24 "antennal lobe glomerulus" ellipse
+25 "antennal lobe glomerulus VP" ellipse
+26 "proximal antennal protocerebrum" ellipse
+27 "periesophageal neuropils" ellipse
+28 "saddle" ellipse
+29 "antennal mechanosensory and motor center" ellipse
+30 "lateral complex" ellipse
+31 "lateral triangle" ellipse
+32 "ventrolateral neuropils" ellipse
+33 "optic glomerulus" ellipse
+34 "optic tubercle" ellipse
+35 "superior neuropils" ellipse
+36 "superpeduncular" ellipse
+37 "frontal superpeduncular" ellipse
+38 "subesophageal zone" ellipse
+39 "subesophageal ganglion" ellipse
+40 "peripheral nervous system" ellipse
+41 "cuticle" ellipse
+42 "abdomen" ellipse
+43 "abdominal segment" ellipse
+44 "segment 2-4" ellipse
+45 "segment 4-7" ellipse
+46 "cercus" ellipse
+47 "cercal mechanosensory periphery" ellipse
+48 "nuchal organs" ellipse
+49 "olfactory pit" ellipse
+50 "dorsal cluster" ellipse
+51 "ganglion" ellipse
+52 "abdominal" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.1250000 l "isa"
+2 3 0.3333333 l "isa"
+4 3 0.0400000 l "isa"
+3 4 0.1250000 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.0800000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.0800000 l "isa"
+7 4 0.6666667 l "isa"
+4 7 0.0800000 l "isa"
+8 4 0.6666667 l "isa"
+4 8 0.0800000 l "isa"
+9 4 0.6666667 l "isa"
+4 9 0.0800000 l "isa"
+10 4 1.0000000 l "isa"
+4 10 0.0800000 l "isa"
+11 4 0.6666667 l "isa"
+4 11 0.0800000 l "isa"
+12 4 0.6666667 l "isa"
+4 12 0.0800000 l "isa"
+13 4 0.6666667 l "isa"
+4 13 0.0800000 l "isa"
+14 4 0.5000000 l "isa"
+4 14 0.0400000 l "isa"
+15 14 1.0000000 l "isa"
+14 15 0.5000000 l "isa"
+16 4 0.3333333 l "isa"
+4 16 0.0400000 l "isa"
+17 16 0.5000000 l "isa"
+16 17 0.3333333 l "isa"
+18 17 1.0000000 l "isa"
+17 18 0.5000000 l "isa"
+19 16 0.5000000 l "isa"
+16 19 0.3333333 l "isa"
+20 19 1.0000000 l "isa"
+19 20 0.5000000 l "isa"
+21 3 0.5000000 l "isa"
+3 21 0.1250000 l "isa"
+22 21 0.0250000 l "isa"
+21 22 0.5000000 l "isa"
+23 22 1.0000000 l "isa"
+22 23 0.0250000 l "isa"
+24 22 0.4000000 l "isa"
+22 24 0.0500000 l "isa"
+25 24 0.6000000 l "isa"
+24 25 0.6000000 l "isa"
+26 25 0.5000000 l "isa"
+25 26 0.2000000 l "isa"
+27 22 0.5000000 l "isa"
+22 27 0.0250000 l "isa"
+28 27 0.5000000 l "isa"
+27 28 0.5000000 l "isa"
+29 28 1.0000000 l "isa"
+28 29 0.5000000 l "isa"
+30 3 0.5000000 l "isa"
+3 30 0.1250000 l "isa"
+31 30 1.0000000 l "isa"
+30 31 0.5000000 l "isa"
+32 3 0.3333333 l "isa"
+3 32 0.1250000 l "isa"
+33 32 1.0000000 l "isa"
+32 33 0.3333333 l "isa"
+34 32 1.0000000 l "isa"
+32 34 0.3333333 l "isa"
+35 3 0.5000000 l "isa"
+3 35 0.1250000 l "isa"
+36 35 0.3333333 l "isa"
+35 36 0.5000000 l "isa"
+37 36 1.0000000 l "isa"
+36 37 0.6666667 l "isa"
+38 2 0.5000000 l "isa"
+2 38 0.3333333 l "isa"
+39 38 0.5000000 l "isa"
+38 39 0.5000000 l "isa"
+40 1 0.1428571 l "isa"
+1 40 0.5000000 l "isa"
+41 40 0.5000000 l "isa"
+40 41 0.1428571 l "isa"
+42 41 0.3333333 l "isa"
+41 42 0.5000000 l "isa"
+43 42 0.2500000 l "isa"
+42 43 0.3333333 l "isa"
+44 43 0.5000000 l "isa"
+43 44 0.2500000 l "isa"
+45 43 0.5000000 l "isa"
+43 45 0.2500000 l "isa"
+46 40 0.5000000 l "isa"
+40 46 0.1428571 l "isa"
+47 46 1.0000000 l "isa"
+46 47 0.5000000 l "isa"
+48 3 0.5000000 l "isa"
+3 48 0.1250000 l "isa"
+49 48 0.0909091 l "isa"
+48 49 0.5000000 l "isa"
+50 40 1.0000000 l "isa"
+40 50 0.1428571 l "isa"
+51 40 0.2500000 l "isa"
+40 51 0.1428571 l "isa"
+52 51 0.3333333 l "isa"
+51 52 0.2500000 l "isa"
+3 51 0.1250000 l "substring"
+51 3 0.2500000 l "substring"
+4 5 0.0800000 l "substring"
+5 4 1.0000000 l "substring"
+4 6 0.0800000 l "substring"
+6 4 1.0000000 l "substring"
+4 7 0.0800000 l "substring"
+7 4 0.6666667 l "substring"
+4 8 0.0800000 l "substring"
+8 4 0.6666667 l "substring"
+4 9 0.0800000 l "substring"
+9 4 0.6666667 l "substring"
+4 10 0.0800000 l "substring"
+10 4 1.0000000 l "substring"
+4 11 0.0800000 l "substring"
+11 4 0.6666667 l "substring"
+4 12 0.0800000 l "substring"
+12 4 0.6666667 l "substring"
+4 13 0.0800000 l "substring"
+13 4 0.6666667 l "substring"
+4 26 0.0400000 l "substring"
+26 4 0.5000000 l "substring"
+7 8 0.3333333 l "substring"
+8 7 0.3333333 l "substring"
+9 13 0.3333333 l "substring"
+13 9 0.3333333 l "substring"
+22 24 0.0500000 l "substring"
+24 22 0.4000000 l "substring"
+22 25 0.0250000 l "substring"
+25 22 0.2000000 l "substring"
+24 25 0.6000000 l "substring"
+25 24 0.6000000 l "substring"
+36 37 0.6666667 l "substring"
+37 36 1.0000000 l "substring"
+39 51 0.5000000 l "substring"
+51 39 0.2500000 l "substring"
+43 52 0.2500000 l "substring"
+52 43 0.3333333 l "substring"
+11 12 0.3333333 l "distance"
+12 11 0.3333333 l "distance"
+24 25 0.6000000 l "distance"
+25 24 0.6000000 l "distance"
+42 52 0.3333333 l "distance"
+52 42 0.3333333 l "distance"
+44 45 0.5000000 l "distance"
+45 44 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,31 @@
+*Vertices 4
+1 "CACNA2D2" ellipse
+2 "CACNA2D3" ellipse
+3 "CACNA2D4" ellipse
+4 "CACNB2" ellipse
+*Arcs
+1 2 0.2577615 l "distance"
+2 1 0.1781998 l "distance"
+1 3 0.2577615 l "distance"
+3 1 0.1783255 l "distance"
+1 4 0.2442513 l "distance"
+4 1 0.0434700 l "distance"
+2 3 0.1720550 l "distance"
+3 2 0.1721763 l "distance"
+2 4 0.1627148 l "distance"
+4 2 0.0418881 l "distance"
+3 4 0.1628296 l "distance"
+4 3 0.0418881 l "distance"
+1 2 0.2577615 l "distance"
+2 1 0.1781998 l "distance"
+1 3 0.2577615 l "distance"
+3 1 0.1783255 l "distance"
+1 4 0.2442513 l "distance"
+4 1 0.0434700 l "distance"
+2 3 0.1720550 l "distance"
+3 2 0.1721763 l "distance"
+2 4 0.1627148 l "distance"
+4 2 0.0418881 l "distance"
+3 4 0.1628296 l "distance"
+4 3 0.0418881 l "distance"
+*Edges

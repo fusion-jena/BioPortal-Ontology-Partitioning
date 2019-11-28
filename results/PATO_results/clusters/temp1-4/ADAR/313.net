@@ -1,0 +1,30 @@
+*Vertices 3
+1 "MaleHumanBeing" ellipse
+2 "PRStatus" ellipse
+3 "Prostate" ellipse
+*Arcs
+1 3 0.1257617 l "definition"
+3 1 0.3372597 l "definition"
+3 1 0.3372597 l "definition"
+1 3 0.1257617 l "definition"
+2 3 0.1780180 l "distance"
+3 2 0.1509674 l "distance"
+1 3 0.1257617 l "definition"
+3 1 0.3372597 l "definition"
+3 1 0.3372597 l "definition"
+1 3 0.1257617 l "definition"
+2 3 0.1780180 l "distance"
+3 2 0.1509674 l "distance"
+1 3 0.1257617 l "definition"
+3 1 0.3372597 l "definition"
+3 1 0.3372597 l "definition"
+1 3 0.1257617 l "definition"
+2 3 0.1780180 l "distance"
+3 2 0.1509674 l "distance"
+1 3 0.1257617 l "definition"
+3 1 0.3372597 l "definition"
+3 1 0.3372597 l "definition"
+1 3 0.1257617 l "definition"
+2 3 0.1780180 l "distance"
+3 2 0.1509674 l "distance"
+*Edges

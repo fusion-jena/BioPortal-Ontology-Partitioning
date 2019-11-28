@@ -1,0 +1,19 @@
+*Vertices 4
+1 "boron molecular entity" ellipse
+2 "inorganic molecular entity" ellipse
+3 "elemental molecular entity" ellipse
+4 "elemental boron" ellipse
+*Arcs
+4 1 0.3376574 l "isa"
+1 4 0.1382085 l "isa"
+4 2 0.3281190 l "isa"
+2 4 0.0599235 l "isa"
+4 3 0.3342236 l "isa"
+3 4 0.1068345 l "isa"
+4 1 0.3376574 l "isa"
+1 4 0.1382085 l "isa"
+4 2 0.3281190 l "isa"
+2 4 0.0599235 l "isa"
+4 3 0.3342236 l "isa"
+3 4 0.1068345 l "isa"
+*Edges

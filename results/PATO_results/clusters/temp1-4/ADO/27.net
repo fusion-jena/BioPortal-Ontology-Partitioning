@@ -1,0 +1,19 @@
+*Vertices 6
+1 "Blessed test" ellipse
+2 "CANTAB" ellipse
+3 "Neurobehavioral cognitive status examination" ellipse
+4 "Neuropsychiatric inventory" ellipse
+5 "Neuropsychological test" ellipse
+6 "Pfeiffer's short portable mental status questionaire" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1111111 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1111111 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1111111 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1111111 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1111111 l "isa"
+*Edges

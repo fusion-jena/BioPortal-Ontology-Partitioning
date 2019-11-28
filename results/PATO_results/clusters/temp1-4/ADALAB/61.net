@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Implant" ellipse
+2 "Plan" ellipse
+*Arcs
+1 2 0.3768015 l "substring"
+2 1 0.0334214 l "substring"
+1 2 0.3768015 l "distance"
+2 1 0.0334214 l "distance"
+1 2 0.3768015 l "substring"
+2 1 0.0334214 l "substring"
+1 2 0.3768015 l "distance"
+2 1 0.0334214 l "distance"
+*Edges

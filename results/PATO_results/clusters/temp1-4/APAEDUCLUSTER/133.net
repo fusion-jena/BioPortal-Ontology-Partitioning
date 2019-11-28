@@ -1,0 +1,9 @@
+*Vertices 2
+1 "PRA" ellipse
+2 "Progressive_Supranuclear_Palsy" ellipse
+*Arcs
+1 2 0.0051643 l "substring"
+2 1 0.2501362 l "substring"
+1 2 0.0051643 l "substring"
+2 1 0.2501362 l "substring"
+*Edges

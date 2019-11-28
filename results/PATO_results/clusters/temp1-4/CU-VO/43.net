@@ -1,0 +1,36 @@
+*Vertices 3
+1 "Urinary urgency" ellipse
+2 "Grade 1 Urinary urgency" ellipse
+3 "Grade 2 Urinary urgency" ellipse
+*Arcs
+2 1 0.7252709 l "isa"
+1 2 0.4385486 l "isa"
+3 1 0.7252709 l "isa"
+1 3 0.4385486 l "isa"
+1 2 0.4385486 l "substring"
+2 1 0.7252709 l "substring"
+1 3 0.4385486 l "substring"
+3 1 0.7252709 l "substring"
+2 3 0.2747292 l "distance"
+3 2 0.2747292 l "distance"
+2 1 0.7252709 l "isa"
+1 2 0.4385486 l "isa"
+3 1 0.7252709 l "isa"
+1 3 0.4385486 l "isa"
+1 2 0.4385486 l "substring"
+2 1 0.7252709 l "substring"
+1 3 0.4385486 l "substring"
+3 1 0.7252709 l "substring"
+2 3 0.2747292 l "distance"
+3 2 0.2747292 l "distance"
+2 1 0.7252709 l "isa"
+1 2 0.4385486 l "isa"
+3 1 0.7252709 l "isa"
+1 3 0.4385486 l "isa"
+1 2 0.4385486 l "substring"
+2 1 0.7252709 l "substring"
+1 3 0.4385486 l "substring"
+3 1 0.7252709 l "substring"
+2 3 0.2747292 l "distance"
+3 2 0.2747292 l "distance"
+*Edges

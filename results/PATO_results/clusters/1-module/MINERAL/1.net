@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Glass" ellipse
+2 "SubstanceForm" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 1.0000000 l "isa"
+*Edges

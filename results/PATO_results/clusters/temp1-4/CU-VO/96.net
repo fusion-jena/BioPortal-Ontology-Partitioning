@@ -1,0 +1,13 @@
+*Vertices 2
+1 "mixed E and M lineage structure" ellipse
+2 "UBERON_0000061"
+*Arcs
+1 2 0.2070193 l "isa"
+2 1 0.0234811 l "isa"
+1 2 0.2070193 l "definition"
+2 1 0.0234811 l "definition"
+1 2 0.2070193 l "isa"
+2 1 0.0234811 l "isa"
+1 2 0.2070193 l "definition"
+2 1 0.0234811 l "definition"
+*Edges

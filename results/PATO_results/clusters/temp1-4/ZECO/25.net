@@ -1,0 +1,40 @@
+*Vertices 5
+1 "lower floret of pedicellate spikelet of tassel" ellipse
+2 "palea of lower floret of pedicellate spikelet of tassel" ellipse
+3 "gynoecial tissue (abortive) of lower floret of pedicellate spikelet of tassel" ellipse
+4 "lodicules of lower floret of pedicellate spikelet of tassel" ellipse
+5 "stamens of lower floret of pedicellate spikelet of tassel" ellipse
+*Arcs
+2 1 0.2137100 l "definition"
+1 2 0.1384357 l "definition"
+3 1 0.2385601 l "definition"
+1 3 0.1397542 l "definition"
+4 1 0.2375794 l "definition"
+1 4 0.1397542 l "definition"
+5 1 0.2380796 l "definition"
+1 5 0.1397542 l "definition"
+1 2 0.1384357 l "substring"
+2 1 0.2137100 l "substring"
+1 3 0.1397542 l "substring"
+3 1 0.2385601 l "substring"
+1 4 0.1397542 l "substring"
+4 1 0.2375794 l "substring"
+1 5 0.1397542 l "substring"
+5 1 0.2380796 l "substring"
+2 1 0.2137100 l "definition"
+1 2 0.1384357 l "definition"
+3 1 0.2385601 l "definition"
+1 3 0.1397542 l "definition"
+4 1 0.2375794 l "definition"
+1 4 0.1397542 l "definition"
+5 1 0.2380796 l "definition"
+1 5 0.1397542 l "definition"
+1 2 0.1384357 l "substring"
+2 1 0.2137100 l "substring"
+1 3 0.1397542 l "substring"
+3 1 0.2385601 l "substring"
+1 4 0.1397542 l "substring"
+4 1 0.2375794 l "substring"
+1 5 0.1397542 l "substring"
+5 1 0.2380796 l "substring"
+*Edges

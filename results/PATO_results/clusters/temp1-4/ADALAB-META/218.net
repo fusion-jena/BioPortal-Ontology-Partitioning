@@ -1,0 +1,13 @@
+*Vertices 2
+1 "MaleHumanBeing" ellipse
+2 "Prostate" ellipse
+*Arcs
+1 2 0.1096954 l "definition"
+2 1 0.3017721 l "definition"
+2 1 0.3017721 l "definition"
+1 2 0.1096954 l "definition"
+1 2 0.1096954 l "definition"
+2 1 0.3017721 l "definition"
+2 1 0.3017721 l "definition"
+1 2 0.1096954 l "definition"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "FDFunctionalResidue" ellipse
+2 "integer"
+*Arcs
+1 2 0.4000000 l "enz_residue_num"
+2 1 0.1428571 l "enz_residue_num"
+1 2 0.4000000 l "fd_residue_num"
+2 1 0.1428571 l "fd_residue_num"
+*Edges

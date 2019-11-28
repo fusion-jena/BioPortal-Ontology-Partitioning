@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Anglo-Arabian" ellipse
+2 "Anglo-Nubian" ellipse
+*Arcs
+1 2 0.2858657 l "distance"
+2 1 0.5227032 l "distance"
+1 2 0.2858657 l "distance"
+2 1 0.5227032 l "distance"
+*Edges

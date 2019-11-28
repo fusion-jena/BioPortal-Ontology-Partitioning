@@ -1,0 +1,11 @@
+*Vertices 2
+1 "standard" ellipse
+2 "internal standard role" ellipse
+*Arcs
+1 2 0.2228216 l "substring"
+2 1 0.2847078 l "substring"
+1 2 0.2228216 l "substring"
+2 1 0.2847078 l "substring"
+1 2 0.2228216 l "substring"
+2 1 0.2847078 l "substring"
+*Edges

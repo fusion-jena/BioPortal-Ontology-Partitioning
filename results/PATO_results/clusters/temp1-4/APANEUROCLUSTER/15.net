@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Crime" ellipse
+2 "Hate_Crimes" ellipse
+3 "Serial_Crime" ellipse
+*Arcs
+1 2 0.0519032 l "substring"
+2 1 0.5069067 l "substring"
+1 3 0.0519032 l "substring"
+3 1 0.5069067 l "substring"
+1 2 0.0519032 l "substring"
+2 1 0.5069067 l "substring"
+1 3 0.0519032 l "substring"
+3 1 0.5069067 l "substring"
+1 2 0.0519032 l "substring"
+2 1 0.5069067 l "substring"
+1 3 0.0519032 l "substring"
+3 1 0.5069067 l "substring"
+*Edges

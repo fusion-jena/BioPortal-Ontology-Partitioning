@@ -1,0 +1,17 @@
+*Vertices 2
+1 "blood Biomarker" ellipse
+2 "molecular entity used as blood biomarker" ellipse
+*Arcs
+2 1 0.1584121 l "definition"
+1 2 0.2198590 l "definition"
+1 2 0.2198590 l "substring"
+2 1 0.1584121 l "substring"
+2 1 0.1584121 l "definition"
+1 2 0.2198590 l "definition"
+1 2 0.2198590 l "substring"
+2 1 0.1584121 l "substring"
+2 1 0.1584121 l "definition"
+1 2 0.2198590 l "definition"
+1 2 0.2198590 l "substring"
+2 1 0.1584121 l "substring"
+*Edges

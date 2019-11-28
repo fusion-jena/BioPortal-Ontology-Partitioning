@@ -1,0 +1,23 @@
+*Vertices 2
+1 "ISO 11290-1:2017 Listeria" ellipse
+2 "ISO 11290-2:2017 Listeria" ellipse
+*Arcs
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+1 2 0.7693372 l "distance"
+2 1 0.7693372 l "distance"
+*Edges

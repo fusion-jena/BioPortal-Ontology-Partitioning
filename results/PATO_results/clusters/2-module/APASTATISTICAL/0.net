@@ -1,0 +1,57 @@
+*Vertices 26
+1 "Statistical_Tests" ellipse
+2 "Analysis_of_Covariance" ellipse
+3 "Analysis_of_Variance" ellipse
+4 "Content_Analysis" ellipse
+5 "F_Test" ellipse
+6 "Mean" ellipse
+7 "Median" ellipse
+8 "Meta_Analysis" ellipse
+9 "Path_Analysis" ellipse
+10 "Probability" ellipse
+11 "Prospective_Studies" ellipse
+12 "Q_Sort_Testing_Technique" ellipse
+13 "Retrospective_Studies" ellipse
+14 "Statistical_Probability" ellipse
+15 "Statistical_Samples" ellipse
+16 "Statistical_Tables" ellipse
+17 "Statistics" ellipse
+18 "T_Test" ellipse
+19 "Type_II_Errors" ellipse
+20 "Type_I_Errors" ellipse
+21 "Confidence_Limits_(Statistics)" ellipse
+22 "Content_Analysis_(Test)" ellipse
+23 "Interaction_Analysis_(Statistics)" ellipse
+24 "Population_(Statistics)" ellipse
+25 "Scaling_(Testing)" ellipse
+26 "Scoring_(Testing)" ellipse
+*Arcs
+4 22 0.5000000 l "substring"
+22 4 0.5000000 l "substring"
+10 14 0.5000000 l "substring"
+14 10 0.5000000 l "substring"
+12 18 0.5000000 l "substring"
+18 12 0.3333333 l "substring"
+17 21 0.2500000 l "substring"
+21 17 0.5000000 l "substring"
+17 23 0.2500000 l "substring"
+23 17 0.5000000 l "substring"
+17 24 0.2500000 l "substring"
+24 17 0.5000000 l "substring"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+5 18 0.5000000 l "distance"
+18 5 0.3333333 l "distance"
+6 7 0.5000000 l "distance"
+7 6 0.5000000 l "distance"
+8 9 0.5000000 l "distance"
+9 8 0.5000000 l "distance"
+11 13 0.5000000 l "distance"
+13 11 0.5000000 l "distance"
+15 16 0.5000000 l "distance"
+16 15 0.5000000 l "distance"
+19 20 0.5000000 l "distance"
+20 19 0.5000000 l "distance"
+25 26 0.5000000 l "distance"
+26 25 0.5000000 l "distance"
+*Edges

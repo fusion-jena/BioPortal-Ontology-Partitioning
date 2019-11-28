@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ingredient role" ellipse
+2 "active pharmaceutical ingredient role" ellipse
+*Arcs
+1 2 0.2171715 l "substring"
+2 1 0.1458002 l "substring"
+1 2 0.2171715 l "substring"
+2 1 0.1458002 l "substring"
+1 2 0.2171715 l "substring"
+2 1 0.1458002 l "substring"
+*Edges

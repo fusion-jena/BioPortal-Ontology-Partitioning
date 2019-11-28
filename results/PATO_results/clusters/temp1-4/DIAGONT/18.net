@@ -1,0 +1,21 @@
+*Vertices 2
+1 "integer"
+2 "Assessment" ellipse
+*Arcs
+2 1 0.2518813 l "Wirksamkeit"
+1 2 0.3058620 l "Wirksamkeit"
+2 1 0.2518813 l "Verträglichkeit"
+1 2 0.3058620 l "Verträglichkeit"
+2 1 0.2518813 l "Wirksamkeit"
+1 2 0.3058620 l "Wirksamkeit"
+2 1 0.2518813 l "Verträglichkeit"
+1 2 0.3058620 l "Verträglichkeit"
+2 1 0.2518813 l "Wirksamkeit"
+1 2 0.3058620 l "Wirksamkeit"
+2 1 0.2518813 l "Verträglichkeit"
+1 2 0.3058620 l "Verträglichkeit"
+2 1 0.2518813 l "Wirksamkeit"
+1 2 0.3058620 l "Wirksamkeit"
+2 1 0.2518813 l "Verträglichkeit"
+1 2 0.3058620 l "Verträglichkeit"
+*Edges

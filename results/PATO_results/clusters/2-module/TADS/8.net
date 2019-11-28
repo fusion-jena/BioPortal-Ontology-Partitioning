@@ -1,0 +1,24 @@
+*Vertices 5
+1 "adult vestibular vagina" ellipse
+2 "adult vestibular vagina cuticular lining" ellipse
+3 "adult vestibular vagina epithelium" ellipse
+4 "adult vestibular vagina vestibular sinus" ellipse
+5 "adult vestibular vagina lumen" ellipse
+*Arcs
+2 1 0.3333333 l "definition"
+1 2 0.1428571 l "definition"
+3 1 0.3333333 l "definition"
+1 3 0.1428571 l "definition"
+4 1 0.4000000 l "definition"
+1 4 0.1428571 l "definition"
+5 1 0.4000000 l "definition"
+1 5 0.1428571 l "definition"
+1 2 0.1428571 l "substring"
+2 1 0.3333333 l "substring"
+1 3 0.1428571 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.1428571 l "substring"
+4 1 0.4000000 l "substring"
+1 5 0.1428571 l "substring"
+5 1 0.4000000 l "substring"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Atribuição de Tipo" ellipse
+2 "Tipo" ellipse
+3 "Criação de Tipo" ellipse
+*Arcs
+2 2 0.2285714 l "a pour terme générique"
+2 2 0.2285714 l "a pour terme générique"
+2 2 0.2285714 l "a pour terme spécifique"
+2 2 0.2285714 l "a pour terme spécifique"
+3 2 0.4285714 l "a créé le type"
+2 3 0.0857143 l "a créé le type"
+2 3 0.0857143 l "a été créé par"
+3 2 0.4285714 l "a été créé par"
+2 2 0.2285714 l "defines typical parts of"
+2 2 0.2285714 l "defines typical parts of"
+2 2 0.2285714 l "defines typical wholes for"
+2 2 0.2285714 l "defines typical wholes for"
+1 2 0.4285714 l "a attribué"
+2 1 0.0857143 l "a attribué"
+2 1 0.0857143 l "a été attribué par"
+1 2 0.4285714 l "a été attribué par"
+1 2 0.4285714 l "substring"
+2 1 0.0857143 l "substring"
+2 3 0.0857143 l "substring"
+3 2 0.4285714 l "substring"
+*Edges

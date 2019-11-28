@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Metacognition" ellipse
+2 "Multiple_Intelligences" ellipse
+3 "Note_Taking" ellipse
+4 "Reading_Achievement" ellipse
+5 "Reading_Readiness" ellipse
+6 "Reading_Speed" ellipse
+7 "Science_Achievement" ellipse
+8 "Time_On_Task" ellipse
+9 "Awards_(Merit)" ellipse
+10 "AcademicLearningAchievement" ellipse
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.0181818 l "isa"
+2 10 1.0000000 l "isa"
+10 2 0.0181818 l "isa"
+3 10 1.0000000 l "isa"
+10 3 0.0181818 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.0181818 l "isa"
+5 10 1.0000000 l "isa"
+10 5 0.0181818 l "isa"
+6 10 1.0000000 l "isa"
+10 6 0.0181818 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.0181818 l "isa"
+8 10 1.0000000 l "isa"
+10 8 0.0181818 l "isa"
+9 10 1.0000000 l "isa"
+10 9 0.0181818 l "isa"
+*Edges

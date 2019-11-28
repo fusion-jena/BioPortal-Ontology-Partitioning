@@ -1,0 +1,16 @@
+*Vertices 3
+1 "MultiPoint" ellipse
+2 "Point" ellipse
+3 "pointRep"
+*Arcs
+1 2 0.3333333 l "pointMember"
+2 1 0.0909091 l "pointMember"
+1 2 0.3333333 l "pointMembers"
+2 1 0.0909091 l "pointMembers"
+1 2 0.3333333 l "substring"
+2 1 0.0909091 l "substring"
+2 3 0.0606061 l "substring"
+3 2 0.5000000 l "substring"
+2 3 0.0606061 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

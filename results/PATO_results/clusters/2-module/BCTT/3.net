@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Self-belief" ellipse
+2 "Verbal persuasion about capability" ellipse
+3 "Mental rehearsal of successful performance" ellipse
+4 "Focus on past success" ellipse
+5 "Self-talk" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.2000000 l "isa"
+*Edges

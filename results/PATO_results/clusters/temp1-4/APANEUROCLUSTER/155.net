@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Thought_Disturbances" ellipse
+2 "Fantasies_(Thought_Disturbances)" ellipse
+*Arcs
+1 2 0.3947687 l "substring"
+2 1 0.3947687 l "substring"
+1 2 0.3947687 l "substring"
+2 1 0.3947687 l "substring"
+1 2 0.3947687 l "substring"
+2 1 0.3947687 l "substring"
+*Edges

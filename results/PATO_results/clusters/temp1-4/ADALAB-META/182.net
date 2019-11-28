@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Cobalt-60" ellipse
+2 "participatesIn"
+*Arcs
+1 2 0.2025802 l "definition"
+2 1 0.0752422 l "definition"
+1 2 0.2025802 l "definition"
+2 1 0.0752422 l "definition"
+*Edges

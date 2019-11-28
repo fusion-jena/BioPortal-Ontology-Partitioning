@@ -1,0 +1,48 @@
+*Vertices 9
+1 "Definite_preoccupation_that_causes_substantial_interference_or_social_impairment" ellipse
+2 "Definite_repetitive_preoccupation_that_intrudes_into_family_life" ellipse
+3 "No_unusual_preoccupation" ellipse
+4 "Unusual_Preoccupations" ellipse
+5 "Unusual_Preoccupations_UnknownOrNotAsked" ellipse
+6 "Unusual_preoccupation_that_does_not_interfere_with_significant_activities" ellipse
+7 "unproc_Unusual_preoccupation_that_does_not_interfere_with_significant_activities"
+8 "unproc_Definite_preoccupation_that_causes_substantial_interference_or_social_impairment"
+9 "unproc_Definite_repetitive_preoccupation_that_intrudes_into_family_life"
+*Arcs
+1 4 0.3349048 l "isa"
+4 1 0.1275682 l "isa"
+2 4 0.3349048 l "isa"
+4 2 0.1275682 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1619135 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.3385465 l "isa"
+6 4 0.3349048 l "isa"
+4 6 0.1275682 l "isa"
+1 8 0.3493958 l "substring"
+8 1 0.2749033 l "substring"
+2 9 0.3493958 l "substring"
+9 2 0.2749033 l "substring"
+4 5 0.3385465 l "substring"
+5 4 1.0000000 l "substring"
+6 7 0.3493958 l "substring"
+7 6 0.2749033 l "substring"
+1 4 0.3349048 l "isa"
+4 1 0.1275682 l "isa"
+2 4 0.3349048 l "isa"
+4 2 0.1275682 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1619135 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.3385465 l "isa"
+6 4 0.3349048 l "isa"
+4 6 0.1275682 l "isa"
+1 8 0.3493958 l "substring"
+8 1 0.2749033 l "substring"
+2 9 0.3493958 l "substring"
+9 2 0.2749033 l "substring"
+4 5 0.3385465 l "substring"
+5 4 1.0000000 l "substring"
+6 7 0.3493958 l "substring"
+7 6 0.2749033 l "substring"
+*Edges

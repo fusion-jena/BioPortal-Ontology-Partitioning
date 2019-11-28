@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Angeln Saddleback" ellipse
+2 "Saddleback" ellipse
+*Arcs
+1 2 0.2660578 l "substring"
+2 1 0.2625650 l "substring"
+1 2 0.2660578 l "substring"
+2 1 0.2625650 l "substring"
+*Edges

@@ -1,0 +1,37 @@
+*Vertices 8
+1 "syntenic homology" ellipse
+2 "syntenic orthology" ellipse
+3 "orthology" ellipse
+4 "1 to 1 orthology" ellipse
+5 "semi-orthology" ellipse
+6 "1 to many orthology" ellipse
+7 "many to many orthology" ellipse
+8 "isoorthology" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.2500000 l "isa"
+4 3 0.6666667 l "isa"
+3 4 0.1333333 l "isa"
+5 6 0.5000000 l "isa"
+6 5 0.2000000 l "isa"
+6 3 0.4000000 l "isa"
+3 6 0.1333333 l "isa"
+7 3 0.6666667 l "isa"
+3 7 0.1333333 l "isa"
+8 3 0.6000000 l "isa"
+3 8 0.2000000 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.0666667 l "substring"
+3 4 0.1333333 l "substring"
+4 3 0.6666667 l "substring"
+3 5 0.0666667 l "substring"
+5 3 0.5000000 l "substring"
+3 6 0.1333333 l "substring"
+6 3 0.4000000 l "substring"
+3 7 0.1333333 l "substring"
+7 3 0.6666667 l "substring"
+3 8 0.2000000 l "substring"
+8 3 0.6000000 l "substring"
+3 8 0.2000000 l "distance"
+8 3 0.6000000 l "distance"
+*Edges

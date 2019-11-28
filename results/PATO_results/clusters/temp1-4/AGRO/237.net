@@ -1,0 +1,44 @@
+*Vertices 5
+1 "autosampler" ellipse
+2 "sampler" ellipse
+3 "autosampler setting (chromatography)" ellipse
+4 "autosampler injection volume setting (chromatography)" ellipse
+5 "injection volume setting" ellipse
+*Arcs
+1 2 0.5441241 l "isa"
+2 1 0.2964254 l "isa"
+4 3 0.0669108 l "isa"
+3 4 0.0845142 l "isa"
+4 5 0.1505955 l "isa"
+5 4 0.2697224 l "isa"
+1 2 0.5441241 l "substring"
+2 1 0.2964254 l "substring"
+1 3 0.2286209 l "substring"
+3 1 0.0912617 l "substring"
+1 4 0.2272550 l "substring"
+4 1 0.0718211 l "substring"
+2 3 0.1188465 l "substring"
+3 2 0.0870847 l "substring"
+2 4 0.1181024 l "substring"
+4 2 0.0685142 l "substring"
+4 5 0.1505955 l "substring"
+5 4 0.2697224 l "substring"
+1 2 0.5441241 l "isa"
+2 1 0.2964254 l "isa"
+4 3 0.0669108 l "isa"
+3 4 0.0845142 l "isa"
+4 5 0.1505955 l "isa"
+5 4 0.2697224 l "isa"
+1 2 0.5441241 l "substring"
+2 1 0.2964254 l "substring"
+1 3 0.2286209 l "substring"
+3 1 0.0912617 l "substring"
+1 4 0.2272550 l "substring"
+4 1 0.0718211 l "substring"
+2 3 0.1188465 l "substring"
+3 2 0.0870847 l "substring"
+2 4 0.1181024 l "substring"
+4 2 0.0685142 l "substring"
+4 5 0.1505955 l "substring"
+5 4 0.2697224 l "substring"
+*Edges

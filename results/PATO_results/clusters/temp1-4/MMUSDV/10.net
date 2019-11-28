@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Malawi" ellipse
+2 "Malaysia" ellipse
+*Arcs
+1 2 0.1090225 l "distance"
+2 1 0.2580328 l "distance"
+1 2 0.1090225 l "distance"
+2 1 0.2580328 l "distance"
+*Edges

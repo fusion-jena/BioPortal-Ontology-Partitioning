@@ -1,0 +1,58 @@
+*Vertices 7
+1 "Condition to be Studied" ellipse
+2 "Study Plan" ellipse
+3 "Clinical Values Measured" ellipse
+4 "Visits - Dates of Observation" ellipse
+5 "Biological Specimen Collected" ellipse
+6 "Devices used" ellipse
+7 "Scientific Investigation" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.1429886 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1429886 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1429886 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1429886 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1429886 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1429886 l "isa"
+1 7 1.0000000 l "isa"
+7 1 0.1429886 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1429886 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1429886 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1429886 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1429886 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1429886 l "isa"
+1 7 1.0000000 l "isa"
+7 1 0.1429886 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1429886 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1429886 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1429886 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1429886 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1429886 l "isa"
+1 7 1.0000000 l "isa"
+7 1 0.1429886 l "isa"
+2 7 1.0000000 l "isa"
+7 2 0.1429886 l "isa"
+3 7 1.0000000 l "isa"
+7 3 0.1429886 l "isa"
+4 7 1.0000000 l "isa"
+7 4 0.1429886 l "isa"
+5 7 1.0000000 l "isa"
+7 5 0.1429886 l "isa"
+6 7 1.0000000 l "isa"
+7 6 0.1429886 l "isa"
+*Edges

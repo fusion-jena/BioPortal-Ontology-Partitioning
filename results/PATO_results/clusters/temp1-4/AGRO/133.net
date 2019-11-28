@@ -1,0 +1,11 @@
+*Vertices 2
+1 "dune" ellipse
+2 "coastal dune" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.0508475 l "isa"
+2 1 0.3333333 l "definition"
+1 2 0.0508475 l "definition"
+1 2 0.0508475 l "substring"
+2 1 0.3333333 l "substring"
+*Edges

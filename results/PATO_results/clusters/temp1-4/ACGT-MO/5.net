@@ -1,0 +1,36 @@
+*Vertices 7
+1 "DeepFascialSystemSymptom" ellipse
+2 "EndocrineSystemSymptom" ellipse
+3 "GeneralizedSymptom" ellipse
+4 "PulmonaryEdema" ellipse
+5 "RespiratorySystemSymptom" ellipse
+6 "SpecificSymptom" ellipse
+7 "Symptom" ellipse
+*Arcs
+1 6 0.5000000 l "isa"
+6 1 0.0714286 l "isa"
+2 6 0.5000000 l "isa"
+6 2 0.0714286 l "isa"
+3 7 0.2727273 l "isa"
+7 3 0.1000000 l "isa"
+5 6 0.3333333 l "isa"
+6 5 0.0714286 l "isa"
+6 7 0.2142857 l "isa"
+7 6 0.1000000 l "isa"
+4 5 0.2000000 l "definition"
+5 4 0.3333333 l "definition"
+7 6 0.1000000 l "definition"
+6 7 0.2142857 l "definition"
+7 3 0.1000000 l "definition"
+3 7 0.2727273 l "definition"
+1 7 0.5000000 l "substring"
+7 1 0.0333333 l "substring"
+2 7 0.5000000 l "substring"
+7 2 0.0333333 l "substring"
+3 7 0.2727273 l "substring"
+7 3 0.1000000 l "substring"
+5 7 0.3333333 l "substring"
+7 5 0.0333333 l "substring"
+6 7 0.2142857 l "substring"
+7 6 0.1000000 l "substring"
+*Edges

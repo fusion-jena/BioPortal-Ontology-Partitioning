@@ -1,0 +1,24 @@
+*Vertices 3
+1 "screening" ellipse
+2 "asthma screening questionnaires" ellipse
+3 "Isle of Wright score" ellipse
+*Arcs
+2 1 0.3807416 l "isa"
+1 2 0.2063897 l "isa"
+3 1 0.3552903 l "isa"
+1 3 0.0884191 l "isa"
+1 2 0.2063897 l "substring"
+2 1 0.3807416 l "substring"
+2 1 0.3807416 l "isa"
+1 2 0.2063897 l "isa"
+3 1 0.3552903 l "isa"
+1 3 0.0884191 l "isa"
+1 2 0.2063897 l "substring"
+2 1 0.3807416 l "substring"
+2 1 0.3807416 l "isa"
+1 2 0.2063897 l "isa"
+3 1 0.3552903 l "isa"
+1 3 0.0884191 l "isa"
+1 2 0.2063897 l "substring"
+2 1 0.3807416 l "substring"
+*Edges

@@ -1,0 +1,15 @@
+*Vertices 2
+1 "occupational asthma" ellipse
+2 "occasional asthma" ellipse
+*Arcs
+1 2 0.2662953 l "distance"
+2 1 0.2701817 l "distance"
+1 2 0.2662953 l "distance"
+2 1 0.2701817 l "distance"
+1 2 0.2662953 l "distance"
+2 1 0.2701817 l "distance"
+1 2 0.2662953 l "distance"
+2 1 0.2701817 l "distance"
+1 2 0.2662953 l "distance"
+2 1 0.2701817 l "distance"
+*Edges

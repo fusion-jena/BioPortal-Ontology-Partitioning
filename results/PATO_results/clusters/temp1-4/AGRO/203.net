@@ -1,0 +1,13 @@
+*Vertices 2
+1 "dispersant role" ellipse
+2 "dispersion role" ellipse
+*Arcs
+1 2 0.5765045 l "isa"
+2 1 0.2730932 l "isa"
+1 2 0.5765045 l "distance"
+2 1 0.2730932 l "distance"
+1 2 0.5765045 l "isa"
+2 1 0.2730932 l "isa"
+1 2 0.5765045 l "distance"
+2 1 0.2730932 l "distance"
+*Edges

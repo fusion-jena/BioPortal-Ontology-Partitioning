@@ -1,0 +1,13 @@
+*Vertices 2
+1 "pressure sensor" ellipse
+2 "sensor" ellipse
+*Arcs
+1 2 0.7150259 l "isa"
+2 1 0.2444818 l "isa"
+1 2 0.7150259 l "substring"
+2 1 0.2444818 l "substring"
+1 2 0.7150259 l "isa"
+2 1 0.2444818 l "isa"
+1 2 0.7150259 l "substring"
+2 1 0.2444818 l "substring"
+*Edges

@@ -1,0 +1,51 @@
+*Vertices 6
+1 "trigger" ellipse
+2 "trigger datum" ellipse
+3 "alert datum" ellipse
+4 "triggering event" ellipse
+5 "triggered event" ellipse
+6 "workflow role" ellipse
+*Arcs
+3 2 1.0000000 l "isa"
+2 3 0.3670358 l "isa"
+4 6 0.3281679 l "isa"
+6 4 0.2010406 l "isa"
+5 6 0.3281679 l "isa"
+6 5 0.2010406 l "isa"
+1 2 0.1079000 l "substring"
+2 1 0.2116034 l "substring"
+1 4 0.1154316 l "substring"
+4 1 0.3074088 l "substring"
+1 5 0.1154316 l "substring"
+5 1 0.3074088 l "substring"
+4 5 0.3644233 l "distance"
+5 4 0.3644233 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.3670358 l "isa"
+4 6 0.3281679 l "isa"
+6 4 0.2010406 l "isa"
+5 6 0.3281679 l "isa"
+6 5 0.2010406 l "isa"
+1 2 0.1079000 l "substring"
+2 1 0.2116034 l "substring"
+1 4 0.1154316 l "substring"
+4 1 0.3074088 l "substring"
+1 5 0.1154316 l "substring"
+5 1 0.3074088 l "substring"
+4 5 0.3644233 l "distance"
+5 4 0.3644233 l "distance"
+3 2 1.0000000 l "isa"
+2 3 0.3670358 l "isa"
+4 6 0.3281679 l "isa"
+6 4 0.2010406 l "isa"
+5 6 0.3281679 l "isa"
+6 5 0.2010406 l "isa"
+1 2 0.1079000 l "substring"
+2 1 0.2116034 l "substring"
+1 4 0.1154316 l "substring"
+4 1 0.3074088 l "substring"
+1 5 0.1154316 l "substring"
+5 1 0.3074088 l "substring"
+4 5 0.3644233 l "distance"
+5 4 0.3644233 l "distance"
+*Edges

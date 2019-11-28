@@ -1,0 +1,48 @@
+*Vertices 5
+1 "escarpment" ellipse
+2 "slope" ellipse
+3 "rocky slope" ellipse
+4 "gravelly slope" ellipse
+5 "talus slope" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0228251 l "isa"
+3 2 0.2645192 l "isa"
+2 3 0.0521804 l "isa"
+4 2 0.2635083 l "isa"
+2 4 0.0521804 l "isa"
+5 2 0.2913271 l "isa"
+2 5 0.0526964 l "isa"
+3 2 0.2645192 l "definition"
+2 3 0.0521804 l "definition"
+4 2 0.2635083 l "definition"
+2 4 0.0521804 l "definition"
+5 2 0.2913271 l "definition"
+2 5 0.0526964 l "definition"
+2 3 0.0521804 l "substring"
+3 2 0.2645192 l "substring"
+2 4 0.0521804 l "substring"
+4 2 0.2635083 l "substring"
+2 5 0.0526964 l "substring"
+5 2 0.2913271 l "substring"
+1 2 1.0000000 l "isa"
+2 1 0.0228251 l "isa"
+3 2 0.2645192 l "isa"
+2 3 0.0521804 l "isa"
+4 2 0.2635083 l "isa"
+2 4 0.0521804 l "isa"
+5 2 0.2913271 l "isa"
+2 5 0.0526964 l "isa"
+3 2 0.2645192 l "definition"
+2 3 0.0521804 l "definition"
+4 2 0.2635083 l "definition"
+2 4 0.0521804 l "definition"
+5 2 0.2913271 l "definition"
+2 5 0.0526964 l "definition"
+2 3 0.0521804 l "substring"
+3 2 0.2645192 l "substring"
+2 4 0.0521804 l "substring"
+4 2 0.2635083 l "substring"
+2 5 0.0526964 l "substring"
+5 2 0.2913271 l "substring"
+*Edges

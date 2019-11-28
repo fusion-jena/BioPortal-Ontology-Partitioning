@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Nurse_Registration" ellipse
+2 "nurse_registration"
+*Arcs
+2 1 0.5000000 l "definition"
+1 2 0.5000000 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

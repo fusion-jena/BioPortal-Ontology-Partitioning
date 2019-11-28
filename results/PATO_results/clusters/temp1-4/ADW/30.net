@@ -1,0 +1,33 @@
+*Vertices 6
+1 "Blood brain barrier" ellipse
+2 "brain" ellipse
+3 "brain tissue" ellipse
+4 "locus ceruleus" ellipse
+5 "periventricular grey matter" ellipse
+6 "Anatomical entity" ellipse
+*Arcs
+2 6 0.0379143 l "isa"
+6 2 0.0756257 l "isa"
+3 6 0.5047970 l "isa"
+6 3 0.0918792 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1096103 l "isa"
+5 6 0.4358974 l "isa"
+6 5 0.1096103 l "isa"
+1 2 0.3599444 l "substring"
+2 1 0.0451874 l "substring"
+2 3 0.0451874 l "substring"
+3 2 0.4952029 l "substring"
+2 6 0.0379143 l "isa"
+6 2 0.0756257 l "isa"
+3 6 0.5047970 l "isa"
+6 3 0.0918792 l "isa"
+4 6 1.0000000 l "isa"
+6 4 0.1096103 l "isa"
+5 6 0.4358974 l "isa"
+6 5 0.1096103 l "isa"
+1 2 0.3599444 l "substring"
+2 1 0.0451874 l "substring"
+2 3 0.0451874 l "substring"
+3 2 0.4952029 l "substring"
+*Edges

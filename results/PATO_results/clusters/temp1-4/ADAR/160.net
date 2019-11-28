@@ -1,0 +1,23 @@
+*Vertices 6
+1 "Body posture" ellipse
+2 "Concept" ellipse
+3 "Emotional_Traits" ellipse
+4 "Self_Concept" ellipse
+5 "Vocabulary  term" ellipse
+6 "Concept_16"
+*Arcs
+4 3 0.5000000 l "isa"
+3 4 0.2500000 l "isa"
+5 2 0.3333333 l "concept"
+2 5 0.1666667 l "concept"
+5 2 0.3333333 l "synonyms"
+2 5 0.1666667 l "synonyms"
+1 6 0.2000000 l "definition"
+6 1 0.3333333 l "definition"
+2 4 0.0833333 l "substring"
+4 2 0.5000000 l "substring"
+2 6 0.1666667 l "substring"
+6 2 0.6666667 l "substring"
+2 6 0.1666667 l "distance"
+6 2 0.6666667 l "distance"
+*Edges

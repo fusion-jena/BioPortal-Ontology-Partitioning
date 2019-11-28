@@ -1,0 +1,13 @@
+*Vertices 2
+1 "detection wavelength" ellipse
+2 "electronic absorbance detection wavelength" ellipse
+*Arcs
+2 1 0.2895179 l "isa"
+1 2 0.3234657 l "isa"
+1 2 0.3234657 l "substring"
+2 1 0.2895179 l "substring"
+2 1 0.2895179 l "isa"
+1 2 0.3234657 l "isa"
+1 2 0.3234657 l "substring"
+2 1 0.2895179 l "substring"
+*Edges

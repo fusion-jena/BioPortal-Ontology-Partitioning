@@ -1,0 +1,19 @@
+*Vertices 14
+1 "InterfaceType" ellipse
+2 "Measurement" ellipse
+3 "Cluster" ellipse
+4 "Patient" ellipse
+5 "General" ellipse
+6 "Medical" ellipse
+7 "Atomic" ellipse
+8 "Composite" ellipse
+9 "Parameter" ellipse
+10 "Simple" ellipse
+11 "BluetoothLEMsg" ellipse
+12 "External" ellipse
+13 "WSN" ellipse
+14 "nil"
+*Arcs
+13 14 0.3333333 l "distance"
+14 13 0.2500000 l "distance"
+*Edges

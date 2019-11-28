@@ -1,0 +1,96 @@
+*Vertices 27
+1 "Approval for Database Activation" ellipse
+2 "Data Entry Guidelines" ellipse
+3 "Data Management" ellipse
+4 "Data Management Oversight" ellipse
+5 "Data Management Plan" ellipse
+6 "Data Validation Certification" ellipse
+7 "Data Validation Plan" ellipse
+8 "Data Validation Testing" ellipse
+9 "Database" ellipse
+10 "Database Account Management" ellipse
+11 "Database Lock and Unlock Approval" ellipse
+12 "Database Quality Plan" ellipse
+13 "Database Specification" ellipse
+14 "Dictionary Coding" ellipse
+15 "EDC Management" ellipse
+16 "Edit Check Programming" ellipse
+17 "External Data Transfer Specifications" ellipse
+18 "IRT User Acceptance Testing Certification" ellipse
+19 "IRT User Manual" ellipse
+20 "IRT User Notifications" ellipse
+21 "IRT User Requirement Specification" ellipse
+22 "IRT Validation Certification" ellipse
+23 "Interactive Response Technology" ellipse
+24 "Pharmacovigilance Database Line Listing" ellipse
+25 "Safety Documentation" ellipse
+26 "Safety Management Plan" ellipse
+27 "Serious Adverse Event Reconciliation" ellipse
+*Arcs
+1 9 0.6666667 l "isa"
+9 1 0.1052632 l "isa"
+2 9 1.0000000 l "isa"
+9 2 0.0526316 l "isa"
+4 3 0.6666667 l "isa"
+3 4 0.1428571 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.3333333 l "isa"
+6 9 0.5000000 l "isa"
+9 6 0.0526316 l "isa"
+7 9 1.0000000 l "isa"
+9 7 0.0526316 l "isa"
+8 9 1.0000000 l "isa"
+9 8 0.0526316 l "isa"
+9 3 0.0526316 l "isa"
+3 9 0.0714286 l "isa"
+10 15 0.5000000 l "isa"
+15 10 0.5000000 l "isa"
+11 9 0.6666667 l "isa"
+9 11 0.1052632 l "isa"
+12 9 0.5000000 l "isa"
+9 12 0.1052632 l "isa"
+13 9 1.0000000 l "isa"
+9 13 0.1052632 l "isa"
+14 9 1.0000000 l "isa"
+9 14 0.0526316 l "isa"
+15 3 0.5000000 l "isa"
+3 15 0.0714286 l "isa"
+16 9 1.0000000 l "isa"
+9 16 0.0526316 l "isa"
+17 9 1.0000000 l "isa"
+9 17 0.0526316 l "isa"
+18 23 1.0000000 l "isa"
+23 18 0.1666667 l "isa"
+19 23 1.0000000 l "isa"
+23 19 0.1666667 l "isa"
+20 23 1.0000000 l "isa"
+23 20 0.1666667 l "isa"
+21 23 1.0000000 l "isa"
+23 21 0.1666667 l "isa"
+22 23 0.5000000 l "isa"
+23 22 0.1666667 l "isa"
+24 25 0.5000000 l "isa"
+25 24 0.3333333 l "isa"
+26 25 1.0000000 l "isa"
+25 26 0.3333333 l "isa"
+27 9 1.0000000 l "isa"
+9 27 0.0526316 l "isa"
+1 9 0.6666667 l "substring"
+9 1 0.1052632 l "substring"
+3 4 0.1428571 l "substring"
+4 3 0.6666667 l "substring"
+3 5 0.0714286 l "substring"
+5 3 0.5000000 l "substring"
+9 10 0.0526316 l "substring"
+10 9 0.5000000 l "substring"
+9 11 0.1052632 l "substring"
+11 9 0.6666667 l "substring"
+9 12 0.1052632 l "substring"
+12 9 0.5000000 l "substring"
+9 13 0.1052632 l "substring"
+13 9 1.0000000 l "substring"
+9 24 0.0526316 l "substring"
+24 9 0.5000000 l "substring"
+6 22 0.5000000 l "distance"
+22 6 0.5000000 l "distance"
+*Edges

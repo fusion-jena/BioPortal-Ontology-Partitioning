@@ -1,0 +1,17 @@
+*Vertices 2
+1 "subvariety" ellipse
+2 "subsubvariety" ellipse
+*Arcs
+1 2 0.7952898 l "substring"
+2 1 0.7952898 l "substring"
+1 2 0.7952898 l "distance"
+2 1 0.7952898 l "distance"
+1 2 0.7952898 l "substring"
+2 1 0.7952898 l "substring"
+1 2 0.7952898 l "distance"
+2 1 0.7952898 l "distance"
+1 2 0.7952898 l "substring"
+2 1 0.7952898 l "substring"
+1 2 0.7952898 l "distance"
+2 1 0.7952898 l "distance"
+*Edges

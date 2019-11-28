@@ -1,0 +1,38 @@
+*Vertices 7
+1 "paralogy" ellipse
+2 "syntenic paralogy" ellipse
+3 "in-paralogy" ellipse
+4 "out-paralogy" ellipse
+5 "within-species paralogy" ellipse
+6 "between-species paralogy" ellipse
+7 "tandem paralogy" ellipse
+*Arcs
+2 1 0.6666667 l "isa"
+1 2 0.1111111 l "isa"
+3 1 0.7500000 l "isa"
+1 3 0.1666667 l "isa"
+4 1 0.6666667 l "isa"
+1 4 0.1111111 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1111111 l "isa"
+6 1 0.6666667 l "isa"
+1 6 0.1111111 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1111111 l "isa"
+1 2 0.1111111 l "substring"
+2 1 0.6666667 l "substring"
+1 3 0.1666667 l "substring"
+3 1 0.7500000 l "substring"
+1 4 0.1111111 l "substring"
+4 1 0.6666667 l "substring"
+1 5 0.1111111 l "substring"
+5 1 1.0000000 l "substring"
+1 6 0.1111111 l "substring"
+6 1 0.6666667 l "substring"
+1 7 0.1111111 l "substring"
+7 1 1.0000000 l "substring"
+1 3 0.1666667 l "distance"
+3 1 0.7500000 l "distance"
+3 4 0.2500000 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

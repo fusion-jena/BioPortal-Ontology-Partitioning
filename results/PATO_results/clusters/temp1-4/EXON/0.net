@@ -1,0 +1,10 @@
+*Vertices 7
+1 "ICD-10 code" ellipse
+2 "url"
+3 "value"
+4 "reaction_type"
+5 "classification" ellipse
+6 "mutant"
+7 "Gender" ellipse
+*Arcs
+*Edges

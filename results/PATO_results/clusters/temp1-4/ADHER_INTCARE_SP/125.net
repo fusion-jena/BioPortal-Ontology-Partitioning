@@ -1,0 +1,49 @@
+*Vertices 12
+1 "Health_Status" ellipse
+2 "Inmigrant" ellipse
+3 "Low_Educational_Level" ellipse
+4 "Marital_Status" ellipse
+5 "Social-demographic" ellipse
+6 "War_Postwar" ellipse
+7 "Bajo_nivel_educativo" ellipse
+8 "Estado_civil" ellipse
+9 "Estado_de_salud" ellipse
+10 "Inmigrante" ellipse
+11 "Sociodemograficos" ellipse
+12 "postguerra" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1399149 l "isa"
+2 5 0.4385965 l "isa"
+5 2 0.1399149 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1399149 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1399149 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1399149 l "isa"
+1 5 1.0000000 l "isa"
+5 1 0.1399149 l "isa"
+2 5 0.4385965 l "isa"
+5 2 0.1399149 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1399149 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1399149 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1399149 l "isa"
+7 11 1.0000000 l "isa"
+11 7 0.1250000 l "isa"
+8 11 1.0000000 l "isa"
+11 8 0.1250000 l "isa"
+9 11 1.0000000 l "isa"
+11 9 0.1250000 l "isa"
+10 11 0.3333333 l "isa"
+11 10 0.1250000 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.1250000 l "isa"
+2 10 0.5614035 l "substring"
+10 2 0.6666667 l "substring"
+2 10 0.5614035 l "distance"
+10 2 0.6666667 l "distance"
+*Edges

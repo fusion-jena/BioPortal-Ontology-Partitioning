@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Female_Criminals" ellipse
+2 "Male_Criminals" ellipse
+*Arcs
+1 2 0.5000000 l "substring"
+2 1 0.5000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

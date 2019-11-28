@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Dimebolin" ellipse
+2 "_Dimebon" ellipse
+*Arcs
+1 2 0.3996424 l "distance"
+2 1 0.3989570 l "distance"
+1 2 0.3996424 l "distance"
+2 1 0.3989570 l "distance"
+*Edges

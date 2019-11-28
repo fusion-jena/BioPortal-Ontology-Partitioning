@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Gascon" ellipse
+2 "Mashona" ellipse
+*Arcs
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+1 2 0.1982901 l "distance"
+2 1 0.1969629 l "distance"
+*Edges

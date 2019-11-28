@@ -1,0 +1,33 @@
+*Vertices 2
+1 "Entity" ellipse
+2 "Quality" ellipse
+*Arcs
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+2 1 0.7949342 l "isa"
+1 2 0.3367288 l "isa"
+1 2 0.3367288 l "has quality"
+2 1 0.7949342 l "has quality"
+*Edges

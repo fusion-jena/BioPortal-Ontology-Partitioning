@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Toxic screening" ellipse
+2 "Screening" ellipse
+*Arcs
+1 2 0.3688761 l "substring"
+2 1 0.1577650 l "substring"
+1 2 0.3688761 l "substring"
+2 1 0.1577650 l "substring"
+*Edges

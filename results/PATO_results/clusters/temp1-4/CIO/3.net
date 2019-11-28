@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Number" ellipse
+2 "Notification of Regulatory Identification Number" ellipse
+*Arcs
+1 2 0.2842547 l "substring"
+2 1 0.3607422 l "substring"
+1 2 0.2842547 l "substring"
+2 1 0.3607422 l "substring"
+1 2 0.2842547 l "substring"
+2 1 0.3607422 l "substring"
+*Edges

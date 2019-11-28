@@ -1,0 +1,16 @@
+*Vertices 5
+1 "therapeutic confirmatory study" ellipse
+2 "therapeutic equivalency study" ellipse
+3 "therapeutic exploratory study" ellipse
+4 "therapeutic study" ellipse
+5 "therapeutic use study" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1428571 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1428571 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1428571 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1428571 l "isa"
+*Edges

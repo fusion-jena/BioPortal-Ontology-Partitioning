@@ -1,0 +1,58 @@
+*Vertices 7
+1 "Kidney" ellipse
+2 "KidneyFunctioning" ellipse
+3 "Left" ellipse
+4 "LeftKidneySuperiorSegment" ellipse
+5 "Right" ellipse
+6 "RightKidneySuperiorSegment" ellipse
+7 "SuperiorRenalSegment" ellipse
+*Arcs
+4 7 0.2642316 l "isa"
+7 4 0.1208605 l "isa"
+6 7 0.2619841 l "isa"
+7 6 0.1207670 l "isa"
+1 2 0.1179635 l "definition"
+2 1 0.3251650 l "definition"
+1 2 0.1179635 l "substring"
+2 1 0.3251650 l "substring"
+1 4 0.0543677 l "substring"
+4 1 0.2506870 l "substring"
+1 6 0.0543246 l "substring"
+6 1 0.2485496 l "substring"
+3 4 0.0282919 l "substring"
+4 3 0.2451128 l "substring"
+5 6 0.0706206 l "substring"
+6 5 0.2515481 l "substring"
+4 7 0.2642316 l "isa"
+7 4 0.1208605 l "isa"
+6 7 0.2619841 l "isa"
+7 6 0.1207670 l "isa"
+1 2 0.1179635 l "definition"
+2 1 0.3251650 l "definition"
+1 2 0.1179635 l "substring"
+2 1 0.3251650 l "substring"
+1 4 0.0543677 l "substring"
+4 1 0.2506870 l "substring"
+1 6 0.0543246 l "substring"
+6 1 0.2485496 l "substring"
+3 4 0.0282919 l "substring"
+4 3 0.2451128 l "substring"
+5 6 0.0706206 l "substring"
+6 5 0.2515481 l "substring"
+4 7 0.2642316 l "isa"
+7 4 0.1208605 l "isa"
+6 7 0.2619841 l "isa"
+7 6 0.1207670 l "isa"
+1 2 0.1179635 l "definition"
+2 1 0.3251650 l "definition"
+1 2 0.1179635 l "substring"
+2 1 0.3251650 l "substring"
+1 4 0.0543677 l "substring"
+4 1 0.2506870 l "substring"
+1 6 0.0543246 l "substring"
+6 1 0.2485496 l "substring"
+3 4 0.0282919 l "substring"
+4 3 0.2451128 l "substring"
+5 6 0.0706206 l "substring"
+6 5 0.2515481 l "substring"
+*Edges

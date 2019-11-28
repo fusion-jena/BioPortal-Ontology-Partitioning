@@ -1,0 +1,67 @@
+*Vertices 10
+1 "Abstract_Thinking" ellipse
+2 "Analytic_Capability" ellipse
+3 "Cognitive_Ability" ellipse
+4 "Imagination" ellipse
+5 "Isolated_Cognitive_Skills" ellipse
+6 "Numeracy" ellipse
+7 "Problem_Solving_Ability" ellipse
+8 "Reasoning" ellipse
+9 "Understanding_Logical_Progression" ellipse
+10 "Visual_Thinking" ellipse
+*Arcs
+1 3 0.2689812 l "isa"
+3 1 0.1634012 l "isa"
+2 3 0.2676917 l "isa"
+3 2 0.1630758 l "isa"
+4 1 0.2863413 l "isa"
+1 4 0.2901976 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2468854 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.4388711 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.3733363 l "isa"
+8 2 0.2533274 l "isa"
+2 8 0.2934372 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.3733363 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.4408212 l "isa"
+1 3 0.2689812 l "isa"
+3 1 0.1634012 l "isa"
+2 3 0.2676917 l "isa"
+3 2 0.1630758 l "isa"
+4 1 0.2863413 l "isa"
+1 4 0.2901976 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2468854 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.4388711 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.3733363 l "isa"
+8 2 0.2533274 l "isa"
+2 8 0.2934372 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.3733363 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.4408212 l "isa"
+1 3 0.2689812 l "isa"
+3 1 0.1634012 l "isa"
+2 3 0.2676917 l "isa"
+3 2 0.1630758 l "isa"
+4 1 0.2863413 l "isa"
+1 4 0.2901976 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.2468854 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.4388711 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.3733363 l "isa"
+8 2 0.2533274 l "isa"
+2 8 0.2934372 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.3733363 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.4408212 l "isa"
+*Edges

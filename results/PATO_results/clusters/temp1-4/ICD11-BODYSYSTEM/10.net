@@ -1,0 +1,43 @@
+*Vertices 8
+1 "esophagus" ellipse
+2 "viscus" ellipse
+3 "abdomen element" ellipse
+4 "abdominal segment element" ellipse
+5 "trunk region element" ellipse
+6 "thoracic cavity element" ellipse
+7 "thoracic segment organ" ellipse
+8 "abdominal viscera" ellipse
+*Arcs
+1 6 0.3496616 l "isa"
+6 1 0.2591289 l "isa"
+2 5 0.1942105 l "isa"
+5 2 0.1422904 l "isa"
+3 4 0.3507937 l "isa"
+4 3 0.5173913 l "isa"
+4 5 0.4826087 l "isa"
+5 4 0.1605105 l "isa"
+6 7 0.2591289 l "isa"
+7 6 0.3484336 l "isa"
+7 5 0.3339824 l "isa"
+5 7 0.1503882 l "isa"
+8 2 0.4879518 l "isa"
+2 8 0.2238158 l "isa"
+8 3 0.5120482 l "isa"
+3 8 0.3507937 l "isa"
+1 6 0.3496616 l "isa"
+6 1 0.2591289 l "isa"
+2 5 0.1942105 l "isa"
+5 2 0.1422904 l "isa"
+3 4 0.3507937 l "isa"
+4 3 0.5173913 l "isa"
+4 5 0.4826087 l "isa"
+5 4 0.1605105 l "isa"
+6 7 0.2591289 l "isa"
+7 6 0.3484336 l "isa"
+7 5 0.3339824 l "isa"
+5 7 0.1503882 l "isa"
+8 2 0.4879518 l "isa"
+2 8 0.2238158 l "isa"
+8 3 0.5120482 l "isa"
+3 8 0.3507937 l "isa"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "selecting" ellipse
+2 "deflecting" ellipse
+*Arcs
+1 2 0.1549177 l "distance"
+2 1 0.2088442 l "distance"
+1 2 0.1549177 l "distance"
+2 1 0.2088442 l "distance"
+1 2 0.1549177 l "distance"
+2 1 0.2088442 l "distance"
+*Edges

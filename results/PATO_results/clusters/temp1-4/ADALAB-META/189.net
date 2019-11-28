@@ -1,0 +1,23 @@
+*Vertices 4
+1 "BiologicalMarker" ellipse
+2 "Jurist" ellipse
+3 "Lawyer" ellipse
+4 "Marker" ellipse
+*Arcs
+1 4 0.4368223 l "isa"
+4 1 0.2312735 l "isa"
+3 2 0.2098799 l "isa"
+2 3 0.2090673 l "isa"
+1 4 0.4368223 l "substring"
+4 1 0.2312735 l "substring"
+3 4 0.2011349 l "distance"
+4 3 0.1022941 l "distance"
+1 4 0.4368223 l "isa"
+4 1 0.2312735 l "isa"
+3 2 0.2098799 l "isa"
+2 3 0.2090673 l "isa"
+1 4 0.4368223 l "substring"
+4 1 0.2312735 l "substring"
+3 4 0.2011349 l "distance"
+4 3 0.1022941 l "distance"
+*Edges

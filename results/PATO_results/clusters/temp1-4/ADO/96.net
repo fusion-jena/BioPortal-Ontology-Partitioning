@@ -1,0 +1,28 @@
+*Vertices 9
+1 "Longitudinal study" ellipse
+2 "Case study" ellipse
+3 "Correlation study" ellipse
+4 "Cross sectional survey" ellipse
+5 "Descriptive study" ellipse
+6 "First generation migrant" ellipse
+7 "Migrant study" ellipse
+8 "Morbidity survey" ellipse
+9 "Second generation migrant" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1428571 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1428571 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1428571 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.1428571 l "isa"
+6 7 0.2500000 l "isa"
+7 6 0.3333333 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.1428571 l "isa"
+8 4 1.0000000 l "isa"
+4 8 0.5000000 l "isa"
+9 7 0.2500000 l "isa"
+7 9 0.3333333 l "isa"
+*Edges

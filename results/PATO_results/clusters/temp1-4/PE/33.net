@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Platynereis life cycle stage" ellipse
+2 "zygote stage" ellipse
+3 "cleaving embryo stage" ellipse
+*Arcs
+2 1 0.2494307 l "isa"
+1 2 0.0478550 l "isa"
+3 1 0.1410690 l "isa"
+1 3 0.0456213 l "isa"
+3 2 0.1542550 l "definition"
+2 3 0.2600148 l "definition"
+2 1 0.2494307 l "isa"
+1 2 0.0478550 l "isa"
+3 1 0.1410690 l "isa"
+1 3 0.0456213 l "isa"
+3 2 0.1542550 l "definition"
+2 3 0.2600148 l "definition"
+*Edges

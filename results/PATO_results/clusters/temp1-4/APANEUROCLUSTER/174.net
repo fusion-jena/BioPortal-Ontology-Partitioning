@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Birth_Injuries" ellipse
+2 "Electrical_Injuries" ellipse
+3 "Head_Injuries" ellipse
+4 "Injuries" ellipse
+*Arcs
+1 4 0.2752654 l "substring"
+4 1 0.1760912 l "substring"
+2 4 0.2769469 l "substring"
+4 2 0.1761812 l "substring"
+3 4 0.2943285 l "substring"
+4 3 0.1873631 l "substring"
+1 4 0.2752654 l "substring"
+4 1 0.1760912 l "substring"
+2 4 0.2769469 l "substring"
+4 2 0.1761812 l "substring"
+3 4 0.2943285 l "substring"
+4 3 0.1873631 l "substring"
+1 4 0.2752654 l "substring"
+4 1 0.1760912 l "substring"
+2 4 0.2769469 l "substring"
+4 2 0.1761812 l "substring"
+3 4 0.2943285 l "substring"
+4 3 0.1873631 l "substring"
+*Edges

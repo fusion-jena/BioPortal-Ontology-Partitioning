@@ -1,0 +1,14 @@
+*Vertices 3
+1 "shoot-borne shoot system" ellipse
+2 "shoot system meristem" ellipse
+3 "shoot system" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.1111111 l "isa"
+2 3 0.2500000 l "definition"
+3 2 0.1111111 l "definition"
+1 3 0.3333333 l "substring"
+3 1 0.1111111 l "substring"
+2 3 0.2500000 l "substring"
+3 2 0.1111111 l "substring"
+*Edges

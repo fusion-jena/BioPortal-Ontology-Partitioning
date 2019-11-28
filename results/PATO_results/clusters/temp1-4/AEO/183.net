@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Ganglion" ellipse
+2 "Post ganglionic cell" ellipse
+3 "preganglionic cell" ellipse
+*Arcs
+1 2 0.1715601 l "substring"
+2 1 0.2326395 l "substring"
+1 3 0.1715601 l "substring"
+3 1 0.2326395 l "substring"
+1 2 0.1715601 l "substring"
+2 1 0.2326395 l "substring"
+1 3 0.1715601 l "substring"
+3 1 0.2326395 l "substring"
+1 2 0.1715601 l "substring"
+2 1 0.2326395 l "substring"
+1 3 0.1715601 l "substring"
+3 1 0.2326395 l "substring"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Device" ellipse
+2 "Denial" ellipse
+3 "Mobile Devices" ellipse
+*Arcs
+1 2 0.0926982 l "distance"
+2 1 0.1179405 l "distance"
+1 3 0.0843793 l "substring"
+3 1 0.1145624 l "substring"
+1 2 0.0926982 l "distance"
+2 1 0.1179405 l "distance"
+1 3 0.0843793 l "substring"
+3 1 0.1145624 l "substring"
+1 2 0.0926982 l "distance"
+2 1 0.1179405 l "distance"
+*Edges

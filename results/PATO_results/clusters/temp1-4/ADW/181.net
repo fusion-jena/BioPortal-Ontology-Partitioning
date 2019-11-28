@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Drosophila gene" ellipse
+2 "Ubqln1" ellipse
+3 "Drosophila" ellipse
+*Arcs
+1 3 0.2201310 l "definition"
+3 1 0.2170460 l "definition"
+2 3 0.2063373 l "definition"
+3 2 0.1030471 l "definition"
+1 3 0.2201310 l "substring"
+3 1 0.2170460 l "substring"
+1 3 0.2201310 l "definition"
+3 1 0.2170460 l "definition"
+2 3 0.2063373 l "definition"
+3 2 0.1030471 l "definition"
+1 3 0.2201310 l "substring"
+3 1 0.2170460 l "substring"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Palomino" ellipse
+2 "Paso Fino" ellipse
+*Arcs
+1 2 0.4964981 l "distance"
+2 1 0.6587331 l "distance"
+1 2 0.4964981 l "distance"
+2 1 0.6587331 l "distance"
+1 2 0.4964981 l "distance"
+2 1 0.6587331 l "distance"
+1 2 0.4964981 l "distance"
+2 1 0.6587331 l "distance"
+1 2 0.4964981 l "distance"
+2 1 0.6587331 l "distance"
+1 2 0.4964981 l "distance"
+2 1 0.6587331 l "distance"
+*Edges

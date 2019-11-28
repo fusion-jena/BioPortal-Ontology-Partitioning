@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Polish" ellipse
+2 "Polish Konik" ellipse
+*Arcs
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+1 2 0.2414321 l "substring"
+2 1 0.6189633 l "substring"
+*Edges

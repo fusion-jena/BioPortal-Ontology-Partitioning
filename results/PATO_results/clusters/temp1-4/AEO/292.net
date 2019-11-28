@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Female sexual maturity" ellipse
+2 "Male sexual maturity" ellipse
+*Arcs
+1 2 0.1427362 l "substring"
+2 1 0.1643903 l "substring"
+1 2 0.1427362 l "distance"
+2 1 0.1643903 l "distance"
+1 2 0.1427362 l "substring"
+2 1 0.1643903 l "substring"
+1 2 0.1427362 l "distance"
+2 1 0.1643903 l "distance"
+*Edges

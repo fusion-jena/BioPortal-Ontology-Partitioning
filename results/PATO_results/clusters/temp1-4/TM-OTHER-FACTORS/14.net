@@ -1,0 +1,11 @@
+*Vertices 2
+1 "preponderated yang constitution  / 偏阳质" ellipse
+2 "preponderated yin constitution  / 偏阴质" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

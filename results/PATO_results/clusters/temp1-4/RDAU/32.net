@@ -1,0 +1,11 @@
+*Vertices 2
+1 "vocational rehabilitation" ellipse
+2 "occupational therapy" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.6449994 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.6449994 l "isa"
+1 2 1.0000000 l "isa"
+2 1 0.6449994 l "isa"
+*Edges

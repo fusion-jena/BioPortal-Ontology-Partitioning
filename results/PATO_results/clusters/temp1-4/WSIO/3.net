@@ -1,0 +1,15 @@
+*Vertices 2
+1 "somnolence / 嗜睡; 嗜臥" ellipse
+2 "Somnolence / 嗜睡" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+1 2 1.0000000 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

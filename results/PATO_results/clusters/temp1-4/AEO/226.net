@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Dizziness" ellipse
+2 "Drowziness" ellipse
+3 "Mild Dizziness" ellipse
+*Arcs
+1 3 0.1809780 l "substring"
+3 1 0.1860480 l "substring"
+1 2 0.1851651 l "distance"
+2 1 0.1884259 l "distance"
+1 3 0.1809780 l "substring"
+3 1 0.1860480 l "substring"
+1 2 0.1851651 l "distance"
+2 1 0.1884259 l "distance"
+1 3 0.1809780 l "substring"
+3 1 0.1860480 l "substring"
+1 2 0.1851651 l "distance"
+2 1 0.1884259 l "distance"
+*Edges

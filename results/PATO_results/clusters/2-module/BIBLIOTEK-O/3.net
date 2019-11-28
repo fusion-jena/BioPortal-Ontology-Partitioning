@@ -1,0 +1,415 @@
+*Vertices 114
+1 "Abridger" ellipse
+2 "Acquisition" ellipse
+3 "Activity" ellipse
+4 "Actor" ellipse
+5 "Adapter" ellipse
+6 "Addressee" ellipse
+7 "Analyst" ellipse
+8 "Animator" ellipse
+9 "Appellant" ellipse
+10 "Appellee" ellipse
+11 "Applicant" ellipse
+12 "Architect" ellipse
+13 "Arranger" ellipse
+14 "Art copyist" ellipse
+15 "Art director" ellipse
+16 "Artist" ellipse
+17 "Artistic director" ellipse
+18 "Attribution" ellipse
+19 "Broadcaster" ellipse
+20 "Capture" ellipse
+21 "Cinematographer" ellipse
+22 "Collection registrar" ellipse
+23 "Collector" ellipse
+24 "Collotyper" ellipse
+25 "Colorist" ellipse
+26 "Commentator" ellipse
+27 "Compiler" ellipse
+28 "Composer" ellipse
+29 "Conductor" ellipse
+30 "Conservator" ellipse
+31 "Consultant" ellipse
+32 "Contributor" ellipse
+33 "Copyright holder" ellipse
+34 "Correspondent" ellipse
+35 "Curator" ellipse
+36 "Dancer" ellipse
+37 "Dedicatee" ellipse
+38 "Dedicator" ellipse
+39 "Depositor" ellipse
+40 "Director" ellipse
+41 "Distributor" ellipse
+42 "Donor" ellipse
+43 "Draftsman" ellipse
+44 "Engraver" ellipse
+45 "Etcher" ellipse
+46 "Facsimilist" ellipse
+47 "Field director" ellipse
+48 "Honoree" ellipse
+49 "Illuminator" ellipse
+50 "Illustrator" ellipse
+51 "Instrumentalist" ellipse
+52 "Interviewee" ellipse
+53 "Interviewer" ellipse
+54 "Inventor" ellipse
+55 "Librettist" ellipse
+56 "Licensee" ellipse
+57 "Licensor" ellipse
+58 "Lithographer" ellipse
+59 "Lyricist" ellipse
+60 "Manufacturer" ellipse
+61 "Marbler" ellipse
+62 "Metal engraver" ellipse
+63 "Minute taker" ellipse
+64 "Moderator" ellipse
+65 "Music copyist" ellipse
+66 "Musical director" ellipse
+67 "Musician" ellipse
+68 "Opponent" ellipse
+69 "Organizer" ellipse
+70 "Origin" ellipse
+71 "Originator" ellipse
+72 "Panelist" ellipse
+73 "Papermaker" ellipse
+74 "Patent applicant" ellipse
+75 "Patent holder" ellipse
+76 "Patron" ellipse
+77 "Performer" ellipse
+78 "Platemaker" ellipse
+79 "Presenter" ellipse
+80 "Printer" ellipse
+81 "Printmaker" ellipse
+82 "Producer" ellipse
+83 "Production personnel" ellipse
+84 "Programmer" ellipse
+85 "Proofreader" ellipse
+86 "Provider" ellipse
+87 "Publishing" ellipse
+88 "Puppeteer" ellipse
+89 "Recordist" ellipse
+90 "Renderer" ellipse
+91 "Reporter" ellipse
+92 "Repository" ellipse
+93 "Researcher" ellipse
+94 "Reviewer" ellipse
+95 "Scientific advisor" ellipse
+96 "Screenwriter" ellipse
+97 "Sculptor" ellipse
+98 "Secretary" ellipse
+99 "Seller" ellipse
+100 "Speaker" ellipse
+101 "Sponsor" ellipse
+102 "Stage director" ellipse
+103 "Stage manager" ellipse
+104 "Stereotyper" ellipse
+105 "Storyteller" ellipse
+106 "Surveyor" ellipse
+107 "Teacher" ellipse
+108 "Thesis advisor" ellipse
+109 "Translator" ellipse
+110 "Typographer" ellipse
+111 "Videographer" ellipse
+112 "Voice actor" ellipse
+113 "Witness" ellipse
+114 "Wood engraver" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.0071429 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.0071429 l "isa"
+4 3 0.2000000 l "isa"
+3 4 0.0071429 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.0071429 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.0071429 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.0071429 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.0071429 l "isa"
+9 3 0.3333333 l "isa"
+3 9 0.0071429 l "isa"
+10 3 0.5000000 l "isa"
+3 10 0.0071429 l "isa"
+11 3 0.3333333 l "isa"
+3 11 0.0071429 l "isa"
+12 3 1.0000000 l "isa"
+3 12 0.0071429 l "isa"
+13 3 0.5000000 l "isa"
+3 13 0.0071429 l "isa"
+14 3 1.0000000 l "isa"
+3 14 0.0071429 l "isa"
+15 3 0.5000000 l "isa"
+3 15 0.0071429 l "isa"
+16 3 0.5000000 l "isa"
+3 16 0.0071429 l "isa"
+17 3 0.3333333 l "isa"
+3 17 0.0071429 l "isa"
+18 3 1.0000000 l "isa"
+3 18 0.0071429 l "isa"
+19 3 1.0000000 l "isa"
+3 19 0.0071429 l "isa"
+20 3 1.0000000 l "isa"
+3 20 0.0071429 l "isa"
+21 3 1.0000000 l "isa"
+3 21 0.0071429 l "isa"
+22 3 1.0000000 l "isa"
+3 22 0.0071429 l "isa"
+23 3 0.5000000 l "isa"
+3 23 0.0071429 l "isa"
+24 3 1.0000000 l "isa"
+3 24 0.0071429 l "isa"
+25 3 1.0000000 l "isa"
+3 25 0.0071429 l "isa"
+26 3 1.0000000 l "isa"
+3 26 0.0071429 l "isa"
+27 3 0.5000000 l "isa"
+3 27 0.0071429 l "isa"
+28 3 0.5000000 l "isa"
+3 28 0.0071429 l "isa"
+29 3 0.5000000 l "isa"
+3 29 0.0071429 l "isa"
+30 3 1.0000000 l "isa"
+3 30 0.0071429 l "isa"
+31 3 1.0000000 l "isa"
+3 31 0.0071429 l "isa"
+32 3 0.5000000 l "isa"
+3 32 0.0071429 l "isa"
+33 3 1.0000000 l "isa"
+3 33 0.0071429 l "isa"
+34 3 1.0000000 l "isa"
+3 34 0.0071429 l "isa"
+35 3 0.2500000 l "isa"
+3 35 0.0071429 l "isa"
+36 3 0.1428571 l "isa"
+3 36 0.0071429 l "isa"
+37 3 0.5000000 l "isa"
+3 37 0.0071429 l "isa"
+38 3 0.3333333 l "isa"
+3 38 0.0071429 l "isa"
+39 3 0.5000000 l "isa"
+3 39 0.0071429 l "isa"
+40 3 0.1428571 l "isa"
+3 40 0.0071429 l "isa"
+41 3 0.3333333 l "isa"
+3 41 0.0071429 l "isa"
+42 3 0.1250000 l "isa"
+3 42 0.0071429 l "isa"
+43 3 1.0000000 l "isa"
+3 43 0.0071429 l "isa"
+44 3 0.3333333 l "isa"
+3 44 0.0071429 l "isa"
+45 3 0.5000000 l "isa"
+3 45 0.0071429 l "isa"
+46 3 1.0000000 l "isa"
+3 46 0.0071429 l "isa"
+47 3 0.5000000 l "isa"
+3 47 0.0071429 l "isa"
+48 3 0.5000000 l "isa"
+3 48 0.0071429 l "isa"
+49 3 0.5000000 l "isa"
+3 49 0.0071429 l "isa"
+50 3 0.5000000 l "isa"
+3 50 0.0071429 l "isa"
+51 3 1.0000000 l "isa"
+3 51 0.0071429 l "isa"
+52 3 0.5000000 l "isa"
+3 52 0.0071429 l "isa"
+53 3 0.5000000 l "isa"
+3 53 0.0071429 l "isa"
+54 3 1.0000000 l "isa"
+3 54 0.0071429 l "isa"
+55 3 1.0000000 l "isa"
+3 55 0.0071429 l "isa"
+56 3 0.5000000 l "isa"
+3 56 0.0071429 l "isa"
+57 3 0.5000000 l "isa"
+3 57 0.0071429 l "isa"
+58 3 0.5000000 l "isa"
+3 58 0.0071429 l "isa"
+59 3 1.0000000 l "isa"
+3 59 0.0071429 l "isa"
+60 3 1.0000000 l "isa"
+3 60 0.0071429 l "isa"
+61 3 1.0000000 l "isa"
+3 61 0.0071429 l "isa"
+62 3 0.5000000 l "isa"
+3 62 0.0071429 l "isa"
+63 3 1.0000000 l "isa"
+3 63 0.0071429 l "isa"
+64 3 1.0000000 l "isa"
+3 64 0.0071429 l "isa"
+65 3 1.0000000 l "isa"
+3 65 0.0071429 l "isa"
+66 3 0.5000000 l "isa"
+3 66 0.0071429 l "isa"
+67 3 1.0000000 l "isa"
+3 67 0.0071429 l "isa"
+68 3 1.0000000 l "isa"
+3 68 0.0071429 l "isa"
+69 3 1.0000000 l "isa"
+3 69 0.0071429 l "isa"
+71 3 0.5000000 l "isa"
+3 71 0.0071429 l "isa"
+72 3 0.5000000 l "isa"
+3 72 0.0071429 l "isa"
+73 3 0.5000000 l "isa"
+3 73 0.0071429 l "isa"
+74 3 0.5000000 l "isa"
+3 74 0.0071429 l "isa"
+75 3 1.0000000 l "isa"
+3 75 0.0071429 l "isa"
+76 3 1.0000000 l "isa"
+3 76 0.0071429 l "isa"
+77 3 1.0000000 l "isa"
+3 77 0.0071429 l "isa"
+78 3 0.5000000 l "isa"
+3 78 0.0071429 l "isa"
+79 3 0.5000000 l "isa"
+3 79 0.0071429 l "isa"
+80 3 0.2000000 l "isa"
+3 80 0.0071429 l "isa"
+81 3 0.5000000 l "isa"
+3 81 0.0071429 l "isa"
+82 3 0.5000000 l "isa"
+3 82 0.0071429 l "isa"
+83 3 1.0000000 l "isa"
+3 83 0.0071429 l "isa"
+84 3 1.0000000 l "isa"
+3 84 0.0071429 l "isa"
+85 3 1.0000000 l "isa"
+3 85 0.0071429 l "isa"
+86 3 0.5000000 l "isa"
+3 86 0.0071429 l "isa"
+87 3 1.0000000 l "isa"
+3 87 0.0071429 l "isa"
+88 3 1.0000000 l "isa"
+3 88 0.0071429 l "isa"
+89 3 1.0000000 l "isa"
+3 89 0.0071429 l "isa"
+90 3 0.3333333 l "isa"
+3 90 0.0071429 l "isa"
+91 3 1.0000000 l "isa"
+3 91 0.0071429 l "isa"
+92 3 0.5000000 l "isa"
+3 92 0.0071429 l "isa"
+93 3 1.0000000 l "isa"
+3 93 0.0071429 l "isa"
+94 3 0.5000000 l "isa"
+3 94 0.0071429 l "isa"
+95 3 1.0000000 l "isa"
+3 95 0.0071429 l "isa"
+96 3 1.0000000 l "isa"
+3 96 0.0071429 l "isa"
+97 3 0.5000000 l "isa"
+3 97 0.0071429 l "isa"
+98 3 1.0000000 l "isa"
+3 98 0.0071429 l "isa"
+99 3 0.2000000 l "isa"
+3 99 0.0071429 l "isa"
+100 3 0.5000000 l "isa"
+3 100 0.0071429 l "isa"
+101 3 0.5000000 l "isa"
+3 101 0.0071429 l "isa"
+102 3 0.5000000 l "isa"
+3 102 0.0071429 l "isa"
+103 3 1.0000000 l "isa"
+3 103 0.0071429 l "isa"
+104 3 1.0000000 l "isa"
+3 104 0.0071429 l "isa"
+105 3 1.0000000 l "isa"
+3 105 0.0071429 l "isa"
+106 3 1.0000000 l "isa"
+3 106 0.0071429 l "isa"
+107 3 0.5000000 l "isa"
+3 107 0.0071429 l "isa"
+108 3 1.0000000 l "isa"
+3 108 0.0071429 l "isa"
+109 3 1.0000000 l "isa"
+3 109 0.0071429 l "isa"
+110 3 1.0000000 l "isa"
+3 110 0.0071429 l "isa"
+111 3 0.3333333 l "isa"
+3 111 0.0071429 l "isa"
+112 3 0.5000000 l "isa"
+3 112 0.0071429 l "isa"
+113 3 1.0000000 l "isa"
+3 113 0.0071429 l "isa"
+114 3 0.5000000 l "isa"
+3 114 0.0071429 l "isa"
+4 112 0.2000000 l "substring"
+112 4 0.5000000 l "substring"
+11 74 0.3333333 l "substring"
+74 11 0.5000000 l "substring"
+15 40 0.5000000 l "substring"
+40 15 0.1428571 l "substring"
+16 17 0.5000000 l "substring"
+17 16 0.3333333 l "substring"
+17 40 0.3333333 l "substring"
+40 17 0.1428571 l "substring"
+40 47 0.1428571 l "substring"
+47 40 0.5000000 l "substring"
+40 66 0.1428571 l "substring"
+66 40 0.5000000 l "substring"
+40 102 0.1428571 l "substring"
+102 40 0.5000000 l "substring"
+44 62 0.3333333 l "substring"
+62 44 0.5000000 l "substring"
+44 114 0.3333333 l "substring"
+114 44 0.5000000 l "substring"
+70 71 1.0000000 l "substring"
+71 70 0.5000000 l "substring"
+1 13 0.5000000 l "distance"
+13 1 0.5000000 l "distance"
+4 42 0.2000000 l "distance"
+42 4 0.1250000 l "distance"
+5 36 0.5000000 l "distance"
+36 5 0.1428571 l "distance"
+7 72 0.5000000 l "distance"
+72 7 0.5000000 l "distance"
+9 10 0.3333333 l "distance"
+10 9 0.5000000 l "distance"
+9 11 0.3333333 l "distance"
+11 9 0.3333333 l "distance"
+23 29 0.5000000 l "distance"
+29 23 0.5000000 l "distance"
+27 28 0.5000000 l "distance"
+28 27 0.5000000 l "distance"
+32 41 0.5000000 l "distance"
+41 32 0.3333333 l "distance"
+35 97 0.2500000 l "distance"
+97 35 0.5000000 l "distance"
+36 42 0.1428571 l "distance"
+42 36 0.1250000 l "distance"
+37 38 0.5000000 l "distance"
+38 37 0.3333333 l "distance"
+39 92 0.5000000 l "distance"
+92 39 0.5000000 l "distance"
+42 48 0.1250000 l "distance"
+48 42 0.5000000 l "distance"
+42 101 0.1250000 l "distance"
+101 42 0.5000000 l "distance"
+45 107 0.5000000 l "distance"
+107 45 0.5000000 l "distance"
+49 50 0.5000000 l "distance"
+50 49 0.5000000 l "distance"
+52 53 0.5000000 l "distance"
+53 52 0.5000000 l "distance"
+56 57 0.5000000 l "distance"
+57 56 0.5000000 l "distance"
+58 111 0.5000000 l "distance"
+111 58 0.3333333 l "distance"
+73 78 0.5000000 l "distance"
+78 73 0.5000000 l "distance"
+79 80 0.5000000 l "distance"
+80 79 0.2000000 l "distance"
+80 81 0.2000000 l "distance"
+81 80 0.5000000 l "distance"
+82 86 0.5000000 l "distance"
+86 82 0.5000000 l "distance"
+90 94 0.3333333 l "distance"
+94 90 0.5000000 l "distance"
+99 100 0.2000000 l "distance"
+100 99 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "postganglionic parasympathetic nerve" ellipse
+2 "preganglionic parasympathetic nerve" ellipse
+*Arcs
+1 2 0.1774654 l "distance"
+2 1 0.1774654 l "distance"
+1 2 0.1774654 l "distance"
+2 1 0.1774654 l "distance"
+1 2 0.1774654 l "distance"
+2 1 0.1774654 l "distance"
+*Edges

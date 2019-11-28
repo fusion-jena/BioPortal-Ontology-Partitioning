@@ -1,0 +1,39 @@
+*Vertices 6
+1 "Belgian Blue" ellipse
+2 "Belgian Red" ellipse
+3 "Reggiana" ellipse
+4 "Belgian" ellipse
+5 "Belgian Warmblood" ellipse
+6 "Belgian Fawn" ellipse
+*Arcs
+1 4 0.5242260 l "substring"
+4 1 0.1373016 l "substring"
+2 4 0.5242260 l "substring"
+4 2 0.1373016 l "substring"
+4 5 0.1372956 l "substring"
+5 4 0.5240936 l "substring"
+4 6 0.1372390 l "substring"
+6 4 0.5226744 l "substring"
+3 4 0.5242260 l "distance"
+4 3 0.1373016 l "distance"
+1 4 0.5242260 l "substring"
+4 1 0.1373016 l "substring"
+2 4 0.5242260 l "substring"
+4 2 0.1373016 l "substring"
+4 5 0.1372956 l "substring"
+5 4 0.5240936 l "substring"
+4 6 0.1372390 l "substring"
+6 4 0.5226744 l "substring"
+3 4 0.5242260 l "distance"
+4 3 0.1373016 l "distance"
+1 4 0.5242260 l "substring"
+4 1 0.1373016 l "substring"
+2 4 0.5242260 l "substring"
+4 2 0.1373016 l "substring"
+4 5 0.1372956 l "substring"
+5 4 0.5240936 l "substring"
+4 6 0.1372390 l "substring"
+6 4 0.5226744 l "substring"
+3 4 0.5242260 l "distance"
+4 3 0.1373016 l "distance"
+*Edges

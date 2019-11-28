@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Metabolism" ellipse
+2 "MetabolismByproduct" ellipse
+*Arcs
+2 1 0.3008559 l "definition"
+1 2 0.3699428 l "definition"
+1 2 0.3699428 l "substring"
+2 1 0.3008559 l "substring"
+2 1 0.3008559 l "definition"
+1 2 0.3699428 l "definition"
+1 2 0.3699428 l "substring"
+2 1 0.3008559 l "substring"
+2 1 0.3008559 l "definition"
+1 2 0.3699428 l "definition"
+1 2 0.3699428 l "substring"
+2 1 0.3008559 l "substring"
+2 1 0.3008559 l "definition"
+1 2 0.3699428 l "definition"
+1 2 0.3699428 l "substring"
+2 1 0.3008559 l "substring"
+*Edges

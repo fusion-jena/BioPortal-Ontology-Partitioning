@@ -1,0 +1,34 @@
+*Vertices 11
+1 "pregnancy indicator" ellipse
+2 "provision of antenatal care" ellipse
+3 "length of gestation" ellipse
+4 "pregnancy test result positive" ellipse
+5 "threatened abortion" ellipse
+6 "fetal observations" ellipse
+7 "diagnosis of gestational diabetes" ellipse
+8 "vomiting in pregnancy" ellipse
+9 "maternity booking" ellipse
+10 "issue of pregnancy claim form" ellipse
+11 "complications of later pregnancy" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0588235 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0588235 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0588235 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0588235 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0588235 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0588235 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0588235 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0588235 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0588235 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0588235 l "isa"
+*Edges

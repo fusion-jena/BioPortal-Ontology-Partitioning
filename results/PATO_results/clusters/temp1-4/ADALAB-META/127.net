@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Arthralgia" ellipse
+2 "MusculoskeletalSystemSymptom" ellipse
+3 "Myalgia" ellipse
+*Arcs
+1 2 0.1817222 l "definition"
+2 1 0.2538134 l "definition"
+3 2 0.2690310 l "definition"
+2 3 0.2625656 l "definition"
+1 2 0.1817222 l "definition"
+2 1 0.2538134 l "definition"
+3 2 0.2690310 l "definition"
+2 3 0.2625656 l "definition"
+*Edges

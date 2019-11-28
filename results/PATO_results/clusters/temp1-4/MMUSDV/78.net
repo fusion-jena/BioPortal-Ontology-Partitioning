@@ -1,0 +1,9 @@
+*Vertices 2
+1 "minutes" ellipse
+2 "months" ellipse
+*Arcs
+1 2 0.1759979 l "distance"
+2 1 0.1738376 l "distance"
+1 2 0.1759979 l "distance"
+2 1 0.1738376 l "distance"
+*Edges

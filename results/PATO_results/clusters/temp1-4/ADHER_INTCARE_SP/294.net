@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Marked_mannerisms_of_type_specified" ellipse
+2 "hfman_Marked_mannerisms_of_type_specified"
+*Arcs
+1 2 0.2207685 l "substring"
+2 1 0.1896545 l "substring"
+1 2 0.2207685 l "substring"
+2 1 0.1896545 l "substring"
+1 2 0.2207685 l "substring"
+2 1 0.1896545 l "substring"
+*Edges

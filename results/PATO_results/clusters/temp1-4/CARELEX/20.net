@@ -1,0 +1,48 @@
+*Vertices 9
+1 "Real Mode of Existing" ellipse
+2 "Substance" ellipse
+3 "Living" ellipse
+4 "Accident" ellipse
+5 "Non-living" ellipse
+6 "Animal" ellipse
+7 "Human" ellipse
+8 "Vegetal" ellipse
+9 "Tumor" ellipse
+*Arcs
+2 1 0.3469388 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.1500000 l "isa"
+2 3 0.3061224 l "isa"
+4 1 0.3586498 l "isa"
+1 4 0.5000000 l "isa"
+5 2 0.5151516 l "isa"
+2 5 0.3469388 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1900000 l "isa"
+7 3 0.4848485 l "isa"
+3 7 0.1600000 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.1900000 l "isa"
+3 5 0.1600000 l "substring"
+5 3 0.4848485 l "substring"
+7 9 0.5151516 l "distance"
+9 7 0.3400000 l "distance"
+2 1 0.3469388 l "isa"
+1 2 0.5000000 l "isa"
+3 2 0.1500000 l "isa"
+2 3 0.3061224 l "isa"
+4 1 0.3586498 l "isa"
+1 4 0.5000000 l "isa"
+5 2 0.5151516 l "isa"
+2 5 0.3469388 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.1900000 l "isa"
+7 3 0.4848485 l "isa"
+3 7 0.1600000 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.1900000 l "isa"
+3 5 0.1600000 l "substring"
+5 3 0.4848485 l "substring"
+7 9 0.5151516 l "distance"
+9 7 0.3400000 l "distance"
+*Edges

@@ -1,0 +1,25 @@
+*Vertices 8
+1 "DBchangelog" ellipse
+2 "KOlog" ellipse
+3 "assembly_confidence_notes" ellipse
+4 "experiment_justification" ellipse
+5 "experiment_notes" ellipse
+6 "strain_summary" ellipse
+7 "technician_note" ellipse
+8 "troubleshooting" ellipse
+*Arcs
+1 7 1.0000000 l "isa"
+7 1 0.3333333 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.5000000 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1000000 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.1000000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1000000 l "isa"
+7 5 0.3333333 l "isa"
+5 7 0.1000000 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.3333333 l "isa"
+*Edges

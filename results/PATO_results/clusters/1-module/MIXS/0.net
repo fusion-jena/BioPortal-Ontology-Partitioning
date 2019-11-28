@@ -1,0 +1,10 @@
+*Vertices 7
+1 "Environment" ellipse
+2 "Investigation" ellipse
+3 "NucleicAcidSequenceSource" ellipse
+4 "Sequencing" ellipse
+5 "Material Sample" ellipse
+6 "Event" ellipse
+7 "Occurrence" ellipse
+*Arcs
+*Edges

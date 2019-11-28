@@ -1,0 +1,18 @@
+*Vertices 5
+1 "family" ellipse
+2 "female" ellipse
+3 "history" ellipse
+4 "medical_surgical" ellipse
+5 "social_history" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.2000000 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.2000000 l "isa"
+5 3 1.0000000 l "isa"
+3 5 0.4000000 l "isa"
+3 5 0.4000000 l "substring"
+5 3 1.0000000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.0769231 l "distance"
+*Edges

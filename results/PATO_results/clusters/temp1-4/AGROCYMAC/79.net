@@ -1,0 +1,11 @@
+*Vertices 2
+1 "action" ellipse
+2 "action spectrum" ellipse
+*Arcs
+1 2 0.0282671 l "substring"
+2 1 0.2595209 l "substring"
+1 2 0.0282671 l "substring"
+2 1 0.2595209 l "substring"
+1 2 0.0282671 l "substring"
+2 1 0.2595209 l "substring"
+*Edges

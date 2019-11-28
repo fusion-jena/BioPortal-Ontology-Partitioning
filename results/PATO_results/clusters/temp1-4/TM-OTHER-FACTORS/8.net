@@ -1,0 +1,21 @@
+*Vertices 2
+1 "Time Zone" ellipse
+2 "in time zone"
+*Arcs
+1 2 0.8319670 l "substring"
+2 1 0.8319670 l "substring"
+1 2 0.8319670 l "distance"
+2 1 0.8319670 l "distance"
+1 2 0.8319670 l "substring"
+2 1 0.8319670 l "substring"
+1 2 0.8319670 l "distance"
+2 1 0.8319670 l "distance"
+1 2 0.8319670 l "substring"
+2 1 0.8319670 l "substring"
+1 2 0.8319670 l "distance"
+2 1 0.8319670 l "distance"
+1 2 0.8319670 l "substring"
+2 1 0.8319670 l "substring"
+1 2 0.8319670 l "distance"
+2 1 0.8319670 l "distance"
+*Edges

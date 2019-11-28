@@ -1,0 +1,9 @@
+*Vertices 2
+1 "cleaning agent role" ellipse
+2 "rinse solution role" ellipse
+*Arcs
+2 1 0.1848169 l "isa"
+1 2 0.1574569 l "isa"
+2 1 0.1848169 l "isa"
+1 2 0.1574569 l "isa"
+*Edges

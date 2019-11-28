@@ -1,0 +1,16 @@
+*Vertices 3
+1 "row V A neural plate" ellipse
+2 "row V B neural plate" ellipse
+3 "row V neural plate" ellipse
+*Arcs
+1 3 0.0645161 l "definition"
+3 1 0.0689655 l "definition"
+2 3 0.0645161 l "definition"
+3 2 0.0689655 l "definition"
+1 2 0.0322581 l "distance"
+2 1 0.0322581 l "distance"
+1 3 0.0645161 l "distance"
+3 1 0.0689655 l "distance"
+2 3 0.0645161 l "distance"
+3 2 0.0689655 l "distance"
+*Edges

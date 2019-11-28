@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Aplicación" ellipse
+2 "Cultivos" ellipse
+3 "Dosis" ellipse
+4 "Recomendaciones" ellipse
+5 "Sintomas" ellipse
+6 "string"
+*Arcs
+1 4 0.3333333 l "isa"
+4 1 0.5000000 l "isa"
+3 4 0.1111111 l "isa"
+4 3 0.5000000 l "isa"
+5 2 0.6666667 l "es_sintoma_de"
+2 5 0.2857143 l "es_sintoma_de"
+2 5 0.2857143 l "presenta_sintomas"
+5 2 0.6666667 l "presenta_sintomas"
+3 1 0.1111111 l "se_debe_aplicar"
+1 3 0.3333333 l "se_debe_aplicar"
+2 6 0.2857143 l "clima"
+6 2 0.1818182 l "clima"
+1 6 0.3333333 l "descipción"
+6 1 0.0909091 l "descipción"
+3 6 0.1111111 l "descipción"
+6 3 0.0909091 l "descipción"
+5 6 0.3333333 l "descipción"
+6 5 0.0909091 l "descipción"
+2 6 0.2857143 l "nombre_científico"
+6 2 0.1818182 l "nombre_científico"
+*Edges

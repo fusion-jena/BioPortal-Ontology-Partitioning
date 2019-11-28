@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Blood-BloodProduct" ellipse
+2 "ClinicalAdministration" ellipse
+3 "Documentation" ellipse
+4 "HealthcareAssociatedInfection" ellipse
+5 "IncidentType" ellipse
+6 "Infrastructure-Building-Fixture" ellipse
+7 "Nutrition" ellipse
+8 "Oxigen-GasVapour" ellipse
+9 "Pathology-Laboratory" ellipse
+10 "PressureUlcer" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.0625000 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.0625000 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.0625000 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.0625000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.0625000 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.0625000 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.0625000 l "isa"
+9 5 1.0000000 l "isa"
+5 9 0.0625000 l "isa"
+10 5 1.0000000 l "isa"
+5 10 0.0625000 l "isa"
+*Edges

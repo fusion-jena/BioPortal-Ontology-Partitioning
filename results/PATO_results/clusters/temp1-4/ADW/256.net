@@ -1,0 +1,35 @@
+*Vertices 4
+1 "CDK5" ellipse
+2 "CDK5R1" ellipse
+3 "CDKN1A" ellipse
+4 "CDKN2A" ellipse
+*Arcs
+1 2 0.0564159 l "substring"
+2 1 0.1598065 l "substring"
+1 2 0.0564159 l "distance"
+2 1 0.1598065 l "distance"
+1 3 0.0274850 l "distance"
+3 1 0.1246411 l "distance"
+1 4 0.0273077 l "distance"
+4 1 0.1104460 l "distance"
+2 3 0.0796328 l "distance"
+3 2 0.1274865 l "distance"
+2 4 0.0791305 l "distance"
+4 2 0.1129837 l "distance"
+3 4 0.1294660 l "distance"
+4 3 0.1154662 l "distance"
+1 2 0.0564159 l "substring"
+2 1 0.1598065 l "substring"
+1 2 0.0564159 l "distance"
+2 1 0.1598065 l "distance"
+1 3 0.0274850 l "distance"
+3 1 0.1246411 l "distance"
+1 4 0.0273077 l "distance"
+4 1 0.1104460 l "distance"
+2 3 0.0796328 l "distance"
+3 2 0.1274865 l "distance"
+2 4 0.0791305 l "distance"
+4 2 0.1129837 l "distance"
+3 4 0.1294660 l "distance"
+4 3 0.1154662 l "distance"
+*Edges

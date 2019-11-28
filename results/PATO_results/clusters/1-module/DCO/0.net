@@ -1,0 +1,16 @@
+*Vertices 9
+1 "ICFCategory" ellipse
+2 "Information for experienced person" ellipse
+3 "special information for experienced person" ellipse
+4 "Interaction" ellipse
+5 "Information for sensitive person" ellipse
+6 "Assistenzprodukt" ellipse
+7 "DrugProduct" ellipse
+8 "Medical Device" ellipse
+9 "Service" ellipse
+*Arcs
+1 1 1.0000000 l "affects"
+1 1 1.0000000 l "affects"
+2 3 0.1428571 l "substring"
+3 2 0.1428571 l "substring"
+*Edges

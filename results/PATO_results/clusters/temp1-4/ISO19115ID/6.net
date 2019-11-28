@@ -1,0 +1,13 @@
+*Vertices 2
+1 "transferOptions"
+2 "distributorTransferOptions"
+*Arcs
+1 2 0.4099356 l "substring"
+2 1 0.4006149 l "substring"
+1 2 0.4099356 l "substring"
+2 1 0.4006149 l "substring"
+1 2 0.4099356 l "substring"
+2 1 0.4006149 l "substring"
+1 2 0.4099356 l "substring"
+2 1 0.4006149 l "substring"
+*Edges

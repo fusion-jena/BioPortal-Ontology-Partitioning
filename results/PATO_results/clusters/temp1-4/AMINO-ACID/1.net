@@ -1,0 +1,11 @@
+*Vertices 2
+1 "HXJTR" ellipse
+2 "HYPTH" ellipse
+*Arcs
+1 2 0.0601072 l "distance"
+2 1 0.0447754 l "distance"
+1 2 0.0601072 l "distance"
+2 1 0.0447754 l "distance"
+1 2 0.0601072 l "distance"
+2 1 0.0447754 l "distance"
+*Edges

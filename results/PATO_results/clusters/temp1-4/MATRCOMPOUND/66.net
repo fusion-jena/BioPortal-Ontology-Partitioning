@@ -1,0 +1,42 @@
+*Vertices 9
+1 "response to chemical stimulus" ellipse
+2 "Chemical" ellipse
+3 "ChemicalSubstance" ellipse
+4 "MixedChemicalSubstance" ellipse
+5 "ChemicalCompound" ellipse
+6 "Clathrate" ellipse
+7 "Compound" ellipse
+8 "InorganicCompound" ellipse
+9 "Peroxide" ellipse
+*Arcs
+1 2 1.0000000 l "substring"
+2 1 0.1913667 l "substring"
+2 3 0.1401078 l "substring"
+3 2 0.1411664 l "substring"
+2 4 0.1514986 l "substring"
+4 2 0.3416827 l "substring"
+3 4 0.1492002 l "substring"
+4 3 0.3339756 l "substring"
+6 8 1.0000000 l "isa"
+8 6 0.1666667 l "isa"
+7 2 0.2500000 l "isa"
+2 7 0.1196042 l "isa"
+8 7 0.3333333 l "isa"
+7 8 0.5000000 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.1666667 l "isa"
+1 2 1.0000000 l "substring"
+2 1 0.1913667 l "substring"
+2 3 0.1401078 l "substring"
+3 2 0.1411664 l "substring"
+2 4 0.1514986 l "substring"
+4 2 0.3416827 l "substring"
+2 5 0.1196042 l "substring"
+5 2 0.5000000 l "substring"
+3 4 0.1492002 l "substring"
+4 3 0.3339756 l "substring"
+5 7 0.5000000 l "substring"
+7 5 0.2500000 l "substring"
+7 8 0.5000000 l "substring"
+8 7 0.3333333 l "substring"
+*Edges

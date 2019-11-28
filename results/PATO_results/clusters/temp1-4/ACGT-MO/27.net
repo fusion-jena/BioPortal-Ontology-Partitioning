@@ -1,0 +1,11 @@
+*Vertices 2
+1 "pTis" ellipse
+2 "pTisPaget" ellipse
+*Arcs
+2 1 0.4285714 l "isa"
+1 2 0.0365854 l "isa"
+1 2 0.0365854 l "definition"
+2 1 0.4285714 l "definition"
+1 2 0.0365854 l "substring"
+2 1 0.4285714 l "substring"
+*Edges

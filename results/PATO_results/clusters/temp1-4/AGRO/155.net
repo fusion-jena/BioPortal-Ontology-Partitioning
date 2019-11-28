@@ -1,0 +1,10 @@
+*Vertices 3
+1 "motorized traction" ellipse
+2 "animal traction" ellipse
+3 "produced by"
+*Arcs
+1 3 0.1250000 l "definition"
+3 1 0.5000000 l "definition"
+2 3 0.1250000 l "definition"
+3 2 0.5000000 l "definition"
+*Edges

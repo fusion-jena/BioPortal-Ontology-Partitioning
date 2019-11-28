@@ -1,0 +1,136 @@
+*Vertices 45
+1 "Anal Incontinence" ellipse
+2 "Anastomotic Leak, Biliary" ellipse
+3 "Anastomotic Leak, Esophagus" ellipse
+4 "Anastomotic Leak, Intestinal" ellipse
+5 "Anastomotic Leak, Pancreas" ellipse
+6 "Anastomotic Leak, Pharyngeal" ellipse
+7 "Anastomotic Leak, Rectal" ellipse
+8 "Bile Duct Injury" ellipse
+9 "Bile Reflux Gastritis" ellipse
+10 "Biliary stricture" ellipse
+11 "Bowel Perforation, Necrosis" ellipse
+12 "Cholangitis" ellipse
+13 "Cholecystitis" ellipse
+14 "Clostridium Difficile Colitis" ellipse
+15 "Constipation" ellipse
+16 "Cystic Duct Leak" ellipse
+17 "Delayed gastric emptying" ellipse
+18 "Diarrhea" ellipse
+19 "Fistula, Biliary" ellipse
+20 "Fistula, Esophagus" ellipse
+21 "Fistula, Intestinal" ellipse
+22 "Fistula, Pancreatic" ellipse
+23 "Fistula, Pharyngeal" ellipse
+24 "Fistula, Rectum" ellipse
+25 "Gastric tube necrosis" ellipse
+26 "Gastroesophageal Reflux Disease" ellipse
+27 "Gastrointestinal System" ellipse
+28 "Gastrointestinal Anastomotic Stricture" ellipse
+29 "Gastrointestinal Enterotomy, Intraoperative" ellipse
+30 "Gastrointestinal bleeding" ellipse
+31 "Hemorrhoids, Bleeding, Thrombosis, Prolapse" ellipse
+32 "Hepatic arterial infusion pump dysfunction" ellipse
+33 "Ileus, paralytic" ellipse
+34 "Jejunostomy or gastrostomy tube dysfunction" ellipse
+35 "Large Bowel Obstruction" ellipse
+36 "Liver Dysfunction / Failure" ellipse
+37 "Nausea" ellipse
+38 "Pancreatitis" ellipse
+39 "Parastomal Hernia" ellipse
+40 "Rectocele" ellipse
+41 "Small Bowel Obstruction" ellipse
+42 "Splenic Injury" ellipse
+43 "Vaginal Enterocele" ellipse
+44 "Visceral Arterial Ischemia" ellipse
+45 "Vomiting" ellipse
+*Arcs
+1 27 1.0000000 l "isa"
+27 1 0.0204082 l "isa"
+2 27 1.0000000 l "isa"
+27 2 0.0204082 l "isa"
+3 27 1.0000000 l "isa"
+27 3 0.0204082 l "isa"
+4 27 1.0000000 l "isa"
+27 4 0.0204082 l "isa"
+5 27 1.0000000 l "isa"
+27 5 0.0204082 l "isa"
+6 27 1.0000000 l "isa"
+27 6 0.0204082 l "isa"
+7 27 1.0000000 l "isa"
+27 7 0.0204082 l "isa"
+8 27 1.0000000 l "isa"
+27 8 0.0204082 l "isa"
+9 27 1.0000000 l "isa"
+27 9 0.0204082 l "isa"
+10 27 1.0000000 l "isa"
+27 10 0.0204082 l "isa"
+11 27 1.0000000 l "isa"
+27 11 0.0204082 l "isa"
+12 27 1.0000000 l "isa"
+27 12 0.0204082 l "isa"
+13 27 1.0000000 l "isa"
+27 13 0.0204082 l "isa"
+14 27 1.0000000 l "isa"
+27 14 0.0204082 l "isa"
+15 27 1.0000000 l "isa"
+27 15 0.0204082 l "isa"
+16 27 1.0000000 l "isa"
+27 16 0.0204082 l "isa"
+17 27 1.0000000 l "isa"
+27 17 0.0204082 l "isa"
+18 27 1.0000000 l "isa"
+27 18 0.0204082 l "isa"
+19 27 1.0000000 l "isa"
+27 19 0.0204082 l "isa"
+20 27 1.0000000 l "isa"
+27 20 0.0204082 l "isa"
+21 27 1.0000000 l "isa"
+27 21 0.0204082 l "isa"
+22 27 1.0000000 l "isa"
+27 22 0.0204082 l "isa"
+23 27 1.0000000 l "isa"
+27 23 0.0204082 l "isa"
+24 27 1.0000000 l "isa"
+27 24 0.0204082 l "isa"
+25 27 1.0000000 l "isa"
+27 25 0.0204082 l "isa"
+26 27 1.0000000 l "isa"
+27 26 0.0204082 l "isa"
+28 27 1.0000000 l "isa"
+27 28 0.0204082 l "isa"
+29 27 1.0000000 l "isa"
+27 29 0.0204082 l "isa"
+30 27 1.0000000 l "isa"
+27 30 0.0204082 l "isa"
+31 27 1.0000000 l "isa"
+27 31 0.0204082 l "isa"
+32 27 1.0000000 l "isa"
+27 32 0.0204082 l "isa"
+33 27 1.0000000 l "isa"
+27 33 0.0204082 l "isa"
+34 27 1.0000000 l "isa"
+27 34 0.0204082 l "isa"
+35 27 1.0000000 l "isa"
+27 35 0.0204082 l "isa"
+36 27 1.0000000 l "isa"
+27 36 0.0204082 l "isa"
+37 27 1.0000000 l "isa"
+27 37 0.0204082 l "isa"
+38 27 1.0000000 l "isa"
+27 38 0.0204082 l "isa"
+39 27 1.0000000 l "isa"
+27 39 0.0204082 l "isa"
+40 27 1.0000000 l "isa"
+27 40 0.0204082 l "isa"
+41 27 1.0000000 l "isa"
+27 41 0.0204082 l "isa"
+42 27 1.0000000 l "isa"
+27 42 0.0204082 l "isa"
+43 27 1.0000000 l "isa"
+27 43 0.0204082 l "isa"
+44 27 1.0000000 l "isa"
+27 44 0.0204082 l "isa"
+45 27 1.0000000 l "isa"
+27 45 0.0204082 l "isa"
+*Edges

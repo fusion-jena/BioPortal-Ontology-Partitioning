@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Post synaptic dysfunctioning" ellipse
+2 "Pre synaptic dysfunctioning" ellipse
+3 "synaptic dysfunctioning" ellipse
+*Arcs
+1 3 0.2878206 l "isa"
+3 1 0.3098069 l "isa"
+2 3 0.2878206 l "isa"
+3 2 0.3098069 l "isa"
+1 3 0.2878206 l "substring"
+3 1 0.3098069 l "substring"
+2 3 0.2878206 l "substring"
+3 2 0.3098069 l "substring"
+1 2 0.1255944 l "distance"
+2 1 0.1255944 l "distance"
+1 3 0.2878206 l "isa"
+3 1 0.3098069 l "isa"
+2 3 0.2878206 l "isa"
+3 2 0.3098069 l "isa"
+1 3 0.2878206 l "substring"
+3 1 0.3098069 l "substring"
+2 3 0.2878206 l "substring"
+3 2 0.3098069 l "substring"
+1 2 0.1255944 l "distance"
+2 1 0.1255944 l "distance"
+*Edges

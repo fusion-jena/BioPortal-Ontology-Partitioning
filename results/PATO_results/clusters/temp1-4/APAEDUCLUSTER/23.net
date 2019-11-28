@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Hemophilia" ellipse
+2 "Pedophilia" ellipse
+*Arcs
+1 2 0.3761283 l "distance"
+2 1 0.5302847 l "distance"
+1 2 0.3761283 l "distance"
+2 1 0.5302847 l "distance"
+*Edges

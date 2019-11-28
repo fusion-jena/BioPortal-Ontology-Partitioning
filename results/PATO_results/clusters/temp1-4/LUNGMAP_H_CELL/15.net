@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Boran" ellipse
+2 "Orma Boran" ellipse
+*Arcs
+1 2 0.0506711 l "substring"
+2 1 0.5114832 l "substring"
+1 2 0.0506711 l "substring"
+2 1 0.5114832 l "substring"
+1 2 0.0506711 l "substring"
+2 1 0.5114832 l "substring"
+1 2 0.0506711 l "substring"
+2 1 0.5114832 l "substring"
+*Edges

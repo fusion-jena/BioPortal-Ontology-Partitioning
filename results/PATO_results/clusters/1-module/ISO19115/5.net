@@ -1,0 +1,11 @@
+*Vertices 2
+1 "RS_Identifier" ellipse
+2 "MD_CRS" ellipse
+*Arcs
+2 1 0.2500000 l "datum"
+1 2 0.4285714 l "datum"
+2 1 0.2500000 l "ellipsoid"
+1 2 0.4285714 l "ellipsoid"
+2 1 0.2500000 l "projection"
+1 2 0.4285714 l "projection"
+*Edges

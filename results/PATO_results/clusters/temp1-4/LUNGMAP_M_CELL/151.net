@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Large Black" ellipse
+2 "Large Black-White" ellipse
+*Arcs
+1 2 0.4592332 l "substring"
+2 1 0.4592332 l "substring"
+1 2 0.4592332 l "substring"
+2 1 0.4592332 l "substring"
+1 2 0.4592332 l "substring"
+2 1 0.4592332 l "substring"
+1 2 0.4592332 l "substring"
+2 1 0.4592332 l "substring"
+1 2 0.4592332 l "substring"
+2 1 0.4592332 l "substring"
+*Edges

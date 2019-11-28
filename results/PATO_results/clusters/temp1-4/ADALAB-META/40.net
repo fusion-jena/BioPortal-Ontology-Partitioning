@@ -1,0 +1,22 @@
+*Vertices 3
+1 "PlasterFrame" ellipse
+2 "Radiotherapy" ellipse
+3 "VacuumCushion" ellipse
+*Arcs
+1 2 0.3527696 l "definition"
+2 1 0.0812957 l "definition"
+2 1 0.0812957 l "definition"
+1 2 0.3527696 l "definition"
+2 3 0.0835470 l "definition"
+3 2 0.4224312 l "definition"
+3 2 0.4224312 l "definition"
+2 3 0.0835470 l "definition"
+1 2 0.3527696 l "definition"
+2 1 0.0812957 l "definition"
+2 1 0.0812957 l "definition"
+1 2 0.3527696 l "definition"
+2 3 0.0835470 l "definition"
+3 2 0.4224312 l "definition"
+3 2 0.4224312 l "definition"
+2 3 0.0835470 l "definition"
+*Edges

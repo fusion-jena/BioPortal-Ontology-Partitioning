@@ -1,0 +1,148 @@
+*Vertices 43
+1 "Activities_of_Daily_Living" ellipse
+2 "Adaptive_Behavior" ellipse
+3 "Aftercare" ellipse
+4 "Aging_in_Place" ellipse
+5 "Alcohol_Rehabilitation" ellipse
+6 "Alcoholics_Anonymous" ellipse
+7 "Assistive_Technology" ellipse
+8 "Augmentative_Communication" ellipse
+9 "Cochlear_Implants" ellipse
+10 "Cognitive_Rehabilitation" ellipse
+11 "Criminal_Rehabilitation" ellipse
+12 "Detoxification" ellipse
+13 "Disability_Management" ellipse
+14 "Drug_Rehabilitation" ellipse
+15 "Harm_Reduction" ellipse
+16 "Horticulture_Therapy" ellipse
+17 "Independent_Living_Programs" ellipse
+18 "Mainstreaming" ellipse
+19 "Memory_Training" ellipse
+20 "Methadone_Maintenance" ellipse
+21 "Motivational_Interviewing" ellipse
+22 "Needle_Exchange_Programs" ellipse
+23 "Neuropsychological_Rehabilitation" ellipse
+24 "Neurorehabilitation" ellipse
+25 "Occupational_Therapy" ellipse
+26 "Physical_Therapy" ellipse
+27 "Prostheses" ellipse
+28 "Psychosocial_Rehabilitation" ellipse
+29 "Readiness_to_Change" ellipse
+30 "Rehabilitation_Counseling" ellipse
+31 "Self_Care_Skills" ellipse
+32 "Sheltered_Workshops" ellipse
+33 "Smoking_Cessation" ellipse
+34 "Speech_Therapy" ellipse
+35 "Stages_of_Change" ellipse
+36 "Support_Groups" ellipse
+37 "Therapeutic_Social_Clubs" ellipse
+38 "Twelve_Step_Programs" ellipse
+39 "Vocational_Evaluation" ellipse
+40 "Vocational_Rehabilitation" ellipse
+41 "Wilderness_Experience" ellipse
+42 "Work_Adjustment_Training" ellipse
+43 "Rehabilitation" ellipse
+*Arcs
+1 43 1.0000000 l "isa"
+43 1 0.0172414 l "isa"
+2 43 1.0000000 l "isa"
+43 2 0.0172414 l "isa"
+3 43 1.0000000 l "isa"
+43 3 0.0172414 l "isa"
+4 43 1.0000000 l "isa"
+43 4 0.0172414 l "isa"
+5 43 0.5000000 l "isa"
+43 5 0.0344828 l "isa"
+6 43 1.0000000 l "isa"
+43 6 0.0172414 l "isa"
+7 43 1.0000000 l "isa"
+43 7 0.0172414 l "isa"
+8 43 1.0000000 l "isa"
+43 8 0.0172414 l "isa"
+9 43 1.0000000 l "isa"
+43 9 0.0172414 l "isa"
+10 43 0.5000000 l "isa"
+43 10 0.0344828 l "isa"
+11 43 0.5000000 l "isa"
+43 11 0.0344828 l "isa"
+12 43 1.0000000 l "isa"
+43 12 0.0172414 l "isa"
+13 43 1.0000000 l "isa"
+43 13 0.0172414 l "isa"
+14 43 0.5000000 l "isa"
+43 14 0.0344828 l "isa"
+15 43 1.0000000 l "isa"
+43 15 0.0172414 l "isa"
+16 43 1.0000000 l "isa"
+43 16 0.0172414 l "isa"
+17 43 1.0000000 l "isa"
+43 17 0.0172414 l "isa"
+18 43 1.0000000 l "isa"
+43 18 0.0172414 l "isa"
+19 43 1.0000000 l "isa"
+43 19 0.0172414 l "isa"
+20 43 1.0000000 l "isa"
+43 20 0.0172414 l "isa"
+21 43 1.0000000 l "isa"
+43 21 0.0172414 l "isa"
+22 43 1.0000000 l "isa"
+43 22 0.0172414 l "isa"
+23 43 0.5000000 l "isa"
+43 23 0.0344828 l "isa"
+24 43 0.5000000 l "isa"
+43 24 0.0344828 l "isa"
+25 43 1.0000000 l "isa"
+43 25 0.0172414 l "isa"
+26 43 1.0000000 l "isa"
+43 26 0.0172414 l "isa"
+27 43 1.0000000 l "isa"
+43 27 0.0172414 l "isa"
+28 43 0.5000000 l "isa"
+43 28 0.0344828 l "isa"
+29 43 1.0000000 l "isa"
+43 29 0.0172414 l "isa"
+30 43 0.3333333 l "isa"
+43 30 0.0344828 l "isa"
+31 43 1.0000000 l "isa"
+43 31 0.0172414 l "isa"
+32 43 1.0000000 l "isa"
+43 32 0.0172414 l "isa"
+33 43 1.0000000 l "isa"
+43 33 0.0172414 l "isa"
+34 43 1.0000000 l "isa"
+43 34 0.0172414 l "isa"
+35 43 1.0000000 l "isa"
+43 35 0.0172414 l "isa"
+36 43 1.0000000 l "isa"
+43 36 0.0172414 l "isa"
+37 43 1.0000000 l "isa"
+43 37 0.0172414 l "isa"
+38 43 1.0000000 l "isa"
+43 38 0.0172414 l "isa"
+39 43 1.0000000 l "isa"
+43 39 0.0172414 l "isa"
+40 43 0.5000000 l "isa"
+43 40 0.0344828 l "isa"
+41 43 1.0000000 l "isa"
+43 41 0.0172414 l "isa"
+42 43 1.0000000 l "isa"
+43 42 0.0172414 l "isa"
+5 43 0.5000000 l "substring"
+43 5 0.0344828 l "substring"
+10 43 0.5000000 l "substring"
+43 10 0.0344828 l "substring"
+11 43 0.5000000 l "substring"
+43 11 0.0344828 l "substring"
+14 43 0.5000000 l "substring"
+43 14 0.0344828 l "substring"
+23 43 0.5000000 l "substring"
+43 23 0.0344828 l "substring"
+24 43 0.5000000 l "substring"
+43 24 0.0344828 l "substring"
+28 43 0.5000000 l "substring"
+43 28 0.0344828 l "substring"
+30 43 0.3333333 l "substring"
+43 30 0.0344828 l "substring"
+40 43 0.5000000 l "substring"
+43 40 0.0344828 l "substring"
+*Edges

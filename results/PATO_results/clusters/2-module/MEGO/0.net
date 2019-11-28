@@ -1,0 +1,268 @@
+*Vertices 77
+1 "phage pre adsorption" ellipse
+2 "tyrosine based integrase activity" ellipse
+3 "tyrosine based resolvase activity" ellipse
+4 "tyrosine-based transposase activity" ellipse
+5 "serine based integrase activity" ellipse
+6 "serine based resolvase activity" ellipse
+7 "serine based transposase activity" ellipse
+8 "VirB3 related outer membrane protein" ellipse
+9 "VirB1 related cell wall hydrolase activity" ellipse
+10 "VirB11 typeII/IV secretion NTPase activity" ellipse
+11 "type II secretion T2SO protein activity" ellipse
+12 "type III secretion complex injectisome" ellipse
+13 "phi_0000362" ellipse
+14 "IAS" ellipse
+15 "establishment as a plasmid prophage" ellipse
+16 "attachment site" ellipse
+17 "attB site" ellipse
+18 "attL site" ellipse
+19 "attR site" ellipse
+20 "establishment as a circular plasmid prophage" ellipse
+21 "maintenance of prophage immunity" ellipse
+22 "transposon end" ellipse
+23 "IRLO" ellipse
+24 "IRRO" ellipse
+25 "composite transposon" ellipse
+26 "phage genome circularization" ellipse
+27 "phage genome packaging" ellipse
+28 "phage gene expression" ellipse
+29 "negative post transcriptional regulation of phage gene expression" ellipse
+30 "positive post transcriptional regulation of phage gene expression" ellipse
+31 "establishment as an integrated prophage" ellipse
+32 "prophage induction" ellipse
+33 "phage concatemer" ellipse
+34 "DDE-based recombinase activity" ellipse
+35 "attP site" ellipse
+36 "attI site" ellipse
+37 "attC site" ellipse
+38 "pac site" ellipse
+39 "oriT" ellipse
+40 "oriV" ellipse
+41 "plasmid genome" ellipse
+42 "origin of replication" ellipse
+43 "type IV secretion system pilin maturation" ellipse
+44 "phage adsorption" ellipse
+45 "phage reversible adsorption" ellipse
+46 "phage irreversible adsorption" ellipse
+47 "phage DNA translocation" ellipse
+48 "phage tail fiber minor protein" ellipse
+49 "phage tail fiber major protein" ellipse
+50 "recombination process" ellipse
+51 "shiga toxin subunit A" ellipse
+52 "shiga toxin subunit B" ellipse
+53 "plasmid maintenance" ellipse
+54 "plasmid copy number control" ellipse
+55 "IRLI" ellipse
+56 "IRRI" ellipse
+57 "unitary transposon" ellipse
+58 "bacteriophage" ellipse
+59 "plasmid vegetative DNA replication" ellipse
+60 "plasmid conjugative DNA replication" ellipse
+61 "intercellular transfer by conjugation" ellipse
+62 "type IV secretion system secretin" ellipse
+63 "type III secretion outer membrane ring" ellipse
+64 "type III secretion system secretin" ellipse
+65 "type III secretion inner membrane ring" ellipse
+66 "plasmid partitioning" ellipse
+67 "plasmid dimer resolution" ellipse
+68 "regulation of vegetative plasmid DNA replication" ellipse
+69 "transposable prophage" ellipse
+70 "plasmid entry exclusion" ellipse
+71 "plasmid fertility inhibition" ellipse
+72 "post-segregational killing" ellipse
+73 "phage function unknown" ellipse
+74 "prophage mediated phage exclusion" ellipse
+75 "establishment as a prophage" ellipse
+76 "phage lytic cycle" ellipse
+77 "predicted prophage function unknown" ellipse
+*Arcs
+17 16 0.1428571 l "isa"
+16 17 0.1250000 l "isa"
+35 16 0.1000000 l "isa"
+16 35 0.1250000 l "isa"
+18 16 0.0909091 l "isa"
+16 18 0.1250000 l "isa"
+19 16 0.0909091 l "isa"
+16 19 0.1250000 l "isa"
+36 16 0.1000000 l "isa"
+16 36 0.1250000 l "isa"
+37 16 0.0909091 l "isa"
+16 37 0.1250000 l "isa"
+55 22 0.0666667 l "isa"
+22 55 0.1428571 l "isa"
+23 22 0.0714286 l "isa"
+22 23 0.1428571 l "isa"
+24 22 0.0714286 l "isa"
+22 24 0.1428571 l "isa"
+56 22 0.0714286 l "isa"
+22 56 0.1428571 l "isa"
+39 42 0.0769231 l "isa"
+42 39 0.1666667 l "isa"
+40 42 0.0714286 l "isa"
+42 40 0.1666667 l "isa"
+44 76 0.1666667 l "definition"
+76 44 0.1250000 l "definition"
+45 44 0.2500000 l "definition"
+44 45 0.1666667 l "definition"
+46 44 0.2000000 l "definition"
+44 46 0.1666667 l "definition"
+47 76 0.2500000 l "definition"
+76 47 0.1250000 l "definition"
+28 76 0.0666667 l "definition"
+76 28 0.1250000 l "definition"
+20 15 0.1111111 l "definition"
+15 20 0.1428571 l "definition"
+21 20 0.1666667 l "definition"
+20 21 0.1111111 l "definition"
+21 31 0.1666667 l "definition"
+31 21 0.1250000 l "definition"
+53 20 0.1111111 l "definition"
+20 53 0.1111111 l "definition"
+54 20 0.1666667 l "definition"
+20 54 0.1111111 l "definition"
+54 59 0.1666667 l "definition"
+59 54 0.2500000 l "definition"
+35 33 0.1000000 l "definition"
+33 35 0.2000000 l "definition"
+18 69 0.0909091 l "definition"
+69 18 0.1250000 l "definition"
+19 69 0.0909091 l "definition"
+69 19 0.1250000 l "definition"
+55 25 0.0666667 l "definition"
+25 55 0.1666667 l "definition"
+23 25 0.0714286 l "definition"
+25 23 0.1666667 l "definition"
+24 25 0.0714286 l "definition"
+25 24 0.1666667 l "definition"
+56 25 0.0714286 l "definition"
+25 56 0.1666667 l "definition"
+38 33 0.1428571 l "definition"
+33 38 0.2000000 l "definition"
+38 69 0.1428571 l "definition"
+69 38 0.1250000 l "definition"
+60 61 0.2500000 l "definition"
+61 60 0.1666667 l "definition"
+39 41 0.0769231 l "definition"
+41 39 0.2000000 l "definition"
+64 63 0.2500000 l "definition"
+63 64 0.2000000 l "definition"
+40 33 0.0714286 l "definition"
+33 40 0.2000000 l "definition"
+40 41 0.0714286 l "definition"
+41 40 0.2000000 l "definition"
+42 41 0.1666667 l "definition"
+41 42 0.2000000 l "definition"
+66 53 0.2500000 l "definition"
+53 66 0.1111111 l "definition"
+67 53 0.2000000 l "definition"
+53 67 0.1111111 l "definition"
+68 59 0.2500000 l "definition"
+59 68 0.2500000 l "definition"
+14 69 0.1111111 l "definition"
+69 14 0.1250000 l "definition"
+43 61 0.2000000 l "definition"
+61 43 0.1666667 l "definition"
+70 61 0.2500000 l "definition"
+61 70 0.1666667 l "definition"
+71 61 0.2500000 l "definition"
+61 71 0.1666667 l "definition"
+72 53 0.2500000 l "definition"
+53 72 0.1111111 l "definition"
+73 58 0.2500000 l "definition"
+58 73 0.1111111 l "definition"
+26 20 0.1666667 l "definition"
+20 26 0.1111111 l "definition"
+26 31 0.1666667 l "definition"
+31 26 0.1250000 l "definition"
+75 31 0.2000000 l "definition"
+31 75 0.1250000 l "definition"
+77 58 0.2000000 l "definition"
+58 77 0.1111111 l "definition"
+28 29 0.0666667 l "substring"
+29 28 0.2000000 l "substring"
+28 30 0.0666667 l "substring"
+30 28 0.2000000 l "substring"
+73 77 0.2500000 l "substring"
+77 73 0.2000000 l "substring"
+45 46 0.2500000 l "distance"
+46 45 0.2000000 l "distance"
+48 49 0.2500000 l "distance"
+49 48 0.2500000 l "distance"
+51 52 0.2000000 l "distance"
+52 51 0.2000000 l "distance"
+17 35 0.1428571 l "distance"
+35 17 0.1000000 l "distance"
+17 18 0.1428571 l "distance"
+18 17 0.0909091 l "distance"
+17 19 0.1428571 l "distance"
+19 17 0.0909091 l "distance"
+17 36 0.1428571 l "distance"
+36 17 0.1000000 l "distance"
+17 37 0.1428571 l "distance"
+37 17 0.0909091 l "distance"
+35 18 0.1000000 l "distance"
+18 35 0.0909091 l "distance"
+35 19 0.1000000 l "distance"
+19 35 0.0909091 l "distance"
+35 36 0.1000000 l "distance"
+36 35 0.1000000 l "distance"
+35 37 0.1000000 l "distance"
+37 35 0.0909091 l "distance"
+18 19 0.0909091 l "distance"
+19 18 0.0909091 l "distance"
+18 36 0.0909091 l "distance"
+36 18 0.1000000 l "distance"
+18 37 0.0909091 l "distance"
+37 18 0.0909091 l "distance"
+19 36 0.0909091 l "distance"
+36 19 0.1000000 l "distance"
+19 37 0.0909091 l "distance"
+37 19 0.0909091 l "distance"
+36 37 0.1000000 l "distance"
+37 36 0.0909091 l "distance"
+37 38 0.0909091 l "distance"
+38 37 0.1428571 l "distance"
+55 23 0.0666667 l "distance"
+23 55 0.0714286 l "distance"
+55 24 0.0666667 l "distance"
+24 55 0.0714286 l "distance"
+55 56 0.0666667 l "distance"
+56 55 0.0714286 l "distance"
+55 39 0.0666667 l "distance"
+39 55 0.0769231 l "distance"
+55 40 0.0666667 l "distance"
+40 55 0.0714286 l "distance"
+55 14 0.0666667 l "distance"
+14 55 0.1111111 l "distance"
+23 24 0.0714286 l "distance"
+24 23 0.0714286 l "distance"
+23 56 0.0714286 l "distance"
+56 23 0.0714286 l "distance"
+23 39 0.0714286 l "distance"
+39 23 0.0769231 l "distance"
+23 40 0.0714286 l "distance"
+40 23 0.0714286 l "distance"
+23 14 0.0714286 l "distance"
+14 23 0.1111111 l "distance"
+24 56 0.0714286 l "distance"
+56 24 0.0714286 l "distance"
+24 39 0.0714286 l "distance"
+39 24 0.0769231 l "distance"
+24 40 0.0714286 l "distance"
+40 24 0.0714286 l "distance"
+24 14 0.0714286 l "distance"
+14 24 0.1111111 l "distance"
+56 39 0.0714286 l "distance"
+39 56 0.0769231 l "distance"
+56 40 0.0714286 l "distance"
+40 56 0.0714286 l "distance"
+56 14 0.0714286 l "distance"
+14 56 0.1111111 l "distance"
+39 40 0.0769231 l "distance"
+40 39 0.0714286 l "distance"
+62 64 0.2500000 l "distance"
+64 62 0.2500000 l "distance"
+63 65 0.2000000 l "distance"
+65 63 0.2500000 l "distance"
+*Edges

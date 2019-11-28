@@ -1,0 +1,13 @@
+*Vertices 4
+1 "light duration" ellipse
+2 "altered light dark cycle" ellipse
+3 "constant dark" ellipse
+4 "constant light" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+*Edges

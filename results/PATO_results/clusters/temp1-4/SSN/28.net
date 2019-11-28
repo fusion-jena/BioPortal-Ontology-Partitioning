@@ -1,0 +1,22 @@
+*Vertices 3
+1 "restriction_enzyme_recognition_site" ellipse
+2 "blunt_end_restriction_enzyme_cleavage_site" ellipse
+3 "sticky_end_restriction_enzyme_cleavage_site" ellipse
+*Arcs
+2 1 0.3136195 l "isa"
+1 2 0.2139291 l "isa"
+3 1 0.3136195 l "isa"
+1 3 0.2139291 l "isa"
+2 1 0.3136195 l "isa"
+1 2 0.2139291 l "isa"
+3 1 0.3136195 l "isa"
+1 3 0.2139291 l "isa"
+2 1 0.3136195 l "isa"
+1 2 0.2139291 l "isa"
+3 1 0.3136195 l "isa"
+1 3 0.2139291 l "isa"
+2 1 0.3136195 l "isa"
+1 2 0.2139291 l "isa"
+3 1 0.3136195 l "isa"
+1 3 0.2139291 l "isa"
+*Edges

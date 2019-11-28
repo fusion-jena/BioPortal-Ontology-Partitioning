@@ -1,0 +1,25 @@
+*Vertices 4
+1 "Belgium" ellipse
+2 "Belize" ellipse
+3 "Benin" ellipse
+4 "Reunion" ellipse
+*Arcs
+1 2 0.1838538 l "distance"
+2 1 0.2203238 l "distance"
+2 3 0.2083292 l "distance"
+3 2 0.1115456 l "distance"
+3 4 0.1118029 l "distance"
+4 3 0.2147281 l "distance"
+1 2 0.1838538 l "distance"
+2 1 0.2203238 l "distance"
+2 3 0.2083292 l "distance"
+3 2 0.1115456 l "distance"
+3 4 0.1118029 l "distance"
+4 3 0.2147281 l "distance"
+1 2 0.1838538 l "distance"
+2 1 0.2203238 l "distance"
+2 3 0.2083292 l "distance"
+3 2 0.1115456 l "distance"
+3 4 0.1118029 l "distance"
+4 3 0.2147281 l "distance"
+*Edges

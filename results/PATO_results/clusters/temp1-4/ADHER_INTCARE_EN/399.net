@@ -1,0 +1,29 @@
+*Vertices 2
+1 "Medical procedure AND/OR service" ellipse
+2 "Medical procedure" ellipse
+*Arcs
+2 1 0.4620479 l "isa"
+1 2 0.4198315 l "isa"
+1 2 0.4198315 l "substring"
+2 1 0.4620479 l "substring"
+2 1 0.4620479 l "isa"
+1 2 0.4198315 l "isa"
+1 2 0.4198315 l "substring"
+2 1 0.4620479 l "substring"
+2 1 0.4620479 l "isa"
+1 2 0.4198315 l "isa"
+1 2 0.4198315 l "substring"
+2 1 0.4620479 l "substring"
+2 1 0.4620479 l "isa"
+1 2 0.4198315 l "isa"
+1 2 0.4198315 l "substring"
+2 1 0.4620479 l "substring"
+2 1 0.4620479 l "isa"
+1 2 0.4198315 l "isa"
+1 2 0.4198315 l "substring"
+2 1 0.4620479 l "substring"
+2 1 0.4620479 l "isa"
+1 2 0.4198315 l "isa"
+1 2 0.4198315 l "substring"
+2 1 0.4620479 l "substring"
+*Edges

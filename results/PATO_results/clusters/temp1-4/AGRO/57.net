@@ -1,0 +1,55 @@
+*Vertices 14
+1 "ammonia" ellipse
+2 "enzyme inhibitor" ellipse
+3 "pesticide" ellipse
+4 "application" ellipse
+5 "agrochemical" ellipse
+6 "fertilizer" ellipse
+7 "inhibitor" ellipse
+8 "propellant" ellipse
+9 "EC 3.* (hydrolase) inhibitor" ellipse
+10 "EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor" ellipse
+11 "EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor" ellipse
+12 "EC 3.5.1.4 (amidase) inhibitor" ellipse
+13 "food propellant" ellipse
+14 "refrigerant" ellipse
+*Arcs
+2 7 0.5000000 l "isa"
+7 2 0.2500000 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.0500000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.0500000 l "isa"
+6 5 0.0500000 l "isa"
+5 6 0.5000000 l "isa"
+8 4 0.3333333 l "isa"
+4 8 0.0500000 l "isa"
+9 2 0.3333333 l "isa"
+2 9 0.2500000 l "isa"
+10 9 0.3333333 l "isa"
+9 10 0.3333333 l "isa"
+11 10 0.2000000 l "isa"
+10 11 0.3333333 l "isa"
+12 11 0.3333333 l "isa"
+11 12 0.2000000 l "isa"
+13 8 0.5000000 l "isa"
+8 13 0.6666667 l "isa"
+14 4 0.5000000 l "isa"
+4 14 0.0500000 l "isa"
+1 12 0.0476190 l "definition"
+12 1 0.3333333 l "definition"
+1 14 0.0476190 l "definition"
+14 1 0.5000000 l "definition"
+2 7 0.5000000 l "substring"
+7 2 0.2500000 l "substring"
+7 9 0.1250000 l "substring"
+9 7 0.3333333 l "substring"
+7 10 0.1250000 l "substring"
+10 7 0.3333333 l "substring"
+7 11 0.1250000 l "substring"
+11 7 0.2000000 l "substring"
+7 12 0.1250000 l "substring"
+12 7 0.3333333 l "substring"
+8 13 0.6666667 l "substring"
+13 8 0.5000000 l "substring"
+*Edges

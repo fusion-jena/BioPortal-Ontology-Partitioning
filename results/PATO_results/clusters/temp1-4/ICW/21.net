@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Parasympathetic Nervous System" ellipse
+2 "Sympathetic Nervous System" ellipse
+*Arcs
+1 2 0.2603052 l "substring"
+2 1 0.2603052 l "substring"
+1 2 0.2603052 l "substring"
+2 1 0.2603052 l "substring"
+*Edges

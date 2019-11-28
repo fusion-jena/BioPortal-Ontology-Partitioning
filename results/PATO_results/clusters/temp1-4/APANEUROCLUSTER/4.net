@@ -1,0 +1,37 @@
+*Vertices 4
+1 "moderate persistent asthma with status asthmaticus" ellipse
+2 "moderate persistent asthma with (acute) exacerbation" ellipse
+3 "moderate persistent asthma uncomplicated" ellipse
+4 "moderate persistent asthma" ellipse
+*Arcs
+1 4 0.1292033 l "substring"
+4 1 0.1054488 l "substring"
+2 4 0.1157540 l "substring"
+4 2 0.1033498 l "substring"
+3 4 0.1292033 l "substring"
+4 3 0.1054488 l "substring"
+1 4 0.1292033 l "substring"
+4 1 0.1054488 l "substring"
+2 4 0.1157540 l "substring"
+4 2 0.1033498 l "substring"
+3 4 0.1292033 l "substring"
+4 3 0.1054488 l "substring"
+1 4 0.1292033 l "substring"
+4 1 0.1054488 l "substring"
+2 4 0.1157540 l "substring"
+4 2 0.1033498 l "substring"
+3 4 0.1292033 l "substring"
+4 3 0.1054488 l "substring"
+1 4 0.1292033 l "substring"
+4 1 0.1054488 l "substring"
+2 4 0.1157540 l "substring"
+4 2 0.1033498 l "substring"
+3 4 0.1292033 l "substring"
+4 3 0.1054488 l "substring"
+1 4 0.1292033 l "substring"
+4 1 0.1054488 l "substring"
+2 4 0.1157540 l "substring"
+4 2 0.1033498 l "substring"
+3 4 0.1292033 l "substring"
+4 3 0.1054488 l "substring"
+*Edges

@@ -1,0 +1,21 @@
+*Vertices 6
+1 "ClimaticRegion" ellipse
+2 "Equatorial" ellipse
+3 "SemiArid" ellipse
+4 "SemiHumid" ellipse
+5 "Temperate" ellipse
+6 "Tropical" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1250000 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1250000 l "isa"
+4 1 0.3333333 l "isa"
+1 4 0.1250000 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1250000 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1250000 l "isa"
+3 4 0.5000000 l "distance"
+4 3 0.3333333 l "distance"
+*Edges

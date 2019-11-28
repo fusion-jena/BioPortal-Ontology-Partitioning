@@ -1,0 +1,9 @@
+*Vertices 2
+1 "relative retention time (quality)" ellipse
+2 "retention time" ellipse
+*Arcs
+1 2 0.1403680 l "substring"
+2 1 0.1824638 l "substring"
+1 2 0.1403680 l "substring"
+2 1 0.1824638 l "substring"
+*Edges

@@ -1,0 +1,51 @@
+*Vertices 16
+1 "Approval" ellipse
+2 "IRB-IEC Approval" ellipse
+3 "IRB-IEC Approved Advertisement for Subject Recruitment" ellipse
+4 "IRB-IEC Approved Informed Consent" ellipse
+5 "IRB-IEC Approved Other Subject Information" ellipse
+6 "IRB-IEC Approved Subject Diary" ellipse
+7 "IRB-IEC Approved Subject Information" ellipse
+8 "IRB-IEC Approved Subject Participation" ellipse
+9 "IRB-IEC Approved Subject Questionnaire" ellipse
+10 "IRB-IEC Composition" ellipse
+11 "IRB-IEC Documentation of Non-Voting Status" ellipse
+12 "IRB-IEC Documents" ellipse
+13 "IRB-IEC GCP Compliance Statement" ellipse
+14 "IRB-IEC Submission" ellipse
+15 "Other Approvals" ellipse
+16 "Other Submissions" ellipse
+*Arcs
+2 12 0.5000000 l "isa"
+12 2 0.0666667 l "isa"
+3 12 1.0000000 l "isa"
+12 3 0.0666667 l "isa"
+4 12 1.0000000 l "isa"
+12 4 0.0666667 l "isa"
+5 12 1.0000000 l "isa"
+12 5 0.0666667 l "isa"
+6 12 1.0000000 l "isa"
+12 6 0.0666667 l "isa"
+7 12 1.0000000 l "isa"
+12 7 0.0666667 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.0666667 l "isa"
+9 12 1.0000000 l "isa"
+12 9 0.0666667 l "isa"
+10 12 1.0000000 l "isa"
+12 10 0.0666667 l "isa"
+11 12 1.0000000 l "isa"
+12 11 0.0666667 l "isa"
+13 12 1.0000000 l "isa"
+12 13 0.0666667 l "isa"
+14 12 1.0000000 l "isa"
+12 14 0.0666667 l "isa"
+15 12 0.5000000 l "isa"
+12 15 0.0666667 l "isa"
+16 12 1.0000000 l "isa"
+12 16 0.0666667 l "isa"
+1 2 0.1666667 l "substring"
+2 1 0.5000000 l "substring"
+1 15 0.1666667 l "substring"
+15 1 0.5000000 l "substring"
+*Edges

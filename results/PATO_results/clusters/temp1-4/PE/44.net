@@ -1,0 +1,15 @@
+*Vertices 2
+1 "city"
+2 "Title" ellipse
+*Arcs
+1 2 0.1470644 l "distance"
+2 1 0.1899313 l "distance"
+1 2 0.1470644 l "distance"
+2 1 0.1899313 l "distance"
+1 2 0.1470644 l "distance"
+2 1 0.1899313 l "distance"
+1 2 0.1470644 l "distance"
+2 1 0.1899313 l "distance"
+1 2 0.1470644 l "distance"
+2 1 0.1899313 l "distance"
+*Edges

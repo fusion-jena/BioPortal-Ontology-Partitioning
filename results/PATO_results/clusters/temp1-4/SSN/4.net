@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Documentation deviation" ellipse
+2 "Other artifact deviation" ellipse
+*Arcs
+2 1 0.7045454 l "isa"
+1 2 0.3584091 l "isa"
+2 1 0.7045454 l "isa"
+1 2 0.3584091 l "isa"
+2 1 0.7045454 l "isa"
+1 2 0.3584091 l "isa"
+*Edges

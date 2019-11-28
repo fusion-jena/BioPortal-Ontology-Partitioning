@@ -1,0 +1,26 @@
+*Vertices 3
+1 "blood" ellipse
+2 "blood plasma" ellipse
+3 "venous blood" ellipse
+*Arcs
+3 1 1.0000000 l "isa"
+1 3 0.2146865 l "isa"
+1 2 0.2723936 l "definition"
+2 1 0.4756416 l "definition"
+2 1 0.4756416 l "definition"
+1 2 0.2723936 l "definition"
+1 2 0.2723936 l "substring"
+2 1 0.4756416 l "substring"
+1 3 0.2146865 l "substring"
+3 1 1.0000000 l "substring"
+3 1 1.0000000 l "isa"
+1 3 0.2146865 l "isa"
+1 2 0.2723936 l "definition"
+2 1 0.4756416 l "definition"
+2 1 0.4756416 l "definition"
+1 2 0.2723936 l "definition"
+1 2 0.2723936 l "substring"
+2 1 0.4756416 l "substring"
+1 3 0.2146865 l "substring"
+3 1 1.0000000 l "substring"
+*Edges

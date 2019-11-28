@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Follicular lymphoma, grade 2" ellipse
+2 "Follicular lymphoma, grade 1" ellipse
+3 "Follicular lymphoma, grade 3" ellipse
+*Arcs
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+1 3 0.5000000 l "distance"
+3 1 0.5000000 l "distance"
+2 3 0.5000000 l "distance"
+3 2 0.5000000 l "distance"
+*Edges

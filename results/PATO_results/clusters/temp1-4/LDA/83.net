@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Greek Shorthorn" ellipse
+2 "Milking Shorthorn" ellipse
+3 "Shorthorn" ellipse
+*Arcs
+1 3 0.5308932 l "substring"
+3 1 0.3540081 l "substring"
+2 3 0.5308932 l "substring"
+3 2 0.3540081 l "substring"
+1 3 0.5308932 l "substring"
+3 1 0.3540081 l "substring"
+2 3 0.5308932 l "substring"
+3 2 0.3540081 l "substring"
+*Edges

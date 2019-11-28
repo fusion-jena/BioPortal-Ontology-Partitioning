@@ -1,0 +1,35 @@
+*Vertices 4
+1 "distance" ellipse
+2 "plot spacing" ellipse
+3 "row spacing" ellipse
+4 "distance" ellipse
+*Arcs
+2 4 0.2717178 l "isa"
+4 2 0.1734469 l "isa"
+3 4 0.2392720 l "isa"
+4 3 0.1714533 l "isa"
+2 4 0.2717178 l "definition"
+4 2 0.1734469 l "definition"
+3 4 0.2392720 l "definition"
+4 3 0.1714533 l "definition"
+1 4 0.4031921 l "substring"
+4 1 0.1812132 l "substring"
+1 4 0.4031921 l "distance"
+4 1 0.1812132 l "distance"
+2 3 0.1257085 l "distance"
+3 2 0.1119849 l "distance"
+2 4 0.2717178 l "isa"
+4 2 0.1734469 l "isa"
+3 4 0.2392720 l "isa"
+4 3 0.1714533 l "isa"
+2 4 0.2717178 l "definition"
+4 2 0.1734469 l "definition"
+3 4 0.2392720 l "definition"
+4 3 0.1714533 l "definition"
+1 4 0.4031921 l "substring"
+4 1 0.1812132 l "substring"
+1 4 0.4031921 l "distance"
+4 1 0.1812132 l "distance"
+2 3 0.1257085 l "distance"
+3 2 0.1119849 l "distance"
+*Edges

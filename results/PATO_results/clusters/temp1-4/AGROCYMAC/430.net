@@ -1,0 +1,13 @@
+*Vertices 2
+1 "transplanting implement" ellipse
+2 "plant transplanting process" ellipse
+*Arcs
+1 2 0.3165247 l "definition"
+2 1 0.2513252 l "definition"
+2 1 0.2513252 l "definition"
+1 2 0.3165247 l "definition"
+1 2 0.3165247 l "definition"
+2 1 0.2513252 l "definition"
+2 1 0.2513252 l "definition"
+1 2 0.3165247 l "definition"
+*Edges

@@ -1,0 +1,40 @@
+*Vertices 5
+1 "fiat_process_part" ellipse
+2 "process_aggregate" ellipse
+3 "process_boundary" ellipse
+4 "processual_context" ellipse
+5 "processual_entity" ellipse
+*Arcs
+1 5 0.7003484 l "isa"
+5 1 0.1383940 l "isa"
+2 5 0.7003484 l "isa"
+5 2 0.1383940 l "isa"
+3 5 0.7003484 l "isa"
+5 3 0.1383940 l "isa"
+4 5 0.7003484 l "isa"
+5 4 0.1383940 l "isa"
+5 2 0.1383940 l "definition"
+2 5 0.7003484 l "definition"
+5 4 0.1383940 l "definition"
+4 5 0.7003484 l "definition"
+5 1 0.1383940 l "definition"
+1 5 0.7003484 l "definition"
+5 3 0.1383940 l "definition"
+3 5 0.7003484 l "definition"
+1 5 0.7003484 l "isa"
+5 1 0.1383940 l "isa"
+2 5 0.7003484 l "isa"
+5 2 0.1383940 l "isa"
+3 5 0.7003484 l "isa"
+5 3 0.1383940 l "isa"
+4 5 0.7003484 l "isa"
+5 4 0.1383940 l "isa"
+5 2 0.1383940 l "definition"
+2 5 0.7003484 l "definition"
+5 4 0.1383940 l "definition"
+4 5 0.7003484 l "definition"
+5 1 0.1383940 l "definition"
+1 5 0.7003484 l "definition"
+5 3 0.1383940 l "definition"
+3 5 0.7003484 l "definition"
+*Edges

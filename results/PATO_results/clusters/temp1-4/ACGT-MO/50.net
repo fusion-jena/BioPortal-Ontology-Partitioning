@@ -1,0 +1,10 @@
+*Vertices 3
+1 "NonInfectiousDisease" ellipse
+2 "Tabagism" ellipse
+3 "TabagismProcess" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.0526316 l "isa"
+2 3 0.5000000 l "substring"
+3 2 0.2500000 l "substring"
+*Edges

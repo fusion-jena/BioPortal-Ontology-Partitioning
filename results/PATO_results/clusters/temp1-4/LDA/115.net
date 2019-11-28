@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Meijiang" ellipse
+2 "Neijiang" ellipse
+*Arcs
+1 2 0.2675629 l "distance"
+2 1 0.3488609 l "distance"
+1 2 0.2675629 l "distance"
+2 1 0.3488609 l "distance"
+*Edges

@@ -1,0 +1,176 @@
+*Vertices 43
+1 "Campylobacter" ellipse
+2 "Enterobacteriaceae" ellipse
+3 "Escherichia coli" ellipse
+4 "Salmonella" ellipse
+5 "Microbiological tests" ellipse
+6 "Microbiological standard tests" ellipse
+7 "AFNOR NF U47 100 (2007)" ellipse
+8 "AFNOR NF U47 101 (2007)" ellipse
+9 "ISO 16654:2001" ellipse
+10 "ISO 20776-1:2006" ellipse
+11 "ISO 6579:2002" ellipse
+12 "ISO 6579:2002/Amd 1:2007" ellipse
+13 "NMKL 71, 1999, 5th Ed. Salmonella" ellipse
+14 "ISO 10272-1:2006  Campylobacter" ellipse
+15 "ISO/TS 10272-2:2006  Campylobacter" ellipse
+16 "ISO/TS 10272-3:2010  Campylobacter" ellipse
+17 "ISO/TS 10272-3:2010/Cor 1:2011  Campylobacter" ellipse
+18 "ISO 6579:2002 Salmonella" ellipse
+19 "ISO 6579:2002/Amd 1:2007 (Annex D of ISO 6579) Salmonella" ellipse
+20 "ISO 11290-1:1996/Amd 1:2004  Listeria" ellipse
+21 "ISO 11290-2:1998/Amd 1:2004  Listeria" ellipse
+22 "EN ISO 6888-1:1999/Amdt 1:2003 Coagulase-positives staphylococci" ellipse
+23 "EN ISO 6888-2:1999/Amdt 1:2003 Coagulase-positives staphylococci" ellipse
+24 "ISO/TS 13136:2012 (including the EU-RL adaptation for O104:H4)" ellipse
+25 "ISO 10273:2003 Yersinia" ellipse
+26 "EN/ISO 7932 Bacillus cereus" ellipse
+27 "ISO/TS 22964:2006 (IDF/RM 210: 2006) Cronobacter spp. (Enterobacter sakazakii)" ellipse
+28 "Combination disk method" ellipse
+29 "Combination strip test/Epsilometer test" ellipse
+30 "NMKL 119, 2007, 3rd Ed. Termotolerante Campylobacter" ellipse
+31 "NMKL 187, 2007 Salmonella" ellipse
+32 "ISO 6579-1:2017 Salmonella" ellipse
+33 "ISO 11290-1:2017 Listeria" ellipse
+34 "ISO 11290-2:2017 Listeria" ellipse
+35 "ISO 19020:2017 Staphylococcal enterotoxins" ellipse
+36 "ISO 22964:2017 Cronobacter" ellipse
+37 "ISO 10272-2:2017 Campylobacter" ellipse
+38 "ISO 10272-1:2017 Campylobacter" ellipse
+39 "ISO 10273:2017 Yersinia enterocolitica" ellipse
+40 "NMKL 136, 5th ed. 2010, Listeria monocytogenes" ellipse
+41 "ISO 16654:2001 or NMKL 164:2005 or DIN 10167" ellipse
+42 "NMKL 164, 2005, 2nd Ed. Escherichia coli O157" ellipse
+43 "ISO 16654:2001  E. coli" ellipse
+*Arcs
+3 2 0.5000000 l "isa"
+2 3 0.1666667 l "isa"
+4 2 0.1666667 l "isa"
+2 4 0.1666667 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.0263158 l "isa"
+7 5 0.5000000 l "isa"
+5 7 0.0263158 l "isa"
+8 5 0.5000000 l "isa"
+5 8 0.0263158 l "isa"
+9 5 0.3333333 l "isa"
+5 9 0.0263158 l "isa"
+10 5 1.0000000 l "isa"
+5 10 0.0263158 l "isa"
+11 5 0.2500000 l "isa"
+5 11 0.0263158 l "isa"
+12 5 0.3333333 l "isa"
+5 12 0.0263158 l "isa"
+13 5 0.5000000 l "isa"
+5 13 0.0263158 l "isa"
+14 5 0.3333333 l "isa"
+5 14 0.0263158 l "isa"
+15 5 0.3333333 l "isa"
+5 15 0.0263158 l "isa"
+16 5 0.3333333 l "isa"
+5 16 0.0263158 l "isa"
+17 5 0.5000000 l "isa"
+5 17 0.0263158 l "isa"
+18 5 0.3333333 l "isa"
+5 18 0.0263158 l "isa"
+19 5 0.2500000 l "isa"
+5 19 0.0263158 l "isa"
+20 5 0.5000000 l "isa"
+5 20 0.0263158 l "isa"
+21 5 0.5000000 l "isa"
+5 21 0.0263158 l "isa"
+22 5 0.5000000 l "isa"
+5 22 0.0263158 l "isa"
+23 5 0.5000000 l "isa"
+5 23 0.0263158 l "isa"
+24 5 1.0000000 l "isa"
+5 24 0.0263158 l "isa"
+25 5 1.0000000 l "isa"
+5 25 0.0263158 l "isa"
+26 5 1.0000000 l "isa"
+5 26 0.0263158 l "isa"
+27 5 1.0000000 l "isa"
+5 27 0.0263158 l "isa"
+28 5 1.0000000 l "isa"
+5 28 0.0263158 l "isa"
+29 5 1.0000000 l "isa"
+5 29 0.0263158 l "isa"
+30 5 0.5000000 l "isa"
+5 30 0.0263158 l "isa"
+31 5 0.5000000 l "isa"
+5 31 0.0263158 l "isa"
+32 5 0.5000000 l "isa"
+5 32 0.0263158 l "isa"
+33 5 0.5000000 l "isa"
+5 33 0.0263158 l "isa"
+34 5 0.5000000 l "isa"
+5 34 0.0263158 l "isa"
+35 5 1.0000000 l "isa"
+5 35 0.0263158 l "isa"
+36 5 1.0000000 l "isa"
+5 36 0.0263158 l "isa"
+37 5 0.3333333 l "isa"
+5 37 0.0263158 l "isa"
+38 5 0.2500000 l "isa"
+5 38 0.0263158 l "isa"
+39 5 1.0000000 l "isa"
+5 39 0.0263158 l "isa"
+40 5 1.0000000 l "isa"
+5 40 0.0263158 l "isa"
+42 41 0.5000000 l "isa"
+41 42 0.2500000 l "isa"
+43 41 0.5000000 l "isa"
+41 43 0.2500000 l "isa"
+1 14 0.1250000 l "substring"
+14 1 0.3333333 l "substring"
+1 15 0.1250000 l "substring"
+15 1 0.3333333 l "substring"
+1 16 0.1250000 l "substring"
+16 1 0.3333333 l "substring"
+1 17 0.1250000 l "substring"
+17 1 0.5000000 l "substring"
+1 30 0.1250000 l "substring"
+30 1 0.5000000 l "substring"
+1 37 0.1250000 l "substring"
+37 1 0.3333333 l "substring"
+1 38 0.1250000 l "substring"
+38 1 0.2500000 l "substring"
+3 42 0.5000000 l "substring"
+42 3 0.5000000 l "substring"
+4 13 0.1666667 l "substring"
+13 4 0.5000000 l "substring"
+4 18 0.1666667 l "substring"
+18 4 0.3333333 l "substring"
+4 19 0.1666667 l "substring"
+19 4 0.2500000 l "substring"
+4 31 0.1666667 l "substring"
+31 4 0.5000000 l "substring"
+4 32 0.1666667 l "substring"
+32 4 0.5000000 l "substring"
+9 41 0.3333333 l "substring"
+41 9 0.2500000 l "substring"
+9 43 0.3333333 l "substring"
+43 9 0.5000000 l "substring"
+11 12 0.2500000 l "substring"
+12 11 0.3333333 l "substring"
+11 18 0.2500000 l "substring"
+18 11 0.3333333 l "substring"
+11 19 0.2500000 l "substring"
+19 11 0.2500000 l "substring"
+12 19 0.3333333 l "substring"
+19 12 0.2500000 l "substring"
+7 8 0.5000000 l "distance"
+8 7 0.5000000 l "distance"
+14 38 0.3333333 l "distance"
+38 14 0.2500000 l "distance"
+15 16 0.3333333 l "distance"
+16 15 0.3333333 l "distance"
+20 21 0.5000000 l "distance"
+21 20 0.5000000 l "distance"
+22 23 0.5000000 l "distance"
+23 22 0.5000000 l "distance"
+33 34 0.5000000 l "distance"
+34 33 0.5000000 l "distance"
+37 38 0.3333333 l "distance"
+38 37 0.2500000 l "distance"
+*Edges

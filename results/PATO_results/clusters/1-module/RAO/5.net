@@ -1,0 +1,12 @@
+*Vertices 3
+1 "antirheumatic drug" ellipse
+2 "Penicillamine" ellipse
+3 "Antirheumatic Drugs, Disease-Modifying" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0476190 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0952381 l "isa"
+1 3 0.0952381 l "substring"
+3 1 1.0000000 l "substring"
+*Edges

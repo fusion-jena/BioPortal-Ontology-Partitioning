@@ -1,0 +1,18 @@
+*Vertices 3
+1 "augmentation" ellipse
+2 "augmentation" ellipse
+3 "augmentation" ellipse
+*Arcs
+1 2 0.3333333 l "substring"
+2 1 0.2000000 l "substring"
+1 3 0.3333333 l "substring"
+3 1 0.2000000 l "substring"
+2 3 0.2000000 l "substring"
+3 2 0.2000000 l "substring"
+1 2 0.3333333 l "distance"
+2 1 0.2000000 l "distance"
+1 3 0.3333333 l "distance"
+3 1 0.2000000 l "distance"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+*Edges

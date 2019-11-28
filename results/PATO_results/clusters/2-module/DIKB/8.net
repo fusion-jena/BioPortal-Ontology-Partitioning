@@ -1,0 +1,13 @@
+*Vertices 2
+1 "PublicationXref" ellipse
+2 "string"
+*Arcs
+1 2 0.5000000 l "author"
+2 1 0.2500000 l "author"
+1 2 0.5000000 l "source"
+2 1 0.2500000 l "source"
+1 2 0.5000000 l "title"
+2 1 0.2500000 l "title"
+1 2 0.5000000 l "url"
+2 1 0.2500000 l "url"
+*Edges

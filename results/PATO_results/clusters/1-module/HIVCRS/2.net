@@ -1,0 +1,7 @@
+*Vertices 2
+1 "OWLClass_40d7f865_309a_4751_a95d_e432bf11a44b" ellipse
+2 "RelationNaturedEntity1From-p55" ellipse
+*Arcs
+2 1 0.2500000 l "definition"
+1 2 1.0000000 l "definition"
+*Edges

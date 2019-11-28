@@ -1,0 +1,17 @@
+*Vertices 2
+1 "ICW-1:01 Wellness" ellipse
+2 "ICW-1:01.09 Wellness - NOS" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2270911 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2270911 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2270911 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2270911 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2270911 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2270911 l "isa"
+*Edges

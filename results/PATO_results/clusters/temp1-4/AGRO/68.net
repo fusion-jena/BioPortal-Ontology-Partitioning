@@ -1,0 +1,13 @@
+*Vertices 2
+1 "specified impurity role" ellipse
+2 "unspecified impurity role" ellipse
+*Arcs
+1 2 0.2748546 l "substring"
+2 1 0.2464692 l "substring"
+1 2 0.2748546 l "distance"
+2 1 0.2464692 l "distance"
+1 2 0.2748546 l "substring"
+2 1 0.2464692 l "substring"
+1 2 0.2748546 l "distance"
+2 1 0.2464692 l "distance"
+*Edges

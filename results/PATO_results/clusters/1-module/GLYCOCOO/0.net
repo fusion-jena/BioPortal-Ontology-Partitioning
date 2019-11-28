@@ -1,0 +1,30 @@
+*Vertices 9
+1 "unit of measurement" ellipse
+2 "ratio" ellipse
+3 "Referenced Protein" ellipse
+4 "Glycosylated Amino Acid" ellipse
+5 "purity percentage" ellipse
+6 "nil"
+7 "Class"
+8 "relative abundance percentage"
+9 "has glycosylated amino acid"
+*Arcs
+8 6 0.2000000 l "definition"
+6 8 0.1111111 l "definition"
+8 7 0.2000000 l "definition"
+7 8 0.1428571 l "definition"
+9 6 0.1666667 l "definition"
+6 9 0.1111111 l "definition"
+9 3 0.1666667 l "definition"
+3 9 0.1250000 l "definition"
+9 7 0.1666667 l "definition"
+7 9 0.1428571 l "definition"
+5 6 0.2500000 l "definition"
+6 5 0.1111111 l "definition"
+5 5 0.5000000 l "definition"
+5 5 0.5000000 l "definition"
+5 7 0.2500000 l "definition"
+7 5 0.1428571 l "definition"
+4 9 0.2500000 l "substring"
+9 4 0.1666667 l "substring"
+*Edges

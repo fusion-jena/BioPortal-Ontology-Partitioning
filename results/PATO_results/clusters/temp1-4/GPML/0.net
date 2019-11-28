@@ -1,0 +1,73 @@
+*Vertices 22
+1 "undivided" ellipse
+2 "CreativeWork" ellipse
+3 "disease management" ellipse
+4 "formal rule" ellipse
+5 "unit of measurement" ellipse
+6 "Attribute" ellipse
+7 "Biopax" ellipse
+8 "InfoBox" ellipse
+9 "Interaction" ellipse
+10 "Pathway" ellipse
+11 "Spatial Thing" ellipse
+12 "Legend" ellipse
+13 "Referenced Protein" ellipse
+14 "Shape" ellipse
+15 "purity percentage" ellipse
+16 "has_part"
+17 "Comment" ellipse
+18 "part_of"
+19 "part of"
+20 "Event" ellipse
+21 "Event"
+22 "nil"
+*Arcs
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+19 22 0.1948318 l "definition"
+22 19 0.0457803 l "definition"
+21 20 0.1592264 l "substring"
+20 21 0.1759118 l "substring"
+18 19 0.0813773 l "distance"
+19 18 0.2000606 l "distance"
+21 20 0.1592264 l "distance"
+20 21 0.1759118 l "distance"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+19 22 0.1948318 l "definition"
+22 19 0.0457803 l "definition"
+15 22 0.1814851 l "definition"
+22 15 0.0412521 l "definition"
+15 15 0.4538907 l "definition"
+15 15 0.4538907 l "definition"
+21 20 0.1592264 l "substring"
+20 21 0.1759118 l "substring"
+18 19 0.0813773 l "distance"
+19 18 0.2000606 l "distance"
+21 20 0.1592264 l "distance"
+20 21 0.1759118 l "distance"
+11 11 0.7672918 l "based near"
+11 11 0.7672918 l "based near"
+19 22 0.1948318 l "definition"
+22 19 0.0457803 l "definition"
+15 22 0.1814851 l "definition"
+22 15 0.0412521 l "definition"
+15 15 0.4538907 l "definition"
+15 15 0.4538907 l "definition"
+21 20 0.1592264 l "substring"
+20 21 0.1759118 l "substring"
+18 19 0.0813773 l "distance"
+19 18 0.2000606 l "distance"
+21 20 0.1592264 l "distance"
+20 21 0.1759118 l "distance"
+21 12 0.0584823 l "distance"
+12 21 0.1428571 l "distance"
+20 12 0.0646107 l "distance"
+12 20 0.1428571 l "distance"
+*Edges

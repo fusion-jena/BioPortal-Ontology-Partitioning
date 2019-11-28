@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Management" ellipse
+2 "Resource-OrganizationalManagement" ellipse
+*Arcs
+1 2 0.3884563 l "substring"
+2 1 0.3113441 l "substring"
+1 2 0.3884563 l "substring"
+2 1 0.3113441 l "substring"
+1 2 0.3884563 l "substring"
+2 1 0.3113441 l "substring"
+1 2 0.3884563 l "substring"
+2 1 0.3113441 l "substring"
+*Edges

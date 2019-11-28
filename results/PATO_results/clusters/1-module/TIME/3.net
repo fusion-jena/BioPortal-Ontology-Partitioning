@@ -1,0 +1,19 @@
+*Vertices 2
+1 "Generalized duration description" ellipse
+2 "decimal"
+*Arcs
+1 2 0.3333333 l "days duration"
+2 1 0.6363636 l "days duration"
+1 2 0.3333333 l "hours duration"
+2 1 0.6363636 l "hours duration"
+1 2 0.3333333 l "minutes"
+2 1 0.6363636 l "minutes"
+1 2 0.3333333 l "months duration"
+2 1 0.6363636 l "months duration"
+1 2 0.3333333 l "seconds duration"
+2 1 0.6363636 l "seconds duration"
+1 2 0.3333333 l "weeks duration"
+2 1 0.6363636 l "weeks duration"
+1 2 0.3333333 l "years duration"
+2 1 0.6363636 l "years duration"
+*Edges

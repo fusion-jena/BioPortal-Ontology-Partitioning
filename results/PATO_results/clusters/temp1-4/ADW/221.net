@@ -1,0 +1,9 @@
+*Vertices 2
+1 "meclofenamic acid" ellipse
+2 "mefenamic acid" ellipse
+*Arcs
+1 2 0.1810245 l "distance"
+2 1 0.1810245 l "distance"
+1 2 0.1810245 l "distance"
+2 1 0.1810245 l "distance"
+*Edges

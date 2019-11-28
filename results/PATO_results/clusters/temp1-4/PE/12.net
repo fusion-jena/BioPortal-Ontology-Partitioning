@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Funding" ellipse
+2 "Supplementary material" ellipse
+3 "Other information" ellipse
+*Arcs
+1 3 0.5946646 l "isa"
+3 1 0.3082942 l "isa"
+2 3 0.5946646 l "isa"
+3 2 0.3082942 l "isa"
+1 3 0.5946646 l "isa"
+3 1 0.3082942 l "isa"
+2 3 0.5946646 l "isa"
+3 2 0.3082942 l "isa"
+1 3 0.5946646 l "isa"
+3 1 0.3082942 l "isa"
+2 3 0.5946646 l "isa"
+3 2 0.3082942 l "isa"
+1 3 0.5946646 l "isa"
+3 1 0.3082942 l "isa"
+2 3 0.5946646 l "isa"
+3 2 0.3082942 l "isa"
+1 3 0.5946646 l "isa"
+3 1 0.3082942 l "isa"
+2 3 0.5946646 l "isa"
+3 2 0.3082942 l "isa"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "instruction" ellipse
+2 "Restriction"
+*Arcs
+1 2 0.2651123 l "definition"
+2 1 0.2281250 l "definition"
+1 2 0.2651123 l "distance"
+2 1 0.2281250 l "distance"
+1 2 0.2651123 l "definition"
+2 1 0.2281250 l "definition"
+1 2 0.2651123 l "distance"
+2 1 0.2281250 l "distance"
+1 2 0.2651123 l "definition"
+2 1 0.2281250 l "definition"
+1 2 0.2651123 l "distance"
+2 1 0.2281250 l "distance"
+*Edges

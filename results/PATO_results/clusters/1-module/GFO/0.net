@@ -1,0 +1,14 @@
+*Vertices 5
+1 "Restriction"
+2 "coincides with"
+3 "nil"
+4 "part of"
+5 "temporal part-of"
+*Arcs
+2 3 0.2500000 l "definition"
+3 2 0.1250000 l "definition"
+4 3 0.2500000 l "definition"
+3 4 0.1250000 l "definition"
+5 3 0.2500000 l "definition"
+3 5 0.1250000 l "definition"
+*Edges

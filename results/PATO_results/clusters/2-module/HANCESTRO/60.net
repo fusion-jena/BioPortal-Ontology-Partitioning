@@ -1,0 +1,19 @@
+*Vertices 4
+1 "Taiwan" ellipse
+2 "East Asian" ellipse
+3 "Taiwanese" ellipse
+4 "Taiwanese Han" ellipse
+*Arcs
+3 2 0.1666667 l "isa"
+2 3 0.0909091 l "isa"
+4 2 0.3333333 l "isa"
+2 4 0.0909091 l "isa"
+1 3 0.1333333 l "substring"
+3 1 0.3333333 l "substring"
+1 4 0.0666667 l "substring"
+4 1 0.3333333 l "substring"
+3 4 0.1666667 l "substring"
+4 3 0.3333333 l "substring"
+1 3 0.1333333 l "distance"
+3 1 0.3333333 l "distance"
+*Edges

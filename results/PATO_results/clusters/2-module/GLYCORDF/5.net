@@ -1,0 +1,50 @@
+*Vertices 11
+1 "N-glycan" ellipse
+2 "O-glycan" ellipse
+3 "Aglycon" ellipse
+4 "Biological Repeat Unit" ellipse
+5 "Chemical Repeat Unit" ellipse
+6 "Cyclic Glycan" ellipse
+7 "Glycan Epitope" ellipse
+8 "Glycan Motif" ellipse
+9 "Motif" ellipse
+10 "Polysaccharide" ellipse
+11 "Saccharide" ellipse
+*Arcs
+1 11 0.3333333 l "isa"
+11 1 0.0256410 l "isa"
+2 11 0.3333333 l "isa"
+11 2 0.0256410 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.1666667 l "isa"
+5 9 1.0000000 l "isa"
+9 5 0.1666667 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.0256410 l "isa"
+7 8 0.5000000 l "isa"
+8 7 0.2000000 l "isa"
+8 9 0.4000000 l "isa"
+9 8 0.3333333 l "isa"
+10 11 0.4000000 l "isa"
+11 10 0.0512821 l "isa"
+8 11 0.4000000 l "contained_in"
+11 8 0.0512821 l "contained_in"
+11 7 0.0256410 l "has_epitope"
+7 11 0.5000000 l "has_epitope"
+11 8 0.0512821 l "has_motif"
+8 11 0.4000000 l "has_motif"
+3 11 0.1250000 l "definition"
+11 3 0.0512821 l "definition"
+11 3 0.0512821 l "definition"
+3 11 0.1250000 l "definition"
+8 9 0.4000000 l "substring"
+9 8 0.3333333 l "substring"
+10 11 0.4000000 l "substring"
+11 10 0.0512821 l "substring"
+1 2 0.3333333 l "distance"
+2 1 0.3333333 l "distance"
+1 3 0.3333333 l "distance"
+3 1 0.0625000 l "distance"
+2 3 0.3333333 l "distance"
+3 2 0.0625000 l "distance"
+*Edges

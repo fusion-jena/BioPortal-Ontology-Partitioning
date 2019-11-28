@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Programmed_Textbooks" ellipse
+2 "Textbooks" ellipse
+*Arcs
+1 2 0.2761830 l "substring"
+2 1 0.3554268 l "substring"
+1 2 0.2761830 l "substring"
+2 1 0.3554268 l "substring"
+*Edges

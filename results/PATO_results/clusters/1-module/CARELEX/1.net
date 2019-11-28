@@ -1,0 +1,476 @@
+*Vertices 133
+1 "Acceptance of Investigator Brochure" ellipse
+2 "Additional Monitoring Activity" ellipse
+3 "Analysis" ellipse
+4 "Analysis QC Documentation" ellipse
+5 "Approval for Database Activation" ellipse
+6 "Audit Certificate" ellipse
+7 "Bioanalytical Reports" ellipse
+8 "Bioanalytical Validation Methods" ellipse
+9 "Certificate of Analysis" ellipse
+10 "Clinical Trial Agreement" ellipse
+11 "Communication Plan" ellipse
+12 "Core Trial Documents" ellipse
+13 "Data Definitions for Analysis Datasets" ellipse
+14 "Data Entry Guidelines" ellipse
+15 "Data Management" ellipse
+16 "Data Management Oversight" ellipse
+17 "Data Management Plan" ellipse
+18 "Data Privacy Agreement" ellipse
+19 "Data Validation Certification" ellipse
+20 "Data Validation Plan" ellipse
+21 "Data Validation Testing" ellipse
+22 "Database" ellipse
+23 "Database Account Management" ellipse
+24 "Database Lock and Unlock Approval" ellipse
+25 "Database Quality Plan" ellipse
+26 "Database Specification" ellipse
+27 "Debarment Statement" ellipse
+28 "Dictionary Coding" ellipse
+29 "EDC Management" ellipse
+30 "Edit Check Programming" ellipse
+31 "External Data Transfer Specifications" ellipse
+32 "Facility Documentation" ellipse
+33 "Filenote Master List" ellipse
+34 "Final Analysis Datasets" ellipse
+35 "Final Analysis Output" ellipse
+36 "Final Analysis Programs" ellipse
+37 "Final Analysis Raw Datasets" ellipse
+38 "Final Trial Close Out Monitoring Report" ellipse
+39 "Financial Disclosure Form" ellipse
+40 "Financial Disclosure Summary" ellipse
+41 "Financial Documentation" ellipse
+42 "Form FDA 1572" ellipse
+43 "General Trial Filenote" ellipse
+44 "General Trial Management Communications" ellipse
+45 "General Trial Management Documents" ellipse
+46 "General Trial Management Meeting Material" ellipse
+47 "General Trial Management Tracking Document" ellipse
+48 "IP Regulatory Release" ellipse
+49 "IP Release Process" ellipse
+50 "IP Site Release Documentation" ellipse
+51 "IRB-IEC Notification of Trial Termination" ellipse
+52 "IRB-IEC Report" ellipse
+53 "IRB-IEC Trial Status Reporting" ellipse
+54 "IRT User Acceptance Testing Certification" ellipse
+55 "IRT User Manual" ellipse
+56 "IRT User Notifications" ellipse
+57 "IRT User Requirement Specification" ellipse
+58 "IRT Validation Certification" ellipse
+59 "Indemnity" ellipse
+60 "Insurance" ellipse
+61 "Interactive Response Technology" ellipse
+62 "Interfacility Standardization Methods" ellipse
+63 "Interim Analysis Datasets" ellipse
+64 "Interim Analysis Output" ellipse
+65 "Interim Analysis Programs" ellipse
+66 "Interim Analysis Raw Datasets" ellipse
+67 "Investigator Brochure" ellipse
+68 "Investigator Documents" ellipse
+69 "Investigator Newsletter" ellipse
+70 "Investigator Regulatory Agreement" ellipse
+71 "Investigators Meeting Material" ellipse
+72 "Kick-off Meeting Material" ellipse
+73 "Lab Manual" ellipse
+74 "Laboratory Certification" ellipse
+75 "Laboratory Director Curriculum Vitae" ellipse
+76 "List of SOPs Current During Trial" ellipse
+77 "Local Laboratory Certification or Accreditation" ellipse
+78 "Local Laboratory Normal Ranges" ellipse
+79 "Medical Monitoring Plan" ellipse
+80 "Monitoring Plan" ellipse
+81 "Monitoring Visit Report" ellipse
+82 "Normal Ranges" ellipse
+83 "Notification of Regulatory Identification Number" ellipse
+84 "Notification of Safety Information" ellipse
+85 "Notification of Trial Termination" ellipse
+86 "Notification to IRB-IEC of Safety Information" ellipse
+87 "Notification to Investigators of Safety Information" ellipse
+88 "Operational Procedure Manual" ellipse
+89 "Other Financial Agreement" ellipse
+90 "Pharmacovigilance Database Line Listing" ellipse
+91 "Principal Investigator Curriculum Vitae" ellipse
+92 "Protocol" ellipse
+93 "Protocol Deviations" ellipse
+94 "Protocol Signature Page" ellipse
+95 "Protocol Synopsis" ellipse
+96 "Publication Policy" ellipse
+97 "Qualified Person Certification" ellipse
+98 "Quality Plan" ellipse
+99 "Recruitment Plan" ellipse
+100 "Regulatory" ellipse
+101 "Regulatory Report" ellipse
+102 "Regulatory Submission" ellipse
+103 "Reserved T104.11.30" ellipse
+104 "Reserved T104.11.31" ellipse
+105 "Safety Documentation" ellipse
+106 "Safety Management Plan" ellipse
+107 "Sample Size Calculation" ellipse
+108 "Serious Adverse Event Reconciliation" ellipse
+109 "Site Personnel Supporting Information" ellipse
+110 "Site Signature Sheet" ellipse
+111 "Statistical Analysis Plan" ellipse
+112 "Statistics" ellipse
+113 "Statistics Oversight" ellipse
+114 "Study Registry Documents" ellipse
+115 "Sub-Investigator Curriculum Vitae" ellipse
+116 "Subject Enrollment Log" ellipse
+117 "Subject Evaluability Criteria and Subject Classification" ellipse
+118 "Subject Screen Log" ellipse
+119 "Supply Import Documentation" ellipse
+120 "TSE Statement" ellipse
+121 "Trial Approval" ellipse
+122 "Trial Management" ellipse
+123 "Trial Management Meeting Documents" ellipse
+124 "Trial Management Plan" ellipse
+125 "Trial Master File Plan" ellipse
+126 "Trial Oversight" ellipse
+127 "Trial Regulatory Status Reporting" ellipse
+128 "Trial Status Report" ellipse
+129 "Trial Team" ellipse
+130 "Trial Team Curriculum Vitae" ellipse
+131 "Trial Team Details" ellipse
+132 "Trial Team Training Material" ellipse
+133 "Visit Log" ellipse
+*Arcs
+1 68 0.5000000 l "isa"
+68 1 0.0333333 l "isa"
+2 68 1.0000000 l "isa"
+68 2 0.0333333 l "isa"
+3 112 0.0416667 l "isa"
+112 3 0.0833333 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.0833333 l "isa"
+5 22 0.6666667 l "isa"
+22 5 0.1052632 l "isa"
+6 126 1.0000000 l "isa"
+126 6 0.0588235 l "isa"
+7 32 1.0000000 l "isa"
+32 7 0.1111111 l "isa"
+8 32 1.0000000 l "isa"
+32 8 0.1111111 l "isa"
+9 49 0.5000000 l "isa"
+49 9 0.2000000 l "isa"
+10 68 1.0000000 l "isa"
+68 10 0.0333333 l "isa"
+11 126 1.0000000 l "isa"
+126 11 0.0588235 l "isa"
+13 3 1.0000000 l "isa"
+3 13 0.0833333 l "isa"
+14 22 1.0000000 l "isa"
+22 14 0.0526316 l "isa"
+16 15 0.6666667 l "isa"
+15 16 0.1428571 l "isa"
+17 16 0.5000000 l "isa"
+16 17 0.3333333 l "isa"
+18 68 1.0000000 l "isa"
+68 18 0.0333333 l "isa"
+19 22 0.5000000 l "isa"
+22 19 0.0526316 l "isa"
+20 22 1.0000000 l "isa"
+22 20 0.0526316 l "isa"
+21 22 1.0000000 l "isa"
+22 21 0.0526316 l "isa"
+22 15 0.0526316 l "isa"
+15 22 0.0714286 l "isa"
+23 29 0.5000000 l "isa"
+29 23 0.5000000 l "isa"
+24 22 0.6666667 l "isa"
+22 24 0.1052632 l "isa"
+25 22 0.6666667 l "isa"
+22 25 0.1052632 l "isa"
+26 22 1.0000000 l "isa"
+22 26 0.1052632 l "isa"
+27 126 1.0000000 l "isa"
+126 27 0.0588235 l "isa"
+28 22 1.0000000 l "isa"
+22 28 0.0526316 l "isa"
+29 15 0.5000000 l "isa"
+15 29 0.0714286 l "isa"
+30 22 1.0000000 l "isa"
+22 30 0.0526316 l "isa"
+31 22 1.0000000 l "isa"
+22 31 0.0526316 l "isa"
+33 126 1.0000000 l "isa"
+126 33 0.0588235 l "isa"
+34 3 1.0000000 l "isa"
+3 34 0.0833333 l "isa"
+35 3 1.0000000 l "isa"
+3 35 0.0833333 l "isa"
+36 3 1.0000000 l "isa"
+3 36 0.0833333 l "isa"
+37 3 1.0000000 l "isa"
+3 37 0.0833333 l "isa"
+38 68 1.0000000 l "isa"
+68 38 0.0333333 l "isa"
+39 68 1.0000000 l "isa"
+68 39 0.0333333 l "isa"
+40 12 1.0000000 l "isa"
+12 40 0.1250000 l "isa"
+41 68 1.0000000 l "isa"
+68 41 0.0333333 l "isa"
+42 68 1.0000000 l "isa"
+68 42 0.0333333 l "isa"
+43 45 1.0000000 l "isa"
+45 43 0.1666667 l "isa"
+44 45 0.5000000 l "isa"
+45 44 0.1666667 l "isa"
+45 122 0.3333333 l "isa"
+122 45 0.1666667 l "isa"
+46 45 0.5000000 l "isa"
+45 46 0.1666667 l "isa"
+47 45 0.5000000 l "isa"
+45 47 0.1666667 l "isa"
+48 49 0.5000000 l "isa"
+49 48 0.2000000 l "isa"
+50 68 1.0000000 l "isa"
+68 50 0.0333333 l "isa"
+51 53 0.5000000 l "isa"
+53 51 0.2000000 l "isa"
+52 53 1.0000000 l "isa"
+53 52 0.2000000 l "isa"
+54 61 1.0000000 l "isa"
+61 54 0.1666667 l "isa"
+55 61 1.0000000 l "isa"
+61 55 0.1666667 l "isa"
+56 61 1.0000000 l "isa"
+61 56 0.1666667 l "isa"
+57 61 1.0000000 l "isa"
+61 57 0.1666667 l "isa"
+58 61 0.5000000 l "isa"
+61 58 0.1666667 l "isa"
+59 68 1.0000000 l "isa"
+68 59 0.0333333 l "isa"
+60 12 1.0000000 l "isa"
+12 60 0.1250000 l "isa"
+62 32 1.0000000 l "isa"
+32 62 0.1111111 l "isa"
+63 3 1.0000000 l "isa"
+3 63 0.0833333 l "isa"
+64 3 1.0000000 l "isa"
+3 64 0.0833333 l "isa"
+65 3 1.0000000 l "isa"
+3 65 0.0833333 l "isa"
+66 3 1.0000000 l "isa"
+3 66 0.0833333 l "isa"
+67 12 0.5000000 l "isa"
+12 67 0.1250000 l "isa"
+69 126 1.0000000 l "isa"
+126 69 0.0588235 l "isa"
+70 68 0.5000000 l "isa"
+68 70 0.0333333 l "isa"
+71 123 1.0000000 l "isa"
+123 71 0.2000000 l "isa"
+72 123 1.0000000 l "isa"
+123 72 0.2000000 l "isa"
+73 32 1.0000000 l "isa"
+32 73 0.1111111 l "isa"
+74 32 0.5000000 l "isa"
+32 74 0.1111111 l "isa"
+75 32 1.0000000 l "isa"
+32 75 0.1111111 l "isa"
+76 126 1.0000000 l "isa"
+126 76 0.0588235 l "isa"
+77 68 0.5000000 l "isa"
+68 77 0.0333333 l "isa"
+78 68 0.5000000 l "isa"
+68 78 0.0333333 l "isa"
+79 126 0.5000000 l "isa"
+126 79 0.0588235 l "isa"
+80 126 0.5000000 l "isa"
+126 80 0.0588235 l "isa"
+81 68 1.0000000 l "isa"
+68 81 0.0333333 l "isa"
+82 32 0.5000000 l "isa"
+32 82 0.1111111 l "isa"
+83 121 0.5000000 l "isa"
+121 83 0.1666667 l "isa"
+84 127 1.0000000 l "isa"
+127 84 0.2000000 l "isa"
+85 127 0.5000000 l "isa"
+127 85 0.2000000 l "isa"
+86 53 1.0000000 l "isa"
+53 86 0.2000000 l "isa"
+87 68 1.0000000 l "isa"
+68 87 0.0333333 l "isa"
+88 126 1.0000000 l "isa"
+126 88 0.0588235 l "isa"
+89 68 1.0000000 l "isa"
+68 89 0.0333333 l "isa"
+90 105 0.5000000 l "isa"
+105 90 0.3333333 l "isa"
+91 68 1.0000000 l "isa"
+68 91 0.0333333 l "isa"
+92 12 0.1666667 l "isa"
+12 92 0.1250000 l "isa"
+93 68 0.5000000 l "isa"
+68 93 0.0333333 l "isa"
+94 68 0.5000000 l "isa"
+68 94 0.0333333 l "isa"
+95 12 0.5000000 l "isa"
+12 95 0.1250000 l "isa"
+96 126 1.0000000 l "isa"
+126 96 0.0588235 l "isa"
+97 49 1.0000000 l "isa"
+49 97 0.2000000 l "isa"
+98 126 0.5000000 l "isa"
+126 98 0.0588235 l "isa"
+99 126 1.0000000 l "isa"
+126 99 0.0588235 l "isa"
+101 127 0.5000000 l "isa"
+127 101 0.2000000 l "isa"
+102 121 0.5000000 l "isa"
+121 102 0.1666667 l "isa"
+103 68 0.5000000 l "isa"
+68 103 0.0333333 l "isa"
+104 68 0.5000000 l "isa"
+68 104 0.0333333 l "isa"
+106 105 1.0000000 l "isa"
+105 106 0.3333333 l "isa"
+107 113 1.0000000 l "isa"
+113 107 0.2500000 l "isa"
+108 22 1.0000000 l "isa"
+22 108 0.0526316 l "isa"
+109 68 1.0000000 l "isa"
+68 109 0.0333333 l "isa"
+110 68 1.0000000 l "isa"
+68 110 0.0333333 l "isa"
+111 113 0.5000000 l "isa"
+113 111 0.2500000 l "isa"
+113 112 0.5000000 l "isa"
+112 113 0.1666667 l "isa"
+114 121 1.0000000 l "isa"
+121 114 0.1666667 l "isa"
+115 68 1.0000000 l "isa"
+68 115 0.0333333 l "isa"
+116 68 1.0000000 l "isa"
+68 116 0.0333333 l "isa"
+117 3 1.0000000 l "isa"
+3 117 0.0416667 l "isa"
+118 68 1.0000000 l "isa"
+68 118 0.0333333 l "isa"
+119 32 1.0000000 l "isa"
+32 119 0.1111111 l "isa"
+120 49 1.0000000 l "isa"
+49 120 0.2000000 l "isa"
+121 100 0.1666667 l "isa"
+100 121 0.0625000 l "isa"
+123 122 0.4000000 l "isa"
+122 123 0.1666667 l "isa"
+124 126 0.5000000 l "isa"
+126 124 0.0588235 l "isa"
+125 126 1.0000000 l "isa"
+126 125 0.0588235 l "isa"
+126 122 0.0588235 l "isa"
+122 126 0.0833333 l "isa"
+127 100 0.4000000 l "isa"
+100 127 0.1250000 l "isa"
+128 126 0.5000000 l "isa"
+126 128 0.0588235 l "isa"
+129 122 0.1666667 l "isa"
+122 129 0.0833333 l "isa"
+130 129 1.0000000 l "isa"
+129 130 0.3333333 l "isa"
+131 129 1.0000000 l "isa"
+129 131 0.3333333 l "isa"
+132 123 0.5000000 l "isa"
+123 132 0.2000000 l "isa"
+133 68 1.0000000 l "isa"
+68 133 0.0333333 l "isa"
+1 67 0.5000000 l "substring"
+67 1 0.5000000 l "substring"
+3 4 0.0833333 l "substring"
+4 3 1.0000000 l "substring"
+3 9 0.0416667 l "substring"
+9 3 0.5000000 l "substring"
+3 13 0.0833333 l "substring"
+13 3 1.0000000 l "substring"
+3 34 0.0833333 l "substring"
+34 3 1.0000000 l "substring"
+3 35 0.0833333 l "substring"
+35 3 1.0000000 l "substring"
+3 36 0.0833333 l "substring"
+36 3 1.0000000 l "substring"
+3 37 0.0833333 l "substring"
+37 3 1.0000000 l "substring"
+3 63 0.0833333 l "substring"
+63 3 1.0000000 l "substring"
+3 64 0.0833333 l "substring"
+64 3 1.0000000 l "substring"
+3 65 0.0833333 l "substring"
+65 3 1.0000000 l "substring"
+3 66 0.0833333 l "substring"
+66 3 1.0000000 l "substring"
+3 111 0.0416667 l "substring"
+111 3 0.5000000 l "substring"
+5 22 0.6666667 l "substring"
+22 5 0.1052632 l "substring"
+15 16 0.1428571 l "substring"
+16 15 0.6666667 l "substring"
+15 17 0.0714286 l "substring"
+17 15 0.5000000 l "substring"
+22 23 0.0526316 l "substring"
+23 22 0.5000000 l "substring"
+22 24 0.1052632 l "substring"
+24 22 0.6666667 l "substring"
+22 25 0.1052632 l "substring"
+25 22 0.6666667 l "substring"
+22 26 0.1052632 l "substring"
+26 22 1.0000000 l "substring"
+22 90 0.0526316 l "substring"
+90 22 0.5000000 l "substring"
+25 98 0.3333333 l "substring"
+98 25 0.5000000 l "substring"
+44 122 0.5000000 l "substring"
+122 44 0.0833333 l "substring"
+45 122 0.3333333 l "substring"
+122 45 0.1666667 l "substring"
+46 122 0.5000000 l "substring"
+122 46 0.0833333 l "substring"
+47 122 0.5000000 l "substring"
+122 47 0.0833333 l "substring"
+48 100 0.5000000 l "substring"
+100 48 0.0625000 l "substring"
+51 85 0.5000000 l "substring"
+85 51 0.5000000 l "substring"
+53 128 0.2000000 l "substring"
+128 53 0.5000000 l "substring"
+70 100 0.5000000 l "substring"
+100 70 0.0625000 l "substring"
+74 77 0.5000000 l "substring"
+77 74 0.5000000 l "substring"
+78 82 0.5000000 l "substring"
+82 78 0.5000000 l "substring"
+79 80 0.5000000 l "substring"
+80 79 0.5000000 l "substring"
+83 100 0.5000000 l "substring"
+100 83 0.0625000 l "substring"
+92 93 0.1666667 l "substring"
+93 92 0.5000000 l "substring"
+92 94 0.1666667 l "substring"
+94 92 0.5000000 l "substring"
+92 95 0.1666667 l "substring"
+95 92 0.5000000 l "substring"
+100 101 0.0625000 l "substring"
+101 100 0.5000000 l "substring"
+100 102 0.0625000 l "substring"
+102 100 0.5000000 l "substring"
+100 127 0.1250000 l "substring"
+127 100 0.4000000 l "substring"
+112 113 0.1666667 l "substring"
+113 112 0.5000000 l "substring"
+122 123 0.1666667 l "substring"
+123 122 0.4000000 l "substring"
+122 124 0.0833333 l "substring"
+124 122 0.5000000 l "substring"
+129 130 0.3333333 l "substring"
+130 129 1.0000000 l "substring"
+129 131 0.3333333 l "substring"
+131 129 1.0000000 l "substring"
+129 132 0.1666667 l "substring"
+132 129 0.5000000 l "substring"
+19 58 0.5000000 l "distance"
+58 19 0.5000000 l "distance"
+103 104 0.5000000 l "distance"
+104 103 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,31 @@
+*Vertices 4
+1 "South Suffolk" ellipse
+2 "Suffolk" ellipse
+3 "White Suffolk" ellipse
+4 "Suffolk" ellipse
+*Arcs
+1 2 0.3421692 l "substring"
+2 1 0.1968339 l "substring"
+1 4 0.3421692 l "substring"
+4 1 0.1968253 l "substring"
+2 3 0.1968339 l "substring"
+3 2 0.3421692 l "substring"
+2 4 0.4351065 l "substring"
+4 2 0.4350874 l "substring"
+3 4 0.3421692 l "substring"
+4 3 0.1968253 l "substring"
+2 4 0.4351065 l "distance"
+4 2 0.4350874 l "distance"
+1 2 0.3421692 l "substring"
+2 1 0.1968339 l "substring"
+1 4 0.3421692 l "substring"
+4 1 0.1968253 l "substring"
+2 3 0.1968339 l "substring"
+3 2 0.3421692 l "substring"
+2 4 0.4351065 l "substring"
+4 2 0.4350874 l "substring"
+3 4 0.3421692 l "substring"
+4 3 0.1968253 l "substring"
+2 4 0.4351065 l "distance"
+4 2 0.4350874 l "distance"
+*Edges

@@ -1,0 +1,24 @@
+*Vertices 3
+1 "inactive" ellipse
+2 "asthma - currently dormant" ellipse
+3 "inactive asthma" ellipse
+*Arcs
+2 1 0.1987080 l "isa"
+1 2 0.2033603 l "isa"
+3 1 0.5513813 l "isa"
+1 3 0.5981897 l "isa"
+1 3 0.5981897 l "substring"
+3 1 0.5513813 l "substring"
+2 1 0.1987080 l "isa"
+1 2 0.2033603 l "isa"
+3 1 0.5513813 l "isa"
+1 3 0.5981897 l "isa"
+1 3 0.5981897 l "substring"
+3 1 0.5513813 l "substring"
+2 1 0.1987080 l "isa"
+1 2 0.2033603 l "isa"
+3 1 0.5513813 l "isa"
+1 3 0.5981897 l "isa"
+1 3 0.5981897 l "substring"
+3 1 0.5513813 l "substring"
+*Edges

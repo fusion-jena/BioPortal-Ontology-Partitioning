@@ -1,0 +1,24 @@
+*Vertices 5
+1 "FurtherTherapy" ellipse
+2 "HighDoseTherapy" ellipse
+3 "SalvageTherapy" ellipse
+4 "Therapy" ellipse
+5 "WindowTherapy" ellipse
+*Arcs
+1 4 0.4000000 l "isa"
+4 1 0.0307692 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.0307692 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.0307692 l "isa"
+5 4 0.6666667 l "isa"
+4 5 0.0307692 l "isa"
+1 4 0.4000000 l "substring"
+4 1 0.0307692 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.0307692 l "substring"
+3 4 0.5000000 l "substring"
+4 3 0.0307692 l "substring"
+4 5 0.0307692 l "substring"
+5 4 0.6666667 l "substring"
+*Edges

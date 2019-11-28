@@ -1,0 +1,18 @@
+*Vertices 3
+1 "clock" ellipse
+2 "startTime" ellipse
+3 "Class"
+*Arcs
+2 1 0.1798057 l "isa"
+1 2 0.1693195 l "isa"
+1 3 0.1650643 l "distance"
+3 1 0.1732484 l "distance"
+2 1 0.1798057 l "isa"
+1 2 0.1693195 l "isa"
+1 3 0.1650643 l "distance"
+3 1 0.1732484 l "distance"
+2 1 0.1798057 l "isa"
+1 2 0.1693195 l "isa"
+1 3 0.1650643 l "distance"
+3 1 0.1732484 l "distance"
+*Edges

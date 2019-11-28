@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Bashkir" ellipse
+2 "Bashkir Curly" ellipse
+*Arcs
+1 2 0.2229733 l "substring"
+2 1 0.5188007 l "substring"
+1 2 0.2229733 l "substring"
+2 1 0.5188007 l "substring"
+*Edges

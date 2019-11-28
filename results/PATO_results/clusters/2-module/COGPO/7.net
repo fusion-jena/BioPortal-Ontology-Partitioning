@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Stimulus" ellipse
+2 "Implicit Stimulus" ellipse
+3 "ObjectAggregate" ellipse
+*Arcs
+1 3 0.0769231 l "isa"
+3 1 1.0000000 l "isa"
+2 1 0.6666667 l "isa"
+1 2 0.1538462 l "isa"
+1 2 0.1538462 l "substring"
+2 1 0.6666667 l "substring"
+*Edges

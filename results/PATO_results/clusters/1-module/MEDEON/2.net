@@ -1,0 +1,25 @@
+*Vertices 8
+1 "Defect" ellipse
+2 "Delay" ellipse
+3 "DeviceAvailability" ellipse
+4 "DeviceFailure" ellipse
+5 "ErrorType" ellipse
+6 "InappropriateUse" ellipse
+7 "MissingInstrument" ellipse
+8 "UseError" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1250000 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1250000 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1250000 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1250000 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1250000 l "isa"
+7 5 1.0000000 l "isa"
+5 7 0.1250000 l "isa"
+8 5 1.0000000 l "isa"
+5 8 0.1250000 l "isa"
+*Edges

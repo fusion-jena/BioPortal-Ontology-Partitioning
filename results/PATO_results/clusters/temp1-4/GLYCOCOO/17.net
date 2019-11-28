@@ -1,0 +1,65 @@
+*Vertices 14
+1 "Exact position" ellipse
+2 "Fuzzy position" ellipse
+3 "One of positions" ellipse
+4 "Position" ellipse
+5 "Glycoprotein" ellipse
+6 "Glycosylation Site" ellipse
+7 "glycoprotein" ellipse
+8 "Annotation" ellipse
+9 "Glycosylation Annotation" ellipse
+10 "Protein" ellipse
+11 "protein complex" ellipse
+12 "integer"
+13 "position"
+14 "Datatype"
+*Arcs
+1 4 0.4000000 l "isa"
+4 1 0.2857143 l "isa"
+2 4 0.5000000 l "isa"
+4 2 0.2857143 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.2500000 l "isa"
+5 10 0.2500000 l "isa"
+10 5 0.2500000 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.5000000 l "isa"
+10 8 0.1250000 l "annotation"
+8 10 0.5000000 l "annotation"
+5 12 0.1250000 l "amino acid length"
+12 5 0.5000000 l "amino acid length"
+13 14 0.1111111 l "definition"
+14 13 1.0000000 l "definition"
+13 12 0.1111111 l "definition"
+12 13 0.5000000 l "definition"
+1 13 0.4000000 l "definition"
+13 1 0.2222222 l "definition"
+1 4 0.4000000 l "substring"
+4 1 0.2857143 l "substring"
+1 13 0.4000000 l "substring"
+13 1 0.2222222 l "substring"
+2 4 0.5000000 l "substring"
+4 2 0.2857143 l "substring"
+2 13 0.2500000 l "substring"
+13 2 0.1111111 l "substring"
+3 4 0.3333333 l "substring"
+4 3 0.1428571 l "substring"
+3 13 0.3333333 l "substring"
+13 3 0.1111111 l "substring"
+4 13 0.2857143 l "substring"
+13 4 0.2222222 l "substring"
+5 7 0.2500000 l "substring"
+7 5 0.6666667 l "substring"
+5 10 0.2500000 l "substring"
+10 5 0.2500000 l "substring"
+7 10 0.3333333 l "substring"
+10 7 0.1250000 l "substring"
+8 9 0.5000000 l "substring"
+9 8 0.5000000 l "substring"
+10 11 0.1250000 l "substring"
+11 10 1.0000000 l "substring"
+4 13 0.2857143 l "distance"
+13 4 0.2222222 l "distance"
+5 7 0.2500000 l "distance"
+7 5 0.6666667 l "distance"
+*Edges

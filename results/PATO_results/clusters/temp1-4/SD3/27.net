@@ -1,0 +1,10 @@
+*Vertices 3
+1 "Simulated patient responds to intervention incorrectly-during scenario" ellipse
+2 "Simulated patient response to intervention at incorrect time-during scenario" ellipse
+3 "Simulated patient response to intervention deviation-during scenario" ellipse
+*Arcs
+1 3 1.0000000 l "isa"
+3 1 0.3333333 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.3333333 l "isa"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "joint replacement" ellipse
+2 "total shoulder arthroplasty" ellipse
+*Arcs
+2 1 0.4070610 l "isa"
+1 2 0.5400591 l "isa"
+2 1 0.4070610 l "isa"
+1 2 0.5400591 l "isa"
+2 1 0.4070610 l "isa"
+1 2 0.5400591 l "isa"
+*Edges

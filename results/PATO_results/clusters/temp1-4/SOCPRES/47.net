@@ -1,0 +1,11 @@
+*Vertices 2
+1 "5' sticky restriction site symbol" ellipse
+2 "3' sticky restriction site symbol" ellipse
+*Arcs
+1 2 0.2754202 l "distance"
+2 1 0.2754202 l "distance"
+1 2 0.2754202 l "distance"
+2 1 0.2754202 l "distance"
+1 2 0.2754202 l "distance"
+2 1 0.2754202 l "distance"
+*Edges

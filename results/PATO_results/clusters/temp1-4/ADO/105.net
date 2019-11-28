@@ -1,0 +1,25 @@
+*Vertices 6
+1 "APP" ellipse
+2 "MAPT" ellipse
+3 "Sea elegans gene" ellipse
+4 "C.elegans" ellipse
+5 "Invertebrate" ellipse
+6 "Vertebrate" ellipse
+*Arcs
+2 3 0.0204082 l "isa"
+3 2 0.1111111 l "isa"
+4 5 0.2500000 l "isa"
+5 4 0.1428571 l "isa"
+1 4 0.0117647 l "definition"
+4 1 0.2500000 l "definition"
+2 4 0.0204082 l "definition"
+4 2 0.2500000 l "definition"
+3 4 0.1111111 l "definition"
+4 3 0.2500000 l "definition"
+5 6 0.2857143 l "substring"
+6 5 0.2500000 l "substring"
+1 2 0.0117647 l "distance"
+2 1 0.0204082 l "distance"
+5 6 0.2857143 l "distance"
+6 5 0.2500000 l "distance"
+*Edges

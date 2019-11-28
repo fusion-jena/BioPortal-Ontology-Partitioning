@@ -1,0 +1,11 @@
+*Vertices 2
+1 "right lower lobe interlobular septum" ellipse
+2 "right upper lobe interlobular septum" ellipse
+*Arcs
+1 2 0.1556013 l "distance"
+2 1 0.1555988 l "distance"
+1 2 0.1556013 l "distance"
+2 1 0.1555988 l "distance"
+1 2 0.1556013 l "distance"
+2 1 0.1555988 l "distance"
+*Edges

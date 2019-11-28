@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Micro RNA" ellipse
+2 "Micro RNA from PBMC cells" ellipse
+*Arcs
+2 1 0.3315573 l "isa"
+1 2 0.3197907 l "isa"
+1 2 0.3197907 l "substring"
+2 1 0.3315573 l "substring"
+2 1 0.3315573 l "isa"
+1 2 0.3197907 l "isa"
+1 2 0.3197907 l "substring"
+2 1 0.3315573 l "substring"
+*Edges

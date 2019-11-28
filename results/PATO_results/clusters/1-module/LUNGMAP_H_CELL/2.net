@@ -1,0 +1,79 @@
+*Vertices 18
+1 "adipocyte" ellipse
+2 "chondrocyte" ellipse
+3 "collecting duct cell" ellipse
+4 "endothelial cell" ellipse
+5 "epithelial cell" ellipse
+6 "lymphatic endothelial cell" ellipse
+7 "mesothelial cell" ellipse
+8 "myoepithelial cell" ellipse
+9 "nonspecific endothelial cell" ellipse
+10 "type I pneumocyte" ellipse
+11 "type II pneumocyte" ellipse
+12 "vascular endothelial cell" ellipse
+13 "alveolar epithelial cell" ellipse
+14 "submucosal gland duct epithelial cell" ellipse
+15 "submucosal gland epithelial cell" ellipse
+16 "mesenchymal derived cell" ellipse
+17 "arterial endothelial cell" ellipse
+18 "venous endothelial cell" ellipse
+*Arcs
+1 16 1.0000000 l "isa"
+16 1 0.1428571 l "isa"
+2 16 1.0000000 l "isa"
+16 2 0.1428571 l "isa"
+3 14 1.0000000 l "isa"
+14 3 0.2000000 l "isa"
+6 4 1.0000000 l "isa"
+4 6 0.1538462 l "isa"
+7 16 0.3333333 l "isa"
+16 7 0.1428571 l "isa"
+8 15 0.3333333 l "isa"
+15 8 0.2000000 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.1538462 l "isa"
+10 13 0.5000000 l "isa"
+13 10 0.2000000 l "isa"
+11 13 0.5000000 l "isa"
+13 11 0.2000000 l "isa"
+12 4 1.0000000 l "isa"
+4 12 0.1538462 l "isa"
+13 5 0.4000000 l "isa"
+5 13 0.0833333 l "isa"
+14 5 0.4000000 l "isa"
+5 14 0.0833333 l "isa"
+15 5 0.4000000 l "isa"
+5 15 0.0833333 l "isa"
+17 4 1.0000000 l "isa"
+4 17 0.1538462 l "isa"
+18 4 1.0000000 l "isa"
+4 18 0.1538462 l "isa"
+4 6 0.1538462 l "substring"
+6 4 1.0000000 l "substring"
+4 9 0.1538462 l "substring"
+9 4 1.0000000 l "substring"
+4 12 0.1538462 l "substring"
+12 4 1.0000000 l "substring"
+4 17 0.1538462 l "substring"
+17 4 1.0000000 l "substring"
+4 18 0.1538462 l "substring"
+18 4 1.0000000 l "substring"
+5 8 0.0833333 l "substring"
+8 5 0.6666667 l "substring"
+5 13 0.0833333 l "substring"
+13 5 0.4000000 l "substring"
+5 14 0.0833333 l "substring"
+14 5 0.4000000 l "substring"
+5 15 0.0833333 l "substring"
+15 5 0.4000000 l "substring"
+4 5 0.0769231 l "distance"
+5 4 0.0416667 l "distance"
+4 7 0.0769231 l "distance"
+7 4 0.3333333 l "distance"
+5 7 0.0416667 l "distance"
+7 5 0.3333333 l "distance"
+5 8 0.0833333 l "distance"
+8 5 0.6666667 l "distance"
+10 11 0.5000000 l "distance"
+11 10 0.5000000 l "distance"
+*Edges

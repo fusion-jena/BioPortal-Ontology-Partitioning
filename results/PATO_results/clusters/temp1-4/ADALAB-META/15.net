@@ -1,0 +1,64 @@
+*Vertices 9
+1 "Activity" ellipse
+2 "Abnormal" ellipse
+3 "BedriddenState" ellipse
+4 "ConsiderablyReducedActivityState" ellipse
+5 "GeneralHealthRating" ellipse
+6 "MinorImpairmentState" ellipse
+7 "Normal" ellipse
+8 "NormalActivityState" ellipse
+9 "Normality" ellipse
+*Arcs
+2 9 0.2955665 l "isa"
+9 2 0.0955423 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1410613 l "isa"
+4 5 0.3368120 l "isa"
+5 4 0.1108339 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1410613 l "isa"
+7 9 0.3436984 l "isa"
+9 7 0.3081238 l "isa"
+8 5 0.3318134 l "isa"
+5 8 0.1108339 l "isa"
+1 4 0.1596076 l "substring"
+4 1 0.3414405 l "substring"
+1 8 0.1596076 l "substring"
+8 1 0.3363732 l "substring"
+2 7 0.7044334 l "substring"
+7 2 0.2539994 l "substring"
+7 8 0.1074613 l "substring"
+8 7 0.3318134 l "substring"
+7 9 0.3436984 l "substring"
+9 7 0.3081238 l "substring"
+2 7 0.7044334 l "distance"
+7 2 0.2539994 l "distance"
+7 9 0.3436984 l "distance"
+9 7 0.3081238 l "distance"
+2 9 0.2955665 l "isa"
+9 2 0.0955423 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1410613 l "isa"
+4 5 0.3368120 l "isa"
+5 4 0.1108339 l "isa"
+6 5 1.0000000 l "isa"
+5 6 0.1410613 l "isa"
+7 9 0.3436984 l "isa"
+9 7 0.3081238 l "isa"
+8 5 0.3318134 l "isa"
+5 8 0.1108339 l "isa"
+1 4 0.1596076 l "substring"
+4 1 0.3414405 l "substring"
+1 8 0.1596076 l "substring"
+8 1 0.3363732 l "substring"
+2 7 0.7044334 l "substring"
+7 2 0.2539994 l "substring"
+7 8 0.1074613 l "substring"
+8 7 0.3318134 l "substring"
+7 9 0.3436984 l "substring"
+9 7 0.3081238 l "substring"
+2 7 0.7044334 l "distance"
+7 2 0.2539994 l "distance"
+7 9 0.3436984 l "distance"
+9 7 0.3081238 l "distance"
+*Edges

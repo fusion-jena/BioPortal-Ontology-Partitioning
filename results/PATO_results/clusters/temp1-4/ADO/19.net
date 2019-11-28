@@ -1,0 +1,16 @@
+*Vertices 5
+1 "Aspartergic" ellipse
+2 "Glycinergic" ellipse
+3 "Noradrenergic" ellipse
+4 "Purinergic" ellipse
+5 "Transmitter release" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.0909091 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.0909091 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.0909091 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.0909091 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Medication" ellipse
+2 "Kept_from_Getting_Medications_by_Lack_of_Transportation" ellipse
+*Arcs
+2 1 0.1921875 l "definition"
+1 2 0.6938776 l "definition"
+1 2 0.6938776 l "substring"
+2 1 0.1921875 l "substring"
+2 1 0.1921875 l "definition"
+1 2 0.6938776 l "definition"
+1 2 0.6938776 l "substring"
+2 1 0.1921875 l "substring"
+*Edges

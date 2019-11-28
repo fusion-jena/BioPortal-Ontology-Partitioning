@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Prolymphocytic leukemia, B-cell type" ellipse
+2 "Prolymphocytic leukemia, T-cell type" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

@@ -1,0 +1,41 @@
+*Vertices 10
+1 "Subgroup" ellipse
+2 "Site Enrollment" ellipse
+3 "Correction Details" ellipse
+4 "Fraud Details" ellipse
+5 "Retraction Details" ellipse
+6 "TimeEntity" ellipse
+7 "TimePoint" ellipse
+8 "Restriction"
+9 "isTypeOf"
+10 "allowsValuesFrom"
+*Arcs
+7 6 0.2000000 l "isa"
+6 7 0.2500000 l "isa"
+3 8 0.2500000 l "definition"
+8 3 0.0833333 l "definition"
+3 9 0.2500000 l "definition"
+9 3 0.1666667 l "definition"
+4 8 0.2500000 l "definition"
+8 4 0.0833333 l "definition"
+4 9 0.2500000 l "definition"
+9 4 0.1666667 l "definition"
+5 8 0.2500000 l "definition"
+8 5 0.0833333 l "definition"
+5 9 0.2500000 l "definition"
+9 5 0.1666667 l "definition"
+2 8 0.2000000 l "definition"
+8 2 0.0833333 l "definition"
+2 9 0.2000000 l "definition"
+9 2 0.1666667 l "definition"
+1 8 0.1666667 l "definition"
+8 1 0.0833333 l "definition"
+1 10 0.1666667 l "definition"
+10 1 0.1666667 l "definition"
+1 1 0.3333333 l "definition"
+1 1 0.3333333 l "definition"
+7 8 0.2000000 l "definition"
+8 7 0.0833333 l "definition"
+7 9 0.2000000 l "definition"
+9 7 0.1666667 l "definition"
+*Edges

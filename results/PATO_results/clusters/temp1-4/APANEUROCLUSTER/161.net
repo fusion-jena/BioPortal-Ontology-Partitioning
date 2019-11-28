@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Colitis" ellipse
+2 "Ulcerative_Colitis" ellipse
+*Arcs
+1 2 0.2764892 l "substring"
+2 1 0.2906713 l "substring"
+1 2 0.2764892 l "substring"
+2 1 0.2906713 l "substring"
+1 2 0.2764892 l "substring"
+2 1 0.2906713 l "substring"
+*Edges

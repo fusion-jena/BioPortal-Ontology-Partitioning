@@ -1,0 +1,22 @@
+*Vertices 5
+1 "case series study" ellipse
+2 "consecutive case series" ellipse
+3 "nonconsecutive case series" ellipse
+4 "prospective case series" ellipse
+5 "retrospective case series" ellipse
+*Arcs
+2 1 0.3333333 l "isa"
+1 2 0.2000000 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.2000000 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.2000000 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.2000000 l "isa"
+2 3 0.6666667 l "substring"
+3 2 0.6666667 l "substring"
+2 3 0.6666667 l "distance"
+3 2 0.6666667 l "distance"
+4 5 0.5000000 l "distance"
+5 4 0.5000000 l "distance"
+*Edges

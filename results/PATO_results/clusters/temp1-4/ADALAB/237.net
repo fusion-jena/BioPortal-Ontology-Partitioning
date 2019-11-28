@@ -1,0 +1,23 @@
+*Vertices 2
+1 "RadiotherapyPlanning" ellipse
+2 "3DRadiotherapyPlanning" ellipse
+*Arcs
+2 1 0.4735013 l "isa"
+1 2 0.3099833 l "isa"
+1 2 0.3099833 l "substring"
+2 1 0.4735013 l "substring"
+1 2 0.3099833 l "distance"
+2 1 0.4735013 l "distance"
+2 1 0.4735013 l "isa"
+1 2 0.3099833 l "isa"
+1 2 0.3099833 l "substring"
+2 1 0.4735013 l "substring"
+1 2 0.3099833 l "distance"
+2 1 0.4735013 l "distance"
+2 1 0.4735013 l "isa"
+1 2 0.3099833 l "isa"
+1 2 0.3099833 l "substring"
+2 1 0.4735013 l "substring"
+1 2 0.3099833 l "distance"
+2 1 0.4735013 l "distance"
+*Edges

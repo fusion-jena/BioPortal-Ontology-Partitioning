@@ -1,0 +1,29 @@
+*Vertices 6
+1 "Spinal nucleus of the trigeminal, oral part" ellipse
+2 "Spinal nucleus of the trigeminal, oral part, caudal dorsomedial part" ellipse
+3 "Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, dorsal zone" ellipse
+4 "Spinal nucleus of the trigeminal, oral part, middle dorsomedial part, ventral zone" ellipse
+5 "Spinal nucleus of the trigeminal, oral part, rostral dorsomedial part" ellipse
+6 "Spinal nucleus of the trigeminal, oral part, ventrolateral part" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1818182 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1818182 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.1818182 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.1818182 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.1818182 l "isa"
+1 2 0.1818182 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1818182 l "substring"
+3 1 1.0000000 l "substring"
+1 4 0.1818182 l "substring"
+4 1 1.0000000 l "substring"
+1 5 0.1818182 l "substring"
+5 1 1.0000000 l "substring"
+1 6 0.1818182 l "substring"
+6 1 1.0000000 l "substring"
+*Edges

@@ -1,0 +1,12 @@
+*Vertices 3
+1 "GM_Object" ellipse
+2 "EX_BoundingPolygon" ellipse
+3 "polygon"
+*Arcs
+2 1 0.2000000 l "polygon"
+1 2 1.0000000 l "polygon"
+2 3 0.4000000 l "definition"
+3 2 1.0000000 l "definition"
+2 3 0.4000000 l "substring"
+3 2 1.0000000 l "substring"
+*Edges

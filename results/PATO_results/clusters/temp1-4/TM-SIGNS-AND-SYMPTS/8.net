@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Yin Heel (Vessel) Meridian / 음교맥" ellipse
+2 "Yang Heel (Vessel) Meridian / 양교맥" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+1 2 1.0000000 l "distance"
+2 1 1.0000000 l "distance"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 3
+1 "Begrifflicher Gegenstand" ellipse
+2 "Appellation" ellipse
+3 "Appellation d'objet conceptuel" ellipse
+*Arcs
+3 2 0.4000000 l "isa"
+2 3 0.1176471 l "isa"
+2 2 0.1176471 l "a pour autre forme"
+2 2 0.1176471 l "a pour autre forme"
+1 3 0.2222222 l "is identified by"
+3 1 0.4000000 l "is identified by"
+3 1 0.4000000 l "identifies"
+1 3 0.2222222 l "identifies"
+2 3 0.1176471 l "substring"
+3 2 0.4000000 l "substring"
+*Edges

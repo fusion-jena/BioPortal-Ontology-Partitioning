@@ -1,0 +1,82 @@
+*Vertices 31
+1 "StarTree" ellipse
+2 "MolecularCharacter" ellipse
+3 "belongs_to_Network"
+4 "RibonucleotideResidue" ellipse
+5 "MolecularStateDatum" ellipse
+6 "RibonucleotideResidueStateDatum" ellipse
+7 "RibonucleotideResidueCharacter" ellipse
+8 "DesoxiRibonucleotideResidue" ellipse
+9 "has_Nucleotide_State"
+10 "nil"
+11 "belongs_to_Tree"
+12 "Phylo4Tree" ellipse
+13 "Categorical" ellipse
+14 "PhyloTree" ellipse
+15 "PHYLIPTree" ellipse
+16 "StandardCharacter" ellipse
+17 "AminoAcidResidue" ellipse
+18 "CoordinateList" ellipse
+19 "CharacterStateDatum" ellipse
+20 "SetOfThings" ellipse
+21 "has_First_Coordinate_Item"
+22 "has_Datum"
+23 "has_Amino_Acid_State"
+24 "has_Compound_Datum"
+25 "belongs_to_Edge_as_Child"
+26 "has_Continuous_Datum"
+27 "is_annotation_of"
+28 "has_Value"
+29 "has_Type"
+30 "has_Character"
+31 "belongs_to_Character"
+*Arcs
+6 5 0.2000000 l "isa"
+5 6 0.1666667 l "isa"
+7 2 0.1428571 l "isa"
+2 7 0.1428571 l "isa"
+19 19 0.1111111 l "homologous_to"
+19 19 0.1111111 l "homologous_to"
+18 18 0.5000000 l "has_Remaining_Coordinate_List"
+18 18 0.5000000 l "has_Remaining_Coordinate_List"
+9 10 0.2000000 l "definition"
+10 9 0.0303030 l "definition"
+9 8 0.2000000 l "definition"
+8 9 0.2000000 l "definition"
+21 10 0.2000000 l "definition"
+10 21 0.0303030 l "definition"
+22 10 0.0714286 l "definition"
+10 22 0.0303030 l "definition"
+23 10 0.2000000 l "definition"
+10 23 0.0303030 l "definition"
+23 17 0.2000000 l "definition"
+17 23 0.2500000 l "definition"
+24 10 0.1250000 l "definition"
+10 24 0.0303030 l "definition"
+3 10 0.1666667 l "definition"
+10 3 0.0303030 l "definition"
+11 10 0.1428571 l "definition"
+10 11 0.0303030 l "definition"
+26 10 0.1250000 l "definition"
+10 26 0.0303030 l "definition"
+19 31 0.0555556 l "definition"
+31 19 0.2500000 l "definition"
+7 6 0.1428571 l "definition"
+6 7 0.2000000 l "definition"
+7 22 0.1428571 l "definition"
+22 7 0.0714286 l "definition"
+4 6 0.1666667 l "substring"
+6 4 0.2000000 l "substring"
+4 7 0.1666667 l "substring"
+7 4 0.1428571 l "substring"
+4 8 0.1666667 l "substring"
+8 4 0.2000000 l "substring"
+12 14 0.2500000 l "distance"
+14 12 0.2500000 l "distance"
+12 15 0.2500000 l "distance"
+15 12 0.2500000 l "distance"
+14 15 0.2500000 l "distance"
+15 14 0.2500000 l "distance"
+22 28 0.0714286 l "distance"
+28 22 0.2500000 l "distance"
+*Edges

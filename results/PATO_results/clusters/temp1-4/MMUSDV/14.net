@@ -1,0 +1,9 @@
+*Vertices 2
+1 "emp-level" ellipse
+2 "prep-level" ellipse
+*Arcs
+1 2 0.2165327 l "distance"
+2 1 0.2652871 l "distance"
+1 2 0.2165327 l "distance"
+2 1 0.2652871 l "distance"
+*Edges

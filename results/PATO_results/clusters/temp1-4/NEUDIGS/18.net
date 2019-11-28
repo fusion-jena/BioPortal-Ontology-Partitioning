@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hasFacialNerve"
+2 "hasFacialNerveResection"
+*Arcs
+1 2 0.2698256 l "substring"
+2 1 0.2698256 l "substring"
+1 2 0.2698256 l "substring"
+2 1 0.2698256 l "substring"
+*Edges

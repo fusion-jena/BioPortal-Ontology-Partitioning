@@ -1,0 +1,40 @@
+*Vertices 15
+1 "bmi" ellipse
+2 "nil"
+3 "activeTime" ellipse
+4 "activeTimeSeconds" ellipse
+5 "date" ellipse
+6 "distanceKilometers" ellipse
+7 "distanceMiles" ellipse
+8 "elevation" ellipse
+9 "fat" ellipse
+10 "gps" ellipse
+11 "minutesFairlyActive" ellipse
+12 "minutesLightlyActive" ellipse
+13 "minutesSedentary" ellipse
+14 "minutesVeryActive" ellipse
+15 "Class"
+*Arcs
+6 10 0.5000000 l "isa"
+10 6 0.1428571 l "isa"
+7 10 0.5000000 l "isa"
+10 7 0.1428571 l "isa"
+8 10 0.5000000 l "isa"
+10 8 0.1428571 l "isa"
+3 4 0.3333333 l "substring"
+4 3 0.3333333 l "substring"
+1 9 0.2500000 l "distance"
+9 1 0.2000000 l "distance"
+1 10 0.2500000 l "distance"
+10 1 0.1428571 l "distance"
+1 2 0.2500000 l "distance"
+2 1 0.2500000 l "distance"
+5 9 0.5000000 l "distance"
+9 5 0.2000000 l "distance"
+9 10 0.2000000 l "distance"
+10 9 0.1428571 l "distance"
+9 2 0.2000000 l "distance"
+2 9 0.2500000 l "distance"
+10 2 0.1428571 l "distance"
+2 10 0.2500000 l "distance"
+*Edges

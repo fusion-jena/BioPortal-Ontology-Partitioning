@@ -1,0 +1,14 @@
+*Vertices 3
+1 "FRCST" ellipse
+2 "G-CSF" ellipse
+3 "GYS1" ellipse
+*Arcs
+1 2 0.1000744 l "distance"
+2 1 0.1771219 l "distance"
+2 3 0.1683113 l "distance"
+3 2 0.0247461 l "distance"
+1 2 0.1000744 l "distance"
+2 1 0.1771219 l "distance"
+2 3 0.1683113 l "distance"
+3 2 0.0247461 l "distance"
+*Edges

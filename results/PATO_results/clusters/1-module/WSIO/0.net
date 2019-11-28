@@ -1,0 +1,27 @@
+*Vertices 8
+1 "has input"
+2 "EXI" ellipse
+3 "7z" ellipse
+4 "is input of"
+5 "is output of"
+6 "has compression"
+7 "has transfer"
+8 "is transfer of"
+*Arcs
+1 1 0.2857143 l "definition"
+1 1 0.2857143 l "definition"
+4 4 0.4000000 l "definition"
+4 4 0.4000000 l "definition"
+5 5 0.4000000 l "definition"
+5 5 0.4000000 l "definition"
+6 6 0.4000000 l "definition"
+6 6 0.4000000 l "definition"
+7 7 0.4000000 l "definition"
+7 7 0.4000000 l "definition"
+8 8 0.4000000 l "definition"
+8 8 0.4000000 l "definition"
+2 3 0.2000000 l "distance"
+3 2 0.2000000 l "distance"
+4 5 0.2000000 l "distance"
+5 4 0.2000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 4
+1 "boolean" ellipse
+2 "integer" ellipse
+3 "string" ellipse
+4 "value type" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1666667 l "isa"
+*Edges

@@ -1,0 +1,29 @@
+*Vertices 2
+1 "ClassOfRecognition" ellipse
+2 "Recognition" ellipse
+*Arcs
+1 2 0.6433418 l "definition"
+2 1 0.8866317 l "definition"
+1 2 0.6433418 l "substring"
+2 1 0.8866317 l "substring"
+1 2 0.6433418 l "definition"
+2 1 0.8866317 l "definition"
+1 2 0.6433418 l "substring"
+2 1 0.8866317 l "substring"
+1 2 0.6433418 l "definition"
+2 1 0.8866317 l "definition"
+1 2 0.6433418 l "substring"
+2 1 0.8866317 l "substring"
+1 2 0.6433418 l "definition"
+2 1 0.8866317 l "definition"
+1 2 0.6433418 l "substring"
+2 1 0.8866317 l "substring"
+1 2 0.6433418 l "definition"
+2 1 0.8866317 l "definition"
+1 2 0.6433418 l "substring"
+2 1 0.8866317 l "substring"
+1 2 0.6433418 l "definition"
+2 1 0.8866317 l "definition"
+1 2 0.6433418 l "substring"
+2 1 0.8866317 l "substring"
+*Edges

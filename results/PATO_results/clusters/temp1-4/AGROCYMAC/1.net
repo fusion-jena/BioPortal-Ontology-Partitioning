@@ -1,0 +1,12 @@
+*Vertices 3
+1 "Aplicación" ellipse
+2 "Dosis" ellipse
+3 "Recomendaciones" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.5000000 l "isa"
+2 3 0.1111111 l "isa"
+3 2 0.5000000 l "isa"
+2 1 0.1111111 l "se_debe_aplicar"
+1 2 0.3333333 l "se_debe_aplicar"
+*Edges

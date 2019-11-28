@@ -1,0 +1,20 @@
+*Vertices 5
+1 "moderado" ellipse
+2 "outro_retardo_mental" ellipse
+3 "profundo" ellipse
+4 "retardo_mental" ellipse
+5 "retardo_mental_nao_especificado" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1111111 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.2222222 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1111111 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.2222222 l "isa"
+2 4 1.0000000 l "substring"
+4 2 0.2222222 l "substring"
+4 5 0.2222222 l "substring"
+5 4 1.0000000 l "substring"
+*Edges

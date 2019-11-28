@@ -1,0 +1,14 @@
+*Vertices 3
+1 "Diastolic arterial hypertension (HTN)" ellipse
+2 "Systemic arterial hypertension (HTN)" ellipse
+3 "Systolic arterial hypertension (HTN)" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 0.6666667 l "isa"
+2 3 0.4000000 l "isa"
+1 3 0.5000000 l "distance"
+3 1 0.3333333 l "distance"
+2 3 0.4000000 l "distance"
+3 2 0.6666667 l "distance"
+*Edges

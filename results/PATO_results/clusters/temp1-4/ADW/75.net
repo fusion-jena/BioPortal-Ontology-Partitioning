@@ -1,0 +1,9 @@
+*Vertices 2
+1 "PSEN1 test" ellipse
+2 "PSEN2 test" ellipse
+*Arcs
+1 2 0.3592506 l "distance"
+2 1 0.3581422 l "distance"
+1 2 0.3592506 l "distance"
+2 1 0.3581422 l "distance"
+*Edges

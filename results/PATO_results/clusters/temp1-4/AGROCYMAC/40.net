@@ -1,0 +1,13 @@
+*Vertices 2
+1 "seed drill" ellipse
+2 "manual oilseed drill" ellipse
+*Arcs
+2 1 0.7156349 l "isa"
+1 2 0.3515234 l "isa"
+1 2 0.3515234 l "substring"
+2 1 0.7156349 l "substring"
+2 1 0.7156349 l "isa"
+1 2 0.3515234 l "isa"
+1 2 0.3515234 l "substring"
+2 1 0.7156349 l "substring"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 6
+1 "_Diagnostic test" ellipse
+2 "Genetic test" ellipse
+3 "bioluminescence imaging" ellipse
+4 "mass spectrometry" ellipse
+5 "Diagnostic test" ellipse
+6 "gene" ellipse
+*Arcs
+2 5 0.3615095 l "isa"
+5 2 0.0544427 l "isa"
+3 5 0.4328358 l "isa"
+5 3 0.0651067 l "isa"
+4 5 0.4328358 l "isa"
+5 4 0.0651067 l "isa"
+1 5 0.5601668 l "substring"
+5 1 0.1182398 l "substring"
+2 6 0.3552458 l "substring"
+6 2 0.0093670 l "substring"
+1 5 0.5601668 l "distance"
+5 1 0.1182398 l "distance"
+2 5 0.3615095 l "isa"
+5 2 0.0544427 l "isa"
+3 5 0.4328358 l "isa"
+5 3 0.0651067 l "isa"
+4 5 0.4328358 l "isa"
+5 4 0.0651067 l "isa"
+1 5 0.5601668 l "substring"
+5 1 0.1182398 l "substring"
+2 6 0.3552458 l "substring"
+6 2 0.0093670 l "substring"
+1 5 0.5601668 l "distance"
+5 1 0.1182398 l "distance"
+*Edges

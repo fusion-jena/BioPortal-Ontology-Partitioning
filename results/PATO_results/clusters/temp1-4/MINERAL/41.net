@@ -1,0 +1,13 @@
+*Vertices 2
+1 "growth pH"
+2 "optimal growth pH"
+*Arcs
+1 2 0.1425940 l "substring"
+2 1 0.1884801 l "substring"
+1 2 0.1425940 l "substring"
+2 1 0.1884801 l "substring"
+1 2 0.1425940 l "substring"
+2 1 0.1884801 l "substring"
+1 2 0.1425940 l "substring"
+2 1 0.1884801 l "substring"
+*Edges

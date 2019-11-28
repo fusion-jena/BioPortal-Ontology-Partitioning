@@ -1,0 +1,17 @@
+*Vertices 2
+1 "nefopam" ellipse
+2 "Nefopam Oral Tablet" ellipse
+*Arcs
+1 2 0.6731951 l "substring"
+2 1 0.6982738 l "substring"
+1 2 0.6731951 l "substring"
+2 1 0.6982738 l "substring"
+1 2 0.6731951 l "substring"
+2 1 0.6982738 l "substring"
+1 2 0.6731951 l "substring"
+2 1 0.6982738 l "substring"
+1 2 0.6731951 l "substring"
+2 1 0.6982738 l "substring"
+1 2 0.6731951 l "substring"
+2 1 0.6982738 l "substring"
+*Edges

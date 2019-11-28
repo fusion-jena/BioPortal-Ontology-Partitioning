@@ -1,0 +1,27 @@
+*Vertices 8
+1 "Onset" ellipse
+2 "allergens" ellipse
+3 "apparition" ellipse
+4 "food" ellipse
+5 "insects" ellipse
+6 "molds" ellipse
+7 "pollens" ellipse
+8 "time_frame" ellipse
+*Arcs
+3 1 1.0000000 l "isa"
+1 3 0.2000000 l "isa"
+4 2 0.5000000 l "isa"
+2 4 0.1666667 l "isa"
+5 2 0.5000000 l "isa"
+2 5 0.1666667 l "isa"
+6 7 0.3333333 l "isa"
+7 6 0.5000000 l "isa"
+7 2 0.5000000 l "isa"
+2 7 0.1666667 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.2000000 l "isa"
+1 5 0.2000000 l "distance"
+5 1 0.5000000 l "distance"
+4 6 0.5000000 l "distance"
+6 4 0.3333333 l "distance"
+*Edges

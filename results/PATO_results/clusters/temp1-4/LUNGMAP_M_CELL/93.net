@@ -1,0 +1,15 @@
+*Vertices 2
+1 "Mukota" ellipse
+2 "Moxotó" ellipse
+*Arcs
+1 2 0.6653485 l "distance"
+2 1 0.6653906 l "distance"
+1 2 0.6653485 l "distance"
+2 1 0.6653906 l "distance"
+1 2 0.6653485 l "distance"
+2 1 0.6653906 l "distance"
+1 2 0.6653485 l "distance"
+2 1 0.6653906 l "distance"
+1 2 0.6653485 l "distance"
+2 1 0.6653906 l "distance"
+*Edges

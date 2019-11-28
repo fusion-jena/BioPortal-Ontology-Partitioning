@@ -1,0 +1,89 @@
+*Vertices 24
+1 "GO_term" ellipse
+2 "SAM_result" ellipse
+3 "accession_number" ellipse
+4 "culture_medium" ellipse
+5 "drug_selected_sample" ellipse
+6 "labelling" ellipse
+7 "nucleic_acid" ellipse
+8 "oligo_to_gene_assignment" ellipse
+9 "phenotype" ellipse
+10 "proteome_analysis" ellipse
+11 "scanning" ellipse
+12 "sequence_coverage" ellipse
+13 "sequence_extraction" ellipse
+14 "spectral_count" ellipse
+15 "statistical_measure" ellipse
+16 "transcriptome_process" ellipse
+17 "data_collection" ellipse
+18 "domain_parameter" ellipse
+19 "Gene_Function" ellipse
+20 "Microarray_Analysis" ellipse
+21 "Probability" ellipse
+22 "chromosome" ellipse
+23 "gene" ellipse
+24 "double"
+*Arcs
+1 17 0.5000000 l "isa"
+17 1 0.0666667 l "isa"
+2 17 0.5000000 l "isa"
+17 2 0.0666667 l "isa"
+3 18 0.5000000 l "isa"
+18 3 0.0434783 l "isa"
+4 18 1.0000000 l "isa"
+18 4 0.0434783 l "isa"
+6 16 1.0000000 l "isa"
+16 6 0.0769231 l "isa"
+7 18 1.0000000 l "isa"
+18 7 0.0434783 l "isa"
+8 16 0.5000000 l "isa"
+16 8 0.0769231 l "isa"
+9 17 1.0000000 l "isa"
+17 9 0.0666667 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.0769231 l "isa"
+12 5 0.5000000 l "isa"
+5 12 0.1666667 l "isa"
+14 17 0.5000000 l "isa"
+17 14 0.0666667 l "isa"
+15 17 0.2000000 l "isa"
+17 15 0.0666667 l "isa"
+19 18 0.5000000 l "isa"
+18 19 0.0434783 l "isa"
+20 16 0.1000000 l "isa"
+16 20 0.0769231 l "isa"
+21 15 0.5000000 l "isa"
+15 21 0.2000000 l "isa"
+22 18 1.0000000 l "isa"
+18 22 0.0434783 l "isa"
+23 1 0.0769231 l "has_GO_annotation"
+1 23 0.5000000 l "has_GO_annotation"
+18 24 0.1739130 l "has_hmm_prob"
+24 18 0.6666667 l "has_hmm_prob"
+18 24 0.1739130 l "has_nn_d"
+24 18 0.6666667 l "has_nn_d"
+18 24 0.1739130 l "has_nn_sum"
+24 18 0.6666667 l "has_nn_sum"
+18 24 0.1739130 l "has_tm_count"
+24 18 0.6666667 l "has_tm_count"
+15 24 0.2000000 l "has_value"
+24 15 0.1666667 l "has_value"
+10 23 0.0769231 l "definition"
+23 10 0.0769231 l "definition"
+10 12 0.0769231 l "definition"
+12 10 0.5000000 l "definition"
+10 14 0.0769231 l "definition"
+14 10 0.5000000 l "definition"
+10 21 0.0769231 l "definition"
+21 10 0.5000000 l "definition"
+13 3 0.0769231 l "definition"
+3 13 0.5000000 l "definition"
+16 23 0.0769231 l "definition"
+23 16 0.0769231 l "definition"
+20 2 0.1000000 l "definition"
+2 20 0.5000000 l "definition"
+8 23 0.5000000 l "substring"
+23 8 0.0769231 l "substring"
+19 23 0.5000000 l "substring"
+23 19 0.0769231 l "substring"
+*Edges

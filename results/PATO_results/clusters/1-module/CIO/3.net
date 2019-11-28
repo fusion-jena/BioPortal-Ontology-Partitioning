@@ -1,0 +1,81 @@
+*Vertices 14
+1 "confidence information statement" ellipse
+2 "confidence statement from multiple evidence lines" ellipse
+3 "confidence statement from multiple evidence lines of same type" ellipse
+4 "confidence statement from multiple evidence lines of multiple types" ellipse
+5 "confidence level" ellipse
+6 "high confidence level" ellipse
+7 "medium confidence level" ellipse
+8 "low confidence level" ellipse
+9 "evidence concordance" ellipse
+10 "different type" ellipse
+11 "confidence information element" ellipse
+12 "evidence type concordance" ellipse
+13 "has confidence element"
+14 "provides greater confidence than"
+*Arcs
+2 1 0.1333333 l "isa"
+1 2 0.0952381 l "isa"
+3 2 0.2307692 l "isa"
+2 3 0.2000000 l "isa"
+4 2 0.2500000 l "isa"
+2 4 0.2000000 l "isa"
+5 11 0.0769231 l "isa"
+11 5 0.2000000 l "isa"
+6 5 0.1818182 l "isa"
+5 6 0.1538462 l "isa"
+7 5 0.1818182 l "isa"
+5 7 0.1538462 l "isa"
+8 5 0.2222222 l "isa"
+5 8 0.1538462 l "isa"
+9 11 0.1666667 l "isa"
+11 9 0.2000000 l "isa"
+10 12 0.5000000 l "isa"
+12 10 0.1428571 l "isa"
+12 11 0.1428571 l "isa"
+11 12 0.2000000 l "isa"
+1 11 0.0952381 l "has confidence element"
+11 1 0.4000000 l "has confidence element"
+1 9 0.0952381 l "has evidence concordance"
+9 1 0.3333333 l "has evidence concordance"
+5 5 0.1538462 l "provides greater confidence than"
+5 5 0.1538462 l "provides greater confidence than"
+1 9 0.0952381 l "definition"
+9 1 0.3333333 l "definition"
+1 13 0.0476190 l "definition"
+13 1 1.0000000 l "definition"
+1 5 0.0476190 l "definition"
+5 1 0.0769231 l "definition"
+1 12 0.0476190 l "definition"
+12 1 0.1428571 l "definition"
+1 11 0.0952381 l "definition"
+11 1 0.4000000 l "definition"
+2 1 0.1333333 l "definition"
+1 2 0.0952381 l "definition"
+2 12 0.0666667 l "definition"
+12 2 0.1428571 l "definition"
+3 2 0.2307692 l "definition"
+2 3 0.2000000 l "definition"
+4 10 0.0833333 l "definition"
+10 4 0.5000000 l "definition"
+4 2 0.2500000 l "definition"
+2 4 0.2000000 l "definition"
+6 14 0.0909091 l "definition"
+14 6 0.5000000 l "definition"
+6 7 0.0909091 l "definition"
+7 6 0.0909091 l "definition"
+7 8 0.0909091 l "definition"
+8 7 0.1111111 l "definition"
+7 14 0.0909091 l "definition"
+14 7 0.5000000 l "definition"
+2 3 0.2000000 l "substring"
+3 2 0.2307692 l "substring"
+2 4 0.2000000 l "substring"
+4 2 0.2500000 l "substring"
+5 6 0.1538462 l "substring"
+6 5 0.1818182 l "substring"
+5 7 0.1538462 l "substring"
+7 5 0.1818182 l "substring"
+5 8 0.1538462 l "substring"
+8 5 0.2222222 l "substring"
+*Edges

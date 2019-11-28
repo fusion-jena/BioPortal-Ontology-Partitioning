@@ -1,0 +1,285 @@
+*Vertices 54
+1 "animal disease model" ellipse
+2 "animal model" ellipse
+3 "bacterial model" ellipse
+4 "binomial model" ellipse
+5 "biological model" ellipse
+6 "care planning model" ellipse
+7 "case mix adjustment model" ellipse
+8 "computer model" ellipse
+9 "content model" ellipse
+10 "continuum modeling" ellipse
+11 "cost-effectiveness model" ellipse
+12 "decision model" ellipse
+13 "decision support model" ellipse
+14 "discrete modeling" ellipse
+15 "drug model" ellipse
+16 "econometric model" ellipse
+17 "economic decision model" ellipse
+18 "economic model" ellipse
+19 "economic modeling study" ellipse
+20 "experimental animal model" ellipse
+21 "experimental model" ellipse
+22 "hidden markov model" ellipse
+23 "homology modeling" ellipse
+24 "hybrid modeling" ellipse
+25 "immunological model" ellipse
+26 "in silico model" ellipse
+27 "in vitro model" ellipse
+28 "in vivo model" ellipse
+29 "intervention model" ellipse
+30 "joinpoint model" ellipse
+31 "laboratory animal model" ellipse
+32 "mathematical model" ellipse
+33 "model" ellipse
+34 "molecular model" ellipse
+35 "mortality risk model" ellipse
+36 "mouse model" ellipse
+37 "neural network model" ellipse
+38 "neurologic model" ellipse
+39 "nucleic acid biochemistry molecular modeling" ellipse
+40 "nursing model" ellipse
+41 "organisational model" ellipse
+42 "pre-clinical model" ellipse
+43 "predictive model" ellipse
+44 "protein disruption model" ellipse
+45 "psychological model" ellipse
+46 "reference information model" ellipse
+47 "rehabilitation model" ellipse
+48 "simulation model" ellipse
+49 "statistical model" ellipse
+50 "surveillance modeling" ellipse
+51 "therapeutic model" ellipse
+52 "tissue model" ellipse
+53 "transgenic model" ellipse
+54 "tumor model" ellipse
+*Arcs
+1 2 0.5000000 l "isa"
+2 1 0.1000000 l "isa"
+2 5 0.1000000 l "isa"
+5 2 0.0833333 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.0833333 l "isa"
+4 49 0.5000000 l "isa"
+49 4 0.1428571 l "isa"
+5 33 0.1666667 l "isa"
+33 5 0.0240964 l "isa"
+6 33 1.0000000 l "isa"
+33 6 0.0240964 l "isa"
+7 49 0.5000000 l "isa"
+49 7 0.1428571 l "isa"
+8 33 0.3333333 l "isa"
+33 8 0.0240964 l "isa"
+9 33 1.0000000 l "isa"
+33 9 0.0240964 l "isa"
+10 32 0.5000000 l "isa"
+32 10 0.1666667 l "isa"
+11 18 0.5000000 l "isa"
+18 11 0.1250000 l "isa"
+12 33 0.3333333 l "isa"
+33 12 0.0240964 l "isa"
+13 12 0.5000000 l "isa"
+12 13 0.1666667 l "isa"
+14 32 0.5000000 l "isa"
+32 14 0.1666667 l "isa"
+15 34 0.5000000 l "isa"
+34 15 0.1250000 l "isa"
+16 33 0.6666667 l "isa"
+33 16 0.0240964 l "isa"
+17 12 0.5000000 l "isa"
+12 17 0.3333333 l "isa"
+17 18 0.2500000 l "isa"
+18 17 0.1250000 l "isa"
+18 33 0.2500000 l "isa"
+33 18 0.0240964 l "isa"
+19 18 0.6666667 l "isa"
+18 19 0.2500000 l "isa"
+20 2 0.6666667 l "isa"
+2 20 0.2000000 l "isa"
+21 33 1.0000000 l "isa"
+33 21 0.0240964 l "isa"
+22 49 0.5000000 l "isa"
+49 22 0.1428571 l "isa"
+23 34 0.5000000 l "isa"
+34 23 0.1250000 l "isa"
+24 32 0.5000000 l "isa"
+32 24 0.1666667 l "isa"
+25 5 0.5000000 l "isa"
+5 25 0.0833333 l "isa"
+26 8 0.5000000 l "isa"
+8 26 0.1666667 l "isa"
+27 33 0.6666667 l "isa"
+33 27 0.0240964 l "isa"
+28 33 0.6666667 l "isa"
+33 28 0.0240964 l "isa"
+29 33 1.0000000 l "isa"
+33 29 0.0240964 l "isa"
+30 49 0.5000000 l "isa"
+49 30 0.1428571 l "isa"
+31 2 0.6666667 l "isa"
+2 31 0.2000000 l "isa"
+32 33 0.3333333 l "isa"
+33 32 0.0240964 l "isa"
+34 5 0.1250000 l "isa"
+5 34 0.0833333 l "isa"
+35 43 0.5000000 l "isa"
+43 35 0.3333333 l "isa"
+36 2 0.5000000 l "isa"
+2 36 0.1000000 l "isa"
+37 8 0.5000000 l "isa"
+8 37 0.1666667 l "isa"
+38 5 0.5000000 l "isa"
+5 38 0.0833333 l "isa"
+39 34 0.6666667 l "isa"
+34 39 0.2500000 l "isa"
+40 33 1.0000000 l "isa"
+33 40 0.0240964 l "isa"
+41 33 1.0000000 l "isa"
+33 41 0.0240964 l "isa"
+42 2 0.5000000 l "isa"
+2 42 0.1000000 l "isa"
+43 49 0.3333333 l "isa"
+49 43 0.1428571 l "isa"
+44 34 0.5000000 l "isa"
+34 44 0.1250000 l "isa"
+45 33 1.0000000 l "isa"
+33 45 0.0240964 l "isa"
+46 8 0.5000000 l "isa"
+8 46 0.1666667 l "isa"
+47 33 1.0000000 l "isa"
+33 47 0.0240964 l "isa"
+48 8 0.5000000 l "isa"
+8 48 0.1666667 l "isa"
+49 32 0.1428571 l "isa"
+32 49 0.1666667 l "isa"
+50 33 0.6666667 l "isa"
+33 50 0.0240964 l "isa"
+51 33 1.0000000 l "isa"
+33 51 0.0240964 l "isa"
+52 5 0.5000000 l "isa"
+5 52 0.0833333 l "isa"
+53 2 0.5000000 l "isa"
+2 53 0.1000000 l "isa"
+54 5 0.5000000 l "isa"
+5 54 0.0833333 l "isa"
+1 33 0.5000000 l "substring"
+33 1 0.0120482 l "substring"
+2 20 0.2000000 l "substring"
+20 2 0.6666667 l "substring"
+2 31 0.2000000 l "substring"
+31 2 0.6666667 l "substring"
+2 33 0.1000000 l "substring"
+33 2 0.0120482 l "substring"
+3 33 0.5000000 l "substring"
+33 3 0.0120482 l "substring"
+4 33 0.5000000 l "substring"
+33 4 0.0120482 l "substring"
+5 33 0.1666667 l "substring"
+33 5 0.0240964 l "substring"
+6 33 1.0000000 l "substring"
+33 6 0.0240964 l "substring"
+7 33 0.5000000 l "substring"
+33 7 0.0120482 l "substring"
+8 33 0.3333333 l "substring"
+33 8 0.0240964 l "substring"
+9 33 1.0000000 l "substring"
+33 9 0.0240964 l "substring"
+10 33 0.5000000 l "substring"
+33 10 0.0120482 l "substring"
+11 33 0.5000000 l "substring"
+33 11 0.0120482 l "substring"
+12 17 0.3333333 l "substring"
+17 12 0.5000000 l "substring"
+12 33 0.3333333 l "substring"
+33 12 0.0240964 l "substring"
+13 33 0.5000000 l "substring"
+33 13 0.0120482 l "substring"
+14 33 0.5000000 l "substring"
+33 14 0.0120482 l "substring"
+15 33 0.5000000 l "substring"
+33 15 0.0120482 l "substring"
+16 33 0.6666667 l "substring"
+33 16 0.0240964 l "substring"
+17 33 0.2500000 l "substring"
+33 17 0.0120482 l "substring"
+18 19 0.2500000 l "substring"
+19 18 0.6666667 l "substring"
+18 33 0.2500000 l "substring"
+33 18 0.0240964 l "substring"
+19 33 0.3333333 l "substring"
+33 19 0.0120482 l "substring"
+20 33 0.3333333 l "substring"
+33 20 0.0120482 l "substring"
+21 33 1.0000000 l "substring"
+33 21 0.0240964 l "substring"
+22 33 0.5000000 l "substring"
+33 22 0.0120482 l "substring"
+23 33 0.5000000 l "substring"
+33 23 0.0120482 l "substring"
+24 33 0.5000000 l "substring"
+33 24 0.0120482 l "substring"
+25 33 0.5000000 l "substring"
+33 25 0.0120482 l "substring"
+26 33 0.5000000 l "substring"
+33 26 0.0120482 l "substring"
+27 33 0.6666667 l "substring"
+33 27 0.0240964 l "substring"
+28 33 0.6666667 l "substring"
+33 28 0.0240964 l "substring"
+29 33 1.0000000 l "substring"
+33 29 0.0240964 l "substring"
+30 33 0.5000000 l "substring"
+33 30 0.0120482 l "substring"
+31 33 0.3333333 l "substring"
+33 31 0.0120482 l "substring"
+32 33 0.3333333 l "substring"
+33 32 0.0240964 l "substring"
+33 34 0.0120482 l "substring"
+34 33 0.1250000 l "substring"
+33 35 0.0120482 l "substring"
+35 33 0.5000000 l "substring"
+33 36 0.0120482 l "substring"
+36 33 0.5000000 l "substring"
+33 37 0.0120482 l "substring"
+37 33 0.5000000 l "substring"
+33 38 0.0120482 l "substring"
+38 33 0.5000000 l "substring"
+33 39 0.0120482 l "substring"
+39 33 0.3333333 l "substring"
+33 40 0.0240964 l "substring"
+40 33 1.0000000 l "substring"
+33 41 0.0240964 l "substring"
+41 33 1.0000000 l "substring"
+33 42 0.0120482 l "substring"
+42 33 0.5000000 l "substring"
+33 43 0.0120482 l "substring"
+43 33 0.3333333 l "substring"
+33 44 0.0120482 l "substring"
+44 33 0.5000000 l "substring"
+33 45 0.0240964 l "substring"
+45 33 1.0000000 l "substring"
+33 46 0.0120482 l "substring"
+46 33 0.5000000 l "substring"
+33 47 0.0240964 l "substring"
+47 33 1.0000000 l "substring"
+33 48 0.0120482 l "substring"
+48 33 0.5000000 l "substring"
+33 49 0.0120482 l "substring"
+49 33 0.1428571 l "substring"
+33 50 0.0240964 l "substring"
+50 33 0.6666667 l "substring"
+33 51 0.0240964 l "substring"
+51 33 1.0000000 l "substring"
+33 52 0.0120482 l "substring"
+52 33 0.5000000 l "substring"
+33 53 0.0120482 l "substring"
+53 33 0.5000000 l "substring"
+33 54 0.0120482 l "substring"
+54 33 0.5000000 l "substring"
+34 39 0.2500000 l "substring"
+39 34 0.6666667 l "substring"
+16 18 0.3333333 l "distance"
+18 16 0.1250000 l "distance"
+27 28 0.3333333 l "distance"
+28 27 0.3333333 l "distance"
+*Edges

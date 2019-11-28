@@ -1,0 +1,44 @@
+*Vertices 5
+1 "Acquisition_of_control_certainty" ellipse
+2 "General_loss_of_skills" ellipse
+3 "Loss_of_skills" ellipse
+4 "Loss_of_skills_certainty" ellipse
+5 "Refineable_entity" ellipse
+*Arcs
+1 5 0.1603281 l "isa"
+5 1 0.2124102 l "isa"
+2 3 0.5837552 l "isa"
+3 2 0.3318965 l "isa"
+4 5 0.1582602 l "isa"
+5 4 0.2122260 l "isa"
+2 4 0.2213918 l "has_loss_certainty"
+4 2 0.1621198 l "has_loss_certainty"
+2 3 0.5837552 l "substring"
+3 2 0.3318965 l "substring"
+3 4 0.1145941 l "substring"
+4 3 0.1475928 l "substring"
+1 5 0.1603281 l "isa"
+5 1 0.2124102 l "isa"
+2 3 0.5837552 l "isa"
+3 2 0.3318965 l "isa"
+4 5 0.1582602 l "isa"
+5 4 0.2122260 l "isa"
+2 4 0.2213918 l "has_loss_certainty"
+4 2 0.1621198 l "has_loss_certainty"
+2 3 0.5837552 l "substring"
+3 2 0.3318965 l "substring"
+3 4 0.1145941 l "substring"
+4 3 0.1475928 l "substring"
+1 5 0.1603281 l "isa"
+5 1 0.2124102 l "isa"
+2 3 0.5837552 l "isa"
+3 2 0.3318965 l "isa"
+4 5 0.1582602 l "isa"
+5 4 0.2122260 l "isa"
+2 4 0.2213918 l "has_loss_certainty"
+4 2 0.1621198 l "has_loss_certainty"
+2 3 0.5837552 l "substring"
+3 2 0.3318965 l "substring"
+3 4 0.1145941 l "substring"
+4 3 0.1475928 l "substring"
+*Edges

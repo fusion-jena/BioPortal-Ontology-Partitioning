@@ -1,0 +1,11 @@
+*Vertices 2
+1 "ADCS-ADL" ellipse
+2 "diagnosis context" ellipse
+*Arcs
+1 2 0.2555226 l "definition"
+2 1 0.0494191 l "definition"
+1 2 0.2555226 l "definition"
+2 1 0.0494191 l "definition"
+1 2 0.2555226 l "definition"
+2 1 0.0494191 l "definition"
+*Edges

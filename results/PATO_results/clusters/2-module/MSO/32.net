@@ -1,0 +1,7 @@
+*Vertices 2
+1 "GSK3B" ellipse
+2 "PKB" ellipse
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 0.0131579 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Brahman" ellipse
+2 "Brahmas" ellipse
+*Arcs
+1 2 0.4627663 l "distance"
+2 1 0.4479249 l "distance"
+1 2 0.4627663 l "distance"
+2 1 0.4479249 l "distance"
+1 2 0.4627663 l "distance"
+2 1 0.4479249 l "distance"
+1 2 0.4627663 l "distance"
+2 1 0.4479249 l "distance"
+1 2 0.4627663 l "distance"
+2 1 0.4479249 l "distance"
+1 2 0.4627663 l "distance"
+2 1 0.4479249 l "distance"
+*Edges

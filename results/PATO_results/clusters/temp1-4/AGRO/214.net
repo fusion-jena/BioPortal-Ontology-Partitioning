@@ -1,0 +1,14 @@
+*Vertices 3
+1 "inorganic cation" ellipse
+2 "monovalent inorganic cation" ellipse
+3 "divalent inorganic cation" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.1818182 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.1818182 l "isa"
+1 2 0.1818182 l "substring"
+2 1 0.2857143 l "substring"
+1 3 0.1818182 l "substring"
+3 1 0.3333333 l "substring"
+*Edges

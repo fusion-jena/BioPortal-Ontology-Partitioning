@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Arc" ellipse
+2 "numArc"
+*Arcs
+1 2 0.0937500 l "definition"
+2 1 0.4285714 l "definition"
+1 2 0.0937500 l "substring"
+2 1 0.4285714 l "substring"
+1 2 0.0937500 l "distance"
+2 1 0.4285714 l "distance"
+*Edges

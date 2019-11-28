@@ -1,0 +1,18 @@
+*Vertices 3
+1 "e21 micromere" ellipse
+2 "m111 micromere" ellipse
+3 "m112 micromere" ellipse
+*Arcs
+1 2 0.0532197 l "distance"
+2 1 0.0669838 l "distance"
+1 3 0.0530228 l "distance"
+3 1 0.0590814 l "distance"
+2 3 0.0671795 l "distance"
+3 2 0.0594741 l "distance"
+1 2 0.0532197 l "distance"
+2 1 0.0669838 l "distance"
+1 3 0.0530228 l "distance"
+3 1 0.0590814 l "distance"
+2 3 0.0671795 l "distance"
+3 2 0.0594741 l "distance"
+*Edges

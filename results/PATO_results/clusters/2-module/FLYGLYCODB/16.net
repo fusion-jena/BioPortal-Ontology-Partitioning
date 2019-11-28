@@ -1,0 +1,26 @@
+*Vertices 5
+1 "alpha1_3-fucosyltransferase" ellipse
+2 "alpha1_3_and_1_4-fucosyltransferase" ellipse
+3 "alpha1_6-fucosyltransferase" ellipse
+4 "fucosyltransferase" ellipse
+5 "protein_O-fucosyltransferase" ellipse
+*Arcs
+1 4 0.6666667 l "isa"
+4 1 0.1818182 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1818182 l "isa"
+3 4 0.6666667 l "isa"
+4 3 0.1818182 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1818182 l "isa"
+1 4 0.6666667 l "substring"
+4 1 0.1818182 l "substring"
+2 4 1.0000000 l "substring"
+4 2 0.1818182 l "substring"
+3 4 0.6666667 l "substring"
+4 3 0.1818182 l "substring"
+4 5 0.1818182 l "substring"
+5 4 0.5000000 l "substring"
+1 3 0.3333333 l "distance"
+3 1 0.3333333 l "distance"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Danish Red" ellipse
+2 "Polish Red" ellipse
+*Arcs
+1 2 0.6594473 l "distance"
+2 1 0.5005057 l "distance"
+1 2 0.6594473 l "distance"
+2 1 0.5005057 l "distance"
+1 2 0.6594473 l "distance"
+2 1 0.5005057 l "distance"
+1 2 0.6594473 l "distance"
+2 1 0.5005057 l "distance"
+1 2 0.6594473 l "distance"
+2 1 0.5005057 l "distance"
+1 2 0.6594473 l "distance"
+2 1 0.5005057 l "distance"
+*Edges

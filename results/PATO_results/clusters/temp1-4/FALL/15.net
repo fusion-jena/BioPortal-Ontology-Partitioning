@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Indeterminate position within a range" ellipse
+2 "Region" ellipse
+3 "begin"
+*Arcs
+3 2 0.4032778 l "definition"
+2 3 0.2034808 l "definition"
+3 1 0.2558008 l "definition"
+1 3 0.2183585 l "definition"
+1 3 0.2183585 l "definition"
+3 1 0.2558008 l "definition"
+2 3 0.2034808 l "definition"
+3 2 0.4032778 l "definition"
+2 3 0.2034808 l "distance"
+3 2 0.4032778 l "distance"
+3 2 0.4032778 l "definition"
+2 3 0.2034808 l "definition"
+3 1 0.2558008 l "definition"
+1 3 0.2183585 l "definition"
+1 3 0.2183585 l "definition"
+3 1 0.2558008 l "definition"
+2 3 0.2034808 l "definition"
+3 2 0.4032778 l "definition"
+2 3 0.2034808 l "distance"
+3 2 0.4032778 l "distance"
+*Edges

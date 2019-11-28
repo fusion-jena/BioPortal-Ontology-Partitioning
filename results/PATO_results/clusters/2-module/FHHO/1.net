@@ -1,0 +1,48 @@
+*Vertices 11
+1 "Female_Blood_Relation" ellipse
+2 "Grand_Nephew" ellipse
+3 "Grand_Niece" ellipse
+4 "Half_Brother" ellipse
+5 "Half_Sibling" ellipse
+6 "Half_Sister" ellipse
+7 "Male_Blood_Relation" ellipse
+8 "Nephew" ellipse
+9 "Niece" ellipse
+10 "Second_Degree_Relation" ellipse
+11 "Third_Degree_Relation" ellipse
+*Arcs
+2 7 0.3333333 l "isa"
+7 2 0.0476190 l "isa"
+2 11 0.3333333 l "isa"
+11 2 0.1250000 l "isa"
+3 1 0.3333333 l "isa"
+1 3 0.0476190 l "isa"
+3 11 0.3333333 l "isa"
+11 3 0.1250000 l "isa"
+5 10 0.3333333 l "isa"
+10 5 0.1250000 l "isa"
+8 7 0.3333333 l "isa"
+7 8 0.0476190 l "isa"
+8 10 0.3333333 l "isa"
+10 8 0.1250000 l "isa"
+9 1 0.2500000 l "isa"
+1 9 0.0476190 l "isa"
+9 10 0.2500000 l "isa"
+10 9 0.1250000 l "isa"
+4 7 0.2500000 l "definition"
+7 4 0.0476190 l "definition"
+4 5 0.2500000 l "definition"
+5 4 0.3333333 l "definition"
+6 1 0.2500000 l "definition"
+1 6 0.0476190 l "definition"
+6 5 0.2500000 l "definition"
+5 6 0.3333333 l "definition"
+1 7 0.0952381 l "substring"
+7 1 0.0952381 l "substring"
+2 8 0.3333333 l "substring"
+8 2 0.3333333 l "substring"
+3 9 0.3333333 l "substring"
+9 3 0.2500000 l "substring"
+1 7 0.0952381 l "distance"
+7 1 0.0952381 l "distance"
+*Edges

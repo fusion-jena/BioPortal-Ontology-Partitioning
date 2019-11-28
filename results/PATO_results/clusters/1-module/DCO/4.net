@@ -1,0 +1,25 @@
+*Vertices 6
+1 "Option" ellipse
+2 "Eigenschaftsmenge" ellipse
+3 "Symptom set" ellipse
+4 "Eigenschaftsmenge mit ICF-Klassifikation" ellipse
+5 "Eigenschaftsmenge mit ALSFRS-Skalierung" ellipse
+6 "Symptom set with ALSFRS scaling" ellipse
+*Arcs
+4 2 0.4000000 l "isa"
+2 4 0.2857143 l "isa"
+5 2 0.4000000 l "isa"
+2 5 0.2857143 l "isa"
+6 3 0.4000000 l "isa"
+3 6 0.2857143 l "isa"
+5 1 0.2000000 l "contains affected property"
+1 5 0.5000000 l "contains affected property"
+6 1 0.2000000 l "contains symptom"
+1 6 0.5000000 l "contains symptom"
+2 4 0.2857143 l "substring"
+4 2 0.4000000 l "substring"
+2 5 0.2857143 l "substring"
+5 2 0.4000000 l "substring"
+3 6 0.2857143 l "substring"
+6 3 0.4000000 l "substring"
+*Edges

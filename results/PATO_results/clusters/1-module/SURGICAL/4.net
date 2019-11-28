@@ -1,0 +1,7 @@
+*Vertices 2
+1 "A Doctor of medicine" ellipse
+2 "Nurses_Dependent_Role" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+*Edges

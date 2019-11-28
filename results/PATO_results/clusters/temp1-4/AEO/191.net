@@ -1,0 +1,11 @@
+*Vertices 2
+1 "APOE genotype" ellipse
+2 "ApoE genotype test" ellipse
+*Arcs
+1 2 0.2315699 l "substring"
+2 1 0.2318221 l "substring"
+1 2 0.2315699 l "substring"
+2 1 0.2318221 l "substring"
+1 2 0.2315699 l "substring"
+2 1 0.2318221 l "substring"
+*Edges

@@ -1,0 +1,16 @@
+*Vertices 5
+1 "be active service" ellipse
+2 "be mindful service" ellipse
+3 "service to make you feel good" ellipse
+4 "sports club" ellipse
+5 "non-team excercise provider" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.2500000 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.2500000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.3333333 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.3333333 l "isa"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Development_definitly_abnormal_in_the_first_3_years_not_unambiguously_autistic_at_that_age" ellipse
+2 "ageabnDevelopment_definitly_abnormal_in_the_first_3_years_not_unambiguously_autistic_at_that_age"
+*Arcs
+1 2 0.1166382 l "substring"
+2 1 0.1168545 l "substring"
+1 2 0.1166382 l "substring"
+2 1 0.1168545 l "substring"
+*Edges

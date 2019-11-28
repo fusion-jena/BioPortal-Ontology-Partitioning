@@ -1,0 +1,66 @@
+*Vertices 19
+1 "Change" ellipse
+2 "ChangedSpecification" ellipse
+3 "Contributor" ellipse
+4 "Correction" ellipse
+5 "Creator" ellipse
+6 "Deletion" ellipse
+7 "Elaboration" ellipse
+8 "Expansion" ellipse
+9 "Insertion" ellipse
+10 "Intention" ellipse
+11 "KnowledgeGain" ellipse
+12 "Merge" ellipse
+13 "MismatchWithPublication" ellipse
+14 "ModelCuration" ellipse
+15 "Person" ellipse
+16 "Reason" ellipse
+17 "Simplification" ellipse
+18 "Trial" ellipse
+19 "Typo" ellipse
+*Arcs
+2 16 0.5000000 l "isa"
+16 2 0.1250000 l "isa"
+3 15 0.5000000 l "isa"
+15 3 0.3333333 l "isa"
+4 10 1.0000000 l "isa"
+10 4 0.1428571 l "isa"
+5 3 0.5000000 l "isa"
+3 5 0.5000000 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0909091 l "isa"
+7 10 1.0000000 l "isa"
+10 7 0.1428571 l "isa"
+8 10 0.5000000 l "isa"
+10 8 0.1428571 l "isa"
+9 1 0.5000000 l "isa"
+1 9 0.0909091 l "isa"
+11 16 1.0000000 l "isa"
+16 11 0.1250000 l "isa"
+12 8 0.3333333 l "isa"
+8 12 0.5000000 l "isa"
+13 16 1.0000000 l "isa"
+16 13 0.1250000 l "isa"
+14 16 1.0000000 l "isa"
+16 14 0.1250000 l "isa"
+17 10 1.0000000 l "isa"
+10 17 0.1428571 l "isa"
+18 10 1.0000000 l "isa"
+10 18 0.1428571 l "isa"
+19 16 1.0000000 l "isa"
+16 19 0.1250000 l "isa"
+1 10 0.0909091 l "hasIntention"
+10 1 0.1428571 l "hasIntention"
+1 16 0.0909091 l "hasReason"
+16 1 0.1250000 l "hasReason"
+1 1 0.1818182 l "wasTriggeredBy"
+1 1 0.1818182 l "wasTriggeredBy"
+1 2 0.0909091 l "substring"
+2 1 0.5000000 l "substring"
+5 16 0.5000000 l "distance"
+16 5 0.1250000 l "distance"
+9 10 0.5000000 l "distance"
+10 9 0.1428571 l "distance"
+15 16 0.3333333 l "distance"
+16 15 0.1250000 l "distance"
+*Edges

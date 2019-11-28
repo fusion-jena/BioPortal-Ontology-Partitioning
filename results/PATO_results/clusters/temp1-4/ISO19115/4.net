@@ -1,0 +1,25 @@
+*Vertices 2
+1 "GPR37" ellipse
+2 "GPR37L1" ellipse
+*Arcs
+1 2 0.0286323 l "substring"
+2 1 0.0806809 l "substring"
+1 2 0.0286323 l "distance"
+2 1 0.0806809 l "distance"
+1 2 0.0286323 l "substring"
+2 1 0.0806809 l "substring"
+1 2 0.0286323 l "distance"
+2 1 0.0806809 l "distance"
+1 2 0.0286323 l "substring"
+2 1 0.0806809 l "substring"
+1 2 0.0286323 l "distance"
+2 1 0.0806809 l "distance"
+1 2 0.0286323 l "substring"
+2 1 0.0806809 l "substring"
+1 2 0.0286323 l "distance"
+2 1 0.0806809 l "distance"
+1 2 0.0286323 l "substring"
+2 1 0.0806809 l "substring"
+1 2 0.0286323 l "distance"
+2 1 0.0806809 l "distance"
+*Edges

@@ -1,0 +1,71 @@
+*Vertices 22
+1 "Measurement" ellipse
+2 "Impared" ellipse
+3 "Qualitative measure" ellipse
+4 "Marked" ellipse
+5 "Clear_Social_Quality" ellipse
+6 "Engaging_in_Social_Conversation" ellipse
+7 "Keeps_to_Self" ellipse
+8 "NotAvailable_Social_Verbalization" ellipse
+9 "Quality_of_Performed_Task" ellipse
+10 "Social_Dependence_on_Others" ellipse
+11 "Social_Interest" ellipse
+12 "Social_Verbalization_Chat" ellipse
+13 "Some_Social_Use" ellipse
+14 "Some_Speech_to_Alert_Caregiver" ellipse
+15 "Task_Completion" ellipse
+16 "Task_Initiation" ellipse
+17 "Task_Performance" ellipse
+18 "Unknown_Social_Verbalization_Chat" ellipse
+19 "Qualitiative" ellipse
+20 "quality" ellipse
+21 "Social_Verbalization_Some_Social_Use"
+22 "Social_Verbalization_Some_Speech_to_Alert_Caregiver"
+*Arcs
+1 20 1.0000000 l "isa"
+20 1 0.0769231 l "isa"
+2 20 0.5000000 l "isa"
+20 2 0.0769231 l "isa"
+3 19 0.5000000 l "isa"
+19 3 0.3333333 l "isa"
+4 3 0.0555556 l "isa"
+3 4 0.5000000 l "isa"
+5 12 0.5000000 l "isa"
+12 5 0.1428571 l "isa"
+6 11 0.5000000 l "isa"
+11 6 0.1250000 l "isa"
+7 11 1.0000000 l "isa"
+11 7 0.1250000 l "isa"
+8 12 1.0000000 l "isa"
+12 8 0.1428571 l "isa"
+9 17 0.5000000 l "isa"
+17 9 0.2500000 l "isa"
+10 11 1.0000000 l "isa"
+11 10 0.1250000 l "isa"
+12 6 0.1428571 l "isa"
+6 12 0.5000000 l "isa"
+13 12 0.5000000 l "isa"
+12 13 0.1428571 l "isa"
+14 12 0.5000000 l "isa"
+12 14 0.1428571 l "isa"
+15 17 1.0000000 l "isa"
+17 15 0.2500000 l "isa"
+16 17 1.0000000 l "isa"
+17 16 0.2500000 l "isa"
+18 12 1.0000000 l "isa"
+12 18 0.2857143 l "isa"
+19 20 0.3333333 l "isa"
+20 19 0.0769231 l "isa"
+5 20 0.5000000 l "substring"
+20 5 0.0769231 l "substring"
+9 20 0.5000000 l "substring"
+20 9 0.0769231 l "substring"
+12 18 0.2857143 l "substring"
+18 12 1.0000000 l "substring"
+13 21 0.5000000 l "substring"
+21 13 0.3333333 l "substring"
+14 22 0.5000000 l "substring"
+22 14 0.3333333 l "substring"
+2 4 0.5000000 l "distance"
+4 2 0.0555556 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Debouillet" ellipse
+2 "Rambouillet" ellipse
+*Arcs
+1 2 0.6304635 l "distance"
+2 1 0.6304635 l "distance"
+1 2 0.6304635 l "distance"
+2 1 0.6304635 l "distance"
+1 2 0.6304635 l "distance"
+2 1 0.6304635 l "distance"
+1 2 0.6304635 l "distance"
+2 1 0.6304635 l "distance"
+*Edges

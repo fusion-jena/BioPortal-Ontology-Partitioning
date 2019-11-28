@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Microscopic" ellipse
+2 "Slide" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2500000 l "isa"
+*Edges

@@ -1,0 +1,17 @@
+*Vertices 2
+1 "T046" ellipse
+2 "T049" ellipse
+*Arcs
+2 1 0.0147014 l "isa"
+1 2 0.0143821 l "isa"
+1 2 0.0143821 l "distance"
+2 1 0.0147014 l "distance"
+2 1 0.0147014 l "isa"
+1 2 0.0143821 l "isa"
+1 2 0.0143821 l "distance"
+2 1 0.0147014 l "distance"
+2 1 0.0147014 l "isa"
+1 2 0.0143821 l "isa"
+1 2 0.0143821 l "distance"
+2 1 0.0147014 l "distance"
+*Edges

@@ -1,0 +1,182 @@
+*Vertices 43
+1 "wood-featured person / 木形之人" ellipse
+2 "fire-featured person" ellipse
+3 "earth-featured person" ellipse
+4 "metal-featured person" ellipse
+5 "water-featured person" ellipse
+6 "person of taiyin / 太阴之人" ellipse
+7 "yang-heat diathesis  / 阳热质" ellipse
+8 "yin-cold diathesis  / 阴寒质" ellipse
+9 "blood stasis diathesis  / 血瘀质" ellipse
+10 "phlegm-dampness diathesis /  痰湿质" ellipse
+11 "dual qi and blood deficiency diathesis  / 气血两虚质" ellipse
+12 "Lung Meridian (LU) / 手太阴肺经 / 수태음폐경" ellipse
+13 "Large Intestine Meridian (LI) / 手阳明大肠经 / 수양명대장경" ellipse
+14 "Stomach Meridian (ST) / 足阳明胃经 / 족양명위경" ellipse
+15 "Spleen Meridian (SP) / 足太阴脾经 / 족태음비경" ellipse
+16 "Heart Meridian (HT) / 手少阴心经 / 수소음심경" ellipse
+17 "Small Intestine Meridian (SI) / 手太阳小肠经 / 수태양소장경" ellipse
+18 "Bladder Meridian (BL) / 足太阳膀胱经 / 족태양방광경" ellipse
+19 "Kidney Meridian / 足少阴肾经 / 족소음신경" ellipse
+20 "Pericardium Meridian (PC) / 手厥阴心包经 / 수궐음심포경" ellipse
+21 "Sanjiao (Triple Energizer) Meridian (TE) / 手少阳三焦经 / 수소양삼초경" ellipse
+22 "Gallbladder Meridian (GB) / 足少阳胆经 / 족소양담경" ellipse
+23 "Liver Meridian (LR) / 足厥阴肝经 / 족궐음간경" ellipse
+24 "Governor (Vessel) Meridian (GV) / 독맥" ellipse
+25 "Conception (Vessel) Meridian (CV) / 임맥" ellipse
+26 "Thoroughfare (Vessel) Meridian / 충맥" ellipse
+27 "Belt (Vessel) Meridian / 대맥" ellipse
+28 "Excessive Physical Work" ellipse
+29 "Excessive Mental Work" ellipse
+30 "Excessive Exercise" ellipse
+31 "Diet Imbalance" ellipse
+32 "Excessive Sexual Activity /  房劳过度" ellipse
+33 "dietary intemperance / 饮食不节" ellipse
+34 "food preference, including predilection of fatty and sweet food, pungent food, alcohol, tea and foreign bodies / 饮食偏嗜（包括嗜食肥甘、辛辣、酒、茶饮、异物等）" ellipse
+35 "maladjustment of work and rest / 劳逸失度" ellipse
+36 "long-term easy and comfortable life  / 过度安逸" ellipse
+37 "Intrauterine Transfer / 胎传" ellipse
+38 "Team" ellipse
+39 "Proper interval" ellipse
+40 "weeks duration"
+41 "days duration"
+42 "week"
+43 "Restriction"
+*Arcs
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval starts"
+39 39 0.9785847 l "interval starts"
+40 42 0.1750852 l "substring"
+42 40 0.1199542 l "substring"
+38 42 0.1487979 l "distance"
+42 38 0.1163466 l "distance"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval starts"
+39 39 0.9785847 l "interval starts"
+40 42 0.1750852 l "substring"
+42 40 0.1199542 l "substring"
+38 42 0.1487979 l "distance"
+42 38 0.1163466 l "distance"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval starts"
+39 39 0.9785847 l "interval starts"
+40 42 0.1750852 l "substring"
+42 40 0.1199542 l "substring"
+38 42 0.1487979 l "distance"
+42 38 0.1163466 l "distance"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval after"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval before"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval contains"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval disjoint"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval during"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval equals"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finished by"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval finishes"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval in"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval meets"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval met by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlapped by"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval overlaps"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval started by"
+39 39 0.9785847 l "interval starts"
+39 39 0.9785847 l "interval starts"
+40 42 0.1750852 l "substring"
+42 40 0.1199542 l "substring"
+38 42 0.1487979 l "distance"
+42 38 0.1163466 l "distance"
+*Edges

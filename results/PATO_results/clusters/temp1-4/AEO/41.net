@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Parental Care" ellipse
+2 "Parental care text" ellipse
+3 "careTiming"
+*Arcs
+1 3 0.1026017 l "definition"
+3 1 0.3425850 l "definition"
+2 1 0.4377932 l "definition"
+1 2 0.2192584 l "definition"
+1 2 0.2192584 l "substring"
+2 1 0.4377932 l "substring"
+1 3 0.1026017 l "definition"
+3 1 0.3425850 l "definition"
+2 1 0.4377932 l "definition"
+1 2 0.2192584 l "definition"
+1 2 0.2192584 l "substring"
+2 1 0.4377932 l "substring"
+*Edges

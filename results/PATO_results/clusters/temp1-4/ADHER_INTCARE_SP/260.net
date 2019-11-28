@@ -1,0 +1,34 @@
+*Vertices 3
+1 "Attendance" ellipse
+2 "Kept_from_Medical_Appointment_by_Lack_of_Transportation" ellipse
+3 "Kept_from_Work_by_Lack_of_Transportation" ellipse
+*Arcs
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+2 1 0.0903982 l "definition"
+1 2 0.2161913 l "definition"
+3 1 0.1016963 l "definition"
+1 3 0.2215371 l "definition"
+*Edges

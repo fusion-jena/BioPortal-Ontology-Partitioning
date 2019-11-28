@@ -1,0 +1,31 @@
+*Vertices 4
+1 "ICW-1:01.01.05.03 Immunization" ellipse
+2 "ICW-1:01.01.05.02 Health Screening" ellipse
+3 "ICW-1:01.01.05.01 Prevention - NOS" ellipse
+4 "ICW-1:01.01.05 Prevention" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2856447 l "isa"
+2 4 0.7447057 l "isa"
+4 2 0.2856447 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2856447 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2856447 l "isa"
+2 4 0.7447057 l "isa"
+4 2 0.2856447 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2856447 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2856447 l "isa"
+2 4 0.7447057 l "isa"
+4 2 0.2856447 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2856447 l "isa"
+1 4 1.0000000 l "isa"
+4 1 0.2856447 l "isa"
+2 4 0.7447057 l "isa"
+4 2 0.2856447 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.2856447 l "isa"
+*Edges

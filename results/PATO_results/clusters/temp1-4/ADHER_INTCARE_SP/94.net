@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Electronic_device" ellipse
+2 "Ingestible_Microsensor" ellipse
+*Arcs
+2 1 0.2552597 l "isa"
+1 2 0.0956444 l "isa"
+2 1 0.2552597 l "isa"
+1 2 0.0956444 l "isa"
+*Edges

@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Lateness" ellipse
+2 "NumberOfLatenessDays" ellipse
+3 "Signing" ellipse
+*Arcs
+3 1 0.1282559 l "definition"
+1 3 0.2584780 l "definition"
+1 2 0.2658341 l "substring"
+2 1 0.1683029 l "substring"
+3 1 0.1282559 l "definition"
+1 3 0.2584780 l "definition"
+1 2 0.2658341 l "substring"
+2 1 0.1683029 l "substring"
+3 1 0.1282559 l "definition"
+1 3 0.2584780 l "definition"
+1 2 0.2658341 l "substring"
+2 1 0.1683029 l "substring"
+*Edges

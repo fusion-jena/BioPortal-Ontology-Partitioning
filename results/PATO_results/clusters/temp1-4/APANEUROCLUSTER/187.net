@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Serial_Learning" ellipse
+2 "Service_Learning" ellipse
+*Arcs
+1 2 0.1319663 l "distance"
+2 1 0.2592087 l "distance"
+1 2 0.1319663 l "distance"
+2 1 0.2592087 l "distance"
+*Edges

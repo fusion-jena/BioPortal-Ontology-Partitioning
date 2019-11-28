@@ -1,0 +1,13 @@
+*Vertices 2
+1 "sloped" ellipse
+2 "sloped downward" ellipse
+*Arcs
+2 1 0.4284782 l "isa"
+1 2 0.1285594 l "isa"
+1 2 0.1285594 l "substring"
+2 1 0.4284782 l "substring"
+2 1 0.4284782 l "isa"
+1 2 0.1285594 l "isa"
+1 2 0.1285594 l "substring"
+2 1 0.4284782 l "substring"
+*Edges

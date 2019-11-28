@@ -1,0 +1,17 @@
+*Vertices 2
+1 "ClassOfClassOfInformationRepresentation" ellipse
+2 "ClassOfInformationRepresentation" ellipse
+*Arcs
+1 2 0.3875275 l "definition"
+2 1 0.5880920 l "definition"
+1 2 0.3875275 l "substring"
+2 1 0.5880920 l "substring"
+1 2 0.3875275 l "definition"
+2 1 0.5880920 l "definition"
+1 2 0.3875275 l "substring"
+2 1 0.5880920 l "substring"
+1 2 0.3875275 l "definition"
+2 1 0.5880920 l "definition"
+1 2 0.3875275 l "substring"
+2 1 0.5880920 l "substring"
+*Edges

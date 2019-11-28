@@ -1,0 +1,33 @@
+*Vertices 10
+1 "DegreeOfHarm" ellipse
+2 "PatientOutcome" ellipse
+3 "Site" ellipse
+4 "SkinTear" ellipse
+5 "StateOfCare" ellipse
+6 "TemporalInfo" ellipse
+7 "Time" ellipse
+8 "Timing" ellipse
+9 "TypeOfHarm" ellipse
+10 "EconomicalImpact" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.2000000 l "isa"
+3 2 0.5000000 l "isa"
+2 3 0.2000000 l "isa"
+4 9 1.0000000 l "isa"
+9 4 0.5000000 l "isa"
+5 6 1.0000000 l "isa"
+6 5 0.3333333 l "isa"
+7 6 0.3333333 l "isa"
+6 7 0.3333333 l "isa"
+8 6 0.5000000 l "isa"
+6 8 0.3333333 l "isa"
+9 2 0.5000000 l "isa"
+2 9 0.2000000 l "isa"
+10 2 1.0000000 l "isa"
+2 10 0.2000000 l "isa"
+3 7 0.5000000 l "distance"
+7 3 0.3333333 l "distance"
+7 8 0.3333333 l "distance"
+8 7 0.5000000 l "distance"
+*Edges

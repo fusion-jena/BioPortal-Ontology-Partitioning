@@ -1,0 +1,54 @@
+*Vertices 7
+1 "Event" ellipse
+2 "Concurrent Situations" ellipse
+3 "Event Entity" ellipse
+4 "Non Concurrent Situations" ellipse
+5 "Regularly Recurring Event" ellipse
+6 "Single or Irregular Event" ellipse
+7 "Situation" ellipse
+*Arcs
+2 7 0.2722272 l "isa"
+7 2 0.1573688 l "isa"
+3 7 0.1268983 l "isa"
+7 3 0.0720749 l "isa"
+4 7 0.1963008 l "isa"
+7 4 0.1529053 l "isa"
+5 3 0.0941051 l "isa"
+3 5 0.1277043 l "isa"
+6 3 0.1040562 l "isa"
+3 6 0.1282282 l "isa"
+1 3 0.0807061 l "substring"
+3 1 0.1268106 l "substring"
+1 5 0.0794557 l "substring"
+5 1 0.0919988 l "substring"
+1 6 0.0797891 l "substring"
+6 1 0.1017366 l "substring"
+2 4 0.1254720 l "substring"
+4 2 0.0931180 l "substring"
+2 7 0.2722272 l "substring"
+7 2 0.1573688 l "substring"
+4 7 0.1963008 l "substring"
+7 4 0.1529053 l "substring"
+2 7 0.2722272 l "isa"
+7 2 0.1573688 l "isa"
+3 7 0.1268983 l "isa"
+7 3 0.0720749 l "isa"
+4 7 0.1963008 l "isa"
+7 4 0.1529053 l "isa"
+5 3 0.0941051 l "isa"
+3 5 0.1277043 l "isa"
+6 3 0.1040562 l "isa"
+3 6 0.1282282 l "isa"
+1 3 0.0807061 l "substring"
+3 1 0.1268106 l "substring"
+1 5 0.0794557 l "substring"
+5 1 0.0919988 l "substring"
+1 6 0.0797891 l "substring"
+6 1 0.1017366 l "substring"
+2 4 0.1254720 l "substring"
+4 2 0.0931180 l "substring"
+2 7 0.2722272 l "substring"
+7 2 0.1573688 l "substring"
+4 7 0.1963008 l "substring"
+7 4 0.1529053 l "substring"
+*Edges

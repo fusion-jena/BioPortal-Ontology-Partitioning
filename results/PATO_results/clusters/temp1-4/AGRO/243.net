@@ -1,0 +1,18 @@
+*Vertices 3
+1 "pCO2 (bga)" ellipse
+2 "pO2 (bga)" ellipse
+3 "blood gas analysis result datum" ellipse
+*Arcs
+1 3 0.2022578 l "isa"
+3 1 0.1482654 l "isa"
+2 3 0.2029045 l "isa"
+3 2 0.1482654 l "isa"
+1 2 0.2071909 l "distance"
+2 1 0.2078534 l "distance"
+1 3 0.2022578 l "isa"
+3 1 0.1482654 l "isa"
+2 3 0.2029045 l "isa"
+3 2 0.1482654 l "isa"
+1 2 0.2071909 l "distance"
+2 1 0.2078534 l "distance"
+*Edges

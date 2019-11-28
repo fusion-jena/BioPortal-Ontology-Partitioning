@@ -1,0 +1,13 @@
+*Vertices 2
+1 "osmolality" ellipse
+2 "osmolality" ellipse
+*Arcs
+1 2 0.6031746 l "substring"
+2 1 0.5970150 l "substring"
+1 2 0.6031746 l "distance"
+2 1 0.5970150 l "distance"
+1 2 0.6031746 l "substring"
+2 1 0.5970150 l "substring"
+1 2 0.6031746 l "distance"
+2 1 0.5970150 l "distance"
+*Edges

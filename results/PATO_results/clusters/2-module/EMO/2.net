@@ -1,0 +1,48 @@
+*Vertices 13
+1 "Ground State Destabiliser" ellipse
+2 "Reactant Role" ellipse
+3 "Reaction Role" ellipse
+4 "Electrostatic Interaction" ellipse
+5 "Electrostatic Stabiliser" ellipse
+6 "Electrostatic Destabiliser" ellipse
+7 "Transition State Stabiliser" ellipse
+8 "Transition State Destabiliser" ellipse
+9 "Radical Stabiliser" ellipse
+10 "Transition State" ellipse
+11 "Group Transfer" ellipse
+12 "Group Acceptor" ellipse
+13 "Group Donor" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1250000 l "isa"
+2 3 0.3333333 l "isa"
+3 2 0.2857143 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1250000 l "isa"
+6 4 0.5000000 l "isa"
+4 6 0.1250000 l "isa"
+7 4 0.3333333 l "isa"
+4 7 0.1250000 l "isa"
+8 4 0.3333333 l "isa"
+4 8 0.1250000 l "isa"
+9 4 1.0000000 l "isa"
+4 9 0.1250000 l "isa"
+10 3 0.3333333 l "isa"
+3 10 0.1428571 l "isa"
+11 2 0.3333333 l "isa"
+2 11 0.1666667 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.3333333 l "isa"
+13 11 1.0000000 l "isa"
+11 13 0.3333333 l "isa"
+7 10 0.3333333 l "substring"
+10 7 0.3333333 l "substring"
+8 10 0.3333333 l "substring"
+10 8 0.3333333 l "substring"
+2 3 0.3333333 l "distance"
+3 2 0.2857143 l "distance"
+5 6 0.5000000 l "distance"
+6 5 0.5000000 l "distance"
+7 8 0.3333333 l "distance"
+8 7 0.3333333 l "distance"
+*Edges

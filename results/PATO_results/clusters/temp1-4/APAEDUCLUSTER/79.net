@@ -1,0 +1,9 @@
+*Vertices 2
+1 "food" ellipse
+2 "Food_Allergies" ellipse
+*Arcs
+1 2 0.0217818 l "substring"
+2 1 0.3348287 l "substring"
+1 2 0.0217818 l "substring"
+2 1 0.3348287 l "substring"
+*Edges

@@ -1,0 +1,19 @@
+*Vertices 4
+1 "late embryo" ellipse
+2 "embryo" ellipse
+3 "embryonic structure" ellipse
+4 "developing anatomical structure" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.4000000 l "isa"
+3 4 0.2222222 l "isa"
+4 3 0.5000000 l "isa"
+3 2 0.2222222 l "definition"
+2 3 0.4000000 l "definition"
+3 4 0.2222222 l "definition"
+4 3 0.5000000 l "definition"
+1 2 1.0000000 l "substring"
+2 1 0.4000000 l "substring"
+2 3 0.4000000 l "substring"
+3 2 0.2222222 l "substring"
+*Edges

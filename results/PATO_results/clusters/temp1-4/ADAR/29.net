@@ -1,0 +1,22 @@
+*Vertices 7
+1 "Facial_Expression_Range_NotAvailable" ellipse
+2 "Full_Facial_Expression_Range" ellipse
+3 "Little_Or_No_Emotions_Indication_Facial_Expression_Range" ellipse
+4 "Range_of_Facial_Expressions_Used_To_Communicate" ellipse
+5 "Somewhat_Limited_Facial_Expression_Range" ellipse
+6 "rfacex_Somewhat_Limited_Facial_Expression_Range"
+7 "rfacex_Little_Or_No_Emotions_Indication_Facial_Expression_Range"
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1250000 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1250000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.1250000 l "isa"
+5 4 0.5000000 l "isa"
+4 5 0.1250000 l "isa"
+3 7 0.5000000 l "substring"
+7 3 0.3333333 l "substring"
+5 6 0.5000000 l "substring"
+6 5 0.3333333 l "substring"
+*Edges

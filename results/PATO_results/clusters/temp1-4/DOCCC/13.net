@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Population Concept" ellipse
+2 "SampleSizeCalculation" ellipse
+*Arcs
+2 1 0.1710636 l "isa"
+1 2 0.0740148 l "isa"
+2 1 0.1710636 l "isa"
+1 2 0.0740148 l "isa"
+*Edges

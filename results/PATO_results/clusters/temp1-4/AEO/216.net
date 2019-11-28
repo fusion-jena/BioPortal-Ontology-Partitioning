@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Clonazepam" ellipse
+2 "Clorazepate" ellipse
+*Arcs
+1 2 0.1631460 l "distance"
+2 1 0.2203914 l "distance"
+1 2 0.1631460 l "distance"
+2 1 0.2203914 l "distance"
+1 2 0.1631460 l "distance"
+2 1 0.2203914 l "distance"
+*Edges

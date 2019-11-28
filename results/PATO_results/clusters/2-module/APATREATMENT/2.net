@@ -1,0 +1,248 @@
+*Vertices 71
+1 "Acceptance_and_Commitment_Therapy" ellipse
+2 "Adlerian_Psychotherapy" ellipse
+3 "Adolescent_Psychotherapy" ellipse
+4 "Analytical_Psychotherapy" ellipse
+5 "Autogenic_Training" ellipse
+6 "Bibliotherapy" ellipse
+7 "Brief_Psychotherapy" ellipse
+8 "Brief_Relational_Therapy" ellipse
+9 "Centering" ellipse
+10 "Child_Psychotherapy" ellipse
+11 "Client_Centered_Therapy" ellipse
+12 "Clinical_Practice" ellipse
+13 "Cognitive_Restructuring" ellipse
+14 "Cognitive_Techniques" ellipse
+15 "Cognitive_Therapy" ellipse
+16 "Conjoint_Therapy" ellipse
+17 "Countertransference" ellipse
+18 "Couples_Therapy" ellipse
+19 "Dream_Analysis" ellipse
+20 "Eclectic_Psychotherapy" ellipse
+21 "Emotion_Focused_Therapy" ellipse
+22 "Empty_Chair_Technique" ellipse
+23 "Enactments" ellipse
+24 "Encounter_Group_Therapy" ellipse
+25 "Ericksonian_Psychotherapy" ellipse
+26 "Existential_Therapy" ellipse
+27 "Experiential_Psychotherapy" ellipse
+28 "Expressive_Psychotherapy" ellipse
+29 "Feminist_Therapy" ellipse
+30 "Free_Association" ellipse
+31 "Geriatric_Psychotherapy" ellipse
+32 "Gestalt_Therapy" ellipse
+33 "Group_Psychotherapy" ellipse
+34 "Humanistic_Psychotherapy" ellipse
+35 "Hypnotherapy" ellipse
+36 "Individual_Psychotherapy" ellipse
+37 "Insight_Therapy" ellipse
+38 "Integrative_Psychotherapy" ellipse
+39 "Interpersonal_Psychotherapy" ellipse
+40 "Marathon_Group_Therapy" ellipse
+41 "Mirroring" ellipse
+42 "Morita_Therapy" ellipse
+43 "Mutual_Storytelling_Technique" ellipse
+44 "Narrative_Therapy" ellipse
+45 "Negative_Therapeutic_Reaction" ellipse
+46 "Network_Therapy" ellipse
+47 "Paradoxical_Techniques" ellipse
+48 "Personal_Therapy" ellipse
+49 "Persuasion_Therapy" ellipse
+50 "Play_Therapy" ellipse
+51 "Primal_Therapy" ellipse
+52 "Psychoanalysis" ellipse
+53 "Psychodrama" ellipse
+54 "Psychodynamic_Psychotherapy" ellipse
+55 "Psychotherapeutic_Breakthrough" ellipse
+56 "Psychotherapeutic_Neutrality" ellipse
+57 "Psychotherapeutic_Outcomes" ellipse
+58 "Psychotherapeutic_Resistance" ellipse
+59 "Psychotherapeutic_Techniques" ellipse
+60 "Psychotherapeutic_Transference" ellipse
+61 "Reality_Therapy" ellipse
+62 "Relationship_Therapy" ellipse
+63 "Self_Analysis" ellipse
+64 "Solution_Focused_Therapy" ellipse
+65 "Supportive_Psychotherapy" ellipse
+66 "Therapist_Selection" ellipse
+67 "Transactional_Analysis" ellipse
+68 "Age_Regression_(Hypnotic)" ellipse
+69 "Debriefing_(Psychological)" ellipse
+70 "Insight_(Psychotherapeutic_Process)" ellipse
+71 "Psychotherapy" ellipse
+*Arcs
+1 71 1.0000000 l "isa"
+71 1 0.0098039 l "isa"
+2 71 0.6666667 l "isa"
+71 2 0.0196078 l "isa"
+3 71 0.6666667 l "isa"
+71 3 0.0196078 l "isa"
+4 71 0.6666667 l "isa"
+71 4 0.0196078 l "isa"
+5 71 1.0000000 l "isa"
+71 5 0.0098039 l "isa"
+6 71 1.0000000 l "isa"
+71 6 0.0098039 l "isa"
+7 71 0.6666667 l "isa"
+71 7 0.0196078 l "isa"
+8 71 1.0000000 l "isa"
+71 8 0.0098039 l "isa"
+9 71 1.0000000 l "isa"
+71 9 0.0098039 l "isa"
+10 71 0.6666667 l "isa"
+71 10 0.0196078 l "isa"
+11 71 1.0000000 l "isa"
+71 11 0.0098039 l "isa"
+12 71 1.0000000 l "isa"
+71 12 0.0098039 l "isa"
+13 71 1.0000000 l "isa"
+71 13 0.0098039 l "isa"
+14 71 1.0000000 l "isa"
+71 14 0.0098039 l "isa"
+15 71 1.0000000 l "isa"
+71 15 0.0098039 l "isa"
+16 71 1.0000000 l "isa"
+71 16 0.0098039 l "isa"
+17 71 1.0000000 l "isa"
+71 17 0.0098039 l "isa"
+18 71 1.0000000 l "isa"
+71 18 0.0098039 l "isa"
+19 71 1.0000000 l "isa"
+71 19 0.0098039 l "isa"
+20 71 0.6666667 l "isa"
+71 20 0.0196078 l "isa"
+21 71 1.0000000 l "isa"
+71 21 0.0098039 l "isa"
+22 71 1.0000000 l "isa"
+71 22 0.0098039 l "isa"
+23 71 1.0000000 l "isa"
+71 23 0.0098039 l "isa"
+24 71 1.0000000 l "isa"
+71 24 0.0098039 l "isa"
+25 71 0.6666667 l "isa"
+71 25 0.0196078 l "isa"
+26 71 1.0000000 l "isa"
+71 26 0.0098039 l "isa"
+27 71 0.6666667 l "isa"
+71 27 0.0196078 l "isa"
+28 71 0.6666667 l "isa"
+71 28 0.0196078 l "isa"
+29 71 1.0000000 l "isa"
+71 29 0.0098039 l "isa"
+30 71 1.0000000 l "isa"
+71 30 0.0098039 l "isa"
+31 71 0.6666667 l "isa"
+71 31 0.0196078 l "isa"
+32 71 1.0000000 l "isa"
+71 32 0.0098039 l "isa"
+33 71 0.6666667 l "isa"
+71 33 0.0196078 l "isa"
+34 71 0.6666667 l "isa"
+71 34 0.0196078 l "isa"
+35 71 1.0000000 l "isa"
+71 35 0.0098039 l "isa"
+36 71 0.6666667 l "isa"
+71 36 0.0196078 l "isa"
+37 71 1.0000000 l "isa"
+71 37 0.0098039 l "isa"
+38 71 0.6666667 l "isa"
+71 38 0.0196078 l "isa"
+39 71 0.6666667 l "isa"
+71 39 0.0196078 l "isa"
+40 71 1.0000000 l "isa"
+71 40 0.0098039 l "isa"
+41 71 1.0000000 l "isa"
+71 41 0.0098039 l "isa"
+42 71 1.0000000 l "isa"
+71 42 0.0098039 l "isa"
+43 71 1.0000000 l "isa"
+71 43 0.0098039 l "isa"
+44 71 1.0000000 l "isa"
+71 44 0.0098039 l "isa"
+45 71 1.0000000 l "isa"
+71 45 0.0098039 l "isa"
+46 71 1.0000000 l "isa"
+71 46 0.0098039 l "isa"
+47 71 1.0000000 l "isa"
+71 47 0.0098039 l "isa"
+48 71 1.0000000 l "isa"
+71 48 0.0098039 l "isa"
+49 71 1.0000000 l "isa"
+71 49 0.0098039 l "isa"
+50 71 1.0000000 l "isa"
+71 50 0.0098039 l "isa"
+51 71 1.0000000 l "isa"
+71 51 0.0098039 l "isa"
+52 71 1.0000000 l "isa"
+71 52 0.0098039 l "isa"
+53 71 1.0000000 l "isa"
+71 53 0.0098039 l "isa"
+54 71 0.6666667 l "isa"
+71 54 0.0196078 l "isa"
+55 71 1.0000000 l "isa"
+71 55 0.0098039 l "isa"
+56 71 1.0000000 l "isa"
+71 56 0.0098039 l "isa"
+57 71 1.0000000 l "isa"
+71 57 0.0098039 l "isa"
+58 71 1.0000000 l "isa"
+71 58 0.0098039 l "isa"
+59 71 1.0000000 l "isa"
+71 59 0.0098039 l "isa"
+60 71 1.0000000 l "isa"
+71 60 0.0098039 l "isa"
+61 71 1.0000000 l "isa"
+71 61 0.0098039 l "isa"
+62 71 1.0000000 l "isa"
+71 62 0.0098039 l "isa"
+63 71 1.0000000 l "isa"
+71 63 0.0098039 l "isa"
+64 71 1.0000000 l "isa"
+71 64 0.0098039 l "isa"
+65 71 0.6666667 l "isa"
+71 65 0.0196078 l "isa"
+66 71 1.0000000 l "isa"
+71 66 0.0098039 l "isa"
+67 71 1.0000000 l "isa"
+71 67 0.0098039 l "isa"
+68 71 1.0000000 l "isa"
+71 68 0.0098039 l "isa"
+69 71 1.0000000 l "isa"
+71 69 0.0098039 l "isa"
+70 71 1.0000000 l "isa"
+71 70 0.0098039 l "isa"
+2 71 0.6666667 l "substring"
+71 2 0.0196078 l "substring"
+3 71 0.6666667 l "substring"
+71 3 0.0196078 l "substring"
+4 71 0.6666667 l "substring"
+71 4 0.0196078 l "substring"
+7 71 0.6666667 l "substring"
+71 7 0.0196078 l "substring"
+10 71 0.6666667 l "substring"
+71 10 0.0196078 l "substring"
+20 71 0.6666667 l "substring"
+71 20 0.0196078 l "substring"
+25 71 0.6666667 l "substring"
+71 25 0.0196078 l "substring"
+27 71 0.6666667 l "substring"
+71 27 0.0196078 l "substring"
+28 71 0.6666667 l "substring"
+71 28 0.0196078 l "substring"
+31 71 0.6666667 l "substring"
+71 31 0.0196078 l "substring"
+33 71 0.6666667 l "substring"
+71 33 0.0196078 l "substring"
+34 71 0.6666667 l "substring"
+71 34 0.0196078 l "substring"
+36 71 0.6666667 l "substring"
+71 36 0.0196078 l "substring"
+38 71 0.6666667 l "substring"
+71 38 0.0196078 l "substring"
+39 71 0.6666667 l "substring"
+71 39 0.0196078 l "substring"
+54 71 0.6666667 l "substring"
+71 54 0.0196078 l "substring"
+65 71 0.6666667 l "substring"
+71 65 0.0196078 l "substring"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "parameter specification" ellipse
+2 "role specification" ellipse
+*Arcs
+1 2 0.1876156 l "isa"
+2 1 0.1299603 l "isa"
+1 2 0.1876156 l "isa"
+2 1 0.1299603 l "isa"
+1 2 0.1876156 l "isa"
+2 1 0.1299603 l "isa"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "nil"
+2 "url"
+*Arcs
+1 2 0.2340212 l "distance"
+2 1 0.2299431 l "distance"
+1 2 0.2340212 l "distance"
+2 1 0.2299431 l "distance"
+1 2 0.2340212 l "distance"
+2 1 0.2299431 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "steppe" ellipse
+2 "steppe soil" ellipse
+*Arcs
+2 1 0.2443135 l "definition"
+1 2 0.2457951 l "definition"
+1 2 0.2457951 l "substring"
+2 1 0.2443135 l "substring"
+2 1 0.2443135 l "definition"
+1 2 0.2457951 l "definition"
+1 2 0.2457951 l "substring"
+2 1 0.2443135 l "substring"
+*Edges

@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Thing" ellipse
+2 "int"
+*Arcs
+1 2 1.0000000 l "distance"
+2 1 0.0666667 l "distance"
+*Edges

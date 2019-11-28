@@ -1,0 +1,34 @@
+*Vertices 7
+1 "Document.Diagnosis" ellipse
+2 "Document.Encounter" ellipse
+3 "Document.Medical_Section" ellipse
+4 "Document.Nursing" ellipse
+5 "Document.Prescription" ellipse
+6 "Document.Refferal_Form" ellipse
+7 "Document.Testing" ellipse
+*Arcs
+1 3 0.4000000 l "isa"
+3 1 0.1111111 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.1111111 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.1111111 l "isa"
+5 3 0.4000000 l "isa"
+3 5 0.1111111 l "isa"
+6 3 0.5000000 l "isa"
+3 6 0.1111111 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.1111111 l "isa"
+3 6 0.1111111 l "definition"
+6 3 0.5000000 l "definition"
+3 2 0.1111111 l "definition"
+2 3 0.5000000 l "definition"
+3 1 0.1111111 l "definition"
+1 3 0.4000000 l "definition"
+3 5 0.1111111 l "definition"
+5 3 0.4000000 l "definition"
+3 4 0.1111111 l "definition"
+4 3 0.3333333 l "definition"
+3 7 0.1111111 l "definition"
+7 3 0.5000000 l "definition"
+*Edges

@@ -1,0 +1,26 @@
+*Vertices 3
+1 "MD_Identifier" ellipse
+2 "identifier"
+3 "identifier"
+*Arcs
+1 2 0.3511542 l "substring"
+2 1 0.5694115 l "substring"
+1 2 0.3511542 l "distance"
+2 1 0.5694115 l "distance"
+1 2 0.3511542 l "substring"
+2 1 0.5694115 l "substring"
+1 2 0.3511542 l "distance"
+2 1 0.5694115 l "distance"
+1 2 0.3511542 l "substring"
+2 1 0.5694115 l "substring"
+1 3 0.1608174 l "substring"
+3 1 0.4000000 l "substring"
+2 3 0.2607723 l "substring"
+3 2 0.4000000 l "substring"
+1 2 0.3511542 l "distance"
+2 1 0.5694115 l "distance"
+1 3 0.1608174 l "distance"
+3 1 0.4000000 l "distance"
+2 3 0.2607723 l "distance"
+3 2 0.4000000 l "distance"
+*Edges

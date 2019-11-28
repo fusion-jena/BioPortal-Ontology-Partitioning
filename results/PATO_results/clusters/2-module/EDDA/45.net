@@ -1,0 +1,30 @@
+*Vertices 5
+1 "home sleep study" ellipse
+2 "level III sleep study" ellipse
+3 "level II sleep study" ellipse
+4 "level I sleep study" ellipse
+5 "sleep study" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.2222222 l "isa"
+2 5 0.5000000 l "isa"
+5 2 0.2222222 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.2222222 l "isa"
+4 5 0.5000000 l "isa"
+5 4 0.2222222 l "isa"
+1 5 1.0000000 l "substring"
+5 1 0.2222222 l "substring"
+2 5 0.5000000 l "substring"
+5 2 0.2222222 l "substring"
+3 5 0.5000000 l "substring"
+5 3 0.2222222 l "substring"
+4 5 0.5000000 l "substring"
+5 4 0.2222222 l "substring"
+2 3 0.2500000 l "distance"
+3 2 0.2500000 l "distance"
+2 4 0.2500000 l "distance"
+4 2 0.2500000 l "distance"
+3 4 0.2500000 l "distance"
+4 3 0.2500000 l "distance"
+*Edges

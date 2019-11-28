@@ -1,0 +1,39 @@
+*Vertices 4
+1 "AKPHP" ellipse
+2 "INFCH" ellipse
+3 "INFHP" ellipse
+4 "PONHP" ellipse
+*Arcs
+1 3 0.0600314 l "distance"
+3 1 0.1035370 l "distance"
+1 4 0.0553666 l "distance"
+4 1 0.0415600 l "distance"
+2 3 0.0477777 l "distance"
+3 2 0.1018717 l "distance"
+3 4 0.1014037 l "distance"
+4 3 0.0441331 l "distance"
+1 3 0.0600314 l "distance"
+3 1 0.1035370 l "distance"
+1 4 0.0553666 l "distance"
+4 1 0.0415600 l "distance"
+2 3 0.0477777 l "distance"
+3 2 0.1018717 l "distance"
+3 4 0.1014037 l "distance"
+4 3 0.0441331 l "distance"
+1 3 0.0600314 l "distance"
+3 1 0.1035370 l "distance"
+1 4 0.0553666 l "distance"
+4 1 0.0415600 l "distance"
+2 3 0.0477777 l "distance"
+3 2 0.1018717 l "distance"
+3 4 0.1014037 l "distance"
+4 3 0.0441331 l "distance"
+1 3 0.0600314 l "distance"
+3 1 0.1035370 l "distance"
+1 4 0.0553666 l "distance"
+4 1 0.0415600 l "distance"
+2 3 0.0477777 l "distance"
+3 2 0.1018717 l "distance"
+3 4 0.1014037 l "distance"
+4 3 0.0441331 l "distance"
+*Edges

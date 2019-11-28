@@ -1,0 +1,34 @@
+*Vertices 9
+1 "CI_OnlineResource" ellipse
+2 "MD_BrowseGraphic" ellipse
+3 "MD_Constraints" ellipse
+4 "imageConstraints"
+5 "linkage"
+6 "fileDescription"
+7 "fileName"
+8 "fileType"
+9 "description"
+*Arcs
+2 3 0.1333333 l "imageConstraints"
+3 2 0.6666667 l "imageConstraints"
+2 1 0.1333333 l "linkage"
+1 2 0.6666667 l "linkage"
+2 3 0.1333333 l "definition"
+3 2 0.6666667 l "definition"
+2 4 0.0666667 l "definition"
+4 2 1.0000000 l "definition"
+2 5 0.0666667 l "definition"
+5 2 1.0000000 l "definition"
+2 1 0.1333333 l "definition"
+1 2 0.6666667 l "definition"
+2 6 0.0666667 l "definition"
+6 2 0.5000000 l "definition"
+2 7 0.0666667 l "definition"
+7 2 0.5000000 l "definition"
+2 8 0.0666667 l "definition"
+8 2 0.5000000 l "definition"
+6 9 0.5000000 l "substring"
+9 6 0.2000000 l "substring"
+7 8 0.5000000 l "distance"
+8 7 0.5000000 l "distance"
+*Edges

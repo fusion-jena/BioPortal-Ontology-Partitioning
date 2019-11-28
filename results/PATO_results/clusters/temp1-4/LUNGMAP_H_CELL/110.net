@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Losino" ellipse
+2 "Lusitano" ellipse
+*Arcs
+1 2 0.1815461 l "distance"
+2 1 0.3602500 l "distance"
+1 2 0.1815461 l "distance"
+2 1 0.3602500 l "distance"
+1 2 0.1815461 l "distance"
+2 1 0.3602500 l "distance"
+1 2 0.1815461 l "distance"
+2 1 0.3602500 l "distance"
+*Edges

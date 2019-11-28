@@ -1,0 +1,13 @@
+*Vertices 2
+1 "ImageObject" ellipse
+2 "Image" ellipse
+*Arcs
+2 2 0.2141281 l "thumbnail"
+2 2 0.2141281 l "thumbnail"
+1 2 1.0000000 l "substring"
+2 1 0.1338301 l "substring"
+2 2 0.2141281 l "thumbnail"
+2 2 0.2141281 l "thumbnail"
+1 2 1.0000000 l "substring"
+2 1 0.1338301 l "substring"
+*Edges

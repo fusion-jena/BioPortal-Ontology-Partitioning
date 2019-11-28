@@ -1,0 +1,178 @@
+*Vertices 51
+1 "conceptualization role" ellipse
+2 "data curation role" ellipse
+3 "formal analysis role" ellipse
+4 "funding acquisition role" ellipse
+5 "investigation role" ellipse
+6 "project administration role" ellipse
+7 "resources role" ellipse
+8 "supervision role" ellipse
+9 "validation role" ellipse
+10 "visualization role" ellipse
+11 "contributor role" ellipse
+12 "background and literature search role" ellipse
+13 "data role" ellipse
+14 "information technology systems role" ellipse
+15 "intellectual property advisor role" ellipse
+16 "policy development role" ellipse
+17 "regulatory administration role" ellipse
+18 "team management role" ellipse
+19 "data aggregation role" ellipse
+20 "statistical data analysis role" ellipse
+21 "data collection role" ellipse
+22 "metadata application role" ellipse
+23 "data entry role" ellipse
+24 "data integration role" ellipse
+25 "data modeling role" ellipse
+26 "data quality assurance role" ellipse
+27 "data standards developer role" ellipse
+28 "hardware systems role" ellipse
+29 "software systems role" ellipse
+30 "database administrator role" ellipse
+31 "system administrator role" ellipse
+32 "relationship" ellipse
+33 "contributorship" ellipse
+34 "data transformation role" ellipse
+35 "standards development role" ellipse
+36 "data validation role" ellipse
+37 "IT hardware systems design and implementation role" ellipse
+38 "systems administration role" ellipse
+39 "infrastructure role" ellipse
+40 "program evaluation role" ellipse
+41 "program administration role" ellipse
+42 "research coordination role" ellipse
+43 "supervisory role" ellipse
+44 "research conceptualization role" ellipse
+45 "research technician role" ellipse
+46 "BFO_0000001"
+47 "Thing"
+48 "BFO_0000002"
+49 "BFO_0000020"
+50 "BFO_0000031"
+51 "IAO_0000030"
+*Arcs
+46 47 0.2000000 l "isa"
+47 46 0.3333333 l "isa"
+48 46 0.2857143 l "isa"
+46 48 0.4000000 l "isa"
+49 48 0.3333333 l "isa"
+48 49 0.2857143 l "isa"
+50 48 0.3333333 l "isa"
+48 50 0.2857143 l "isa"
+1 11 0.3333333 l "isa"
+11 1 0.0416667 l "isa"
+2 13 0.5000000 l "isa"
+13 2 0.0769231 l "isa"
+3 13 0.5000000 l "isa"
+13 3 0.0769231 l "isa"
+4 11 1.0000000 l "isa"
+11 4 0.0416667 l "isa"
+5 11 0.5000000 l "isa"
+11 5 0.0416667 l "isa"
+6 11 1.0000000 l "isa"
+11 6 0.0416667 l "isa"
+7 11 1.0000000 l "isa"
+11 7 0.0416667 l "isa"
+8 11 0.5000000 l "isa"
+11 8 0.0416667 l "isa"
+9 11 0.5000000 l "isa"
+11 9 0.0416667 l "isa"
+10 13 1.0000000 l "isa"
+13 10 0.0769231 l "isa"
+11 47 0.0416667 l "isa"
+47 11 0.3333333 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.0416667 l "isa"
+13 11 0.0769231 l "isa"
+11 13 0.0416667 l "isa"
+14 11 0.3333333 l "isa"
+11 14 0.0416667 l "isa"
+15 39 1.0000000 l "isa"
+39 15 0.1666667 l "isa"
+16 11 1.0000000 l "isa"
+11 16 0.0416667 l "isa"
+17 11 1.0000000 l "isa"
+11 17 0.0416667 l "isa"
+18 11 1.0000000 l "isa"
+11 18 0.0416667 l "isa"
+19 13 1.0000000 l "isa"
+13 19 0.0769231 l "isa"
+20 3 1.0000000 l "isa"
+3 20 0.5000000 l "isa"
+21 13 1.0000000 l "isa"
+13 21 0.0769231 l "isa"
+22 2 1.0000000 l "isa"
+2 22 0.5000000 l "isa"
+23 13 1.0000000 l "isa"
+13 23 0.0769231 l "isa"
+24 13 1.0000000 l "isa"
+13 24 0.0769231 l "isa"
+25 13 1.0000000 l "isa"
+13 25 0.0769231 l "isa"
+26 13 1.0000000 l "isa"
+13 26 0.0769231 l "isa"
+27 13 1.0000000 l "isa"
+13 27 0.0769231 l "isa"
+28 14 1.0000000 l "isa"
+14 28 0.3333333 l "isa"
+29 14 0.3333333 l "isa"
+14 29 0.3333333 l "isa"
+30 29 1.0000000 l "isa"
+29 30 0.3333333 l "isa"
+31 29 0.5000000 l "isa"
+29 31 0.3333333 l "isa"
+32 47 0.5000000 l "isa"
+47 32 0.3333333 l "isa"
+33 32 1.0000000 l "isa"
+32 33 0.5000000 l "isa"
+34 13 1.0000000 l "isa"
+13 34 0.0769231 l "isa"
+35 11 1.0000000 l "isa"
+11 35 0.0416667 l "isa"
+36 13 0.5000000 l "isa"
+13 36 0.0769231 l "isa"
+37 11 0.5000000 l "isa"
+11 37 0.0416667 l "isa"
+38 37 0.5000000 l "isa"
+37 38 0.5000000 l "isa"
+39 11 0.1666667 l "isa"
+11 39 0.0416667 l "isa"
+40 39 1.0000000 l "isa"
+39 40 0.1666667 l "isa"
+41 39 1.0000000 l "isa"
+39 41 0.1666667 l "isa"
+42 39 1.0000000 l "isa"
+39 42 0.1666667 l "isa"
+43 39 0.5000000 l "isa"
+39 43 0.1666667 l "isa"
+44 1 1.0000000 l "isa"
+1 44 0.6666667 l "isa"
+45 5 1.0000000 l "isa"
+5 45 0.5000000 l "isa"
+51 50 0.2222222 l "isa"
+50 51 0.3333333 l "isa"
+1 44 0.6666667 l "substring"
+44 1 1.0000000 l "substring"
+9 36 0.5000000 l "substring"
+36 9 0.5000000 l "substring"
+8 43 0.5000000 l "distance"
+43 8 0.5000000 l "distance"
+31 38 0.5000000 l "distance"
+38 31 0.5000000 l "distance"
+46 48 0.4000000 l "distance"
+48 46 0.2857143 l "distance"
+46 49 0.2000000 l "distance"
+49 46 0.1666667 l "distance"
+46 50 0.2000000 l "distance"
+50 46 0.1666667 l "distance"
+48 49 0.2857143 l "distance"
+49 48 0.3333333 l "distance"
+48 50 0.2857143 l "distance"
+50 48 0.3333333 l "distance"
+49 50 0.1666667 l "distance"
+50 49 0.1666667 l "distance"
+49 51 0.1666667 l "distance"
+51 49 0.1111111 l "distance"
+50 51 0.3333333 l "distance"
+51 50 0.2222222 l "distance"
+*Edges

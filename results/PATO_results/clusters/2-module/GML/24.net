@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Surface" ellipse
+2 "patches"
+*Arcs
+1 2 0.0400000 l "definition"
+2 1 1.0000000 l "definition"
+*Edges

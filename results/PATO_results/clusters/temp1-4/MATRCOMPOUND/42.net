@@ -1,0 +1,38 @@
+*Vertices 3
+1 "Danish Jersey" ellipse
+2 "Jersey" ellipse
+3 "Jersey Giant" ellipse
+*Arcs
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+1 2 0.6127473 l "substring"
+2 1 0.2263062 l "substring"
+2 3 0.2249665 l "substring"
+3 2 0.6065034 l "substring"
+*Edges

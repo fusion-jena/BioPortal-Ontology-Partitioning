@@ -1,0 +1,14 @@
+*Vertices 9
+1 "ICD-10 code" ellipse
+2 "Organization" ellipse
+3 "value"
+4 "string"
+5 "biography" ellipse
+6 "comment" ellipse
+7 "lecture" ellipse
+8 "taxonomy" ellipse
+9 "terminology" ellipse
+*Arcs
+8 9 0.5000000 l "isa"
+9 8 0.5000000 l "isa"
+*Edges

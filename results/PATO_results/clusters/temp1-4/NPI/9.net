@@ -1,0 +1,44 @@
+*Vertices 11
+1 "games" ellipse
+2 "health" ellipse
+3 "Virtual Reality Therapy" ellipse
+4 "Health Education related terms" ellipse
+5 "eHealth Device related terms" ellipse
+6 "Therapeutic related terms" ellipse
+7 "Virtual Reality Therapy related terms" ellipse
+8 "Digital Health Interventions" ellipse
+9 "Therapeutic Games" ellipse
+10 "Health Education" ellipse
+11 "eHealth Devices" ellipse
+*Arcs
+3 8 0.3333333 l "isa"
+8 3 0.1666667 l "isa"
+4 10 0.6666667 l "isa"
+10 4 0.5000000 l "isa"
+5 11 0.5000000 l "isa"
+11 5 0.3333333 l "isa"
+6 9 1.0000000 l "isa"
+9 6 0.3333333 l "isa"
+7 3 1.0000000 l "isa"
+3 7 0.6666667 l "isa"
+9 8 0.3333333 l "isa"
+8 9 0.1666667 l "isa"
+11 8 0.3333333 l "isa"
+8 11 0.1666667 l "isa"
+1 9 0.1216879 l "substring"
+9 1 0.3333333 l "substring"
+2 4 0.0762001 l "substring"
+4 2 0.3333333 l "substring"
+2 5 0.0762001 l "substring"
+5 2 0.5000000 l "substring"
+2 8 0.0762001 l "substring"
+8 2 0.1666667 l "substring"
+2 10 0.0762001 l "substring"
+10 2 0.2500000 l "substring"
+2 11 0.0762001 l "substring"
+11 2 0.3333333 l "substring"
+3 7 0.6666667 l "substring"
+7 3 1.0000000 l "substring"
+4 10 0.6666667 l "substring"
+10 4 0.5000000 l "substring"
+*Edges

@@ -1,0 +1,144 @@
+*Vertices 41
+1 "abstract" ellipse
+2 "address" ellipse
+3 "bibliography" ellipse
+4 "biobibliography" ellipse
+5 "biography" ellipse
+6 "clinical pathway" ellipse
+7 "clinical practice guideline" ellipse
+8 "clinical protocol" ellipse
+9 "comment" ellipse
+10 "conference paper" ellipse
+11 "conference proceedings" ellipse
+12 "dictionary" ellipse
+13 "directory" ellipse
+14 "duplicate publication" ellipse
+15 "editorial" ellipse
+16 "erratum" ellipse
+17 "festschrift" ellipse
+18 "government publication" ellipse
+19 "guideline" ellipse
+20 "index" ellipse
+21 "interactive tutorial" ellipse
+22 "interview" ellipse
+23 "lecture" ellipse
+24 "legislation" ellipse
+25 "letter" ellipse
+26 "letter to the editor" ellipse
+27 "ontology" ellipse
+28 "opinion paper" ellipse
+29 "patient education handout" ellipse
+30 "periodical index" ellipse
+31 "practice guideline" ellipse
+32 "protocol" ellipse
+33 "publication type" ellipse
+34 "research report" ellipse
+35 "retracted publication" ellipse
+36 "scientific publication" ellipse
+37 "taxonomy" ellipse
+38 "technical report" ellipse
+39 "terminology" ellipse
+40 "thesaurus" ellipse
+41 "white paper" ellipse
+*Arcs
+1 33 1.0000000 l "isa"
+33 1 0.0322581 l "isa"
+2 33 1.0000000 l "isa"
+33 2 0.0322581 l "isa"
+3 33 0.2000000 l "isa"
+33 3 0.0322581 l "isa"
+4 3 1.0000000 l "isa"
+3 4 0.6000000 l "isa"
+5 33 0.5000000 l "isa"
+33 5 0.0322581 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.3333333 l "isa"
+7 31 0.6666667 l "isa"
+31 7 0.5000000 l "isa"
+8 32 0.6666667 l "isa"
+32 8 0.6666667 l "isa"
+9 33 1.0000000 l "isa"
+33 9 0.0322581 l "isa"
+10 33 1.0000000 l "isa"
+33 10 0.0322581 l "isa"
+11 33 1.0000000 l "isa"
+33 11 0.0322581 l "isa"
+12 33 1.0000000 l "isa"
+33 12 0.0322581 l "isa"
+13 33 1.0000000 l "isa"
+33 13 0.0322581 l "isa"
+14 33 1.0000000 l "isa"
+33 14 0.0322581 l "isa"
+15 33 1.0000000 l "isa"
+33 15 0.0322581 l "isa"
+16 33 1.0000000 l "isa"
+33 16 0.0322581 l "isa"
+17 33 1.0000000 l "isa"
+33 17 0.0322581 l "isa"
+18 33 0.5000000 l "isa"
+33 18 0.0322581 l "isa"
+19 33 0.2500000 l "isa"
+33 19 0.0322581 l "isa"
+20 33 0.3333333 l "isa"
+33 20 0.0322581 l "isa"
+21 33 1.0000000 l "isa"
+33 21 0.0322581 l "isa"
+22 33 1.0000000 l "isa"
+33 22 0.0322581 l "isa"
+23 33 0.5000000 l "isa"
+33 23 0.0322581 l "isa"
+24 33 1.0000000 l "isa"
+33 24 0.0322581 l "isa"
+25 33 0.2500000 l "isa"
+33 25 0.0322581 l "isa"
+26 25 1.0000000 l "isa"
+25 26 0.5000000 l "isa"
+27 40 1.0000000 l "isa"
+40 27 0.5000000 l "isa"
+28 33 1.0000000 l "isa"
+33 28 0.0322581 l "isa"
+29 33 1.0000000 l "isa"
+33 29 0.0322581 l "isa"
+30 20 1.0000000 l "isa"
+20 30 0.6666667 l "isa"
+31 19 0.5000000 l "isa"
+19 31 0.5000000 l "isa"
+32 33 0.3333333 l "isa"
+33 32 0.0322581 l "isa"
+34 33 1.0000000 l "isa"
+33 34 0.0322581 l "isa"
+35 33 1.0000000 l "isa"
+33 35 0.0322581 l "isa"
+36 33 1.0000000 l "isa"
+33 36 0.0322581 l "isa"
+37 39 0.5000000 l "isa"
+39 37 0.5000000 l "isa"
+38 33 1.0000000 l "isa"
+33 38 0.0322581 l "isa"
+39 33 0.5000000 l "isa"
+33 39 0.0322581 l "isa"
+40 37 0.5000000 l "isa"
+37 40 0.5000000 l "isa"
+41 18 1.0000000 l "isa"
+18 41 0.5000000 l "isa"
+3 4 0.6000000 l "substring"
+4 3 1.0000000 l "substring"
+7 19 0.3333333 l "substring"
+19 7 0.2500000 l "substring"
+7 31 0.6666667 l "substring"
+31 7 0.5000000 l "substring"
+8 32 0.6666667 l "substring"
+32 8 0.6666667 l "substring"
+19 31 0.5000000 l "substring"
+31 19 0.5000000 l "substring"
+20 30 0.6666667 l "substring"
+30 20 1.0000000 l "substring"
+25 26 0.5000000 l "substring"
+26 25 1.0000000 l "substring"
+3 4 0.6000000 l "distance"
+4 3 1.0000000 l "distance"
+3 5 0.2000000 l "distance"
+5 3 0.5000000 l "distance"
+23 25 0.5000000 l "distance"
+25 23 0.2500000 l "distance"
+*Edges

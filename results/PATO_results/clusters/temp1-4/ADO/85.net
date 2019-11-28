@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Tramiprosate" ellipse
+2 "amyloid aggregator drug molecule" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.3333333 l "isa"
+*Edges

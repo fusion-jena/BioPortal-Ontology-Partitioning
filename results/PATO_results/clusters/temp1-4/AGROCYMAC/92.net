@@ -1,0 +1,24 @@
+*Vertices 3
+1 "separating" ellipse
+2 "separating material" ellipse
+3 "removing material" ellipse
+*Arcs
+2 1 0.5759253 l "isa"
+1 2 0.3607091 l "isa"
+3 2 0.2776365 l "isa"
+2 3 0.2331452 l "isa"
+1 2 0.3607091 l "substring"
+2 1 0.5759253 l "substring"
+2 1 0.5759253 l "isa"
+1 2 0.3607091 l "isa"
+3 2 0.2776365 l "isa"
+2 3 0.2331452 l "isa"
+1 2 0.3607091 l "substring"
+2 1 0.5759253 l "substring"
+2 1 0.5759253 l "isa"
+1 2 0.3607091 l "isa"
+3 2 0.2776365 l "isa"
+2 3 0.2331452 l "isa"
+1 2 0.3607091 l "substring"
+2 1 0.5759253 l "substring"
+*Edges

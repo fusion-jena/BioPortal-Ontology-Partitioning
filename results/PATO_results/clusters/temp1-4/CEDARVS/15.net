@@ -1,0 +1,163 @@
+*Vertices 34
+1 "Real Mode of Existing" ellipse
+2 "Substance" ellipse
+3 "Living" ellipse
+4 "Accident" ellipse
+5 "Non-living" ellipse
+6 "Animal" ellipse
+7 "Human" ellipse
+8 "Vegetal" ellipse
+9 "Tumor" ellipse
+10 "Annotated Case Report Form" ellipse
+11 "CRF Completion Requirements" ellipse
+12 "Case Report Form" ellipse
+13 "Completed Case Report Forms" ellipse
+14 "Data Capture" ellipse
+15 "Data Clarification Forms" ellipse
+16 "Electronic Data Capture Final Data" ellipse
+17 "Adverse_Events" ellipse
+18 "Assessment_Results" ellipse
+19 "Case_Report_Form" ellipse
+20 "Concomitant_Medications" ellipse
+21 "Data_Dictionary" ellipse
+22 "Demographics" ellipse
+23 "Intervention_Longitudinal" ellipse
+24 "Interventional" ellipse
+25 "Interventions" ellipse
+26 "Lab_Test_Results" ellipse
+27 "Longitudinal" ellipse
+28 "Observational" ellipse
+29 "Study_Data" ellipse
+30 "Study_File_Type" ellipse
+31 "Study_Medication" ellipse
+32 "Study_Summary_Description" ellipse
+33 "Study_Type" ellipse
+34 "Substance_Use" ellipse
+*Arcs
+2 1 0.2995772 l "isa"
+1 2 0.4984198 l "isa"
+3 2 0.1375216 l "isa"
+2 3 0.2361860 l "isa"
+4 1 0.3828210 l "isa"
+1 4 0.5015802 l "isa"
+5 2 0.5309732 l "isa"
+2 5 0.3020348 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2068317 l "isa"
+7 3 0.4699567 l "isa"
+3 7 0.1553456 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.2068317 l "isa"
+3 5 0.1553456 l "substring"
+5 3 0.4690269 l "substring"
+7 9 0.5300433 l "distance"
+9 7 0.3555258 l "distance"
+2 1 0.2995772 l "isa"
+1 2 0.4984198 l "isa"
+3 2 0.1375216 l "isa"
+2 3 0.2361860 l "isa"
+4 1 0.3828210 l "isa"
+1 4 0.5015802 l "isa"
+5 2 0.5309732 l "isa"
+2 5 0.3020348 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2068317 l "isa"
+7 3 0.4699567 l "isa"
+3 7 0.1553456 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.2068317 l "isa"
+10 14 0.4826087 l "isa"
+14 10 0.1298245 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.1543860 l "isa"
+13 14 0.4826087 l "isa"
+14 13 0.1298245 l "isa"
+15 14 1.0000000 l "isa"
+14 15 0.1543860 l "isa"
+16 14 1.0000000 l "isa"
+14 16 0.3228070 l "isa"
+3 5 0.1553456 l "substring"
+5 3 0.4690269 l "substring"
+10 12 0.5173913 l "substring"
+12 10 0.2798354 l "substring"
+12 13 0.2798354 l "substring"
+13 12 0.5173913 l "substring"
+14 16 0.3228070 l "substring"
+16 14 1.0000000 l "substring"
+7 9 0.5300433 l "distance"
+9 7 0.3555258 l "distance"
+2 1 0.2995772 l "isa"
+1 2 0.4984198 l "isa"
+3 2 0.1375216 l "isa"
+2 3 0.2361860 l "isa"
+4 1 0.3828210 l "isa"
+1 4 0.5015802 l "isa"
+5 2 0.5309732 l "isa"
+2 5 0.3020348 l "isa"
+6 3 1.0000000 l "isa"
+3 6 0.2068317 l "isa"
+7 3 0.4699567 l "isa"
+3 7 0.1553456 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.2068317 l "isa"
+10 14 0.4826087 l "isa"
+14 10 0.1298245 l "isa"
+11 14 1.0000000 l "isa"
+14 11 0.1543860 l "isa"
+13 14 0.4826087 l "isa"
+14 13 0.1298245 l "isa"
+15 14 1.0000000 l "isa"
+14 15 0.1543860 l "isa"
+16 14 1.0000000 l "isa"
+14 16 0.3228070 l "isa"
+17 30 1.0000000 l "isa"
+30 17 0.0833333 l "isa"
+18 30 1.0000000 l "isa"
+30 18 0.0833333 l "isa"
+19 30 0.5000000 l "isa"
+30 19 0.0833333 l "isa"
+20 30 1.0000000 l "isa"
+30 20 0.0833333 l "isa"
+21 30 1.0000000 l "isa"
+30 21 0.0833333 l "isa"
+22 30 1.0000000 l "isa"
+30 22 0.0833333 l "isa"
+23 33 0.5000000 l "isa"
+33 23 0.2500000 l "isa"
+24 33 0.5000000 l "isa"
+33 24 0.2500000 l "isa"
+25 30 0.5000000 l "isa"
+30 25 0.0833333 l "isa"
+26 30 1.0000000 l "isa"
+30 26 0.0833333 l "isa"
+27 33 0.5000000 l "isa"
+33 27 0.2500000 l "isa"
+28 33 1.0000000 l "isa"
+33 28 0.2500000 l "isa"
+29 30 1.0000000 l "isa"
+30 29 0.0833333 l "isa"
+31 30 1.0000000 l "isa"
+30 31 0.0833333 l "isa"
+32 30 1.0000000 l "isa"
+30 32 0.0833333 l "isa"
+34 30 0.5000000 l "isa"
+30 34 0.0833333 l "isa"
+2 34 0.1622020 l "substring"
+34 2 0.5000000 l "substring"
+3 5 0.1553456 l "substring"
+5 3 0.4690269 l "substring"
+10 12 0.5173913 l "substring"
+12 10 0.2798354 l "substring"
+12 13 0.2798354 l "substring"
+13 12 0.5173913 l "substring"
+14 16 0.3228070 l "substring"
+16 14 1.0000000 l "substring"
+23 27 0.5000000 l "substring"
+27 23 0.5000000 l "substring"
+7 9 0.5300433 l "distance"
+9 7 0.3555258 l "distance"
+12 19 0.1975309 l "distance"
+19 12 0.5000000 l "distance"
+24 25 0.5000000 l "distance"
+25 24 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 4
+1 "Cloud Computing" ellipse
+2 "Computer Science" ellipse
+3 "Mobile Devices" ellipse
+4 "Semantic Web" ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.0500000 l "isa"
+3 2 1.0000000 l "isa"
+2 3 0.0500000 l "isa"
+4 2 1.0000000 l "isa"
+2 4 0.0500000 l "isa"
+*Edges

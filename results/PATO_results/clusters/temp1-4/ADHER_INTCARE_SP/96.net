@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Definite_circumscribed_interest_that_does_not_cause_substantial_interference_with_social_functioning" ellipse
+2 "cirint_Definite_circumscribed_interest_that_does_not_cause_substantial_interference_with_social_functioning"
+*Arcs
+1 2 0.2770346 l "substring"
+2 1 0.2319248 l "substring"
+1 2 0.2770346 l "substring"
+2 1 0.2319248 l "substring"
+1 2 0.2770346 l "substring"
+2 1 0.2319248 l "substring"
+*Edges

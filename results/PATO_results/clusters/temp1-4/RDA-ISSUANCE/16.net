@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Abatacept" ellipse
+2 "Orencia" ellipse
+*Arcs
+2 1 0.5307622 l "isa"
+1 2 0.3721076 l "isa"
+2 1 0.5307622 l "isa"
+1 2 0.3721076 l "isa"
+*Edges

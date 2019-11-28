@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Location" ellipse
+2 "string"
+3 "country"
+*Arcs
+1 2 0.4166667 l "city"
+2 1 0.1388889 l "city"
+1 2 0.4166667 l "country"
+2 1 0.1388889 l "country"
+1 2 0.4166667 l "state"
+2 1 0.1388889 l "state"
+1 2 0.4166667 l "street"
+2 1 0.1388889 l "street"
+1 2 0.4166667 l "definition"
+2 1 0.1388889 l "definition"
+1 3 0.0833333 l "definition"
+3 1 1.0000000 l "definition"
+*Edges

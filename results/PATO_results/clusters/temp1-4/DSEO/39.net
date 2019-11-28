@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Noncompliance" ellipse
+2 "Noncompliance_of_Diagnostic_Test" ellipse
+*Arcs
+1 2 0.0933227 l "substring"
+2 1 0.1291683 l "substring"
+1 2 0.0933227 l "substring"
+2 1 0.1291683 l "substring"
+*Edges

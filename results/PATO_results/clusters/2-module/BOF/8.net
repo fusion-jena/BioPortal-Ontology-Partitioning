@@ -1,0 +1,52 @@
+*Vertices 11
+1 "ColetaporParcelas" ellipse
+2 "Collect" ellipse
+3 "CollectAssistent" ellipse
+4 "CollectParticipant" ellipse
+5 "CollectResponsible" ellipse
+6 "CollectResponsibleInstitution" ellipse
+7 "ManualCollect" ellipse
+8 "NetCollect" ellipse
+9 "RandomCollect" ellipse
+10 "TypeCollect" ellipse
+11 "dateTime"
+*Arcs
+1 10 1.0000000 l "isa"
+10 1 0.1250000 l "isa"
+3 4 0.5000000 l "isa"
+4 3 0.2000000 l "isa"
+7 10 0.5000000 l "isa"
+10 7 0.1250000 l "isa"
+9 10 0.5000000 l "isa"
+10 9 0.1250000 l "isa"
+2 6 0.1052632 l "mediationColetaInstituicaoResponsavelColeta"
+6 2 0.5000000 l "mediationColetaInstituicaoResponsavelColeta"
+2 5 0.1052632 l "mediationColetaRespColeta"
+5 2 0.5000000 l "mediationColetaRespColeta"
+2 4 0.1052632 l "mediationPartColetaCol"
+4 2 0.4000000 l "mediationPartColetaCol"
+2 11 0.1052632 l "dataHoraFim"
+11 2 1.0000000 l "dataHoraFim"
+2 11 0.1052632 l "dataHoraInicio"
+11 2 1.0000000 l "dataHoraInicio"
+2 3 0.0526316 l "substring"
+3 2 0.5000000 l "substring"
+2 4 0.1052632 l "substring"
+4 2 0.4000000 l "substring"
+2 5 0.1052632 l "substring"
+5 2 0.5000000 l "substring"
+2 6 0.1052632 l "substring"
+6 2 0.5000000 l "substring"
+2 7 0.0526316 l "substring"
+7 2 0.5000000 l "substring"
+2 8 0.1052632 l "substring"
+8 2 0.6666667 l "substring"
+2 9 0.0526316 l "substring"
+9 2 0.5000000 l "substring"
+2 10 0.0526316 l "substring"
+10 2 0.1250000 l "substring"
+5 6 0.2500000 l "substring"
+6 5 0.2500000 l "substring"
+2 8 0.1052632 l "distance"
+8 2 0.6666667 l "distance"
+*Edges

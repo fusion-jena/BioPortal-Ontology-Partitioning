@@ -1,0 +1,16 @@
+*Vertices 5
+1 "COG_info" ellipse
+2 "allele_ko_log" ellipse
+3 "chr_allele_note" ellipse
+4 "researcher_note" ellipse
+5 "subset" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.1666667 l "isa"
+2 4 1.0000000 l "isa"
+4 2 0.1666667 l "isa"
+3 4 1.0000000 l "isa"
+4 3 0.1666667 l "isa"
+5 4 1.0000000 l "isa"
+4 5 0.1666667 l "isa"
+*Edges

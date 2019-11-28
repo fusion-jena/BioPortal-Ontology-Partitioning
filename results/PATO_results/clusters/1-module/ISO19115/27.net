@@ -1,0 +1,36 @@
+*Vertices 9
+1 "DQ_NonQuantitativeAttributeAccuracy" ellipse
+2 "DQ_QuantitativeAttributeAccuracy" ellipse
+3 "DQ_ThematicAccuracy" ellipse
+4 "DQ_ThematicClassificationCorrectness" ellipse
+5 "MD_SecurityConstraints" ellipse
+6 "Class"
+7 "classification"
+8 "classificationSystem"
+9 "userNote"
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.2500000 l "isa"
+2 3 0.5000000 l "isa"
+3 2 0.2500000 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.2500000 l "isa"
+5 7 0.0909091 l "definition"
+7 5 0.2000000 l "definition"
+5 8 0.0909091 l "definition"
+8 5 0.3333333 l "definition"
+5 9 0.0909091 l "definition"
+9 5 1.0000000 l "definition"
+4 6 0.3333333 l "substring"
+6 4 0.1428571 l "substring"
+4 7 0.3333333 l "substring"
+7 4 0.2000000 l "substring"
+6 7 0.1428571 l "substring"
+7 6 0.2000000 l "substring"
+6 8 0.1428571 l "substring"
+8 6 0.3333333 l "substring"
+7 8 0.2000000 l "substring"
+8 7 0.3333333 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.5000000 l "distance"
+*Edges

@@ -1,0 +1,33 @@
+*Vertices 10
+1 "Electron Tunnelling Medium" ellipse
+2 "Electron Pair Shuttle" ellipse
+3 "Single Electron Shuttle" ellipse
+4 "Electron Shuttle" ellipse
+5 "Electron Pair Acceptor" ellipse
+6 "Electron Pair Donor" ellipse
+7 "Electron Pair Relay" ellipse
+8 "Single Electron Acceptor" ellipse
+9 "Single Electron Donor" ellipse
+10 "Single Electron Relay" ellipse
+*Arcs
+1 4 1.0000000 l "isa"
+4 1 0.2000000 l "isa"
+2 4 0.2500000 l "isa"
+4 2 0.2000000 l "isa"
+3 4 0.4000000 l "isa"
+4 3 0.4000000 l "isa"
+5 2 1.0000000 l "isa"
+2 5 0.2500000 l "isa"
+6 2 1.0000000 l "isa"
+2 6 0.2500000 l "isa"
+7 2 1.0000000 l "isa"
+2 7 0.2500000 l "isa"
+8 3 1.0000000 l "isa"
+3 8 0.2000000 l "isa"
+9 3 1.0000000 l "isa"
+3 9 0.2000000 l "isa"
+10 3 1.0000000 l "isa"
+3 10 0.2000000 l "isa"
+3 4 0.4000000 l "substring"
+4 3 0.4000000 l "substring"
+*Edges

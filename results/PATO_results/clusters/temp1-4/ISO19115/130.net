@@ -1,0 +1,18 @@
+*Vertices 3
+1 "FC_Binding" ellipse
+2 "globalProperty"
+3 "globalProperty"
+*Arcs
+1 2 0.0869305 l "definition"
+2 1 0.1857922 l "definition"
+2 3 0.4556656 l "substring"
+3 2 0.4574840 l "substring"
+2 3 0.4556656 l "distance"
+3 2 0.4574840 l "distance"
+1 2 0.0869305 l "definition"
+2 1 0.1857922 l "definition"
+2 3 0.4556656 l "substring"
+3 2 0.4574840 l "substring"
+2 3 0.4556656 l "distance"
+3 2 0.4574840 l "distance"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Endocrine_Neoplasms" ellipse
+2 "Neoplasms" ellipse
+*Arcs
+1 2 0.3600719 l "substring"
+2 1 0.1596321 l "substring"
+1 2 0.3600719 l "substring"
+2 1 0.1596321 l "substring"
+1 2 0.3600719 l "substring"
+2 1 0.1596321 l "substring"
+*Edges

@@ -1,0 +1,20 @@
+*Vertices 3
+1 "Operon" ellipse
+2 "operon"
+3 "operonId"
+*Arcs
+1 3 0.1428571 l "definition"
+3 1 0.4285714 l "definition"
+1 2 0.0952381 l "substring"
+2 1 0.1666667 l "substring"
+1 3 0.1428571 l "substring"
+3 1 0.4285714 l "substring"
+2 3 0.1666667 l "substring"
+3 2 0.2857143 l "substring"
+1 2 0.0952381 l "distance"
+2 1 0.1666667 l "distance"
+1 3 0.1428571 l "distance"
+3 1 0.4285714 l "distance"
+2 3 0.1666667 l "distance"
+3 2 0.2857143 l "distance"
+*Edges

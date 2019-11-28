@@ -1,0 +1,26 @@
+*Vertices 3
+1 "Gansu Alpine Fine-Wool" ellipse
+2 "Alpine" ellipse
+3 "British Alpine" ellipse
+*Arcs
+1 2 0.5556292 l "substring"
+2 1 0.1779795 l "substring"
+2 3 0.1776034 l "substring"
+3 2 0.5524274 l "substring"
+1 2 0.5556292 l "substring"
+2 1 0.1779795 l "substring"
+2 3 0.1776034 l "substring"
+3 2 0.5524274 l "substring"
+1 2 0.5556292 l "substring"
+2 1 0.1779795 l "substring"
+2 3 0.1776034 l "substring"
+3 2 0.5524274 l "substring"
+1 2 0.5556292 l "substring"
+2 1 0.1779795 l "substring"
+2 3 0.1776034 l "substring"
+3 2 0.5524274 l "substring"
+1 2 0.5556292 l "substring"
+2 1 0.1779795 l "substring"
+2 3 0.1776034 l "substring"
+3 2 0.5524274 l "substring"
+*Edges

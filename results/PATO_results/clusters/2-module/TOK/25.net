@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hierarchy" ellipse
+2 "hierarchy_of"
+*Arcs
+1 2 0.5000000 l "definition"
+2 1 0.7500000 l "definition"
+1 2 0.5000000 l "substring"
+2 1 0.7500000 l "substring"
+1 2 0.5000000 l "distance"
+2 1 0.7500000 l "distance"
+*Edges

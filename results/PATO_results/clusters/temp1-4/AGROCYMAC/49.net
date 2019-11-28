@@ -1,0 +1,9 @@
+*Vertices 2
+1 "datum label" ellipse
+2 "categorical label" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.3016787 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.3016787 l "isa"
+*Edges

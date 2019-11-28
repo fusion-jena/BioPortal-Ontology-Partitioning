@@ -1,0 +1,43 @@
+*Vertices 14
+1 "Caregiver_Role_Strain" ellipse
+2 "Communication_Impairment" ellipse
+3 "Family_Processes_Alteration" ellipse
+4 "Parental_Role_Conflict" ellipse
+5 "Parenting_Alteration" ellipse
+6 "Relocation_Stress_Syndrome" ellipse
+7 "Role_Performance_Alteration" ellipse
+8 "Role_Relationship" ellipse
+9 "Sexual_Dysfuncti" ellipse
+10 "Sexuality_Patterns_Alteration" ellipse
+11 "Social_Interaction_Alteration" ellipse
+12 "Social_Isolation" ellipse
+13 "Socialization_Alteration" ellipse
+14 "Verbal_Impairment" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.0714286 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0714286 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0714286 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.0714286 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0714286 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0714286 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.0714286 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0714286 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.0714286 l "isa"
+11 8 1.0000000 l "isa"
+8 11 0.0714286 l "isa"
+12 8 1.0000000 l "isa"
+8 12 0.0714286 l "isa"
+13 8 1.0000000 l "isa"
+8 13 0.0714286 l "isa"
+14 8 1.0000000 l "isa"
+8 14 0.0714286 l "isa"
+*Edges

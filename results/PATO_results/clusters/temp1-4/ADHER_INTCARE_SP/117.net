@@ -1,0 +1,19 @@
+*Vertices 4
+1 "C_Agree_action_plan" ellipse
+2 "Clinical_Feasibility_Scope" ellipse
+3 "Scope_of_Disease_Self-Management_and_Functional_Preservation" ellipse
+4 "Scope_of_Optimization_of_Therapy_and_Care_Plans" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2869757 l "isa"
+3 1 0.2151135 l "isa"
+1 3 0.2163355 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2869757 l "isa"
+2 1 1.0000000 l "isa"
+1 2 0.2869757 l "isa"
+3 1 0.2151135 l "isa"
+1 3 0.2163355 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2869757 l "isa"
+*Edges

@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Minute" ellipse
+2 "TemporalInterval" ellipse
+*Arcs
+1 2 0.1507473 l "isa"
+2 1 0.1216245 l "isa"
+1 2 0.1507473 l "isa"
+2 1 0.1216245 l "isa"
+1 2 0.1507473 l "isa"
+2 1 0.1216245 l "isa"
+*Edges

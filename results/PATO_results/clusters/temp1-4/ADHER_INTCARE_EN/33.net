@@ -1,0 +1,13 @@
+*Vertices 2
+1 "General_loss_of_skills" ellipse
+2 "Loss_of_skills" ellipse
+*Arcs
+1 2 0.6930693 l "isa"
+2 1 0.2948019 l "isa"
+1 2 0.6930693 l "substring"
+2 1 0.2948019 l "substring"
+1 2 0.6930693 l "isa"
+2 1 0.2948019 l "isa"
+1 2 0.6930693 l "substring"
+2 1 0.2948019 l "substring"
+*Edges

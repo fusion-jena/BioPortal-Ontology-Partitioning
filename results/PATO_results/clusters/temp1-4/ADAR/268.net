@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Hypertonia" ellipse
+2 "HypertoniaProcess" ellipse
+*Arcs
+1 2 0.2301390 l "substring"
+2 1 0.1763607 l "substring"
+1 2 0.2301390 l "substring"
+2 1 0.1763607 l "substring"
+1 2 0.2301390 l "substring"
+2 1 0.1763607 l "substring"
+1 2 0.2301390 l "substring"
+2 1 0.1763607 l "substring"
+*Edges

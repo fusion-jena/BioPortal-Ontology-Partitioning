@@ -1,0 +1,10 @@
+*Vertices 3
+1 "TimeOrdinalReferenceSystem" ellipse
+2 "componentValue"
+3 "component"
+*Arcs
+1 3 0.2000000 l "definition"
+3 1 0.5000000 l "definition"
+2 3 0.2500000 l "substring"
+3 2 0.5000000 l "substring"
+*Edges

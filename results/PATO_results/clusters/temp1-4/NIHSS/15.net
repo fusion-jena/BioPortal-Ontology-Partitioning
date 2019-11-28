@@ -1,0 +1,13 @@
+*Vertices 2
+1 "hasBurst"
+2 "hasRT"
+*Arcs
+1 2 0.2675695 l "distance"
+2 1 0.0846329 l "distance"
+1 2 0.2675695 l "distance"
+2 1 0.0846329 l "distance"
+1 2 0.2675695 l "distance"
+2 1 0.0846329 l "distance"
+1 2 0.2675695 l "distance"
+2 1 0.0846329 l "distance"
+*Edges

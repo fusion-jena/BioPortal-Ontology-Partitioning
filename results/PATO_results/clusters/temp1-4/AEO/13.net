@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Calcium release" ellipse
+2 "Calcium stores" ellipse
+3 "calcium" ellipse
+*Arcs
+1 3 0.3740693 l "substring"
+3 1 0.1504009 l "substring"
+2 3 0.3705252 l "substring"
+3 2 0.1502131 l "substring"
+1 3 0.3740693 l "substring"
+3 1 0.1504009 l "substring"
+2 3 0.3705252 l "substring"
+3 2 0.1502131 l "substring"
+1 3 0.3740693 l "substring"
+3 1 0.1504009 l "substring"
+2 3 0.3705252 l "substring"
+3 2 0.1502131 l "substring"
+*Edges

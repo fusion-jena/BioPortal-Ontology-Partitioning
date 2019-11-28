@@ -1,0 +1,57 @@
+*Vertices 14
+1 "AquaticVegatation" ellipse
+2 "CapoeiraVegetation" ellipse
+3 "FieldVagetation" ellipse
+4 "FloodedVegetation" ellipse
+5 "ForestVegetation" ellipse
+6 "IgapoVegetation" ellipse
+7 "LowLandVegetation" ellipse
+8 "MarginalVagetation" ellipse
+9 "SandbankVegetation" ellipse
+10 "SavannahVegetation" ellipse
+11 "TypeVegetation" ellipse
+12 "VegetacaoMata" ellipse
+13 "Vegetation" ellipse
+14 "VegetationEnvironment" ellipse
+*Arcs
+1 14 1.0000000 l "isa"
+14 1 0.1666667 l "isa"
+2 11 0.5000000 l "isa"
+11 2 0.0909091 l "isa"
+3 11 1.0000000 l "isa"
+11 3 0.0909091 l "isa"
+4 14 0.5000000 l "isa"
+14 4 0.1666667 l "isa"
+5 11 0.5000000 l "isa"
+11 5 0.0909091 l "isa"
+6 11 0.5000000 l "isa"
+11 6 0.0909091 l "isa"
+7 11 0.5000000 l "isa"
+11 7 0.0909091 l "isa"
+8 14 1.0000000 l "isa"
+14 8 0.1666667 l "isa"
+9 11 0.5000000 l "isa"
+11 9 0.0909091 l "isa"
+10 11 0.5000000 l "isa"
+11 10 0.0909091 l "isa"
+12 11 1.0000000 l "isa"
+11 12 0.0909091 l "isa"
+2 13 0.5000000 l "substring"
+13 2 0.1000000 l "substring"
+4 13 0.5000000 l "substring"
+13 4 0.1000000 l "substring"
+5 13 0.5000000 l "substring"
+13 5 0.1000000 l "substring"
+6 13 0.5000000 l "substring"
+13 6 0.1000000 l "substring"
+7 13 0.5000000 l "substring"
+13 7 0.1000000 l "substring"
+9 13 0.5000000 l "substring"
+13 9 0.1000000 l "substring"
+10 13 0.5000000 l "substring"
+13 10 0.1000000 l "substring"
+11 13 0.0909091 l "substring"
+13 11 0.1000000 l "substring"
+13 14 0.1000000 l "substring"
+14 13 0.1666667 l "substring"
+*Edges

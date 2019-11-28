@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Inservice_Teacher_Education" ellipse
+2 "Teacher_Education" ellipse
+*Arcs
+1 2 0.3626234 l "substring"
+2 1 0.3620137 l "substring"
+1 2 0.3626234 l "substring"
+2 1 0.3620137 l "substring"
+*Edges

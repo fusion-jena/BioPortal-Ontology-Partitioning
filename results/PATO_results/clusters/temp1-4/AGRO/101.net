@@ -1,0 +1,9 @@
+*Vertices 2
+1 "environmental system" ellipse
+2 "environment associated with an animal part or small animal" ellipse
+*Arcs
+2 1 0.2857143 l "isa"
+1 2 0.0571429 l "isa"
+2 1 0.2857143 l "definition"
+1 2 0.0571429 l "definition"
+*Edges

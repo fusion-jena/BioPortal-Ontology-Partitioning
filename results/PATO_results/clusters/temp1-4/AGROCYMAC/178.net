@@ -1,0 +1,24 @@
+*Vertices 3
+1 "describing" ellipse
+2 "descriptive statistics" ellipse
+3 "descriptive statistic" ellipse
+*Arcs
+2 1 0.2395710 l "isa"
+1 2 0.2807959 l "isa"
+2 3 0.7604291 l "substring"
+3 2 0.7914076 l "substring"
+2 3 0.7604291 l "distance"
+3 2 0.7914076 l "distance"
+2 1 0.2395710 l "isa"
+1 2 0.2807959 l "isa"
+2 3 0.7604291 l "substring"
+3 2 0.7914076 l "substring"
+2 3 0.7604291 l "distance"
+3 2 0.7914076 l "distance"
+2 1 0.2395710 l "isa"
+1 2 0.2807959 l "isa"
+2 3 0.7604291 l "substring"
+3 2 0.7914076 l "substring"
+2 3 0.7604291 l "distance"
+3 2 0.7914076 l "distance"
+*Edges

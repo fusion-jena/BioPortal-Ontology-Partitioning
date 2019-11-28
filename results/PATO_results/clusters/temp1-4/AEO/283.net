@@ -1,0 +1,38 @@
+*Vertices 5
+1 "CD2AP" ellipse
+2 "CREB1" ellipse
+3 "CSE1L" ellipse
+4 "C/EBP" ellipse
+5 "MBP" ellipse
+*Arcs
+1 4 0.1011595 l "distance"
+4 1 0.1368473 l "distance"
+2 3 0.0358024 l "distance"
+3 2 0.0638529 l "distance"
+2 4 0.0389023 l "distance"
+4 2 0.1302995 l "distance"
+3 4 0.0716722 l "distance"
+4 3 0.1346015 l "distance"
+4 5 0.1276444 l "distance"
+5 4 0.0164202 l "distance"
+1 4 0.1011595 l "distance"
+4 1 0.1368473 l "distance"
+2 3 0.0358024 l "distance"
+3 2 0.0638529 l "distance"
+2 4 0.0389023 l "distance"
+4 2 0.1302995 l "distance"
+3 4 0.0716722 l "distance"
+4 3 0.1346015 l "distance"
+4 5 0.1276444 l "distance"
+5 4 0.0164202 l "distance"
+1 4 0.1011595 l "distance"
+4 1 0.1368473 l "distance"
+2 3 0.0358024 l "distance"
+3 2 0.0638529 l "distance"
+2 4 0.0389023 l "distance"
+4 2 0.1302995 l "distance"
+3 4 0.0716722 l "distance"
+4 3 0.1346015 l "distance"
+4 5 0.1276444 l "distance"
+5 4 0.0164202 l "distance"
+*Edges

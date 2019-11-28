@@ -1,0 +1,88 @@
+*Vertices 29
+1 "pig breed" ellipse
+2 "Ba Xuyen" ellipse
+3 "Brithish Lop" ellipse
+4 "Bulgarian White" ellipse
+5 "Cantonese" ellipse
+6 "Chester White" ellipse
+7 "Dermantsi Pied" ellipse
+8 "Fengjing" ellipse
+9 "Guinea Hog" ellipse
+10 "Krskopolje" ellipse
+11 "Kunekune" ellipse
+12 "Large White" ellipse
+13 "Middle White" ellipse
+14 "Mong Cai" ellipse
+15 "Mulefoot" ellipse
+16 "Ossabaw Island" ellipse
+17 "Pietrain" ellipse
+18 "Poland China" ellipse
+19 "Red Wattle" ellipse
+20 "Tamworth" ellipse
+21 "Turopolje" ellipse
+22 "Vietnamese Potbelly" ellipse
+23 "Leicoma" ellipse
+24 "Wild Boar" ellipse
+25 "Bama Xiang" ellipse
+26 "Korean native pig" ellipse
+27 "Göttingen Minipig" ellipse
+28 "Casertana" ellipse
+29 "White Composite" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.0121951 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.0121951 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.0121951 l "isa"
+5 1 1.0000000 l "isa"
+1 5 0.0121951 l "isa"
+6 1 1.0000000 l "isa"
+1 6 0.0121951 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.0121951 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.0121951 l "isa"
+9 1 1.0000000 l "isa"
+1 9 0.0121951 l "isa"
+10 1 1.0000000 l "isa"
+1 10 0.0121951 l "isa"
+11 1 1.0000000 l "isa"
+1 11 0.0121951 l "isa"
+12 1 1.0000000 l "isa"
+1 12 0.0121951 l "isa"
+13 1 1.0000000 l "isa"
+1 13 0.0121951 l "isa"
+14 1 1.0000000 l "isa"
+1 14 0.0121951 l "isa"
+15 1 1.0000000 l "isa"
+1 15 0.0121951 l "isa"
+16 1 1.0000000 l "isa"
+1 16 0.0121951 l "isa"
+17 1 1.0000000 l "isa"
+1 17 0.0121951 l "isa"
+18 1 1.0000000 l "isa"
+1 18 0.0121951 l "isa"
+19 1 1.0000000 l "isa"
+1 19 0.0121951 l "isa"
+20 1 1.0000000 l "isa"
+1 20 0.0121951 l "isa"
+21 1 1.0000000 l "isa"
+1 21 0.0121951 l "isa"
+22 1 1.0000000 l "isa"
+1 22 0.0121951 l "isa"
+23 1 1.0000000 l "isa"
+1 23 0.0121951 l "isa"
+24 1 1.0000000 l "isa"
+1 24 0.0121951 l "isa"
+25 1 1.0000000 l "isa"
+1 25 0.0121951 l "isa"
+26 1 1.0000000 l "isa"
+1 26 0.0121951 l "isa"
+27 1 1.0000000 l "isa"
+1 27 0.0121951 l "isa"
+28 1 1.0000000 l "isa"
+1 28 0.0121951 l "isa"
+29 1 1.0000000 l "isa"
+1 29 0.0121951 l "isa"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Argentine Criollo" ellipse
+2 "Argentine Criollo" ellipse
+*Arcs
+1 2 0.5623111 l "substring"
+2 1 0.5622728 l "substring"
+1 2 0.5623111 l "distance"
+2 1 0.5622728 l "distance"
+1 2 0.5623111 l "substring"
+2 1 0.5622728 l "substring"
+1 2 0.5623111 l "distance"
+2 1 0.5622728 l "distance"
+*Edges

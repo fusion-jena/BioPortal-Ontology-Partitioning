@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Accidental" ellipse
+2 "NonAccidental" ellipse
+*Arcs
+1 2 0.7803051 l "substring"
+2 1 0.7803051 l "substring"
+1 2 0.7803051 l "distance"
+2 1 0.7803051 l "distance"
+1 2 0.7803051 l "substring"
+2 1 0.7803051 l "substring"
+1 2 0.7803051 l "distance"
+2 1 0.7803051 l "distance"
+1 2 0.7803051 l "substring"
+2 1 0.7803051 l "substring"
+1 2 0.7803051 l "distance"
+2 1 0.7803051 l "distance"
+*Edges

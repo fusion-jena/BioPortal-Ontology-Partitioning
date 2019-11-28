@@ -1,0 +1,9 @@
+*Vertices 2
+1 "CompoundCharacter" ellipse
+2 "CompoundStateDatum" ellipse
+*Arcs
+2 1 0.4000000 l "belongs_to_Compound_Character"
+1 2 0.1818182 l "belongs_to_Compound_Character"
+1 2 0.1818182 l "definition"
+2 1 0.4000000 l "definition"
+*Edges

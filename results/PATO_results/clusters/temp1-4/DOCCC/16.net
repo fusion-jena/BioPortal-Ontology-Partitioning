@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Electronic Searching" ellipse
+2 "Search Methods" ellipse
+*Arcs
+1 2 0.1722959 l "isa"
+2 1 0.0963909 l "isa"
+1 2 0.1722959 l "isa"
+2 1 0.0963909 l "isa"
+*Edges

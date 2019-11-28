@@ -1,0 +1,9 @@
+*Vertices 2
+1 "larva" ellipse
+2 "larval anatomical structure" ellipse
+*Arcs
+2 1 0.2857143 l "definition"
+1 2 0.2222222 l "definition"
+1 2 0.2222222 l "substring"
+2 1 0.2857143 l "substring"
+*Edges

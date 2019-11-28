@@ -1,0 +1,27 @@
+*Vertices 4
+1 "MME" ellipse
+2 "Bilateral_symmetry" ellipse
+3 "Body Symmetry" ellipse
+4 "Radial_symmetry" ellipse
+*Arcs
+2 3 0.2629520 l "isa"
+3 2 0.1547680 l "isa"
+4 3 0.2629520 l "isa"
+3 4 0.1547680 l "isa"
+1 2 0.0124424 l "substring"
+2 1 0.2461070 l "substring"
+1 3 0.0119840 l "substring"
+3 1 0.1395166 l "substring"
+1 4 0.0124424 l "substring"
+4 1 0.2461070 l "substring"
+2 3 0.2629520 l "isa"
+3 2 0.1547680 l "isa"
+4 3 0.2629520 l "isa"
+3 4 0.1547680 l "isa"
+1 2 0.0124424 l "substring"
+2 1 0.2461070 l "substring"
+1 3 0.0119840 l "substring"
+3 1 0.1395166 l "substring"
+1 4 0.0124424 l "substring"
+4 1 0.2461070 l "substring"
+*Edges

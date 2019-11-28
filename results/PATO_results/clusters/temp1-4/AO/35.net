@@ -1,0 +1,48 @@
+*Vertices 5
+1 "CONGF" ellipse
+2 "NRNG4" ellipse
+3 "NRNOD" ellipse
+4 "TRIGN" ellipse
+5 "URNPH" ellipse
+*Arcs
+1 2 0.0580021 l "distance"
+2 1 0.0951601 l "distance"
+2 3 0.0920041 l "distance"
+3 2 0.0400785 l "distance"
+2 4 0.0943541 l "distance"
+4 2 0.0608418 l "distance"
+2 5 0.0922092 l "distance"
+5 2 0.0431673 l "distance"
+3 5 0.0374026 l "distance"
+5 3 0.0401955 l "distance"
+1 2 0.0580021 l "distance"
+2 1 0.0951601 l "distance"
+2 3 0.0920041 l "distance"
+3 2 0.0400785 l "distance"
+2 4 0.0943541 l "distance"
+4 2 0.0608418 l "distance"
+2 5 0.0922092 l "distance"
+5 2 0.0431673 l "distance"
+3 5 0.0374026 l "distance"
+5 3 0.0401955 l "distance"
+1 2 0.0580021 l "distance"
+2 1 0.0951601 l "distance"
+2 3 0.0920041 l "distance"
+3 2 0.0400785 l "distance"
+2 4 0.0943541 l "distance"
+4 2 0.0608418 l "distance"
+2 5 0.0922092 l "distance"
+5 2 0.0431673 l "distance"
+3 5 0.0374026 l "distance"
+5 3 0.0401955 l "distance"
+1 2 0.0580021 l "distance"
+2 1 0.0951601 l "distance"
+2 3 0.0920041 l "distance"
+3 2 0.0400785 l "distance"
+2 4 0.0943541 l "distance"
+4 2 0.0608418 l "distance"
+2 5 0.0922092 l "distance"
+5 2 0.0431673 l "distance"
+3 5 0.0374026 l "distance"
+5 3 0.0401955 l "distance"
+*Edges

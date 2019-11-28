@@ -1,0 +1,7 @@
+*Vertices 2
+1 "Service" ellipse
+2 "this is an abstraction of different tools that may be applied on TOK resources. The usage of tools may be various relatively to the nature of the task to perform and the nature of the resource." ellipse
+*Arcs
+1 2 1.0000000 l "isa"
+2 1 0.1250000 l "isa"
+*Edges

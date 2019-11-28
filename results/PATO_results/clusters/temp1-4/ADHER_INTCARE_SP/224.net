@@ -1,0 +1,13 @@
+*Vertices 2
+1 "Degree_of_Objectivity" ellipse
+2 "Subjective" ellipse
+*Arcs
+2 1 0.2375329 l "isa"
+1 2 0.1812627 l "isa"
+1 2 0.1812627 l "definition"
+2 1 0.2375329 l "definition"
+2 1 0.2375329 l "isa"
+1 2 0.1812627 l "isa"
+1 2 0.1812627 l "definition"
+2 1 0.2375329 l "definition"
+*Edges

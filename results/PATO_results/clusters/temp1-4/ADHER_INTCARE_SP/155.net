@@ -1,0 +1,17 @@
+*Vertices 2
+1 "Second" ellipse
+2 "SecondLookSurgicalProcess" ellipse
+*Arcs
+1 2 0.0552493 l "substring"
+2 1 0.2677573 l "substring"
+1 2 0.0552493 l "substring"
+2 1 0.2677573 l "substring"
+1 2 0.0552493 l "substring"
+2 1 0.2677573 l "substring"
+1 2 0.0552493 l "substring"
+2 1 0.2677573 l "substring"
+1 2 0.0552493 l "substring"
+2 1 0.2677573 l "substring"
+1 2 0.0552493 l "substring"
+2 1 0.2677573 l "substring"
+*Edges

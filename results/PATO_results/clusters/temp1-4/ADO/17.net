@@ -1,0 +1,31 @@
+*Vertices 10
+1 "Bapineuzumab" ellipse
+2 "Cevimeline" ellipse
+3 "Etanercept" ellipse
+4 "Flurizan" ellipse
+5 "Metrifonate" ellipse
+6 "Nimodipine" ellipse
+7 "Varenicline" ellipse
+8 "drug used in treatment" ellipse
+9 "flurbiprofen" ellipse
+10 "rasagiline" ellipse
+*Arcs
+1 8 1.0000000 l "isa"
+8 1 0.0067114 l "isa"
+2 8 1.0000000 l "isa"
+8 2 0.0067114 l "isa"
+3 8 1.0000000 l "isa"
+8 3 0.0067114 l "isa"
+4 8 1.0000000 l "isa"
+8 4 0.0067114 l "isa"
+5 8 1.0000000 l "isa"
+8 5 0.0067114 l "isa"
+6 8 1.0000000 l "isa"
+8 6 0.0067114 l "isa"
+7 8 1.0000000 l "isa"
+8 7 0.0067114 l "isa"
+9 8 1.0000000 l "isa"
+8 9 0.0067114 l "isa"
+10 8 1.0000000 l "isa"
+8 10 0.0067114 l "isa"
+*Edges

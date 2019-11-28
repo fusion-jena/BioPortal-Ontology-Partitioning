@@ -1,0 +1,13 @@
+*Vertices 2
+1 "controller role" ellipse
+2 "controlling role" ellipse
+*Arcs
+1 2 0.3835859 l "isa"
+2 1 0.3223293 l "isa"
+1 2 0.3835859 l "distance"
+2 1 0.3223293 l "distance"
+1 2 0.3835859 l "isa"
+2 1 0.3223293 l "isa"
+1 2 0.3835859 l "distance"
+2 1 0.3223293 l "distance"
+*Edges

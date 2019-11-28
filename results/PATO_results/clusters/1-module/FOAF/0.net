@@ -1,0 +1,10 @@
+*Vertices 5
+1 "CreativeWork" ellipse
+2 "Class" ellipse
+3 "Label Property" ellipse
+4 "Project" ellipse
+5 "Spatial Thing" ellipse
+*Arcs
+5 5 0.5000000 l "based near"
+5 5 0.5000000 l "based near"
+*Edges

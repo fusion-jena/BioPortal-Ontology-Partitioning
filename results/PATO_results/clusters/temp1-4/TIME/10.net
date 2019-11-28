@@ -1,0 +1,9 @@
+*Vertices 2
+1 "minutes"
+2 "minute"
+*Arcs
+1 2 0.4000000 l "substring"
+2 1 0.4000000 l "substring"
+1 2 0.4000000 l "distance"
+2 1 0.4000000 l "distance"
+*Edges

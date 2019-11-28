@@ -1,0 +1,285 @@
+*Vertices 80
+1 "Tricalcium phosphate" ellipse
+2 "Silicon-substituted tricalcium phosphate and hydroxyapatite" ellipse
+3 "Polycaprolactone-hydroxyapatite-collagen" ellipse
+4 "Polycaprolactone-tricalcium phosphate" ellipse
+5 "Calcium-phosphate based ceramic-chitosan" ellipse
+6 "Ultra high molecular weight polyethylene" ellipse
+7 "Bioglass" ellipse
+8 "Collagen" ellipse
+9 "Chitosan" ellipse
+10 "Formalin fixed paraffin embedded (FFPE) protocol" ellipse
+11 "Hydroxyapatite" ellipse
+12 "Polycaprolactone" ellipse
+13 "AFM image" ellipse
+14 "Polylactic-co-glycolic acid" ellipse
+15 "Extracellular matrix" ellipse
+16 "SPCL-Si" ellipse
+17 "Collagen-polylactic-co-glycolic acid" ellipse
+18 "Polycaprolactone-polylactic-co-glycolic acid" ellipse
+19 "Bioglass-collagen-phosphatidylserine" ellipse
+20 "Collagen-glycosaminoglycan" ellipse
+21 "Density" ellipse
+22 "Young's module" ellipse
+23 "Pore shape" ellipse
+24 "Resilience" ellipse
+25 "Cube" ellipse
+26 "Intrinsic property" ellipse
+27 "Physical property" ellipse
+28 "Chemical property" ellipse
+29 "Hydrophilicity" ellipse
+30 "Hydrophobicity" ellipse
+31 "Electrical conductivity" ellipse
+32 "Thermal conductivity" ellipse
+33 "Cell quantity" ellipse
+34 "Pore size distribution" ellipse
+35 "Biomolecular analysis" ellipse
+36 "Cell concentration" ellipse
+37 "Stainless steel" ellipse
+38 "Alumina" ellipse
+39 "Polylactic acid" ellipse
+40 "Ultimate tensile strength" ellipse
+41 "Bulk modulus" ellipse
+42 "Compression test" ellipse
+43 "Tensile test" ellipse
+44 "Histochemistry stained tissue" ellipse
+45 "Agarose gel image" ellipse
+46 "Fracture maximum load" ellipse
+47 "Fracture maximum strain" ellipse
+48 "Maximum load" ellipse
+49 "Maximum strain" ellipse
+50 "Polyethylene glycol" ellipse
+51 "Scaffold property" ellipse
+52 "Mechanical property" ellipse
+53 "Morphological property" ellipse
+54 "Neoformed tissue" ellipse
+55 "Disk" ellipse
+56 "Gender" ellipse
+57 "Bone marrow" ellipse
+58 "Calcium oxide" ellipse
+59 "Calcium carbonate" ellipse
+60 "Gypsum" ellipse
+61 "Growth environment" ellipse
+62 "Fracture test" ellipse
+63 "Torsion test" ellipse
+64 "Antibody" ellipse
+65 "Primer" ellipse
+66 "DNA-polymerase" ellipse
+67 "Electrophoresis gel" ellipse
+68 "Torsion modulus" ellipse
+69 "Alginate" ellipse
+70 "Polyglycolic acid" ellipse
+71 "Thermoplasticity" ellipse
+72 "Flexural strength" ellipse
+73 "Poly-L-lactide" ellipse
+74 "Growth factor" ellipse
+75 "Growth factor concentration" ellipse
+76 "Growth factor species" ellipse
+77 "Growth factor isoform" ellipse
+78 "Silk" ellipse
+79 "Baghdadite-polycaprolactone-glass nanoparticle" ellipse
+80 "Health status" ellipse
+*Arcs
+52 51 0.0833333 l "isa"
+51 52 0.1666667 l "isa"
+53 51 0.2500000 l "isa"
+51 53 0.1666667 l "isa"
+21 52 0.1428571 l "isa"
+52 21 0.0833333 l "isa"
+22 52 0.1428571 l "isa"
+52 22 0.0833333 l "isa"
+24 52 0.1428571 l "isa"
+52 24 0.0833333 l "isa"
+27 26 0.1666667 l "isa"
+26 27 0.2000000 l "isa"
+28 26 0.1250000 l "isa"
+26 28 0.2000000 l "isa"
+29 28 0.1111111 l "isa"
+28 29 0.1250000 l "isa"
+30 28 0.0500000 l "isa"
+28 30 0.1250000 l "isa"
+31 27 0.2000000 l "isa"
+27 31 0.1666667 l "isa"
+32 27 0.2000000 l "isa"
+27 32 0.1666667 l "isa"
+40 52 0.2000000 l "isa"
+52 40 0.0833333 l "isa"
+41 52 0.1428571 l "isa"
+52 41 0.0833333 l "isa"
+46 52 0.2000000 l "isa"
+52 46 0.0833333 l "isa"
+47 52 0.2000000 l "isa"
+52 47 0.0833333 l "isa"
+68 52 0.2500000 l "isa"
+52 68 0.0833333 l "isa"
+48 52 0.2000000 l "isa"
+52 48 0.0833333 l "isa"
+49 52 0.2000000 l "isa"
+52 49 0.0833333 l "isa"
+71 27 0.0625000 l "isa"
+27 71 0.1666667 l "isa"
+72 52 0.2500000 l "isa"
+52 72 0.0833333 l "isa"
+21 42 0.1428571 l "definition"
+42 21 0.2000000 l "definition"
+21 43 0.1428571 l "definition"
+43 21 0.1250000 l "definition"
+21 62 0.1428571 l "definition"
+62 21 0.1111111 l "definition"
+21 63 0.1428571 l "definition"
+63 21 0.1666667 l "definition"
+22 42 0.1428571 l "definition"
+42 22 0.2000000 l "definition"
+22 43 0.1428571 l "definition"
+43 22 0.1250000 l "definition"
+22 62 0.1428571 l "definition"
+62 22 0.1111111 l "definition"
+22 63 0.1428571 l "definition"
+63 22 0.1666667 l "definition"
+24 42 0.1428571 l "definition"
+42 24 0.2000000 l "definition"
+24 43 0.1428571 l "definition"
+43 24 0.1250000 l "definition"
+24 62 0.1428571 l "definition"
+62 24 0.1111111 l "definition"
+24 63 0.1428571 l "definition"
+63 24 0.1666667 l "definition"
+30 38 0.0500000 l "definition"
+38 30 0.2000000 l "definition"
+30 7 0.0500000 l "definition"
+7 30 0.1666667 l "definition"
+30 1 0.0500000 l "definition"
+1 30 0.1250000 l "definition"
+30 8 0.0500000 l "definition"
+8 30 0.0833333 l "definition"
+30 12 0.0500000 l "definition"
+12 30 0.0909091 l "definition"
+30 2 0.0500000 l "definition"
+2 30 0.1250000 l "definition"
+30 3 0.0500000 l "definition"
+3 30 0.0909091 l "definition"
+30 4 0.0500000 l "definition"
+4 30 0.1111111 l "definition"
+30 16 0.0500000 l "definition"
+16 30 0.1666667 l "definition"
+30 17 0.0500000 l "definition"
+17 30 0.1111111 l "definition"
+30 18 0.0500000 l "definition"
+18 30 0.1428571 l "definition"
+30 79 0.0500000 l "definition"
+79 30 0.1250000 l "definition"
+30 19 0.0500000 l "definition"
+19 30 0.1428571 l "definition"
+30 20 0.0500000 l "definition"
+20 30 0.1666667 l "definition"
+31 37 0.2000000 l "definition"
+37 31 0.2000000 l "definition"
+32 37 0.2000000 l "definition"
+37 32 0.2000000 l "definition"
+40 43 0.2000000 l "definition"
+43 40 0.1250000 l "definition"
+40 62 0.2000000 l "definition"
+62 40 0.1111111 l "definition"
+41 42 0.1428571 l "definition"
+42 41 0.2000000 l "definition"
+41 43 0.1428571 l "definition"
+43 41 0.1250000 l "definition"
+41 62 0.1428571 l "definition"
+62 41 0.1111111 l "definition"
+41 63 0.1428571 l "definition"
+63 41 0.1666667 l "definition"
+46 62 0.2000000 l "definition"
+62 46 0.1111111 l "definition"
+47 62 0.2000000 l "definition"
+62 47 0.1111111 l "definition"
+68 63 0.2500000 l "definition"
+63 68 0.1666667 l "definition"
+48 43 0.2000000 l "definition"
+43 48 0.1250000 l "definition"
+49 43 0.2000000 l "definition"
+43 49 0.1250000 l "definition"
+71 6 0.0625000 l "definition"
+6 71 0.1666667 l "definition"
+71 39 0.0625000 l "definition"
+39 71 0.2000000 l "definition"
+71 12 0.0625000 l "definition"
+12 71 0.0909091 l "definition"
+71 50 0.0625000 l "definition"
+50 71 0.2000000 l "definition"
+71 70 0.0625000 l "definition"
+70 71 0.2500000 l "definition"
+71 14 0.0625000 l "definition"
+14 71 0.1666667 l "definition"
+71 73 0.0625000 l "definition"
+73 71 0.2500000 l "definition"
+71 3 0.0625000 l "definition"
+3 71 0.0909091 l "definition"
+71 4 0.0625000 l "definition"
+4 71 0.1111111 l "definition"
+71 16 0.0625000 l "definition"
+16 71 0.1666667 l "definition"
+71 17 0.0625000 l "definition"
+17 71 0.1111111 l "definition"
+71 18 0.0625000 l "definition"
+18 71 0.1428571 l "definition"
+71 79 0.0625000 l "definition"
+79 71 0.1250000 l "definition"
+72 62 0.2500000 l "definition"
+62 72 0.1111111 l "definition"
+74 61 0.1666667 l "definition"
+61 74 0.1111111 l "definition"
+75 61 0.2500000 l "definition"
+61 75 0.1111111 l "definition"
+76 61 0.2500000 l "definition"
+61 76 0.1111111 l "definition"
+77 61 0.2500000 l "definition"
+61 77 0.1111111 l "definition"
+7 19 0.1666667 l "substring"
+19 7 0.1428571 l "substring"
+1 2 0.1250000 l "substring"
+2 1 0.1250000 l "substring"
+1 4 0.1250000 l "substring"
+4 1 0.1111111 l "substring"
+8 3 0.0833333 l "substring"
+3 8 0.0909091 l "substring"
+8 17 0.0833333 l "substring"
+17 8 0.1111111 l "substring"
+8 19 0.0833333 l "substring"
+19 8 0.1428571 l "substring"
+8 20 0.0833333 l "substring"
+20 8 0.1666667 l "substring"
+9 5 0.1428571 l "substring"
+5 9 0.1250000 l "substring"
+11 2 0.1250000 l "substring"
+2 11 0.1250000 l "substring"
+11 3 0.1250000 l "substring"
+3 11 0.0909091 l "substring"
+12 3 0.0909091 l "substring"
+3 12 0.0909091 l "substring"
+12 4 0.0909091 l "substring"
+4 12 0.1111111 l "substring"
+12 18 0.0909091 l "substring"
+18 12 0.1428571 l "substring"
+12 79 0.0909091 l "substring"
+79 12 0.1250000 l "substring"
+46 48 0.2000000 l "substring"
+48 46 0.2000000 l "substring"
+47 49 0.2000000 l "substring"
+49 47 0.2000000 l "substring"
+14 17 0.1666667 l "substring"
+17 14 0.1111111 l "substring"
+14 18 0.1666667 l "substring"
+18 14 0.1428571 l "substring"
+74 75 0.1666667 l "substring"
+75 74 0.2500000 l "substring"
+74 76 0.1666667 l "substring"
+76 74 0.2500000 l "substring"
+74 77 0.1666667 l "substring"
+77 74 0.2500000 l "substring"
+55 78 0.2500000 l "distance"
+78 55 0.1428571 l "distance"
+27 28 0.1666667 l "distance"
+28 27 0.1250000 l "distance"
+29 30 0.1111111 l "distance"
+30 29 0.0500000 l "distance"
+*Edges

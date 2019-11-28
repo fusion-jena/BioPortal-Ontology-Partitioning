@@ -1,0 +1,59 @@
+*Vertices 14
+1 "Assessment" ellipse
+2 "AutomaticMotivationAssessment" ellipse
+3 "COMBAssessment" ellipse
+4 "Capability" ellipse
+5 "Motivation" ellipse
+6 "Opportunity" ellipse
+7 "PhysicalCapabilityAssessment" ellipse
+8 "PhysicalOpportunityAssessment" ellipse
+9 "PsychologicalCapabilityAssessment" ellipse
+10 "ReflectiveMotivationAssessment" ellipse
+11 "SocialOpportunityAssessment" ellipse
+12 "TDFDomain" ellipse
+13 "Thing"
+14 "integer"
+*Arcs
+2 3 0.3333333 l "isa"
+3 2 0.1111111 l "isa"
+3 1 0.2222222 l "isa"
+1 3 0.1428571 l "isa"
+7 3 0.3333333 l "isa"
+3 7 0.1111111 l "isa"
+8 3 0.3333333 l "isa"
+3 8 0.1111111 l "isa"
+9 3 0.3333333 l "isa"
+3 9 0.1111111 l "isa"
+10 3 0.3333333 l "isa"
+3 10 0.1111111 l "isa"
+11 3 0.3333333 l "isa"
+3 11 0.1111111 l "isa"
+1 14 0.0714286 l "assessmentFinalScore"
+14 1 0.3333333 l "assessmentFinalScore"
+1 2 0.0714286 l "substring"
+2 1 0.3333333 l "substring"
+1 3 0.1428571 l "substring"
+3 1 0.2222222 l "substring"
+1 7 0.0714286 l "substring"
+7 1 0.3333333 l "substring"
+1 8 0.0714286 l "substring"
+8 1 0.3333333 l "substring"
+1 9 0.0714286 l "substring"
+9 1 0.3333333 l "substring"
+1 10 0.0714286 l "substring"
+10 1 0.3333333 l "substring"
+1 11 0.0714286 l "substring"
+11 1 0.3333333 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.3333333 l "substring"
+4 7 0.3333333 l "substring"
+7 4 0.3333333 l "substring"
+4 9 0.3333333 l "substring"
+9 4 0.3333333 l "substring"
+5 10 0.3333333 l "substring"
+10 5 0.3333333 l "substring"
+6 8 0.3333333 l "substring"
+8 6 0.3333333 l "substring"
+6 11 0.3333333 l "substring"
+11 6 0.3333333 l "substring"
+*Edges

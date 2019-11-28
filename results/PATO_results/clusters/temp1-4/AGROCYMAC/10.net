@@ -1,0 +1,31 @@
+*Vertices 4
+1 "particle sizing" ellipse
+2 "particle size" ellipse
+3 "particle size above one micrometer" ellipse
+4 "particle sizing result" ellipse
+*Arcs
+3 2 0.5125002 l "isa"
+2 3 0.4070185 l "isa"
+1 4 0.3770778 l "substring"
+4 1 0.3860081 l "substring"
+2 3 0.4070185 l "substring"
+3 2 0.5125002 l "substring"
+1 2 0.3294163 l "distance"
+2 1 0.1658500 l "distance"
+3 2 0.5125002 l "isa"
+2 3 0.4070185 l "isa"
+1 4 0.3770778 l "substring"
+4 1 0.3860081 l "substring"
+2 3 0.4070185 l "substring"
+3 2 0.5125002 l "substring"
+1 2 0.3294163 l "distance"
+2 1 0.1658500 l "distance"
+3 2 0.5125002 l "isa"
+2 3 0.4070185 l "isa"
+1 4 0.3770778 l "substring"
+4 1 0.3860081 l "substring"
+2 3 0.4070185 l "substring"
+3 2 0.5125002 l "substring"
+1 2 0.3294163 l "distance"
+2 1 0.1658500 l "distance"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "particle size" ellipse
+2 "particle size above one micrometer" ellipse
+*Arcs
+2 1 0.5000000 l "isa"
+1 2 0.3333333 l "isa"
+1 2 0.3333333 l "substring"
+2 1 0.5000000 l "substring"
+*Edges

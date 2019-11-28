@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Some_repetitive_use_of_objects" ellipse
+2 "useobj_Some_repetitive_use_of_objects"
+*Arcs
+1 2 0.3847497 l "substring"
+2 1 0.3888492 l "substring"
+1 2 0.3847497 l "substring"
+2 1 0.3888492 l "substring"
+1 2 0.3847497 l "substring"
+2 1 0.3888492 l "substring"
+*Edges

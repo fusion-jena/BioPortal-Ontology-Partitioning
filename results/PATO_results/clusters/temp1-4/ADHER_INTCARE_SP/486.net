@@ -1,0 +1,29 @@
+*Vertices 2
+1 "ECChemo" ellipse
+2 "FECChemo" ellipse
+*Arcs
+1 2 0.0892353 l "substring"
+2 1 0.1037704 l "substring"
+1 2 0.0892353 l "distance"
+2 1 0.1037704 l "distance"
+1 2 0.0892353 l "substring"
+2 1 0.1037704 l "substring"
+1 2 0.0892353 l "distance"
+2 1 0.1037704 l "distance"
+1 2 0.0892353 l "substring"
+2 1 0.1037704 l "substring"
+1 2 0.0892353 l "distance"
+2 1 0.1037704 l "distance"
+1 2 0.0892353 l "substring"
+2 1 0.1037704 l "substring"
+1 2 0.0892353 l "distance"
+2 1 0.1037704 l "distance"
+1 2 0.0892353 l "substring"
+2 1 0.1037704 l "substring"
+1 2 0.0892353 l "distance"
+2 1 0.1037704 l "distance"
+1 2 0.0892353 l "substring"
+2 1 0.1037704 l "substring"
+1 2 0.0892353 l "distance"
+2 1 0.1037704 l "distance"
+*Edges

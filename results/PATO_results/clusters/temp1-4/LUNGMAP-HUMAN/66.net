@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Anglo-Kabarda" ellipse
+2 "Kabarda" ellipse
+*Arcs
+1 2 0.5498824 l "substring"
+2 1 0.3196491 l "substring"
+1 2 0.5498824 l "substring"
+2 1 0.3196491 l "substring"
+1 2 0.5498824 l "substring"
+2 1 0.3196491 l "substring"
+*Edges

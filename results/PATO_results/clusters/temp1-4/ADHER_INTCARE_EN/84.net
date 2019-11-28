@@ -1,0 +1,18 @@
+*Vertices 3
+1 "Affect" ellipse
+2 "Distant_or_Preoccupied_Affect" ellipse
+3 "Showing_Emotion" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.2854434 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1365164 l "isa"
+1 2 0.2854434 l "substring"
+2 1 1.0000000 l "substring"
+2 1 1.0000000 l "isa"
+1 2 0.2854434 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1365164 l "isa"
+1 2 0.2854434 l "substring"
+2 1 1.0000000 l "substring"
+*Edges

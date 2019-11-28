@@ -1,0 +1,73 @@
+*Vertices 14
+1 "Psychiatric Disorders" ellipse
+2 "Anosmia" ellipse
+3 "Anorgasmia" ellipse
+4 "Delayed orgasm" ellipse
+5 "Libido decreased" ellipse
+6 "Libido increased" ellipse
+7 "Grade 1 Anorgasmia" ellipse
+8 "Grade 1 Anosmia" ellipse
+9 "Grade 1 Delayed orgasm" ellipse
+10 "Grade 1 Libido decreased" ellipse
+11 "Grade 1 Libido increased" ellipse
+12 "Grade 2 Anorgasmia" ellipse
+13 "Grade 2 Delayed orgasm" ellipse
+14 "Grade 2 Libido decreased" ellipse
+*Arcs
+3 1 0.1666667 l "isa"
+1 3 0.0344828 l "isa"
+4 1 0.2000000 l "isa"
+1 4 0.0344828 l "isa"
+5 1 0.1666667 l "isa"
+1 5 0.0344828 l "isa"
+6 1 0.2500000 l "isa"
+1 6 0.0344828 l "isa"
+7 3 0.5000000 l "isa"
+3 7 0.3333333 l "isa"
+8 2 0.2000000 l "isa"
+2 8 0.2857143 l "isa"
+9 4 0.6666667 l "isa"
+4 9 0.4000000 l "isa"
+10 5 0.5000000 l "isa"
+5 10 0.3333333 l "isa"
+11 6 0.5000000 l "isa"
+6 11 0.5000000 l "isa"
+12 3 0.6666667 l "isa"
+3 12 0.3333333 l "isa"
+13 4 0.6666667 l "isa"
+4 13 0.4000000 l "isa"
+14 5 0.5000000 l "isa"
+5 14 0.3333333 l "isa"
+2 8 0.2857143 l "substring"
+8 2 0.2000000 l "substring"
+3 7 0.3333333 l "substring"
+7 3 0.5000000 l "substring"
+3 12 0.3333333 l "substring"
+12 3 0.6666667 l "substring"
+4 9 0.4000000 l "substring"
+9 4 0.6666667 l "substring"
+4 13 0.4000000 l "substring"
+13 4 0.6666667 l "substring"
+5 10 0.3333333 l "substring"
+10 5 0.5000000 l "substring"
+5 14 0.3333333 l "substring"
+14 5 0.5000000 l "substring"
+6 11 0.5000000 l "substring"
+11 6 0.5000000 l "substring"
+2 3 0.1428571 l "distance"
+3 2 0.1666667 l "distance"
+5 6 0.1666667 l "distance"
+6 5 0.2500000 l "distance"
+7 8 0.2500000 l "distance"
+8 7 0.1000000 l "distance"
+7 12 0.2500000 l "distance"
+12 7 0.3333333 l "distance"
+9 13 0.3333333 l "distance"
+13 9 0.3333333 l "distance"
+10 11 0.2500000 l "distance"
+11 10 0.2500000 l "distance"
+10 14 0.2500000 l "distance"
+14 10 0.2500000 l "distance"
+11 14 0.2500000 l "distance"
+14 11 0.2500000 l "distance"
+*Edges

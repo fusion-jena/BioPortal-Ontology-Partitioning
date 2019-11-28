@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Length" ellipse
+2 "Length unit" ellipse
+*Arcs
+1 2 0.2500000 l "definition"
+2 1 0.2222222 l "definition"
+1 2 0.2500000 l "substring"
+2 1 0.2222222 l "substring"
+*Edges

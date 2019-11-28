@@ -1,0 +1,15 @@
+*Vertices 4
+1 "mesenchymal cell" ellipse
+2 "mesenchymal stromal cell" ellipse
+3 "proliferative mesenchymal progenitor" ellipse
+4 "unclassified mesenchymal cell" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1000000 l "isa"
+3 1 1.0000000 l "isa"
+1 3 0.1000000 l "isa"
+4 1 1.0000000 l "isa"
+1 4 0.2000000 l "isa"
+1 4 0.2000000 l "substring"
+4 1 1.0000000 l "substring"
+*Edges

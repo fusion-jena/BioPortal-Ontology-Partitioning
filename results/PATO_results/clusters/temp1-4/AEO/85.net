@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Mild cognitive Impairment" ellipse
+2 "thing related to mild stage" ellipse
+*Arcs
+1 2 0.2922091 l "isa"
+2 1 0.2049858 l "isa"
+1 2 0.2922091 l "isa"
+2 1 0.2049858 l "isa"
+1 2 0.2922091 l "isa"
+2 1 0.2049858 l "isa"
+*Edges

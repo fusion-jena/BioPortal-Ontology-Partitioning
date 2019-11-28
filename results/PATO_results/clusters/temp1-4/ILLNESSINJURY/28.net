@@ -1,0 +1,25 @@
+*Vertices 2
+1 "tissue" ellipse
+2 "multi-tissue structure" ellipse
+*Arcs
+2 1 0.5368403 l "definition"
+1 2 0.2646964 l "definition"
+1 2 0.2646964 l "substring"
+2 1 0.5368403 l "substring"
+2 1 0.5368403 l "definition"
+1 2 0.2646964 l "definition"
+1 2 0.2646964 l "substring"
+2 1 0.5368403 l "substring"
+2 1 0.5368403 l "definition"
+1 2 0.2646964 l "definition"
+1 2 0.2646964 l "substring"
+2 1 0.5368403 l "substring"
+2 1 0.5368403 l "definition"
+1 2 0.2646964 l "definition"
+1 2 0.2646964 l "substring"
+2 1 0.5368403 l "substring"
+2 1 0.5368403 l "definition"
+1 2 0.2646964 l "definition"
+1 2 0.2646964 l "substring"
+2 1 0.5368403 l "substring"
+*Edges

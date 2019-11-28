@@ -1,0 +1,11 @@
+*Vertices 2
+1 "doxepin" ellipse
+2 "loxapine" ellipse
+*Arcs
+1 2 0.2196070 l "distance"
+2 1 0.1591897 l "distance"
+1 2 0.2196070 l "distance"
+2 1 0.1591897 l "distance"
+1 2 0.2196070 l "distance"
+2 1 0.1591897 l "distance"
+*Edges

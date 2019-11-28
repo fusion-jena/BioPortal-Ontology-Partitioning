@@ -1,0 +1,117 @@
+*Vertices 50
+1 "Site Management" ellipse
+2 "Import-Export License" ellipse
+3 "Import-Export License Application" ellipse
+4 "Investigational Medicinal Product" ellipse
+5 "License" ellipse
+6 "Notification of Regulatory Identification Number" ellipse
+7 "Protocol Amendment" ellipse
+8 "Protocol Amendment Signature Page" ellipse
+9 "Quality Plan" ellipse
+10 "Location" ellipse
+11 "Number" ellipse
+12 "Discrete" ellipse
+13 "Acceptance of Investigator Brochure" ellipse
+14 "Approval" ellipse
+15 "Certificate of Analysis" ellipse
+16 "Debarment Statement" ellipse
+17 "General Trial Management Communications" ellipse
+18 "General Trial Management Meeting Material" ellipse
+19 "General Trial Management Tracking Document" ellipse
+20 "IP Regulatory Release" ellipse
+21 "IRB-IEC Approval" ellipse
+22 "IRB-IEC Approved Subject Participation" ellipse
+23 "IRB-IEC GCP Compliance Statement" ellipse
+24 "IRB-IEC Notification of Trial Termination" ellipse
+25 "Investigator Brochure" ellipse
+26 "Investigator Regulatory Agreement" ellipse
+27 "Laboratory Certification" ellipse
+28 "Local Laboratory Certification or Accreditation" ellipse
+29 "Local Laboratory Normal Ranges" ellipse
+30 "Medical Monitoring Plan" ellipse
+31 "Monitoring Plan" ellipse
+32 "Normal Ranges" ellipse
+33 "Notification of Trial Termination" ellipse
+34 "Other Approvals" ellipse
+35 "Protocol" ellipse
+36 "Protocol Deviations" ellipse
+37 "Protocol Signature Page" ellipse
+38 "Protocol Synopsis" ellipse
+39 "Regulatory" ellipse
+40 "Regulatory Report" ellipse
+41 "Regulatory Submission" ellipse
+42 "Reserved T104.11.30" ellipse
+43 "Reserved T104.11.31" ellipse
+44 "Statistical Analysis Plan" ellipse
+45 "Statistics" ellipse
+46 "Subject Participation Form" ellipse
+47 "TSE Statement" ellipse
+48 "Trial Management" ellipse
+49 "Trial Management Plan" ellipse
+50 "Trial Status Report" ellipse
+*Arcs
+11 12 0.3695652 l "isa"
+12 11 0.3434344 l "isa"
+11 12 0.3695652 l "isa"
+12 11 0.3434344 l "isa"
+2 4 0.3333333 l "isa"
+4 2 0.3333333 l "isa"
+3 4 0.3333333 l "isa"
+4 3 0.3333333 l "isa"
+4 39 0.3333333 l "isa"
+39 4 0.0625000 l "isa"
+11 6 0.2608696 l "substring"
+6 11 0.3333333 l "substring"
+13 25 0.5000000 l "substring"
+25 13 0.5000000 l "substring"
+14 21 0.1666667 l "substring"
+21 14 0.5000000 l "substring"
+14 34 0.1666667 l "substring"
+34 14 0.5000000 l "substring"
+17 48 0.5000000 l "substring"
+48 17 0.0833333 l "substring"
+18 48 0.5000000 l "substring"
+48 18 0.0833333 l "substring"
+19 48 0.5000000 l "substring"
+48 19 0.0833333 l "substring"
+20 39 0.5000000 l "substring"
+39 20 0.0625000 l "substring"
+24 33 0.5000000 l "substring"
+33 24 0.5000000 l "substring"
+2 3 0.3333333 l "substring"
+3 2 0.3333333 l "substring"
+2 5 0.3333333 l "substring"
+5 2 0.3333333 l "substring"
+3 5 0.3333333 l "substring"
+5 3 0.3333333 l "substring"
+26 39 0.5000000 l "substring"
+39 26 0.0625000 l "substring"
+27 28 0.5000000 l "substring"
+28 27 0.5000000 l "substring"
+29 32 0.5000000 l "substring"
+32 29 0.5000000 l "substring"
+30 31 0.5000000 l "substring"
+31 30 0.5000000 l "substring"
+6 39 0.3333333 l "substring"
+39 6 0.0625000 l "substring"
+35 7 0.1666667 l "substring"
+7 35 0.3333333 l "substring"
+35 8 0.1666667 l "substring"
+8 35 0.3333333 l "substring"
+35 36 0.1666667 l "substring"
+36 35 0.5000000 l "substring"
+35 37 0.1666667 l "substring"
+37 35 0.5000000 l "substring"
+35 38 0.1666667 l "substring"
+38 35 0.5000000 l "substring"
+7 8 0.3333333 l "substring"
+8 7 0.3333333 l "substring"
+39 40 0.0625000 l "substring"
+40 39 0.5000000 l "substring"
+39 41 0.0625000 l "substring"
+41 39 0.5000000 l "substring"
+48 49 0.0833333 l "substring"
+49 48 0.5000000 l "substring"
+42 43 0.5000000 l "distance"
+43 42 0.5000000 l "distance"
+*Edges

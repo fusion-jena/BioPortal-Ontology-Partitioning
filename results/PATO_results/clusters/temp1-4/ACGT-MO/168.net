@@ -1,0 +1,14 @@
+*Vertices 3
+1 "FrequencyRecordingProcess" ellipse
+2 "RecordingProcess" ellipse
+3 "WeightRecordingProcess" ellipse
+*Arcs
+1 2 0.2857143 l "isa"
+2 1 0.0666667 l "isa"
+3 2 0.3333333 l "isa"
+2 3 0.0666667 l "isa"
+1 2 0.2857143 l "substring"
+2 1 0.0666667 l "substring"
+2 3 0.0666667 l "substring"
+3 2 0.3333333 l "substring"
+*Edges

@@ -1,0 +1,9 @@
+*Vertices 2
+1 "hill spacing" ellipse
+2 "hill" ellipse
+*Arcs
+1 2 0.4000000 l "definition"
+2 1 0.0400000 l "definition"
+1 2 0.4000000 l "substring"
+2 1 0.0400000 l "substring"
+*Edges

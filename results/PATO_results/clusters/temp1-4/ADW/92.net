@@ -1,0 +1,39 @@
+*Vertices 8
+1 "Confusion" ellipse
+2 "Delusion and paranoia" ellipse
+3 "Difficulty in doing tasks involving multiple steps" ellipse
+4 "Impulsive behavior" ellipse
+5 "Increased memory loss and confusion" ellipse
+6 "Problems coping with new situations" ellipse
+7 "Problems recognizing family and friends" ellipse
+8 "Symptom of moderate AD" ellipse
+*Arcs
+2 8 1.0000000 l "isa"
+8 2 0.1172156 l "isa"
+3 8 0.4375000 l "isa"
+8 3 0.1172156 l "isa"
+4 8 0.4375000 l "isa"
+8 4 0.1172156 l "isa"
+5 8 0.3587786 l "isa"
+8 5 0.0983774 l "isa"
+6 8 0.4375000 l "isa"
+8 6 0.1172156 l "isa"
+7 8 0.4375000 l "isa"
+8 7 0.1172156 l "isa"
+1 5 0.1933638 l "substring"
+5 1 0.3664122 l "substring"
+2 8 1.0000000 l "isa"
+8 2 0.1172156 l "isa"
+3 8 0.4375000 l "isa"
+8 3 0.1172156 l "isa"
+4 8 0.4375000 l "isa"
+8 4 0.1172156 l "isa"
+5 8 0.3587786 l "isa"
+8 5 0.0983774 l "isa"
+6 8 0.4375000 l "isa"
+8 6 0.1172156 l "isa"
+7 8 0.4375000 l "isa"
+8 7 0.1172156 l "isa"
+1 5 0.1933638 l "substring"
+5 1 0.3664122 l "substring"
+*Edges

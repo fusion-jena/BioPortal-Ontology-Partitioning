@@ -1,0 +1,33 @@
+*Vertices 6
+1 "Pluton" ellipse
+2 "PlutonicRock" ellipse
+3 "Patient" ellipse
+4 "PatientAccident" ellipse
+5 "PatientBehaviour" ellipse
+6 "Person" ellipse
+*Arcs
+1 2 0.2781254 l "substring"
+2 1 0.4193327 l "substring"
+1 2 0.2781254 l "substring"
+2 1 0.4193327 l "substring"
+3 6 0.1186395 l "isa"
+6 3 0.3374958 l "isa"
+1 2 0.2781254 l "substring"
+2 1 0.4193327 l "substring"
+3 4 0.1186395 l "substring"
+4 3 0.3421516 l "substring"
+3 5 0.1186395 l "substring"
+5 3 0.3421516 l "substring"
+1 6 0.1698345 l "distance"
+6 1 0.3415696 l "distance"
+3 6 0.1186395 l "isa"
+6 3 0.3374958 l "isa"
+1 2 0.2781254 l "substring"
+2 1 0.4193327 l "substring"
+3 4 0.1186395 l "substring"
+4 3 0.3421516 l "substring"
+3 5 0.1186395 l "substring"
+5 3 0.3421516 l "substring"
+1 6 0.1698345 l "distance"
+6 1 0.3415696 l "distance"
+*Edges

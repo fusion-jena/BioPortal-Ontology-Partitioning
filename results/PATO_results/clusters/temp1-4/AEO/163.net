@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Consortium to establish a registry for Alzheimer's Disease" ellipse
+2 "The Consortium to Establish a Registry for Alzheimer's Disease" ellipse
+*Arcs
+1 2 0.2377824 l "substring"
+2 1 0.2342559 l "substring"
+1 2 0.2377824 l "substring"
+2 1 0.2342559 l "substring"
+1 2 0.2377824 l "substring"
+2 1 0.2342559 l "substring"
+*Edges

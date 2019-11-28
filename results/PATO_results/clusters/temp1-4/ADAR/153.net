@@ -1,0 +1,21 @@
+*Vertices 2
+1 "SurgicalProcedure" ellipse
+2 "SurgicalSuture" ellipse
+*Arcs
+2 1 0.7705168 l "isa"
+1 2 0.1916617 l "isa"
+1 2 0.1916617 l "definition"
+2 1 0.7705168 l "definition"
+2 1 0.7705168 l "isa"
+1 2 0.1916617 l "isa"
+1 2 0.1916617 l "definition"
+2 1 0.7705168 l "definition"
+2 1 0.7705168 l "isa"
+1 2 0.1916617 l "isa"
+1 2 0.1916617 l "definition"
+2 1 0.7705168 l "definition"
+2 1 0.7705168 l "isa"
+1 2 0.1916617 l "isa"
+1 2 0.1916617 l "definition"
+2 1 0.7705168 l "definition"
+*Edges

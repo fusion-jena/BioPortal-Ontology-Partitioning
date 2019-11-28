@@ -1,0 +1,11 @@
+*Vertices 2
+1 "SE" ellipse
+2 "Seychelles" ellipse
+*Arcs
+1 2 0.0149789 l "substring"
+2 1 0.2018145 l "substring"
+1 2 0.0149789 l "substring"
+2 1 0.2018145 l "substring"
+1 2 0.0149789 l "substring"
+2 1 0.2018145 l "substring"
+*Edges

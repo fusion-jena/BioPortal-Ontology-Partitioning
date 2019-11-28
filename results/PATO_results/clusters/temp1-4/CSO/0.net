@@ -1,0 +1,23 @@
+*Vertices 10
+1 "PreparationReagentMap" ellipse
+2 "StudySample" ellipse
+3 "Restriction"
+4 "Race" ellipse
+5 "Clinical Study" ellipse
+6 "nil"
+7 "Sex" ellipse
+8 "Class"
+9 "Other Approvals" ellipse
+10 "Notification of Regulatory Identification Number" ellipse
+*Arcs
+1 2 0.0499490 l "PreparationReagentMapHasStudySample"
+2 1 0.0512886 l "PreparationReagentMapHasStudySample"
+2 1 0.0512886 l "StudySampleHasPreparationReagentMap"
+1 2 0.0499490 l "StudySampleHasPreparationReagentMap"
+1 2 0.0499490 l "PreparationReagentMapHasStudySample"
+2 1 0.0512886 l "PreparationReagentMapHasStudySample"
+2 1 0.0512886 l "StudySampleHasPreparationReagentMap"
+1 2 0.0499490 l "StudySampleHasPreparationReagentMap"
+6 7 0.0281024 l "distance"
+7 6 0.3333333 l "distance"
+*Edges

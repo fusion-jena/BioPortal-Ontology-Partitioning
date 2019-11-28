@@ -1,0 +1,39 @@
+*Vertices 4
+1 "processed material" ellipse
+2 "processed specimen" ellipse
+3 "specimen" ellipse
+4 "pool of specimens" ellipse
+*Arcs
+2 1 0.2283209 l "isa"
+1 2 0.1649223 l "isa"
+2 3 0.3589198 l "isa"
+3 2 0.1669196 l "isa"
+4 2 0.1129913 l "isa"
+2 4 0.1070604 l "isa"
+2 3 0.3589198 l "definition"
+3 2 0.1669196 l "definition"
+2 1 0.2283209 l "definition"
+1 2 0.1649223 l "definition"
+4 3 0.2361518 l "definition"
+3 4 0.1040602 l "definition"
+2 3 0.3589198 l "substring"
+3 2 0.1669196 l "substring"
+3 4 0.1040602 l "substring"
+4 3 0.2361518 l "substring"
+2 1 0.2283209 l "isa"
+1 2 0.1649223 l "isa"
+2 3 0.3589198 l "isa"
+3 2 0.1669196 l "isa"
+4 2 0.1129913 l "isa"
+2 4 0.1070604 l "isa"
+2 3 0.3589198 l "definition"
+3 2 0.1669196 l "definition"
+2 1 0.2283209 l "definition"
+1 2 0.1649223 l "definition"
+4 3 0.2361518 l "definition"
+3 4 0.1040602 l "definition"
+2 3 0.3589198 l "substring"
+3 2 0.1669196 l "substring"
+3 4 0.1040602 l "substring"
+4 3 0.2361518 l "substring"
+*Edges

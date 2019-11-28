@@ -1,0 +1,13 @@
+*Vertices 2
+1 "MonogeneanHostOrganism" ellipse
+2 "Organism" ellipse
+*Arcs
+1 2 0.5714286 l "isa"
+2 1 0.4444444 l "isa"
+2 1 0.4444444 l "hasOtherHost"
+1 2 0.5714286 l "hasOtherHost"
+2 1 0.4444444 l "hasTypeHost"
+1 2 0.5714286 l "hasTypeHost"
+1 2 0.5714286 l "substring"
+2 1 0.4444444 l "substring"
+*Edges

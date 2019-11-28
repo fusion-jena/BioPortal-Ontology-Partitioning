@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Hazard ratio" ellipse
+2 "Incidence rate" ellipse
+*Arcs
+1 2 0.3470937 l "isa"
+2 1 0.1027959 l "isa"
+1 2 0.3470937 l "isa"
+2 1 0.1027959 l "isa"
+1 2 0.3470937 l "isa"
+2 1 0.1027959 l "isa"
+*Edges

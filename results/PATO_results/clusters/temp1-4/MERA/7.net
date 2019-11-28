@@ -1,0 +1,11 @@
+*Vertices 2
+1 "Medium" ellipse
+2 "growth medium"
+*Arcs
+1 2 0.5346049 l "substring"
+2 1 0.2252213 l "substring"
+1 2 0.5346049 l "substring"
+2 1 0.2252213 l "substring"
+1 2 0.5346049 l "substring"
+2 1 0.2252213 l "substring"
+*Edges

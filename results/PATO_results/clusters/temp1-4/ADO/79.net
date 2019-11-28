@@ -1,0 +1,24 @@
+*Vertices 5
+1 "control group study arm" ellipse
+2 "control trials study arm" ellipse
+3 "off label use study arm" ellipse
+4 "open label trial study arm" ellipse
+5 "Study arm" ellipse
+*Arcs
+1 5 1.0000000 l "isa"
+5 1 0.1428571 l "isa"
+2 5 1.0000000 l "isa"
+5 2 0.1428571 l "isa"
+3 5 1.0000000 l "isa"
+5 3 0.1428571 l "isa"
+4 5 1.0000000 l "isa"
+5 4 0.1428571 l "isa"
+1 5 1.0000000 l "substring"
+5 1 0.1428571 l "substring"
+2 5 1.0000000 l "substring"
+5 2 0.1428571 l "substring"
+3 5 1.0000000 l "substring"
+5 3 0.1428571 l "substring"
+4 5 1.0000000 l "substring"
+5 4 0.1428571 l "substring"
+*Edges

@@ -1,0 +1,13 @@
+*Vertices 2
+1 "subendothelial connective tissue cell" ellipse
+2 "subendothelial connective tissue cell" ellipse
+*Arcs
+1 2 0.1048067 l "substring"
+2 1 0.3508336 l "substring"
+1 2 0.1048067 l "distance"
+2 1 0.3508336 l "distance"
+1 2 0.1048067 l "substring"
+2 1 0.3508336 l "substring"
+1 2 0.1048067 l "distance"
+2 1 0.3508336 l "distance"
+*Edges

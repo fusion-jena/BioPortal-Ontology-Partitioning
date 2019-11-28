@@ -1,0 +1,23 @@
+*Vertices 4
+1 "molecular_function" ellipse
+2 "catalytic activity" ellipse
+3 "transferase activity" ellipse
+4 "transferase activity, transferring phosphorus-containing groups" ellipse
+*Arcs
+2 1 0.2593980 l "isa"
+1 2 0.2691294 l "isa"
+3 2 0.2462730 l "isa"
+2 3 0.2593980 l "isa"
+4 3 0.2178719 l "isa"
+3 4 0.5283676 l "isa"
+3 4 0.5283676 l "substring"
+4 3 0.2178719 l "substring"
+2 1 0.2593980 l "isa"
+1 2 0.2691294 l "isa"
+3 2 0.2462730 l "isa"
+2 3 0.2593980 l "isa"
+4 3 0.2178719 l "isa"
+3 4 0.5283676 l "isa"
+3 4 0.5283676 l "substring"
+4 3 0.2178719 l "substring"
+*Edges

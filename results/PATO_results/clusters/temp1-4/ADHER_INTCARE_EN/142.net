@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Marked_difficulty_to_control" ellipse
+2 "verbalrituals_Marked_difficulty_to_control"
+*Arcs
+1 2 0.2599410 l "substring"
+2 1 0.1573658 l "substring"
+1 2 0.2599410 l "substring"
+2 1 0.1573658 l "substring"
+*Edges

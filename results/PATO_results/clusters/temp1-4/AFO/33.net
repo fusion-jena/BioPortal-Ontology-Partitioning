@@ -1,0 +1,28 @@
+*Vertices 9
+1 "solvent channel" ellipse
+2 "tubing connector" ellipse
+3 "coupling device" ellipse
+4 "sol" ellipse
+5 "dissolving" ellipse
+6 "vortexing" ellipse
+7 "mixing" ellipse
+8 "homogenization" ellipse
+9 "sorting" ellipse
+*Arcs
+1 3 0.5000000 l "isa"
+3 1 0.1428571 l "isa"
+2 3 1.0000000 l "isa"
+3 2 0.1428571 l "isa"
+5 7 0.5000000 l "isa"
+7 5 0.0476190 l "isa"
+6 7 0.5000000 l "isa"
+7 6 0.0476190 l "isa"
+8 7 1.0000000 l "isa"
+7 8 0.0476190 l "isa"
+1 4 0.5000000 l "substring"
+4 1 0.0163934 l "substring"
+4 5 0.0163934 l "substring"
+5 4 0.5000000 l "substring"
+6 9 0.5000000 l "distance"
+9 6 0.0476190 l "distance"
+*Edges

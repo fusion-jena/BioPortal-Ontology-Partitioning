@@ -1,0 +1,45 @@
+*Vertices 14
+1 "SO term" ellipse
+2 "pathogenicity island" ellipse
+3 "resolution site" ellipse
+4 "IRL" ellipse
+5 "IRR" ellipse
+6 "genomic island" ellipse
+7 "transposable element" ellipse
+8 "insertion sequence" ellipse
+9 "cointegrate" ellipse
+10 "catabolic island" ellipse
+11 "symbiosis island" ellipse
+12 "fitness island" ellipse
+13 "integrated mobile genetic element" ellipse
+14 "DNA transposon" ellipse
+*Arcs
+2 6 1.0000000 l "isa"
+6 2 0.1250000 l "isa"
+6 13 0.1250000 l "isa"
+13 6 0.5000000 l "isa"
+7 6 0.5000000 l "isa"
+6 7 0.1250000 l "isa"
+8 14 0.3333333 l "isa"
+14 8 0.1666667 l "isa"
+9 1 0.5000000 l "isa"
+1 9 0.1250000 l "isa"
+10 6 1.0000000 l "isa"
+6 10 0.1250000 l "isa"
+11 6 1.0000000 l "isa"
+6 11 0.1250000 l "isa"
+12 6 1.0000000 l "isa"
+6 12 0.1250000 l "isa"
+13 1 0.5000000 l "isa"
+1 13 0.1250000 l "isa"
+14 7 0.1666667 l "isa"
+7 14 0.5000000 l "isa"
+3 9 0.2500000 l "definition"
+9 3 0.5000000 l "definition"
+4 8 0.0625000 l "definition"
+8 4 0.3333333 l "definition"
+5 8 0.0588235 l "definition"
+8 5 0.3333333 l "definition"
+4 5 0.0625000 l "distance"
+5 4 0.0588235 l "distance"
+*Edges

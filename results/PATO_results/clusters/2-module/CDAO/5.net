@@ -1,0 +1,14 @@
+*Vertices 3
+1 "UnresolvedUnrootedTree" ellipse
+2 "FullyResolvedUnrootedTree" ellipse
+3 "UnrootedTree" ellipse
+*Arcs
+1 3 0.3333333 l "isa"
+3 1 0.2222222 l "isa"
+2 3 0.3333333 l "isa"
+3 2 0.2222222 l "isa"
+1 3 0.3333333 l "substring"
+3 1 0.2222222 l "substring"
+2 3 0.3333333 l "substring"
+3 2 0.2222222 l "substring"
+*Edges

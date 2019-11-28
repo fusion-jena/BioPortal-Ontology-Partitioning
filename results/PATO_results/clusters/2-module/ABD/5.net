@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Jaagsiekte sheep retrovirus" ellipse
+2 "Jaagsiekte sheep retrovirus" ellipse
+*Arcs
+1 2 0.0158730 l "substring"
+2 1 0.0157480 l "substring"
+1 2 0.0158730 l "distance"
+2 1 0.0157480 l "distance"
+*Edges

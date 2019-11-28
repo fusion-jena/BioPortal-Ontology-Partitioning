@@ -1,0 +1,30 @@
+*Vertices 5
+1 "Breed" ellipse
+2 "Species" ellipse
+3 "hasBreed"
+4 "hasSpecies"
+5 "isBreedOfSpecies"
+*Arcs
+1 2 0.0909091 l "isBreedOfSpecies"
+2 1 0.1000000 l "isBreedOfSpecies"
+3 3 0.2500000 l "definition"
+3 3 0.2500000 l "definition"
+4 3 0.1111111 l "definition"
+3 4 0.1250000 l "definition"
+4 5 0.1111111 l "definition"
+5 4 0.3333333 l "definition"
+4 4 0.2222222 l "definition"
+4 4 0.2222222 l "definition"
+1 3 0.1818182 l "substring"
+3 1 0.2500000 l "substring"
+1 5 0.0909091 l "substring"
+5 1 0.3333333 l "substring"
+2 4 0.2000000 l "substring"
+4 2 0.2222222 l "substring"
+2 5 0.1000000 l "substring"
+5 2 0.3333333 l "substring"
+1 3 0.1818182 l "distance"
+3 1 0.2500000 l "distance"
+2 4 0.2000000 l "distance"
+4 2 0.2222222 l "distance"
+*Edges

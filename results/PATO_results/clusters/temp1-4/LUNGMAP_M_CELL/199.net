@@ -1,0 +1,26 @@
+*Vertices 5
+1 "erythrocyte" ellipse
+2 "blood cell" ellipse
+3 "erythroid cell" ellipse
+4 "erythrocyte" ellipse
+5 "blood cell" ellipse
+*Arcs
+1 2 0.5199220 l "isa"
+2 1 0.1684811 l "isa"
+1 2 0.5199220 l "isa"
+2 1 0.1684811 l "isa"
+1 2 0.5199220 l "isa"
+2 1 0.1684811 l "isa"
+3 5 0.5000000 l "isa"
+5 3 0.2000000 l "isa"
+4 3 0.3333333 l "isa"
+3 4 0.5000000 l "isa"
+1 4 0.4800780 l "substring"
+4 1 0.6666667 l "substring"
+2 5 0.1555696 l "substring"
+5 2 0.4000000 l "substring"
+1 4 0.4800780 l "distance"
+4 1 0.6666667 l "distance"
+2 5 0.1555696 l "distance"
+5 2 0.4000000 l "distance"
+*Edges

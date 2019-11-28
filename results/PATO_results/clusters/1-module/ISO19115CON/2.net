@@ -1,0 +1,31 @@
+*Vertices 8
+1 "CI_Citation" ellipse
+2 "MD_BrowseGraphic" ellipse
+3 "MD_Scope" ellipse
+4 "MD_Constraints" ellipse
+5 "constraintApplicationScope"
+6 "reference"
+7 "responsibleParty"
+8 "useLimitation"
+*Arcs
+4 3 0.0909091 l "constraintApplicationScope"
+3 4 1.0000000 l "constraintApplicationScope"
+4 2 0.0909091 l "graphic"
+2 4 0.6666667 l "graphic"
+4 1 0.0909091 l "reference"
+1 4 1.0000000 l "reference"
+4 5 0.0454545 l "definition"
+5 4 1.0000000 l "definition"
+4 3 0.0909091 l "definition"
+3 4 1.0000000 l "definition"
+4 2 0.0909091 l "definition"
+2 4 0.6666667 l "definition"
+4 6 0.0454545 l "definition"
+6 4 1.0000000 l "definition"
+4 1 0.0909091 l "definition"
+1 4 1.0000000 l "definition"
+4 7 0.0454545 l "definition"
+7 4 1.0000000 l "definition"
+4 8 0.0454545 l "definition"
+8 4 1.0000000 l "definition"
+*Edges

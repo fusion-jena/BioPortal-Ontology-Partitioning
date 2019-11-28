@@ -1,0 +1,13 @@
+*Vertices 2
+1 "SCNN1D" ellipse
+2 "SUCNR1" ellipse
+*Arcs
+1 2 0.0656807 l "distance"
+2 1 0.0694538 l "distance"
+1 2 0.0656807 l "distance"
+2 1 0.0694538 l "distance"
+1 2 0.0656807 l "distance"
+2 1 0.0694538 l "distance"
+1 2 0.0656807 l "distance"
+2 1 0.0694538 l "distance"
+*Edges

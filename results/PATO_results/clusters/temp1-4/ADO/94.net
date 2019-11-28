@@ -1,0 +1,13 @@
+*Vertices 4
+1 "NSAID effect" ellipse
+2 "gastritis" ellipse
+3 "Restriction"
+4 "has role"
+*Arcs
+2 3 0.3333333 l "definition"
+3 2 0.0015898 l "definition"
+2 4 0.3333333 l "definition"
+4 2 0.0041152 l "definition"
+2 1 0.3333333 l "definition"
+1 2 0.1428571 l "definition"
+*Edges

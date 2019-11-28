@@ -1,0 +1,39 @@
+*Vertices 4
+1 "CRYOG" ellipse
+2 "IRBOW" ellipse
+3 "MFHED" ellipse
+4 "ORBED" ellipse
+*Arcs
+4 3 0.1019293 l "isa"
+3 4 0.0502215 l "isa"
+1 2 0.0536014 l "distance"
+2 1 0.0796904 l "distance"
+2 4 0.0802247 l "distance"
+4 2 0.0488045 l "distance"
+3 4 0.0502215 l "distance"
+4 3 0.1019293 l "distance"
+4 3 0.1019293 l "isa"
+3 4 0.0502215 l "isa"
+1 2 0.0536014 l "distance"
+2 1 0.0796904 l "distance"
+2 4 0.0802247 l "distance"
+4 2 0.0488045 l "distance"
+3 4 0.0502215 l "distance"
+4 3 0.1019293 l "distance"
+4 3 0.1019293 l "isa"
+3 4 0.0502215 l "isa"
+1 2 0.0536014 l "distance"
+2 1 0.0796904 l "distance"
+2 4 0.0802247 l "distance"
+4 2 0.0488045 l "distance"
+3 4 0.0502215 l "distance"
+4 3 0.1019293 l "distance"
+4 3 0.1019293 l "isa"
+3 4 0.0502215 l "isa"
+1 2 0.0536014 l "distance"
+2 1 0.0796904 l "distance"
+2 4 0.0802247 l "distance"
+4 2 0.0488045 l "distance"
+3 4 0.0502215 l "distance"
+4 3 0.1019293 l "distance"
+*Edges

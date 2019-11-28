@@ -1,0 +1,21 @@
+*Vertices 2
+1 "telocyte" ellipse
+2 "telocyte" ellipse
+*Arcs
+1 2 0.1969678 l "substring"
+2 1 0.1954848 l "substring"
+1 2 0.1969678 l "distance"
+2 1 0.1954848 l "distance"
+1 2 0.1969678 l "substring"
+2 1 0.1954848 l "substring"
+1 2 0.1969678 l "distance"
+2 1 0.1954848 l "distance"
+1 2 0.1969678 l "substring"
+2 1 0.1954848 l "substring"
+1 2 0.1969678 l "distance"
+2 1 0.1954848 l "distance"
+1 2 0.1969678 l "substring"
+2 1 0.1954848 l "substring"
+1 2 0.1969678 l "distance"
+2 1 0.1954848 l "distance"
+*Edges

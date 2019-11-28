@@ -1,0 +1,9 @@
+*Vertices 2
+1 "Dichotomous_Variable" ellipse
+2 "Discontinuous" ellipse
+*Arcs
+1 2 0.4000000 l "definition"
+2 1 0.2500000 l "definition"
+2 1 0.2500000 l "definition"
+1 2 0.4000000 l "definition"
+*Edges

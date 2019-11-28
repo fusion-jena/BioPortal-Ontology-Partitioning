@@ -1,0 +1,54 @@
+*Vertices 9
+1 "N-acetylglucosaminyltransferase" ellipse
+2 "UDP-GlcNAc_polypeptide_O-b-N-acetylglucosaminyltransferase" ellipse
+3 "alpha3-D-mannoside-beta1_2-N-acetylglucosaminyltransferase" ellipse
+4 "alpha3-D-mannoside-beta1_4-N-acetylglucosaminyltransferase" ellipse
+5 "alpha6-D-mannoside-beta1_2-N-acetylglucosaminyltransferase" ellipse
+6 "beta1_3-N-acetylglucosaminyltransferase" ellipse
+7 "beta4-D-mannoside-beta1_4-N-acetylglucosaminyltransferase" ellipse
+8 "dolichyl_phosphate_N-acetylglucosaminyltransferase" ellipse
+9 "i-beta1_3-N-acetylglucosaminyltransferase" ellipse
+*Arcs
+2 1 1.0000000 l "isa"
+1 2 0.1111111 l "isa"
+3 1 0.5000000 l "isa"
+1 3 0.1111111 l "isa"
+4 1 0.5000000 l "isa"
+1 4 0.1111111 l "isa"
+5 1 0.5000000 l "isa"
+1 5 0.1111111 l "isa"
+6 1 0.5000000 l "isa"
+1 6 0.1111111 l "isa"
+7 1 1.0000000 l "isa"
+1 7 0.1111111 l "isa"
+8 1 1.0000000 l "isa"
+1 8 0.1111111 l "isa"
+9 1 0.5000000 l "isa"
+1 9 0.1111111 l "isa"
+1 2 0.1111111 l "substring"
+2 1 1.0000000 l "substring"
+1 3 0.1111111 l "substring"
+3 1 0.5000000 l "substring"
+1 4 0.1111111 l "substring"
+4 1 0.5000000 l "substring"
+1 5 0.1111111 l "substring"
+5 1 0.5000000 l "substring"
+1 6 0.1111111 l "substring"
+6 1 0.5000000 l "substring"
+1 7 0.1111111 l "substring"
+7 1 1.0000000 l "substring"
+1 8 0.1111111 l "substring"
+8 1 1.0000000 l "substring"
+1 9 0.1111111 l "substring"
+9 1 0.5000000 l "substring"
+6 9 0.5000000 l "substring"
+9 6 0.5000000 l "substring"
+3 4 0.2500000 l "distance"
+4 3 0.2500000 l "distance"
+3 5 0.2500000 l "distance"
+5 3 0.2500000 l "distance"
+4 5 0.2500000 l "distance"
+5 4 0.2500000 l "distance"
+6 9 0.5000000 l "distance"
+9 6 0.5000000 l "distance"
+*Edges

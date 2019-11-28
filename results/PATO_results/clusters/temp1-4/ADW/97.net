@@ -1,0 +1,9 @@
+*Vertices 2
+1 "primary purpose design" ellipse
+2 "Purpose" ellipse
+*Arcs
+1 2 0.2899761 l "substring"
+2 1 0.2335325 l "substring"
+1 2 0.2899761 l "substring"
+2 1 0.2335325 l "substring"
+*Edges

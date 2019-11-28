@@ -1,0 +1,317 @@
+*Vertices 106
+1 "right lung lower lobar bronchus" ellipse
+2 "right lung middle lobar bronchus" ellipse
+3 "right lung upper lobar bronchus" ellipse
+4 "right lower lobe bronchiole" ellipse
+5 "right upper lobe bronchiole" ellipse
+6 "bronchiolar adventitia" ellipse
+7 "external elastic membrane" ellipse
+8 "internal elastic membrane" ellipse
+9 "left lower lobe alveolar parenchyma" ellipse
+10 "left lower lobe bronchiole" ellipse
+11 "tracheal submucosa" ellipse
+12 "bronchial submucosa" ellipse
+13 "left anterior bronchus" ellipse
+14 "left anterior basal bronchus" ellipse
+15 "inferior lingular bronchus" ellipse
+16 "left lung lower lobar bronchus" ellipse
+17 "left lung upper lobar bronchus" ellipse
+18 "left upper lobe alveolar parenchyma" ellipse
+19 "left upper lobe bronchiole" ellipse
+20 "right anterior basal segmental bronchus" ellipse
+21 "left posterior basal bronchus" ellipse
+22 "left posterior bronchus" ellipse
+23 "superior lingular bronchus" ellipse
+24 "right lower lobe visceral pleura" ellipse
+25 "right middle lobe alveolar parenchyma" ellipse
+26 "right middle lobe bronchiole" ellipse
+27 "right upper lobe visceral pleura" ellipse
+28 "alveolar duct wall" ellipse
+29 "alveolar septal crest" ellipse
+30 "bronchial smooth muscle" ellipse
+31 "ciliated cell" ellipse
+32 "left lower lobe visceral pleura" ellipse
+33 "bronchiolar smooth muscle" ellipse
+34 "postganglionic parasympathetic nerve" ellipse
+35 "pericyte" ellipse
+36 "tracheal epithelium" ellipse
+37 "subendothelial connective tissue cell" ellipse
+38 "unclassified epithelial cell" ellipse
+39 "vascular smooth muscle" ellipse
+40 "tracheal lamina propria" ellipse
+41 "left apical bronchus" ellipse
+42 "left lateral basal bronchus" ellipse
+43 "right lateral bronchus" ellipse
+44 "left upper lobe visceral pleura" ellipse
+45 "medial basal bronchus" ellipse
+46 "medial bronchus" ellipse
+47 "left lower lobe superior bronchus" ellipse
+48 "right upper lobe anterior bronchus" ellipse
+49 "left lower lobe interlobular septum" ellipse
+50 "left upper lobe interlobular septum" ellipse
+51 "respiratory bronchiolar alveolus" ellipse
+52 "right lower lobe interlobular septum" ellipse
+53 "right upper lobe interlobular septum" ellipse
+54 "bronchiolar lamina propria" ellipse
+55 "bronchial lamina propria" ellipse
+56 "right lateral basal bronchus" ellipse
+57 "right posterior basal bronchus" ellipse
+58 "right lower lobe superior bronchus" ellipse
+59 "right posterior bronchus" ellipse
+60 "preganglionic parasympathetic nerve" ellipse
+61 "right lower lobe alveolar parenchyma" ellipse
+62 "right middle lobe visceral pleura" ellipse
+63 "right upper lobe alveolar parenchyma" ellipse
+64 "pulmonary alveolar duct" ellipse
+65 "alveolus of lung" ellipse
+66 "basement membrane" ellipse
+67 "bronchial adventitia" ellipse
+68 "bronchial epithelium" ellipse
+69 "bronchial blood vessel" ellipse
+70 "respiratory bronchiolar wall" ellipse
+71 "club cell" ellipse
+72 "lymphatic vessel tunica intima" ellipse
+73 "mucus cell" ellipse
+74 "nerve fiber" ellipse
+75 "neuroendocrine cell" ellipse
+76 "neuroepithelial body" ellipse
+77 "non-adrenergic and non-cholinergic nerve" ellipse
+78 "respiratory bronchiolar epithelium" ellipse
+79 "pulmonary arteriole" ellipse
+80 "right lung" ellipse
+81 "glial cell" ellipse
+82 "serous cell" ellipse
+83 "postganglionic sympathetic nerve" ellipse
+84 "terminal bronchiolar wall" ellipse
+85 "tracheal adventitia" ellipse
+86 "tracheal smooth muscle" ellipse
+87 "trachealis muscle" ellipse
+88 "visceral connective tissue" ellipse
+89 "tracheal mucosa" ellipse
+90 "bronchial mucosa" ellipse
+91 "terminal bronchiolar epithelium" ellipse
+92 "respiratory immune system" ellipse
+93 "respiratory vascular system" ellipse
+94 "lymphoid follicle" ellipse
+95 "paracortex" ellipse
+96 "mantle zone" ellipse
+97 "marginal zone" ellipse
+98 "membranous bronchiolar wall" ellipse
+99 "membranous bronchiolar epithelium" ellipse
+100 "terminal bronchiolar epithelial cell" ellipse
+101 "respiratory bronchiolar epithelial cell" ellipse
+102 "membranous bronchiolar epithelial cell" ellipse
+103 "right anterior pulmonary nerve plexus" ellipse
+104 "right posterior pulmonary nerve plexus" ellipse
+105 "pulmonary autonomic nerve" ellipse
+106 "cortex" ellipse
+*Arcs
+64 18 0.1111111 l "isa"
+18 64 0.1428571 l "isa"
+69 93 0.2000000 l "isa"
+93 69 0.1428571 l "isa"
+31 100 0.1666667 l "isa"
+100 31 0.1000000 l "isa"
+31 101 0.1666667 l "isa"
+101 31 0.1250000 l "isa"
+31 102 0.1666667 l "isa"
+102 31 0.1000000 l "isa"
+71 100 0.2000000 l "isa"
+100 71 0.1000000 l "isa"
+71 101 0.2000000 l "isa"
+101 71 0.1250000 l "isa"
+71 102 0.2000000 l "isa"
+102 71 0.1000000 l "isa"
+73 100 0.2000000 l "isa"
+100 73 0.1000000 l "isa"
+73 102 0.2000000 l "isa"
+102 73 0.1000000 l "isa"
+75 76 0.1666667 l "isa"
+76 75 0.2000000 l "isa"
+75 100 0.1666667 l "isa"
+100 75 0.1000000 l "isa"
+75 101 0.1666667 l "isa"
+101 75 0.1250000 l "isa"
+75 102 0.1666667 l "isa"
+102 75 0.1000000 l "isa"
+76 100 0.2000000 l "isa"
+100 76 0.1000000 l "isa"
+76 101 0.2000000 l "isa"
+101 76 0.1250000 l "isa"
+76 102 0.2000000 l "isa"
+102 76 0.1000000 l "isa"
+35 37 0.1666667 l "isa"
+37 35 0.0666667 l "isa"
+82 100 0.2000000 l "isa"
+100 82 0.1000000 l "isa"
+82 102 0.2000000 l "isa"
+102 82 0.1000000 l "isa"
+38 100 0.1666667 l "isa"
+100 38 0.1000000 l "isa"
+38 101 0.1666667 l "isa"
+101 38 0.1250000 l "isa"
+38 102 0.1666667 l "isa"
+102 38 0.1000000 l "isa"
+64 61 0.1111111 l "definition"
+61 64 0.2000000 l "definition"
+64 25 0.1111111 l "definition"
+25 64 0.1666667 l "definition"
+64 63 0.1111111 l "definition"
+63 64 0.1428571 l "definition"
+64 9 0.1111111 l "definition"
+9 64 0.1428571 l "definition"
+28 64 0.1666667 l "definition"
+64 28 0.1111111 l "definition"
+65 61 0.1000000 l "definition"
+61 65 0.2000000 l "definition"
+65 25 0.1000000 l "definition"
+25 65 0.1666667 l "definition"
+65 63 0.1000000 l "definition"
+63 65 0.1428571 l "definition"
+65 9 0.1000000 l "definition"
+9 65 0.1428571 l "definition"
+65 18 0.1000000 l "definition"
+18 65 0.1428571 l "definition"
+66 68 0.0625000 l "definition"
+68 66 0.2000000 l "definition"
+66 78 0.0625000 l "definition"
+78 66 0.2000000 l "definition"
+66 36 0.0625000 l "definition"
+36 66 0.1666667 l "definition"
+66 91 0.0625000 l "definition"
+91 66 0.2000000 l "definition"
+66 99 0.0625000 l "definition"
+99 66 0.2000000 l "definition"
+68 90 0.2000000 l "definition"
+90 68 0.1428571 l "definition"
+30 90 0.1666667 l "definition"
+90 30 0.1428571 l "definition"
+6 70 0.1250000 l "definition"
+70 6 0.1428571 l "definition"
+6 84 0.1250000 l "definition"
+84 6 0.1428571 l "definition"
+6 98 0.1250000 l "definition"
+98 6 0.1428571 l "definition"
+33 70 0.1428571 l "definition"
+70 33 0.1428571 l "definition"
+33 84 0.1428571 l "definition"
+84 33 0.1428571 l "definition"
+33 98 0.1428571 l "definition"
+98 33 0.1428571 l "definition"
+74 77 0.1428571 l "definition"
+77 74 0.2000000 l "definition"
+74 34 0.1428571 l "definition"
+34 74 0.1666667 l "definition"
+74 83 0.1428571 l "definition"
+83 74 0.2000000 l "definition"
+74 60 0.1428571 l "definition"
+60 74 0.1666667 l "definition"
+77 105 0.2000000 l "definition"
+105 77 0.1428571 l "definition"
+34 105 0.1666667 l "definition"
+105 34 0.1428571 l "definition"
+78 70 0.2000000 l "definition"
+70 78 0.1428571 l "definition"
+36 89 0.1666667 l "definition"
+89 36 0.1250000 l "definition"
+81 77 0.1111111 l "definition"
+77 81 0.2000000 l "definition"
+81 34 0.1111111 l "definition"
+34 81 0.1666667 l "definition"
+81 83 0.1111111 l "definition"
+83 81 0.2000000 l "definition"
+81 60 0.1111111 l "definition"
+60 81 0.1666667 l "definition"
+83 105 0.2000000 l "definition"
+105 83 0.1428571 l "definition"
+86 89 0.2000000 l "definition"
+89 86 0.1250000 l "definition"
+88 24 0.1111111 l "definition"
+24 88 0.1666667 l "definition"
+88 62 0.1111111 l "definition"
+62 88 0.2000000 l "definition"
+88 27 0.1111111 l "definition"
+27 88 0.1666667 l "definition"
+88 32 0.1111111 l "definition"
+32 88 0.1666667 l "definition"
+88 44 0.1111111 l "definition"
+44 88 0.1666667 l "definition"
+91 84 0.2000000 l "definition"
+84 91 0.1428571 l "definition"
+40 89 0.1666667 l "definition"
+89 40 0.1250000 l "definition"
+94 106 0.1666667 l "definition"
+106 94 0.2000000 l "definition"
+96 94 0.2000000 l "definition"
+94 96 0.1666667 l "definition"
+97 94 0.2000000 l "definition"
+94 97 0.1666667 l "definition"
+99 98 0.2000000 l "definition"
+98 99 0.1428571 l "definition"
+100 91 0.1000000 l "definition"
+91 100 0.2000000 l "definition"
+54 70 0.1250000 l "definition"
+70 54 0.1428571 l "definition"
+54 84 0.1250000 l "definition"
+84 54 0.1428571 l "definition"
+54 98 0.1250000 l "definition"
+98 54 0.1428571 l "definition"
+55 90 0.1666667 l "definition"
+90 55 0.1428571 l "definition"
+101 78 0.1250000 l "definition"
+78 101 0.2000000 l "definition"
+102 99 0.1000000 l "definition"
+99 102 0.2000000 l "definition"
+60 105 0.1666667 l "definition"
+105 60 0.1428571 l "definition"
+1 80 0.1000000 l "substring"
+80 1 0.0625000 l "substring"
+80 2 0.0625000 l "substring"
+2 80 0.1111111 l "substring"
+80 3 0.0625000 l "substring"
+3 80 0.1000000 l "substring"
+95 106 0.1250000 l "substring"
+106 95 0.2000000 l "substring"
+61 63 0.2000000 l "distance"
+63 61 0.1428571 l "distance"
+4 5 0.1428571 l "distance"
+5 4 0.1428571 l "distance"
+24 27 0.1666667 l "distance"
+27 24 0.1666667 l "distance"
+67 6 0.1428571 l "distance"
+6 67 0.1250000 l "distance"
+30 33 0.1666667 l "distance"
+33 30 0.1428571 l "distance"
+7 8 0.1428571 l "distance"
+8 7 0.1250000 l "distance"
+9 18 0.1428571 l "distance"
+18 9 0.1428571 l "distance"
+10 19 0.1428571 l "distance"
+19 10 0.1428571 l "distance"
+32 44 0.1666667 l "distance"
+44 32 0.1666667 l "distance"
+34 60 0.1666667 l "distance"
+60 34 0.1666667 l "distance"
+1 3 0.1000000 l "distance"
+3 1 0.1000000 l "distance"
+89 11 0.1250000 l "distance"
+11 89 0.1111111 l "distance"
+90 12 0.1428571 l "distance"
+12 90 0.1250000 l "distance"
+13 22 0.1428571 l "distance"
+22 13 0.1428571 l "distance"
+14 21 0.1428571 l "distance"
+21 14 0.1428571 l "distance"
+15 23 0.1428571 l "distance"
+23 15 0.1428571 l "distance"
+16 17 0.1000000 l "distance"
+17 16 0.1000000 l "distance"
+49 50 0.1666667 l "distance"
+50 49 0.1666667 l "distance"
+52 53 0.1666667 l "distance"
+53 52 0.1666667 l "distance"
+54 55 0.1250000 l "distance"
+55 54 0.1666667 l "distance"
+103 104 0.2000000 l "distance"
+104 103 0.2000000 l "distance"
+*Edges
